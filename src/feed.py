@@ -3,6 +3,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from feedgen.feed import FeedGenerator
 
@@ -11,6 +12,20 @@ FEED_TITLE = "Toulouse News"
 FEED_SUBTITLE = "Auto-generated daily Toulouse digest"
 FEED_AUTHOR = "Ralph Ward"
 FEED_LANGUAGE = "fr"
+
+UTM_PARAMS = {
+    "utm_source": "lavillerose.com",
+    "utm_medium": "referral",
+    "utm_campaign": "toulouse-news",
+}
+
+
+def _with_utm(url: str) -> str:
+    parts = urlsplit(url)
+    q = dict(parse_qsl(parts.query, keep_blank_values=True))
+    for k, v in UTM_PARAMS.items():
+        q.setdefault(k, v)
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(q), parts.fragment))
 
 
 def build_feed(items: list[dict[str, Any]]) -> FeedGenerator:
@@ -34,7 +49,7 @@ def build_feed(items: list[dict[str, Any]]) -> FeedGenerator:
         fe = fg.add_entry()
         fe.id(item["url"])
         fe.title(item["title"])
-        fe.link(href=item["url"], rel="alternate")
+        fe.link(href=_with_utm(item["url"]), rel="alternate")
         fe.published(published)
         fe.updated(published)
         fe.author({"name": item["source"]})
