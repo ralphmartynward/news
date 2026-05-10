@@ -17,6 +17,7 @@ CREATE TABLE IF NOT EXISTS items (
     published_at TEXT NOT NULL,
     item_type TEXT NOT NULL,
     summary TEXT,
+    extracted_text TEXT,
     embedding BLOB NOT NULL,
     cluster_id TEXT NOT NULL,
     seen_at TEXT NOT NULL,
@@ -24,6 +25,15 @@ CREATE TABLE IF NOT EXISTS items (
 );
 CREATE INDEX IF NOT EXISTS idx_seen_at ON items(seen_at);
 CREATE INDEX IF NOT EXISTS idx_cluster_id ON items(cluster_id);
+
+CREATE TABLE IF NOT EXISTS clusters (
+    cluster_id TEXT PRIMARY KEY,
+    title TEXT NOT NULL,
+    summary TEXT NOT NULL,
+    framing_note TEXT,
+    read_for TEXT,
+    last_synthesised_at TEXT NOT NULL
+);
 """
 
 
@@ -50,29 +60,83 @@ def prune(conn: sqlite3.Connection, *, days: int = RETENTION_DAYS) -> int:
     return cur.rowcount
 
 
+def _row_to_item(r: sqlite3.Row) -> dict[str, Any]:
+    return {
+        "url": r["url"],
+        "source": r["source"],
+        "title": r["title"],
+        "published_at": r["published_at"],
+        "item_type": r["item_type"],
+        "summary": r["summary"],
+        "extracted_text": r["extracted_text"],
+        "embedding": _unpack(r["embedding"]),
+        "cluster_id": r["cluster_id"],
+        "seen_at": r["seen_at"],
+        "shown_in_feed": bool(r["shown_in_feed"]),
+    }
+
+
 def load_recent(conn: sqlite3.Connection, *, days: int = RETENTION_DAYS) -> list[dict[str, Any]]:
     cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
     rows = conn.execute(
-        "SELECT url, source, title, published_at, item_type, summary, embedding, "
-        "cluster_id, seen_at, shown_in_feed "
-        "FROM items WHERE seen_at >= ?",
+        "SELECT * FROM items WHERE seen_at >= ?",
         (cutoff,),
     ).fetchall()
-    return [
-        {
-            "url": r["url"],
-            "source": r["source"],
-            "title": r["title"],
-            "published_at": r["published_at"],
-            "item_type": r["item_type"],
-            "summary": r["summary"],
-            "embedding": _unpack(r["embedding"]),
-            "cluster_id": r["cluster_id"],
-            "seen_at": r["seen_at"],
-            "shown_in_feed": bool(r["shown_in_feed"]),
-        }
-        for r in rows
-    ]
+    return [_row_to_item(r) for r in rows]
+
+
+def cluster_items(conn: sqlite3.Connection, cluster_id: str) -> list[dict[str, Any]]:
+    rows = conn.execute(
+        "SELECT * FROM items WHERE cluster_id = ? ORDER BY published_at",
+        (cluster_id,),
+    ).fetchall()
+    return [_row_to_item(r) for r in rows]
+
+
+def upsert_cluster(
+    conn: sqlite3.Connection,
+    cluster_id: str,
+    *,
+    title: str,
+    summary: str,
+    framing_note: str | None,
+    read_for: list[dict[str, str]] | None,
+) -> None:
+    import json as _json
+
+    now = datetime.now(timezone.utc).isoformat()
+    conn.execute(
+        "INSERT OR REPLACE INTO clusters "
+        "(cluster_id, title, summary, framing_note, read_for, last_synthesised_at) "
+        "VALUES (?, ?, ?, ?, ?, ?)",
+        (
+            cluster_id,
+            title,
+            summary,
+            framing_note,
+            _json.dumps(read_for) if read_for else None,
+            now,
+        ),
+    )
+    conn.commit()
+
+
+def load_cluster(conn: sqlite3.Connection, cluster_id: str) -> dict[str, Any] | None:
+    import json as _json
+
+    r = conn.execute(
+        "SELECT * FROM clusters WHERE cluster_id = ?", (cluster_id,)
+    ).fetchone()
+    if not r:
+        return None
+    return {
+        "cluster_id": r["cluster_id"],
+        "title": r["title"],
+        "summary": r["summary"],
+        "framing_note": r["framing_note"],
+        "read_for": _json.loads(r["read_for"]) if r["read_for"] else None,
+        "last_synthesised_at": r["last_synthesised_at"],
+    }
 
 
 def upsert(conn: sqlite3.Connection, items: Iterable[dict[str, Any]]) -> None:
@@ -87,6 +151,7 @@ def upsert(conn: sqlite3.Connection, items: Iterable[dict[str, Any]]) -> None:
                 it["published_at"],
                 it["item_type"],
                 it.get("summary"),
+                it.get("extracted_text"),
                 _pack(it["embedding"]),
                 it["cluster_id"],
                 it.get("seen_at", now),
@@ -95,9 +160,9 @@ def upsert(conn: sqlite3.Connection, items: Iterable[dict[str, Any]]) -> None:
         )
     conn.executemany(
         "INSERT OR REPLACE INTO items "
-        "(url, source, title, published_at, item_type, summary, embedding, "
-        "cluster_id, seen_at, shown_in_feed) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "(url, source, title, published_at, item_type, summary, extracted_text, "
+        "embedding, cluster_id, seen_at, shown_in_feed) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         rows,
     )
     conn.commit()

@@ -85,14 +85,16 @@ def _build_entry(e: Any) -> dict[str, Any]:
         else None
     )
     source_key = _entry_source(e)
-    summary_source = e.get("content", [{}])[0].get("value", "") or e.get("summary", "")
+    summary_text = e.get("summary", "") or (
+        e.get("content", [{}])[0].get("value", "") if e.get("content") else ""
+    )
     return {
         "url": e.link,
         "title": e.title,
         "source_key": source_key,
         "source_label": SOURCE_LABELS.get(source_key, source_key or "Source"),
         "published_label": _french_short_date(published) if published else "",
-        "summary": _summarise(summary_source) if summary_source else "",
+        "summary": _summarise(summary_text) if summary_text else "",
     }
 
 

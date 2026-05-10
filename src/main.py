@@ -3,6 +3,7 @@ from __future__ import annotations
 import os
 import sys
 from pathlib import Path
+from typing import Any
 
 from src import cache as cache_mod
 from src.fetchers import actu_toulouse
@@ -15,16 +16,81 @@ FEED_OUTPUT = Path("docs/feed.xml")
 LANDING_OUTPUT = Path("docs/index.html")
 CACHE_PATH = Path("data/items_seen.db")
 
-
-def _embed_text_for_item(item: dict) -> str:
-    title = item.get("title", "")
-    body = item.get("extracted_text", "") or ""
-    return f"{title}\n\n{body}".strip()
+FEED_ENTRY_LIMIT = 50
+RAW_SUMMARY_CHARS = 1500
 
 
-def _cluster_today(items: list[dict]) -> tuple[list[dict], int, int]:
-    """Embed today's items, dedup against the rolling cache, return kept items.
-    Returns (kept_items, skipped_count, new_cluster_count)."""
+def _embed_text_for_item(item: dict[str, Any]) -> str:
+    return f"{item.get('title', '')}\n\n{item.get('extracted_text') or ''}".strip()
+
+
+def _item_to_entry(item: dict[str, Any]) -> dict[str, Any]:
+    """Fallback when no clustering/synthesis: each item is its own entry."""
+    summary = (item.get("extracted_text") or "")[:RAW_SUMMARY_CHARS]
+    return {
+        "id": item["url"],
+        "title": item["title"],
+        "url": item["url"],
+        "published_at": item["published_at"],
+        "updated_at": item["published_at"],
+        "authors": [item["source"]],
+        "item_type": item.get("item_type", "news"),
+        "summary": summary,
+        "framing_note": None,
+        "read_for": None,
+        "sources": [{"source": item["source"], "url": item["url"], "title": item["title"]}],
+    }
+
+
+def _cluster_to_entry(cluster_id: str, items: list[dict[str, Any]], synth: dict[str, Any] | None) -> dict[str, Any]:
+    primary = min(items, key=lambda i: i["published_at"])
+    latest_at = max(i["published_at"] for i in items)
+    if synth:
+        title = synth["title"]
+        summary = synth["summary"]
+        framing_note = synth["framing_note"]
+        read_for = synth["read_for"]
+    else:
+        title = primary["title"]
+        summary = (primary.get("extracted_text") or "")[:RAW_SUMMARY_CHARS]
+        framing_note = None
+        read_for = None
+    return {
+        "id": cluster_id,
+        "title": title,
+        "url": primary["url"],
+        "published_at": primary["published_at"],
+        "updated_at": latest_at,
+        "authors": sorted({i["source"] for i in items}),
+        "item_type": primary.get("item_type", "news"),
+        "summary": summary,
+        "framing_note": framing_note,
+        "read_for": read_for,
+        "sources": [
+            {"source": i["source"], "url": i["url"], "title": i["title"]}
+            for i in sorted(items, key=lambda x: x["published_at"])
+        ],
+    }
+
+
+def _entries_from_cache(conn) -> list[dict[str, Any]]:
+    cached = cache_mod.load_recent(conn)
+    by_cluster: dict[str, list[dict[str, Any]]] = {}
+    for it in cached:
+        by_cluster.setdefault(it["cluster_id"], []).append(it)
+
+    entries = []
+    for cluster_id, items in by_cluster.items():
+        synth = cache_mod.load_cluster(conn, cluster_id)
+        entries.append(_cluster_to_entry(cluster_id, items, synth))
+
+    entries.sort(key=lambda e: e["updated_at"], reverse=True)
+    return entries[:FEED_ENTRY_LIMIT]
+
+
+def _cluster_today(items: list[dict[str, Any]]):
+    """Embed today's items, dedup against the rolling cache, write to cache.
+    Returns (kept_items, conn). Caller closes conn after synthesis step."""
     from src import cluster as cluster_mod
     from src import embed as embed_mod
 
@@ -42,13 +108,36 @@ def _cluster_today(items: list[dict]) -> tuple[list[dict], int, int]:
     skipped = len(items) - len(kept)
     cached_cluster_ids = {c["cluster_id"] for c in cached}
     new_clusters = sum(1 for k in kept if k["cluster_id"] not in cached_cluster_ids)
+    print(f"cluster: kept {len(kept)} ({skipped} skipped, {new_clusters} new clusters)")
 
     cache_mod.upsert(conn, kept)
     cache_mod.mark_shown(conn, [k["url"] for k in kept])
-    cache_mod.vacuum(conn)
-    conn.close()
+    return kept, conn
 
-    return kept, skipped, new_clusters
+
+def _synthesise_touched_clusters(conn, kept_items: list[dict[str, Any]]) -> None:
+    from src.synthesise import SynthesiseError, synthesise
+
+    touched = sorted({k["cluster_id"] for k in kept_items})
+    print(f"synthesise: {len(touched)} cluster(s) touched today")
+
+    for cid in touched:
+        items = cache_mod.cluster_items(conn, cid)
+        if not items:
+            continue
+        try:
+            result = synthesise(items)
+            cache_mod.upsert_cluster(
+                conn,
+                cid,
+                title=result["title"],
+                summary=result["summary"],
+                framing_note=result["framing_note"],
+                read_for=result["read_for"],
+            )
+            print(f"  {cid}: '{result['title'][:60]}…'")
+        except SynthesiseError as e:
+            print(f"  {cid}: FAILED — {e}", file=sys.stderr)
 
 
 def main() -> None:
@@ -58,13 +147,27 @@ def main() -> None:
     items = actu_toulouse.fetch()
     print(f"actu_toulouse: {len(items)} items in last 24h")
 
-    if os.environ.get("OPENAI_API_KEY", "").strip():
-        items, skipped, new_clusters = _cluster_today(items)
-        print(f"cluster: kept {len(items)} ({skipped} skipped as near-duplicates, {new_clusters} new clusters)")
-    else:
-        print("cluster: skipped (OPENAI_API_KEY not set) — no dedup this run")
+    openai_key = os.environ.get("OPENAI_API_KEY", "").strip()
+    anthropic_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 
-    write_atom(items, FEED_OUTPUT)
+    if openai_key:
+        try:
+            kept, conn = _cluster_today(items)
+            if anthropic_key and kept:
+                _synthesise_touched_clusters(conn, kept)
+            else:
+                print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
+            entries = _entries_from_cache(conn)
+            cache_mod.vacuum(conn)
+            conn.close()
+        except Exception as e:  # noqa: BLE001 — fail open to keep daily email shipping
+            print(f"cluster/synthesise: FAILED ({type(e).__name__}: {e}) — falling back to item-level feed", file=sys.stderr)
+            entries = [_item_to_entry(it) for it in items]
+    else:
+        print("cluster: skipped (OPENAI_API_KEY not set) — item-level feed")
+        entries = [_item_to_entry(it) for it in items]
+
+    write_atom(entries, FEED_OUTPUT)
     print(f"wrote {FEED_OUTPUT} ({FEED_OUTPUT.stat().st_size} bytes)")
 
     render_landing(FEED_OUTPUT, LANDING_OUTPUT)
@@ -78,8 +181,8 @@ def main() -> None:
         print("email send: skipped (RESEND_API_KEY / RESEND_AUDIENCE_ID / EMAIL_FROM_ADDRESS not all set)")
         return
 
-    if not items:
-        print("email send: skipped (no items today)")
+    if not entries:
+        print("email send: skipped (no entries today)")
         return
 
     subject, html = render_email(FEED_OUTPUT)
