@@ -56,7 +56,7 @@ def render(feed_path: Path) -> tuple[str, str]:
     for cat, label, title in CATEGORY_ORDER:
         entries = grouped.get(cat, [])
         if entries:
-            sections.append({"label": label, "title": title, "entries": entries})
+            sections.append({"key": cat, "label": label, "title": title, "entries": entries})
 
     now_paris = datetime.now(PARIS)
     date_long = _french_long_date(now_paris)

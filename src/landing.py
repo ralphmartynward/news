@@ -116,7 +116,7 @@ def render(feed_path: Path, out_path: Path) -> None:
     for cat, label, title in CATEGORY_ORDER:
         entries = grouped.get(cat, [])
         if entries:
-            sections.append({"label": label, "title": title, "entries": entries})
+            sections.append({"key": cat, "label": label, "title": title, "entries": entries})
 
     now_paris = datetime.now(PARIS)
     env = Environment(
