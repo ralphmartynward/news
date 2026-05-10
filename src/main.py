@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any
 
 from src import cache as cache_mod
-from src.fetchers import actu_toulouse
+from src.fetchers import actu_toulouse, toulouscope
 from src.feed import write_atom
 from src.landing import render as render_landing
 from src.render_email import render as render_email
@@ -15,6 +15,11 @@ from src.send import SendError, send_broadcast
 FEED_OUTPUT = Path("docs/feed.xml")
 LANDING_OUTPUT = Path("docs/index.html")
 CACHE_PATH = Path("data/items_seen.db")
+
+FETCHERS = [
+    ("actu_toulouse", actu_toulouse.fetch),
+    ("toulouscope", toulouscope.fetch),
+]
 
 FEED_ENTRY_LIMIT = 50
 RAW_SUMMARY_CHARS = 1500
@@ -161,12 +166,24 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
             print(f"  {cid}: FAILED — {e}", file=sys.stderr)
 
 
+def _fetch_all() -> list[dict[str, Any]]:
+    items: list[dict[str, Any]] = []
+    for name, fetch_fn in FETCHERS:
+        try:
+            fetched = fetch_fn()
+            print(f"{name}: {len(fetched)} items")
+            items.extend(fetched)
+        except Exception as e:  # noqa: BLE001 — one broken fetcher must not kill the run
+            print(f"{name}: FAILED — {type(e).__name__}: {e}", file=sys.stderr)
+    return items
+
+
 def main() -> None:
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
 
-    items = actu_toulouse.fetch()
-    print(f"actu_toulouse: {len(items)} items in last 24h")
+    items = _fetch_all()
+    print(f"total: {len(items)} items from {len(FETCHERS)} sources")
 
     openai_key = os.environ.get("OPENAI_API_KEY", "").strip()
     anthropic_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
