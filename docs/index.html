@@ -219,7 +219,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     </div>
   </div>
   <div class="stats-strip">
-    <div class="stat"><span class="stat-val">9</span><span class="stat-lbl">stories aujourd'hui</span></div>
+    <div class="stat"><span class="stat-val">8</span><span class="stat-lbl">stories aujourd'hui</span></div>
     <div class="stat"><span class="stat-val">1</span><span class="stat-lbl">source</span></div>
     <div class="stat"><span class="stat-val">24h</span><span class="stat-lbl">de couverture</span></div>
     <div class="stat"><span class="stat-val">7h</span><span class="stat-lbl">livré chaque matin</span></div>
@@ -250,16 +250,6 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
       <div class="sec-label">Actualité</div>
       <h2 class="sec-title">Les infos du jour</h2>
       <div class="news-grid">
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/vents-a-90km-h-grele-et-fortes-pluie-l-alerte-aux-orages-etendue-voici-les-departements-concernes-en-occitanie_64247231.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source">Actu Toulouse</span>
-            <span class="news-time">9 mai, 17:10</span>
-          </div>
-          <h3 class="news-title">Vents à 90km/h, grêle et fortes pluie : l&#39;alerte aux orages étendue, voici les départements concernés en Occitanie</h3>
-          <p class="news-summary">Actu Toulouse vous en a parlé ce samedi matin. L’Occitanie va être touchée par des orages pouvant être, localement, très violents, dimanche 10 mai 2026. La Haute-Garonne est concernée en premier lieu. Orages virulents «…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/ca-va-etre-zinzin-une-soiree-electro-va-se-tenir-sur-le-rooftop-de-la-mediatheque-de-toulouse_64205143.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
           <div class="news-meta">
@@ -364,7 +354,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 
 <script>
 (function () {
-  const SUBSCRIBE_URL = "";
+  const SUBSCRIBE_URL = "https://toulouse-news-subscribe.chaosskill.workers.dev/subscribe";
   const form = document.getElementById('subscribe-form');
   if (!form) return;
   const input = form.querySelector('input[type=email]');
