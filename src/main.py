@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any
 
 from src import cache as cache_mod
-from src.fetchers import actu_toulouse, toulouscope
+from src.fetchers import actu_toulouse, inbox, toulouscope
 from src.feed import write_atom
 from src.landing import render as render_landing
 from src.render_email import render as render_email
@@ -19,6 +19,7 @@ CACHE_PATH = Path("data/items_seen.db")
 FETCHERS = [
     ("actu_toulouse", actu_toulouse.fetch),
     ("toulouscope", toulouscope.fetch),
+    ("inbox", inbox.fetch),
 ]
 
 FEED_ENTRY_LIMIT = 50
