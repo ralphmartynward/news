@@ -41,6 +41,26 @@ def _build_prompt(items: list[dict[str, Any]]) -> str:
     )
 
 
+def _extract_json(text: str) -> str:
+    """Extract a JSON object from a model response. Handles bare JSON, JSON
+    wrapped in markdown code fences, and JSON with leading/trailing text."""
+    s = text.strip()
+    # strip ```json ... ``` or ``` ... ``` fences
+    if s.startswith("```"):
+        first_nl = s.find("\n")
+        if first_nl != -1:
+            s = s[first_nl + 1:]
+        if s.rstrip().endswith("```"):
+            s = s.rstrip()[:-3]
+    s = s.strip()
+    # locate object boundaries
+    start = s.find("{")
+    end = s.rfind("}")
+    if start == -1 or end == -1 or end <= start:
+        raise SynthesiseError(f"no JSON object found in response: {text[:200]!r}")
+    return s[start:end + 1]
+
+
 def synthesise(items: list[dict[str, Any]]) -> dict[str, Any]:
     """Send a cluster's items to Claude and return the synthesis JSON."""
     if not items:
@@ -50,17 +70,15 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any]:
     msg = _client().messages.create(
         model=MODEL,
         max_tokens=MAX_TOKENS,
-        messages=[
-            {"role": "user", "content": prompt},
-            {"role": "assistant", "content": "{"},
-        ],
+        messages=[{"role": "user", "content": prompt}],
     )
 
-    raw = "{" + msg.content[0].text
+    raw_text = msg.content[0].text
+    extracted = _extract_json(raw_text)
     try:
-        data = json.loads(raw)
+        data = json.loads(extracted)
     except json.JSONDecodeError as e:
-        raise SynthesiseError(f"Claude returned non-JSON: {raw[:200]}") from e
+        raise SynthesiseError(f"Claude returned non-JSON: {extracted[:200]!r}") from e
 
     title = (data.get("title") or "").strip()
     summary = (data.get("summary") or "").strip()
