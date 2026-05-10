@@ -10,13 +10,14 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 PARIS = ZoneInfo("Europe/Paris")
 TEMPLATE_DIR = Path("templates")
-SUMMARY_MAX_CHARS = 240
+SUMMARY_MAX_CHARS = 220
 
-CATEGORY_ORDER: list[tuple[str, str]] = [
-    ("news", "Actualités"),
-    ("event", "Événements"),
-    ("place", "Sorties, lieux, ouvertures"),
-    ("culture", "Culture"),
+# (key, eyebrow label, section title)
+CATEGORY_ORDER: list[tuple[str, str, str]] = [
+    ("news", "Actualité", "Les infos du jour"),
+    ("event", "Agenda", "Ça se passe à Toulouse"),
+    ("place", "À découvrir", "Lieux, ouvertures, bonnes adresses"),
+    ("culture", "Culture", "Sorties culturelles"),
 ]
 
 SOURCE_LABELS: dict[str, str] = {
@@ -56,13 +57,9 @@ def _french_long_date(d: datetime) -> str:
     return f"{weekday} {d.day} {month} {d.year}"
 
 
-def _french_short_time(d: datetime) -> str:
-    return d.astimezone(PARIS).strftime("%H:%M")
-
-
 def _french_short_date(d: datetime) -> str:
     paris_d = d.astimezone(PARIS)
-    return f"{paris_d.day} {FRENCH_MONTHS[paris_d.month - 1]}, {_french_short_time(d)}"
+    return f"{paris_d.day} {FRENCH_MONTHS[paris_d.month - 1]}, {paris_d.strftime('%H:%M')}"
 
 
 def _entry_category(entry: Any) -> str:
@@ -79,36 +76,43 @@ def _entry_source(entry: Any) -> str:
     return author.strip()
 
 
-def _build_section_entries(feed_entries: list[Any]) -> dict[str, list[dict[str, Any]]]:
-    grouped: dict[str, list[dict[str, Any]]] = {cat: [] for cat, _ in CATEGORY_ORDER}
-    for e in feed_entries:
-        cat = _entry_category(e)
-        if cat not in grouped:
-            grouped[cat] = []
-        published = datetime(*e.published_parsed[:6], tzinfo=ZoneInfo("UTC")) if getattr(e, "published_parsed", None) else None
-        source_key = _entry_source(e)
-        summary_source = e.get("content", [{}])[0].get("value", "") or e.get("summary", "")
-        grouped[cat].append(
-            {
-                "url": e.link,
-                "title": e.title,
-                "source_label": SOURCE_LABELS.get(source_key, source_key or "Source"),
-                "published_label": _french_short_date(published) if published else "",
-                "summary": _summarise(summary_source) if summary_source else "",
-            }
-        )
-    return grouped
+def _build_entry(e: Any) -> dict[str, Any]:
+    published = (
+        datetime(*e.published_parsed[:6], tzinfo=ZoneInfo("UTC"))
+        if getattr(e, "published_parsed", None)
+        else None
+    )
+    source_key = _entry_source(e)
+    summary_source = e.get("content", [{}])[0].get("value", "") or e.get("summary", "")
+    return {
+        "url": e.link,
+        "title": e.title,
+        "source_key": source_key,
+        "source_label": SOURCE_LABELS.get(source_key, source_key or "Source"),
+        "published_label": _french_short_date(published) if published else "",
+        "summary": _summarise(summary_source) if summary_source else "",
+    }
 
 
 def render(feed_path: Path, out_path: Path) -> None:
     parsed = feedparser.parse(str(feed_path))
-    grouped = _build_section_entries(parsed.entries)
+
+    grouped: dict[str, list[dict[str, Any]]] = {cat: [] for cat, _, _ in CATEGORY_ORDER}
+    sources_seen: set[str] = set()
+    for e in parsed.entries:
+        cat = _entry_category(e)
+        if cat not in grouped:
+            grouped[cat] = []
+        entry = _build_entry(e)
+        grouped[cat].append(entry)
+        if entry["source_key"]:
+            sources_seen.add(entry["source_key"])
 
     sections = []
-    for cat, label in CATEGORY_ORDER:
+    for cat, label, title in CATEGORY_ORDER:
         entries = grouped.get(cat, [])
         if entries:
-            sections.append({"title": label, "entries": entries})
+            sections.append({"label": label, "title": title, "entries": entries})
 
     now_paris = datetime.now(PARIS)
     env = Environment(
@@ -120,6 +124,7 @@ def render(feed_path: Path, out_path: Path) -> None:
         date_long=_french_long_date(now_paris),
         sections=sections,
         entry_count=sum(len(s["entries"]) for s in sections),
+        source_count=len(sources_seen),
     )
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
