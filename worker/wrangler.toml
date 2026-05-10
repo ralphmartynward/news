@@ -1,0 +1,7 @@
+name = "toulouse-news-subscribe"
+main = "src/index.ts"
+compatibility_date = "2026-01-01"
+
+# Secrets to set via `wrangler secret put`:
+#   - RESEND_API_KEY
+#   - RESEND_AUDIENCE_ID

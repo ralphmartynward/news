@@ -233,11 +233,10 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     <div class="sec-label">Abonnement</div>
     <h2 class="sec-title">Recevez le digest par email</h2>
     <p class="sec-sub">Un email tous les matins à 7h avec l'actualité du jour à Toulouse, en français.</p>
-    <form class="subscribe-card" id="subscribe-form" action="#" method="post"
-          onsubmit="event.preventDefault(); alert('Le formulaire sera connecté à l\'étape suivante.');">
+    <form class="subscribe-card" id="subscribe-form" action="#" method="post" novalidate>
       <input type="email" name="email" placeholder="vous@exemple.com" required>
       <button type="submit">S'abonner →</button>
-      <p class="note">Désinscription en un clic depuis chaque email · pas de spam, jamais.</p>
+      <p class="note" id="subscribe-note">Désinscription en un clic depuis chaque email · pas de spam, jamais.</p>
     </form>
   </section>
 </div>
@@ -286,6 +285,57 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     Fait par <a href="https://ralph-ward.com" target="_blank" rel="noopener" style="color:rgba(255,255,255,0.7);font-weight:600;">Ralph Ward</a>
   </span>
 </footer>
+
+<script>
+(function () {
+  const SUBSCRIBE_URL = {{ worker_subscribe_url|tojson }};
+  const form = document.getElementById('subscribe-form');
+  if (!form) return;
+  const input = form.querySelector('input[type=email]');
+  const button = form.querySelector('button');
+  const note = document.getElementById('subscribe-note');
+
+  function setNote(text, color) {
+    note.textContent = text;
+    note.style.color = color;
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = (input.value || '').trim();
+    if (!email) { setNote("Email requis.", '#b91c1c'); return; }
+
+    if (!SUBSCRIBE_URL) {
+      setNote("Le formulaire sera connecté après déploiement du Worker.", '#b91c1c');
+      return;
+    }
+
+    button.disabled = true;
+    const originalText = button.textContent;
+    button.textContent = 'Envoi…';
+
+    try {
+      const r = await fetch(SUBSCRIBE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      const data = await r.json().catch(() => ({}));
+      if (data.ok) {
+        form.innerHTML = '<p style="margin:0;color:#166534;font-weight:700;">Abonnement confirmé. À demain matin !</p>';
+      } else {
+        button.disabled = false;
+        button.textContent = originalText;
+        setNote("Erreur : " + (data.error || 'inconnue') + ". Réessayez.", '#b91c1c');
+      }
+    } catch (err) {
+      button.disabled = false;
+      button.textContent = originalText;
+      setNote("Erreur de réseau, réessayez plus tard.", '#b91c1c');
+    }
+  });
+})();
+</script>
 
 </body>
 </html>

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from datetime import datetime
 from pathlib import Path
 from typing import Any
@@ -11,6 +12,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 PARIS = ZoneInfo("Europe/Paris")
 TEMPLATE_DIR = Path("templates")
 SUMMARY_MAX_CHARS = 220
+WORKER_SUBSCRIBE_URL = os.environ.get("WORKER_SUBSCRIBE_URL", "").strip()
 
 # (key, eyebrow label, section title)
 CATEGORY_ORDER: list[tuple[str, str, str]] = [
@@ -125,6 +127,7 @@ def render(feed_path: Path, out_path: Path) -> None:
         sections=sections,
         entry_count=sum(len(s["entries"]) for s in sections),
         source_count=len(sources_seen),
+        worker_subscribe_url=WORKER_SUBSCRIBE_URL,
     )
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
