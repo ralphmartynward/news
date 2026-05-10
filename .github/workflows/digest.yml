@@ -42,7 +42,15 @@ jobs:
           git add docs/ data/ 2>/dev/null || git add docs/
           if git diff --cached --quiet; then
             echo "No artifact changes to commit."
-          else
-            git commit -m "Daily digest run $(date -u +%Y-%m-%d) [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "Daily digest run $(date -u +%Y-%m-%d) [skip ci]"
+          # Retry with rebase to absorb any concurrent pushes (e.g. human work
+          # landing on main while the workflow was running).
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "push attempt $attempt rejected, rebasing on origin..."
+            git pull --rebase origin main || exit 1
+          done
+          echo "push still failing after 3 attempts" >&2
+          exit 1
