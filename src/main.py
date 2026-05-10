@@ -89,8 +89,9 @@ def _entries_from_cache(conn) -> list[dict[str, Any]]:
 
 
 def _cluster_today(items: list[dict[str, Any]]):
-    """Embed today's items, dedup against the rolling cache, write to cache.
-    Returns (kept_items, conn). Caller closes conn after synthesis step."""
+    """Pre-filter items already in cache (same URL = same item, not a near-dupe),
+    embed only genuinely new items, dedup against the rolling cache.
+    Returns (touched_cluster_ids, conn). Caller closes conn."""
     from src import cluster as cluster_mod
     from src import embed as embed_mod
 
@@ -102,26 +103,46 @@ def _cluster_today(items: list[dict[str, Any]]):
     cached = cache_mod.load_recent(conn)
     print(f"cache: {len(cached)} items in 7-day window")
 
-    embeddings = embed_mod.embed_batch([_embed_text_for_item(i) for i in items])
-    kept = cluster_mod.assign_clusters(items, embeddings, cached)
+    cached_urls = {c["url"] for c in cached}
+    new_items = [it for it in items if it["url"] not in cached_urls]
+    seen_count = len(items) - len(new_items)
+    if seen_count:
+        print(f"cluster: {seen_count} item(s) already in cache (same URL) — passed through")
 
-    skipped = len(items) - len(kept)
+    if not new_items:
+        return set(), conn
+
+    embeddings = embed_mod.embed_batch([_embed_text_for_item(i) for i in new_items])
+    kept = cluster_mod.assign_clusters(new_items, embeddings, cached)
+
+    skipped = len(new_items) - len(kept)
     cached_cluster_ids = {c["cluster_id"] for c in cached}
     new_clusters = sum(1 for k in kept if k["cluster_id"] not in cached_cluster_ids)
-    print(f"cluster: kept {len(kept)} ({skipped} skipped, {new_clusters} new clusters)")
+    print(f"cluster: kept {len(kept)} new ({skipped} skipped as near-dupes, {new_clusters} new clusters)")
 
     cache_mod.upsert(conn, kept)
     cache_mod.mark_shown(conn, [k["url"] for k in kept])
-    return kept, conn
+    return {k["cluster_id"] for k in kept}, conn
 
 
-def _synthesise_touched_clusters(conn, kept_items: list[dict[str, Any]]) -> None:
+def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
+    """Synthesise clusters that are touched today OR lack a synthesis row
+    (backfill for clusters cached before Anthropic was available)."""
     from src.synthesise import SynthesiseError, synthesise
 
-    touched = sorted({k["cluster_id"] for k in kept_items})
-    print(f"synthesise: {len(touched)} cluster(s) touched today")
+    backfill = set(cache_mod.clusters_lacking_synthesis(conn))
+    to_synthesise = touched_cluster_ids | backfill
 
-    for cid in touched:
+    if not to_synthesise:
+        print("synthesise: nothing to do (no touched clusters, no missing synth)")
+        return
+
+    print(
+        f"synthesise: {len(to_synthesise)} cluster(s) "
+        f"({len(touched_cluster_ids)} touched, {len(backfill)} backfill)"
+    )
+
+    for cid in sorted(to_synthesise):
         items = cache_mod.cluster_items(conn, cid)
         if not items:
             continue
@@ -152,9 +173,9 @@ def main() -> None:
 
     if openai_key:
         try:
-            kept, conn = _cluster_today(items)
-            if anthropic_key and kept:
-                _synthesise_touched_clusters(conn, kept)
+            touched, conn = _cluster_today(items)
+            if anthropic_key:
+                _synthesise_clusters(conn, touched)
             else:
                 print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
             entries = _entries_from_cache(conn)

@@ -176,5 +176,15 @@ def mark_shown(conn: sqlite3.Connection, urls: Iterable[str]) -> None:
     conn.commit()
 
 
+def clusters_lacking_synthesis(conn: sqlite3.Connection) -> list[str]:
+    rows = conn.execute(
+        "SELECT DISTINCT i.cluster_id "
+        "FROM items i "
+        "LEFT JOIN clusters c ON c.cluster_id = i.cluster_id "
+        "WHERE c.cluster_id IS NULL"
+    ).fetchall()
+    return [r["cluster_id"] for r in rows]
+
+
 def vacuum(conn: sqlite3.Connection) -> None:
     conn.execute("VACUUM")
