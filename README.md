@@ -7,7 +7,7 @@ See [toulouse_digest_spec.md](toulouse_digest_spec.md) for the full specificatio
 ## Local run
 
 ```powershell
-py src/main.py
+py -m src.main
 ```
 
 ## Deployment

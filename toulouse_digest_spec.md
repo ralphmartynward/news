@@ -8,156 +8,277 @@
 
 ## Goal
 
-A daily email digest landing in Gmail at **07:00 Europe/Paris**, summarising what's happening in and around Toulouse: news, events, cultural sorties, openings, civic announcements. Pulled from multiple Toulouse-specific sources, deduplicated across them, summarised by Claude.
+A daily Toulouse digest, **published as an Atom/RSS feed** (canonical output) at **`news.lavillerose.com`**, with two derived consumers:
+- A **landing page** at the same URL — sectioned, browseable, with archive.
+- A **daily email** delivered via Resend Broadcast to subscribers (Ralph + anyone who opts in via the landing page form).
 
-**Completeness over filtering.** No interest-based filtering. Everything that comes through the sources lands in the digest. Dedup clusters items covering the same story.
+Email lands in Gmail at **07:00 Europe/Paris** every day.
 
-This is **v1**. A second project will follow for global news + tech YouTube; that one uses heavy filtering. Different beast.
+Coverage: news, events, cultural sorties, openings, civic announcements in and around Toulouse. Pulled from multiple Toulouse-specific sources, deduplicated across them, summarised by Claude.
+
+**Completeness over filtering.** No interest-based filtering. Everything from the sources lands in the feed. Dedup clusters items covering the same story.
+
+This is **v1**. A second project will follow for global news + tech YouTube; that one uses heavy filtering.
+
+---
+
+## Architectural principle: RSS-first
+
+The Atom feed is the **single source of truth**. Both the landing page and the email are downstream consumers that read the feed and render it.
+
+```
+[8 sources] → fetch + clean → embed → cluster → synthesise
+  → write/update feed.xml + per-category feeds (canonical, committed to repo,
+                                                served via GitHub Pages on news.lavillerose.com)
+  ├→ landing page (docs/index.html) renders today + archive
+  └→ email renderer reads feed → HTML → Resend Broadcast → subscribers (Gmail)
+
+Landing page also hosts a subscribe form
+  → POST to Cloudflare Worker → Resend Contacts API → Audience grows
+```
+
+**Why RSS-first:**
+
+- Single source of truth. No drift between feed, landing page, and email.
+- Email and landing-page logic stay simple: read feed, render, present.
+- Other delivery channels (Telegram, push) become trivial — they consume the feed.
+- Past feed entries are the digest archive automatically.
+- Replay/re-send without re-running the expensive pipeline.
+- Testing is cleaner — validate feed independently of delivery.
 
 ---
 
 ## Sources (8)
 
-| # | Source | Type | Fetch method | Cadence of source | Notes |
-|---|--------|------|--------------|-------------------|-------|
-| 1 | Toulouse Métropole OpenAgenda | Events | API via data.gouv.fr (`agenda-des-manifestations-culturelles`) | Daily-updated | Anchor source for events. Structured JSON. Covers municipal/cultural events across the 37 communes. |
-| 2 | La Dépêche (Toulouse + Haute-Garonne) | News | RSS feed | Daily, multiple/day | Find correct RSS endpoint at build time — try `ladepeche.fr/rss/` or feed discovery. |
-| 3 | Actu Toulouse | News + sorties | RSS feed | Daily, multiple/day | `actu.fr/occitanie/toulouse_31555/` should expose RSS. |
-| 4 | L'Essentiel Toulouse | Curated daily digest | HTML scrape | Weekdays at 06:30 | URL pattern *guessed* as `lessentiel.fr/newsletter/toulouse/YYYY-MM-DD` — verify at build time. Email-first newsletter, but archive is web-accessible. |
-| 5 | Le Bonbon Toulouse | Lifestyle / sorties | HTML scrape | Random / multiple per week | Scrape category pages: `lebonbon.fr/toulouse/sorties/`, `/actu/`, `/loisirs/`. No RSS found. |
-| 6 | Clutch Toulouse | Culture / agenda | HTML scrape | Monthly print, online agenda updates more often | Scrape `clutchmag.fr` agenda page continuously, not just on new issue release. |
-| 7 | Toulouse Secret | Places, openings, food | HTML scrape | Random / multiple per week | Scrape `toulousesecret.com` homepage + recent articles. |
-| 8 | Toulouscope | Mixed coverage | HTML scrape | Random | **Reuse Ralph's existing scrape code.** Verify it still works against current site before relying on it — sites change HTML; budget a check-and-fix step. |
+| # | Source | Type | Fetch method | Cadence | Notes |
+|---|--------|------|--------------|---------|-------|
+| 1 | Toulouse Métropole OpenAgenda | Events | API via data.gouv.fr (`agenda-des-manifestations-culturelles`) | Daily-updated | Anchor source for events. Structured JSON. Covers 37 communes. |
+| 2 | La Dépêche (Toulouse + Haute-Garonne) | News | RSS feed | Daily, multiple/day | Find correct RSS endpoint at build time. **Build last in v1; candidate to drop entirely if signal is too broad** — covers Toulouse + Haute-Garonne + Occitanie, lower Toulouse-specificity than the other 7 sources. |
+| 3 | Actu Toulouse | News + sorties | HTML scrape | Daily, multiple/day | Verified 2026-05-10: no Toulouse-specific RSS exists; the global `/rss.xml` carries ~30 nationwide items with very few Toulouse hits. Scrape listing page `actu.fr/occitanie/toulouse_31555/` (≈20 article links per fetch). |
+| 4 | L'Essentiel Toulouse | Curated daily digest | HTML scrape | Weekdays at 06:30 | URL pattern *guessed* as `lessentiel.fr/newsletter/toulouse/YYYY-MM-DD` — verify at build time. Email-first but archive is web-accessible. |
+| 5 | Le Bonbon Toulouse | Lifestyle / sorties | HTML scrape | Random | Scrape category pages: `lebonbon.fr/toulouse/sorties/`, `/actu/`, `/loisirs/`. No RSS. |
+| 6 | Clutch Toulouse | Culture / agenda | HTML scrape | Monthly print, online agenda updates more often | Scrape `clutchmag.fr` agenda continuously. |
+| 7 | Toulouse Secret | Places, openings, food | HTML scrape | Random | Scrape `toulousesecret.com` homepage + recent articles. |
+| 8 | Toulouscope | Mixed coverage | HTML scrape | Random | **Reuse Ralph's existing scrape code.** Verify it still works against current site — sites change HTML; budget a check-and-fix step. |
 
-**Dropped from v1 (and why):**
-- **Frimake** — app-only, behind login, user-generated meetups not events.
+**Dropped from v1:**
+- **Frimake** — app-only, behind login, user-generated meetups.
 - **Toulouse By Night Fever** — Instagram/TikTok-first, `.com` is portfolio not feed.
-- **Toulouse Magazine** — generic name, multiple candidates, unclear which Ralph meant.
+- **Toulouse Magazine** — generic name, multiple candidates, unclear which is meant.
 
 ---
 
-## Pipeline architecture
-
-```
-[8 sources] → fetch + clean → embed → cluster (with 7-day cache)
-  → synthesise per cluster (Claude) → assemble HTML email → send via Resend → Gmail
-```
+## Pipeline
 
 ### Step 1 — Fetch + clean
 
-For each source, run a source-specific fetcher returning a list of items with this shape:
+Source-specific fetchers return items shaped:
 
 ```python
 {
-    "source": "la_depeche",
-    "url": "https://www.ladepeche.fr/...",
+    "source": "actu_toulouse",
+    "url": "https://actu.fr/...",
     "title": "...",
-    "published_at": "2026-05-10T14:32:00+02:00",  # ISO 8601
-    "raw_html": "...",  # or None for API sources
-    "extracted_text": "...",  # cleaned main content
+    "published_at": "2026-05-10T14:32:00+02:00",
+    "extracted_text": "...",
     "item_type": "news" | "event" | "place" | "culture",
-    "event_date": "..." | None,  # only for events
-    "metadata": {...}  # source-specific extras
+    "event_date": "..." | None,
+    "metadata": {...}
 }
 ```
 
-- **APIs** (OpenAgenda): direct JSON parse, no extraction needed.
-- **RSS** (La Dépêche, Actu Toulouse): `feedparser` library. For each item, fetch the article URL and extract main content with `trafilatura`.
-- **HTML scrapes** (everything else): `requests` + `BeautifulSoup` for listing pages, `trafilatura` for individual article content.
+- **APIs** (OpenAgenda): direct JSON parse.
+- **RSS** (La Dépêche, when built): `feedparser`. For each item, fetch the article URL and extract main content with `trafilatura`.
+- **HTML scrapes** (rest, including Actu Toulouse): `requests` for listing pages, `trafilatura` for individual article content.
 
 **Filter at fetch time:**
-- News articles: only items published in the last 24h.
-- Events: only items with `event_date` in the next 7 days.
-- Places/openings/culture: items published in the last 7 days (these don't have a clean "now" — a new restaurant opening is relevant for several days).
+- News: items published in last 24h.
+- Events: items with `event_date` in next 7 days.
+- Places/openings/culture: items published in last 7 days.
 
 ### Step 2 — Embed
 
-For each fetched item, generate an embedding of `title + first ~500 words of extracted_text` using OpenAI `text-embedding-3-small`.
-
-Cost: negligible (~$0.02 per 1M tokens; a daily run probably ~$0.01).
+Embed `title + first ~500 words of extracted_text` using OpenAI `text-embedding-3-small`.
 
 ### Step 3 — Cluster (with 7-day rolling cache)
 
-Maintain a SQLite database (or just JSON files in the repo) of:
-- `items_seen.db`: every item from the last 7 days, with its embedding, source, title, URL, summary, and a `cluster_id`.
+Maintain SQLite cache of last 7 days of items: embedding, source, title, URL, summary, `cluster_id`.
 
 For each new item:
-1. Compare embedding against all items in `items_seen` (cosine similarity).
-2. If similarity > **0.78** with any existing item, assign it to that item's cluster. Mark as "follow-up coverage".
+1. Compare embedding against cache (cosine similarity).
+2. If similarity > **0.78** with any existing item, assign to that item's cluster.
 3. Otherwise, start a new cluster.
 
-The 0.78 threshold is a starting point; tune after seeing real output for a week.
+The 0.78 threshold is a guess — tune after a week.
 
 After clustering today's batch:
-- **New clusters** (no prior items in cache): main digest content.
-- **Existing clusters with new items today**: "Still in the news" section, only if there's a meaningfully new angle.
-- **Items identical or near-identical to ones already shown** (similarity > 0.92 with an item already sent in a previous email): skip entirely.
+- **New clusters** → become new feed entries.
+- **Existing clusters with new items today** → optionally bump the existing entry's `<updated>` and append an "Update:" block, *only* if the new coverage adds a meaningfully new angle.
+- **Items near-identical to ones already in cache** (similarity > 0.92) → skip entirely.
 
 ### Step 4 — Synthesise per cluster
 
-For each new cluster (and meaningfully-updated existing ones), send the items to Claude Sonnet 4.6 with a prompt like:
+For each new or meaningfully-updated cluster, send to Claude Sonnet 4.6:
 
 ```
-You are summarising Toulouse local news/events for a daily digest.
+You are summarising Toulouse local news/events for a daily digest feed.
 
 Cluster of {N} items covering the same topic, from sources: {sources}.
 
 Generate:
-1. A unified title (max 12 words, in French if the original is French, else English).
-2. A 2-3 sentence summary of what's happening, in the language of the majority of source items.
-3. If multiple sources cover it, briefly note framing differences if meaningful (e.g. "La Dépêche frames as X; Le Bonbon frames as Y"). Skip if framings are identical.
+1. A unified title (max 12 words, in French if originals are French, else English).
+2. A 4-6 sentence summary covering: what's happening, what's notable, what's
+   contested or unclear across sources if applicable, who's affected.
+3. If multiple sources cover with meaningful framing differences, briefly
+   note them. Skip if framings are identical.
+4. Suggest which source to read for which angle, if relevant.
+
+Constraints:
+- Always preserve attribution; never present as original reporting.
+- Don't smooth over uncertainty or contradictions between sources.
+- Don't add facts not present in the source items.
+- Keep each source's contribution traceable.
 
 Items:
 {for each item: source, title, excerpt (first 300 words)}
 
-Return JSON: {"title": ..., "summary": ..., "framing_note": ... | null}
+Return JSON:
+{
+  "title": "...",
+  "summary": "...",
+  "framing_note": "..." | null,
+  "read_for": [{"source": "...", "angle": "..."}] | null
+}
 ```
 
-Cost estimate: ~30 clusters/day × 2k tokens each ≈ ~$0.30/day, ~$10/month. Fine.
+Cost: ~30 clusters/day × ~3k tokens ≈ ~$0.50/day, ~$15/month.
 
-### Step 5 — Assemble HTML email
+### Step 5 — Write Atom feeds (canonical + per-category)
 
-Sections in this order:
+Use `feedgen` library. Outputs into `docs/`:
 
-1. **Header**: date, "Toulouse — {weekday} {date}", short tagline.
-2. **À la une** (Top 3-5 clusters by source diversity) — items covered by most sources rise to the top automatically.
-3. **Actualités** — news items, by recency.
-4. **Événements à venir (7 jours)** — events ordered by event date.
-5. **Sorties, lieux, ouvertures** — places, restaurants, openings, lifestyle.
-6. **Culture** — Clutch + cultural items from other sources.
-7. **Toujours d'actu** — clusters from prior days with new coverage today (small section, only if there's something).
-8. **Footer**: digest stats (X items from Y sources, Z deduplicated), sources list with links to each source homepage.
+- **`feed.xml`** — canonical "everything" Atom feed, all categories.
+- **`feed-news.xml`** — entries with `category=news` only.
+- **`feed-events.xml`** — entries with `category=event` only.
+- **`feed-places.xml`** — entries with `category=place` only.
+- **`feed-culture.xml`** — entries with `category=culture` only.
 
-Each item displays:
-- **Title** (the synthesised one, not source's)
-- **2-3 sentence summary**
-- **"Read on:"** + source name(s) as links
-- **Framing note** if present (italicised)
-- **Event date** if applicable
+Per-category feeds let subscribers slice the firehose. Same data, filtered views.
 
-HTML, mobile-friendly, plain styling. No tracking pixels, no images in v1 (add later if useful).
+**Granularity: one feed entry per cluster.** Not one entry per daily digest. RSS readers expect to skim individual stories.
 
-### Step 6 — Send via Resend
+Each entry contains:
+- `<id>` — stable cluster ID (e.g. `toulouse-digest:cluster:{uuid}`)
+- `<title>` — synthesised title
+- `<published>` — when cluster first created
+- `<updated>` — last update timestamp
+- `<author>` — "Toulouse Digest"
+- `<category>` — `news` / `event` / `place` / `culture`, plus source list
+- `<content type="html">`:
+  - Synthesised summary
+  - Framing note if present
+  - Event date if applicable
+  - "Sources:" list with all source links
+  - "Read for which angle" guide if present
+- `<link rel="alternate">` — primary source link
 
-Resend has a free tier (3k emails/month, more than enough). Set up:
-- Sender domain (use Ralph's existing domain or a `ralphward.dev` subdomain).
-- DKIM/SPF for deliverability (so Gmail doesn't junk it).
-- Single recipient: Ralph's Gmail.
+**Feed metadata:**
+- `<title>`: "Toulouse News" (or per-category: "Toulouse News — Événements", etc.)
+- `<subtitle>`: "Auto-generated daily Toulouse digest"
+- `<author>`: Ralph Ward
+- Self-link points to `https://news.lavillerose.com/feed.xml` (or category variant).
 
-Alternative: Gmail SMTP with an app password. Simpler setup, slightly less reliable for scheduled daily sends. Resend is the right call.
+**Retention:** keep last 50 entries live in the main feed (last 25 per category feed). Older entries roll off feed but stay in git history.
+
+### Step 6 — Render landing page (consumes feed)
+
+Reads `feed.xml` after it's written, renders `docs/index.html` as a sectioned landing page:
+
+- **Header**: "TOULOUSE NEWS · {weekday} {date}".
+- **Category nav**: links to per-category feed views (`/news`, `/events`, `/places`, `/culture`) and the canonical RSS subscribe link.
+- **Sections** (mirroring the email):
+  - **À la une** — top 3-5 by source diversity
+  - **Actualités** — news, by recency
+  - **Événements à venir** — events, by event date
+  - **Sorties, lieux, ouvertures** — places
+  - **Culture** — culture
+  - **Toujours d'actu** — entries `updated` today but `published` earlier
+- **Subscribe block**:
+  - "Subscribe via RSS" → links to `feed.xml` and per-category feeds.
+  - "Subscribe via email" → form posting to the Cloudflare Worker (see Step 8).
+- **Archive link** — list of past digests by date (rendered from `feed.xml` history).
+
+Mobile-friendly, clean, no images in v1. Rendering is templated (Jinja2 or string templates — keep simple).
+
+### Step 7 — Render email + send via Resend Broadcast
+
+After feed is written:
+
+1. Read `feed.xml`.
+2. Filter to entries where `published` or `updated` is today.
+3. Group into the same sections as the landing page.
+4. Render HTML email — mobile-friendly, plain styling, no images, no tracking pixels.
+5. Send as a **Resend Broadcast** to a Resend Audience containing all subscribers.
+
+The email is a **view** of the feed. The feed is the canonical artifact.
+
+**Resend setup:**
+- One Audience: `toulouse-news` (`RESEND_AUDIENCE_ID` secret).
+- Sender domain: subdomain Ralph owns (e.g. `digest@news.lavillerose.com` or another subdomain). DKIM/SPF configured.
+- Daily run uses Resend's `broadcasts/send` API.
+- Initial subscriber: Ralph's Gmail (added manually to the Audience to bootstrap).
+
+### Step 8 — Subscription endpoint (Cloudflare Worker)
+
+A small Cloudflare Worker exposes `POST /subscribe` accepting `{email}`. It:
+1. Validates the email format.
+2. Calls Resend's `audiences/{id}/contacts` API to add the email.
+3. Returns `200 {ok: true}` on success, `400` on invalid email, `409` on duplicate, `500` on Resend error.
+4. Sets CORS to allow only `https://news.lavillerose.com` as origin.
+
+**Why Cloudflare Worker (not direct from frontend):**
+- Avoids exposing `RESEND_API_KEY` in frontend JS.
+- Free tier (100k requests/day) far exceeds anything this project needs.
+- Lives at `https://<worker-name>.<account>.workers.dev`; landing page form `fetch()`es it.
+
+**Code lives in `worker/`** (same repo). Deploy via `wrangler deploy` — manual is fine for v1; can be wired into CI later.
+
+**Worker secrets** (set via `wrangler secret put`):
+- `RESEND_API_KEY`
+- `RESEND_AUDIENCE_ID`
+
+---
+
+## Publishing the feed + landing page
+
+- **GitHub Pages** serving from `/docs` of the repo. Free, static, reliable.
+- **Subdomain**: `news.lavillerose.com` → CNAME to `ralphmartynward.github.io`. Apex `lavillerose.com` (Infomaniak FTP) untouched.
+- **Setup steps**:
+  1. Add CNAME record at DNS provider: `news` → `ralphmartynward.github.io`.
+  2. Create `docs/CNAME` with content `news.lavillerose.com`.
+  3. Enable GitHub Pages in repo settings: Source = `main` branch, folder = `/docs`.
+  4. Wait for HTTPS provisioning (a few minutes).
+- **Final URLs**:
+  - Landing: `https://news.lavillerose.com/`
+  - Main feed: `https://news.lavillerose.com/feed.xml`
+  - Per-category: `/feed-news.xml`, `/feed-events.xml`, `/feed-places.xml`, `/feed-culture.xml`
 
 ---
 
 ## Infrastructure: GitHub Actions
 
-- **Trigger**: cron schedule, `0 5 * * *` UTC (= 07:00 Europe/Paris in summer, 06:00 in winter — accept the winter shift or adjust to handle DST with a Python check at start).
+- **Trigger**: cron `0 5 * * *` UTC (= 07:00 Europe/Paris in summer, 06:00 in winter — accept shift or handle DST in code).
 - **Runner**: `ubuntu-latest`, Python 3.12.
-- **Secrets** (set in repo settings):
+- **Steps**:
+  1. Checkout repo.
+  2. Run pipeline → writes `data/items_seen.db`, `docs/feed.xml`, `docs/feed-*.xml`, `docs/index.html`.
+  3. Send email Broadcast via Resend.
+  4. Commit all updated artifacts back with `[skip ci]`. Single commit at end of run, after all writes succeed, to avoid desync on partial failure.
+- **Repo secrets**:
   - `OPENAI_API_KEY`
   - `ANTHROPIC_API_KEY`
   - `RESEND_API_KEY`
-  - `RECIPIENT_EMAIL`
-- **Artifacts**: persist `items_seen.db` between runs by committing it back to the repo (or use GitHub Actions cache, or a tiny S3 bucket — SQLite committed to repo is simplest for v1).
+  - `RESEND_AUDIENCE_ID`
 
 ---
 
@@ -167,67 +288,93 @@ Alternative: Gmail SMTP with an app password. Simpler setup, slightly less relia
 toulouse-digest/
 ├── .github/workflows/digest.yml
 ├── README.md
-├── pyproject.toml  (or requirements.txt)
+├── requirements.txt
 ├── src/
-│   ├── main.py             # entry point, orchestrates pipeline
+│   ├── main.py                # entry point, orchestrates pipeline
 │   ├── fetchers/
 │   │   ├── __init__.py
 │   │   ├── openagenda.py
-│   │   ├── la_depeche.py
-│   │   ├── actu_toulouse.py
+│   │   ├── la_depeche.py      # build last; candidate to drop in v1
+│   │   ├── actu_toulouse.py   # HTML scrape (no Toulouse-specific RSS)
 │   │   ├── lessentiel.py
 │   │   ├── le_bonbon.py
 │   │   ├── clutch.py
 │   │   ├── toulouse_secret.py
-│   │   └── toulouscope.py  # adapt Ralph's existing code
-│   ├── embed.py            # OpenAI embedding wrapper
-│   ├── cluster.py          # cosine sim + cache logic
-│   ├── synthesise.py       # Claude wrapper for per-cluster summaries
-│   ├── render.py           # HTML email template + assembly
-│   ├── send.py             # Resend wrapper
-│   └── cache.py            # SQLite wrapper for items_seen.db
+│   │   └── toulouscope.py     # adapt Ralph's existing code
+│   ├── embed.py               # OpenAI embedding wrapper
+│   ├── cluster.py             # cosine sim + cache logic
+│   ├── synthesise.py          # Claude wrapper
+│   ├── feed.py                # Atom feed read/write (feedgen)
+│   ├── landing.py             # render docs/index.html from feed
+│   ├── render_email.py        # render email HTML from feed
+│   ├── send.py                # Resend Broadcast wrapper
+│   └── cache.py               # SQLite wrapper
 ├── data/
-│   └── items_seen.db       # 7-day rolling cache
+│   └── items_seen.db          # 7-day rolling cache (committed)
+├── docs/                      # GitHub Pages root, served at news.lavillerose.com
+│   ├── CNAME                  # contains: news.lavillerose.com
+│   ├── index.html             # landing page (generated)
+│   ├── feed.xml               # canonical Atom feed (generated, committed)
+│   ├── feed-news.xml
+│   ├── feed-events.xml
+│   ├── feed-places.xml
+│   └── feed-culture.xml
+├── worker/                    # Cloudflare Worker (subscribe endpoint)
+│   ├── src/index.ts
+│   ├── wrangler.toml
+│   └── package.json
+├── templates/                 # landing-page + email templates
+│   ├── landing.html.j2
+│   └── email.html.j2
 ├── tests/
 │   └── ...
 └── prompts/
-    └── synthesise.md       # the per-cluster synthesis prompt, version-controlled
+    └── synthesise.md          # version-controlled synthesis prompt
 ```
 
 ---
 
-## Build order (suggested for Claude Code)
+## Build order
 
-1. **Scaffolding**: repo, dependencies, env vars, GitHub Actions workflow that runs a hello-world.
-2. **One fetcher end-to-end**: pick La Dépêche RSS first (easiest). Fetch + extract + print.
-3. **Render + send**: skip clustering, just send a plain email of La Dépêche's last 24h. Validates the delivery path.
-4. **Add embeddings + cache**: SQLite, cluster within La Dépêche items only. Validates dedup logic.
-5. **Add synthesise step**: Claude summarises each cluster.
-6. **Add the other 7 fetchers, one at a time.** Test each in isolation before integrating.
-7. **Tune cluster threshold** after a week of real output.
-8. **Polish HTML email styling**.
+1. **Scaffolding**: repo, deps, env vars, GitHub Actions workflow running hello-world. ✓ done
+2. **First fetcher end-to-end**: Actu Toulouse (HTML scrape — listing page extraction). Establishes the article-fetcher pattern. ✓ done
+3. **Feed write path + GitHub Pages on `news.lavillerose.com`**: skip clustering and synthesis. Write today's items as raw entries to `docs/feed.xml`. Validate via W3C feed validator. Set up GitHub Pages, attach `news.lavillerose.com` via CNAME + DNS. Subscribe to the live URL with a feed reader to confirm.
+4. **Landing page** (minimal): `docs/index.html` lists today's entries from the feed, has "Subscribe via RSS" + placeholder "Subscribe via email" form (form not wired yet).
+5. **Subscription pipeline**: deploy Cloudflare Worker exposing `POST /subscribe`. Wire landing-page form to it. Confirm signups arrive in Resend Audience.
+6. **Email renderer + Broadcast send**: render today's HTML email from the feed, send via Resend Broadcast to the Audience. Subscribe Ralph's Gmail; confirm daily email arrives.
+7. **Add embeddings + cache**: SQLite, cluster within today's items.
+8. **Add synthesise step**: Claude generates per-cluster entry content. Feed entries become richer.
+9. **Add per-category feeds**: derive `feed-news.xml` etc. from main feed by category filter. Update landing page nav.
+10. **Add the other fetchers, one at a time**, in order of Toulouse-specificity: OpenAgenda, L'Essentiel (verify URL first), Le Bonbon, Clutch, Toulouse Secret, Toulouscope (verify code first). Then **La Dépêche last (or drop entirely if v1 is feeling complete enough without it)**.
+11. **Tune cluster threshold** after a week of real output.
+12. **Polish landing page + email styling**.
 
-Don't try to ship all 8 sources at once. Iterate.
+Ship feed + landing + email + subscription with one source before adding the rest.
 
 ---
 
 ## Known unknowns / decisions deferred
 
-- **Cluster threshold** (0.78 is a guess — adjust after a week).
-- **Image handling**: skipped in v1. If digest feels too dense, add hero images for top 3 items in v2.
-- **DST handling**: GitHub Actions cron is UTC; either accept ±1h shift or compute target time in code.
-- **Toulouscope scraper currency**: untested against current HTML structure as of 2026-05. Verify before relying on it.
-- **Source addition / removal**: each source is a single Python module. Adding/removing later is cheap.
+- **Cluster threshold** (0.78 is a guess).
+- **Image handling**: skipped in v1.
+- **DST handling**: GitHub Actions cron is UTC.
+- **Toulouscope scraper currency**: untested against current HTML structure.
+- **Updating existing feed entries**: deciding when a cluster gets `<updated>` bumped vs left alone. Start conservative: only update if a new source covers the cluster for the first time.
+- **Feed entry retention** (50 main / 25 per-category — guesses).
+- **La Dépêche inclusion**: reassess at step 10 — if v1 already feels rich enough, drop it.
+- **Sender domain for Resend**: which subdomain to use as the email From: address (e.g. `digest@news.lavillerose.com`). DKIM/SPF setup confirmed at step 6.
 
 ---
 
 ## Out of scope for v1
 
-- Global news / tech YouTube digest (separate project — same architecture, different config).
-- Spotify / music trending (use existing playlists, no project needed).
-- Interest-based filtering / "highlighted for Ralph" section.
-- Web archive / historical browsing of past digests.
-- Mobile app, PDF export, anything beyond the daily HTML email.
+- Global news / tech YouTube digest (separate project).
+- Spotify / music trending.
+- Interest-based filtering.
+- Mobile app, PDF export.
+- Double opt-in confirmation emails (single opt-in is fine for v1; revisit if it scales).
+- Unsubscribe flow beyond Resend's built-in Broadcast unsubscribe link.
+- AI-generated unique articles replacing source content (deliberately rejected — would shift from aggregation to substitutive content production, raises legal/ethical issues, strips attribution value, can hallucinate).
 
 ---
 
@@ -236,17 +383,24 @@ Don't try to ship all 8 sources at once. Iterate.
 | Item | Monthly cost |
 |------|-------------|
 | OpenAI embeddings (text-embedding-3-small) | ~$0.30 |
-| Claude Sonnet 4.6 synthesis | ~$10 |
-| Resend (free tier) | $0 |
+| Claude Sonnet 4.6 synthesis (richer output) | ~$15 |
+| Resend (free tier: 3k emails/month, audiences) | $0 |
 | GitHub Actions (free for personal repos) | $0 |
-| **Total** | **~$10/month** |
+| GitHub Pages (free) | $0 |
+| Cloudflare Workers (free: 100k req/day) | $0 |
+| **Total** | **~$15/month** |
 
 ---
 
 ## Done criteria for v1
 
-- Email arrives in Gmail at 07:00 daily, every day for 14 consecutive days without manual intervention.
-- All 8 sources contribute items to at least one digest in that period.
-- Dedup across sources visibly works (cluster sizes > 1 visible in output).
+- Atom feed at `https://news.lavillerose.com/feed.xml`, valid per W3C feed validator.
+- Per-category feeds also valid and reachable.
+- Landing page at `https://news.lavillerose.com/` renders feed entries grouped by section.
+- Subscribe-via-email form on landing page works end-to-end: submit → added to Resend Audience → confirmation received.
+- Daily email Broadcast arrives in Gmail at 07:00, 14 consecutive days without manual intervention.
+- All 7 (or 8) sources contribute items to at least one digest in that period.
+- Dedup visibly works (entries with multi-source coverage visible in feed).
 - Same item never shown two days running.
 - Cluster threshold tuned based on real output.
+- Email content matches feed content (no drift).
