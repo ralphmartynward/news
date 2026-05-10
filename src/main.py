@@ -55,11 +55,15 @@ def _cluster_to_entry(cluster_id: str, items: list[dict[str, Any]], synth: dict[
         summary = synth["summary"]
         framing_note = synth["framing_note"]
         read_for = synth["read_for"]
+        # Synthesised category trumps source default; falls back to source if
+        # synthesis didn't return a valid category.
+        item_type = synth.get("category") or primary.get("item_type", "news")
     else:
         title = primary["title"]
         summary = (primary.get("extracted_text") or "")[:RAW_SUMMARY_CHARS]
         framing_note = None
         read_for = None
+        item_type = primary.get("item_type", "news")
     return {
         "id": cluster_id,
         "title": title,
@@ -67,7 +71,7 @@ def _cluster_to_entry(cluster_id: str, items: list[dict[str, Any]], synth: dict[
         "published_at": primary["published_at"],
         "updated_at": latest_at,
         "authors": sorted({i["source"] for i in items}),
-        "item_type": primary.get("item_type", "news"),
+        "item_type": item_type,
         "summary": summary,
         "framing_note": framing_note,
         "read_for": read_for,
@@ -135,7 +139,7 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
     (backfill for clusters cached before Anthropic was available)."""
     from src.synthesise import SynthesiseError, synthesise
 
-    backfill = set(cache_mod.clusters_lacking_synthesis(conn))
+    backfill = set(cache_mod.clusters_needing_synthesis(conn))
     to_synthesise = touched_cluster_ids | backfill
 
     if not to_synthesise:
@@ -160,8 +164,10 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                 summary=result["summary"],
                 framing_note=result["framing_note"],
                 read_for=result["read_for"],
+                category=result["category"],
             )
-            print(f"  {cid}: '{result['title'][:60]}…'")
+            cat_label = f"[{result['category']}] " if result["category"] else ""
+            print(f"  {cid}: {cat_label}'{result['title'][:60]}…'")
         except SynthesiseError as e:
             print(f"  {cid}: FAILED — {e}", file=sys.stderr)
 

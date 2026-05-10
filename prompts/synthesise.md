@@ -7,6 +7,12 @@ Generate:
 2. A 4–6 sentence summary covering: what's happening, what's notable, what's contested or unclear across sources if applicable, who's affected. Keep it tight.
 3. If multiple sources cover with meaningful framing differences, briefly note them. Skip if framings are identical.
 4. Suggest which source to read for which angle, if relevant. Skip if not.
+5. Pick exactly one category for the cluster:
+   - "news": hard news, civic announcements, weather alerts, sports results, politics, public-safety updates, current events.
+   - "event": scheduled events with a specific date — concerts, festivals, exhibitions, markets, performances, screenings. Things you might attend.
+   - "place": places, openings, closures — restaurants, bars, shops, hotels, neighbourhood spots, hospitality. Things to visit or eat at.
+   - "culture": cultural coverage that isn't tied to a single date — artist profiles, film/book reviews, cultural trends, cinema, art.
+   If a story crosses categories, pick the one most useful to a reader scanning the digest. Don't be afraid to put a "Toulouscope" article in "news" if it's about civic info, or an "Actu Toulouse" article in "place" if it's about a new restaurant.
 
 Constraints:
 - Always preserve attribution; never present this as original reporting. The reader will follow links to the source articles.
@@ -25,5 +31,6 @@ Return ONLY a JSON object, no preamble or code fences. Schema:
   "title": "...",
   "summary": "...",
   "framing_note": "..." or null,
-  "read_for": [{"source": "...", "angle": "..."}] or null
+  "read_for": [{"source": "...", "angle": "..."}] or null,
+  "category": "news" | "event" | "place" | "culture"
 }

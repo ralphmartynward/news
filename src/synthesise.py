@@ -85,9 +85,14 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any]:
     if not title or not summary:
         raise SynthesiseError(f"Claude response missing title or summary: {data}")
 
+    category = (data.get("category") or "").strip().lower()
+    if category not in ("news", "event", "place", "culture"):
+        category = None  # will fall back to source default at entry-build time
+
     return {
         "title": title,
         "summary": summary,
         "framing_note": (data.get("framing_note") or None),
         "read_for": data.get("read_for") or None,
+        "category": category,
     }

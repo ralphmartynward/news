@@ -32,9 +32,16 @@ CREATE TABLE IF NOT EXISTS clusters (
     summary TEXT NOT NULL,
     framing_note TEXT,
     read_for TEXT,
+    category TEXT,
     last_synthesised_at TEXT NOT NULL
 );
 """
+
+# Migrations: add columns if missing (CREATE IF NOT EXISTS doesn't add them
+# to pre-existing tables). New columns must be nullable.
+MIGRATIONS = [
+    "ALTER TABLE clusters ADD COLUMN category TEXT",
+]
 
 
 def _pack(emb: list[float]) -> bytes:
@@ -50,6 +57,13 @@ def open_cache(path: Path = DEFAULT_DB_PATH) -> sqlite3.Connection:
     conn = sqlite3.connect(str(path))
     conn.row_factory = sqlite3.Row
     conn.executescript(SCHEMA)
+    for stmt in MIGRATIONS:
+        try:
+            conn.execute(stmt)
+        except sqlite3.OperationalError:
+            # column already exists; safe to ignore
+            pass
+    conn.commit()
     return conn
 
 
@@ -101,20 +115,22 @@ def upsert_cluster(
     summary: str,
     framing_note: str | None,
     read_for: list[dict[str, str]] | None,
+    category: str | None = None,
 ) -> None:
     import json as _json
 
     now = datetime.now(timezone.utc).isoformat()
     conn.execute(
         "INSERT OR REPLACE INTO clusters "
-        "(cluster_id, title, summary, framing_note, read_for, last_synthesised_at) "
-        "VALUES (?, ?, ?, ?, ?, ?)",
+        "(cluster_id, title, summary, framing_note, read_for, category, last_synthesised_at) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?)",
         (
             cluster_id,
             title,
             summary,
             framing_note,
             _json.dumps(read_for) if read_for else None,
+            category,
             now,
         ),
     )
@@ -135,6 +151,7 @@ def load_cluster(conn: sqlite3.Connection, cluster_id: str) -> dict[str, Any] | 
         "summary": r["summary"],
         "framing_note": r["framing_note"],
         "read_for": _json.loads(r["read_for"]) if r["read_for"] else None,
+        "category": r["category"] if "category" in r.keys() else None,
         "last_synthesised_at": r["last_synthesised_at"],
     }
 
@@ -176,12 +193,15 @@ def mark_shown(conn: sqlite3.Connection, urls: Iterable[str]) -> None:
     conn.commit()
 
 
-def clusters_lacking_synthesis(conn: sqlite3.Connection) -> list[str]:
+def clusters_needing_synthesis(conn: sqlite3.Connection) -> list[str]:
+    """Cluster_ids that lack a clusters row OR have one but no category.
+    The category-null case captures clusters synthesised before category
+    was a synthesis output."""
     rows = conn.execute(
         "SELECT DISTINCT i.cluster_id "
         "FROM items i "
         "LEFT JOIN clusters c ON c.cluster_id = i.cluster_id "
-        "WHERE c.cluster_id IS NULL"
+        "WHERE c.cluster_id IS NULL OR c.category IS NULL"
     ).fetchall()
     return [r["cluster_id"] for r in rows]
 
