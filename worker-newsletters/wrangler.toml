@@ -1,0 +1,14 @@
+name = "toulouse-news-newsletters"
+main = "src/index.ts"
+compatibility_date = "2026-01-01"
+
+# KV namespace for storing parsed newsletter emails (7-day TTL on each entry)
+# Run `wrangler kv namespace create NEWSLETTERS` and paste the returned id below.
+[[kv_namespaces]]
+binding = "NEWSLETTERS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+# Forward incoming mail to this address as well, so subscription confirmation
+# links land in your normal Gmail. Set with `wrangler secret put FORWARD_TO`.
+# (Putting it as a secret rather than a var because we don't want it to bake
+# into committed config when published.)
