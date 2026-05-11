@@ -1,6 +1,10 @@
 .env
 .claude/
 __pycache__/
+# local debug / sample files
+lessentiel.txt
+kv_dump.py
+lessentiel-sample.json
 *.pyc
 *.pyo
 .venv/
