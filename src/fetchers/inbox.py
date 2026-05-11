@@ -21,7 +21,8 @@ CF_ACCOUNT_ID = "ed16e312ebd79c520a405e778f8643ed"
 CF_KV_NAMESPACE_ID = "f4b82aa62a454db5b38aeed094e415fb"
 CF_API_BASE = "https://api.cloudflare.com/client/v4"
 REQUEST_TIMEOUT_S = 20
-TEXT_CHARS_CAP = 8000
+TEXT_CHARS_CAP = 8000       # generic fallback cap
+LESSENTIEL_TEXT_CAP = 5000  # per article, full content (feeds synthesis)
 
 _TAG_RE = re.compile(r"<[^>]+>")
 _WS_RE = re.compile(r"\s+")
@@ -86,9 +87,18 @@ def _extract_lessentiel(
         if not title:
             continue
 
-        # Lead paragraph
-        lead = table.find("p", class_="first-paragraph")
-        summary = lead.get_text(separator=" ", strip=True) if lead else ""
+        # Full article content: extract all readable text from the content
+        # area (lead + sub-headings + bullet points). This feeds synthesis,
+        # not the end-user; Claude will distil it into 4-6 sentences.
+        content_div = table.find("div", style=lambda s: s and "margin-top:20px" in s)
+        if content_div:
+            # remove share / social blocks
+            for share_div in content_div.find_all("div", style=lambda s: s and "text-align:center" in (s or "")):
+                share_div.decompose()
+            summary = content_div.get_text(separator="\n", strip=True)
+        else:
+            lead = table.find("p", class_="first-paragraph")
+            summary = lead.get_text(separator=" ", strip=True) if lead else ""
 
         # Newsletter URL: embedded in mailto href as a plain URL
         url: str | None = None
@@ -108,7 +118,7 @@ def _extract_lessentiel(
             "title": title,
             "published_at": received_at.isoformat(),
             "raw_html": None,
-            "extracted_text": summary,
+            "extracted_text": summary[:LESSENTIEL_TEXT_CAP],
             "item_type": "news",
             "event_date": None,
             "metadata": {"from": from_addr},
