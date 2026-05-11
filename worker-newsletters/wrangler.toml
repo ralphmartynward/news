@@ -6,7 +6,7 @@ compatibility_date = "2026-01-01"
 # Run `wrangler kv namespace create NEWSLETTERS` and paste the returned id below.
 [[kv_namespaces]]
 binding = "NEWSLETTERS"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "f4b82aa62a454db5b38aeed094e415fb"
 
 # Forward incoming mail to this address as well, so subscription confirmation
 # links land in your normal Gmail. Set with `wrangler secret put FORWARD_TO`.
