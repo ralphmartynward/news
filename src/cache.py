@@ -41,6 +41,7 @@ CREATE TABLE IF NOT EXISTS clusters (
 # to pre-existing tables). New columns must be nullable.
 MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN category TEXT",
+    "ALTER TABLE clusters ADD COLUMN emailed_at TEXT",
 ]
 
 
@@ -189,6 +190,23 @@ def mark_shown(conn: sqlite3.Connection, urls: Iterable[str]) -> None:
     conn.executemany(
         "UPDATE items SET shown_in_feed = 1 WHERE url = ?",
         [(u,) for u in urls],
+    )
+    conn.commit()
+
+
+def clusters_to_email(conn: sqlite3.Connection) -> list[str]:
+    """Clusters that have synthesis but have not yet been emailed."""
+    rows = conn.execute(
+        "SELECT cluster_id FROM clusters WHERE emailed_at IS NULL"
+    ).fetchall()
+    return [r["cluster_id"] for r in rows]
+
+
+def mark_emailed(conn: sqlite3.Connection, cluster_ids: list[str]) -> None:
+    now = datetime.now(timezone.utc).isoformat()
+    conn.executemany(
+        "UPDATE clusters SET emailed_at = ? WHERE cluster_id = ?",
+        [(now, cid) for cid in cluster_ids],
     )
     conn.commit()
 

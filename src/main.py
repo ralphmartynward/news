@@ -173,6 +173,15 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
             print(f"  {cid}: FAILED — {e}", file=sys.stderr)
 
 
+def _close_conn(conn: Any) -> None:
+    if conn is not None:
+        try:
+            cache_mod.vacuum(conn)
+            conn.close()
+        except Exception:
+            pass
+
+
 def _fetch_all() -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for name, fetch_fn in FETCHERS:
@@ -195,6 +204,7 @@ def main() -> None:
     openai_key = os.environ.get("OPENAI_API_KEY", "").strip()
     anthropic_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 
+    conn = None
     if openai_key:
         try:
             touched, conn = _cluster_today(items)
@@ -203,14 +213,18 @@ def main() -> None:
             else:
                 print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
             entries = _entries_from_cache(conn)
-            cache_mod.vacuum(conn)
-            conn.close()
+            # Email only clusters not yet emailed (prevents old content resurfacing)
+            email_cluster_ids = set(cache_mod.clusters_to_email(conn))
+            email_entries = [e for e in entries if e["id"] in email_cluster_ids]
+            print(f"email queue: {len(email_entries)} new cluster(s) to send")
         except Exception as e:  # noqa: BLE001 — fail open to keep daily email shipping
             print(f"cluster/synthesise: FAILED ({type(e).__name__}: {e}) — falling back to item-level feed", file=sys.stderr)
             entries = [_item_to_entry(it) for it in items]
+            email_entries = entries
     else:
         print("cluster: skipped (OPENAI_API_KEY not set) — item-level feed")
         entries = [_item_to_entry(it) for it in items]
+        email_entries = entries
 
     write_atom(entries, FEED_OUTPUT)
     print(f"wrote {FEED_OUTPUT} ({FEED_OUTPUT.stat().st_size} bytes)")
@@ -224,13 +238,15 @@ def main() -> None:
 
     if not (api_key and audience_id and sender):
         print("email send: skipped (RESEND_API_KEY / RESEND_AUDIENCE_ID / EMAIL_FROM_ADDRESS not all set)")
+        _close_conn(conn)
         return
 
-    if not entries:
-        print("email send: skipped (no entries today)")
+    if not email_entries:
+        print("email send: skipped (no new clusters to email today)")
+        _close_conn(conn)
         return
 
-    subject, html = render_email(FEED_OUTPUT)
+    subject, html = render_email(email_entries)
     try:
         result = send_broadcast(
             api_key=api_key,
@@ -240,9 +256,15 @@ def main() -> None:
             html=html,
         )
         print(f"email send: broadcast {result.get('id')} dispatched · subject: {subject!r}")
+        # Mark clusters as emailed only after confirmed send
+        if conn:
+            cache_mod.mark_emailed(conn, [e["id"] for e in email_entries])
     except SendError as e:
         print(f"email send: FAILED — {e}", file=sys.stderr)
+        _close_conn(conn)
         sys.exit(1)
+
+    _close_conn(conn)
 
 
 if __name__ == "__main__":
