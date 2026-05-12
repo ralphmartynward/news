@@ -121,10 +121,19 @@ def upsert_cluster(
     import json as _json
 
     now = datetime.now(timezone.utc).isoformat()
+    # ON CONFLICT DO UPDATE preserves emailed_at — INSERT OR REPLACE would
+    # nuke the whole row and reset emailed_at to NULL every synthesis pass.
     conn.execute(
-        "INSERT OR REPLACE INTO clusters "
-        "(cluster_id, title, summary, framing_note, read_for, category, last_synthesised_at) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?)",
+        """INSERT INTO clusters
+           (cluster_id, title, summary, framing_note, read_for, category, last_synthesised_at)
+           VALUES (?, ?, ?, ?, ?, ?, ?)
+           ON CONFLICT(cluster_id) DO UPDATE SET
+             title              = excluded.title,
+             summary            = excluded.summary,
+             framing_note       = excluded.framing_note,
+             read_for           = excluded.read_for,
+             category           = excluded.category,
+             last_synthesised_at = excluded.last_synthesised_at""",
         (
             cluster_id,
             title,

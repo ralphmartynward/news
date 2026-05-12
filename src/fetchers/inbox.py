@@ -100,17 +100,22 @@ def _extract_lessentiel(
             lead = table.find("p", class_="first-paragraph")
             summary = lead.get_text(separator=" ", strip=True) if lead else ""
 
-        # Newsletter URL: embedded in mailto href as a plain URL
-        url: str | None = None
+        # URL: L'Essentiel has no per-article pages — the newsletter IS the
+        # article. Use the newsletter date page as the canonical reference.
+        # We still need an anchor check to distinguish real articles from
+        # promo blocks (promos have #autopromo, articles have numeric IDs).
+        article_anchor = None
         for a in table.find_all("a", href=True):
             m = anchor_re.search(a["href"])
             if m:
-                date_str, anchor_id = m.group(1), m.group(2)
-                url = f"https://www.lessentiel.fr/newsletter/toulouse/{date_str}#{anchor_id}"
+                article_anchor = m.group(0)  # just to confirm it's a real article
+                date_str = m.group(1)
                 break
 
-        if not url:
-            continue  # promo / structural block without a real article anchor
+        if not article_anchor:
+            continue  # promo / structural block — no numeric article anchor found
+
+        url = f"https://www.lessentiel.fr/newsletter/toulouse/{date_str}"
 
         items.append({
             "source": "lessentiel",
