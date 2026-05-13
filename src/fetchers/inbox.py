@@ -100,22 +100,21 @@ def _extract_lessentiel(
             lead = table.find("p", class_="first-paragraph")
             summary = lead.get_text(separator=" ", strip=True) if lead else ""
 
-        # URL: L'Essentiel has no per-article pages — the newsletter IS the
-        # article. Use the newsletter date page as the canonical reference.
-        # We still need an anchor check to distinguish real articles from
-        # promo blocks (promos have #autopromo, articles have numeric IDs).
-        article_anchor = None
+        # URL: L'Essentiel has no standalone article pages — the newsletter
+        # IS the article. Use the newsletter date page with the article anchor
+        # so each article has a unique URL (required: url is the cache primary
+        # key, so shared URLs would collapse all articles to one cache entry).
+        # The anchor also filters out promo blocks (#autopromo is non-numeric).
+        url: str | None = None
         for a in table.find_all("a", href=True):
             m = anchor_re.search(a["href"])
             if m:
-                article_anchor = m.group(0)  # just to confirm it's a real article
-                date_str = m.group(1)
+                date_str, anchor_id = m.group(1), m.group(2)
+                url = f"https://www.lessentiel.fr/newsletter/toulouse/{date_str}#{anchor_id}"
                 break
 
-        if not article_anchor:
-            continue  # promo / structural block — no numeric article anchor found
-
-        url = f"https://www.lessentiel.fr/newsletter/toulouse/{date_str}"
+        if not url:
+            continue  # promo block — no numeric anchor found
 
         items.append({
             "source": "lessentiel",
