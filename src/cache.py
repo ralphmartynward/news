@@ -204,9 +204,18 @@ def mark_shown(conn: sqlite3.Connection, urls: Iterable[str]) -> None:
 
 
 def clusters_to_email(conn: sqlite3.Connection) -> list[str]:
-    """Clusters that have synthesis but have not yet been emailed."""
+    """Cluster_ids that should appear in today's email:
+    - Clusters with items but no synthesis row yet (synthesis may have failed)
+    - Clusters with synthesis and emailed_at IS NULL (synthesised, not yet sent)
+    Excludes clusters already marked as emailed.
+    """
     rows = conn.execute(
-        "SELECT cluster_id FROM clusters WHERE emailed_at IS NULL"
+        """SELECT DISTINCT i.cluster_id
+           FROM items i
+           LEFT JOIN clusters c ON c.cluster_id = i.cluster_id
+           WHERE c.cluster_id IS NULL      -- synthesis never ran / failed
+              OR c.emailed_at IS NULL      -- synthesised, not yet emailed
+        """
     ).fetchall()
     return [r["cluster_id"] for r in rows]
 
