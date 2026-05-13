@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-05-12T12:56:54+02:00</updated>
+  <updated>2026-05-13T07:12:01+02:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -11,507 +11,734 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
   <entry>
-    <id>https://www.toulouscope.fr/2026/05/06/ce-lieu-emblematique-de-luchon-ouvre-ses-portes-au-public-le-15-mai-13345868.php</id>
-    <title>Ce lieu emblématique de Luchon ouvre ses portes au public le 15 mai</title>
+    <id>cluster:b07815c7-5126-44c5-987c-d1cbc63074c5</id>
+    <title>Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</title>
     <updated>2026-05-06T00:00:00+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
-    <content type="html">&lt;p&gt;Ce lieu emblématique de Luchon ouvre ses portes au public le 15 mai
-À Luchon, les thermes font partie du paysage, mais leur cœur d’activité reste souvent discret. Le vendredi 15 mai 2026, de 14h à 18h, l’établissement propose une après-midi portes ouvertes pour découvrir ces espaces habituellement réservés aux curistes.
-Dans les coulisses des Thermes
-Bains, douches, soins par vapeur, applications de boue : autant de pratiques souvent méconnues que les visiteurs pourront découvrir sur place, tout en suivant les différentes étapes d’une cure thermale.
-Au programme de la journée : un parcours libre et commenté à travers les secteurs dédiés aux cures en rhumatologie et aux voies respiratoires, avec la possibilité d’échanger directement avec les équipes et de mieux comprendre l’organisation des soins.
-Une eau pas comme les autres
-Les Thermes de Luchon s’appuient sur des eaux sulfurées, parmi les plus riches en soufre en France, utilisées dans la prise en charge de pathologies rhumatismales et ORL.
-Autre particularité : un vaporarium naturel aménagé dans d’anciennes galeries souterraines, où circulent des vapeurs chaudes et humides, intégré aux soins des voies respiratoires.
-À lire : Les Thermes de Luchon : un lieu unique de bien-être au cœur des Pyrénées
-Un rendez-vous ouvert et pédagogique
-Démonstrations, explications et temps d’échange rythmeront l’après-midi, pensée comme un moment accessible pour mieux saisir le rôle et le fonctionnement du thermalisme aujourd’hui.
-Un format s&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/06/ce-lieu-emblematique-de-luchon-ouvre-ses-portes-au-public-le-15-mai-13345868.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/05/06/ce-lieu-emblematique-de-luchon-ouvre-ses-portes-au-public-le-15-mai-13345868.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce lieu emblématique de Luchon ouvre ses portes au public le 15 mai
-À Luchon, les thermes font partie du paysage, mais leur cœur d’activité reste souvent discret. Le vendredi 15 mai 2026, de 14h à 18h, l’établissement propose une après-midi portes ouvertes pour découvrir ces espaces habituellement réservés aux curistes.
-Dans les coulisses des Thermes
-Bains, douches, soins par vapeur, applications de boue : autant de pratiques souvent méconnues que les visiteurs pourront découvrir sur place, tout en suivant les différentes étapes d’une cure thermale.
-Au programme de la journée : un parcours libre et commenté à travers les secteurs dédiés aux cures en rhumatologie et aux voies respiratoires, avec la possibilité d’échanger directement avec les équipes et de mieux comprendre l’organisation des soins.
-Une eau pas comme les autres
-Les Thermes de Luchon s’appuient sur des eaux sulfurées, parmi les plus riches en soufre en France, utilisées dans la prise en charge de pathologies rhumatismales et ORL.
-Autre particularité : un vaporarium naturel aménagé dans d’anciennes galeries souterraines, où circulent des vapeurs chaudes et humides, intégré aux soins des voies respiratoires.
-À lire : Les Thermes de Luchon : un lieu unique de bien-être au cœur des Pyrénées
-Un rendez-vous ouvert et pédagogique
-Démonstrations, explications et temps d’échange rythmeront l’après-midi, pensée comme un moment accessible pour mieux saisir le rôle et le fonctionnement du thermalisme aujourd’hui.
-Un format s</summary>
-    <category term="place"/>
-    <published>2026-05-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.toulouscope.fr/2026/05/06/ce-festival-de-street-art-fait-son-grand-retour-a-toulouse-et-metamorphose-la-caserne-jacques-vion-13357189.php</id>
-    <title>Ce festival de street-art fait son grand retour à Toulouse et métamorphose la caserne Jacques Vion</title>
-    <updated>2026-05-06T00:00:00+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Ce festival de street-art fait son grand retour à Toulouse et métamorphose la caserne Jacques Vion
-&amp;quot;Bienvenue dans le joyeux bazar de Mister Freeze 2026&amp;quot;. Cet été, à Toulouse, on lâche tout et on laisse libre cours à son imagination avec le retour du festival Mister Freeze, après deux ans d’absence sur les rives de la Garonne. Installé à la Caserne Jacques Vion, fraîchement rénovée, ce rendez-vous incontournable de l’art urbain et contemporain promet une immersion artistique hors-normes, du 5 juin au 26 juillet.
-Un lieu chargé d’histoire réinventé
-En 2023, Mister Freeze avait déjà foulé le sol d’une caserne toulousaine, celle de Lougnon SDIS31, pour ses 10 ans. Trois ans plus tard, c’est la caserne Jacques Vion, située allée Charles-de-Fitte, un lieu patrimonial d’exception et un bâtiment protégé de 10.000 m2 au cœur de la Ville rose, que le festival transforme en grand atelier éphémère ouvert à toutes et tous.
-&amp;quot;Transformer ce lieu patrimonial inoccupé en écosystème créatif vivant, c’est exactement la démarche qui caractérise Mister Freeze depuis ses débuts : trouver des espaces hors-norme, les révéler et les offrir au public&amp;quot;.
-Fidèle à son ADN underground et à son esprit de famille, Mister Freeze 2026 rassemblera plus de 40 artistes venus de France, d’Espagne, de Grèce, du Chili et d’ailleurs, mais aussi des familles, des passionnés et des néophytes, des skateurs et des gourmands dans un même élan de partage et de création.
-Une programmation vivante et renouvelée
-Bien plus q&lt;/p&gt;
+    <content type="html">&lt;p&gt;Après deux ans d&amp;#x27;absence, le festival de street-art et d&amp;#x27;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&amp;#x27;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&amp;#x27;Espagne, de Grèce, du Chili et d&amp;#x27;autres pays sont annoncés au programme. L&amp;#x27;événement se veut accessible à tous — familles, skateurs, amateurs d&amp;#x27;art comme néophytes — dans l&amp;#x27;esprit underground et festif qui caractérise le festival depuis ses débuts.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/06/ce-festival-de-street-art-fait-son-grand-retour-a-toulouse-et-metamorphose-la-caserne-jacques-vion-13357189.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/05/06/ce-festival-de-street-art-fait-son-grand-retour-a-toulouse-et-metamorphose-la-caserne-jacques-vion-13357189.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce festival de street-art fait son grand retour à Toulouse et métamorphose la caserne Jacques Vion
-"Bienvenue dans le joyeux bazar de Mister Freeze 2026". Cet été, à Toulouse, on lâche tout et on laisse libre cours à son imagination avec le retour du festival Mister Freeze, après deux ans d’absence sur les rives de la Garonne. Installé à la Caserne Jacques Vion, fraîchement rénovée, ce rendez-vous incontournable de l’art urbain et contemporain promet une immersion artistique hors-normes, du 5 juin au 26 juillet.
-Un lieu chargé d’histoire réinventé
-En 2023, Mister Freeze avait déjà foulé le sol d’une caserne toulousaine, celle de Lougnon SDIS31, pour ses 10 ans. Trois ans plus tard, c’est la caserne Jacques Vion, située allée Charles-de-Fitte, un lieu patrimonial d’exception et un bâtiment protégé de 10.000 m2 au cœur de la Ville rose, que le festival transforme en grand atelier éphémère ouvert à toutes et tous.
-"Transformer ce lieu patrimonial inoccupé en écosystème créatif vivant, c’est exactement la démarche qui caractérise Mister Freeze depuis ses débuts : trouver des espaces hors-norme, les révéler et les offrir au public".
-Fidèle à son ADN underground et à son esprit de famille, Mister Freeze 2026 rassemblera plus de 40 artistes venus de France, d’Espagne, de Grèce, du Chili et d’ailleurs, mais aussi des familles, des passionnés et des néophytes, des skateurs et des gourmands dans un même élan de partage et de création.
-Une programmation vivante et renouvelée
-Bien plus q</summary>
-    <category term="place"/>
+    <summary>Après deux ans d'absence, le festival de street-art et d'art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l'occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d'Espagne, de Grèce, du Chili et d'autres pays sont annoncés au programme. L'événement se veut accessible à tous — familles, skateurs, amateurs d'art comme néophytes — dans l'esprit underground et festif qui caractérise le festival depuis ses débuts.</summary>
+    <category term="event"/>
     <published>2026-05-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.toulouscope.fr/2026/05/07/le-festival-de-cannes-en-direct-dans-trois-cinemas-de-lagglo-toulousaine-13357942.php</id>
-    <title>Ce soir, le Festival de Cannes en direct dans trois cinémas de l’agglo toulousaine</title>
+    <id>cluster:29b79e80-bac0-4311-8746-e1ffb8556348</id>
+    <title>Portes ouvertes aux Thermes de Luchon le 15 mai</title>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Les Thermes de Luchon ouvrent leurs portes au public le vendredi 15 mai 2026, de 14h à 18h, pour une après-midi de découverte gratuite et commentée. Les visiteurs pourront parcourir les espaces habituellement réservés aux curistes et suivre les différentes étapes d&amp;#x27;une cure thermale, des bains aux applications de boue en passant par les soins par vapeur. L&amp;#x27;établissement se distingue par ses eaux sulfurées parmi les plus riches en soufre de France, ainsi que par un vaporarium naturel aménagé dans d&amp;#x27;anciennes galeries souterraines. L&amp;#x27;après-midi est pensée comme un moment pédagogique, avec des échanges possibles directement avec les équipes soignantes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/06/ce-lieu-emblematique-de-luchon-ouvre-ses-portes-au-public-le-15-mai-13345868.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/05/06/ce-lieu-emblematique-de-luchon-ouvre-ses-portes-au-public-le-15-mai-13345868.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les Thermes de Luchon ouvrent leurs portes au public le vendredi 15 mai 2026, de 14h à 18h, pour une après-midi de découverte gratuite et commentée. Les visiteurs pourront parcourir les espaces habituellement réservés aux curistes et suivre les différentes étapes d'une cure thermale, des bains aux applications de boue en passant par les soins par vapeur. L'établissement se distingue par ses eaux sulfurées parmi les plus riches en soufre de France, ainsi que par un vaporarium naturel aménagé dans d'anciennes galeries souterraines. L'après-midi est pensée comme un moment pédagogique, avec des échanges possibles directement avec les équipes soignantes.</summary>
+    <category term="event"/>
+    <published>2026-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:de1fc3ac-e96f-4f39-a875-dcee4302b052</id>
+    <title>Le Festival de Cannes retransmis en direct dans trois cinémas Véo</title>
     <updated>2026-05-07T00:00:00+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
-    <content type="html">&lt;p&gt;Ce soir, le Festival de Cannes en direct dans trois cinémas de l’agglo toulousaine
-Le mardi 12 mai, l’esprit de la Croisette souffle jusqu’en région toulousaine. À l’occasion de la soirée d’ouverture du Festival de Cannes, les cinémas Véo proposent une immersion exceptionnelle dans l’un des événements les plus prestigieux du cinéma mondial.
-À la Cartoucherie, à Colomiers et à Muret, les trois cinémas de l’enseigne Véo de l’agglomération se mettent à l’heure de Cannes et participent à cette soirée spéciale, mêlant retransmission en direct et avant-première.
-Une soirée comme à Cannes
-Le public pourra assister en direct, sur grand écran, à la montée des marches et à la cérémonie d’ouverture, présentée cette année par Eye Haïdara. Une occasion rare de vivre l’effervescence cannoise sans quitter Toulouse !
-Point d’orgue de la soirée, la projection en avant-première mondiale de La Vénus électrique, le nouveau film de Pierre Salvadori, avec Pio Marmaï, Anaïs Demoustier et Gilles Lellouche. Cette comédie romantique ouvre officiellement la 79e édition du festival.
-Le film, qui se déroule dans le Paris des années 1920, suit un peintre en panne d’inspiration qui, à travers une supercherie spirite, retrouve goût à la création, au prix d’une relation ambiguë et dangereuse.
-Trois cinémas, trois expériences
-Aux cinémas Véo Cartoucherie et Véo Grand Central de Colomiers, la soirée débute dès 19h avec la retransmission en direct de la cérémonie d’ouverture, accessible gratuitement dans la lim&lt;/p&gt;
+    <content type="html">&lt;p&gt;Le mardi 13 mai, les cinémas Véo de l&amp;#x27;agglomération toulousaine — La Cartoucherie, Colomiers et Muret — proposent une soirée spéciale autour de l&amp;#x27;ouverture du Festival de Cannes. Le public pourra suivre en direct sur grand écran la montée des marches et la cérémonie d&amp;#x27;ouverture, animée par Eye Haïdara. La soirée se prolonge avec l&amp;#x27;avant-première mondiale de La Vénus électrique, nouvelle comédie romantique de Pierre Salvadori avec Pio Marmaï, Anaïs Demoustier et Gilles Lellouche, film d&amp;#x27;ouverture de la 79e édition. Aux cinémas Véo Cartoucherie et Véo Grand Central de Colomiers, la retransmission débute dès 19h et est accessible gratuitement dans la limite des places disponibles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Détails pratiques par cinéma, horaires et synopsis du film d&amp;#x27;ouverture&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/07/le-festival-de-cannes-en-direct-dans-trois-cinemas-de-lagglo-toulousaine-13357942.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/05/07/le-festival-de-cannes-en-direct-dans-trois-cinemas-de-lagglo-toulousaine-13357942.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce soir, le Festival de Cannes en direct dans trois cinémas de l’agglo toulousaine
-Le mardi 12 mai, l’esprit de la Croisette souffle jusqu’en région toulousaine. À l’occasion de la soirée d’ouverture du Festival de Cannes, les cinémas Véo proposent une immersion exceptionnelle dans l’un des événements les plus prestigieux du cinéma mondial.
-À la Cartoucherie, à Colomiers et à Muret, les trois cinémas de l’enseigne Véo de l’agglomération se mettent à l’heure de Cannes et participent à cette soirée spéciale, mêlant retransmission en direct et avant-première.
-Une soirée comme à Cannes
-Le public pourra assister en direct, sur grand écran, à la montée des marches et à la cérémonie d’ouverture, présentée cette année par Eye Haïdara. Une occasion rare de vivre l’effervescence cannoise sans quitter Toulouse !
-Point d’orgue de la soirée, la projection en avant-première mondiale de La Vénus électrique, le nouveau film de Pierre Salvadori, avec Pio Marmaï, Anaïs Demoustier et Gilles Lellouche. Cette comédie romantique ouvre officiellement la 79e édition du festival.
-Le film, qui se déroule dans le Paris des années 1920, suit un peintre en panne d’inspiration qui, à travers une supercherie spirite, retrouve goût à la création, au prix d’une relation ambiguë et dangereuse.
-Trois cinémas, trois expériences
-Aux cinémas Véo Cartoucherie et Véo Grand Central de Colomiers, la soirée débute dès 19h avec la retransmission en direct de la cérémonie d’ouverture, accessible gratuitement dans la lim</summary>
-    <category term="place"/>
+    <summary>Le mardi 13 mai, les cinémas Véo de l'agglomération toulousaine — La Cartoucherie, Colomiers et Muret — proposent une soirée spéciale autour de l'ouverture du Festival de Cannes. Le public pourra suivre en direct sur grand écran la montée des marches et la cérémonie d'ouverture, animée par Eye Haïdara. La soirée se prolonge avec l'avant-première mondiale de La Vénus électrique, nouvelle comédie romantique de Pierre Salvadori avec Pio Marmaï, Anaïs Demoustier et Gilles Lellouche, film d'ouverture de la 79e édition. Aux cinémas Véo Cartoucherie et Véo Grand Central de Colomiers, la retransmission débute dès 19h et est accessible gratuitement dans la limite des places disponibles.</summary>
+    <category term="event"/>
     <published>2026-05-07T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.toulouscope.fr/2026/05/08/du-9-au-30-mai-lopera-national-du-capitole-remet-son-spectacle-itinerant-le-bus-figaro-sur-les-routes-doccitanie-13357217.php</id>
-    <title>Du 9 au 30 mai, l’Opéra national du Capitole remet son spectacle itinérant Le Bus Figaro sur les routes d’Occitanie</title>
+    <id>cluster:09a2d18c-0909-4f2c-9d58-758819e5a168</id>
+    <title>Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</title>
     <updated>2026-05-08T00:00:00+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
-    <content type="html">&lt;p&gt;Du 9 au 30 mai, l’Opéra national du Capitole remet son spectacle itinérant Le Bus Figaro sur les routes d’Occitanie
-Depuis mai 2022, l’art lyrique voyage au cœur de la région Occitanie. Du 9 au 30 mai, l’Opéra national du Capitole remet sur les routes son spectacle itinérant Le Bus Figaro, une adaptation vive et accessible du célèbre Le Barbier de Séville de Gioachino Rossini. Après plusieurs tournées couronnées de succès, ce projet original repart pour une troisième édition à la rencontre des publics, entre écoles, villages et espaces publics.
-Un opéra… dans un bus
-Imaginé comme un &amp;quot;opéra de poche&amp;quot; d’une heure en français, Le Bus Figaro transforme une simple scénographie mobile en véritable théâtre itinérant. Au cœur du dispositif : une chaise à porteurs du XVIIIe siècle (une cabine munie de brancards et portée à bras d’hommes) qui se métamorphose peu à peu en mini-bus, servant de décor et de fil conducteur à ce voyage dans le temps.
-L’objectif est clair : démocratiser l’art lyrique en le rendant accessible partout et à tout le monde. Depuis 2022, cette initiative créée par le Capitole, permet ainsi à l’opéra de sortir de ses murs pour aller directement à la rencontre du public.
-Une comédie intemporelle revisitée
-Adapté de l’œuvre de Rossini, elle-même inspirée de la pièce de Pierre-Augustin Caron de Beaumarchais, Le Bus Figaro reprend les ingrédients qui font le succès du Barbier de Séville : quiproquos, déguisements et intrigues amoureuses.
-On y suit le comte Almaviva, prê&lt;/p&gt;
+    <content type="html">&lt;p&gt;L&amp;#x27;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&amp;#x27;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&amp;#x27;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&amp;#x27;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Présentation détaillée du concept, du dispositif scénique et du calendrier de la tournée&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/08/du-9-au-30-mai-lopera-national-du-capitole-remet-son-spectacle-itinerant-le-bus-figaro-sur-les-routes-doccitanie-13357217.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/05/08/du-9-au-30-mai-lopera-national-du-capitole-remet-son-spectacle-itinerant-le-bus-figaro-sur-les-routes-doccitanie-13357217.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Du 9 au 30 mai, l’Opéra national du Capitole remet son spectacle itinérant Le Bus Figaro sur les routes d’Occitanie
-Depuis mai 2022, l’art lyrique voyage au cœur de la région Occitanie. Du 9 au 30 mai, l’Opéra national du Capitole remet sur les routes son spectacle itinérant Le Bus Figaro, une adaptation vive et accessible du célèbre Le Barbier de Séville de Gioachino Rossini. Après plusieurs tournées couronnées de succès, ce projet original repart pour une troisième édition à la rencontre des publics, entre écoles, villages et espaces publics.
-Un opéra… dans un bus
-Imaginé comme un "opéra de poche" d’une heure en français, Le Bus Figaro transforme une simple scénographie mobile en véritable théâtre itinérant. Au cœur du dispositif : une chaise à porteurs du XVIIIe siècle (une cabine munie de brancards et portée à bras d’hommes) qui se métamorphose peu à peu en mini-bus, servant de décor et de fil conducteur à ce voyage dans le temps.
-L’objectif est clair : démocratiser l’art lyrique en le rendant accessible partout et à tout le monde. Depuis 2022, cette initiative créée par le Capitole, permet ainsi à l’opéra de sortir de ses murs pour aller directement à la rencontre du public.
-Une comédie intemporelle revisitée
-Adapté de l’œuvre de Rossini, elle-même inspirée de la pièce de Pierre-Augustin Caron de Beaumarchais, Le Bus Figaro reprend les ingrédients qui font le succès du Barbier de Séville : quiproquos, déguisements et intrigues amoureuses.
-On y suit le comte Almaviva, prê</summary>
-    <category term="place"/>
+    <summary>L'Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d'une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d'une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l'art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</summary>
+    <category term="event"/>
     <published>2026-05-08T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.toulouscope.fr/2026/05/09/cette-bastide-du-tarn-a-1h-de-toulouse-programme-keny-arkana-alpha-blondy-skip-the-use-pour-son-festival-annuel-13278781.php</id>
-    <title>Cette bastide du Tarn à 1h de Toulouse programme Keny Arkana, Alpha Blondy, Skip The Use… pour son festival annuel</title>
+    <id>cluster:9d2b4b43-6703-418f-85c0-5bd83a54b4c4</id>
+    <title>Le festival Arts' Scénics à Lisle-sur-Tarn affiche une programmation complète pour juillet 2026</title>
     <updated>2026-05-09T00:00:00+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
-    <content type="html">&lt;p&gt;Cette bastide du Tarn à 1h de Toulouse programme Keny Arkana, Alpha Blondy, Skip The Use… pour son festival annuel
-Début juillet, la bastide de Lisle-sur-Tarn change de rythme. Les scènes s’installent, les cuivres résonnent dans les ruelles et les concerts s’enchaînent jusqu’à la nuit. Du 3 au 5 juillet 2026, le Arts&amp;#x27; Scénics revient pour une nouvelle édition qui aligne déjà une programmation particulièrement solide pour un festival de cette taille, désormais complétée par les dernières annonces. Rock, rap, reggae, chanson et musiques hybrides se succéderont pendant trois jours, à une trentaine de minutes de Toulouse.
-Une programmation qui frappe fort
-Depuis quelques jours, la programmation est complète ! Le vendredi, place à une soirée électrique avec le rock explosif de Skip The Use, le collectif L&amp;#x27;Entourloop et son mélange dub / hip-hop, les transes instrumentales de Hilight Tribe et la pop narrative de MPL. Le duo rap Antes &amp;amp; Madzes complète l’affiche !
-Le samedi s’annonce tout aussi dense avec la présence de la légende du reggae africain Alpha Blondy, du rap incisif de Youssoupha et du retour sur scène de La Ruda. La soirée s’ouvrira avec la chanteuse folk-rock Souad Massi, et on entendra retentir les trompettes et synthés du duo Pistons.
-Le dimanche, la rappeuse marseillaise Keny Arkana fera son retour à Lisle-sur-Tarn avec un live toujours aussi frontal. Sur la même journée, le duo toulousain Mouss &amp;amp; Hakim déroulera un spectacle qui traverse plus de trente ans d’aventu&lt;/p&gt;
+    <content type="html">&lt;p&gt;Du 3 au 5 juillet 2026, la bastide de Lisle-sur-Tarn, à une trentaine de minutes de Toulouse, accueille une nouvelle édition du festival Arts&amp;#x27; Scénics. La programmation, désormais complète, mêle rock, rap, reggae et musiques hybrides sur trois jours et trois soirées distinctes. Le vendredi est marqué par Skip The Use, L&amp;#x27;Entourloop et Hilight Tribe ; le samedi par Alpha Blondy, Youssoupha et Souad Massi ; le dimanche par Keny Arkana et le duo toulousain Mouss &amp;amp; Hakim. Selon Toulouscope, l&amp;#x27;événement se distingue par une affiche particulièrement solide pour un festival de cette taille.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Détail complet de la programmation jour par jour et contexte du festival&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/09/cette-bastide-du-tarn-a-1h-de-toulouse-programme-keny-arkana-alpha-blondy-skip-the-use-pour-son-festival-annuel-13278781.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/05/09/cette-bastide-du-tarn-a-1h-de-toulouse-programme-keny-arkana-alpha-blondy-skip-the-use-pour-son-festival-annuel-13278781.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Cette bastide du Tarn à 1h de Toulouse programme Keny Arkana, Alpha Blondy, Skip The Use… pour son festival annuel
-Début juillet, la bastide de Lisle-sur-Tarn change de rythme. Les scènes s’installent, les cuivres résonnent dans les ruelles et les concerts s’enchaînent jusqu’à la nuit. Du 3 au 5 juillet 2026, le Arts' Scénics revient pour une nouvelle édition qui aligne déjà une programmation particulièrement solide pour un festival de cette taille, désormais complétée par les dernières annonces. Rock, rap, reggae, chanson et musiques hybrides se succéderont pendant trois jours, à une trentaine de minutes de Toulouse.
-Une programmation qui frappe fort
-Depuis quelques jours, la programmation est complète ! Le vendredi, place à une soirée électrique avec le rock explosif de Skip The Use, le collectif L'Entourloop et son mélange dub / hip-hop, les transes instrumentales de Hilight Tribe et la pop narrative de MPL. Le duo rap Antes &amp; Madzes complète l’affiche !
-Le samedi s’annonce tout aussi dense avec la présence de la légende du reggae africain Alpha Blondy, du rap incisif de Youssoupha et du retour sur scène de La Ruda. La soirée s’ouvrira avec la chanteuse folk-rock Souad Massi, et on entendra retentir les trompettes et synthés du duo Pistons.
-Le dimanche, la rappeuse marseillaise Keny Arkana fera son retour à Lisle-sur-Tarn avec un live toujours aussi frontal. Sur la même journée, le duo toulousain Mouss &amp; Hakim déroulera un spectacle qui traverse plus de trente ans d’aventu</summary>
-    <category term="place"/>
+    <summary>Du 3 au 5 juillet 2026, la bastide de Lisle-sur-Tarn, à une trentaine de minutes de Toulouse, accueille une nouvelle édition du festival Arts' Scénics. La programmation, désormais complète, mêle rock, rap, reggae et musiques hybrides sur trois jours et trois soirées distinctes. Le vendredi est marqué par Skip The Use, L'Entourloop et Hilight Tribe ; le samedi par Alpha Blondy, Youssoupha et Souad Massi ; le dimanche par Keny Arkana et le duo toulousain Mouss &amp; Hakim. Selon Toulouscope, l'événement se distingue par une affiche particulièrement solide pour un festival de cette taille.</summary>
+    <category term="event"/>
     <published>2026-05-09T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.toulouscope.fr/2026/05/09/4-jours-de-concerts-gratuits-et-en-plein-air-a-toulouse-les-siestes-fetent-leur-25-ans-13355216.php</id>
-    <title>4 jours de concerts gratuits et en plein air à Toulouse : Les Siestes fêtent leur 25 ans</title>
+    <id>cluster:a74d2e89-7d4c-47b1-b140-d1b19a48b8fd</id>
+    <title>Les Siestes Électroniques fêtent 25 ans avec 4 jours gratuits à Toulouse</title>
     <updated>2026-05-09T00:00:00+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
-    <content type="html">&lt;p&gt;4 jours de concerts gratuits et en plein air à Toulouse : Les Siestes fêtent leur 25 ans
-Concerts gratuits, en plein air, univers hybrides, artistes qui ne rentrent dans aucune case, musiques qui surprennent autant qu&amp;#x27;elles rassemblent et esprit d’ouverture : les Siestes Électroniques à Toulouse célèbrent leurs 25 ans d’expérimentations musicales. Rendez-vous du 25 au 28 juin au jardin Compans-Caffarelli, à Toulouse pour cet événement libre, gratuit et fédérateur.
-Un festival à part, fidèle à son ADN
-Nées en 2002 à Toulouse, Les Siestes Électroniques se sont construites autour d’une idée simple : rendre les musiques dites &amp;quot;aventureuses&amp;quot; accessibles à toutes et tous. Gratuit, diurne, en plein air, le festival s’est affranchi dès ses débuts des formats traditionnels pour proposer une expérience ouverte, inclusive et sans barrières.
-&amp;quot;En 2002, le souhait était simple - et un peu hors cadre : que les musiques aventureuses, curieuses, appartiennent à tout le monde. Pas derrière un guichet, pas dans une salle confidentielle, mais en plein air, en plein jour, en plein Toulouse. Gratuitement&amp;quot;, assure les organisateurs.
-25 ans plus tard, cette vision reste intacte. Dans un contexte où la place de la fête et de la culture est régulièrement questionnée (et limitée financièrement), Les Siestes revendiquent leur rôle de festival libre et exigeant.
-Quatre jours de concerts gratuits au cœur de la ville
-Jeudi 25 juin : Un trio pour lancer les festivités. Le Grand Couturier (19h) mêle sonorité&lt;/p&gt;
+    <content type="html">&lt;p&gt;Les Siestes Électroniques célèbrent leur 25e anniversaire avec quatre jours de concerts gratuits en plein air au jardin Compans-Caffarelli, du 25 au 28 juin. Nées en 2002, les Siestes se sont construites autour d&amp;#x27;un principe fondateur : rendre les musiques expérimentales et « aventureuses » accessibles à tous, sans entrée payante et en plein jour. Le festival revendique un ADN resté intact, mêlant artistes inclassables et univers sonores hybrides dans un esprit d&amp;#x27;ouverture et de gratuité. Les Toulousains peuvent y assister librement, le premier rendez-vous étant fixé jeudi 25 juin à partir de 19h.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/09/4-jours-de-concerts-gratuits-et-en-plein-air-a-toulouse-les-siestes-fetent-leur-25-ans-13355216.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/05/09/4-jours-de-concerts-gratuits-et-en-plein-air-a-toulouse-les-siestes-fetent-leur-25-ans-13355216.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>4 jours de concerts gratuits et en plein air à Toulouse : Les Siestes fêtent leur 25 ans
-Concerts gratuits, en plein air, univers hybrides, artistes qui ne rentrent dans aucune case, musiques qui surprennent autant qu'elles rassemblent et esprit d’ouverture : les Siestes Électroniques à Toulouse célèbrent leurs 25 ans d’expérimentations musicales. Rendez-vous du 25 au 28 juin au jardin Compans-Caffarelli, à Toulouse pour cet événement libre, gratuit et fédérateur.
-Un festival à part, fidèle à son ADN
-Nées en 2002 à Toulouse, Les Siestes Électroniques se sont construites autour d’une idée simple : rendre les musiques dites "aventureuses" accessibles à toutes et tous. Gratuit, diurne, en plein air, le festival s’est affranchi dès ses débuts des formats traditionnels pour proposer une expérience ouverte, inclusive et sans barrières.
-"En 2002, le souhait était simple - et un peu hors cadre : que les musiques aventureuses, curieuses, appartiennent à tout le monde. Pas derrière un guichet, pas dans une salle confidentielle, mais en plein air, en plein jour, en plein Toulouse. Gratuitement", assure les organisateurs.
-25 ans plus tard, cette vision reste intacte. Dans un contexte où la place de la fête et de la culture est régulièrement questionnée (et limitée financièrement), Les Siestes revendiquent leur rôle de festival libre et exigeant.
-Quatre jours de concerts gratuits au cœur de la ville
-Jeudi 25 juin : Un trio pour lancer les festivités. Le Grand Couturier (19h) mêle sonorité</summary>
-    <category term="place"/>
+    <summary>Les Siestes Électroniques célèbrent leur 25e anniversaire avec quatre jours de concerts gratuits en plein air au jardin Compans-Caffarelli, du 25 au 28 juin. Nées en 2002, les Siestes se sont construites autour d'un principe fondateur : rendre les musiques expérimentales et « aventureuses » accessibles à tous, sans entrée payante et en plein jour. Le festival revendique un ADN resté intact, mêlant artistes inclassables et univers sonores hybrides dans un esprit d'ouverture et de gratuité. Les Toulousains peuvent y assister librement, le premier rendez-vous étant fixé jeudi 25 juin à partir de 19h.</summary>
+    <category term="event"/>
     <published>2026-05-09T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.toulouscope.fr/2026/05/10/a-1h-de-toulouse-ce-festival-mythique-fete-ses-30-ans-entre-tetes-daffiche-et-retour-aux-sources-13324635.php</id>
-    <title>À 1h de Toulouse, ce festival mythique fête ses 30 ans entre têtes d’affiche et retour aux sources</title>
+    <id>cluster:8649495b-3902-406e-8cee-b92f3cb07c3e</id>
+    <title>Soirée électro inédite sur le rooftop de la médiathèque José-Cabanis</title>
+    <updated>2026-05-09T18:22:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le samedi 30 mai 2026, le rooftop de la médiathèque José-Cabanis (espaces Vanel) accueillera pour la première fois une soirée DJ set électro, organisée par BlumHouse et Orbital Station. L&amp;#x27;événement, prévu de 19h30 à 2h30, transformera le lieu en club à 360° avec scène centrale, sound system renforcé et show lumières adapté à l&amp;#x27;architecture du rooftop. La programmation, entièrement assurée par des artistes locaux, couvrira des genres tels que la Bass, la UK Garage, la UK House, la Drum and Bass et le Hardgroove. Les organisateurs revendiquent une ambiance « boiler room » immersive et s&amp;#x27;inscrivent dans une tendance toulousaine d&amp;#x27;investir des lieux insolites pour les soirées électro, après notamment une soirée techno au MEETT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ca-va-etre-zinzin-une-soiree-electro-va-se-tenir-sur-le-rooftop-de-la-mediatheque-de-toulouse_64205143.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ca-va-etre-zinzin-une-soiree-electro-va-se-tenir-sur-le-rooftop-de-la-mediatheque-de-toulouse_64205143.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le samedi 30 mai 2026, le rooftop de la médiathèque José-Cabanis (espaces Vanel) accueillera pour la première fois une soirée DJ set électro, organisée par BlumHouse et Orbital Station. L'événement, prévu de 19h30 à 2h30, transformera le lieu en club à 360° avec scène centrale, sound system renforcé et show lumières adapté à l'architecture du rooftop. La programmation, entièrement assurée par des artistes locaux, couvrira des genres tels que la Bass, la UK Garage, la UK House, la Drum and Bass et le Hardgroove. Les organisateurs revendiquent une ambiance « boiler room » immersive et s'inscrivent dans une tendance toulousaine d'investir des lieux insolites pour les soirées électro, après notamment une soirée techno au MEETT.</summary>
+    <category term="event"/>
+    <published>2026-05-09T18:22:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:28b4eeac-8edc-4a7a-bf72-53762aef20e1</id>
+    <title>Top 14 : le Stade Toulousain s'impose largement à Toulon (27-51)</title>
+    <updated>2026-05-09T22:52:24+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Stade Toulousain a décroché une victoire bonifiée sur la pelouse du RC Toulon au Vélodrome, sur le score de 27 à 51. La rencontre a été âpre en première période, Toulouse étant bousculé par un Toulon agressif et efficace en contre, avant de passer devant juste avant la pause grâce à un essai d&amp;#x27;Antoine Dupont (40e+2). La seconde période a été nettement plus maîtrisée côté toulousain, avec notamment des contributions de Ntamack, Dupont et Chocobares pour creuser l&amp;#x27;écart. Selon actu_toulouse, un record a également été battu lors de cette rencontre, sans que les détails en soient précisés dans l&amp;#x27;extrait disponible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Récit détaillé du match, minute par minute, avec analyse du déroulé tactique&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-resiste-et-bat-toulon-au-velodrome_64247704.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-resiste-et-bat-toulon-au-velodrome_64247704.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Stade Toulousain a décroché une victoire bonifiée sur la pelouse du RC Toulon au Vélodrome, sur le score de 27 à 51. La rencontre a été âpre en première période, Toulouse étant bousculé par un Toulon agressif et efficace en contre, avant de passer devant juste avant la pause grâce à un essai d'Antoine Dupont (40e+2). La seconde période a été nettement plus maîtrisée côté toulousain, avec notamment des contributions de Ntamack, Dupont et Chocobares pour creuser l'écart. Selon actu_toulouse, un record a également été battu lors de cette rencontre, sans que les détails en soient précisés dans l'extrait disponible.</summary>
+    <category term="news"/>
+    <published>2026-05-09T22:52:24+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:cb03049c-d706-4f31-a77b-cda034a5082c</id>
+    <title>Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</title>
     <updated>2026-05-10T00:00:00+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
-    <content type="html">&lt;p&gt;À 1h de Toulouse, ce festival mythique fête ses 30 ans entre têtes d’affiche et retour aux sources
-Du mercredi 8 au lundi 13 juillet 2026, Pause Guitare célèbre ses 30 ans. Une édition pensée comme un retour aux racines, un hommage collectif aux bénévoles, aux artistes, au public et à l’histoire d’un festival devenu l’un des rendez-vous majeurs de l’été dans le Sud-Ouest.
-30 ans de musique et de partage
-Il y a trente ans, Pause Guitare ressemblait davantage à une fête de village qu’à un grand festival. Quelques amplis, une scène modeste, 200 personnes à tout casser, et une poignée de bénévoles. À l’époque, pas de grandes productions, la soirée se terminait par un bal populaire, où l’on dansait, mangeait et se retrouvait. En 2026, le festival souffle ses 30 bougies avec près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation qui s’étend sur plus d’une dizaine de scènes. Mais derrière cette montée en puissance, l’esprit reste inchangé : faire de la musique ensemble et la partager.
-&amp;quot;L’idée, c’était de rassembler un maximum de personnes et surtout de remercier et célébrer l’ensemble des bénévoles, des partenaires mais aussi des festivaliers&amp;quot;, explique Simon Portes, chargé de communication du festival Pause Guitare. &amp;quot;On voulait finir le festival là où tout a commencé&amp;quot;.
-Un retour aux sources pour cette édition anniversaire, qui donne rendez-vous à Monestiés pour la soirée de clôture. Une soirée symbolique confiée aux premiers bénévoles et équipes techniques présen&lt;/p&gt;
+    <content type="html">&lt;p&gt;Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&amp;#x27;une deux-centaine de personnes, l&amp;#x27;événement accueille aujourd&amp;#x27;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a commencé, et sera confiée aux premiers bénévoles et équipes techniques du festival. Selon le chargé de communication Simon Portes, l&amp;#x27;objectif est de célébrer et remercier bénévoles, partenaires et festivaliers, tout en conservant l&amp;#x27;esprit originel de partage musical.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Présentation de l&amp;#x27;édition anniversaire, contexte historique et esprit du festival&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/10/a-1h-de-toulouse-ce-festival-mythique-fete-ses-30-ans-entre-tetes-daffiche-et-retour-aux-sources-13324635.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/05/10/a-1h-de-toulouse-ce-festival-mythique-fete-ses-30-ans-entre-tetes-daffiche-et-retour-aux-sources-13324635.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>À 1h de Toulouse, ce festival mythique fête ses 30 ans entre têtes d’affiche et retour aux sources
-Du mercredi 8 au lundi 13 juillet 2026, Pause Guitare célèbre ses 30 ans. Une édition pensée comme un retour aux racines, un hommage collectif aux bénévoles, aux artistes, au public et à l’histoire d’un festival devenu l’un des rendez-vous majeurs de l’été dans le Sud-Ouest.
-30 ans de musique et de partage
-Il y a trente ans, Pause Guitare ressemblait davantage à une fête de village qu’à un grand festival. Quelques amplis, une scène modeste, 200 personnes à tout casser, et une poignée de bénévoles. À l’époque, pas de grandes productions, la soirée se terminait par un bal populaire, où l’on dansait, mangeait et se retrouvait. En 2026, le festival souffle ses 30 bougies avec près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation qui s’étend sur plus d’une dizaine de scènes. Mais derrière cette montée en puissance, l’esprit reste inchangé : faire de la musique ensemble et la partager.
-"L’idée, c’était de rassembler un maximum de personnes et surtout de remercier et célébrer l’ensemble des bénévoles, des partenaires mais aussi des festivaliers", explique Simon Portes, chargé de communication du festival Pause Guitare. "On voulait finir le festival là où tout a commencé".
-Un retour aux sources pour cette édition anniversaire, qui donne rendez-vous à Monestiés pour la soirée de clôture. Une soirée symbolique confiée aux premiers bénévoles et équipes techniques présen</summary>
-    <category term="place"/>
+    <summary>Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d'une deux-centaine de personnes, l'événement accueille aujourd'hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a commencé, et sera confiée aux premiers bénévoles et équipes techniques du festival. Selon le chargé de communication Simon Portes, l'objectif est de célébrer et remercier bénévoles, partenaires et festivaliers, tout en conservant l'esprit originel de partage musical.</summary>
+    <category term="event"/>
     <published>2026-05-10T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.toulouscope.fr/2026/05/11/cet-evenement-mele-festivites-et-engagement-avec-concerts-culture-et-debats-13355353.php</id>
-    <title>Cet événement mêle festivités et engagement avec concerts, culture et débats</title>
+    <id>cluster:2dd13b22-c07d-4e30-9e9f-e9459c32fe06</id>
+    <title>La nouvelle série Malcolm sur Disney+ cache un clin d'œil à Toulouse</title>
+    <updated>2026-05-10T10:32:02+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La suite de la série culte « Malcolm », intitulée « Rien n&amp;#x27;a changé » et diffusée sur Disney+ depuis le 10 avril 2026, contient une référence discrète à Toulouse. Au 4e épisode, à 19:34, on aperçoit en arrière-plan les immeubles en brique rose de la rue Victor-Hugo, vus depuis le parking du marché couvert. C&amp;#x27;est le compte Facebook Malcolm France qui a identifié et confirmé le lieu en superposant une photo prise au même endroit. Les raisons de ce clin d&amp;#x27;œil restent floues : rien n&amp;#x27;est officiellement confirmé, mais la série aurait déjà fait d&amp;#x27;autres allusions à la France par le passé, et l&amp;#x27;acteur principal Frankie Muniz s&amp;#x27;était rendu à Toulouse pour le Toulouse Game Show en 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/quel-est-cet-etonnant-clin-d-oeil-a-toulouse-dans-la-nouvelle-serie-malcolm-sur-disney_64192431.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/quel-est-cet-etonnant-clin-d-oeil-a-toulouse-dans-la-nouvelle-serie-malcolm-sur-disney_64192431.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La suite de la série culte « Malcolm », intitulée « Rien n'a changé » et diffusée sur Disney+ depuis le 10 avril 2026, contient une référence discrète à Toulouse. Au 4e épisode, à 19:34, on aperçoit en arrière-plan les immeubles en brique rose de la rue Victor-Hugo, vus depuis le parking du marché couvert. C'est le compte Facebook Malcolm France qui a identifié et confirmé le lieu en superposant une photo prise au même endroit. Les raisons de ce clin d'œil restent floues : rien n'est officiellement confirmé, mais la série aurait déjà fait d'autres allusions à la France par le passé, et l'acteur principal Frankie Muniz s'était rendu à Toulouse pour le Toulouse Game Show en 2017.</summary>
+    <category term="culture"/>
+    <published>2026-05-10T10:32:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:66b05601-0d90-42f8-a3db-471c801f7136</id>
+    <title>Vigilance orange orages en Haute-Garonne et six autres départements d'Occitanie</title>
+    <updated>2026-05-10T10:34:22+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Météo France a placé sept départements d&amp;#x27;Occitanie en vigilance orange aux orages ce dimanche 10 mai 2026, dont la Haute-Garonne, l&amp;#x27;Ariège, l&amp;#x27;Aveyron, le Gers, les Hautes-Pyrénées, le Tarn et le Tarn-et-Garonne. La fenêtre de risque maximale est fixée entre 15h et 21h, avec des orages attendus en deux salves, la première étant la plus virulente. Les phénomènes redoutés incluent une forte activité électrique, des rafales pouvant atteindre 100 km/h localement, de fortes pluies et de la grêle de taille moyenne à grosse (jusqu&amp;#x27;à 2-3 cm de diamètre). Météo France précise qu&amp;#x27;« un risque de tornade n&amp;#x27;est pas totalement exclu ». Les orages devraient se décaler vers l&amp;#x27;est de la région en soirée ; le Lot et l&amp;#x27;Aude pourraient également être touchés dans une moindre mesure, tandis que la Lozère, l&amp;#x27;Hérault et le Gard restent en vigilance jaune.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-risque-de-tornade-n-est-pas-exclu-meteo-france-place-7-departements-d-occitanie-en-vigilance-orange_64248216.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/un-risque-de-tornade-n-est-pas-exclu-meteo-france-place-7-departements-d-occitanie-en-vigilance-orange_64248216.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Météo France a placé sept départements d'Occitanie en vigilance orange aux orages ce dimanche 10 mai 2026, dont la Haute-Garonne, l'Ariège, l'Aveyron, le Gers, les Hautes-Pyrénées, le Tarn et le Tarn-et-Garonne. La fenêtre de risque maximale est fixée entre 15h et 21h, avec des orages attendus en deux salves, la première étant la plus virulente. Les phénomènes redoutés incluent une forte activité électrique, des rafales pouvant atteindre 100 km/h localement, de fortes pluies et de la grêle de taille moyenne à grosse (jusqu'à 2-3 cm de diamètre). Météo France précise qu'« un risque de tornade n'est pas totalement exclu ». Les orages devraient se décaler vers l'est de la région en soirée ; le Lot et l'Aude pourraient également être touchés dans une moindre mesure, tandis que la Lozère, l'Hérault et le Gard restent en vigilance jaune.</summary>
+    <category term="news"/>
+    <published>2026-05-10T10:34:22+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:0ac8b1a6-9ab1-428c-a88e-717ebaf0e66d</id>
+    <title>Le boom des bars à concept à Toulouse : focus sur Palais Mahina</title>
+    <updated>2026-05-10T13:16:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Depuis quelques années, les bars à concept — établissements dédiés à un seul produit — se multiplient à Toulouse avec succès. Parmi les derniers en date, Palais Mahina a ouvert le 30 mars 2026 Grande-Rue Saint-Michel, porté par deux anciens collègues de bureau, Sabrina (Ina) et Alkmar. L&amp;#x27;enseigne propose exclusivement des croissants sucrés ou salés à 8,90 €, garnis de produits frais et locaux, confectionnés à partir de pièces de la boulangerie Saint-Criq. Le nom de l&amp;#x27;établissement mêle références au Palais de Justice voisin, au palais gustatif, à la lune (en tahitien et en arabe), et aux prénoms des deux associés — une identité soigneusement construite autour du projet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Portrait du phénomène des bars à concept à Toulouse et présentation détaillée de Palais Mahina&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/je-voulais-vraiment-vendre-un-produit-unique-croissants-flans-tiramisus-le-boom-des-bars-a-concept-a-toulouse_64240322.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/je-voulais-vraiment-vendre-un-produit-unique-croissants-flans-tiramisus-le-boom-des-bars-a-concept-a-toulouse_64240322.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis quelques années, les bars à concept — établissements dédiés à un seul produit — se multiplient à Toulouse avec succès. Parmi les derniers en date, Palais Mahina a ouvert le 30 mars 2026 Grande-Rue Saint-Michel, porté par deux anciens collègues de bureau, Sabrina (Ina) et Alkmar. L'enseigne propose exclusivement des croissants sucrés ou salés à 8,90 €, garnis de produits frais et locaux, confectionnés à partir de pièces de la boulangerie Saint-Criq. Le nom de l'établissement mêle références au Palais de Justice voisin, au palais gustatif, à la lune (en tahitien et en arabe), et aux prénoms des deux associés — une identité soigneusement construite autour du projet.</summary>
+    <category term="place"/>
+    <published>2026-05-10T13:16:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a3aa6c33-70e1-47b9-83af-ea2b63a06068</id>
+    <title>Résultats sportifs : triomphe du Stade, fin de saison pour le Basket Club</title>
+    <updated>2026-05-10T14:38:34+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le tour d&amp;#x27;horizon sportif de la semaine à Toulouse réserve des fortunes diverses. Le Stade Toulousain a brillé à Toulon avec une large victoire bonifiée (27-51) en Top 14, même si le match fut longtemps serré. Colomiers Rugby a arraché l&amp;#x27;essentiel en Pro D2 face à Mont-de-Marsan (19-13) malgré une prestation jugée laborieuse, lors d&amp;#x27;une soirée chargée en émotion à Michel-Bendichou. Le Fenix Toulouse Handball aurait quant à lui laissé échapper ses chances européennes, tandis que le Toulouse Basket Club a clôturé sa saison sur deux défaites, mettant fin à un exercice qualifié de courageux. En toile de fond, le TFC s&amp;#x27;apprêtait à disputer un match symbolique contre Lyon, marqué par les adieux de Carles Martinez Novell au Stadium.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Bilan complet des résultats sportifs toulousains de la semaine, clubs par clubs&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/sport-clap-de-fin-du-toulouse-basket-club-et-chute-du-fenix-les-resultats-sportifs-de-la-semaine-a-toulouse_64247716.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/sport-clap-de-fin-du-toulouse-basket-club-et-chute-du-fenix-les-resultats-sportifs-de-la-semaine-a-toulouse_64247716.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le tour d'horizon sportif de la semaine à Toulouse réserve des fortunes diverses. Le Stade Toulousain a brillé à Toulon avec une large victoire bonifiée (27-51) en Top 14, même si le match fut longtemps serré. Colomiers Rugby a arraché l'essentiel en Pro D2 face à Mont-de-Marsan (19-13) malgré une prestation jugée laborieuse, lors d'une soirée chargée en émotion à Michel-Bendichou. Le Fenix Toulouse Handball aurait quant à lui laissé échapper ses chances européennes, tandis que le Toulouse Basket Club a clôturé sa saison sur deux défaites, mettant fin à un exercice qualifié de courageux. En toile de fond, le TFC s'apprêtait à disputer un match symbolique contre Lyon, marqué par les adieux de Carles Martinez Novell au Stadium.</summary>
+    <category term="news"/>
+    <published>2026-05-10T14:38:34+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:0e2f2d96-a982-40d5-9778-c16bd09e0736</id>
+    <title>Saint-Aubin : histoire et balade urbaine dans cet ancien faubourg ouvrier</title>
+    <updated>2026-05-10T15:00:02+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le quartier Saint-Aubin, à Toulouse, fait l&amp;#x27;objet d&amp;#x27;un article historique publié par Actu Toulouse, qui retrace son passé d&amp;#x27;ancien faubourg industrieux. Contrairement à l&amp;#x27;image de « belle endormie » souvent accolée à Toulouse, la ville s&amp;#x27;est distinguée dès le XIXe siècle dans la carrosserie hippomobile, au point d&amp;#x27;être la deuxième ville française du secteur après Paris, avec près de 200 carrossiers. Les ateliers se concentraient notamment dans les faubourgs Saint-Étienne et Saint-Aubin. À l&amp;#x27;occasion de cette plongée dans le passé, l&amp;#x27;association En Quête de Patrimoine organise deux balades urbaines intitulées « Saint-Aubin : un faubourg industrieux et républicain », les 15 et 17 mai prochains.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Histoire du quartier Saint-Aubin et détails sur les balades urbaines des 15 et 17 mai&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-voici-lhistoire-du-quartier-saint-aubin-ancien-faubourg-ouvrier_64229950.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-voici-lhistoire-du-quartier-saint-aubin-ancien-faubourg-ouvrier_64229950.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le quartier Saint-Aubin, à Toulouse, fait l'objet d'un article historique publié par Actu Toulouse, qui retrace son passé d'ancien faubourg industrieux. Contrairement à l'image de « belle endormie » souvent accolée à Toulouse, la ville s'est distinguée dès le XIXe siècle dans la carrosserie hippomobile, au point d'être la deuxième ville française du secteur après Paris, avec près de 200 carrossiers. Les ateliers se concentraient notamment dans les faubourgs Saint-Étienne et Saint-Aubin. À l'occasion de cette plongée dans le passé, l'association En Quête de Patrimoine organise deux balades urbaines intitulées « Saint-Aubin : un faubourg industrieux et républicain », les 15 et 17 mai prochains.</summary>
+    <category term="event"/>
+    <published>2026-05-10T15:00:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:6458476b-ce52-47eb-a6cc-c35d320c2cbe</id>
+    <title>Contenu non exploitable : e-mail de confirmation d'inscription</title>
+    <updated>2026-05-10T19:05:02.345000+00:00</updated>
+    <author>
+      <name>newsletter</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;élément transmis est un e-mail automatique d&amp;#x27;actu.fr demandant à l&amp;#x27;utilisateur de confirmer son inscription à une newsletter locale. Il ne contient aucune information journalistique, actualité locale ni événement à résumer. Aucun contenu éditorial n&amp;#x27;est présent dans cet item. Ce cluster ne peut pas faire l&amp;#x27;objet d&amp;#x27;un résumé pour le digest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://tracking.actu.fr/view?msgid=Igdb845gNwHttzMv_kVoBQ2&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Newsletter&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tracking.actu.fr/view?msgid=Igdb845gNwHttzMv_kVoBQ2&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'élément transmis est un e-mail automatique d'actu.fr demandant à l'utilisateur de confirmer son inscription à une newsletter locale. Il ne contient aucune information journalistique, actualité locale ni événement à résumer. Aucun contenu éditorial n'est présent dans cet item. Ce cluster ne peut pas faire l'objet d'un résumé pour le digest.</summary>
+    <category term="news"/>
+    <published>2026-05-10T19:05:02.345000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:e246556c-e53b-4092-b332-1c3f10849c7e</id>
+    <title>Confirmation d'inscription à la newsletter Toulouscope</title>
+    <updated>2026-05-10T19:07:05.580000+00:00</updated>
+    <author>
+      <name>newsletter</name>
+    </author>
+    <content type="html">&lt;p&gt;Cet élément est un e-mail automatique de confirmation d&amp;#x27;inscription à la newsletter de Toulouscope, sans contenu éditorial. Il ne contient aucune information locale ou actualité toulousaine. Il s&amp;#x27;agit d&amp;#x27;un message technique destiné à valider une adresse e-mail via un lien de confirmation. Aucun événement, lieu ou sujet d&amp;#x27;actualité n&amp;#x27;est abordé.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://nl.toulouscope.fr/optiext/optiextension.dll?ID=6pfjPObRjqShgd2ugCFiF2DOuIiJX7WWX8aSwhdEsEQRcP-4rV-b5SUkNjvPXl-GC0_4wVIZnxXedCLifzI&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Newsletter&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://nl.toulouscope.fr/optiext/optiextension.dll?ID=6pfjPObRjqShgd2ugCFiF2DOuIiJX7WWX8aSwhdEsEQRcP-4rV-b5SUkNjvPXl-GC0_4wVIZnxXedCLifzI&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Cet élément est un e-mail automatique de confirmation d'inscription à la newsletter de Toulouscope, sans contenu éditorial. Il ne contient aucune information locale ou actualité toulousaine. Il s'agit d'un message technique destiné à valider une adresse e-mail via un lien de confirmation. Aucun événement, lieu ou sujet d'actualité n'est abordé.</summary>
+    <category term="news"/>
+    <published>2026-05-10T19:07:05.580000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1189c758-003c-48fa-a68a-779c57a5264a</id>
+    <title>Confirmation d'inscription à la newsletter L'Essentiel Toulouse</title>
+    <updated>2026-05-10T19:08:40.898000+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;unique élément de ce groupe est un e-mail automatique de confirmation d&amp;#x27;inscription à la newsletter L&amp;#x27;Essentiel Toulouse. Il ne contient aucune information éditoriale ni actualité locale exploitable. Le contenu visible se limite à du code CSS de mise en forme et à un message de bienvenue générique. Aucun événement, fait ou sujet d&amp;#x27;actualité toulousain n&amp;#x27;est mentionné.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/proc.php?nl=12&amp;amp;c=7597&amp;amp;m=7761&amp;amp;s=71cc8fa2341883463caebe98806c8455&amp;amp;act=unsub&amp;amp;runid=69865022&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/proc.php?nl=12&amp;c=7597&amp;m=7761&amp;s=71cc8fa2341883463caebe98806c8455&amp;act=unsub&amp;runid=69865022&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'unique élément de ce groupe est un e-mail automatique de confirmation d'inscription à la newsletter L'Essentiel Toulouse. Il ne contient aucune information éditoriale ni actualité locale exploitable. Le contenu visible se limite à du code CSS de mise en forme et à un message de bienvenue générique. Aucun événement, fait ou sujet d'actualité toulousain n'est mentionné.</summary>
+    <category term="news"/>
+    <published>2026-05-10T19:08:40.898000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a663bf93-2b9d-41c6-bccc-972b2463a01c</id>
+    <title>Confirmation d'inscription à une newsletter toulousaine</title>
+    <updated>2026-05-10T19:12:45.508000+00:00</updated>
+    <author>
+      <name>newsletter</name>
+    </author>
+    <content type="html">&lt;p&gt;Le contenu disponible correspond à un e-mail automatique de confirmation d&amp;#x27;inscription à une newsletter, sans information éditoriale exploitable. Aucun événement, actualité ou lieu n&amp;#x27;est mentionné dans l&amp;#x27;extrait fourni. Il s&amp;#x27;agit uniquement d&amp;#x27;un message technique généré par une plateforme d&amp;#x27;envoi d&amp;#x27;e-mails. Aucun contenu journalistique ne peut être résumé à partir de cette source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://redir.ownpage.fr/v1/optin/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiYjlmMDVlZjUiLCJyZWRpciI6Imh0dHBzOi8vbGVib25ib24uZnIvdG91bG91c2UvIiwidCI6IkttNHM4a2FrYno4ZTRackZUcDdhMVEiLCJmIjoiZmFsc2UiLCJlbSI6Im5ld3NsZXR0ZXJzQGxhdmlsbGVyb3NlLmNvbSJ9?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Newsletter&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://redir.ownpage.fr/v1/optin/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiYjlmMDVlZjUiLCJyZWRpciI6Imh0dHBzOi8vbGVib25ib24uZnIvdG91bG91c2UvIiwidCI6IkttNHM4a2FrYno4ZTRackZUcDdhMVEiLCJmIjoiZmFsc2UiLCJlbSI6Im5ld3NsZXR0ZXJzQGxhdmlsbGVyb3NlLmNvbSJ9?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le contenu disponible correspond à un e-mail automatique de confirmation d'inscription à une newsletter, sans information éditoriale exploitable. Aucun événement, actualité ou lieu n'est mentionné dans l'extrait fourni. Il s'agit uniquement d'un message technique généré par une plateforme d'envoi d'e-mails. Aucun contenu journalistique ne peut être résumé à partir de cette source.</summary>
+    <category term="news"/>
+    <published>2026-05-10T19:12:45.508000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7e98059a-9b60-4572-acfe-f8a2f29590b9</id>
+    <title>Une grenade fumigène découverte près du pont des Catalans, les démineurs interviennent</title>
+    <updated>2026-05-10T19:14:36+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Dimanche 10 mai 2026 vers 12h42, les pompiers ont été appelés pour un colis suspect repéré à l&amp;#x27;accès du pont des Catalans à Toulouse. Les démineurs sont intervenus et ont identifié l&amp;#x27;engin comme une grenade fumigène, sans danger immédiat pour les personnes. Un périmètre de sécurité a été instauré par la police, et la circulation au niveau du pont a été temporairement interrompue. Au total, 10 sapeurs-pompiers et trois engins ont été mobilisés ; aucune victime n&amp;#x27;est à déplorer, selon le SDIS 31.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-grenade-decouverte-pres-du-pont-des-catalans-a-toulouse-les-demineurs-interviennent_64249210.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/une-grenade-decouverte-pres-du-pont-des-catalans-a-toulouse-les-demineurs-interviennent_64249210.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Dimanche 10 mai 2026 vers 12h42, les pompiers ont été appelés pour un colis suspect repéré à l'accès du pont des Catalans à Toulouse. Les démineurs sont intervenus et ont identifié l'engin comme une grenade fumigène, sans danger immédiat pour les personnes. Un périmètre de sécurité a été instauré par la police, et la circulation au niveau du pont a été temporairement interrompue. Au total, 10 sapeurs-pompiers et trois engins ont été mobilisés ; aucune victime n'est à déplorer, selon le SDIS 31.</summary>
+    <category term="news"/>
+    <published>2026-05-10T19:14:36+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:bfc9b8cc-60df-4e70-bd60-0232058097d6</id>
+    <title>Confirmation d'abonnement à la newsletter Toulouse Secret</title>
+    <updated>2026-05-10T19:15:09.980000+00:00</updated>
+    <author>
+      <name>newsletter</name>
+    </author>
+    <content type="html">&lt;p&gt;Ce message est un e-mail automatique de confirmation d&amp;#x27;abonnement à la newsletter Toulouse Secret, envoyé par la plateforme Mailchimp. Il ne contient aucune information éditoriale ni actualité locale. Le destinataire doit cliquer sur le lien fourni pour valider son inscription à la liste. Aucun contenu journalistique n&amp;#x27;est présent dans cet élément.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="mailto:bounce-md_30010842.6a00d93d.v1-14c360892ddf4095936fd6b4d7606b7a@mandrillapp.com?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Newsletter&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="mailto:bounce-md_30010842.6a00d93d.v1-14c360892ddf4095936fd6b4d7606b7a@mandrillapp.com?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Ce message est un e-mail automatique de confirmation d'abonnement à la newsletter Toulouse Secret, envoyé par la plateforme Mailchimp. Il ne contient aucune information éditoriale ni actualité locale. Le destinataire doit cliquer sur le lien fourni pour valider son inscription à la liste. Aucun contenu journalistique n'est présent dans cet élément.</summary>
+    <category term="news"/>
+    <published>2026-05-10T19:15:09.980000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7c45a9c2-a418-4b27-83cc-499c8cc408a1</id>
+    <title>La Fête de l'Huma 31 revient à Pechbonnieu fin mai 2026</title>
     <updated>2026-05-11T00:00:00+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
-    <content type="html">&lt;p&gt;Cet événement mêle festivités et engagement avec concerts, culture et débats
-La Fête de l’Huma 31 revient à Pechbonnieu, au nord de Toulouse, les vendredi 29 et samedi 30 mai 2026. Un rendez-vous à la fois culturel et festif ouverts à tous et aux familles, où concerts, expositions, débats et rencontres militantes se croisent tout au long du week-end.
-Un lieu de vie engagé le temps d’un week-end
-Installée dans un espace arboré et agréable à proximité du stade de Pechbonnieu, la Fête de l’Huma 31 se construit comme un espace d’échanges. Ici, le village associatif occupe une place centrale, avec la présence d’organisations syndicales, solidaires, féministes ou encore internationalistes qui incarnent le dynamisme de l’engagement et de la solidarité en Haute-Garonne.
-On passe d’un stand à un autre, on discute, on s’informe, avant de s’arrêter à la buvette ou aux espaces de restauration ouverts toute la journée à la bonne franquette. L’ambiance est détendue et chaleureuse, chargée d’espoir et d&amp;#x27;idées pour construire un avenir meilleur...
-Le vendredi soir, les rencontres sportives, organisées autour du football et du rugby, participent aussi à cet esprit collectif, en mettant en avant la mixité et la solidarité.
-Une programmation culturelle
-L’événement accorde une large place à la culture sous toutes ses formes. Plusieurs expositions reviennent sur des épisodes marquants de l’histoire sociale et politique, tout en laissant une place à des propositions artistiques contemporaines auss&lt;/p&gt;
+    <content type="html">&lt;p&gt;La Fête de l&amp;#x27;Huma 31 se tiendra les vendredi 29 et samedi 30 mai 2026 à Pechbonnieu, au nord de Toulouse, près du stade municipal. L&amp;#x27;événement, ouvert à tous et aux familles, mêle concerts, expositions, débats politiques et rencontres militantes dans un cadre arboré. Un village associatif rassemblera des organisations syndicales, féministes, solidaires et internationalistes, tandis que des espaces de restauration et une buvette animeront le site tout au long du week-end. Le vendredi soir, des rencontres sportives de football et de rugby autour des valeurs de mixité et de solidarité sont également au programme. Selon Toulouscope, la programmation culturelle inclut des expositions sur l&amp;#x27;histoire sociale et politique ainsi que des propositions artistiques contemporaines.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/11/cet-evenement-mele-festivites-et-engagement-avec-concerts-culture-et-debats-13355353.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/05/11/cet-evenement-mele-festivites-et-engagement-avec-concerts-culture-et-debats-13355353.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Cet événement mêle festivités et engagement avec concerts, culture et débats
-La Fête de l’Huma 31 revient à Pechbonnieu, au nord de Toulouse, les vendredi 29 et samedi 30 mai 2026. Un rendez-vous à la fois culturel et festif ouverts à tous et aux familles, où concerts, expositions, débats et rencontres militantes se croisent tout au long du week-end.
-Un lieu de vie engagé le temps d’un week-end
-Installée dans un espace arboré et agréable à proximité du stade de Pechbonnieu, la Fête de l’Huma 31 se construit comme un espace d’échanges. Ici, le village associatif occupe une place centrale, avec la présence d’organisations syndicales, solidaires, féministes ou encore internationalistes qui incarnent le dynamisme de l’engagement et de la solidarité en Haute-Garonne.
-On passe d’un stand à un autre, on discute, on s’informe, avant de s’arrêter à la buvette ou aux espaces de restauration ouverts toute la journée à la bonne franquette. L’ambiance est détendue et chaleureuse, chargée d’espoir et d'idées pour construire un avenir meilleur...
-Le vendredi soir, les rencontres sportives, organisées autour du football et du rugby, participent aussi à cet esprit collectif, en mettant en avant la mixité et la solidarité.
-Une programmation culturelle
-L’événement accorde une large place à la culture sous toutes ses formes. Plusieurs expositions reviennent sur des épisodes marquants de l’histoire sociale et politique, tout en laissant une place à des propositions artistiques contemporaines auss</summary>
-    <category term="place"/>
+    <summary>La Fête de l'Huma 31 se tiendra les vendredi 29 et samedi 30 mai 2026 à Pechbonnieu, au nord de Toulouse, près du stade municipal. L'événement, ouvert à tous et aux familles, mêle concerts, expositions, débats politiques et rencontres militantes dans un cadre arboré. Un village associatif rassemblera des organisations syndicales, féministes, solidaires et internationalistes, tandis que des espaces de restauration et une buvette animeront le site tout au long du week-end. Le vendredi soir, des rencontres sportives de football et de rugby autour des valeurs de mixité et de solidarité sont également au programme. Selon Toulouscope, la programmation culturelle inclut des expositions sur l'histoire sociale et politique ainsi que des propositions artistiques contemporaines.</summary>
+    <category term="event"/>
     <published>2026-05-11T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.toulouscope.fr/2026/05/12/festival-du-brunch-a-toulouse-ce-week-end-buffets-marche-culinaire-et-un-an-de-brunch-a-gagner-13360387.php</id>
-    <title>Festival du Brunch à Toulouse ce week-end : buffets, marché culinaire et un an de brunch à gagner</title>
-    <updated>2026-05-12T00:00:00+00:00</updated>
+    <id>cluster:0e8ba55d-5a6a-4e28-bec8-0e6269d24085</id>
+    <title>Réseaux sociaux, jardins de mai et nouveautés à la fondation Bemberg</title>
+    <updated>2026-05-11T04:04:51.504000+00:00</updated>
     <author>
-      <name>toulouscope</name>
+      <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;Festival du Brunch à Toulouse ce week-end : buffets, marché culinaire et un an de brunch à gagner
-Brunch-lover ? Le restaurant Barricot - Mercure Toulouse Centre Compans, à Compans-Caffarelli, organise sa 3ᵉ édition du délicieux Festival du Brunch ! Durant les quatre jours du long week-end de l&amp;#x27;Ascension, du 14 au 17 mai 2026, les fins gourmets sont invité.e.s à se mettre à table. D&amp;#x27;autant que, cette année, la toute nouvelle formule de l&amp;#x27;événement propose des thématiques gourmandes, un marché des créateur.rice.s et producteur.rice.s locaux.les, ainsi qu&amp;#x27;un jeu-concours inédit...
-Un jour, une spécialité culinaire
-Fraîcheur printanière oblige, le premier jour du Festival du Brunch, jeudi 14 mai, est dédié aux fraises et aux fruits en général. Le lendemain, vendredi 15 mai, le thème porte le doux nom de &amp;quot;Cheeeeese&amp;quot; ; les fromages des régions de France et d&amp;#x27;ailleurs seront à l&amp;#x27;honneur. Samedi 16 mai, les saveurs &amp;quot;Barbeuc&amp;#x27;&amp;quot; plairont aux amateur.rice.s de grillades. Enfin, pour clôturer le festival, le dimanche 17 mai sera consacré aux fruits de mer - crevettes, huîtres et oursins en folie. Bien sûr, de nombreux autres plats seront servis, toujours dans la veine du Barricot : frais, à volonté et fait maison.
-À découvrir entre deux bouchées
-Cette année, le Festival du Brunch a souhaité &amp;quot;associer davantage la gastronomie aux talents et savoir-faire locaux, afin de proposer au public une expérience clés en main, élargie pour tou.te.s : habitant.e.s et visiteur.se.s, amateur.rice.s de&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/05/12/festival-du-brunch-a-toulouse-ce-week-end-buffets-marche-culinaire-et-un-an-de-brunch-a-gagner-13360387.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/05/12/festival-du-brunch-a-toulouse-ce-week-end-buffets-marche-culinaire-et-un-an-de-brunch-a-gagner-13360387.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Festival du Brunch à Toulouse ce week-end : buffets, marché culinaire et un an de brunch à gagner
-Brunch-lover ? Le restaurant Barricot - Mercure Toulouse Centre Compans, à Compans-Caffarelli, organise sa 3ᵉ édition du délicieux Festival du Brunch ! Durant les quatre jours du long week-end de l'Ascension, du 14 au 17 mai 2026, les fins gourmets sont invité.e.s à se mettre à table. D'autant que, cette année, la toute nouvelle formule de l'événement propose des thématiques gourmandes, un marché des créateur.rice.s et producteur.rice.s locaux.les, ainsi qu'un jeu-concours inédit...
-Un jour, une spécialité culinaire
-Fraîcheur printanière oblige, le premier jour du Festival du Brunch, jeudi 14 mai, est dédié aux fraises et aux fruits en général. Le lendemain, vendredi 15 mai, le thème porte le doux nom de "Cheeeeese" ; les fromages des régions de France et d'ailleurs seront à l'honneur. Samedi 16 mai, les saveurs "Barbeuc'" plairont aux amateur.rice.s de grillades. Enfin, pour clôturer le festival, le dimanche 17 mai sera consacré aux fruits de mer - crevettes, huîtres et oursins en folie. Bien sûr, de nombreux autres plats seront servis, toujours dans la veine du Barricot : frais, à volonté et fait maison.
-À découvrir entre deux bouchées
-Cette année, le Festival du Brunch a souhaité "associer davantage la gastronomie aux talents et savoir-faire locaux, afin de proposer au public une expérience clés en main, élargie pour tou.te.s : habitant.e.s et visiteur.se.s, amateur.rice.s de</summary>
-    <category term="place"/>
-    <published>2026-05-12T00:00:00+00:00</published>
+    <content type="html">&lt;p&gt;Le dernier bulletin de L&amp;#x27;Essentiel aborde plusieurs sujets toulousains en bref. On y parle de la dépendance aux réseaux sociaux, évoquée sous le titre « Prisonnier des réseaux ». Le numéro mentionne également des conseils ou activités liés aux jardins en mai, les nouveautés proposées par la fondation Bemberg, ainsi que des fermetures nocturnes à noter. Les détails précis sur chacun de ces sujets restent à découvrir dans l&amp;#x27;article source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Tour d&amp;#x27;horizon des actualités et bons plans toulousains de la semaine&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNw13QmjEA0_ueglPXEInKi5q36zN9LUPFs1o2jkN~yj-w&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNw13QmjEA0_ueglPXEInKi5q36zN9LUPFs1o2jkN~yj-w&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le dernier bulletin de L'Essentiel aborde plusieurs sujets toulousains en bref. On y parle de la dépendance aux réseaux sociaux, évoquée sous le titre « Prisonnier des réseaux ». Le numéro mentionne également des conseils ou activités liés aux jardins en mai, les nouveautés proposées par la fondation Bemberg, ainsi que des fermetures nocturnes à noter. Les détails précis sur chacun de ces sujets restent à découvrir dans l'article source.</summary>
+    <category term="news"/>
+    <published>2026-05-11T04:04:51.504000+00:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/toulouse-un-jeune-de-26-ans-tres-grievement-blesse-au-travail-il-a-glisse-d-un-toit-avant-de-chuter-de-trois-etages_64251831.html</id>
-    <title>Toulouse. Un jeune de 26 ans très grièvement blessé au travail : il a glissé d'un toit avant de chuter de trois étages</title>
+    <id>cluster:44d01485-6c6b-4b0b-970e-9c2e9170ba5b</id>
+    <title>Un scénario retenu pour réaménager la dangereuse M112 à l'est de Toulouse</title>
+    <updated>2026-05-11T06:04:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Toulouse Métropole a tranché : un scénario d&amp;#x27;aménagement a été choisi pour la M112 (route d&amp;#x27;Agde/route de Lavaur), axe qualifié de « suicidaire » à pied ou à vélo par l&amp;#x27;ancien maire de Montrabé. Ce tronçon, porte d&amp;#x27;entrée est de la métropole, est jugé particulièrement dangereux pour les usagers vulnérables dans une zone économique en plein développement. Le projet s&amp;#x27;inscrit dans le REV 18, portion du Réseau express vélo devant relier à terme Beaupuy à Marengo via Balma-Gramont. C&amp;#x27;est Jean-Jacques Bolzan, nouveau vice-président de Toulouse Métropole chargé de la voirie, qui confirme l&amp;#x27;annonce, plus d&amp;#x27;un an après la concertation publique. Les prochaines étapes du projet ne sont pas encore précisées dans l&amp;#x27;extrait disponible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails du scénario retenu et prochaines étapes du réaménagement de la M112&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/voici-le-projet-choisi-pour-reamenager-cette-porte-d-entree-de-la-metropole-de-toulouse_64234121.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/voici-le-projet-choisi-pour-reamenager-cette-porte-d-entree-de-la-metropole-de-toulouse_64234121.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse Métropole a tranché : un scénario d'aménagement a été choisi pour la M112 (route d'Agde/route de Lavaur), axe qualifié de « suicidaire » à pied ou à vélo par l'ancien maire de Montrabé. Ce tronçon, porte d'entrée est de la métropole, est jugé particulièrement dangereux pour les usagers vulnérables dans une zone économique en plein développement. Le projet s'inscrit dans le REV 18, portion du Réseau express vélo devant relier à terme Beaupuy à Marengo via Balma-Gramont. C'est Jean-Jacques Bolzan, nouveau vice-président de Toulouse Métropole chargé de la voirie, qui confirme l'annonce, plus d'un an après la concertation publique. Les prochaines étapes du projet ne sont pas encore précisées dans l'extrait disponible.</summary>
+    <category term="news"/>
+    <published>2026-05-11T06:04:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a4c7ca71-5359-435c-bfd5-3b9531bdda03</id>
+    <title>Capifrance recrute 50 conseillers immobiliers à Toulouse en 2026</title>
+    <updated>2026-05-11T06:40:02+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le réseau Capifrance, pionnier des conseillers immobiliers indépendants fondé en 2002, annonce le recrutement de 50 conseillers à Toulouse et en Haute-Garonne pour 2026. L&amp;#x27;objectif est de renforcer la couverture locale, aussi bien dans les zones à fort potentiel que dans les secteurs moins desservis. Les profils recherchés sont variés : candidats expérimentés ou en reconversion professionnelle, à l&amp;#x27;aise avec le digital et dotés d&amp;#x27;un esprit entrepreneurial. En 2025, près de 70 % des recrues de l&amp;#x27;entreprise étaient en reconversion, ce qui illustre l&amp;#x27;orientation affichée du réseau vers des profils atypiques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-fleuron-de-l-immobilier-recrute-50-personnes-a-toulouse-et-en-haute-garonne-en-2026_64239328.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ce-fleuron-de-l-immobilier-recrute-50-personnes-a-toulouse-et-en-haute-garonne-en-2026_64239328.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le réseau Capifrance, pionnier des conseillers immobiliers indépendants fondé en 2002, annonce le recrutement de 50 conseillers à Toulouse et en Haute-Garonne pour 2026. L'objectif est de renforcer la couverture locale, aussi bien dans les zones à fort potentiel que dans les secteurs moins desservis. Les profils recherchés sont variés : candidats expérimentés ou en reconversion professionnelle, à l'aise avec le digital et dotés d'un esprit entrepreneurial. En 2025, près de 70 % des recrues de l'entreprise étaient en reconversion, ce qui illustre l'orientation affichée du réseau vers des profils atypiques.</summary>
+    <category term="news"/>
+    <published>2026-05-11T06:40:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5f6e7d20-2788-471a-8378-9008bb2fef32</id>
+    <title>Dix bustes historiques restaurés de retour dans la salle du Capitole</title>
+    <updated>2026-05-11T07:12:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Lors du conseil municipal du 30 avril 2026, les élus toulousains ont retrouvé la salle du conseil du Capitole avec sa dernière touche de restauration : le retour de dix bustes en terre cuite représentant des rois wisigoths et comtes de Toulouse. Ces sculptures, réalisées par l&amp;#x27;artiste toulousain Marc Arcis et son atelier entre 1674 et 1677, avaient été retirées en décembre 2025 pour quatre mois de restauration au sein de l&amp;#x27;atelier municipal du patrimoine. Leur retour marque l&amp;#x27;achèvement de la rénovation globale de la salle du conseil — classée Monument historique — dont les travaux principaux (11 mois) avaient été présentés fin novembre 2025. Le public peut également admirer ces bustes lors des heures de visite du Capitole.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-derniere-touche-dans-la-restauration-de-cette-salle-historique-ces-dix-bustes-font-leur-retour-au-capitole_64220657.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-derniere-touche-dans-la-restauration-de-cette-salle-historique-ces-dix-bustes-font-leur-retour-au-capitole_64220657.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Lors du conseil municipal du 30 avril 2026, les élus toulousains ont retrouvé la salle du conseil du Capitole avec sa dernière touche de restauration : le retour de dix bustes en terre cuite représentant des rois wisigoths et comtes de Toulouse. Ces sculptures, réalisées par l'artiste toulousain Marc Arcis et son atelier entre 1674 et 1677, avaient été retirées en décembre 2025 pour quatre mois de restauration au sein de l'atelier municipal du patrimoine. Leur retour marque l'achèvement de la rénovation globale de la salle du conseil — classée Monument historique — dont les travaux principaux (11 mois) avaient été présentés fin novembre 2025. Le public peut également admirer ces bustes lors des heures de visite du Capitole.</summary>
+    <category term="news"/>
+    <published>2026-05-11T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c095b845-3d44-487b-a13b-37a4e0ed0ed9</id>
+    <title>Retours du long week-end : trafic difficile vers Toulouse</title>
+    <updated>2026-05-11T08:31:30+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le retour du long week-end du 8 mai a provoqué d&amp;#x27;importants bouchons sur les axes autoroutiers menant à Toulouse. Dès dimanche 10 mai vers 17h, l&amp;#x27;A61 entre Narbonne et Toulouse était jalonnée de ralentissements successifs — notamment à Lézignan-Corbières, Carcassonne et Castelnaudary — représentant plusieurs dizaines de kilomètres cumulés. Sur l&amp;#x27;A64, des conditions météorologiques dégradées (grêle côté Saint-Gaudens, vigilance orange orages en Haute-Garonne) ont compliqué la circulation, avec un bouchon de 5 km à hauteur du péage de Lestelle, en zone de travaux. Le lundi matin 11 mai, la situation restait tendue sur le périphérique toulousain, avec des ralentissements depuis l&amp;#x27;A62, l&amp;#x27;A64 et l&amp;#x27;A68, et un bouchon d&amp;#x27;environ 5 km aux abords de Lespinet dans les deux sens.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Bouchons du dimanche soir sur l&amp;#x27;A61 et l&amp;#x27;A64, avec détail météo&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Point sur la circulation du lundi matin sur le périphérique&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/succession-de-bouchons-entre-narbonne-et-toulouse-avec-les-retours-du-long-week-end-vos-conditions-de-circulation_64248878.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-attention-ca-bouchonne-un-trafic-complique-sur-le-peripherique-ce-lundi-matin_64249638.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/succession-de-bouchons-entre-narbonne-et-toulouse-avec-les-retours-du-long-week-end-vos-conditions-de-circulation_64248878.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le retour du long week-end du 8 mai a provoqué d'importants bouchons sur les axes autoroutiers menant à Toulouse. Dès dimanche 10 mai vers 17h, l'A61 entre Narbonne et Toulouse était jalonnée de ralentissements successifs — notamment à Lézignan-Corbières, Carcassonne et Castelnaudary — représentant plusieurs dizaines de kilomètres cumulés. Sur l'A64, des conditions météorologiques dégradées (grêle côté Saint-Gaudens, vigilance orange orages en Haute-Garonne) ont compliqué la circulation, avec un bouchon de 5 km à hauteur du péage de Lestelle, en zone de travaux. Le lundi matin 11 mai, la situation restait tendue sur le périphérique toulousain, avec des ralentissements depuis l'A62, l'A64 et l'A68, et un bouchon d'environ 5 km aux abords de Lespinet dans les deux sens.</summary>
+    <category term="news"/>
+    <published>2026-05-10T17:16:17+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d88dc494-6e32-436b-b956-8608544ef367</id>
+    <title>Tirage au sort des jurés d'assises toulousains le 11 mai</title>
+    <updated>2026-05-11T12:04:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le maire de Toulouse Jean-Luc Moudenc procédera le lundi 11 mai à 11h, au site Valade (34 rue Pargaminières), au tirage au sort annuel des jurés pour la liste préparatoire du jury d&amp;#x27;assises 2027. Tout électeur inscrit sur les listes électorales, âgé de plus de 23 ans en 2027, maîtrisant le français et jouissant de ses droits civiques peut être désigné. Les personnes tirées au sort reçoivent un courrier et peuvent demander une dispense pour motif grave ; une absence injustifiée est passible d&amp;#x27;une amende de 3 750 euros. La liste préparatoire sera transmise à la Cour d&amp;#x27;Appel avant le 15 juillet 2026, puis une commission à la Cour d&amp;#x27;Assises de Haute-Garonne retiendra 35 jurés et 10 suppléants pour siéger dès 2027 lors de procès notamment pour homicide volontaire ou viol.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/jures-d-assises-a-toulouse-et-si-c-etait-vous-voici-comment-fonctionne-le-tirage-au-sort_64249731.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/jures-d-assises-a-toulouse-et-si-c-etait-vous-voici-comment-fonctionne-le-tirage-au-sort_64249731.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le maire de Toulouse Jean-Luc Moudenc procédera le lundi 11 mai à 11h, au site Valade (34 rue Pargaminières), au tirage au sort annuel des jurés pour la liste préparatoire du jury d'assises 2027. Tout électeur inscrit sur les listes électorales, âgé de plus de 23 ans en 2027, maîtrisant le français et jouissant de ses droits civiques peut être désigné. Les personnes tirées au sort reçoivent un courrier et peuvent demander une dispense pour motif grave ; une absence injustifiée est passible d'une amende de 3 750 euros. La liste préparatoire sera transmise à la Cour d'Appel avant le 15 juillet 2026, puis une commission à la Cour d'Assises de Haute-Garonne retiendra 35 jurés et 10 suppléants pour siéger dès 2027 lors de procès notamment pour homicide volontaire ou viol.</summary>
+    <category term="news"/>
+    <published>2026-05-11T12:04:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:44624536-1977-41f0-931c-602d3deb9451</id>
+    <title>Orage à Toulouse : un Ryanair détourné sur Perpignan après huit boucles</title>
+    <updated>2026-05-11T12:28:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le dimanche 10 mai 2026, un vol Ryanair Marrakech-Toulouse a subi un important retard en raison d&amp;#x27;une violente cellule orageuse sur l&amp;#x27;agglomération toulousaine. À l&amp;#x27;approche de Toulouse-Blagnac, le pilote a effectué pas moins de huit boucles au-dessus de l&amp;#x27;Ariège — entre Castanet, Mazères et Nailloux — avant de renoncer et de se dérouter sur Perpignan-Rivesaltes. Une rafale de près de 100 km/h avait été enregistrée à Toulouse-Blagnac au passage de la perturbation. L&amp;#x27;avion a finalement rejoint Toulouse depuis Perpignan en 22 minutes, atterrissant à 21 h 19, soit avec près d&amp;#x27;une heure et demie de retard.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pourquoi-un-avion-de-ryanair-a-destination-de-toulouse-a-tourne-en-boucle-avant-d-etre-finalement-deroute-a-perpignan_64250647.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/pourquoi-un-avion-de-ryanair-a-destination-de-toulouse-a-tourne-en-boucle-avant-d-etre-finalement-deroute-a-perpignan_64250647.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le dimanche 10 mai 2026, un vol Ryanair Marrakech-Toulouse a subi un important retard en raison d'une violente cellule orageuse sur l'agglomération toulousaine. À l'approche de Toulouse-Blagnac, le pilote a effectué pas moins de huit boucles au-dessus de l'Ariège — entre Castanet, Mazères et Nailloux — avant de renoncer et de se dérouter sur Perpignan-Rivesaltes. Une rafale de près de 100 km/h avait été enregistrée à Toulouse-Blagnac au passage de la perturbation. L'avion a finalement rejoint Toulouse depuis Perpignan en 22 minutes, atterrissant à 21 h 19, soit avec près d'une heure et demie de retard.</summary>
+    <category term="news"/>
+    <published>2026-05-11T12:28:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f0c741a2-353e-4781-ba29-8d22ef6f3b67</id>
+    <title>Deux restaurants toulousains en lice pour les Uber Eats Awards</title>
+    <updated>2026-05-11T13:07:31+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;À l&amp;#x27;occasion de ses dix ans en France, Uber Eats lance ses premiers « Uber Eats Awards », un concours récompensant notamment le restaurant de l&amp;#x27;année, avec 100 000 € à la clé pour le vainqueur. Deux établissements toulousains figurent parmi les 12 sélectionnés pour la zone Sud-Ouest-Occitanie : Les Mecs au Camion, un food-truck de burgers gourmets itinérant, et Orto, un restaurant de panino italien situé rue Peyras. Les deux établissements concourent uniquement dans la catégorie « restaurant de l&amp;#x27;année », Toulouse n&amp;#x27;étant pas représentée dans les deux autres catégories (boulangerie et commerce de bouche). Selon actu_toulouse, le concours vise à valoriser des restaurants alliant excellence culinaire et praticité de la livraison.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails sur les deux restaurants toulousains en compétition et fonctionnement du concours&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ils-peuvent-remporter-100-000-qui-sont-ces-deux-restaurants-de-toulouse-en-lice-pour-les-uber-eats-awards_64240188.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ils-peuvent-remporter-100-000-qui-sont-ces-deux-restaurants-de-toulouse-en-lice-pour-les-uber-eats-awards_64240188.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>À l'occasion de ses dix ans en France, Uber Eats lance ses premiers « Uber Eats Awards », un concours récompensant notamment le restaurant de l'année, avec 100 000 € à la clé pour le vainqueur. Deux établissements toulousains figurent parmi les 12 sélectionnés pour la zone Sud-Ouest-Occitanie : Les Mecs au Camion, un food-truck de burgers gourmets itinérant, et Orto, un restaurant de panino italien situé rue Peyras. Les deux établissements concourent uniquement dans la catégorie « restaurant de l'année », Toulouse n'étant pas représentée dans les deux autres catégories (boulangerie et commerce de bouche). Selon actu_toulouse, le concours vise à valoriser des restaurants alliant excellence culinaire et praticité de la livraison.</summary>
+    <category term="place"/>
+    <published>2026-05-11T13:07:31+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3c58c02d-4cce-4a5b-94c2-de98bc8d7da8</id>
+    <title>Un intérimaire de 26 ans chute de trois étages depuis un toit à Toulouse</title>
     <updated>2026-05-11T15:17:59+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Un grave accident du travail est survenu vers 10 heures du matin ce lundi 11 mai 2026, derrière le Jardin des Plantes à Toulouse. Un jeune homme de 26 ans, qui travaillait en intérim pour une entreprise de travaux d’entretien, a glissé du toit d’un bâtiment situé rue d’Auriol, alors qu’il nettoyait la toiture.
-L’inévitable chute est gravissime : le jeune homme est tombé de trois étages, directement sur le bitume. Il n’était visiblement pas attaché.
-Très grièvement blessé
-Il a atterri côté parking, et lors de l’arrivée simultanée des secours et de la police sur place, il était inconscient.
-Le jeune homme respirait toujours lorsqu’il a été transporté à l’hôpital en urgence absolue, mais il était très grièvement blessé, selon une source d’Actu Toulouse. Il a été pris en charge au service de déchocage de Purpan.
-Contactée, l’entreprise de travaux n’a pas répondu à nos sollicitations.
-Personnalisez votre actualité en ajoutant vos villes et médias en favori avec Mon Actu.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Un grave accident du travail s&amp;#x27;est produit le lundi 11 mai 2026 vers 10 heures, rue d&amp;#x27;Auriol, derrière le Jardin des Plantes à Toulouse. Un jeune homme de 26 ans, employé en intérim pour une entreprise d&amp;#x27;entretien, a glissé d&amp;#x27;un toit qu&amp;#x27;il était en train de nettoyer et a chuté de trois étages sur le bitume. Il était inconscient à l&amp;#x27;arrivée des secours et ne semblait pas être attaché au moment de la chute. Transporté en urgence absolue, il a été pris en charge au service de déchocage de l&amp;#x27;hôpital Purpan dans un état très grave. L&amp;#x27;entreprise concernée n&amp;#x27;a pas répondu aux sollicitations d&amp;#x27;Actu Toulouse.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-un-jeune-de-26-ans-tres-grievement-blesse-au-travail-il-a-glisse-d-un-toit-avant-de-chuter-de-trois-etages_64251831.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-un-jeune-de-26-ans-tres-grievement-blesse-au-travail-il-a-glisse-d-un-toit-avant-de-chuter-de-trois-etages_64251831.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Un grave accident du travail est survenu vers 10 heures du matin ce lundi 11 mai 2026, derrière le Jardin des Plantes à Toulouse. Un jeune homme de 26 ans, qui travaillait en intérim pour une entreprise de travaux d’entretien, a glissé du toit d’un bâtiment situé rue d’Auriol, alors qu’il nettoyait la toiture.
-L’inévitable chute est gravissime : le jeune homme est tombé de trois étages, directement sur le bitume. Il n’était visiblement pas attaché.
-Très grièvement blessé
-Il a atterri côté parking, et lors de l’arrivée simultanée des secours et de la police sur place, il était inconscient.
-Le jeune homme respirait toujours lorsqu’il a été transporté à l’hôpital en urgence absolue, mais il était très grièvement blessé, selon une source d’Actu Toulouse. Il a été pris en charge au service de déchocage de Purpan.
-Contactée, l’entreprise de travaux n’a pas répondu à nos sollicitations.
-Personnalisez votre actualité en ajoutant vos villes et médias en favori avec Mon Actu.</summary>
+    <summary>Un grave accident du travail s'est produit le lundi 11 mai 2026 vers 10 heures, rue d'Auriol, derrière le Jardin des Plantes à Toulouse. Un jeune homme de 26 ans, employé en intérim pour une entreprise d'entretien, a glissé d'un toit qu'il était en train de nettoyer et a chuté de trois étages sur le bitume. Il était inconscient à l'arrivée des secours et ne semblait pas être attaché au moment de la chute. Transporté en urgence absolue, il a été pris en charge au service de déchocage de l'hôpital Purpan dans un état très grave. L'entreprise concernée n'a pas répondu aux sollicitations d'Actu Toulouse.</summary>
     <category term="news"/>
     <published>2026-05-11T15:17:59+02:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/contre-une-pratique-illegale-des-drones-vont-surveiller-18-communes-de-haute-garonne-votre-quartier-est-il-concerne_64252755.html</id>
-    <title>Contre une pratique illégale, des drones vont surveiller 18 communes de Haute-Garonne : votre quartier est-il concerné?</title>
+    <id>cluster:b3e607fe-9c83-402d-8f1c-41765ba73488</id>
+    <title>Trois personnes périssent dans un incendie</title>
+    <updated>2026-05-11T16:01:54.454000+00:00</updated>
+    <author>
+      <name>newsletter</name>
+    </author>
+    <content type="html">&lt;p&gt;Un incendie a coûté la vie à trois personnes, selon une newsletter d&amp;#x27;actu.fr relayant l&amp;#x27;information régionale. L&amp;#x27;extrait disponible est très limité et ne précise ni le lieu exact, ni les circonstances du sinistre, ni l&amp;#x27;identité des victimes. Aucun détail sur l&amp;#x27;origine du feu ou d&amp;#x27;éventuels blessés supplémentaires n&amp;#x27;est mentionné. Les residents de la région sont invités à consulter l&amp;#x27;article source pour obtenir davantage d&amp;#x27;informations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://tracking.actu.fr/tracking/click?d=KKpHJh0Eh4iGq7s98wSkePhp-aGWQr2yOauh4kGJMQPOEOYEHgdeNuuFRhmpUtVENJ9AZ8ogwIn7rvApMXPOt0RlXiQ0SK_ACyEC7hmCvfNwW-i0u8pKfLKaxUHhqiDNFlwE23dvIA-0BjN33qPJ2GDLAcOnIyFMtgVC7xg2kmyY8eDaeESVd5PLB6JBhaOwuM26C2tdUHrjvgLz7gxwmh-owLYGsRpjnsPw13D07YVdXx1XnG1aQI0QJFCP12B2yyHWeWG8_M-KsVcOKhygLGTeYjPIGKJ_dd-dX21K50226aXmmD2oDm1hWuCL4U4Nz6KupyqBitQTaFOu-ruAsTUQghLJMioDIpWjD5pPCdjTXbNHLBGeHmNWMthlmMAQZ4mYcu1roowChMreWWPnZl0JtvQ9aJkxc5ih-zdHEoaU0wYagL_REJ5XI1d1NW4F2dqE2W7P-ZNtU6gRvo2nJ9Y1&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Newsletter&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tracking.actu.fr/tracking/click?d=KKpHJh0Eh4iGq7s98wSkePhp-aGWQr2yOauh4kGJMQPOEOYEHgdeNuuFRhmpUtVENJ9AZ8ogwIn7rvApMXPOt0RlXiQ0SK_ACyEC7hmCvfNwW-i0u8pKfLKaxUHhqiDNFlwE23dvIA-0BjN33qPJ2GDLAcOnIyFMtgVC7xg2kmyY8eDaeESVd5PLB6JBhaOwuM26C2tdUHrjvgLz7gxwmh-owLYGsRpjnsPw13D07YVdXx1XnG1aQI0QJFCP12B2yyHWeWG8_M-KsVcOKhygLGTeYjPIGKJ_dd-dX21K50226aXmmD2oDm1hWuCL4U4Nz6KupyqBitQTaFOu-ruAsTUQghLJMioDIpWjD5pPCdjTXbNHLBGeHmNWMthlmMAQZ4mYcu1roowChMreWWPnZl0JtvQ9aJkxc5ih-zdHEoaU0wYagL_REJ5XI1d1NW4F2dqE2W7P-ZNtU6gRvo2nJ9Y1&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un incendie a coûté la vie à trois personnes, selon une newsletter d'actu.fr relayant l'information régionale. L'extrait disponible est très limité et ne précise ni le lieu exact, ni les circonstances du sinistre, ni l'identité des victimes. Aucun détail sur l'origine du feu ou d'éventuels blessés supplémentaires n'est mentionné. Les residents de la région sont invités à consulter l'article source pour obtenir davantage d'informations.</summary>
+    <category term="news"/>
+    <published>2026-05-11T16:01:54.454000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:0346d77e-a17f-4afc-a9f2-214a4198af1c</id>
+    <title>Des drones surveilleront 18 communes de Haute-Garonne contre les rodéos urbains</title>
     <updated>2026-05-11T16:50:37+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Depuis presque trois ans, pour lutter contre les rodéos urbains, la préfecture de Haute-Garonne autorise les forces de police et de gendarmerie à faire usage des drones pour surveiller les zones concernées par cette pratique illégale qui « entraîne des risques majeurs pour la sécurité des populations, notamment les riverains et usagers de la route, et donne parfois lieu à des drames inacceptables ».
-Lundi 11 mai 2026, la préfecture a décidé de renouveler la mesure jusqu’au 11 juin 2026 dans 18 communes de la Haute-Garonne, dont Toulouse, plusieurs communes de l’agglomération de Toulouse, et plus largement en Haute-Garonne. Voici les communes ciblées. Votre quartier figure-t-il dans la liste?
-Blagnac
-- Quartier Barradels/Grand Noble délimité par les axes route de Grenade, allées des
-Mûriers, avenue de Cornebarrieu, rue des Oliviers, impasse des Oliviers, passage de
-l’Ourmette, place de la Révolution française, avenue Léonard de Vinci, avenue Salvador Dali, allée Émile Zola, avenue Georges Brassens, chemin d’Aussonne, avenue du Général de Gaulle. quartier Aéroconstellation Aéroscopia délimité par les axes boulevard Henri Ziegler, avenue d’Andromède, avenue d’Aéroconstellation, rue Roger Béteille.
-Colomiers
-- Secteur Val d’Aran délimité par les axes boulevard de Pibrac, boulevard du 14e
-Régiment d’infanterie, boulevard du Général de Gaulle, boulevard de l’Ouest, allée de la Gimone. - Secteur En Jacca délimité par les axes chemin de la Salvetat, chemin de la Menude,
-chemin de Gar&lt;/p&gt;
+    <content type="html">&lt;p&gt;La préfecture de Haute-Garonne a renouvelé jusqu&amp;#x27;au 11 juin 2026 l&amp;#x27;autorisation d&amp;#x27;utiliser des drones pour lutter contre les rodéos urbains, une pratique illégale jugée dangereuse pour les riverains et usagers de la route. La mesure, reconduite depuis près de trois ans, couvre 18 communes dont Toulouse, Blagnac et Colomiers, avec des périmètres de surveillance précisément délimités. Les forces de police et de gendarmerie sont habilitées à déployer ces drones dans les zones identifiées comme concernées par ces comportements. Les habitants des quartiers ciblés sont directement concernés par cette surveillance aérienne.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Liste détaillée des communes et quartiers surveillés, avec les délimitations précises des zones concernées&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/contre-une-pratique-illegale-des-drones-vont-surveiller-18-communes-de-haute-garonne-votre-quartier-est-il-concerne_64252755.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/contre-une-pratique-illegale-des-drones-vont-surveiller-18-communes-de-haute-garonne-votre-quartier-est-il-concerne_64252755.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Depuis presque trois ans, pour lutter contre les rodéos urbains, la préfecture de Haute-Garonne autorise les forces de police et de gendarmerie à faire usage des drones pour surveiller les zones concernées par cette pratique illégale qui « entraîne des risques majeurs pour la sécurité des populations, notamment les riverains et usagers de la route, et donne parfois lieu à des drames inacceptables ».
-Lundi 11 mai 2026, la préfecture a décidé de renouveler la mesure jusqu’au 11 juin 2026 dans 18 communes de la Haute-Garonne, dont Toulouse, plusieurs communes de l’agglomération de Toulouse, et plus largement en Haute-Garonne. Voici les communes ciblées. Votre quartier figure-t-il dans la liste?
-Blagnac
-- Quartier Barradels/Grand Noble délimité par les axes route de Grenade, allées des
-Mûriers, avenue de Cornebarrieu, rue des Oliviers, impasse des Oliviers, passage de
-l’Ourmette, place de la Révolution française, avenue Léonard de Vinci, avenue Salvador Dali, allée Émile Zola, avenue Georges Brassens, chemin d’Aussonne, avenue du Général de Gaulle. quartier Aéroconstellation Aéroscopia délimité par les axes boulevard Henri Ziegler, avenue d’Andromède, avenue d’Aéroconstellation, rue Roger Béteille.
-Colomiers
-- Secteur Val d’Aran délimité par les axes boulevard de Pibrac, boulevard du 14e
-Régiment d’infanterie, boulevard du Général de Gaulle, boulevard de l’Ouest, allée de la Gimone. - Secteur En Jacca délimité par les axes chemin de la Salvetat, chemin de la Menude,
-chemin de Gar</summary>
+    <summary>La préfecture de Haute-Garonne a renouvelé jusqu'au 11 juin 2026 l'autorisation d'utiliser des drones pour lutter contre les rodéos urbains, une pratique illégale jugée dangereuse pour les riverains et usagers de la route. La mesure, reconduite depuis près de trois ans, couvre 18 communes dont Toulouse, Blagnac et Colomiers, avec des périmètres de surveillance précisément délimités. Les forces de police et de gendarmerie sont habilitées à déployer ces drones dans les zones identifiées comme concernées par ces comportements. Les habitants des quartiers ciblés sont directement concernés par cette surveillance aérienne.</summary>
     <category term="news"/>
     <published>2026-05-11T16:50:37+02:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/toulouse-cambriolage-dans-cet-hotel-de-la-place-wilson-70-000-de-bagues-volees-au-salon-de-l-alliance_64251281.html</id>
-    <title>Toulouse. Cambriolage dans cet hôtel de la place Wilson : 70 000€ de bagues volées au Salon de l'Alliance</title>
+    <id>cluster:32da54ae-ba81-4446-8472-d4fbb0eebf1a</id>
+    <title>Cambriolage au Salon de l'Alliance : 600 bagues et 70 000 € dérobés</title>
     <updated>2026-05-11T17:46:16+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Les tourtereaux prêts à se passer la bague au doigt sont venus nombreux, ce samedi 9 mai, au Salon de l’Alliance. Il se tenait tout le week-end place Wilson à Toulouse, dans l’hôtel Novotel, mais un fâcheux événement est venu gâcher la fête : un gros casse, survenu dans la soirée du samedi, a coûté très cher aux organisateurs. Au total, près de 70 000 euros de bagues ont été dérobées ! Mais l’addition aurait pu être encore plus salée…
-600 bagues dérobées
-Le casse a eu lieu à l’issue de la première journée du salon, alors que les organisateurs étaient partis dîner dans Toulouse.
-Lorsqu’ils reviennent du restau, ils tombent des nues : il manque quelque 600 bagues à l’inventaire, sur une vingtaine de présentoirs.
-Fort heureusement pour les employés, « ces alliances, c’est du toc », résume une source proche de l’enquête à Actu Toulouse. Il s’agit de reproductions de bijoux, destinées à la présentation – les alliances que les clients achètent sont précieusement conservées… et heureusement !
-À lire aussi
-Entre 60 et 70 000 euros
-Rien qu’avec les reproductions volées, les malfrats sont suspectés d’avoir raflé environ 70 000 euros. La valeur précise des bijoux dérobés est toujours en cours d’estimation. Quant au mode opératoire des cambrioleurs, il reste flou, mais l’enquête confiée à la Division de la criminalité territoriale devrait permettre de le déterminer.
-Les investigations se poursuivent, notamment via la recherche de traces ADN, l’exploitation des images de vidéosurveillance&lt;/p&gt;
+    <content type="html">&lt;p&gt;Le week-end du 9 mai, le Salon de l&amp;#x27;Alliance se tenait à l&amp;#x27;hôtel Novotel de la place Wilson à Toulouse. Le samedi soir, pendant que les organisateurs étaient partis dîner, des cambrioleurs ont subtilisé quelque 600 bagues sur une vingtaine de présentoirs. Bonne nouvelle relative : il s&amp;#x27;agissait de reproductions destinées à l&amp;#x27;exposition, et non des vraies alliances commandées par les clients. Le préjudice est néanmoins estimé entre 60 000 et 70 000 euros, un chiffre encore en cours d&amp;#x27;évaluation précise. L&amp;#x27;enquête a été confiée à la Division de la criminalité territoriale ; les investigations portent notamment sur les images de vidéosurveillance et des traces ADN, mais le mode opératoire reste flou à ce stade.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-cambriolage-dans-cet-hotel-de-la-place-wilson-70-000-de-bagues-volees-au-salon-de-l-alliance_64251281.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-cambriolage-dans-cet-hotel-de-la-place-wilson-70-000-de-bagues-volees-au-salon-de-l-alliance_64251281.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les tourtereaux prêts à se passer la bague au doigt sont venus nombreux, ce samedi 9 mai, au Salon de l’Alliance. Il se tenait tout le week-end place Wilson à Toulouse, dans l’hôtel Novotel, mais un fâcheux événement est venu gâcher la fête : un gros casse, survenu dans la soirée du samedi, a coûté très cher aux organisateurs. Au total, près de 70 000 euros de bagues ont été dérobées ! Mais l’addition aurait pu être encore plus salée…
-600 bagues dérobées
-Le casse a eu lieu à l’issue de la première journée du salon, alors que les organisateurs étaient partis dîner dans Toulouse.
-Lorsqu’ils reviennent du restau, ils tombent des nues : il manque quelque 600 bagues à l’inventaire, sur une vingtaine de présentoirs.
-Fort heureusement pour les employés, « ces alliances, c’est du toc », résume une source proche de l’enquête à Actu Toulouse. Il s’agit de reproductions de bijoux, destinées à la présentation – les alliances que les clients achètent sont précieusement conservées… et heureusement !
-À lire aussi
-Entre 60 et 70 000 euros
-Rien qu’avec les reproductions volées, les malfrats sont suspectés d’avoir raflé environ 70 000 euros. La valeur précise des bijoux dérobés est toujours en cours d’estimation. Quant au mode opératoire des cambrioleurs, il reste flou, mais l’enquête confiée à la Division de la criminalité territoriale devrait permettre de le déterminer.
-Les investigations se poursuivent, notamment via la recherche de traces ADN, l’exploitation des images de vidéosurveillance</summary>
+    <summary>Le week-end du 9 mai, le Salon de l'Alliance se tenait à l'hôtel Novotel de la place Wilson à Toulouse. Le samedi soir, pendant que les organisateurs étaient partis dîner, des cambrioleurs ont subtilisé quelque 600 bagues sur une vingtaine de présentoirs. Bonne nouvelle relative : il s'agissait de reproductions destinées à l'exposition, et non des vraies alliances commandées par les clients. Le préjudice est néanmoins estimé entre 60 000 et 70 000 euros, un chiffre encore en cours d'évaluation précise. L'enquête a été confiée à la Division de la criminalité territoriale ; les investigations portent notamment sur les images de vidéosurveillance et des traces ADN, mais le mode opératoire reste flou à ce stade.</summary>
     <category term="news"/>
     <published>2026-05-11T17:46:16+02:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/pres-de-toulouse-ce-festival-unique-en-europe-debarque-pendant-quatre-jours-voici-le-programme_64241089.html</id>
-    <title>Près de Toulouse. Ce festival unique en Europe débarque pendant quatre jours : voici le programme</title>
+    <id>cluster:6999f4f9-4470-441c-be97-5b164f636ec3</id>
+    <title>Echos &amp; Merveilles revient à Bruguières pour sa 8e édition en mai 2026</title>
     <updated>2026-05-11T17:54:02+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;C’est désormais un festival incontournable dans l’agglomération toulousaine qui attire chaque année plusieurs dizaines de milliers de personnes. Du mercredi 13 au dimanche 16 mai 2026, Echos &amp;amp; Merveille débarque à Bruguières (Haute-Garonne) pour une 8e édition, au nord de Toulouse. Alors, à quoi s’attendre ? Voici le programme !
-Un festival unique en Europe
-Echos &amp;amp; Merveilles est né en 2016 à l’initiative d’un collectif de musiciens toulousains désireux de partager leur passion pour les musiques folks, celtiques, médiévales et fantastiques. Et en dix ans, ce festival unique, qui n’était au départ qu’une simple soirée thématique au Bascala (la salle de spectacles basée à Bruguières), a pris une sacrée ampleur, rassemblant chaque année davantage de spectateurs, d’artisans, d’auteurs et d’artistes.
-À lire aussi
-Un festival dédié à la Fantasy
-S’il est unique en Europe, c’est que sa thématique est inédite. Le festival explore le monde de la Fantasy, un genre au départ littéraire, qui mêle dans une atmosphère d’épopée, les mythes, les légendes et les thèmes du fantastique et du merveilleux. Ces mondes puisent leur inspirations dans les légendes arthuriennes, les mythes celtiques, les chansons de gestes et les sagas nordiques. Un genre devenu particulièrement populaire, notamment grâce aux sagas du Seigneur des Anneaux, d’Harry Potter ou encore de Game of Thrones.
-Un marché artisanal, des scènes
-Pour cette 8e édition, baptisée « Le Roi Mundis », le festival investit le Parc du Basca&lt;/p&gt;
+    <content type="html">&lt;p&gt;Du 13 au 16 mai 2026, le festival Echos &amp;amp; Merveilles investit le Parc du Bascala à Bruguières, au nord de Toulouse, pour sa 8e édition intitulée « Le Roi Mundis ». Né en 2016 à l&amp;#x27;initiative d&amp;#x27;un collectif de musiciens toulousains, l&amp;#x27;événement est consacré à l&amp;#x27;univers de la Fantasy — musiques folk, celtiques et médiévales, mythes arthuriens, légendes nordiques — et se revendique unique en Europe par sa thématique. Il rassemble chaque année plusieurs dizaines de milliers de visiteurs, artisans, auteurs et artistes. Au programme figurent un marché artisanal et plusieurs scènes de spectacles, selon actu_toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Programme détaillé et présentation de l&amp;#x27;édition 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pres-de-toulouse-ce-festival-unique-en-europe-debarque-pendant-quatre-jours-voici-le-programme_64241089.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/pres-de-toulouse-ce-festival-unique-en-europe-debarque-pendant-quatre-jours-voici-le-programme_64241089.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>C’est désormais un festival incontournable dans l’agglomération toulousaine qui attire chaque année plusieurs dizaines de milliers de personnes. Du mercredi 13 au dimanche 16 mai 2026, Echos &amp; Merveille débarque à Bruguières (Haute-Garonne) pour une 8e édition, au nord de Toulouse. Alors, à quoi s’attendre ? Voici le programme !
-Un festival unique en Europe
-Echos &amp; Merveilles est né en 2016 à l’initiative d’un collectif de musiciens toulousains désireux de partager leur passion pour les musiques folks, celtiques, médiévales et fantastiques. Et en dix ans, ce festival unique, qui n’était au départ qu’une simple soirée thématique au Bascala (la salle de spectacles basée à Bruguières), a pris une sacrée ampleur, rassemblant chaque année davantage de spectateurs, d’artisans, d’auteurs et d’artistes.
-À lire aussi
-Un festival dédié à la Fantasy
-S’il est unique en Europe, c’est que sa thématique est inédite. Le festival explore le monde de la Fantasy, un genre au départ littéraire, qui mêle dans une atmosphère d’épopée, les mythes, les légendes et les thèmes du fantastique et du merveilleux. Ces mondes puisent leur inspirations dans les légendes arthuriennes, les mythes celtiques, les chansons de gestes et les sagas nordiques. Un genre devenu particulièrement populaire, notamment grâce aux sagas du Seigneur des Anneaux, d’Harry Potter ou encore de Game of Thrones.
-Un marché artisanal, des scènes
-Pour cette 8e édition, baptisée « Le Roi Mundis », le festival investit le Parc du Basca</summary>
-    <category term="news"/>
+    <summary>Du 13 au 16 mai 2026, le festival Echos &amp; Merveilles investit le Parc du Bascala à Bruguières, au nord de Toulouse, pour sa 8e édition intitulée « Le Roi Mundis ». Né en 2016 à l'initiative d'un collectif de musiciens toulousains, l'événement est consacré à l'univers de la Fantasy — musiques folk, celtiques et médiévales, mythes arthuriens, légendes nordiques — et se revendique unique en Europe par sa thématique. Il rassemble chaque année plusieurs dizaines de milliers de visiteurs, artisans, auteurs et artistes. Au programme figurent un marché artisanal et plusieurs scènes de spectacles, selon actu_toulouse.</summary>
+    <category term="event"/>
     <published>2026-05-11T17:54:02+02:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/emploi-un-job-dating-specialement-dedie-a-l-alternance-organise-au-stadium-de-toulouse-comment-y-participer_64210676.html</id>
-    <title>Emploi. Un job dating spécialement dédié à l'alternance organisé au Stadium de Toulouse, comment y participer</title>
+    <id>cluster:692eb296-8a96-4c8e-b859-e451c04711ce</id>
+    <title>Le brunch à Toulouse : sélection d'adresses et festival du long week-end</title>
+    <updated>2026-05-12T00:00:00+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Le brunch s&amp;#x27;est solidement implanté à Toulouse, avec des files d&amp;#x27;attente chaque week-end et une offre en constante expansion dans la Ville rose. Actu Toulouse propose une sélection de dix adresses incontournables, dont Les Trois Sœurs quai de la Daurade et Sista Place près des allées Jean Jaurès, avec des formules allant de 16,90 € à 27,50 €. Par ailleurs, le restaurant Barricot - Mercure Toulouse Centre Compans organise la 3e édition de son Festival du Brunch du 14 au 17 mai 2026, profitant du long week-end de l&amp;#x27;Ascension. Chaque journée est dédiée à une thématique culinaire différente (fraises, fromages, barbecue, fruits de mer), accompagnée d&amp;#x27;un marché de créateurs et producteurs locaux ainsi qu&amp;#x27;un jeu-concours pour gagner un an de brunch.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse adopte une approche guide pratique (adresses permanentes, prix, menus détaillés), tandis que Toulouscope couvre un événement ponctuel et daté avec une dimension festive et locale.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Pour une sélection d&amp;#x27;adresses brunch permanentes à Toulouse avec détails des formules et tarifs&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Pour les infos pratiques du Festival du Brunch (dates, thématiques, marché, jeu-concours)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-fini-le-petit-dejeuner-classique-notre-selection-des-10-brunchs-pour-savourer-le-dimanche-matin-autrement_64206195.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.toulouscope.fr/2026/05/12/festival-du-brunch-a-toulouse-ce-week-end-buffets-marche-culinaire-et-un-an-de-brunch-a-gagner-13360387.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-fini-le-petit-dejeuner-classique-notre-selection-des-10-brunchs-pour-savourer-le-dimanche-matin-autrement_64206195.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le brunch s'est solidement implanté à Toulouse, avec des files d'attente chaque week-end et une offre en constante expansion dans la Ville rose. Actu Toulouse propose une sélection de dix adresses incontournables, dont Les Trois Sœurs quai de la Daurade et Sista Place près des allées Jean Jaurès, avec des formules allant de 16,90 € à 27,50 €. Par ailleurs, le restaurant Barricot - Mercure Toulouse Centre Compans organise la 3e édition de son Festival du Brunch du 14 au 17 mai 2026, profitant du long week-end de l'Ascension. Chaque journée est dédiée à une thématique culinaire différente (fraises, fromages, barbecue, fruits de mer), accompagnée d'un marché de créateurs et producteurs locaux ainsi qu'un jeu-concours pour gagner un an de brunch.</summary>
+    <category term="event"/>
+    <published>2026-05-10T07:32:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:89113363-309c-45d2-8bbf-4d8e7eb557db</id>
+    <title>La station la plus profonde du métro toulousain à l'honneur</title>
+    <updated>2026-05-12T04:05:40.440000+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;Essentiel met en avant la station de métro la plus profonde de Toulouse, sans préciser laquelle dans l&amp;#x27;extrait disponible. Le digest mentionne également plusieurs autres actualités locales : l&amp;#x27;ouverture de la billetterie de l&amp;#x27;Orchestre de Chambre de Toulouse, une vente aux enchères de sculptures, et une programmation liée au festival de Cannes à Toulouse. Ces sujets semblent regroupés dans un format de brèves ou de newsletter. Les détails précis sur chaque événement restent à consulter directement dans l&amp;#x27;article source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Brèves locales : métro, culture, enchères et cinéma à Toulouse&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNw2HyhkEA0_ueglPXEInOZ6q36zN9OV~Fs1o2jkN~2luU&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNw2HyhkEA0_ueglPXEInOZ6q36zN9OV~Fs1o2jkN~2luU&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'Essentiel met en avant la station de métro la plus profonde de Toulouse, sans préciser laquelle dans l'extrait disponible. Le digest mentionne également plusieurs autres actualités locales : l'ouverture de la billetterie de l'Orchestre de Chambre de Toulouse, une vente aux enchères de sculptures, et une programmation liée au festival de Cannes à Toulouse. Ces sujets semblent regroupés dans un format de brèves ou de newsletter. Les détails précis sur chaque événement restent à consulter directement dans l'article source.</summary>
+    <category term="news"/>
+    <published>2026-05-12T04:05:40.440000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:42da680a-7cbe-417e-8235-d12b34836643</id>
+    <title>Job dating dédié à l'alternance au Stadium de Toulouse le 19 juin</title>
     <updated>2026-05-12T06:42:02+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Avis aux étudiants. Le vendredi 19 juin 2026 à partir de 14 heures, le Groupe Alternance Toulouse organise au Stadium un job dating consacré à l’alternance. L’établissement annonce plus de 30 entreprises présentes, réunissant grandes enseignes nationales et acteurs économiques locaux, pour recruter des alternants du niveau bac au bac + 5. Ce qu’il faut savoir.
-À lire aussi
-Des offres dans des secteurs variés
-L’événement, gratuit et ouvert à tous, doit permettre aux candidats de rencontrer directement des recruteurs, de passer plusieurs entretiens dans la même journée et de découvrir des offres dans des secteurs comme la vente, la relation client, le commerce, le management et l’administratif. Des ateliers autour de la recherche d’emploi seront également proposés sur place.
-Les participants sont invités à venir avec leur CV afin de pouvoir échanger immédiatement avec les entreprises présentes. L’inscription est recommandée en amont sur le site de Groupe Alternance Toulouse, même si un enregistrement restera possible sur place.
-Plusieurs formations en alternance
-Présent à Toulouse depuis 2009, Groupe Alternance Toulouse accueille chaque année environ 350 étudiants. L’établissement met en avant un taux de réussite aux examens de 75,32 % et un taux d’employabilité de 86 %.
-Depuis plus de 25 ans, Groupe Alternance s’engage pour la réussite scolaire et professionnelle. Avec exigence, rigueur pédagogique et proximité, nous sommes là pour répondre aux attentes de nos apprenants et le&lt;/p&gt;
+    <content type="html">&lt;p&gt;Le Groupe Alternance Toulouse organise un job dating consacré à l&amp;#x27;alternance le vendredi 19 juin 2026 à partir de 14h au Stadium de Toulouse. Plus de 30 entreprises, mêlant grandes enseignes nationales et acteurs locaux, seront présentes pour recruter des alternants de niveau bac à bac+5. L&amp;#x27;événement est gratuit et ouvert à tous ; les candidats sont invités à venir munis de leur CV pour passer plusieurs entretiens dans la journée, dans des secteurs comme la vente, le commerce, le management ou l&amp;#x27;administratif. Des ateliers sur la recherche d&amp;#x27;emploi seront également proposés sur place. L&amp;#x27;inscription préalable sur le site de Groupe Alternance Toulouse est recommandée, bien qu&amp;#x27;une inscription sur place reste possible.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/emploi-un-job-dating-specialement-dedie-a-l-alternance-organise-au-stadium-de-toulouse-comment-y-participer_64210676.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/emploi-un-job-dating-specialement-dedie-a-l-alternance-organise-au-stadium-de-toulouse-comment-y-participer_64210676.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Avis aux étudiants. Le vendredi 19 juin 2026 à partir de 14 heures, le Groupe Alternance Toulouse organise au Stadium un job dating consacré à l’alternance. L’établissement annonce plus de 30 entreprises présentes, réunissant grandes enseignes nationales et acteurs économiques locaux, pour recruter des alternants du niveau bac au bac + 5. Ce qu’il faut savoir.
-À lire aussi
-Des offres dans des secteurs variés
-L’événement, gratuit et ouvert à tous, doit permettre aux candidats de rencontrer directement des recruteurs, de passer plusieurs entretiens dans la même journée et de découvrir des offres dans des secteurs comme la vente, la relation client, le commerce, le management et l’administratif. Des ateliers autour de la recherche d’emploi seront également proposés sur place.
-Les participants sont invités à venir avec leur CV afin de pouvoir échanger immédiatement avec les entreprises présentes. L’inscription est recommandée en amont sur le site de Groupe Alternance Toulouse, même si un enregistrement restera possible sur place.
-Plusieurs formations en alternance
-Présent à Toulouse depuis 2009, Groupe Alternance Toulouse accueille chaque année environ 350 étudiants. L’établissement met en avant un taux de réussite aux examens de 75,32 % et un taux d’employabilité de 86 %.
-Depuis plus de 25 ans, Groupe Alternance s’engage pour la réussite scolaire et professionnelle. Avec exigence, rigueur pédagogique et proximité, nous sommes là pour répondre aux attentes de nos apprenants et le</summary>
-    <category term="news"/>
+    <summary>Le Groupe Alternance Toulouse organise un job dating consacré à l'alternance le vendredi 19 juin 2026 à partir de 14h au Stadium de Toulouse. Plus de 30 entreprises, mêlant grandes enseignes nationales et acteurs locaux, seront présentes pour recruter des alternants de niveau bac à bac+5. L'événement est gratuit et ouvert à tous ; les candidats sont invités à venir munis de leur CV pour passer plusieurs entretiens dans la journée, dans des secteurs comme la vente, le commerce, le management ou l'administratif. Des ateliers sur la recherche d'emploi seront également proposés sur place. L'inscription préalable sur le site de Groupe Alternance Toulouse est recommandée, bien qu'une inscription sur place reste possible.</summary>
+    <category term="event"/>
     <published>2026-05-12T06:42:02+02:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/toulouse-ce-chantier-genere-d-importantes-perturbations-aux-abords-de-la-gare-pourquoi-la-galere-va-durer_64252925.html</id>
-    <title>Toulouse. Ce chantier génère d'importantes perturbations aux abords de la gare : pourquoi la galère va durer</title>
+    <id>cluster:aa89fa71-6721-493e-8bd8-f71561b0059d</id>
+    <title>Travaux gare Matabiau : boulevard Bonrepos fermé jusqu'au 19 juin</title>
     <updated>2026-05-12T07:12:01+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Depuis la fin du mois d’avril 2026, les (nombreux) automobilistes qui roulent sur les boulevards du secteur de la gare Matabiau, à Toulouse, doivent conjuguer avec d’importants travaux de voirie qui génèrent inévitablement de gros bouchons, surtout aux heures de pointe. On vous explique pourquoi ça coince… et pourquoi cela devrait durer encore un moment !
-À lire aussi
-Des travaux qui génèrent des perturbations
-Plusieurs rues aux abords de la gare sont concernées par un chantier qui a démarré le 27 avril dernier. Objectif ? La pose de canalisations pour un nouveau réseau de chaleur et de froid destiné au nord-est de la ville. Le principal point d’achoppement pour les automobilistes se se situe au niveau du boulevard Bonrepos.
-Du 27 avril au 10 mai, en raison des travaux, la circulation était maintenue sur une voix au niveau de la zone du chantier, provoquant 300 mètres de ralentissements, pour les véhicules souhaitant continuer leur route en direction de Bonnefoy ou des Minimes (dans le sens inverse, les travaux n’ont pas d’impact). Aux heures de pointe, notamment, les automobilistes devaient patienter plusieurs minutes pour passer cette difficulté.
-À lire aussi
-Circulation interdite sur le boulevard
-Mais depuis le lundi 11 mai et jusqu’au 19 juin 2026, la situation se complique encore un peu plus puisqu’il n’est plus possible de circuler sur cette partie du boulevard Bonrepos, au niveau de la zone de chantier. La circulation y est tout simplement interdite, tout comme le stat&lt;/p&gt;
+    <content type="html">&lt;p&gt;Depuis le 27 avril 2026, un chantier de pose de canalisations pour un nouveau réseau de chaleur et de froid dessert le nord-est de Toulouse, provoquant d&amp;#x27;importantes perturbations aux abords de la gare Matabiau. Dans un premier temps, la circulation était réduite à une voie sur le boulevard Bonrepos, engendrant jusqu&amp;#x27;à 300 mètres de bouchons aux heures de pointe. Depuis le 11 mai et jusqu&amp;#x27;au 19 juin 2026, la circulation y est totalement interdite, compliquant encore davantage les déplacements dans ce secteur. Les automobilistes souhaitant rejoindre Bonnefoy ou les Minimes sont particulièrement touchés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail du calendrier des travaux et des restrictions de circulation boulevard Bonrepos&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-ce-chantier-genere-d-importantes-perturbations-aux-abords-de-la-gare-pourquoi-la-galere-va-durer_64252925.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-ce-chantier-genere-d-importantes-perturbations-aux-abords-de-la-gare-pourquoi-la-galere-va-durer_64252925.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Depuis la fin du mois d’avril 2026, les (nombreux) automobilistes qui roulent sur les boulevards du secteur de la gare Matabiau, à Toulouse, doivent conjuguer avec d’importants travaux de voirie qui génèrent inévitablement de gros bouchons, surtout aux heures de pointe. On vous explique pourquoi ça coince… et pourquoi cela devrait durer encore un moment !
-À lire aussi
-Des travaux qui génèrent des perturbations
-Plusieurs rues aux abords de la gare sont concernées par un chantier qui a démarré le 27 avril dernier. Objectif ? La pose de canalisations pour un nouveau réseau de chaleur et de froid destiné au nord-est de la ville. Le principal point d’achoppement pour les automobilistes se se situe au niveau du boulevard Bonrepos.
-Du 27 avril au 10 mai, en raison des travaux, la circulation était maintenue sur une voix au niveau de la zone du chantier, provoquant 300 mètres de ralentissements, pour les véhicules souhaitant continuer leur route en direction de Bonnefoy ou des Minimes (dans le sens inverse, les travaux n’ont pas d’impact). Aux heures de pointe, notamment, les automobilistes devaient patienter plusieurs minutes pour passer cette difficulté.
-À lire aussi
-Circulation interdite sur le boulevard
-Mais depuis le lundi 11 mai et jusqu’au 19 juin 2026, la situation se complique encore un peu plus puisqu’il n’est plus possible de circuler sur cette partie du boulevard Bonrepos, au niveau de la zone de chantier. La circulation y est tout simplement interdite, tout comme le stat</summary>
+    <summary>Depuis le 27 avril 2026, un chantier de pose de canalisations pour un nouveau réseau de chaleur et de froid dessert le nord-est de Toulouse, provoquant d'importantes perturbations aux abords de la gare Matabiau. Dans un premier temps, la circulation était réduite à une voie sur le boulevard Bonrepos, engendrant jusqu'à 300 mètres de bouchons aux heures de pointe. Depuis le 11 mai et jusqu'au 19 juin 2026, la circulation y est totalement interdite, compliquant encore davantage les déplacements dans ce secteur. Les automobilistes souhaitant rejoindre Bonnefoy ou les Minimes sont particulièrement touchés.</summary>
     <category term="news"/>
     <published>2026-05-12T07:12:01+02:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/toulouse-un-poids-lourd-se-couche-a-hauteur-du-peage-et-prend-feu-la-circulation-temporairement-coupee_64254898.html</id>
-    <title>Toulouse : un poids lourd se couche à hauteur du péage et prend feu, la circulation temporairement coupée</title>
+    <id>cluster:46b2c3a1-e7c0-48e3-9b5d-fa8fa5aeb329</id>
+    <title>Double accident sur l'A61 près de Toulouse : deux poids lourds impliqués</title>
     <updated>2026-05-12T07:45:59+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;L’accident n’a impliqué qu’un véhicule, ce lundi 11 mai 2026 peu avant 23 h, sur la commune de Labège, près de Toulouse. Un poids lourd s’est couché sur la chaussée de l’autoroute A61 dans le sens Montpellier-Toulouse, à hauteur du péage du Palays. À leur arrivée, les 19 sapeurs-pompiers du SDIS 31 déployés ont constaté que le conducteur, âgé de 20 ans, avait réussi à s’extraire de la cabine.
-À lire aussi
-La remorque prend feu
-Une partie des secours l’a pris en charge, pendant que l’autre traitait un début d’incendie sur la remorque du poids lourd.
-Le jeune homme a été transporté en urgence relative vers un centre hospitalier de Toulouse.
-Un autre accident sur l’A61 peu après
-L’autoroute a dû quant à elle être fermée dans le sens Montpellier-Toulouse, le temps de l’intervention.
-Un autre accident sur l’A61, impliquant deux poids lourds, s’est produit peu après, vers 23 h 30, entre Montgiscard et Villefranche-de-Lauragais, faisant un blessé grave. La circulation a dû être interrompue à partir de Villefranche-de-Lauragais pour tous les véhicules circulant en direction de Toulouse sur cette portion de l’autoroute.
-Personnalisez votre actualité en ajoutant vos villes et médias en favori avec Mon Actu.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Dans la nuit du lundi 11 mai 2026, un premier accident s&amp;#x27;est produit peu avant 23 h sur l&amp;#x27;autoroute A61, à hauteur du péage du Palays à Labège : un poids lourd s&amp;#x27;est couché sur la chaussée dans le sens Montpellier-Toulouse, et sa remorque a pris feu. Dix-neuf sapeurs-pompiers du SDIS 31 ont été mobilisés ; le conducteur, âgé de 20 ans, avait réussi à s&amp;#x27;extraire seul de la cabine et a été transporté en urgence relative vers un hôpital toulousain. L&amp;#x27;autoroute a dû être fermée dans ce sens le temps de l&amp;#x27;intervention. Une demi-heure plus tard, vers 23 h 30, un second accident impliquant deux poids lourds s&amp;#x27;est produit entre Montgiscard et Villefranche-de-Lauragais, faisant un blessé grave et entraînant une nouvelle interruption de la circulation en direction de Toulouse sur cette portion de l&amp;#x27;A61.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-un-poids-lourd-se-couche-a-hauteur-du-peage-et-prend-feu-la-circulation-temporairement-coupee_64254898.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-un-poids-lourd-se-couche-a-hauteur-du-peage-et-prend-feu-la-circulation-temporairement-coupee_64254898.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L’accident n’a impliqué qu’un véhicule, ce lundi 11 mai 2026 peu avant 23 h, sur la commune de Labège, près de Toulouse. Un poids lourd s’est couché sur la chaussée de l’autoroute A61 dans le sens Montpellier-Toulouse, à hauteur du péage du Palays. À leur arrivée, les 19 sapeurs-pompiers du SDIS 31 déployés ont constaté que le conducteur, âgé de 20 ans, avait réussi à s’extraire de la cabine.
-À lire aussi
-La remorque prend feu
-Une partie des secours l’a pris en charge, pendant que l’autre traitait un début d’incendie sur la remorque du poids lourd.
-Le jeune homme a été transporté en urgence relative vers un centre hospitalier de Toulouse.
-Un autre accident sur l’A61 peu après
-L’autoroute a dû quant à elle être fermée dans le sens Montpellier-Toulouse, le temps de l’intervention.
-Un autre accident sur l’A61, impliquant deux poids lourds, s’est produit peu après, vers 23 h 30, entre Montgiscard et Villefranche-de-Lauragais, faisant un blessé grave. La circulation a dû être interrompue à partir de Villefranche-de-Lauragais pour tous les véhicules circulant en direction de Toulouse sur cette portion de l’autoroute.
-Personnalisez votre actualité en ajoutant vos villes et médias en favori avec Mon Actu.</summary>
+    <summary>Dans la nuit du lundi 11 mai 2026, un premier accident s'est produit peu avant 23 h sur l'autoroute A61, à hauteur du péage du Palays à Labège : un poids lourd s'est couché sur la chaussée dans le sens Montpellier-Toulouse, et sa remorque a pris feu. Dix-neuf sapeurs-pompiers du SDIS 31 ont été mobilisés ; le conducteur, âgé de 20 ans, avait réussi à s'extraire seul de la cabine et a été transporté en urgence relative vers un hôpital toulousain. L'autoroute a dû être fermée dans ce sens le temps de l'intervention. Une demi-heure plus tard, vers 23 h 30, un second accident impliquant deux poids lourds s'est produit entre Montgiscard et Villefranche-de-Lauragais, faisant un blessé grave et entraînant une nouvelle interruption de la circulation en direction de Toulouse sur cette portion de l'A61.</summary>
     <category term="news"/>
     <published>2026-05-12T07:45:59+02:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/ce-monstrueux-nuage-d-apocalypse-a-impressionne-toulouse-comment-s-est-il-forme-au-passage-de-l-orage_64255753.html</id>
-    <title>Ce monstrueux nuage a impressionné Toulouse : comment cet arcus s'est-il formé avant l'orage XXL?</title>
+    <id>cluster:2ebcd851-ee29-48da-94ed-7bedc058013d</id>
+    <title>Un orage violent avec grêle et arcus spectaculaire frappe Toulouse</title>
     <updated>2026-05-12T12:27:10+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Dimanche 10 mai 2026, Toulouse a été frappée par un orage qui a fait son effet ! Grêle, rafale de vent de 96 km/h enregistrée à la station météo de Toulouse-Blagnac, fortes pluies, et coups de tonnerre… Les Toulousains ont assisté à un sacré spectacle qui n’a heureusement pas fait de dégâts significatifs contrairement à certains secteurs de la Haute-Garonne ou du Gers qui ont été encore secoués par de gros grêlons.
-Un nuage monstrueux dans le ciel de Toulouse
-Sur les coups de 20 h, lors de l’arrivée de la cellule orageuse, en provenance du sud-ouest de l’agglomération, les Toulousains ont aussi pu observer un nuage assez monstrueux. Il s’agissait d’un magnifique arcus, nuage en forme de rouleau compresseur qui a été photographié par un lecteur d’Actu Toulouse depuis le quartier Croix-Daurade à Toulouse.
-Ce nuage était visible depuis l’ensemble de l’agglomération et même depuis le Tarn et le Tarn-et-Garonne.
-C’est quoi un arcus ?
-Météo France donne la définition de l’arcus : « C’est un rouleau horizontal dense ayant des bords plus ou moins effilochés, situé à l’avant de la partie inférieure de certains nuages et prenant, lorsqu’il est étendu, l’aspect d’un arc sombre et menaçant ».
-Comment se forme l’arcus ?
-L’arcus se forme dès qu’il y a des cumulonimbus, nuages typiques de l’instabilité. « Concrètement, les précipitations intenses entraînent vers le bas un air froid. L’air froid reste dans les basses couches L’air chaud qui vient alimenter le nuage par l’avant va surmonter l&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-monstrueux-nuage-d-apocalypse-a-impressionne-toulouse-comment-s-est-il-forme-au-passage-de-l-orage_64255753.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/ce-monstrueux-nuage-d-apocalypse-a-impressionne-toulouse-comment-s-est-il-forme-au-passage-de-l-orage_64255753.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Dimanche 10 mai 2026, Toulouse a été frappée par un orage qui a fait son effet ! Grêle, rafale de vent de 96 km/h enregistrée à la station météo de Toulouse-Blagnac, fortes pluies, et coups de tonnerre… Les Toulousains ont assisté à un sacré spectacle qui n’a heureusement pas fait de dégâts significatifs contrairement à certains secteurs de la Haute-Garonne ou du Gers qui ont été encore secoués par de gros grêlons.
-Un nuage monstrueux dans le ciel de Toulouse
-Sur les coups de 20 h, lors de l’arrivée de la cellule orageuse, en provenance du sud-ouest de l’agglomération, les Toulousains ont aussi pu observer un nuage assez monstrueux. Il s’agissait d’un magnifique arcus, nuage en forme de rouleau compresseur qui a été photographié par un lecteur d’Actu Toulouse depuis le quartier Croix-Daurade à Toulouse.
-Ce nuage était visible depuis l’ensemble de l’agglomération et même depuis le Tarn et le Tarn-et-Garonne.
-C’est quoi un arcus ?
-Météo France donne la définition de l’arcus : « C’est un rouleau horizontal dense ayant des bords plus ou moins effilochés, situé à l’avant de la partie inférieure de certains nuages et prenant, lorsqu’il est étendu, l’aspect d’un arc sombre et menaçant ».
-Comment se forme l’arcus ?
-L’arcus se forme dès qu’il y a des cumulonimbus, nuages typiques de l’instabilité. « Concrètement, les précipitations intenses entraînent vers le bas un air froid. L’air froid reste dans les basses couches L’air chaud qui vient alimenter le nuage par l’avant va surmonter l</summary>
+    <content type="html">&lt;p&gt;Dans la soirée du dimanche 10 mai 2026, un orage puissant a traversé l&amp;#x27;agglomération toulousaine en environ une heure, arrivant depuis le sud-ouest et repartant vers le nord-est. Des rafales de vent ont été enregistrées à la station Météo France de Toulouse-Blagnac, les deux sources divergeant légèrement sur la valeur maximale (86 km/h selon l&amp;#x27;un, 96 km/h selon l&amp;#x27;autre). De la grêle est tombée en quantité, particulièrement à l&amp;#x27;ouest de l&amp;#x27;agglomération (Fontenilles, Seysses) ainsi que dans d&amp;#x27;autres secteurs de la Haute-Garonne et du Gers. Un imposant arcus, nuage en forme de rouleau caractéristique des cumulonimbus, a été visible depuis toute l&amp;#x27;agglomération et jusqu&amp;#x27;au Tarn et au Tarn-et-Garonne. Aucun dégât significatif n&amp;#x27;est signalé à Toulouse même, contrairement à certaines zones rurales alentour.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux articles couvrent le même épisode orageux mais divergent sur la vitesse maximale des rafales enregistrées à Blagnac (86 km/h contre 96 km/h), sans qu&amp;#x27;une explication soit donnée pour cet écart. Le premier article adopte une approche chronologique et factuelle, tandis que le second se concentre sur le phénomène visuel de l&amp;#x27;arcus avec une explication météorologique.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1 : Vents à 86km/h…)&lt;/strong&gt;: Déroulé chronologique de l&amp;#x27;orage et zones touchées&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2 : Ce monstrueux nuage…)&lt;/strong&gt;: Explication scientifique de l&amp;#x27;arcus et témoignages visuels&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/vents-a-86km-h-grele-et-fortes-pluies-un-gros-orage-a-balaye-toulouse-et-son-agglomeration-les-images_64249402.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-monstrueux-nuage-d-apocalypse-a-impressionne-toulouse-comment-s-est-il-forme-au-passage-de-l-orage_64255753.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/vents-a-86km-h-grele-et-fortes-pluies-un-gros-orage-a-balaye-toulouse-et-son-agglomeration-les-images_64249402.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Dans la soirée du dimanche 10 mai 2026, un orage puissant a traversé l'agglomération toulousaine en environ une heure, arrivant depuis le sud-ouest et repartant vers le nord-est. Des rafales de vent ont été enregistrées à la station Météo France de Toulouse-Blagnac, les deux sources divergeant légèrement sur la valeur maximale (86 km/h selon l'un, 96 km/h selon l'autre). De la grêle est tombée en quantité, particulièrement à l'ouest de l'agglomération (Fontenilles, Seysses) ainsi que dans d'autres secteurs de la Haute-Garonne et du Gers. Un imposant arcus, nuage en forme de rouleau caractéristique des cumulonimbus, a été visible depuis toute l'agglomération et jusqu'au Tarn et au Tarn-et-Garonne. Aucun dégât significatif n'est signalé à Toulouse même, contrairement à certaines zones rurales alentour.</summary>
     <category term="news"/>
-    <published>2026-05-12T12:27:10+02:00</published>
+    <published>2026-05-10T21:17:36+02:00</published>
   </entry>
   <entry>
-    <id>https://actu.fr/occitanie/toulouse_31555/exclusif-le-suspect-n-1-d-une-tentative-de-meurtre-a-toulouse-place-en-garde-a-vue-apres-des-mois-de-fuite_64256687.html</id>
-    <title>EXCLUSIF. Le suspect n°1 d’une tentative de meurtre à Toulouse placé en garde à vue, après des mois de fuite</title>
+    <id>cluster:f826433e-0352-4d96-a159-38ea7d0f4c5f</id>
+    <title>Tentative de meurtre à Papus : le suspect interpellé après six mois de fuite</title>
     <updated>2026-05-12T12:56:54+02:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Près de six mois après la tentative de meurtre d’un vendeur de protoxyde d’azote à Toulouse, l’auteur présumé des faits vient d’être interpellé par la BAC à Toulouse et placé en garde à vue.
-Il est soupçonné d’avoir tiré sur un homme de 30 ans, alors qu’il se trouvait sur un ancien point de deal du quartier Papus, le samedi 20 décembre 2025. La victime avait été criblée de balles, vers une heure du matin, par le passager arrière d’une Renault de couleur sombre.
-Blessé au foie, au rein et à l’abdomen, le trentenaire était entre la vie et la mort quand il a été transporté à Purpan. Placé dans un coma artificiel, il a survécu, et a pu témoigner : il connaît l’homme qui a tiré, et l’identifie formellement. Depuis, les enquêteurs de la DCOS (la division de la criminalité organisée et spécialisée) étaient à la recherche de l’auteur présumé des faits, mais il avait pris la fuite. Jusqu’à ce lundi 11 mai, où la police a finalement mis la main sur lui…
-Un règlement de compte lié à un vieux contentieux
-« Il a été interpellé suite à un contrôle d’identité, dans Toulouse », détaille à Actu Toulouse une source proche de l’enquête. Inquiété pour « tentative de meurtre », il a été placé en garde à vue, où il se trouve toujours ce mardi 12 mai 2026.
-Pourquoi aurait-il tenté d’attenter à la vie de la victime ? « Un contentieux les oppose », résume notre source. Les deux hommes se seraient déjà violemment battus à plusieurs reprises, avant que la tension n’escalade jusqu’à cette tentative de m&lt;/p&gt;
+    <content type="html">&lt;p&gt;Près de six mois après les faits, le suspect principal d&amp;#x27;une tentative de meurtre commise le 20 décembre 2025 dans le quartier Papus a été interpellé par la BAC lors d&amp;#x27;un contrôle d&amp;#x27;identité à Toulouse, selon Actu Toulouse. Il est soupçonné d&amp;#x27;avoir tiré depuis le siège arrière d&amp;#x27;une Renault sombre sur un homme de 30 ans, vendeur de protoxyde d&amp;#x27;azote, le blessant grièvement au foie, au rein et à l&amp;#x27;abdomen. La victime, placée dans un coma artificiel après son transfert à Purpan, a survécu et a formellement identifié son agresseur, qu&amp;#x27;elle connaissait. D&amp;#x27;après une source proche de l&amp;#x27;enquête citée par Actu Toulouse, un vieux contentieux opposait les deux hommes, marqué par plusieurs affrontements violents avant que la situation ne dégénère en tentative de meurtre. Le suspect, mis en cause pour « tentative de meurtre », était toujours en garde à vue ce mardi 12 mai 2026, entre les mains de la DCOS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails exclusifs sur l&amp;#x27;interpellation et le contexte du règlement de compte, avec informations issues d&amp;#x27;une source proche de l&amp;#x27;enquête&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/exclusif-le-suspect-n-1-d-une-tentative-de-meurtre-a-toulouse-place-en-garde-a-vue-apres-des-mois-de-fuite_64256687.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/exclusif-le-suspect-n-1-d-une-tentative-de-meurtre-a-toulouse-place-en-garde-a-vue-apres-des-mois-de-fuite_64256687.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Près de six mois après la tentative de meurtre d’un vendeur de protoxyde d’azote à Toulouse, l’auteur présumé des faits vient d’être interpellé par la BAC à Toulouse et placé en garde à vue.
-Il est soupçonné d’avoir tiré sur un homme de 30 ans, alors qu’il se trouvait sur un ancien point de deal du quartier Papus, le samedi 20 décembre 2025. La victime avait été criblée de balles, vers une heure du matin, par le passager arrière d’une Renault de couleur sombre.
-Blessé au foie, au rein et à l’abdomen, le trentenaire était entre la vie et la mort quand il a été transporté à Purpan. Placé dans un coma artificiel, il a survécu, et a pu témoigner : il connaît l’homme qui a tiré, et l’identifie formellement. Depuis, les enquêteurs de la DCOS (la division de la criminalité organisée et spécialisée) étaient à la recherche de l’auteur présumé des faits, mais il avait pris la fuite. Jusqu’à ce lundi 11 mai, où la police a finalement mis la main sur lui…
-Un règlement de compte lié à un vieux contentieux
-« Il a été interpellé suite à un contrôle d’identité, dans Toulouse », détaille à Actu Toulouse une source proche de l’enquête. Inquiété pour « tentative de meurtre », il a été placé en garde à vue, où il se trouve toujours ce mardi 12 mai 2026.
-Pourquoi aurait-il tenté d’attenter à la vie de la victime ? « Un contentieux les oppose », résume notre source. Les deux hommes se seraient déjà violemment battus à plusieurs reprises, avant que la tension n’escalade jusqu’à cette tentative de m</summary>
+    <summary>Près de six mois après les faits, le suspect principal d'une tentative de meurtre commise le 20 décembre 2025 dans le quartier Papus a été interpellé par la BAC lors d'un contrôle d'identité à Toulouse, selon Actu Toulouse. Il est soupçonné d'avoir tiré depuis le siège arrière d'une Renault sombre sur un homme de 30 ans, vendeur de protoxyde d'azote, le blessant grièvement au foie, au rein et à l'abdomen. La victime, placée dans un coma artificiel après son transfert à Purpan, a survécu et a formellement identifié son agresseur, qu'elle connaissait. D'après une source proche de l'enquête citée par Actu Toulouse, un vieux contentieux opposait les deux hommes, marqué par plusieurs affrontements violents avant que la situation ne dégénère en tentative de meurtre. Le suspect, mis en cause pour « tentative de meurtre », était toujours en garde à vue ce mardi 12 mai 2026, entre les mains de la DCOS.</summary>
     <category term="news"/>
     <published>2026-05-12T12:56:54+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9f750c15-c1b5-4bb0-a4cc-f7ea1474fec9</id>
+    <title>Les ambulanciers du CHU Purpan en grève pour une revalorisation salariale</title>
+    <updated>2026-05-12T13:08:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Les 11 et 12 mai 2026, une vingtaine d&amp;#x27;ambulanciers du CHU de Toulouse ont cessé le travail, laissant certaines ambulances du pavillon Turiaf à Purpan immobilisées. Ils réclament une revalorisation de leur rémunération après deux ans de négociations infructueuses avec la direction. Selon les grévistes, leurs missions ont considérablement évolué : transport de corps, de patients psychiatriques potentiellement violents, de prisonniers, et des interventions Samu parfois sans médecin à bord. La formule « plus de responsabilités égale primes » résume leur revendication centrale. La direction du CHU a répondu à la mobilisation, mais sa position exacte reste floue d&amp;#x27;après l&amp;#x27;article d&amp;#x27;actu_toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/on-transporte-des-etres-vivants-pas-des-colis-les-ambulanciers-du-chu-de-toulouse-en-greve-la-direction-replique_64251840.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/on-transporte-des-etres-vivants-pas-des-colis-les-ambulanciers-du-chu-de-toulouse-en-greve-la-direction-replique_64251840.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les 11 et 12 mai 2026, une vingtaine d'ambulanciers du CHU de Toulouse ont cessé le travail, laissant certaines ambulances du pavillon Turiaf à Purpan immobilisées. Ils réclament une revalorisation de leur rémunération après deux ans de négociations infructueuses avec la direction. Selon les grévistes, leurs missions ont considérablement évolué : transport de corps, de patients psychiatriques potentiellement violents, de prisonniers, et des interventions Samu parfois sans médecin à bord. La formule « plus de responsabilités égale primes » résume leur revendication centrale. La direction du CHU a répondu à la mobilisation, mais sa position exacte reste floue d'après l'article d'actu_toulouse.</summary>
+    <category term="news"/>
+    <published>2026-05-12T13:08:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:fbdc8daa-4d19-4ca9-b182-19bc30d20cbc</id>
+    <title>Un Volkswagen ID. Buzz prend feu lors d'une recharge à Purpan</title>
+    <updated>2026-05-12T15:05:36+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Ce mardi 12 mai 2026, vers 10h40, un véhicule utilitaire Volkswagen ID. Buzz appartenant à la société SPIE a pris feu en fin de charge à la station TotalÉnergies de Purpan, sur la rocade toulousaine. L&amp;#x27;incendie a détruit une borne de recharge et endommagé l&amp;#x27;auvent métallique de la station, inaugurée en 2024 avec 16 bornes ultra-rapides. Une vingtaine de sapeurs-pompiers a été mobilisée sur place. TotalÉnergies précise que le véhicule faisait l&amp;#x27;objet d&amp;#x27;un rappel officiel pour risque d&amp;#x27;incendie lié à une possible surchauffe des modules de batterie haute tension pendant le chargement — rappel référencé sur RappelConso. On ignore à ce stade si la société propriétaire avait donné suite à ce rappel avant l&amp;#x27;incident.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails de l&amp;#x27;incident, contexte du rappel constructeur et réactions de TotalÉnergies&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-le-volkswagen-id-buzz-prend-feu-pendant-la-recharge-incendie-a-la-station-service_64257146.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-le-volkswagen-id-buzz-prend-feu-pendant-la-recharge-incendie-a-la-station-service_64257146.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Ce mardi 12 mai 2026, vers 10h40, un véhicule utilitaire Volkswagen ID. Buzz appartenant à la société SPIE a pris feu en fin de charge à la station TotalÉnergies de Purpan, sur la rocade toulousaine. L'incendie a détruit une borne de recharge et endommagé l'auvent métallique de la station, inaugurée en 2024 avec 16 bornes ultra-rapides. Une vingtaine de sapeurs-pompiers a été mobilisée sur place. TotalÉnergies précise que le véhicule faisait l'objet d'un rappel officiel pour risque d'incendie lié à une possible surchauffe des modules de batterie haute tension pendant le chargement — rappel référencé sur RappelConso. On ignore à ce stade si la société propriétaire avait donné suite à ce rappel avant l'incident.</summary>
+    <category term="news"/>
+    <published>2026-05-12T15:05:36+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ba141577-fdeb-4efd-830e-b9dc4294fcda</id>
+    <title>Une arnaque à la fondue signalée dans la région</title>
+    <updated>2026-05-12T16:01:23.304000+00:00</updated>
+    <author>
+      <name>newsletter</name>
+    </author>
+    <content type="html">&lt;p&gt;La newsletter Actu évoque une « arnaque à la fondue », sans que le contenu détaillé de l&amp;#x27;article ne soit accessible dans l&amp;#x27;extrait fourni. Le titre suggère une pratique trompeuse liée à la vente ou à la présentation d&amp;#x27;un plat de fondue, potentiellement dans un contexte de restauration ou de marché. Les détails précis — lieu, personnes concernées, nature exacte de l&amp;#x27;arnaque — ne sont pas disponibles dans cet extrait. Les lecteurs souhaitant en savoir plus devront consulter directement l&amp;#x27;article source sur Actu.fr.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;newsletter (Actu.fr)&lt;/strong&gt;: Détails complets sur la nature et le contexte de l&amp;#x27;arnaque signalée&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://tracking.actu.fr/tracking/click?d=KKpHJh0Eh4iGq7s98wSkePhp-aGWQr2yOauh4kGJMQPOEOYEHgdeNuuFRhmpUtVENJ9AZ8ogwIn7rvApMXPOt0RlXiQ0SK_ACyEC7hmCvfNwW-i0u8pKfLKaxUHhqiDNqKnUThK1LNqdCY2aPy8EQ21hU-Sg4IyISHpnNPP2eIGwDugjC6A-DYiZNJoNj3SrH1sHv5FKSbJc7NM4QZSdXfWSgO58x1vQluRItLeSBJLywn2Igcxze3fE2g3mqUM5k32yDO9SyD-Hg1jTQnf-mpL2M5hQvT8Uwb5paDSNLOBrnjpIGh_TkOp0TL-c7zh2A3TgYyKerN9LYwVi9cdYAvXkNKBDYyd4q8c3eCNqoFt7DG-l8oL7ssx2-AIlh6rLSdgP_akoPBR1Tqov6_sat3MYnl8tgwHKVzmRFmK8xaFu_eW2v90Z63AGY8wueCUwYNz3agRnoDajhAjoWCzYi_U1&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Newsletter&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://tracking.actu.fr/tracking/click?d=KKpHJh0Eh4iGq7s98wSkePhp-aGWQr2yOauh4kGJMQPOEOYEHgdeNuuFRhmpUtVENJ9AZ8ogwIn7rvApMXPOt0RlXiQ0SK_ACyEC7hmCvfNwW-i0u8pKfLKaxUHhqiDNqKnUThK1LNqdCY2aPy8EQ21hU-Sg4IyISHpnNPP2eIGwDugjC6A-DYiZNJoNj3SrH1sHv5FKSbJc7NM4QZSdXfWSgO58x1vQluRItLeSBJLywn2Igcxze3fE2g3mqUM5k32yDO9SyD-Hg1jTQnf-mpL2M5hQvT8Uwb5paDSNLOBrnjpIGh_TkOp0TL-c7zh2A3TgYyKerN9LYwVi9cdYAvXkNKBDYyd4q8c3eCNqoFt7DG-l8oL7ssx2-AIlh6rLSdgP_akoPBR1Tqov6_sat3MYnl8tgwHKVzmRFmK8xaFu_eW2v90Z63AGY8wueCUwYNz3agRnoDajhAjoWCzYi_U1&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La newsletter Actu évoque une « arnaque à la fondue », sans que le contenu détaillé de l'article ne soit accessible dans l'extrait fourni. Le titre suggère une pratique trompeuse liée à la vente ou à la présentation d'un plat de fondue, potentiellement dans un contexte de restauration ou de marché. Les détails précis — lieu, personnes concernées, nature exacte de l'arnaque — ne sont pas disponibles dans cet extrait. Les lecteurs souhaitant en savoir plus devront consulter directement l'article source sur Actu.fr.</summary>
+    <category term="news"/>
+    <published>2026-05-12T16:01:23.304000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:db7da979-5cec-48d3-87db-f7b659755cb7</id>
+    <title>Airexpo Muret : embouteillages et colère après le meeting du 40e anniversaire</title>
+    <updated>2026-05-12T17:02:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le meeting aérien Airexpo Muret a fêté son 40e anniversaire samedi 9 mai à l&amp;#x27;aérodrome de Muret-Lherm, attirant environ 10 000 visiteurs selon les organisateurs. L&amp;#x27;événement, organisé par des étudiants de l&amp;#x27;ENAC et de l&amp;#x27;ISAE-Supaero, a visiblement rencontré un beau succès côté spectacle aérien. En revanche, la gestion de la circulation a suscité de vives critiques parmi les visiteurs, qui ont contacté Actu Toulouse pour témoigner. Plusieurs d&amp;#x27;entre eux décrivent des bouchons qualifiés de « catastrophiques », une absence de panneaux de déviation et aucun agent pour réguler le trafic, certains ayant mis jusqu&amp;#x27;à trois heures pour quitter le parking.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Témoignages de visiteurs mécontents sur les problèmes de circulation et d&amp;#x27;organisation&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/bouchons-catastrophiques-3-heures-pour-sortir-du-parking-des-visiteurs-d-airexpo-en-colere-suite-a-l-evenement_64251189.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/bouchons-catastrophiques-3-heures-pour-sortir-du-parking-des-visiteurs-d-airexpo-en-colere-suite-a-l-evenement_64251189.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le meeting aérien Airexpo Muret a fêté son 40e anniversaire samedi 9 mai à l'aérodrome de Muret-Lherm, attirant environ 10 000 visiteurs selon les organisateurs. L'événement, organisé par des étudiants de l'ENAC et de l'ISAE-Supaero, a visiblement rencontré un beau succès côté spectacle aérien. En revanche, la gestion de la circulation a suscité de vives critiques parmi les visiteurs, qui ont contacté Actu Toulouse pour témoigner. Plusieurs d'entre eux décrivent des bouchons qualifiés de « catastrophiques », une absence de panneaux de déviation et aucun agent pour réguler le trafic, certains ayant mis jusqu'à trois heures pour quitter le parking.</summary>
+    <category term="news"/>
+    <published>2026-05-12T17:02:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:97009d20-5a1b-4f71-a968-6b1d2f6c76b5</id>
+    <title>Pont de l'Ascension pluvieux et frais à Toulouse et en Haute-Garonne</title>
+    <updated>2026-05-12T19:32:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le pont de l&amp;#x27;Ascension, du jeudi 14 au dimanche 17 mai 2026, s&amp;#x27;annonce perturbé à Toulouse et en Haute-Garonne, selon les prévisions de Météo-France relayées par actu_toulouse. Le prévisionniste Louis Soulard-Fischer anticipe deux perturbations successives donnant un temps « automnal », avec des températures inférieures de 5 à 6 degrés aux normales saisonnières. Jeudi et vendredi seront les journées les plus difficiles — jusqu&amp;#x27;à 15 °C maximum le vendredi et entre 3 et 10 mm de pluie attendus ces deux jours. Le week-end devrait être légèrement plus clément, avec un ciel nuageux mais moins pluvieux et des températures en légère hausse, même si les prévisions restent incertaines à cette échéance. Aucun phénomène violent (orages, grêle) n&amp;#x27;est toutefois prévu, contrairement aux épisodes qui avaient touché l&amp;#x27;agglomération le 10 mai.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pluie-et-fraicheur-voici-ce-qui-est-prevu-pour-le-pont-de-l-ascension-a-toulouse_64257295.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/pluie-et-fraicheur-voici-ce-qui-est-prevu-pour-le-pont-de-l-ascension-a-toulouse_64257295.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le pont de l'Ascension, du jeudi 14 au dimanche 17 mai 2026, s'annonce perturbé à Toulouse et en Haute-Garonne, selon les prévisions de Météo-France relayées par actu_toulouse. Le prévisionniste Louis Soulard-Fischer anticipe deux perturbations successives donnant un temps « automnal », avec des températures inférieures de 5 à 6 degrés aux normales saisonnières. Jeudi et vendredi seront les journées les plus difficiles — jusqu'à 15 °C maximum le vendredi et entre 3 et 10 mm de pluie attendus ces deux jours. Le week-end devrait être légèrement plus clément, avec un ciel nuageux mais moins pluvieux et des températures en légère hausse, même si les prévisions restent incertaines à cette échéance. Aucun phénomène violent (orages, grêle) n'est toutefois prévu, contrairement aux épisodes qui avaient touché l'agglomération le 10 mai.</summary>
+    <category term="news"/>
+    <published>2026-05-12T19:32:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:26219755-981d-43a0-b54f-c2071ed2a415</id>
+    <title>Le Stade Toulousain vise les 1000 points sur une saison régulière</title>
+    <updated>2026-05-13T06:02:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Après leur victoire écrasante à Toulon (27-51) samedi dernier, les joueurs du Stade Toulousain ont battu leur propre record d&amp;#x27;essais inscrits sur une saison de Top 14, avec désormais 123 essais marqués, dépassant les 118 de la saison précédente. Les Rouge et Noir tournent à une moyenne de 5 essais par match depuis le début de saison et occupent la tête du championnat. Un nouveau cap symbolique se profile : atteindre les 1000 points toutes compétitions confondues sur une saison régulière, un total jamais encore atteint en Top 14 — ils en sont à 912 à ce jour. Pour y parvenir, il leur faudra marquer en moyenne 30 points lors de chacun de leurs trois derniers matchs, face à La Rochelle, Lyon et le Racing 92. Fait notable, aucun joueur toulousain ne figure dans le Top 5 des meilleurs marqueurs individuels du championnat, soulignant le caractère collectif de cette domination offensive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Analyse chiffrée des records offensifs du Stade Toulousain et projection vers la barre des 1000 points&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-le-record-deja-en-poche-toulouse-peut-il-atteindre-la-barre-mythique-des-1000-points_64258891.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/top-14-le-record-deja-en-poche-toulouse-peut-il-atteindre-la-barre-mythique-des-1000-points_64258891.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Après leur victoire écrasante à Toulon (27-51) samedi dernier, les joueurs du Stade Toulousain ont battu leur propre record d'essais inscrits sur une saison de Top 14, avec désormais 123 essais marqués, dépassant les 118 de la saison précédente. Les Rouge et Noir tournent à une moyenne de 5 essais par match depuis le début de saison et occupent la tête du championnat. Un nouveau cap symbolique se profile : atteindre les 1000 points toutes compétitions confondues sur une saison régulière, un total jamais encore atteint en Top 14 — ils en sont à 912 à ce jour. Pour y parvenir, il leur faudra marquer en moyenne 30 points lors de chacun de leurs trois derniers matchs, face à La Rochelle, Lyon et le Racing 92. Fait notable, aucun joueur toulousain ne figure dans le Top 5 des meilleurs marqueurs individuels du championnat, soulignant le caractère collectif de cette domination offensive.</summary>
+    <category term="news"/>
+    <published>2026-05-13T06:02:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7af8c952-8256-43fc-835f-0bce98d5fcda</id>
+    <title>Quatre ans après, Téléo peine à atteindre ses objectifs de fréquentation</title>
+    <updated>2026-05-13T06:12:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le téléphérique Téléo fête ses quatre ans d&amp;#x27;existence, mais sa fréquentation reste nettement en dessous des ambitions initiales de Tisséo, qui visait 8 000 voyageurs par jour au lancement. En 2024, la moyenne s&amp;#x27;établissait à 5 653 trajets quotidiens, en recul par rapport à 2023. Pour 2025, les chiffres paraissent stables en volume de validations, mais cette apparente stabilité masque une nouvelle baisse : Téléo a été moins souvent à l&amp;#x27;arrêt cette année qu&amp;#x27;en 2024, ce qui signifie que la fréquentation effective continue de s&amp;#x27;éroder. Face à ce constat, Tisséo étudierait néanmoins une extension de la ligne, selon Actu Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Données chiffrées de fréquentation et pistes envisagées par Tisséo pour l&amp;#x27;avenir du téléphérique&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-frequentation-du-telepherique-de-toulouse-est-largement-en-dessous-des-objectifs-tisseo-etudie-son-extension_64257693.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/la-frequentation-du-telepherique-de-toulouse-est-largement-en-dessous-des-objectifs-tisseo-etudie-son-extension_64257693.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le téléphérique Téléo fête ses quatre ans d'existence, mais sa fréquentation reste nettement en dessous des ambitions initiales de Tisséo, qui visait 8 000 voyageurs par jour au lancement. En 2024, la moyenne s'établissait à 5 653 trajets quotidiens, en recul par rapport à 2023. Pour 2025, les chiffres paraissent stables en volume de validations, mais cette apparente stabilité masque une nouvelle baisse : Téléo a été moins souvent à l'arrêt cette année qu'en 2024, ce qui signifie que la fréquentation effective continue de s'éroder. Face à ce constat, Tisséo étudierait néanmoins une extension de la ligne, selon Actu Toulouse.</summary>
+    <category term="news"/>
+    <published>2026-05-13T06:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f9015a7c-f4f7-4709-a8b8-cf2c456e0999</id>
+    <title>Le rooftop d'Interference à Balma lance sa saison estivale</title>
+    <updated>2026-05-13T06:42:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La salle de spectacle Interference, située à Balma, ouvre pour la deuxième saison consécutive son rooftop d&amp;#x27;une capacité de 700 personnes. Au programme cet été : soirées électro, concerts gratuits et mise en avant de la scène toulousaine locale. L&amp;#x27;espace a été entièrement repensé avec plus d&amp;#x27;ombre, du nouveau mobilier et un système son amélioré, selon le programmateur Florian Saint-Macary. La salle principale (2 500 places) accueillera également des concerts, dont Julian Marley et Vanupié le 17 juin, ou Blood Incarnation et Gong le 7 juillet. L&amp;#x27;objectif affiché est d&amp;#x27;attirer aussi bien les salariés de la zone Balma-Gramont que le grand public toulousain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail de la programmation estivale et présentation des nouveautés de l&amp;#x27;espace rooftop&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-concerts-et-soirees-club-ce-rooftop-de-700-places-lance-sa-saison-d-ete_64230744.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-concerts-et-soirees-club-ce-rooftop-de-700-places-lance-sa-saison-d-ete_64230744.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La salle de spectacle Interference, située à Balma, ouvre pour la deuxième saison consécutive son rooftop d'une capacité de 700 personnes. Au programme cet été : soirées électro, concerts gratuits et mise en avant de la scène toulousaine locale. L'espace a été entièrement repensé avec plus d'ombre, du nouveau mobilier et un système son amélioré, selon le programmateur Florian Saint-Macary. La salle principale (2 500 places) accueillera également des concerts, dont Julian Marley et Vanupié le 17 juin, ou Blood Incarnation et Gong le 7 juillet. L'objectif affiché est d'attirer aussi bien les salariés de la zone Balma-Gramont que le grand public toulousain.</summary>
+    <category term="event"/>
+    <published>2026-05-13T06:42:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:391796ae-13f3-44d4-9703-8ba30a5716d7</id>
+    <title>Quartier des Demoiselles : un projet immobilier inquiète les habitants</title>
+    <updated>2026-05-13T07:12:01+02:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Depuis le 16 janvier 2025, le bureau de Poste de l&amp;#x27;avenue Antoine de Saint-Exupéry, au cœur du quartier des Demoiselles, est fermé en raison d&amp;#x27;un risque structurel du bâtiment, propriété de la mairie de Toulouse. L&amp;#x27;affichage d&amp;#x27;un permis de construire devant les locaux vacants a suscité l&amp;#x27;inquiétude des riverains, qui s&amp;#x27;interrogent sur l&amp;#x27;avenir du service postal et sur la nature du projet prévu. Le promoteur immobilier Fonta, chargé du projet, a répondu aux questions d&amp;#x27;Actu Toulouse, apportant quelques éléments de réponse sur ce qui doit être construit à cet emplacement. Ce quartier, réputé pour son ambiance de village avec ses commerces de bouche et l&amp;#x27;église Saint-Joseph, voit ainsi son cœur menacé d&amp;#x27;une transformation que les habitants n&amp;#x27;ont pas encore pleinement acceptée.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails du projet immobilier et réponses du promoteur Fonta&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-il-va-changer-le-visage-de-ce-coeur-de-quartier-quel-est-ce-projet-immobilier-qui-inquiete-les-habitants_64255618.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-il-va-changer-le-visage-de-ce-coeur-de-quartier-quel-est-ce-projet-immobilier-qui-inquiete-les-habitants_64255618.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis le 16 janvier 2025, le bureau de Poste de l'avenue Antoine de Saint-Exupéry, au cœur du quartier des Demoiselles, est fermé en raison d'un risque structurel du bâtiment, propriété de la mairie de Toulouse. L'affichage d'un permis de construire devant les locaux vacants a suscité l'inquiétude des riverains, qui s'interrogent sur l'avenir du service postal et sur la nature du projet prévu. Le promoteur immobilier Fonta, chargé du projet, a répondu aux questions d'Actu Toulouse, apportant quelques éléments de réponse sur ce qui doit être construit à cet emplacement. Ce quartier, réputé pour son ambiance de village avec ses commerces de bouche et l'église Saint-Joseph, voit ainsi son cœur menacé d'une transformation que les habitants n'ont pas encore pleinement acceptée.</summary>
+    <category term="news"/>
+    <published>2026-05-13T07:12:01+02:00</published>
   </entry>
 </feed>
