@@ -29,6 +29,32 @@ _WS_RE = re.compile(r"\s+")
 _TRACKING_DOMAINS = ("list-manage.com", "mailchi.mp", "sendgrid.net", "click.", "track.", "unsubscribe")
 _LINK_RE = re.compile(r'<a\s+[^>]*href="(https?://[^"]+)"', re.IGNORECASE)
 
+# Transactional email detection (subscription confirmations, welcome emails, etc.)
+_TRANSACTIONAL_SUBJECT_RE = re.compile(
+    r"(confirmation\s+d[e’]\s*inscription|bienvenue|welcome\s+to|newsletter\s+confirm"
+    r"|confirmer\s+votre\s+(email|adresse|inscription)|please\s+(confirm|verify)\s+your)",
+    re.IGNORECASE,
+)
+_TRANSACTIONAL_BODY_RE = re.compile(
+    r"(e-mail\s+de\s+confirmation|confirmer\s+votre\s+inscription"
+    r"|vous\s+[êe]tes\s+(bien\s+)?inscrit|cliquez\s+ici\s+pour\s+(confirmer|valider)"
+    r"|please\s+(confirm|verify)\s+your\s+(email|subscription))",
+    re.IGNORECASE,
+)
+
+# Clutch day-section and event markers
+_CLUTCH_DAY_RE = re.compile(r"⚡+\s*([A-ZÀ-ÿ]+(?:\s+[A-ZÀ-ÿ]+)*\s+\d+\s+[A-ZÀ-ÿ]+(?:\s+[A-ZÀ-ÿ]+)*)\s*⚡+", re.IGNORECASE)
+_CLUTCH_STOP_MARKERS = ("- CITY GUIDE -", "CITY GUIDE", "- LA VID", "Clutcho", "+ d'événements")
+
+
+def _is_transactional(subject: str, text: str) -> bool:
+    """Return True for clearly non-editorial emails (subscription confirmations, etc.)."""
+    if _TRANSACTIONAL_SUBJECT_RE.search(subject):
+        return True
+    if _TRANSACTIONAL_BODY_RE.search(text[:3000]):
+        return True
+    return False
+
 
 def _strip_html(html: str) -> str:
     return _WS_RE.sub(" ", _TAG_RE.sub(" ", html or "")).strip()
@@ -131,9 +157,181 @@ def _extract_lessentiel(
     return items
 
 
+_OT_DATE_RE = re.compile(
+    r"^(DU\s+\d+\s+AU\s+\d+\s+[A-ZÉÈÊËÀÙÏÎÔÛÂ]+|"
+    r"(?:LUNDI|MARDI|MERCREDI|JEUDI|VENDREDI|SAMEDI|DIMANCHE)\s+\d+\s+[A-ZÉÈÊËÀÙÏÎÔÛÂ]+)",
+    re.IGNORECASE,
+)
+_OT_SKIP_RE = re.compile(
+    r"(voir le contenu|se d[eé]sabonner|unsubscribe|©|copyright"
+    r"|MailingFS|EN SAVOIR PLUS|Les immanquables|Et bien plus encore"
+    r"|/\*|\*/)",
+    re.IGNORECASE,
+)
+
+
+def _extract_officetourisme(
+    html: str,
+    text: str,
+    received_at: datetime,
+    from_addr: str,
+) -> list[dict[str, Any]]:
+    """Extract individual events from the Office de Tourisme weekend digest.
+
+    The email is HTML-only (base64). We parse the HTML, strip boilerplate, then
+    split on 'EN SAVOIR PLUS' links — each block is one event with its date,
+    name, audience tags, and description. Each becomes a separate item so that
+    individual events appear as distinct cards in the digest.
+    """
+    try:
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(html, "html.parser")
+        for tag in soup.find_all(["style", "script", "head"]):
+            tag.decompose()
+
+        # Collect (text_block, href) pairs — one per "EN SAVOIR PLUS" link
+        event_blocks: list[tuple[str, str]] = []
+        current_lines: list[str] = []
+        fallback_url = f"https://www.toulouse-tourisme.com/agenda#{received_at.strftime('%Y-%m-%d')}"
+
+        for node in soup.recursiveChildGenerator():
+            if isinstance(node, str):
+                line = node.strip()
+                if line and not _OT_SKIP_RE.search(line):
+                    current_lines.append(line)
+            elif hasattr(node, "name"):
+                if node.name == "a" and "EN SAVOIR PLUS" in node.get_text():
+                    href = node.get("href", "") or fallback_url
+                    block_text = "\n".join(current_lines).strip()
+                    if block_text:
+                        event_blocks.append((block_text, href))
+                    current_lines = []
+
+        if not event_blocks:
+            return []
+
+        items: list[dict[str, Any]] = []
+        date_slug = received_at.strftime("%Y-%m-%d")
+
+        for idx, (block, href) in enumerate(event_blocks):
+            lines = [l for l in block.splitlines() if l.strip()]
+            if not lines:
+                continue
+
+            # First line matching the date pattern → date label; next line is the event name
+            title = ""
+            date_label = ""
+            desc_lines: list[str] = []
+            i = 0
+            while i < len(lines):
+                if not date_label and _OT_DATE_RE.match(lines[i]):
+                    date_label = lines[i].strip()
+                    if i + 1 < len(lines):
+                        # Strip audience tags (// EN FAMILLE //)
+                        raw_name = re.sub(r"\s*//.*", "", lines[i + 1]).strip()
+                        title = raw_name
+                        i += 2
+                    else:
+                        i += 1
+                else:
+                    desc_lines.append(lines[i])
+                    i += 1
+
+            if not title:
+                title = lines[0]
+            if date_label:
+                title = f"{title} – {date_label.title()}"
+
+            excerpt = "\n".join(desc_lines)[:LESSENTIEL_TEXT_CAP]
+
+            # Use a stable unique URL: tracking href if present, else fallback with index
+            url = href if href.startswith("http") else f"{fallback_url}-{idx}"
+
+            items.append({
+                "source": "office_tourisme",
+                "url": url,
+                "title": title,
+                "published_at": received_at.isoformat(),
+                "raw_html": None,
+                "extracted_text": excerpt,
+                "item_type": "event",
+                "event_date": None,
+                "metadata": {"from": from_addr},
+            })
+
+        return items
+
+    except Exception:
+        return []
+
+
+def _extract_clutch(
+    html: str,
+    text: str,
+    received_at: datetime,
+    from_addr: str,
+) -> list[dict[str, Any]]:
+    """Split one Clutch newsletter into per-day event items.
+
+    Structure: day headers ⚡ LUNDI 12 MAI ⚡ followed by event blocks
+    (each starting with ➤), separated by --- lines.
+    """
+    parts = _CLUTCH_DAY_RE.split(text)
+    if len(parts) < 3:
+        return []
+
+    items: list[dict[str, Any]] = []
+    date_slug = received_at.strftime("%Y-%m-%d")
+
+    for i in range(1, len(parts), 2):
+        day_label = " ".join(parts[i].split()).title()
+        if i + 1 >= len(parts):
+            break
+        content = parts[i + 1]
+
+        # Trim at promotional / non-editorial sections
+        for marker in _CLUTCH_STOP_MARKERS:
+            idx = content.find(marker)
+            if idx != -1:
+                content = content[:idx]
+
+        content = content.strip()
+        if not content or "➤" not in content:
+            continue
+
+        # Split by separator lines (--- blocks) and keep blocks with ➤
+        event_blocks = []
+        for block in re.split(r"\n\s*-{5,}\s*\n", content):
+            block = block.strip()
+            if "➤" in block:
+                event_blocks.append(block)
+
+        if not event_blocks:
+            continue
+
+        excerpt = "\n\n".join(event_blocks)[:LESSENTIEL_TEXT_CAP]
+        day_slug = re.sub(r"[^a-z0-9]+", "-", day_label.lower()).strip("-")
+
+        items.append({
+            "source": "clutch",
+            "url": f"https://www.clutchmag.fr/evenements#{date_slug}-{day_slug}",
+            "title": f"Plans Clutch – {day_label}",
+            "published_at": received_at.isoformat(),
+            "raw_html": None,
+            "extracted_text": excerpt,
+            "item_type": "event",
+            "event_date": None,
+            "metadata": {"from": from_addr, "day": day_label},
+        })
+
+    return items
+
+
 # Map sender-domain suffix → extractor function
 SENDER_EXTRACTORS: dict[str, Callable[[str, str, datetime, str], list[dict[str, Any]]]] = {
     "toulouse.lessentiel.fr": _extract_lessentiel,
+    "clutchmag.fr": _extract_clutch,
+    "tourinsoft.com": _extract_officetourisme,
 }
 
 # Fallback source label for unrecognised senders
@@ -230,7 +428,12 @@ def fetch(within_hours: int = 24) -> list[dict[str, Any]]:
                 items.extend(extracted)
                 continue
 
-        # Fallback: one item per email
+        # Fallback: one item per email — skip transactional/system emails
+        subject = (payload.get("subject") or "").strip()
+        if _is_transactional(subject, text):
+            print(f"inbox: skipping transactional email — {subject[:80]!r}")
+            continue
+
         url = _representative_url(html) or f"mailto:{from_addr or 'unknown'}"
         items.append({
             "source": source_key,

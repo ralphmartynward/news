@@ -305,6 +305,25 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
   {% endif %}
 </div>
 
+<!-- Archive navigation -->
+{% if is_archive or archive_dates %}
+<div class="page" style="padding: 24px 24px 0;">
+  {% if is_archive %}
+  <a href="/" class="filter-btn" style="text-decoration:none;display:inline-block;margin-bottom:12px;">← Édition d'aujourd'hui</a>
+  {% endif %}
+  {% if archive_dates %}
+  <div style="margin-top:{% if is_archive %}8{% else %}0{% endif %}px;">
+    <div class="sec-label" style="margin-bottom:8px;">Éditions précédentes</div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;">
+      {% for arc in archive_dates %}
+      <a href="/archive/{{ arc.date }}.html" class="filter-btn" style="text-decoration:none;">{{ arc.label }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+
 <!-- Footer -->
 <footer>
   <strong>La Ville Rose · News</strong> — Agrégateur d'actualités toulousaines<br>

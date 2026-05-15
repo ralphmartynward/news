@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import os
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 from typing import Any
 from zoneinfo import ZoneInfo
@@ -11,7 +11,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 PARIS = ZoneInfo("Europe/Paris")
 TEMPLATE_DIR = Path("templates")
-SUMMARY_MAX_CHARS = 220
+SUMMARY_MAX_CHARS = 500
 WORKER_SUBSCRIBE_URL = os.environ.get("WORKER_SUBSCRIBE_URL", "").strip()
 
 # (key, eyebrow label, section title)
@@ -31,6 +31,7 @@ SOURCE_LABELS: dict[str, str] = {
     "toulouse_secret": "Toulouse Secret",
     "toulouscope": "Toulouscope",
     "openagenda": "OpenAgenda",
+    "office_tourisme": "Office de Tourisme",
     "newsletter": "Newsletter",
 }
 
@@ -99,12 +100,33 @@ def _build_entry(e: Any) -> dict[str, Any]:
     }
 
 
-def render(feed_path: Path, out_path: Path) -> None:
+def render(
+    feed_path: Path,
+    out_path: Path,
+    *,
+    filter_date: date | None = None,
+    archive_dates: list[dict[str, str]] | None = None,
+    is_archive: bool = False,
+) -> None:
+    """Render the landing page (or an archive page).
+
+    filter_date: Paris local date to display. Defaults to today.
+    archive_dates: list of {"date": "YYYY-MM-DD", "label": "..."} for pagination.
+    is_archive: True when rendering a past-day archive page.
+    """
     parsed = feedparser.parse(str(feed_path))
+    display_date = filter_date or datetime.now(PARIS).date()
 
     grouped: dict[str, list[dict[str, Any]]] = {cat: [] for cat, _, _ in CATEGORY_ORDER}
     sources_seen: set[str] = set()
     for e in parsed.entries:
+        published = (
+            datetime(*e.published_parsed[:6], tzinfo=ZoneInfo("UTC"))
+            if getattr(e, "published_parsed", None)
+            else None
+        )
+        if published and published.astimezone(PARIS).date() != display_date:
+            continue
         cat = _entry_category(e)
         if cat not in grouped:
             grouped[cat] = []
@@ -119,18 +141,20 @@ def render(feed_path: Path, out_path: Path) -> None:
         if entries:
             sections.append({"key": cat, "label": label, "title": title, "entries": entries})
 
-    now_paris = datetime.now(PARIS)
+    display_dt = datetime(display_date.year, display_date.month, display_date.day, tzinfo=PARIS)
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
         autoescape=select_autoescape(["html", "j2"]),
     )
     template = env.get_template("landing.html.j2")
     html = template.render(
-        date_long=_french_long_date(now_paris),
+        date_long=_french_long_date(display_dt),
         sections=sections,
         entry_count=sum(len(s["entries"]) for s in sections),
         source_count=len(sources_seen),
         worker_subscribe_url=WORKER_SUBSCRIBE_URL,
+        archive_dates=archive_dates or [],
+        is_archive=is_archive,
     )
 
     out_path.parent.mkdir(parents=True, exist_ok=True)

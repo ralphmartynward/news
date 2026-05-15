@@ -2,18 +2,21 @@ from __future__ import annotations
 
 import os
 import sys
+from datetime import date, datetime
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 from src import cache as cache_mod
 from src.fetchers import actu_toulouse, inbox, toulouscope
 from src.feed import write_atom
-from src.landing import render as render_landing
+from src.landing import PARIS, _french_long_date, render as render_landing
 from src.render_email import render as render_email
 from src.send import SendError, send_broadcast
 
 FEED_OUTPUT = Path("docs/feed.xml")
 LANDING_OUTPUT = Path("docs/index.html")
+ARCHIVE_DIR = Path("docs/archive")
 CACHE_PATH = Path("data/items_seen.db")
 
 FETCHERS = [
@@ -22,7 +25,7 @@ FETCHERS = [
     ("inbox", inbox.fetch),
 ]
 
-FEED_ENTRY_LIMIT = 50
+FEED_ENTRY_LIMIT = 200  # covers 7 days of cache at ~30 clusters/day
 RAW_SUMMARY_CHARS = 1500
 
 
@@ -229,8 +232,30 @@ def main() -> None:
     write_atom(entries, FEED_OUTPUT)
     print(f"wrote {FEED_OUTPUT} ({FEED_OUTPUT.stat().st_size} bytes)")
 
-    render_landing(FEED_OUTPUT, LANDING_OUTPUT)
+    # Compute archive dates (past days found in entries)
+    today_paris = datetime.now(PARIS).date()
+    past_dates: set[date] = set()
+    for e in entries:
+        dt = datetime.fromisoformat(e["published_at"])
+        d = dt.astimezone(PARIS).date()
+        if d < today_paris:
+            past_dates.add(d)
+    archive_dates = [
+        {
+            "date": d.isoformat(),
+            "label": _french_long_date(datetime(d.year, d.month, d.day, tzinfo=PARIS)),
+        }
+        for d in sorted(past_dates, reverse=True)
+    ]
+
+    render_landing(FEED_OUTPUT, LANDING_OUTPUT, archive_dates=archive_dates)
     print(f"wrote {LANDING_OUTPUT} ({LANDING_OUTPUT.stat().st_size} bytes)")
+
+    for arc in archive_dates:
+        arc_date = date.fromisoformat(arc["date"])
+        arc_path = ARCHIVE_DIR / f"{arc['date']}.html"
+        render_landing(FEED_OUTPUT, arc_path, filter_date=arc_date, archive_dates=archive_dates, is_archive=True)
+        print(f"wrote {arc_path}")
 
     api_key = os.environ.get("RESEND_API_KEY", "").strip()
     audience_id = os.environ.get("RESEND_AUDIENCE_ID", "").strip()
