@@ -240,10 +240,12 @@ def main() -> None:
         d = dt.astimezone(PARIS).date()
         if d < today_paris:
             past_dates.add(d)
+    from src.landing import FRENCH_MONTHS
     archive_dates = [
         {
             "date": d.isoformat(),
             "label": _french_long_date(datetime(d.year, d.month, d.day, tzinfo=PARIS)),
+            "short": f"{d.day} {FRENCH_MONTHS[d.month - 1]}",
         }
         for d in sorted(past_dates, reverse=True)
     ]

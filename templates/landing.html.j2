@@ -12,7 +12,7 @@
 <link rel="canonical" href="https://news.lavillerose.com/"/>
 <link rel="alternate" type="application/atom+xml" title="Toulouse News" href="/feed.xml"/>
 <link rel="icon" type="image/x-icon" href="https://lavillerose.com/assets/favicon/favicon.ico"/>
-<link href="shared.css" rel="stylesheet"/>
+<link href="/shared.css" rel="stylesheet"/>
 <style>
 /* === news.lavillerose.com — keeps shared nav + footer language === */
 
@@ -204,6 +204,19 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 .news-cta { font-size: 12px; font-weight: 800; color: #0f172a; margin-top: auto; display: flex; align-items: center; gap: 4px; }
 .news-card:hover .news-cta { color: #2563eb; }
 
+/* ── Archive nav ── */
+.arc-btn {
+  display: inline-block;
+  padding: 5px 11px;
+  border: 1px solid rgba(0,0,0,0.12);
+  background: #fff;
+  border-radius: 999px;
+  font: inherit; font-size: 12px; font-weight: 700;
+  color: #475569; text-decoration: none;
+  transition: background 120ms, color 120ms;
+}
+.arc-btn:hover { background: #0f172a; color: #fff; border-color: #0f172a; }
+
 /* ── Empty state ── */
 .empty {
   background: #fff; border: 1px dashed #cbd5e1; border-radius: 14px;
@@ -309,14 +322,14 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 {% if is_archive or archive_dates %}
 <div class="page" style="padding: 24px 24px 0;">
   {% if is_archive %}
-  <a href="/" class="filter-btn" style="text-decoration:none;display:inline-block;margin-bottom:12px;">← Édition d'aujourd'hui</a>
+  <a href="/" class="arc-btn" style="margin-bottom:12px;">← Aujourd'hui</a>
   {% endif %}
   {% if archive_dates %}
   <div style="margin-top:{% if is_archive %}8{% else %}0{% endif %}px;">
     <div class="sec-label" style="margin-bottom:8px;">Éditions précédentes</div>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
       {% for arc in archive_dates %}
-      <a href="/archive/{{ arc.date }}.html" class="filter-btn" style="text-decoration:none;">{{ arc.label }}</a>
+      <a href="/archive/{{ arc.date }}.html" class="arc-btn">{{ arc.short }}</a>
       {% endfor %}
     </div>
   </div>
@@ -390,7 +403,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 })();
 
 (function () {
-  const buttons = document.querySelectorAll('.filter-btn');
+  const buttons = document.querySelectorAll('.filter-btn[data-filter]');
   const sections = document.querySelectorAll('.cat-section');
   if (!buttons.length || !sections.length) return;
 
