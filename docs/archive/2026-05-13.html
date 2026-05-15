@@ -1,0 +1,591 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Toulouse News — La Ville Rose</title>
+<meta name="description" content="L'actualité de Toulouse, agrégée chaque jour à 7h. Sources locales, dédupliquées, résumées."/>
+<meta property="og:title" content="Toulouse News — La Ville Rose"/>
+<meta property="og:description" content="L'actualité de Toulouse, agrégée chaque jour à 7h."/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://news.lavillerose.com/"/>
+<link rel="canonical" href="https://news.lavillerose.com/"/>
+<link rel="alternate" type="application/atom+xml" title="Toulouse News" href="/feed.xml"/>
+<link rel="icon" type="image/x-icon" href="https://lavillerose.com/assets/favicon/favicon.ico"/>
+<link href="shared.css" rel="stylesheet"/>
+<style>
+/* === news.lavillerose.com — keeps shared nav + footer language === */
+
+html, body { height: auto; min-height: 100vh; display: block; background: #f8fafc; }
+
+/* ── Hero ── */
+.hero {
+  background: #0f172a;
+  color: #fff;
+  padding: 56px 24px 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+  background-size: 48px 48px;
+  pointer-events: none;
+}
+.hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 15% 60%, rgba(74,222,128,0.07) 0%, transparent 55%),
+    radial-gradient(ellipse at 85% 10%, rgba(244,114,182,0.08) 0%, transparent 50%);
+  pointer-events: none;
+}
+.hero-inner { position: relative; z-index: 2; max-width: 760px; margin: 0 auto; }
+
+.hero-eyebrow {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 999px;
+  padding: 5px 14px;
+  font-size: 11px; font-weight: 800; letter-spacing: 0.7px;
+  text-transform: uppercase; color: rgba(255,255,255,0.6);
+  margin-bottom: 22px;
+}
+.hero-title {
+  font-size: clamp(28px, 5vw, 48px);
+  font-weight: 950; line-height: 1.05; letter-spacing: -0.5px;
+  color: #fff; margin: 0 0 14px;
+}
+.hero-title .green { color: #4ade80; }
+.hero-title .pink  { color: #f472b6; }
+.hero-sub {
+  font-size: 15px; color: rgba(255,255,255,0.6); line-height: 1.55;
+  max-width: 520px; margin: 0 auto 32px;
+}
+.hero-ctas { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 44px; }
+.btn-primary {
+  background: #4ade80; color: #0f172a;
+  border: none; border-radius: 12px;
+  padding: 12px 22px; font-weight: 800; font-size: 13px;
+  cursor: pointer; text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px;
+  transition: transform 140ms, box-shadow 140ms;
+  box-shadow: 0 4px 18px rgba(74,222,128,0.28);
+}
+.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 7px 22px rgba(74,222,128,0.4); }
+.btn-ghost {
+  background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.85);
+  border: 1px solid rgba(255,255,255,0.18); border-radius: 12px;
+  padding: 12px 20px; font-weight: 700; font-size: 13px;
+  cursor: pointer; text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px;
+  transition: background 140ms;
+}
+.btn-ghost:hover { background: rgba(255,255,255,0.15); }
+
+/* ── Stats strip ── */
+.stats-strip {
+  position: relative; z-index: 2;
+  display: flex; justify-content: center; gap: 0;
+  border-top: 1px solid rgba(255,255,255,0.07);
+  flex-wrap: wrap;
+}
+.stat {
+  padding: 16px 32px; text-align: center;
+  border-right: 1px solid rgba(255,255,255,0.07);
+  flex: 0 0 auto;
+}
+.stat:last-child { border-right: none; }
+.stat-val { display: block; font-size: 21px; font-weight: 900; color: #4ade80; line-height: 1; margin-bottom: 3px; }
+.stat-lbl { font-size: 10px; font-weight: 700; color: rgba(255,255,255,0.35); text-transform: uppercase; letter-spacing: 0.5px; }
+
+/* ── Page wrapper + sections ── */
+.page { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+.section { padding: 56px 0; }
+.section + .section { border-top: 1px solid rgba(0,0,0,0.06); }
+.sec-label {
+  font-size: 10px; font-weight: 800; color: #94a3b8;
+  text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 6px;
+}
+.sec-title {
+  font-size: clamp(20px, 2.6vw, 28px); font-weight: 950;
+  color: #0f172a; margin: 0 0 8px; letter-spacing: -0.2px;
+}
+.sec-sub {
+  font-size: 13px; color: #64748b; line-height: 1.55;
+  max-width: 520px; margin: 0 0 28px;
+}
+
+/* ── Subscribe card ── */
+.subscribe-section { background: #f1f5f9; border-top: 1px solid rgba(0,0,0,0.06); border-bottom: 1px solid rgba(0,0,0,0.06); }
+.subscribe-card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.08); border-radius: 14px;
+  padding: 22px; box-shadow: 0 1px 6px rgba(0,0,0,.05);
+  display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+}
+.subscribe-card input[type=email] {
+  flex: 1 1 240px; padding: 11px 14px;
+  border: 1px solid #e2e8f0; border-radius: 10px;
+  font: inherit; font-size: 14px; outline: none;
+  transition: border-color 120ms;
+}
+.subscribe-card input[type=email]:focus { border-color: #4ade80; }
+.subscribe-card button {
+  background: #0f172a; color: #fff;
+  border: none; border-radius: 10px;
+  padding: 11px 22px; font-weight: 800; font-size: 13px;
+  cursor: pointer; transition: background 140ms;
+}
+.subscribe-card button:hover { background: #1e293b; }
+.subscribe-card .note { font-size: 11px; color: #94a3b8; margin: 0; flex-basis: 100%; }
+
+/* ── News grid + cards ── */
+.news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+.news-card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.08); border-radius: 14px;
+  padding: 18px;
+  box-shadow: 0 1px 6px rgba(0,0,0,.05);
+  text-decoration: none; color: inherit;
+  display: flex; flex-direction: column;
+  transition: transform 150ms, box-shadow 150ms, border-color 150ms;
+}
+.news-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.09);
+  border-color: rgba(0,0,0,0.14);
+}
+.news-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; font-size: 10px; }
+.news-source {
+  font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
+  border: 1px solid;
+  border-radius: 999px; padding: 2px 8px;
+}
+/* category-coded pills */
+.cat-news    { color: #2563eb; background: #eff6ff; border-color: #dbeafe; }
+.cat-event   { color: #16a34a; background: #f0fdf4; border-color: #bbf7d0; }
+.cat-place   { color: #d97706; background: #fffbeb; border-color: #fde68a; }
+.cat-culture { color: #8b5cf6; background: #faf5ff; border-color: #e9d5ff; }
+.cat-other   { color: #475569; background: #f1f5f9; border-color: #e2e8f0; }
+
+/* filter bar */
+.filter-bar {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; flex-wrap: wrap; gap: 6px;
+  margin: 0 0 24px;
+  padding: 14px 0 12px;
+  background: #f8fafc;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.filter-btn {
+  padding: 6px 12px;
+  border: 1px solid rgba(0,0,0,0.12);
+  background: #fff;
+  border-radius: 999px;
+  font: inherit; font-size: 12px; font-weight: 700;
+  color: #475569; cursor: pointer;
+  transition: background 120ms, color 120ms, border-color 120ms;
+}
+.filter-btn:hover { border-color: #94a3b8; color: #0f172a; }
+.filter-btn.active { background: #0f172a; color: #fff; border-color: #0f172a; }
+.filter-count { opacity: 0.55; margin-left: 4px; }
+.news-time { color: #94a3b8; font-weight: 600; }
+.news-title { font-size: 16px; font-weight: 800; color: #0f172a; line-height: 1.3; margin: 0 0 8px; }
+.news-card:hover .news-title { color: #2563eb; }
+.news-summary { font-size: 13px; color: #475569; line-height: 1.55; margin: 0 0 12px; flex: 1; }
+.news-cta { font-size: 12px; font-weight: 800; color: #0f172a; margin-top: auto; display: flex; align-items: center; gap: 4px; }
+.news-card:hover .news-cta { color: #2563eb; }
+
+/* ── Empty state ── */
+.empty {
+  background: #fff; border: 1px dashed #cbd5e1; border-radius: 14px;
+  padding: 32px; text-align: center; color: #94a3b8; font-size: 13px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 900px) { .news-grid { grid-template-columns: 1fr; } }
+@media (max-width: 600px) {
+  .hero { padding: 40px 18px 0; }
+  .stat { padding: 14px 16px; }
+  .section { padding: 40px 0; }
+  .subscribe-card { padding: 16px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Persona nav (matches lavillerose.com) -->
+<nav id="persona-nav">
+  <a href="https://lavillerose.com/" class="pnav-brand" style="text-decoration:none;">La Ville Rose</a>
+  <a href="https://lavillerose.com/etudiants"    class="pnav-tab">🎓 Étudiants</a>
+  <a href="https://lavillerose.com/parents"      class="pnav-tab">👨‍👩‍👧 Parents</a>
+  <a href="https://lavillerose.com/societe_v2"   class="pnav-tab">🏢 Entreprises</a>
+  <a href="https://lavillerose.com/investisseur" class="pnav-tab">📈 Investisseurs</a>
+  <a href="https://lavillerose.com/seniors"      class="pnav-tab">🧓 Séniors</a>
+  <a href="/"                                    class="pnav-tab active">📰 News</a>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">📰 mercredi 13 mai 2026</div>
+    <h1 class="hero-title">L'actu de <span class="pink">Toulouse</span>,<br>résumée chaque <span class="green">matin</span></h1>
+    <p class="hero-sub">
+      Agrégateur quotidien de l'actualité toulousaine. Sources locales, dédupliquées, livrées dans votre boîte mail à 7h.
+    </p>
+    <div class="hero-ctas">
+      <a href="#abonnement" class="btn-primary">S'abonner par email →</a>
+      <a href="/feed.xml" class="btn-ghost">📡 Flux RSS</a>
+    </div>
+  </div>
+  <div class="stats-strip">
+    <div class="stat"><span class="stat-val">15</span><span class="stat-lbl">stories aujourd'hui</span></div>
+    <div class="stat"><span class="stat-val">3</span><span class="stat-lbl">sources</span></div>
+    <div class="stat"><span class="stat-val">24h</span><span class="stat-lbl">de couverture</span></div>
+    <div class="stat"><span class="stat-val">7h</span><span class="stat-lbl">livré chaque matin</span></div>
+  </div>
+</section>
+
+<!-- Subscribe -->
+<div class="subscribe-section" id="abonnement">
+<div class="page">
+  <section class="section" style="border-top: none;">
+    <div class="sec-label">Abonnement</div>
+    <h2 class="sec-title">Recevez le digest par email</h2>
+    <p class="sec-sub">Un email tous les matins à 7h avec l'actualité du jour à Toulouse, en français.</p>
+    <form class="subscribe-card" id="subscribe-form" action="#" method="post" novalidate>
+      <input type="email" name="email" placeholder="vous@exemple.com" required>
+      <button type="submit">S'abonner →</button>
+      <p class="note" id="subscribe-note">Désinscription en un clic depuis chaque email · pas de spam, jamais.</p>
+    </form>
+  </section>
+</div>
+</div>
+
+<!-- News content -->
+<div class="page">
+  
+    <div class="filter-bar" role="tablist" aria-label="Filtrer par catégorie">
+      <button class="filter-btn active" data-filter="all" role="tab" aria-selected="true">Tout<span class="filter-count">15</span></button>
+      
+      <button class="filter-btn" data-filter="news" role="tab" aria-selected="false">Actualité<span class="filter-count">8</span></button>
+      
+      <button class="filter-btn" data-filter="event" role="tab" aria-selected="false">Agenda<span class="filter-count">6</span></button>
+      
+      <button class="filter-btn" data-filter="culture" role="tab" aria-selected="false">Culture<span class="filter-count">1</span></button>
+      
+    </div>
+    
+    <section class="section cat-section" data-category="news">
+      <div class="sec-label">Actualité</div>
+      <h2 class="sec-title">Les infos du jour</h2>
+      <div class="news-grid">
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/top-14-le-record-deja-en-poche-toulouse-peut-il-atteindre-la-barre-mythique-des-1000-points_64258891.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">13 mai, 06:02</span>
+          </div>
+          <h3 class="news-title">Le Stade Toulousain vise les 1000 points sur une saison régulière</h3>
+          <p class="news-summary">Après leur victoire écrasante à Toulon (27-51) samedi dernier, les joueurs du Stade Toulousain ont battu leur propre record d&#39;essais inscrits sur une saison de Top 14, avec désormais 123 essais marqués, dépassant les 118 de la saison précédente. Les Rouge et Noir tournent à une moyenne de 5 essais par match depuis le début de saison et occupent la tête du championnat. Un nouveau cap symbolique se profile : atteindre les 1000 points toutes compétitions confondues sur une saison régulière, un…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/la-frequentation-du-telepherique-de-toulouse-est-largement-en-dessous-des-objectifs-tisseo-etudie-son-extension_64257693.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">13 mai, 06:12</span>
+          </div>
+          <h3 class="news-title">Quatre ans après, Téléo peine à atteindre ses objectifs de fréquentation</h3>
+          <p class="news-summary">Le téléphérique Téléo fête ses quatre ans d&#39;existence, mais sa fréquentation reste nettement en dessous des ambitions initiales de Tisséo, qui visait 8 000 voyageurs par jour au lancement. En 2024, la moyenne s&#39;établissait à 5 653 trajets quotidiens, en recul par rapport à 2023. Pour 2025, les chiffres paraissent stables en volume de validations, mais cette apparente stabilité masque une nouvelle baisse : Téléo a été moins souvent à l&#39;arrêt cette année qu&#39;en 2024, ce qui signifie que la…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-il-va-changer-le-visage-de-ce-coeur-de-quartier-quel-est-ce-projet-immobilier-qui-inquiete-les-habitants_64255618.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">13 mai, 07:12</span>
+          </div>
+          <h3 class="news-title">Quartier des Demoiselles : un projet immobilier inquiète les habitants</h3>
+          <p class="news-summary">Depuis le 16 janvier 2025, le bureau de Poste de l&#39;avenue Antoine de Saint-Exupéry, au cœur du quartier des Demoiselles, est fermé en raison d&#39;un risque structurel du bâtiment, propriété de la mairie de Toulouse. L&#39;affichage d&#39;un permis de construire devant les locaux vacants a suscité l&#39;inquiétude des riverains, qui s&#39;interrogent sur l&#39;avenir du service postal et sur la nature du projet prévu. Le promoteur immobilier Fonta, chargé du projet, a répondu aux questions d&#39;Actu Toulouse, apportant…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://tracking.actu.fr/tracking/click?d=KKpHJh0Eh4iGq7s98wSkePhp-aGWQr2yOauh4kGJMQPOEOYEHgdeNuuFRhmpUtVENJ9AZ8ogwIn7rvApMXPOt0RlXiQ0SK_ACyEC7hmCvfNwW-i0u8pKfLKaxUHhqiDNZB-IyxIHenVNtokQnNsWAPQ-AePTcLI_4AeeNvRWhFfNlxC2qDYvzsGR4QtjTEW1NZ8ospnI63f7mlnlr1nCjc6GkSvW1OgXdFViIzp52tXn2iOiPKPfdH9h05PjWn2LH_TcVtYNj5Iqn-03MaXnhgd3OEuhMezWyGs41aYhXmjuj0OGeCU7lVyqxvyijPdcnS9WOhejQ4sMx1cEH-xPmBGREk4pm-89zQHfUFtSJDwNcB-T8Tm0iGoOM4b6xQOuGMu09vnZ6ktnM3xDwZiHevoBQDLIDJSzvT2d6k_-l-sXzjfVsv5KEgUWD03SY4aEWfy-tvU9UYfBdaiT-0G9mmE1&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Newsletter</span>
+            <span class="news-time">13 mai, 18:01</span>
+          </div>
+          <h3 class="news-title">1 700 plaisanciers confinés à bord de leur bateau</h3>
+          <p class="news-summary">Selon la newsletter d&#39;Actu.fr, 1 700 plaisanciers se sont retrouvés confinés à bord de leur embarcation. Les détails de l&#39;incident — lieu précis, durée du confinement et raisons invoquées — ne sont pas développés dans l&#39;extrait disponible. L&#39;information est présentée comme un fait marquant de l&#39;actualité régionale du jour. Les personnes directement concernées sont les plaisanciers immobilisés, dont le nombre important souligne l&#39;ampleur de la situation.</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/haute-garonne-le-prefet-ne-veut-pas-de-free-parties-voici-ce-qu-il-a-prevu-pour-eviter-ces-fetes-non-declarees_64263123.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">13 mai, 17:20</span>
+          </div>
+          <h3 class="news-title">Le préfet de Haute-Garonne interdit les free parties jusqu&#39;au 31 mai</h3>
+          <p class="news-summary">Le préfet Pierre-André Durand a signé mercredi 13 mai un arrêté interdisant tout rassemblement festif à caractère musical non déclaré en Haute-Garonne, et ce jusqu&#39;au 31 mai à 23h59. La mesure vise les événements susceptibles de réunir plus de 500 personnes, et interdit également la circulation de véhicules transportant du matériel sono destiné à ce type de rassemblement, sur l&#39;ensemble du réseau routier départemental. L&#39;arrêté fait suite à une free party réunissant plus de 20 000 personnes sur…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-armee-d-un-couteau-une-famille-penetre-dans-un-college-et-agresse-deux-eleves-et-une-surveillante_64265497.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">13 mai, 18:08</span>
+          </div>
+          <h3 class="news-title">Une famille armée s&#39;introduit dans un collège toulousain et agresse trois personnes</h3>
+          <p class="news-summary">Ce mercredi matin, la famille d&#39;un élève de troisième a fait irruption au collège Clémence-Isaure à Toulouse, l&#39;une des personnes étant munie d&#39;un couteau. Selon Actu Toulouse, la sœur de l&#39;élève a frappé deux camarades de classe du garçon, tandis qu&#39;une surveillante a également été prise à partie. Le rectorat a confirmé l&#39;intrusion dans un communiqué, précisant que les forces de l&#39;ordre sont intervenues rapidement. La famille — comprenant la mère, la sœur et un frère du collégien — a été…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/je-lui-ai-mis-une-culotte-ce-temoignage-relance-l-affaire-de-la-mort-de-moulay-retrouve-dans-le-canal-a-toulouse_64261043.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">13 mai, 18:59</span>
+          </div>
+          <h3 class="news-title">Mort de Moulay dans le canal du Midi : un nouveau témoignage relance l&#39;enquête</h3>
+          <p class="news-summary">Moulay Bouhadi, Toulousain de 39 ans, a été retrouvé mort dans le canal du Midi le 19 septembre 2025, vêtu d&#39;une culotte en dentelle et d&#39;un legging de femme. Sa famille refuse les hypothèses de suicide ou de noyade accidentelle privilégiées par les enquêteurs, convaincue qu&#39;il a été tué et que ces vêtements lui ont été imposés. Les proches ont mandaté le criminaliste Roger-Marc Moreau — connu pour son travail dans l&#39;affaire Omar Raddad — afin de pousser les enquêteurs à explorer la piste…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/pont-de-l-ascension-a-toulouse-administration-commerces-equipements-sportifs-ce-qui-ouvre-et-ce-qui-reste-ferme_64263779.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">13 mai, 19:32</span>
+          </div>
+          <h3 class="news-title">Pont de l&#39;Ascension à Toulouse : ce qui ouvre et ferme</h3>
+          <p class="news-summary">Le week-end de l&#39;Ascension (jeudi 29 mai et vendredi 30 mai) entraîne la fermeture de la quasi-totalité des services administratifs de la mairie et de la métropole de Toulouse. Seul l&#39;état civil maintient une permanence réduite le jeudi, uniquement pour les déclarations de décès, au 2 rue de l&#39;abbé Jules Lemire. Les services de l&#39;État — préfecture, sous-préfectures, directions départementales et régionales — n&#39;assurent pas non plus l&#39;accueil du public jeudi et vendredi. Certains commerces…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+      </div>
+    </section>
+    
+    <section class="section cat-section" data-category="event">
+      <div class="sec-label">Agenda</div>
+      <h2 class="sec-title">Ça se passe à Toulouse</h2>
+      <div class="news-grid">
+        
+        <a class="news-card" href="https://www.toulouscope.fr/2026/05/13/a-narbonne-ce-salon-du-livre-propose-dedicaces-rencontres-et-ateliers-autour-des-romans-bd-et-jeunesse-13354652.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Toulouscope</span>
+            <span class="news-time">13 mai, 02:00</span>
+          </div>
+          <h3 class="news-title">Salon du livre du Grand Narbonne : 90 auteurs, ateliers et dédicaces gratuites</h3>
+          <p class="news-summary">Le Salon du livre du Grand Narbonne tient sa 12ᵉ édition les 30 et 31 mai sur le cours Mirabeau, avec l&#39;entrée et la plupart des animations proposées gratuitement. Plus de 90 auteurs et autrices seront présents pour des dédicaces et des rencontres autour des romans, de la BD et de la littérature jeunesse. Le thème de cette édition tourne autour du dialogue entre actualité et mémoire, avec des axes comme l&#39;héritage, l&#39;exil et l&#39;engagement. Julien Sandrel, parrain du salon et auteur du…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-concerts-et-soirees-club-ce-rooftop-de-700-places-lance-sa-saison-d-ete_64230744.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Actu Toulouse</span>
+            <span class="news-time">13 mai, 06:42</span>
+          </div>
+          <h3 class="news-title">Le rooftop d&#39;Interference à Balma lance sa saison estivale</h3>
+          <p class="news-summary">La salle de spectacle Interference, située à Balma, ouvre pour la deuxième saison consécutive son rooftop d&#39;une capacité de 700 personnes. Au programme cet été : soirées électro, concerts gratuits et mise en avant de la scène toulousaine locale. L&#39;espace a été entièrement repensé avec plus d&#39;ombre, du nouveau mobilier et un système son amélioré, selon le programmateur Florian Saint-Macary. La salle principale (2 500 places) accueillera également des concerts, dont Julian Marley et Vanupié le 17…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-est-en-fete-pour-ce-week-end-de-l-ascension-250-commercants-participent-a-l-evenement-ce-qu-il-faut-savoir_64234118.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Actu Toulouse</span>
+            <span class="news-time">13 mai, 12:16</span>
+          </div>
+          <h3 class="news-title">« Commerces en fête » : 250 commerçants animés ce week-end de l&#39;Ascension</h3>
+          <p class="news-summary">La troisième édition de « Commerces en fête », organisée par la CCI de Toulouse en partenariat avec la Mairie et Toulouse Métropole, se déroule du jeudi 14 au samedi 16 mai 2026 dans le centre-ville. Quelque 250 commerçants participent cette année — dont Les Galeries Lafayette, Bonobo ou Chez Zel —, un chiffre en hausse à chaque édition selon la CCI. Rue Alsace-Lorraine, deux scènes accueilleront l&#39;Orchestre de chambre de Toulouse et le batteur de Cats on Trees, avec cinq passages quotidiens…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/une-sculpture-passee-entre-les-mains-d-andre-malraux-est-mise-aux-encheres-a-toulouse-pour-plusieurs-milliers-d-euros_64232950.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Actu Toulouse</span>
+            <span class="news-time">13 mai, 13:52</span>
+          </div>
+          <h3 class="news-title">Une sculpture passée par Malraux mise aux enchères à Toulouse</h3>
+          <p class="news-summary">La maison de ventes toulousaine Primardeco organise une vente aux enchères le mercredi 13 mai 2026 à 14h, proposant 165 lots issus de collections privées. Parmi les pièces phares figure une petite sculpture féminine en pierre volcanique du Massif central, attribuée à Antoine Rabany dit « Le Zouave », un paysan-soldat auvergnat du XIXe siècle. L&#39;œuvre, conservée dans une collection privée depuis les années 1950, aurait été examinée par André Malraux puis par le musée Barbier-Mueller à Genève…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/vide-greniers-brocantes-decouvrez-les-lieux-ou-chiner-a-toulouse-pour-ce-long-week-end-de-l-ascension_64260591.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Actu Toulouse</span>
+            <span class="news-time">13 mai, 19:41</span>
+          </div>
+          <h3 class="news-title">Vide-greniers et brocantes à Toulouse pour le week-end de l&#39;Ascension</h3>
+          <p class="news-summary">Le long week-end de l&#39;Ascension (14-17 mai) est l&#39;occasion de chiner à Toulouse et dans ses environs, avec de nombreux vide-greniers et brocantes au programme. Dès le jeudi 14 mai, des événements sont prévus au Fauga, à Launac et à Grisolles. Le samedi, la brocante de l&#39;église Saint-Aubin et un forum des antiquaires avenue des États-Unis ouvrent leurs portes. Le dimanche 17 mai est particulièrement chargé, avec des vide-greniers à Sesquières, Labège, Fenouillet (plus de 200 exposants) et…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="http://cdt31.tourinsoft.com/view.ashx?email=b80f7177-9ffd-4310-a112-e658177365a1&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Newsletter</span>
+            <span class="news-time">13 mai, 12:51</span>
+          </div>
+          <h3 class="news-title">Long week-end de l&#39;Ascension : sorties et événements à Toulouse</h3>
+          <p class="news-summary">Le long week-end de l&#39;Ascension (13-17 mai) s&#39;annonce chargé à Toulouse et ses alentours, avec une palette variée d&#39;événements pour tous les goûts. Bigflo et Oli retrouvent leur public toulousain les 14 et 15 mai au Zénith pour leur Karma Tour, avec des premières parties assurées par Beesau et Danyl, à partir de 45 euros. Le festival Echos et Merveilles revient pour sa 8e édition au site du Buscala à Bruguières (13-17 mai), proposant concerts, marché artisanal et animations familiales dans un…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+      </div>
+    </section>
+    
+    <section class="section cat-section" data-category="culture">
+      <div class="sec-label">Culture</div>
+      <h2 class="sec-title">Sorties culturelles</h2>
+      <div class="news-grid">
+        
+        <a class="news-card" href="https://www.toulouscope.fr/2026/05/13/a-toulouse-cet-illustrateur-reinvente-le-livre-de-cuisine-avec-quanto-basta-13358410.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-culture">Toulouscope</span>
+            <span class="news-time">13 mai, 02:00</span>
+          </div>
+          <h3 class="news-title">Un illustrateur toulousain réinvente le livre de cuisine avec Quanto Basta</h3>
+          <p class="news-summary">Rémy Bellariva, illustrateur et graphiste basé à Toulouse, publie depuis début 2025 un livret bimestriel de recettes intitulé Quanto Basta — expression italienne signifiant « juste ce qu&#39;il faut ». Chaque numéro propose trois recettes illustrées et un poster à déplier, imprimés en risographie. Inspiré par une expérience en restauration à Rome, Bellariva revendique une approche délibérément souple : pas d&#39;ingrédients obligatoires ni de mesures strictes, mais une cuisine du quotidien, adaptable…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+      </div>
+    </section>
+    
+  
+</div>
+
+<!-- Archive navigation -->
+
+<div class="page" style="padding: 24px 24px 0;">
+  
+  <a href="/" class="filter-btn" style="text-decoration:none;display:inline-block;margin-bottom:12px;">← Édition d'aujourd'hui</a>
+  
+  
+  <div style="margin-top:8px;">
+    <div class="sec-label" style="margin-bottom:8px;">Éditions précédentes</div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;">
+      
+      <a href="/archive/2026-05-14.html" class="filter-btn" style="text-decoration:none;">jeudi 14 mai 2026</a>
+      
+      <a href="/archive/2026-05-13.html" class="filter-btn" style="text-decoration:none;">mercredi 13 mai 2026</a>
+      
+      <a href="/archive/2026-05-12.html" class="filter-btn" style="text-decoration:none;">mardi 12 mai 2026</a>
+      
+      <a href="/archive/2026-05-11.html" class="filter-btn" style="text-decoration:none;">lundi 11 mai 2026</a>
+      
+      <a href="/archive/2026-05-10.html" class="filter-btn" style="text-decoration:none;">dimanche 10 mai 2026</a>
+      
+      <a href="/archive/2026-05-09.html" class="filter-btn" style="text-decoration:none;">samedi 9 mai 2026</a>
+      
+      <a href="/archive/2026-05-08.html" class="filter-btn" style="text-decoration:none;">vendredi 8 mai 2026</a>
+      
+      <a href="/archive/2026-05-07.html" class="filter-btn" style="text-decoration:none;">jeudi 7 mai 2026</a>
+      
+      <a href="/archive/2026-05-06.html" class="filter-btn" style="text-decoration:none;">mercredi 6 mai 2026</a>
+      
+      <a href="/archive/2026-05-05.html" class="filter-btn" style="text-decoration:none;">mardi 5 mai 2026</a>
+      
+      <a href="/archive/2026-05-04.html" class="filter-btn" style="text-decoration:none;">lundi 4 mai 2026</a>
+      
+    </div>
+  </div>
+  
+</div>
+
+
+<!-- Footer -->
+<footer>
+  <strong>La Ville Rose · News</strong> — Agrégateur d'actualités toulousaines<br>
+  <span style="margin-top:3px;display:inline-block;">
+    <a href="/feed.xml">RSS</a> ·
+    <a href="https://lavillerose.com/">Cartes &amp; données</a>
+  </span><br>
+  <span style="margin-top:4px;display:inline-block;font-size:10px;">
+    Sources : Actu Toulouse, La Dépêche, Le Bonbon, Clutch, Toulouse Secret, Toulouscope, OpenAgenda, L'Essentiel
+  </span><br>
+  <span style="margin-top:4px;display:inline-block;font-size:11px;">
+    Fait par <a href="https://ralph-ward.com" target="_blank" rel="noopener" style="color:rgba(255,255,255,0.7);font-weight:600;">Ralph Ward</a>
+  </span>
+</footer>
+
+<script>
+(function () {
+  const SUBSCRIBE_URL = "https://toulouse-news-subscribe.chaosskill.workers.dev/subscribe";
+  const form = document.getElementById('subscribe-form');
+  if (!form) return;
+  const input = form.querySelector('input[type=email]');
+  const button = form.querySelector('button');
+  const note = document.getElementById('subscribe-note');
+
+  function setNote(text, color) {
+    note.textContent = text;
+    note.style.color = color;
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = (input.value || '').trim();
+    if (!email) { setNote("Email requis.", '#b91c1c'); return; }
+
+    if (!SUBSCRIBE_URL) {
+      setNote("Le formulaire sera connecté après déploiement du Worker.", '#b91c1c');
+      return;
+    }
+
+    button.disabled = true;
+    const originalText = button.textContent;
+    button.textContent = 'Envoi…';
+
+    try {
+      const r = await fetch(SUBSCRIBE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      const data = await r.json().catch(() => ({}));
+      if (data.ok) {
+        form.innerHTML = '<p style="margin:0;color:#166534;font-weight:700;">Abonnement confirmé. À demain matin !</p>';
+      } else {
+        button.disabled = false;
+        button.textContent = originalText;
+        setNote("Erreur : " + (data.error || 'inconnue') + ". Réessayez.", '#b91c1c');
+      }
+    } catch (err) {
+      button.disabled = false;
+      button.textContent = originalText;
+      setNote("Erreur de réseau, réessayez plus tard.", '#b91c1c');
+    }
+  });
+})();
+
+(function () {
+  const buttons = document.querySelectorAll('.filter-btn');
+  const sections = document.querySelectorAll('.cat-section');
+  if (!buttons.length || !sections.length) return;
+
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filter = btn.dataset.filter;
+      buttons.forEach(b => {
+        const active = b === btn;
+        b.classList.toggle('active', active);
+        b.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
+      sections.forEach(s => {
+        const show = filter === 'all' || s.dataset.category === filter;
+        s.style.display = show ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>

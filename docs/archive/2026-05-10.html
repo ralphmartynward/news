@@ -1,0 +1,601 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Toulouse News — La Ville Rose</title>
+<meta name="description" content="L'actualité de Toulouse, agrégée chaque jour à 7h. Sources locales, dédupliquées, résumées."/>
+<meta property="og:title" content="Toulouse News — La Ville Rose"/>
+<meta property="og:description" content="L'actualité de Toulouse, agrégée chaque jour à 7h."/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://news.lavillerose.com/"/>
+<link rel="canonical" href="https://news.lavillerose.com/"/>
+<link rel="alternate" type="application/atom+xml" title="Toulouse News" href="/feed.xml"/>
+<link rel="icon" type="image/x-icon" href="https://lavillerose.com/assets/favicon/favicon.ico"/>
+<link href="shared.css" rel="stylesheet"/>
+<style>
+/* === news.lavillerose.com — keeps shared nav + footer language === */
+
+html, body { height: auto; min-height: 100vh; display: block; background: #f8fafc; }
+
+/* ── Hero ── */
+.hero {
+  background: #0f172a;
+  color: #fff;
+  padding: 56px 24px 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+  background-size: 48px 48px;
+  pointer-events: none;
+}
+.hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 15% 60%, rgba(74,222,128,0.07) 0%, transparent 55%),
+    radial-gradient(ellipse at 85% 10%, rgba(244,114,182,0.08) 0%, transparent 50%);
+  pointer-events: none;
+}
+.hero-inner { position: relative; z-index: 2; max-width: 760px; margin: 0 auto; }
+
+.hero-eyebrow {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 999px;
+  padding: 5px 14px;
+  font-size: 11px; font-weight: 800; letter-spacing: 0.7px;
+  text-transform: uppercase; color: rgba(255,255,255,0.6);
+  margin-bottom: 22px;
+}
+.hero-title {
+  font-size: clamp(28px, 5vw, 48px);
+  font-weight: 950; line-height: 1.05; letter-spacing: -0.5px;
+  color: #fff; margin: 0 0 14px;
+}
+.hero-title .green { color: #4ade80; }
+.hero-title .pink  { color: #f472b6; }
+.hero-sub {
+  font-size: 15px; color: rgba(255,255,255,0.6); line-height: 1.55;
+  max-width: 520px; margin: 0 auto 32px;
+}
+.hero-ctas { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 44px; }
+.btn-primary {
+  background: #4ade80; color: #0f172a;
+  border: none; border-radius: 12px;
+  padding: 12px 22px; font-weight: 800; font-size: 13px;
+  cursor: pointer; text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px;
+  transition: transform 140ms, box-shadow 140ms;
+  box-shadow: 0 4px 18px rgba(74,222,128,0.28);
+}
+.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 7px 22px rgba(74,222,128,0.4); }
+.btn-ghost {
+  background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.85);
+  border: 1px solid rgba(255,255,255,0.18); border-radius: 12px;
+  padding: 12px 20px; font-weight: 700; font-size: 13px;
+  cursor: pointer; text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px;
+  transition: background 140ms;
+}
+.btn-ghost:hover { background: rgba(255,255,255,0.15); }
+
+/* ── Stats strip ── */
+.stats-strip {
+  position: relative; z-index: 2;
+  display: flex; justify-content: center; gap: 0;
+  border-top: 1px solid rgba(255,255,255,0.07);
+  flex-wrap: wrap;
+}
+.stat {
+  padding: 16px 32px; text-align: center;
+  border-right: 1px solid rgba(255,255,255,0.07);
+  flex: 0 0 auto;
+}
+.stat:last-child { border-right: none; }
+.stat-val { display: block; font-size: 21px; font-weight: 900; color: #4ade80; line-height: 1; margin-bottom: 3px; }
+.stat-lbl { font-size: 10px; font-weight: 700; color: rgba(255,255,255,0.35); text-transform: uppercase; letter-spacing: 0.5px; }
+
+/* ── Page wrapper + sections ── */
+.page { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+.section { padding: 56px 0; }
+.section + .section { border-top: 1px solid rgba(0,0,0,0.06); }
+.sec-label {
+  font-size: 10px; font-weight: 800; color: #94a3b8;
+  text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 6px;
+}
+.sec-title {
+  font-size: clamp(20px, 2.6vw, 28px); font-weight: 950;
+  color: #0f172a; margin: 0 0 8px; letter-spacing: -0.2px;
+}
+.sec-sub {
+  font-size: 13px; color: #64748b; line-height: 1.55;
+  max-width: 520px; margin: 0 0 28px;
+}
+
+/* ── Subscribe card ── */
+.subscribe-section { background: #f1f5f9; border-top: 1px solid rgba(0,0,0,0.06); border-bottom: 1px solid rgba(0,0,0,0.06); }
+.subscribe-card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.08); border-radius: 14px;
+  padding: 22px; box-shadow: 0 1px 6px rgba(0,0,0,.05);
+  display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+}
+.subscribe-card input[type=email] {
+  flex: 1 1 240px; padding: 11px 14px;
+  border: 1px solid #e2e8f0; border-radius: 10px;
+  font: inherit; font-size: 14px; outline: none;
+  transition: border-color 120ms;
+}
+.subscribe-card input[type=email]:focus { border-color: #4ade80; }
+.subscribe-card button {
+  background: #0f172a; color: #fff;
+  border: none; border-radius: 10px;
+  padding: 11px 22px; font-weight: 800; font-size: 13px;
+  cursor: pointer; transition: background 140ms;
+}
+.subscribe-card button:hover { background: #1e293b; }
+.subscribe-card .note { font-size: 11px; color: #94a3b8; margin: 0; flex-basis: 100%; }
+
+/* ── News grid + cards ── */
+.news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+.news-card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.08); border-radius: 14px;
+  padding: 18px;
+  box-shadow: 0 1px 6px rgba(0,0,0,.05);
+  text-decoration: none; color: inherit;
+  display: flex; flex-direction: column;
+  transition: transform 150ms, box-shadow 150ms, border-color 150ms;
+}
+.news-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.09);
+  border-color: rgba(0,0,0,0.14);
+}
+.news-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; font-size: 10px; }
+.news-source {
+  font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
+  border: 1px solid;
+  border-radius: 999px; padding: 2px 8px;
+}
+/* category-coded pills */
+.cat-news    { color: #2563eb; background: #eff6ff; border-color: #dbeafe; }
+.cat-event   { color: #16a34a; background: #f0fdf4; border-color: #bbf7d0; }
+.cat-place   { color: #d97706; background: #fffbeb; border-color: #fde68a; }
+.cat-culture { color: #8b5cf6; background: #faf5ff; border-color: #e9d5ff; }
+.cat-other   { color: #475569; background: #f1f5f9; border-color: #e2e8f0; }
+
+/* filter bar */
+.filter-bar {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; flex-wrap: wrap; gap: 6px;
+  margin: 0 0 24px;
+  padding: 14px 0 12px;
+  background: #f8fafc;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.filter-btn {
+  padding: 6px 12px;
+  border: 1px solid rgba(0,0,0,0.12);
+  background: #fff;
+  border-radius: 999px;
+  font: inherit; font-size: 12px; font-weight: 700;
+  color: #475569; cursor: pointer;
+  transition: background 120ms, color 120ms, border-color 120ms;
+}
+.filter-btn:hover { border-color: #94a3b8; color: #0f172a; }
+.filter-btn.active { background: #0f172a; color: #fff; border-color: #0f172a; }
+.filter-count { opacity: 0.55; margin-left: 4px; }
+.news-time { color: #94a3b8; font-weight: 600; }
+.news-title { font-size: 16px; font-weight: 800; color: #0f172a; line-height: 1.3; margin: 0 0 8px; }
+.news-card:hover .news-title { color: #2563eb; }
+.news-summary { font-size: 13px; color: #475569; line-height: 1.55; margin: 0 0 12px; flex: 1; }
+.news-cta { font-size: 12px; font-weight: 800; color: #0f172a; margin-top: auto; display: flex; align-items: center; gap: 4px; }
+.news-card:hover .news-cta { color: #2563eb; }
+
+/* ── Empty state ── */
+.empty {
+  background: #fff; border: 1px dashed #cbd5e1; border-radius: 14px;
+  padding: 32px; text-align: center; color: #94a3b8; font-size: 13px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 900px) { .news-grid { grid-template-columns: 1fr; } }
+@media (max-width: 600px) {
+  .hero { padding: 40px 18px 0; }
+  .stat { padding: 14px 16px; }
+  .section { padding: 40px 0; }
+  .subscribe-card { padding: 16px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Persona nav (matches lavillerose.com) -->
+<nav id="persona-nav">
+  <a href="https://lavillerose.com/" class="pnav-brand" style="text-decoration:none;">La Ville Rose</a>
+  <a href="https://lavillerose.com/etudiants"    class="pnav-tab">🎓 Étudiants</a>
+  <a href="https://lavillerose.com/parents"      class="pnav-tab">👨‍👩‍👧 Parents</a>
+  <a href="https://lavillerose.com/societe_v2"   class="pnav-tab">🏢 Entreprises</a>
+  <a href="https://lavillerose.com/investisseur" class="pnav-tab">📈 Investisseurs</a>
+  <a href="https://lavillerose.com/seniors"      class="pnav-tab">🧓 Séniors</a>
+  <a href="/"                                    class="pnav-tab active">📰 News</a>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">📰 dimanche 10 mai 2026</div>
+    <h1 class="hero-title">L'actu de <span class="pink">Toulouse</span>,<br>résumée chaque <span class="green">matin</span></h1>
+    <p class="hero-sub">
+      Agrégateur quotidien de l'actualité toulousaine. Sources locales, dédupliquées, livrées dans votre boîte mail à 7h.
+    </p>
+    <div class="hero-ctas">
+      <a href="#abonnement" class="btn-primary">S'abonner par email →</a>
+      <a href="/feed.xml" class="btn-ghost">📡 Flux RSS</a>
+    </div>
+  </div>
+  <div class="stats-strip">
+    <div class="stat"><span class="stat-val">15</span><span class="stat-lbl">stories aujourd'hui</span></div>
+    <div class="stat"><span class="stat-val">4</span><span class="stat-lbl">sources</span></div>
+    <div class="stat"><span class="stat-val">24h</span><span class="stat-lbl">de couverture</span></div>
+    <div class="stat"><span class="stat-val">7h</span><span class="stat-lbl">livré chaque matin</span></div>
+  </div>
+</section>
+
+<!-- Subscribe -->
+<div class="subscribe-section" id="abonnement">
+<div class="page">
+  <section class="section" style="border-top: none;">
+    <div class="sec-label">Abonnement</div>
+    <h2 class="sec-title">Recevez le digest par email</h2>
+    <p class="sec-sub">Un email tous les matins à 7h avec l'actualité du jour à Toulouse, en français.</p>
+    <form class="subscribe-card" id="subscribe-form" action="#" method="post" novalidate>
+      <input type="email" name="email" placeholder="vous@exemple.com" required>
+      <button type="submit">S'abonner →</button>
+      <p class="note" id="subscribe-note">Désinscription en un clic depuis chaque email · pas de spam, jamais.</p>
+    </form>
+  </section>
+</div>
+</div>
+
+<!-- News content -->
+<div class="page">
+  
+    <div class="filter-bar" role="tablist" aria-label="Filtrer par catégorie">
+      <button class="filter-btn active" data-filter="all" role="tab" aria-selected="true">Tout<span class="filter-count">15</span></button>
+      
+      <button class="filter-btn" data-filter="news" role="tab" aria-selected="false">Actualité<span class="filter-count">10</span></button>
+      
+      <button class="filter-btn" data-filter="event" role="tab" aria-selected="false">Agenda<span class="filter-count">3</span></button>
+      
+      <button class="filter-btn" data-filter="place" role="tab" aria-selected="false">À découvrir<span class="filter-count">1</span></button>
+      
+      <button class="filter-btn" data-filter="culture" role="tab" aria-selected="false">Culture<span class="filter-count">1</span></button>
+      
+    </div>
+    
+    <section class="section cat-section" data-category="news">
+      <div class="sec-label">Actualité</div>
+      <h2 class="sec-title">Les infos du jour</h2>
+      <div class="news-grid">
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/un-risque-de-tornade-n-est-pas-exclu-meteo-france-place-7-departements-d-occitanie-en-vigilance-orange_64248216.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">10 mai, 10:34</span>
+          </div>
+          <h3 class="news-title">Vigilance orange orages en Haute-Garonne et six autres départements d&#39;Occitanie</h3>
+          <p class="news-summary">Météo France a placé sept départements d&#39;Occitanie en vigilance orange aux orages ce dimanche 10 mai 2026, dont la Haute-Garonne, l&#39;Ariège, l&#39;Aveyron, le Gers, les Hautes-Pyrénées, le Tarn et le Tarn-et-Garonne. La fenêtre de risque maximale est fixée entre 15h et 21h, avec des orages attendus en deux salves, la première étant la plus virulente. Les phénomènes redoutés incluent une forte activité électrique, des rafales pouvant atteindre 100 km/h localement, de fortes pluies et de la grêle de…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/sport-clap-de-fin-du-toulouse-basket-club-et-chute-du-fenix-les-resultats-sportifs-de-la-semaine-a-toulouse_64247716.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">10 mai, 14:38</span>
+          </div>
+          <h3 class="news-title">Résultats sportifs : triomphe du Stade, fin de saison pour le Basket Club</h3>
+          <p class="news-summary">Le tour d&#39;horizon sportif de la semaine à Toulouse réserve des fortunes diverses. Le Stade Toulousain a brillé à Toulon avec une large victoire bonifiée (27-51) en Top 14, même si le match fut longtemps serré. Colomiers Rugby a arraché l&#39;essentiel en Pro D2 face à Mont-de-Marsan (19-13) malgré une prestation jugée laborieuse, lors d&#39;une soirée chargée en émotion à Michel-Bendichou. Le Fenix Toulouse Handball aurait quant à lui laissé échapper ses chances européennes, tandis que le Toulouse…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://tracking.actu.fr/view?msgid=Igdb845gNwHttzMv_kVoBQ2&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Newsletter</span>
+            <span class="news-time">10 mai, 21:05</span>
+          </div>
+          <h3 class="news-title">Contenu non exploitable : e-mail de confirmation d&#39;inscription</h3>
+          <p class="news-summary">L&#39;élément transmis est un e-mail automatique d&#39;actu.fr demandant à l&#39;utilisateur de confirmer son inscription à une newsletter locale. Il ne contient aucune information journalistique, actualité locale ni événement à résumer. Aucun contenu éditorial n&#39;est présent dans cet item. Ce cluster ne peut pas faire l&#39;objet d&#39;un résumé pour le digest.</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://nl.toulouscope.fr/optiext/optiextension.dll?ID=6pfjPObRjqShgd2ugCFiF2DOuIiJX7WWX8aSwhdEsEQRcP-4rV-b5SUkNjvPXl-GC0_4wVIZnxXedCLifzI&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Newsletter</span>
+            <span class="news-time">10 mai, 21:07</span>
+          </div>
+          <h3 class="news-title">Confirmation d&#39;inscription à la newsletter Toulouscope</h3>
+          <p class="news-summary">Cet élément est un e-mail automatique de confirmation d&#39;inscription à la newsletter de Toulouscope, sans contenu éditorial. Il ne contient aucune information locale ou actualité toulousaine. Il s&#39;agit d&#39;un message technique destiné à valider une adresse e-mail via un lien de confirmation. Aucun événement, lieu ou sujet d&#39;actualité n&#39;est abordé.</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://newsletter.lessentiel.fr/proc.php?nl=12&amp;c=7597&amp;m=7761&amp;s=71cc8fa2341883463caebe98806c8455&amp;act=unsub&amp;runid=69865022&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">L&#39;Essentiel</span>
+            <span class="news-time">10 mai, 21:08</span>
+          </div>
+          <h3 class="news-title">Confirmation d&#39;inscription à la newsletter L&#39;Essentiel Toulouse</h3>
+          <p class="news-summary">L&#39;unique élément de ce groupe est un e-mail automatique de confirmation d&#39;inscription à la newsletter L&#39;Essentiel Toulouse. Il ne contient aucune information éditoriale ni actualité locale exploitable. Le contenu visible se limite à du code CSS de mise en forme et à un message de bienvenue générique. Aucun événement, fait ou sujet d&#39;actualité toulousain n&#39;est mentionné.</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://redir.ownpage.fr/v1/optin/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiYjlmMDVlZjUiLCJyZWRpciI6Imh0dHBzOi8vbGVib25ib24uZnIvdG91bG91c2UvIiwidCI6IkttNHM4a2FrYno4ZTRackZUcDdhMVEiLCJmIjoiZmFsc2UiLCJlbSI6Im5ld3NsZXR0ZXJzQGxhdmlsbGVyb3NlLmNvbSJ9?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Newsletter</span>
+            <span class="news-time">10 mai, 21:12</span>
+          </div>
+          <h3 class="news-title">Confirmation d&#39;inscription à une newsletter toulousaine</h3>
+          <p class="news-summary">Le contenu disponible correspond à un e-mail automatique de confirmation d&#39;inscription à une newsletter, sans information éditoriale exploitable. Aucun événement, actualité ou lieu n&#39;est mentionné dans l&#39;extrait fourni. Il s&#39;agit uniquement d&#39;un message technique généré par une plateforme d&#39;envoi d&#39;e-mails. Aucun contenu journalistique ne peut être résumé à partir de cette source.</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/une-grenade-decouverte-pres-du-pont-des-catalans-a-toulouse-les-demineurs-interviennent_64249210.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">10 mai, 19:14</span>
+          </div>
+          <h3 class="news-title">Une grenade fumigène découverte près du pont des Catalans, les démineurs interviennent</h3>
+          <p class="news-summary">Dimanche 10 mai 2026 vers 12h42, les pompiers ont été appelés pour un colis suspect repéré à l&#39;accès du pont des Catalans à Toulouse. Les démineurs sont intervenus et ont identifié l&#39;engin comme une grenade fumigène, sans danger immédiat pour les personnes. Un périmètre de sécurité a été instauré par la police, et la circulation au niveau du pont a été temporairement interrompue. Au total, 10 sapeurs-pompiers et trois engins ont été mobilisés ; aucune victime n&#39;est à déplorer, selon le SDIS 31.</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="mailto:bounce-md_30010842.6a00d93d.v1-14c360892ddf4095936fd6b4d7606b7a@mandrillapp.com?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Newsletter</span>
+            <span class="news-time">10 mai, 21:15</span>
+          </div>
+          <h3 class="news-title">Confirmation d&#39;abonnement à la newsletter Toulouse Secret</h3>
+          <p class="news-summary">Ce message est un e-mail automatique de confirmation d&#39;abonnement à la newsletter Toulouse Secret, envoyé par la plateforme Mailchimp. Il ne contient aucune information éditoriale ni actualité locale. Le destinataire doit cliquer sur le lien fourni pour valider son inscription à la liste. Aucun contenu journalistique n&#39;est présent dans cet élément.</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/succession-de-bouchons-entre-narbonne-et-toulouse-avec-les-retours-du-long-week-end-vos-conditions-de-circulation_64248878.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">10 mai, 17:16</span>
+          </div>
+          <h3 class="news-title">Retours du long week-end : trafic difficile vers Toulouse</h3>
+          <p class="news-summary">Le retour du long week-end du 8 mai a provoqué d&#39;importants bouchons sur les axes autoroutiers menant à Toulouse. Dès dimanche 10 mai vers 17h, l&#39;A61 entre Narbonne et Toulouse était jalonnée de ralentissements successifs — notamment à Lézignan-Corbières, Carcassonne et Castelnaudary — représentant plusieurs dizaines de kilomètres cumulés. Sur l&#39;A64, des conditions météorologiques dégradées (grêle côté Saint-Gaudens, vigilance orange orages en Haute-Garonne) ont compliqué la circulation, avec…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/vents-a-86km-h-grele-et-fortes-pluies-un-gros-orage-a-balaye-toulouse-et-son-agglomeration-les-images_64249402.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">10 mai, 21:17</span>
+          </div>
+          <h3 class="news-title">Un orage violent avec grêle et arcus spectaculaire frappe Toulouse</h3>
+          <p class="news-summary">Dans la soirée du dimanche 10 mai 2026, un orage puissant a traversé l&#39;agglomération toulousaine en environ une heure, arrivant depuis le sud-ouest et repartant vers le nord-est. Des rafales de vent ont été enregistrées à la station Météo France de Toulouse-Blagnac, les deux sources divergeant légèrement sur la valeur maximale (86 km/h selon l&#39;un, 96 km/h selon l&#39;autre). De la grêle est tombée en quantité, particulièrement à l&#39;ouest de l&#39;agglomération (Fontenilles, Seysses) ainsi que dans…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+      </div>
+    </section>
+    
+    <section class="section cat-section" data-category="event">
+      <div class="sec-label">Agenda</div>
+      <h2 class="sec-title">Ça se passe à Toulouse</h2>
+      <div class="news-grid">
+        
+        <a class="news-card" href="https://www.toulouscope.fr/2026/05/10/a-1h-de-toulouse-ce-festival-mythique-fete-ses-30-ans-entre-tetes-daffiche-et-retour-aux-sources-13324635.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Toulouscope</span>
+            <span class="news-time">10 mai, 02:00</span>
+          </div>
+          <h3 class="news-title">Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</h3>
+          <p class="news-summary">Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&#39;une deux-centaine de personnes, l&#39;événement accueille aujourd&#39;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-voici-lhistoire-du-quartier-saint-aubin-ancien-faubourg-ouvrier_64229950.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Actu Toulouse</span>
+            <span class="news-time">10 mai, 15:00</span>
+          </div>
+          <h3 class="news-title">Saint-Aubin : histoire et balade urbaine dans cet ancien faubourg ouvrier</h3>
+          <p class="news-summary">Le quartier Saint-Aubin, à Toulouse, fait l&#39;objet d&#39;un article historique publié par Actu Toulouse, qui retrace son passé d&#39;ancien faubourg industrieux. Contrairement à l&#39;image de « belle endormie » souvent accolée à Toulouse, la ville s&#39;est distinguée dès le XIXe siècle dans la carrosserie hippomobile, au point d&#39;être la deuxième ville française du secteur après Paris, avec près de 200 carrossiers. Les ateliers se concentraient notamment dans les faubourgs Saint-Étienne et Saint-Aubin. À…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-fini-le-petit-dejeuner-classique-notre-selection-des-10-brunchs-pour-savourer-le-dimanche-matin-autrement_64206195.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-event">Toulouscope</span>
+            <span class="news-time">10 mai, 07:32</span>
+          </div>
+          <h3 class="news-title">Le brunch à Toulouse : sélection d&#39;adresses et festival du long week-end</h3>
+          <p class="news-summary">Le brunch s&#39;est solidement implanté à Toulouse, avec des files d&#39;attente chaque week-end et une offre en constante expansion dans la Ville rose. Actu Toulouse propose une sélection de dix adresses incontournables, dont Les Trois Sœurs quai de la Daurade et Sista Place près des allées Jean Jaurès, avec des formules allant de 16,90 € à 27,50 €. Par ailleurs, le restaurant Barricot - Mercure Toulouse Centre Compans organise la 3e édition de son Festival du Brunch du 14 au 17 mai 2026, profitant du…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+      </div>
+    </section>
+    
+    <section class="section cat-section" data-category="place">
+      <div class="sec-label">À découvrir</div>
+      <h2 class="sec-title">Lieux, ouvertures, bonnes adresses</h2>
+      <div class="news-grid">
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/je-voulais-vraiment-vendre-un-produit-unique-croissants-flans-tiramisus-le-boom-des-bars-a-concept-a-toulouse_64240322.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-place">Actu Toulouse</span>
+            <span class="news-time">10 mai, 13:16</span>
+          </div>
+          <h3 class="news-title">Le boom des bars à concept à Toulouse : focus sur Palais Mahina</h3>
+          <p class="news-summary">Depuis quelques années, les bars à concept — établissements dédiés à un seul produit — se multiplient à Toulouse avec succès. Parmi les derniers en date, Palais Mahina a ouvert le 30 mars 2026 Grande-Rue Saint-Michel, porté par deux anciens collègues de bureau, Sabrina (Ina) et Alkmar. L&#39;enseigne propose exclusivement des croissants sucrés ou salés à 8,90 €, garnis de produits frais et locaux, confectionnés à partir de pièces de la boulangerie Saint-Criq. Le nom de l&#39;établissement mêle…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+      </div>
+    </section>
+    
+    <section class="section cat-section" data-category="culture">
+      <div class="sec-label">Culture</div>
+      <h2 class="sec-title">Sorties culturelles</h2>
+      <div class="news-grid">
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/quel-est-cet-etonnant-clin-d-oeil-a-toulouse-dans-la-nouvelle-serie-malcolm-sur-disney_64192431.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-culture">Actu Toulouse</span>
+            <span class="news-time">10 mai, 10:32</span>
+          </div>
+          <h3 class="news-title">La nouvelle série Malcolm sur Disney+ cache un clin d&#39;œil à Toulouse</h3>
+          <p class="news-summary">La suite de la série culte « Malcolm », intitulée « Rien n&#39;a changé » et diffusée sur Disney+ depuis le 10 avril 2026, contient une référence discrète à Toulouse. Au 4e épisode, à 19:34, on aperçoit en arrière-plan les immeubles en brique rose de la rue Victor-Hugo, vus depuis le parking du marché couvert. C&#39;est le compte Facebook Malcolm France qui a identifié et confirmé le lieu en superposant une photo prise au même endroit. Les raisons de ce clin d&#39;œil restent floues : rien n&#39;est…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+      </div>
+    </section>
+    
+  
+</div>
+
+<!-- Archive navigation -->
+
+<div class="page" style="padding: 24px 24px 0;">
+  
+  <a href="/" class="filter-btn" style="text-decoration:none;display:inline-block;margin-bottom:12px;">← Édition d'aujourd'hui</a>
+  
+  
+  <div style="margin-top:8px;">
+    <div class="sec-label" style="margin-bottom:8px;">Éditions précédentes</div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;">
+      
+      <a href="/archive/2026-05-14.html" class="filter-btn" style="text-decoration:none;">jeudi 14 mai 2026</a>
+      
+      <a href="/archive/2026-05-13.html" class="filter-btn" style="text-decoration:none;">mercredi 13 mai 2026</a>
+      
+      <a href="/archive/2026-05-12.html" class="filter-btn" style="text-decoration:none;">mardi 12 mai 2026</a>
+      
+      <a href="/archive/2026-05-11.html" class="filter-btn" style="text-decoration:none;">lundi 11 mai 2026</a>
+      
+      <a href="/archive/2026-05-10.html" class="filter-btn" style="text-decoration:none;">dimanche 10 mai 2026</a>
+      
+      <a href="/archive/2026-05-09.html" class="filter-btn" style="text-decoration:none;">samedi 9 mai 2026</a>
+      
+      <a href="/archive/2026-05-08.html" class="filter-btn" style="text-decoration:none;">vendredi 8 mai 2026</a>
+      
+      <a href="/archive/2026-05-07.html" class="filter-btn" style="text-decoration:none;">jeudi 7 mai 2026</a>
+      
+      <a href="/archive/2026-05-06.html" class="filter-btn" style="text-decoration:none;">mercredi 6 mai 2026</a>
+      
+      <a href="/archive/2026-05-05.html" class="filter-btn" style="text-decoration:none;">mardi 5 mai 2026</a>
+      
+      <a href="/archive/2026-05-04.html" class="filter-btn" style="text-decoration:none;">lundi 4 mai 2026</a>
+      
+    </div>
+  </div>
+  
+</div>
+
+
+<!-- Footer -->
+<footer>
+  <strong>La Ville Rose · News</strong> — Agrégateur d'actualités toulousaines<br>
+  <span style="margin-top:3px;display:inline-block;">
+    <a href="/feed.xml">RSS</a> ·
+    <a href="https://lavillerose.com/">Cartes &amp; données</a>
+  </span><br>
+  <span style="margin-top:4px;display:inline-block;font-size:10px;">
+    Sources : Actu Toulouse, La Dépêche, Le Bonbon, Clutch, Toulouse Secret, Toulouscope, OpenAgenda, L'Essentiel
+  </span><br>
+  <span style="margin-top:4px;display:inline-block;font-size:11px;">
+    Fait par <a href="https://ralph-ward.com" target="_blank" rel="noopener" style="color:rgba(255,255,255,0.7);font-weight:600;">Ralph Ward</a>
+  </span>
+</footer>
+
+<script>
+(function () {
+  const SUBSCRIBE_URL = "https://toulouse-news-subscribe.chaosskill.workers.dev/subscribe";
+  const form = document.getElementById('subscribe-form');
+  if (!form) return;
+  const input = form.querySelector('input[type=email]');
+  const button = form.querySelector('button');
+  const note = document.getElementById('subscribe-note');
+
+  function setNote(text, color) {
+    note.textContent = text;
+    note.style.color = color;
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = (input.value || '').trim();
+    if (!email) { setNote("Email requis.", '#b91c1c'); return; }
+
+    if (!SUBSCRIBE_URL) {
+      setNote("Le formulaire sera connecté après déploiement du Worker.", '#b91c1c');
+      return;
+    }
+
+    button.disabled = true;
+    const originalText = button.textContent;
+    button.textContent = 'Envoi…';
+
+    try {
+      const r = await fetch(SUBSCRIBE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      const data = await r.json().catch(() => ({}));
+      if (data.ok) {
+        form.innerHTML = '<p style="margin:0;color:#166534;font-weight:700;">Abonnement confirmé. À demain matin !</p>';
+      } else {
+        button.disabled = false;
+        button.textContent = originalText;
+        setNote("Erreur : " + (data.error || 'inconnue') + ". Réessayez.", '#b91c1c');
+      }
+    } catch (err) {
+      button.disabled = false;
+      button.textContent = originalText;
+      setNote("Erreur de réseau, réessayez plus tard.", '#b91c1c');
+    }
+  });
+})();
+
+(function () {
+  const buttons = document.querySelectorAll('.filter-btn');
+  const sections = document.querySelectorAll('.cat-section');
+  if (!buttons.length || !sections.length) return;
+
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filter = btn.dataset.filter;
+      buttons.forEach(b => {
+        const active = b === btn;
+        b.classList.toggle('active', active);
+        b.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
+      sections.forEach(s => {
+        const show = filter === 'all' || s.dataset.category === filter;
+        s.style.display = show ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
