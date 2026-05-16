@@ -12,7 +12,7 @@
 <link rel="canonical" href="https://news.lavillerose.com/"/>
 <link rel="alternate" type="application/atom+xml" title="Toulouse News" href="/feed.xml"/>
 <link rel="icon" type="image/x-icon" href="https://lavillerose.com/assets/favicon/favicon.ico"/>
-<link href="shared.css" rel="stylesheet"/>
+<link href="/shared.css" rel="stylesheet"/>
 <style>
 /* === news.lavillerose.com — keeps shared nav + footer language === */
 
@@ -204,6 +204,19 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 .news-cta { font-size: 12px; font-weight: 800; color: #0f172a; margin-top: auto; display: flex; align-items: center; gap: 4px; }
 .news-card:hover .news-cta { color: #2563eb; }
 
+/* ── Archive nav ── */
+.arc-btn {
+  display: inline-block;
+  padding: 5px 11px;
+  border: 1px solid rgba(0,0,0,0.12);
+  background: #fff;
+  border-radius: 999px;
+  font: inherit; font-size: 12px; font-weight: 700;
+  color: #475569; text-decoration: none;
+  transition: background 120ms, color 120ms;
+}
+.arc-btn:hover { background: #0f172a; color: #fff; border-color: #0f172a; }
+
 /* ── Empty state ── */
 .empty {
   background: #fff; border: 1px dashed #cbd5e1; border-radius: 14px;
@@ -339,16 +352,6 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
           <div class="news-cta">Lire l'article →</div>
         </a>
         
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-armee-d-un-couteau-une-famille-penetre-dans-un-college-et-agresse-deux-eleves-et-une-surveillante_64265497.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">13 mai, 18:08</span>
-          </div>
-          <h3 class="news-title">Une famille armée s&#39;introduit dans un collège toulousain et agresse trois personnes</h3>
-          <p class="news-summary">Ce mercredi matin, la famille d&#39;un élève de troisième a fait irruption au collège Clémence-Isaure à Toulouse, l&#39;une des personnes étant munie d&#39;un couteau. Selon Actu Toulouse, la sœur de l&#39;élève a frappé deux camarades de classe du garçon, tandis qu&#39;une surveillante a également été prise à partie. Le rectorat a confirmé l&#39;intrusion dans un communiqué, précisant que les forces de l&#39;ordre sont intervenues rapidement. La famille — comprenant la mère, la sœur et un frère du collégien — a été…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/je-lui-ai-mis-une-culotte-ce-temoignage-relance-l-affaire-de-la-mort-de-moulay-retrouve-dans-le-canal-a-toulouse_64261043.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
           <div class="news-meta">
             <span class="news-source cat-news">Actu Toulouse</span>
@@ -366,6 +369,16 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
           </div>
           <h3 class="news-title">Pont de l&#39;Ascension à Toulouse : ce qui ouvre et ferme</h3>
           <p class="news-summary">Le week-end de l&#39;Ascension (jeudi 29 mai et vendredi 30 mai) entraîne la fermeture de la quasi-totalité des services administratifs de la mairie et de la métropole de Toulouse. Seul l&#39;état civil maintient une permanence réduite le jeudi, uniquement pour les déclarations de décès, au 2 rue de l&#39;abbé Jules Lemire. Les services de l&#39;État — préfecture, sous-préfectures, directions départementales et régionales — n&#39;assurent pas non plus l&#39;accueil du public jeudi et vendredi. Certains commerces…</p>
+          <div class="news-cta">Lire l'article →</div>
+        </a>
+        
+        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-armee-d-un-couteau-une-famille-penetre-dans-un-college-et-agresse-deux-eleves-et-une-surveillante_64265497.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
+          <div class="news-meta">
+            <span class="news-source cat-news">Actu Toulouse</span>
+            <span class="news-time">13 mai, 18:08</span>
+          </div>
+          <h3 class="news-title">Intrusion armée au collège Clémence-Isaure : une famille interpellée</h3>
+          <p class="news-summary">Mercredi 13 mai 2026, une femme de 44 ans et deux de ses enfants (15 et 17 ans) se sont introduits armés au collège Clémence-Isaure, allées Charles-de-Fitte à Toulouse, pour s&#39;en prendre à un élève qu&#39;ils accusaient de harceler leur fils de 11 ans. La famille s&#39;est trompée de cible : le jeune homme visé était absent ce jour-là, et c&#39;est un autre élève de 15 ans qui a reçu une tentative de coup de couteau. La sœur a également utilisé un pistolet à billes et une bombe lacrymogène sur un élève qui…</p>
           <div class="news-cta">Lire l'article →</div>
         </a>
         
@@ -465,34 +478,36 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 
 <div class="page" style="padding: 24px 24px 0;">
   
-  <a href="/" class="filter-btn" style="text-decoration:none;display:inline-block;margin-bottom:12px;">← Édition d'aujourd'hui</a>
+  <a href="/" class="arc-btn" style="margin-bottom:12px;">← Aujourd'hui</a>
   
   
   <div style="margin-top:8px;">
     <div class="sec-label" style="margin-bottom:8px;">Éditions précédentes</div>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
       
-      <a href="/archive/2026-05-14.html" class="filter-btn" style="text-decoration:none;">jeudi 14 mai 2026</a>
+      <a href="/archive/2026-05-15.html" class="arc-btn">15 mai</a>
       
-      <a href="/archive/2026-05-13.html" class="filter-btn" style="text-decoration:none;">mercredi 13 mai 2026</a>
+      <a href="/archive/2026-05-14.html" class="arc-btn">14 mai</a>
       
-      <a href="/archive/2026-05-12.html" class="filter-btn" style="text-decoration:none;">mardi 12 mai 2026</a>
+      <a href="/archive/2026-05-13.html" class="arc-btn">13 mai</a>
       
-      <a href="/archive/2026-05-11.html" class="filter-btn" style="text-decoration:none;">lundi 11 mai 2026</a>
+      <a href="/archive/2026-05-12.html" class="arc-btn">12 mai</a>
       
-      <a href="/archive/2026-05-10.html" class="filter-btn" style="text-decoration:none;">dimanche 10 mai 2026</a>
+      <a href="/archive/2026-05-11.html" class="arc-btn">11 mai</a>
       
-      <a href="/archive/2026-05-09.html" class="filter-btn" style="text-decoration:none;">samedi 9 mai 2026</a>
+      <a href="/archive/2026-05-10.html" class="arc-btn">10 mai</a>
       
-      <a href="/archive/2026-05-08.html" class="filter-btn" style="text-decoration:none;">vendredi 8 mai 2026</a>
+      <a href="/archive/2026-05-09.html" class="arc-btn">9 mai</a>
       
-      <a href="/archive/2026-05-07.html" class="filter-btn" style="text-decoration:none;">jeudi 7 mai 2026</a>
+      <a href="/archive/2026-05-08.html" class="arc-btn">8 mai</a>
       
-      <a href="/archive/2026-05-06.html" class="filter-btn" style="text-decoration:none;">mercredi 6 mai 2026</a>
+      <a href="/archive/2026-05-07.html" class="arc-btn">7 mai</a>
       
-      <a href="/archive/2026-05-05.html" class="filter-btn" style="text-decoration:none;">mardi 5 mai 2026</a>
+      <a href="/archive/2026-05-06.html" class="arc-btn">6 mai</a>
       
-      <a href="/archive/2026-05-04.html" class="filter-btn" style="text-decoration:none;">lundi 4 mai 2026</a>
+      <a href="/archive/2026-05-05.html" class="arc-btn">5 mai</a>
+      
+      <a href="/archive/2026-05-04.html" class="arc-btn">4 mai</a>
       
     </div>
   </div>
@@ -566,7 +581,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 })();
 
 (function () {
-  const buttons = document.querySelectorAll('.filter-btn');
+  const buttons = document.querySelectorAll('.filter-btn[data-filter]');
   const sections = document.querySelectorAll('.cat-section');
   if (!buttons.length || !sections.length) return;
 
