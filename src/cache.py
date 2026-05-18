@@ -272,6 +272,20 @@ def clusters_needing_synthesis(conn: sqlite3.Connection) -> list[str]:
     return [r["cluster_id"] for r in rows]
 
 
+def clusters_with_bad_event_span(conn: sqlite3.Connection, max_days: int = 7) -> list[str]:
+    """Event clusters whose event_end is more than max_days after event_start.
+    These are likely the result of Claude spanning discrete dates into a continuous
+    range (e.g. 'May 22 and June 14' → event_end=June 14). Clearing them forces
+    re-extraction with the corrected prompt."""
+    rows = conn.execute(
+        "SELECT cluster_id FROM clusters "
+        "WHERE category = 'event' AND event_end IS NOT NULL "
+        "AND julianday(event_end) - julianday(event_start) > ?",
+        (max_days,),
+    ).fetchall()
+    return [r["cluster_id"] for r in rows]
+
+
 def clusters_needing_event_dates(conn: sqlite3.Connection) -> list[str]:
     """Event clusters that are missing a structured event_start date."""
     rows = conn.execute(
