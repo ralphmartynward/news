@@ -16,54 +16,114 @@
 <link href="/shared.css" rel="stylesheet"/>
 
 <style>
-.cal-timeline { display: flex; flex-direction: column; }
-.cal-day {
-  display: grid; grid-template-columns: 96px 1fr; gap: 16px;
-  padding: 14px 0; border-top: 1px solid rgba(0,0,0,0.06);
-  align-items: start;
+/* ── Calendar grid ───────────────────────────────────────────────── */
+.calw { font-family: inherit; }
+
+.calw-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 4px 0 14px;
 }
-.cal-day--today { background: rgba(74,222,128,0.03); border-radius: 8px; padding: 14px 10px; margin: 0 -10px; }
-.cal-day--past { opacity: 0.45; }
-.cal-date-col { display: flex; flex-direction: column; gap: 1px; padding-top: 3px; }
-.cal-date-num  { font-size: 26px; font-weight: 900; line-height: 1; color: #0f172a; }
-.cal-date-week { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #94a3b8; }
-.cal-date-mon  { font-size: 11px; color: #94a3b8; }
-.cal-day--today .cal-date-num  { color: #4ade80; }
-.cal-day--today .cal-date-week { color: #4ade80; opacity: 0.7; }
-.cal-events-col { display: flex; flex-direction: column; gap: 8px; }
-.cal-card {
-  background: #fff; border: 1px solid rgba(0,0,0,0.08); border-radius: 10px;
-  padding: 12px 14px; text-decoration: none; color: inherit; display: block;
+.calw-month-label { font-size: 17px; font-weight: 900; color: #0f172a; }
+.calw-btn {
+  background: #fff; border: 1px solid rgba(0,0,0,0.12); border-radius: 8px;
+  width: 30px; height: 30px; font-size: 18px; cursor: pointer; color: #475569;
+  display: flex; align-items: center; justify-content: center;
+  transition: background 120ms;
+}
+.calw-btn:hover { background: #f1f5f9; color: #0f172a; }
+
+.calw-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  border-left: 1px solid rgba(0,0,0,0.07);
+  border-top: 1px solid rgba(0,0,0,0.07);
+}
+.calw-dow {
+  text-align: center; font-size: 10px; font-weight: 700;
+  color: #94a3b8; text-transform: uppercase; letter-spacing: 0.4px;
+  padding: 0 0 8px; border: none;
+}
+.calw-cell {
+  border-right: 1px solid rgba(0,0,0,0.07);
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  padding: 4px 3px 6px;
+  min-height: 72px;
+  display: flex; flex-direction: column; align-items: stretch;
+  background: #fff;
+}
+.calw-cell.calw-past { background: #fafafa; }
+.calw-cell.calw-today { background: #eff6ff; }
+.calw-cell.calw-empty { background: #fafafa; }
+
+.calw-dn {
+  font-size: 13px; font-weight: 700; color: #475569; line-height: 1;
+  width: 24px; height: 24px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 50%; margin: 0 auto 3px; flex-shrink: 0;
+}
+.calw-cell.calw-past .calw-dn { color: #cbd5e1; }
+.calw-cell.calw-today .calw-dn { background: #2563eb; color: #fff; font-weight: 800; }
+.calw-cell.calw-sel   .calw-dn { background: #0f172a; color: #fff; font-weight: 800; }
+
+/* Event chips inside cells */
+.calw-chip {
+  display: block;
+  font-size: 11px; font-weight: 600; line-height: 1.2;
+  background: #dcfce7; color: #166534;
+  border-radius: 3px; padding: 2px 5px; margin: 1px 0;
+  overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+  cursor: pointer; text-decoration: none;
+  transition: background 100ms;
+}
+.calw-chip:hover { background: #bbf7d0; }
+.calw-cell.calw-past .calw-chip { background: #f1f5f9; color: #94a3b8; }
+.calw-cell.calw-past .calw-chip:hover { background: #e2e8f0; }
+.calw-more {
+  font-size: 10px; font-weight: 700; color: #64748b;
+  padding: 1px 4px; cursor: pointer; display: block; margin-top: 1px;
+}
+.calw-more:hover { color: #16a34a; }
+.calw-cell.calw-has-ev { cursor: default; }
+
+/* Event panel below grid */
+.calw-panel {
+  margin-top: 20px;
+  border-top: 2px solid #4ade80;
+  padding-top: 14px;
+}
+.calw-panel-title {
+  font-size: 12px; font-weight: 800; text-transform: capitalize;
+  letter-spacing: 0.3px; color: #0f172a; margin-bottom: 12px;
+}
+.calw-ev-card {
+  display: block; background: #fff; border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px; padding: 12px 14px; margin-bottom: 8px;
+  text-decoration: none; color: inherit;
   transition: border-color 150ms, box-shadow 150ms;
 }
-.cal-card:hover { border-color: #4ade80; box-shadow: 0 2px 10px rgba(74,222,128,0.12); }
-.cal-card-title   { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
-.cal-card:hover .cal-card-title { color: #16a34a; }
-.cal-card-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 8px; }
-.cal-card-source  {
+.calw-ev-card:hover { border-color: #4ade80; box-shadow: 0 2px 8px rgba(74,222,128,0.12); }
+.calw-ev-title   { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
+.calw-ev-card:hover .calw-ev-title { color: #16a34a; }
+.calw-ev-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 8px; }
+.calw-ev-source  {
   font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
   color: #16a34a; background: #f0fdf4; border: 1px solid #bbf7d0;
   border-radius: 999px; padding: 2px 7px; display: inline-block;
 }
-.cal-today-bar {
-  display: flex; align-items: center; gap: 10px;
-  padding: 10px 0 6px; margin: 6px 0 2px;
-  font-size: 10px; font-weight: 800; text-transform: uppercase;
-  letter-spacing: 0.8px; color: #4ade80;
-}
-.cal-today-bar::before, .cal-today-bar::after {
-  content: ''; flex: 1; height: 1px; background: rgba(74,222,128,0.25);
-}
-/* Compact variant for landing page widget */
-.cal-compact .cal-day  { grid-template-columns: 72px 1fr; gap: 10px; padding: 10px 0; }
-.cal-compact .cal-date-num  { font-size: 20px; }
-.cal-compact .cal-card { padding: 8px 12px; }
-.cal-compact .cal-card-title { font-size: 13px; margin-bottom: 0; }
-.cal-compact .cal-card-summary { display: none; }
+
+/* Compact variant for landing page */
+.calw-compact .calw-cell   { min-height: 52px; padding: 3px 2px 4px; }
+.calw-compact .calw-dn     { font-size: 11px; width: 20px; height: 20px; margin-bottom: 2px; }
+.calw-compact .calw-chip   { font-size: 10px; padding: 1px 4px; }
+.calw-compact .calw-more   { font-size: 9px; }
+.calw-compact .calw-month-label { font-size: 14px; }
+.calw-compact .calw-btn    { width: 26px; height: 26px; font-size: 15px; }
+.calw-compact .calw-dow    { font-size: 9px; }
+
 @media (max-width: 600px) {
-  .cal-day { grid-template-columns: 56px 1fr; gap: 10px; }
-  .cal-date-num { font-size: 20px; }
-  .cal-date-mon { display: none; }
+  .calw-chip { font-size: 9px; padding: 1px 3px; }
+  .calw-dn   { font-size: 11px; width: 20px; height: 20px; }
+  .calw-cell { min-height: 54px; }
 }
 </style>
 
@@ -146,1455 +206,163 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     <h2 class="sec-title">Événements à Toulouse</h2>
     <p class="sec-sub">Passés (14 j) et à venir (90 j) — cliquez pour lire l'article source.</p>
     
-<div class="cal-timeline ">
-  
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">8</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">DJ set et collection capsule pour fêter une collab à Saint-Cyprien</div>
-          
-          <p class="cal-card-summary">Ce vendredi 8 mai à partir de 19h, deux commerçants du quartier Saint-Cyprien s&#39;associent le temps d&#39;une soirée au 13 rue Reclusane. Mer.fils, artisan textile des Allées Charles de Fitte, y dévoile une collection capsule de t-shirts et bracelets inspirés des produits du primeur Le Jardin des Copains, place de l&#39;Estrapade. Quatre modèles de t-shirts à l&#39;effigie de fruits et légumes de saison (pamplemousse, artichaut, fraise, fruit de la passion) sont proposés en série limitée, à 35 euros l&#39;unité ou 60 euros les deux. Un DJ s&#39;installera entre les cagettes jusqu&#39;à 21h, accompagné de brochettes de fruits, pour célébrer les artisans locaux et l&#39;arrivée de la belle saison.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">9</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">10</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">lundi</span>
-        <span class="cal-date-num">11</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mardi</span>
-        <span class="cal-date-num">12</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mercredi</span>
-        <span class="cal-date-num">13</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/pres-de-toulouse-ce-festival-unique-en-europe-debarque-pendant-quatre-jours-voici-le-programme_64241089.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Echos &amp; Merveilles revient à Bruguières pour sa 8e édition en mai 2026</div>
-          
-          <p class="cal-card-summary">Du 13 au 16 mai 2026, le festival Echos &amp; Merveilles investit le Parc du Bascala à Bruguières, au nord de Toulouse, pour sa 8e édition intitulée « Le Roi Mundis ». Né en 2016 à l&#39;initiative d&#39;un collectif de musiciens toulousains, l&#39;événement est consacré à l&#39;univers de la Fantasy — musiques folk, celtiques et médiévales, mythes arthuriens, légendes nordiques — et se revendique unique en Europe par sa thématique. Il rassemble chaque année plusieurs dizaines de milliers de visiteurs, artisans, auteurs et artistes. Au programme figurent un marché artisanal et plusieurs scènes de spectacles, selon actu_toulouse.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/une-sculpture-passee-entre-les-mains-d-andre-malraux-est-mise-aux-encheres-a-toulouse-pour-plusieurs-milliers-d-euros_64232950.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Une sculpture passée par Malraux mise aux enchères à Toulouse</div>
-          
-          <p class="cal-card-summary">La maison de ventes toulousaine Primardeco organise une vente aux enchères le mercredi 13 mai 2026 à 14h, proposant 165 lots issus de collections privées. Parmi les pièces phares figure une petite sculpture féminine en pierre volcanique du Massif central, attribuée à Antoine Rabany dit « Le Zouave », un paysan-soldat auvergnat du XIXe siècle. L&#39;œuvre, conservée dans une collection privée depuis les années 1950, aurait été examinée par André Malraux puis par le musée Barbier-Mueller à Genève, tous deux reconnaissant son intérêt exceptionnel ; elle est estimée entre 20 000 et 30 000 euros. La vente comprend également des dessins de Toulouse-Lautrec, un projet de décor de Dalí pour un film des Marx Brothers, et une peinture attribuée à Valentine Gross-Hugo.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="http://cdt31.tourinsoft.com/view.ashx?email=b80f7177-9ffd-4310-a112-e658177365a1" target="_blank" rel="noopener">
-          <div class="cal-card-title">Long week-end de l&#39;Ascension : sorties et événements à Toulouse</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (13-17 mai) s&#39;annonce chargé à Toulouse et ses alentours, avec une palette variée d&#39;événements pour tous les goûts. Bigflo et Oli retrouvent leur public toulousain les 14 et 15 mai au Zénith pour leur Karma Tour, avec des premières parties assurées par Beesau et Danyl, à partir de 45 euros. Le festival Echos et Merveilles revient pour sa 8e édition au site du Buscala à Bruguières (13-17 mai), proposant concerts, marché artisanal et animations familiales dans un cadre fantastique médiéval sur 5 hectares. Par ailleurs, l&#39;opération « Toulouse, commerces en fête » (14-16 mai) investit les rues du centre avec musique, spectacles acrobatiques et ambiance Circus. D&#39;autres rendez-vous sont également signalés : open air électro, tournois de basket 3x3 au bord de la Garonne, dégustations sur le canal du Midi et balades historiques dans la ville.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">jeudi</span>
-        <span class="cal-date-num">14</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/pres-de-toulouse-ce-festival-unique-en-europe-debarque-pendant-quatre-jours-voici-le-programme_64241089.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Echos &amp; Merveilles revient à Bruguières pour sa 8e édition en mai 2026</div>
-          
-          <p class="cal-card-summary">Du 13 au 16 mai 2026, le festival Echos &amp; Merveilles investit le Parc du Bascala à Bruguières, au nord de Toulouse, pour sa 8e édition intitulée « Le Roi Mundis ». Né en 2016 à l&#39;initiative d&#39;un collectif de musiciens toulousains, l&#39;événement est consacré à l&#39;univers de la Fantasy — musiques folk, celtiques et médiévales, mythes arthuriens, légendes nordiques — et se revendique unique en Europe par sa thématique. Il rassemble chaque année plusieurs dizaines de milliers de visiteurs, artisans, auteurs et artistes. Au programme figurent un marché artisanal et plusieurs scènes de spectacles, selon actu_toulouse.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="http://cdt31.tourinsoft.com/view.ashx?email=b80f7177-9ffd-4310-a112-e658177365a1" target="_blank" rel="noopener">
-          <div class="cal-card-title">Long week-end de l&#39;Ascension : sorties et événements à Toulouse</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (13-17 mai) s&#39;annonce chargé à Toulouse et ses alentours, avec une palette variée d&#39;événements pour tous les goûts. Bigflo et Oli retrouvent leur public toulousain les 14 et 15 mai au Zénith pour leur Karma Tour, avec des premières parties assurées par Beesau et Danyl, à partir de 45 euros. Le festival Echos et Merveilles revient pour sa 8e édition au site du Buscala à Bruguières (13-17 mai), proposant concerts, marché artisanal et animations familiales dans un cadre fantastique médiéval sur 5 hectares. Par ailleurs, l&#39;opération « Toulouse, commerces en fête » (14-16 mai) investit les rues du centre avec musique, spectacles acrobatiques et ambiance Circus. D&#39;autres rendez-vous sont également signalés : open air électro, tournois de basket 3x3 au bord de la Garonne, dégustations sur le canal du Midi et balades historiques dans la ville.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/vide-greniers-brocantes-decouvrez-les-lieux-ou-chiner-a-toulouse-pour-ce-long-week-end-de-l-ascension_64260591.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Vide-greniers et brocantes à Toulouse pour le week-end de l&#39;Ascension</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (14-17 mai) est l&#39;occasion de chiner à Toulouse et dans ses environs, avec de nombreux vide-greniers et brocantes au programme. Dès le jeudi 14 mai, des événements sont prévus au Fauga, à Launac et à Grisolles. Le samedi, la brocante de l&#39;église Saint-Aubin et un forum des antiquaires avenue des États-Unis ouvrent leurs portes. Le dimanche 17 mai est particulièrement chargé, avec des vide-greniers à Sesquières, Labège, Fenouillet (plus de 200 exposants) et L&#39;Union, ainsi qu&#39;un vide dressing réservé aux Toulousaines rue d&#39;Alsace Lorraine. La sélection est publiée par actu_toulouse et couvre un large secteur autour de la ville.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-est-en-fete-pour-ce-week-end-de-l-ascension-250-commercants-participent-a-l-evenement-ce-qu-il-faut-savoir_64234118.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">« Commerces en fête » : 250 commerçants animés ce week-end de l&#39;Ascension</div>
-          
-          <p class="cal-card-summary">La troisième édition de « Commerces en fête », organisée par la CCI de Toulouse en partenariat avec la Mairie et Toulouse Métropole, se déroule du jeudi 14 au samedi 16 mai 2026 dans le centre-ville. Quelque 250 commerçants participent cette année — dont Les Galeries Lafayette, Bonobo ou Chez Zel —, un chiffre en hausse à chaque édition selon la CCI. Rue Alsace-Lorraine, deux scènes accueilleront l&#39;Orchestre de chambre de Toulouse et le batteur de Cats on Trees, avec cinq passages quotidiens reprenant ABBA, Queen, les Beatles, Michael Jackson, puis un mélange électro-classique le samedi. Place Saint-Georges, des animations circassiennes et des maquillages sont prévus pour les familles.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="https://swst0.mjt.lu/nl3/TlYDAC7IXiA7KAGdBzqDiA?m=AWMAAJg3tZgAAc60iVYAA810g9oAAYDOisoAnYwaACUggABqBZ6v5d7NVGm7T5a47EW40UlfOQAitIA&amp;amp;b=fa425b14&amp;amp;e=c71119c9&amp;amp;x=w549wTzDQpQvWTH-Pq2RMk5n_BqWBfAJsNlz7LpapyI" target="_blank" rel="noopener">
-          <div class="cal-card-title">Sélection de sorties culturelles à Toulouse ce week-end</div>
-          
-          <p class="cal-card-summary">Le magazine culturel Clutch propose sa sélection de bons plans pour le week-end du 14 au 15 mai. En tête d&#39;affiche, le festival Échos &amp; Merveilles se tient du 13 au 17 mai entre le Parc de Bruguières et la salle du Bascala : cinq jours dédiés aux cultures de l&#39;imaginaire et de la fantasy, avec 40 concerts, 150 artisans, 100 auteurs et illustrateurs, et des animations familiales — tarifs de gratuit à 49,80 €, avec navettes gratuites et camping sur place. Le vendredi soir, plusieurs concerts sont proposés en ville : funk et groove au Metronum avec Abdul and the Gang et Lucas Granel (9–11 €), post-punk et darkwave au Dada avec Edges et Newborn Ghost (6–10 €), et une soirée afrobeat solidaire au Taquin Jazz Club en soutien à l&#39;association Utopia 56 (8–12 €). Ces événements s&#39;adressent à un large public, des familles aux amateurs de musiques actuelles.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">15</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/pres-de-toulouse-ce-festival-unique-en-europe-debarque-pendant-quatre-jours-voici-le-programme_64241089.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Echos &amp; Merveilles revient à Bruguières pour sa 8e édition en mai 2026</div>
-          
-          <p class="cal-card-summary">Du 13 au 16 mai 2026, le festival Echos &amp; Merveilles investit le Parc du Bascala à Bruguières, au nord de Toulouse, pour sa 8e édition intitulée « Le Roi Mundis ». Né en 2016 à l&#39;initiative d&#39;un collectif de musiciens toulousains, l&#39;événement est consacré à l&#39;univers de la Fantasy — musiques folk, celtiques et médiévales, mythes arthuriens, légendes nordiques — et se revendique unique en Europe par sa thématique. Il rassemble chaque année plusieurs dizaines de milliers de visiteurs, artisans, auteurs et artistes. Au programme figurent un marché artisanal et plusieurs scènes de spectacles, selon actu_toulouse.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="http://cdt31.tourinsoft.com/view.ashx?email=b80f7177-9ffd-4310-a112-e658177365a1" target="_blank" rel="noopener">
-          <div class="cal-card-title">Long week-end de l&#39;Ascension : sorties et événements à Toulouse</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (13-17 mai) s&#39;annonce chargé à Toulouse et ses alentours, avec une palette variée d&#39;événements pour tous les goûts. Bigflo et Oli retrouvent leur public toulousain les 14 et 15 mai au Zénith pour leur Karma Tour, avec des premières parties assurées par Beesau et Danyl, à partir de 45 euros. Le festival Echos et Merveilles revient pour sa 8e édition au site du Buscala à Bruguières (13-17 mai), proposant concerts, marché artisanal et animations familiales dans un cadre fantastique médiéval sur 5 hectares. Par ailleurs, l&#39;opération « Toulouse, commerces en fête » (14-16 mai) investit les rues du centre avec musique, spectacles acrobatiques et ambiance Circus. D&#39;autres rendez-vous sont également signalés : open air électro, tournois de basket 3x3 au bord de la Garonne, dégustations sur le canal du Midi et balades historiques dans la ville.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/vide-greniers-brocantes-decouvrez-les-lieux-ou-chiner-a-toulouse-pour-ce-long-week-end-de-l-ascension_64260591.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Vide-greniers et brocantes à Toulouse pour le week-end de l&#39;Ascension</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (14-17 mai) est l&#39;occasion de chiner à Toulouse et dans ses environs, avec de nombreux vide-greniers et brocantes au programme. Dès le jeudi 14 mai, des événements sont prévus au Fauga, à Launac et à Grisolles. Le samedi, la brocante de l&#39;église Saint-Aubin et un forum des antiquaires avenue des États-Unis ouvrent leurs portes. Le dimanche 17 mai est particulièrement chargé, avec des vide-greniers à Sesquières, Labège, Fenouillet (plus de 200 exposants) et L&#39;Union, ainsi qu&#39;un vide dressing réservé aux Toulousaines rue d&#39;Alsace Lorraine. La sélection est publiée par actu_toulouse et couvre un large secteur autour de la ville.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-est-en-fete-pour-ce-week-end-de-l-ascension-250-commercants-participent-a-l-evenement-ce-qu-il-faut-savoir_64234118.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">« Commerces en fête » : 250 commerçants animés ce week-end de l&#39;Ascension</div>
-          
-          <p class="cal-card-summary">La troisième édition de « Commerces en fête », organisée par la CCI de Toulouse en partenariat avec la Mairie et Toulouse Métropole, se déroule du jeudi 14 au samedi 16 mai 2026 dans le centre-ville. Quelque 250 commerçants participent cette année — dont Les Galeries Lafayette, Bonobo ou Chez Zel —, un chiffre en hausse à chaque édition selon la CCI. Rue Alsace-Lorraine, deux scènes accueilleront l&#39;Orchestre de chambre de Toulouse et le batteur de Cats on Trees, avec cinq passages quotidiens reprenant ABBA, Queen, les Beatles, Michael Jackson, puis un mélange électro-classique le samedi. Place Saint-Georges, des animations circassiennes et des maquillages sont prévus pour les familles.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="https://swst0.mjt.lu/nl3/TlYDAC7IXiA7KAGdBzqDiA?m=AWMAAJg3tZgAAc60iVYAA810g9oAAYDOisoAnYwaACUggABqBZ6v5d7NVGm7T5a47EW40UlfOQAitIA&amp;amp;b=fa425b14&amp;amp;e=c71119c9&amp;amp;x=w549wTzDQpQvWTH-Pq2RMk5n_BqWBfAJsNlz7LpapyI" target="_blank" rel="noopener">
-          <div class="cal-card-title">Sélection de sorties culturelles à Toulouse ce week-end</div>
-          
-          <p class="cal-card-summary">Le magazine culturel Clutch propose sa sélection de bons plans pour le week-end du 14 au 15 mai. En tête d&#39;affiche, le festival Échos &amp; Merveilles se tient du 13 au 17 mai entre le Parc de Bruguières et la salle du Bascala : cinq jours dédiés aux cultures de l&#39;imaginaire et de la fantasy, avec 40 concerts, 150 artisans, 100 auteurs et illustrateurs, et des animations familiales — tarifs de gratuit à 49,80 €, avec navettes gratuites et camping sur place. Le vendredi soir, plusieurs concerts sont proposés en ville : funk et groove au Metronum avec Abdul and the Gang et Lucas Granel (9–11 €), post-punk et darkwave au Dada avec Edges et Newborn Ghost (6–10 €), et une soirée afrobeat solidaire au Taquin Jazz Club en soutien à l&#39;association Utopia 56 (8–12 €). Ces événements s&#39;adressent à un large public, des familles aux amateurs de musiques actuelles.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Portes ouvertes aux Thermes de Luchon le 15 mai</div>
-          
-          <p class="cal-card-summary">Les Thermes de Luchon ouvrent leurs portes au public le vendredi 15 mai 2026, de 14h à 18h, pour une après-midi de découverte gratuite et commentée. Les visiteurs pourront parcourir les espaces habituellement réservés aux curistes et suivre les différentes étapes d&#39;une cure thermale, des bains aux applications de boue en passant par les soins par vapeur. L&#39;établissement se distingue par ses eaux sulfurées parmi les plus riches en soufre de France, ainsi que par un vaporarium naturel aménagé dans d&#39;anciennes galeries souterraines. L&#39;après-midi est pensée comme un moment pédagogique, avec des échanges possibles directement avec les équipes soignantes.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/50-heures-de-musique-65-artistes-ce-gigantesque-festival-electro-revient-dans-le-plus-beau-spot-de-toulouse_64239142.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival électro Plein Phare revient à l&#39;observatoire de Pech David</div>
-          
-          <p class="cal-card-summary">Le Festival Plein Phare se tiendra les 15 et 16 mai 2026 à l&#39;observatoire de Pech David, l&#39;un des sites en plein air les plus appréciés de Toulouse. Sur 6 000 m², plus de 65 artistes se produiront pendant plus de 50 heures de musique, avec des after-parties en sus. L&#39;édition se distingue par une scène à 360° dotée d&#39;un son quadriphonique, plaçant le public au cœur du dispositif sonore — une configuration rare dans le paysage festivalier local. Un chapiteau de 1 000 m² fait également office de dance floor couvert en cas de météo capricieuse. Plus de 6 000 festivaliers sont attendus, et selon actu_toulouse, il ne resterait plus beaucoup de places disponibles.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">16</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/pres-de-toulouse-ce-festival-unique-en-europe-debarque-pendant-quatre-jours-voici-le-programme_64241089.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Echos &amp; Merveilles revient à Bruguières pour sa 8e édition en mai 2026</div>
-          
-          <p class="cal-card-summary">Du 13 au 16 mai 2026, le festival Echos &amp; Merveilles investit le Parc du Bascala à Bruguières, au nord de Toulouse, pour sa 8e édition intitulée « Le Roi Mundis ». Né en 2016 à l&#39;initiative d&#39;un collectif de musiciens toulousains, l&#39;événement est consacré à l&#39;univers de la Fantasy — musiques folk, celtiques et médiévales, mythes arthuriens, légendes nordiques — et se revendique unique en Europe par sa thématique. Il rassemble chaque année plusieurs dizaines de milliers de visiteurs, artisans, auteurs et artistes. Au programme figurent un marché artisanal et plusieurs scènes de spectacles, selon actu_toulouse.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="http://cdt31.tourinsoft.com/view.ashx?email=b80f7177-9ffd-4310-a112-e658177365a1" target="_blank" rel="noopener">
-          <div class="cal-card-title">Long week-end de l&#39;Ascension : sorties et événements à Toulouse</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (13-17 mai) s&#39;annonce chargé à Toulouse et ses alentours, avec une palette variée d&#39;événements pour tous les goûts. Bigflo et Oli retrouvent leur public toulousain les 14 et 15 mai au Zénith pour leur Karma Tour, avec des premières parties assurées par Beesau et Danyl, à partir de 45 euros. Le festival Echos et Merveilles revient pour sa 8e édition au site du Buscala à Bruguières (13-17 mai), proposant concerts, marché artisanal et animations familiales dans un cadre fantastique médiéval sur 5 hectares. Par ailleurs, l&#39;opération « Toulouse, commerces en fête » (14-16 mai) investit les rues du centre avec musique, spectacles acrobatiques et ambiance Circus. D&#39;autres rendez-vous sont également signalés : open air électro, tournois de basket 3x3 au bord de la Garonne, dégustations sur le canal du Midi et balades historiques dans la ville.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/vide-greniers-brocantes-decouvrez-les-lieux-ou-chiner-a-toulouse-pour-ce-long-week-end-de-l-ascension_64260591.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Vide-greniers et brocantes à Toulouse pour le week-end de l&#39;Ascension</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (14-17 mai) est l&#39;occasion de chiner à Toulouse et dans ses environs, avec de nombreux vide-greniers et brocantes au programme. Dès le jeudi 14 mai, des événements sont prévus au Fauga, à Launac et à Grisolles. Le samedi, la brocante de l&#39;église Saint-Aubin et un forum des antiquaires avenue des États-Unis ouvrent leurs portes. Le dimanche 17 mai est particulièrement chargé, avec des vide-greniers à Sesquières, Labège, Fenouillet (plus de 200 exposants) et L&#39;Union, ainsi qu&#39;un vide dressing réservé aux Toulousaines rue d&#39;Alsace Lorraine. La sélection est publiée par actu_toulouse et couvre un large secteur autour de la ville.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-est-en-fete-pour-ce-week-end-de-l-ascension-250-commercants-participent-a-l-evenement-ce-qu-il-faut-savoir_64234118.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">« Commerces en fête » : 250 commerçants animés ce week-end de l&#39;Ascension</div>
-          
-          <p class="cal-card-summary">La troisième édition de « Commerces en fête », organisée par la CCI de Toulouse en partenariat avec la Mairie et Toulouse Métropole, se déroule du jeudi 14 au samedi 16 mai 2026 dans le centre-ville. Quelque 250 commerçants participent cette année — dont Les Galeries Lafayette, Bonobo ou Chez Zel —, un chiffre en hausse à chaque édition selon la CCI. Rue Alsace-Lorraine, deux scènes accueilleront l&#39;Orchestre de chambre de Toulouse et le batteur de Cats on Trees, avec cinq passages quotidiens reprenant ABBA, Queen, les Beatles, Michael Jackson, puis un mélange électro-classique le samedi. Place Saint-Georges, des animations circassiennes et des maquillages sont prévus pour les familles.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/50-heures-de-musique-65-artistes-ce-gigantesque-festival-electro-revient-dans-le-plus-beau-spot-de-toulouse_64239142.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival électro Plein Phare revient à l&#39;observatoire de Pech David</div>
-          
-          <p class="cal-card-summary">Le Festival Plein Phare se tiendra les 15 et 16 mai 2026 à l&#39;observatoire de Pech David, l&#39;un des sites en plein air les plus appréciés de Toulouse. Sur 6 000 m², plus de 65 artistes se produiront pendant plus de 50 heures de musique, avec des after-parties en sus. L&#39;édition se distingue par une scène à 360° dotée d&#39;un son quadriphonique, plaçant le public au cœur du dispositif sonore — une configuration rare dans le paysage festivalier local. Un chapiteau de 1 000 m² fait également office de dance floor couvert en cas de météo capricieuse. Plus de 6 000 festivaliers sont attendus, et selon actu_toulouse, il ne resterait plus beaucoup de places disponibles.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Championnat de France Élite de motocross à Gaillac-Toulza en mai 2026</div>
-          
-          <p class="cal-card-summary">Les 16 et 17 mai 2026, le circuit Jean-Pierre Goudol de Gaillac-Toulza accueillera une étape du 24MX Tour, comptant pour le Championnat de France Élite de motocross. Quatre catégories seront au programme : Espoir (85 cm³), Juniors (125 cm³), MX2 (250 cm³) et MX1 (450 cm³), ces deux dernières constituant les épreuves phares du week-end. Situé à moins d&#39;une heure de Toulouse, ce circuit est réputé pour son relief et la qualité de sa piste, offrant une bonne visibilité aux spectateurs. L&#39;édition 2026 s&#39;inscrit dans la continuité du retour des grandes compétitions sur ce site en 2025, avec un format étendu sur deux jours.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day cal-day--past">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">17</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="http://cdt31.tourinsoft.com/view.ashx?email=b80f7177-9ffd-4310-a112-e658177365a1" target="_blank" rel="noopener">
-          <div class="cal-card-title">Long week-end de l&#39;Ascension : sorties et événements à Toulouse</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (13-17 mai) s&#39;annonce chargé à Toulouse et ses alentours, avec une palette variée d&#39;événements pour tous les goûts. Bigflo et Oli retrouvent leur public toulousain les 14 et 15 mai au Zénith pour leur Karma Tour, avec des premières parties assurées par Beesau et Danyl, à partir de 45 euros. Le festival Echos et Merveilles revient pour sa 8e édition au site du Buscala à Bruguières (13-17 mai), proposant concerts, marché artisanal et animations familiales dans un cadre fantastique médiéval sur 5 hectares. Par ailleurs, l&#39;opération « Toulouse, commerces en fête » (14-16 mai) investit les rues du centre avec musique, spectacles acrobatiques et ambiance Circus. D&#39;autres rendez-vous sont également signalés : open air électro, tournois de basket 3x3 au bord de la Garonne, dégustations sur le canal du Midi et balades historiques dans la ville.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/vide-greniers-brocantes-decouvrez-les-lieux-ou-chiner-a-toulouse-pour-ce-long-week-end-de-l-ascension_64260591.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Vide-greniers et brocantes à Toulouse pour le week-end de l&#39;Ascension</div>
-          
-          <p class="cal-card-summary">Le long week-end de l&#39;Ascension (14-17 mai) est l&#39;occasion de chiner à Toulouse et dans ses environs, avec de nombreux vide-greniers et brocantes au programme. Dès le jeudi 14 mai, des événements sont prévus au Fauga, à Launac et à Grisolles. Le samedi, la brocante de l&#39;église Saint-Aubin et un forum des antiquaires avenue des États-Unis ouvrent leurs portes. Le dimanche 17 mai est particulièrement chargé, avec des vide-greniers à Sesquières, Labège, Fenouillet (plus de 200 exposants) et L&#39;Union, ainsi qu&#39;un vide dressing réservé aux Toulousaines rue d&#39;Alsace Lorraine. La sélection est publiée par actu_toulouse et couvre un large secteur autour de la ville.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Championnat de France Élite de motocross à Gaillac-Toulza en mai 2026</div>
-          
-          <p class="cal-card-summary">Les 16 et 17 mai 2026, le circuit Jean-Pierre Goudol de Gaillac-Toulza accueillera une étape du 24MX Tour, comptant pour le Championnat de France Élite de motocross. Quatre catégories seront au programme : Espoir (85 cm³), Juniors (125 cm³), MX2 (250 cm³) et MX1 (450 cm³), ces deux dernières constituant les épreuves phares du week-end. Situé à moins d&#39;une heure de Toulouse, ce circuit est réputé pour son relief et la qualité de sa piste, offrant une bonne visibilité aux spectateurs. L&#39;édition 2026 s&#39;inscrit dans la continuité du retour des grandes compétitions sur ce site en 2025, avec un format étendu sur deux jours.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/un-spectacle-a-ne-pas-manquer-a-toulouse-ce-dimanche-le-capitole-va-s-illuminer-aux-couleurs-de-l-arc-en-ciel_64275798.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Capitole illuminé aux couleurs arc-en-ciel ce dimanche 17 mai</div>
-          
-          <p class="cal-card-summary">À l&#39;occasion de la Journée mondiale contre l&#39;homophobie, la transphobie et la biphobie, la façade du Capitole sera illuminée aux couleurs de l&#39;arc-en-ciel dans la soirée du dimanche 17 mai 2026. Cette initiative annuelle de la Ville rose s&#39;inscrit dans une journée dédiée à la sensibilisation et à la prévention des violences liées à l&#39;orientation sexuelle et à l&#39;identité de genre. Le maire Jean-Luc Moudenc a pris la parole sur X pour affirmer que « personne ne devrait avoir à subir la haine » et que « Toulouse doit demeurer un exemple », en citant notamment le travail de la Mission Égalité Diversité et du tissu associatif local. La Marche des Fiertés est également prévue le 6 juin prochain à Toulouse.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-      
-      <div class="cal-today-bar">Aujourd'hui et à venir</div>
-      
-      
-    
-    <div class="cal-day cal-day--today">
-      <div class="cal-date-col">
-        <span class="cal-date-week">lundi</span>
-        <span class="cal-date-num">18</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mardi</span>
-        <span class="cal-date-num">19</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mercredi</span>
-        <span class="cal-date-num">20</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">jeudi</span>
-        <span class="cal-date-num">21</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">22</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai</div>
-          
-          <p class="cal-card-summary">L&#39;Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d&#39;une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d&#39;une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en 2022, vise à démocratiser l&#39;art lyrique en allant à la rencontre des publics dans les écoles, les villages et les espaces publics.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/look-retro-ambiance-annees-80-90-la-boum-geante-de-retour-a-toulouse-pour-une-deuxieme-edition_64200465.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Boum Géante revient à Toulouse pour une deuxième édition</div>
-          
-          <p class="cal-card-summary">La Boum Géante, soirée nostalgique sur le thème des années 80-90, revient à Toulouse le vendredi 22 mai 2026 à l&#39;Esmeralda, salle privatisée au bord du lac de Sesquières. Un DJ set de 22h à 6h du matin enchaînera les tubes de l&#39;époque — Madonna, Nirvana, Spice Girls, Backstreet Boys — dans une ambiance déco immersive avec jeux de lumière, photobooth et vidéaste. Le dress code est fortement encouragé : leggings fluo, chemises en flanelle, casquettes à l&#39;envers… les 100 premiers arrivés en tenue complète repartent avec un cadeau. Les places sont à partir de 15 € en prévente, un « Pack Boomer » à 17 € incluant un t-shirt est également proposé. L&#39;événement est réservé aux majeurs, des contrôles d&#39;identité seront effectués à l&#39;entrée.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">23</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/15/a-narbonne-3-jours-de-voltige-et-lun-des-plus-grands-cerfs-volants-du-monde-pour-la-10e-edition-des-naturailes-13357988.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La 10e édition des Natur&#39;Ailes à Narbonne-Plage en mai 2026</div>
-          
-          <p class="cal-card-summary">Pour son édition anniversaire, le festival de cerfs-volants Natur&#39;Ailes se tiendra à Narbonne-Plage du samedi 23 au lundi 25 mai 2026, lors du long week-end de la Pentecôte. Temps fort de cette 10e édition : la tentative de faire voler l&#39;un des plus grands cerfs-volants au monde, mesurant plus de 100 mètres de long, pour la toute première fois devant le public. Des dizaines de cerfs-volants géants représentant des animaux marins — requins, baleines, pieuvres, raies manta — animeront le front de mer. Les familles pourront également profiter du Toons Park, d&#39;un jardin éolien et musical, de gonflables à l&#39;effigie de super-héros, et d&#39;une course de bol chaque après-midi. L&#39;événement se situe à environ 1h55 de Toulouse, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">24</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/15/a-narbonne-3-jours-de-voltige-et-lun-des-plus-grands-cerfs-volants-du-monde-pour-la-10e-edition-des-naturailes-13357988.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La 10e édition des Natur&#39;Ailes à Narbonne-Plage en mai 2026</div>
-          
-          <p class="cal-card-summary">Pour son édition anniversaire, le festival de cerfs-volants Natur&#39;Ailes se tiendra à Narbonne-Plage du samedi 23 au lundi 25 mai 2026, lors du long week-end de la Pentecôte. Temps fort de cette 10e édition : la tentative de faire voler l&#39;un des plus grands cerfs-volants au monde, mesurant plus de 100 mètres de long, pour la toute première fois devant le public. Des dizaines de cerfs-volants géants représentant des animaux marins — requins, baleines, pieuvres, raies manta — animeront le front de mer. Les familles pourront également profiter du Toons Park, d&#39;un jardin éolien et musical, de gonflables à l&#39;effigie de super-héros, et d&#39;une course de bol chaque après-midi. L&#39;événement se situe à environ 1h55 de Toulouse, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">lundi</span>
-        <span class="cal-date-num">25</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/15/a-narbonne-3-jours-de-voltige-et-lun-des-plus-grands-cerfs-volants-du-monde-pour-la-10e-edition-des-naturailes-13357988.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La 10e édition des Natur&#39;Ailes à Narbonne-Plage en mai 2026</div>
-          
-          <p class="cal-card-summary">Pour son édition anniversaire, le festival de cerfs-volants Natur&#39;Ailes se tiendra à Narbonne-Plage du samedi 23 au lundi 25 mai 2026, lors du long week-end de la Pentecôte. Temps fort de cette 10e édition : la tentative de faire voler l&#39;un des plus grands cerfs-volants au monde, mesurant plus de 100 mètres de long, pour la toute première fois devant le public. Des dizaines de cerfs-volants géants représentant des animaux marins — requins, baleines, pieuvres, raies manta — animeront le front de mer. Les familles pourront également profiter du Toons Park, d&#39;un jardin éolien et musical, de gonflables à l&#39;effigie de super-héros, et d&#39;une course de bol chaque après-midi. L&#39;événement se situe à environ 1h55 de Toulouse, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mardi</span>
-        <span class="cal-date-num">26</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mercredi</span>
-        <span class="cal-date-num">27</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">jeudi</span>
-        <span class="cal-date-num">28</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/sortir-a-toulouse-ce-celebre-club-va-organiser-la-soiree-champagne-de-l-annee-ce-qui-vous-attend_64250524.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">L&#39;Étoile Club organise sa soirée champagne le 28 mai 2026</div>
-          
-          <p class="cal-card-summary">La discothèque L&#39;Étoile, dans le quartier Croix-Daurade à Toulouse, organise le jeudi 28 mai 2026 sa « Soirée Rose », présentée comme « la soirée champagne de l&#39;année ». Il s&#39;agit de la 18e édition de cet événement, organisé en partenariat avec une marque de champagne non précisée. Au programme : dress code, cocktail dînatoire offert sur invitation dès 19h, performances artistiques, stands découverte, DJ set et décoration thématique. La soirée s&#39;ouvre au grand public sur le dancefloor à partir de 21h jusqu&#39;en fin de nuit, selon actu_toulouse. Les noms des artistes et DJs n&#39;ont pas encore été annoncés.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">29</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/11/cet-evenement-mele-festivites-et-engagement-avec-concerts-culture-et-debats-13355353.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Fête de l&#39;Huma 31 revient à Pechbonnieu fin mai 2026</div>
-          
-          <p class="cal-card-summary">La Fête de l&#39;Huma 31 se tiendra les vendredi 29 et samedi 30 mai 2026 à Pechbonnieu, au nord de Toulouse, près du stade municipal. L&#39;événement, ouvert à tous et aux familles, mêle concerts, expositions, débats politiques et rencontres militantes dans un cadre arboré. Un village associatif rassemblera des organisations syndicales, féministes, solidaires et internationalistes, tandis que des espaces de restauration et une buvette animeront le site tout au long du week-end. Le vendredi soir, des rencontres sportives de football et de rugby autour des valeurs de mixité et de solidarité sont également au programme. Selon Toulouscope, la programmation culturelle inclut des expositions sur l&#39;histoire sociale et politique ainsi que des propositions artistiques contemporaines.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">30</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/11/cet-evenement-mele-festivites-et-engagement-avec-concerts-culture-et-debats-13355353.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Fête de l&#39;Huma 31 revient à Pechbonnieu fin mai 2026</div>
-          
-          <p class="cal-card-summary">La Fête de l&#39;Huma 31 se tiendra les vendredi 29 et samedi 30 mai 2026 à Pechbonnieu, au nord de Toulouse, près du stade municipal. L&#39;événement, ouvert à tous et aux familles, mêle concerts, expositions, débats politiques et rencontres militantes dans un cadre arboré. Un village associatif rassemblera des organisations syndicales, féministes, solidaires et internationalistes, tandis que des espaces de restauration et une buvette animeront le site tout au long du week-end. Le vendredi soir, des rencontres sportives de football et de rugby autour des valeurs de mixité et de solidarité sont également au programme. Selon Toulouscope, la programmation culturelle inclut des expositions sur l&#39;histoire sociale et politique ainsi que des propositions artistiques contemporaines.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Soirée électro inédite sur le rooftop de la médiathèque José-Cabanis</div>
-          
-          <p class="cal-card-summary">Le samedi 30 mai 2026, le rooftop de la médiathèque José-Cabanis (espaces Vanel) accueillera pour la première fois une soirée DJ set électro, organisée par BlumHouse et Orbital Station. L&#39;événement, prévu de 19h30 à 2h30, transformera le lieu en club à 360° avec scène centrale, sound system renforcé et show lumières adapté à l&#39;architecture du rooftop. La programmation, entièrement assurée par des artistes locaux, couvrira des genres tels que la Bass, la UK Garage, la UK House, la Drum and Bass et le Hardgroove. Les organisateurs revendiquent une ambiance « boiler room » immersive et s&#39;inscrivent dans une tendance toulousaine d&#39;investir des lieux insolites pour les soirées électro, après notamment une soirée techno au MEETT.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/13/a-narbonne-ce-salon-du-livre-propose-dedicaces-rencontres-et-ateliers-autour-des-romans-bd-et-jeunesse-13354652.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">Salon du livre du Grand Narbonne : 90 auteurs, ateliers et dédicaces gratuites</div>
-          
-          <p class="cal-card-summary">Le Salon du livre du Grand Narbonne tient sa 12ᵉ édition les 30 et 31 mai sur le cours Mirabeau, avec l&#39;entrée et la plupart des animations proposées gratuitement. Plus de 90 auteurs et autrices seront présents pour des dédicaces et des rencontres autour des romans, de la BD et de la littérature jeunesse. Le thème de cette édition tourne autour du dialogue entre actualité et mémoire, avec des axes comme l&#39;héritage, l&#39;exil et l&#39;engagement. Julien Sandrel, parrain du salon et auteur du best-seller « La Chambre des merveilles », proposera une lecture musicale de son nouveau roman ainsi qu&#39;une projection gratuite du film adapté de son œuvre. Parmi les autres temps forts signalés par Toulouscope : une lecture musicale de Léonor de Récondo et des rencontres avec des auteurs comme Olivia Ruiz, Françoise Bourdon ou Céline Denjean.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">31</span>
-        <span class="cal-date-mon">mai</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/13/a-narbonne-ce-salon-du-livre-propose-dedicaces-rencontres-et-ateliers-autour-des-romans-bd-et-jeunesse-13354652.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">Salon du livre du Grand Narbonne : 90 auteurs, ateliers et dédicaces gratuites</div>
-          
-          <p class="cal-card-summary">Le Salon du livre du Grand Narbonne tient sa 12ᵉ édition les 30 et 31 mai sur le cours Mirabeau, avec l&#39;entrée et la plupart des animations proposées gratuitement. Plus de 90 auteurs et autrices seront présents pour des dédicaces et des rencontres autour des romans, de la BD et de la littérature jeunesse. Le thème de cette édition tourne autour du dialogue entre actualité et mémoire, avec des axes comme l&#39;héritage, l&#39;exil et l&#39;engagement. Julien Sandrel, parrain du salon et auteur du best-seller « La Chambre des merveilles », proposera une lecture musicale de son nouveau roman ainsi qu&#39;une projection gratuite du film adapté de son œuvre. Parmi les autres temps forts signalés par Toulouscope : une lecture musicale de Léonor de Récondo et des rencontres avec des auteurs comme Olivia Ruiz, Françoise Bourdon ou Céline Denjean.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">lundi</span>
-        <span class="cal-date-num">1</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mardi</span>
-        <span class="cal-date-num">2</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mercredi</span>
-        <span class="cal-date-num">3</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">jeudi</span>
-        <span class="cal-date-num">4</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php" target="_blank" rel="noopener">
-          <div class="cal-card-title">La Star Academy Tour fait trois dates au Zénith de Toulouse</div>
-          
-          <p class="cal-card-summary">La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s&#39;arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu&#39;en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des chansons phares de l&#39;émission, selon Toulouscope.</p>
-          
-          <span class="cal-card-source">Toulouscope</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">5</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">6</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">7</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">lundi</span>
-        <span class="cal-date-num">8</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mardi</span>
-        <span class="cal-date-num">9</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mercredi</span>
-        <span class="cal-date-num">10</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">jeudi</span>
-        <span class="cal-date-num">11</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">12</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">13</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">14</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">lundi</span>
-        <span class="cal-date-num">15</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mardi</span>
-        <span class="cal-date-num">16</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mercredi</span>
-        <span class="cal-date-num">17</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">jeudi</span>
-        <span class="cal-date-num">18</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion</div>
-          
-          <p class="cal-card-summary">Après deux ans d&#39;absence, le festival de street-art et d&#39;art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l&#39;occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d&#39;Espagne, de Grèce, du Chili et d&#39;autres pays sont annoncés au programme. L&#39;événement se veut accessible à tous — familles, skateurs, amateurs d&#39;art comme néophytes — dans l&#39;esprit underground et festif qui caractérise le festival depuis ses débuts.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">19</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="https://actu.fr/occitanie/toulouse_31555/emploi-un-job-dating-specialement-dedie-a-l-alternance-organise-au-stadium-de-toulouse-comment-y-participer_64210676.html" target="_blank" rel="noopener">
-          <div class="cal-card-title">Job dating dédié à l&#39;alternance au Stadium de Toulouse le 19 juin</div>
-          
-          <p class="cal-card-summary">Le Groupe Alternance Toulouse organise un job dating consacré à l&#39;alternance le vendredi 19 juin 2026 à partir de 14h au Stadium de Toulouse. Plus de 30 entreprises, mêlant grandes enseignes nationales et acteurs locaux, seront présentes pour recruter des alternants de niveau bac à bac+5. L&#39;événement est gratuit et ouvert à tous ; les candidats sont invités à venir munis de leur CV pour passer plusieurs entretiens dans la journée, dans des secteurs comme la vente, le commerce, le management ou l&#39;administratif. Des ateliers sur la recherche d&#39;emploi seront également proposés sur place. L&#39;inscription préalable sur le site de Groupe Alternance Toulouse est recommandée, bien qu&#39;une inscription sur place reste possible.</p>
-          
-          <span class="cal-card-source">Actu Toulouse</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">jeudi</span>
-        <span class="cal-date-num">25</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Les Siestes Électroniques fêtent 25 ans avec 4 jours gratuits à Toulouse</div>
-          
-          <p class="cal-card-summary">Les Siestes Électroniques célèbrent leur 25e anniversaire avec quatre jours de concerts gratuits en plein air au jardin Compans-Caffarelli, du 25 au 28 juin. Nées en 2002, les Siestes se sont construites autour d&#39;un principe fondateur : rendre les musiques expérimentales et « aventureuses » accessibles à tous, sans entrée payante et en plein jour. Le festival revendique un ADN resté intact, mêlant artistes inclassables et univers sonores hybrides dans un esprit d&#39;ouverture et de gratuité. Les Toulousains peuvent y assister librement, le premier rendez-vous étant fixé jeudi 25 juin à partir de 19h.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://redir.ownpage.fr/newsletter/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiMmVmYjQyNmQiLCJ1IjoiOGM1YWFhMGZiMzUxMWYwMmNhNTZmZTc1NzE2NjczYzYiLCJ1cyI6ZmFsc2UsInVyIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0xlQm9uYm9uVG91bG91c2UvP19vcGU9ZXlKbmRXbGtJam9pT0dNMVlXRmhNR1ppTXpVeE1XWXdNbU5oTlRabVpUYzFOekUyTmpjell6WWlmUSUzRCUzRCIsImciOiI0NTY0MTciLCJwIjoiMSJ9" target="_blank" rel="noopener">
-          <div class="cal-card-title">Les Siestes Électroniques fêtent leurs 25 ans à Toulouse en juin</div>
-          
-          <p class="cal-card-summary">Du 25 au 28 juin 2026, le festival des Siestes Électroniques célèbre son 25e anniversaire au jardin Compans-Caffarelli à Toulouse. L&#39;événement, entièrement gratuit, proposera quatre jours de concerts de musiques hybrides, de DJ sets et une programmation familiale en accès libre. Cette édition anniversaire marque un quart de siècle d&#39;existence pour ce rendez-vous estival toulousain dédié aux musiques électroniques. Le festival s&#39;adresse aussi bien aux amateurs de scènes pointues qu&#39;aux familles souhaitant découvrir ces sonorités dans un cadre accessible.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">26</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Les Siestes Électroniques fêtent 25 ans avec 4 jours gratuits à Toulouse</div>
-          
-          <p class="cal-card-summary">Les Siestes Électroniques célèbrent leur 25e anniversaire avec quatre jours de concerts gratuits en plein air au jardin Compans-Caffarelli, du 25 au 28 juin. Nées en 2002, les Siestes se sont construites autour d&#39;un principe fondateur : rendre les musiques expérimentales et « aventureuses » accessibles à tous, sans entrée payante et en plein jour. Le festival revendique un ADN resté intact, mêlant artistes inclassables et univers sonores hybrides dans un esprit d&#39;ouverture et de gratuité. Les Toulousains peuvent y assister librement, le premier rendez-vous étant fixé jeudi 25 juin à partir de 19h.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://redir.ownpage.fr/newsletter/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiMmVmYjQyNmQiLCJ1IjoiOGM1YWFhMGZiMzUxMWYwMmNhNTZmZTc1NzE2NjczYzYiLCJ1cyI6ZmFsc2UsInVyIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0xlQm9uYm9uVG91bG91c2UvP19vcGU9ZXlKbmRXbGtJam9pT0dNMVlXRmhNR1ppTXpVeE1XWXdNbU5oTlRabVpUYzFOekUyTmpjell6WWlmUSUzRCUzRCIsImciOiI0NTY0MTciLCJwIjoiMSJ9" target="_blank" rel="noopener">
-          <div class="cal-card-title">Les Siestes Électroniques fêtent leurs 25 ans à Toulouse en juin</div>
-          
-          <p class="cal-card-summary">Du 25 au 28 juin 2026, le festival des Siestes Électroniques célèbre son 25e anniversaire au jardin Compans-Caffarelli à Toulouse. L&#39;événement, entièrement gratuit, proposera quatre jours de concerts de musiques hybrides, de DJ sets et une programmation familiale en accès libre. Cette édition anniversaire marque un quart de siècle d&#39;existence pour ce rendez-vous estival toulousain dédié aux musiques électroniques. Le festival s&#39;adresse aussi bien aux amateurs de scènes pointues qu&#39;aux familles souhaitant découvrir ces sonorités dans un cadre accessible.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">27</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Les Siestes Électroniques fêtent 25 ans avec 4 jours gratuits à Toulouse</div>
-          
-          <p class="cal-card-summary">Les Siestes Électroniques célèbrent leur 25e anniversaire avec quatre jours de concerts gratuits en plein air au jardin Compans-Caffarelli, du 25 au 28 juin. Nées en 2002, les Siestes se sont construites autour d&#39;un principe fondateur : rendre les musiques expérimentales et « aventureuses » accessibles à tous, sans entrée payante et en plein jour. Le festival revendique un ADN resté intact, mêlant artistes inclassables et univers sonores hybrides dans un esprit d&#39;ouverture et de gratuité. Les Toulousains peuvent y assister librement, le premier rendez-vous étant fixé jeudi 25 juin à partir de 19h.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://redir.ownpage.fr/newsletter/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiMmVmYjQyNmQiLCJ1IjoiOGM1YWFhMGZiMzUxMWYwMmNhNTZmZTc1NzE2NjczYzYiLCJ1cyI6ZmFsc2UsInVyIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0xlQm9uYm9uVG91bG91c2UvP19vcGU9ZXlKbmRXbGtJam9pT0dNMVlXRmhNR1ppTXpVeE1XWXdNbU5oTlRabVpUYzFOekUyTmpjell6WWlmUSUzRCUzRCIsImciOiI0NTY0MTciLCJwIjoiMSJ9" target="_blank" rel="noopener">
-          <div class="cal-card-title">Les Siestes Électroniques fêtent leurs 25 ans à Toulouse en juin</div>
-          
-          <p class="cal-card-summary">Du 25 au 28 juin 2026, le festival des Siestes Électroniques célèbre son 25e anniversaire au jardin Compans-Caffarelli à Toulouse. L&#39;événement, entièrement gratuit, proposera quatre jours de concerts de musiques hybrides, de DJ sets et une programmation familiale en accès libre. Cette édition anniversaire marque un quart de siècle d&#39;existence pour ce rendez-vous estival toulousain dédié aux musiques électroniques. Le festival s&#39;adresse aussi bien aux amateurs de scènes pointues qu&#39;aux familles souhaitant découvrir ces sonorités dans un cadre accessible.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">28</span>
-        <span class="cal-date-mon">juin</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Les Siestes Électroniques fêtent 25 ans avec 4 jours gratuits à Toulouse</div>
-          
-          <p class="cal-card-summary">Les Siestes Électroniques célèbrent leur 25e anniversaire avec quatre jours de concerts gratuits en plein air au jardin Compans-Caffarelli, du 25 au 28 juin. Nées en 2002, les Siestes se sont construites autour d&#39;un principe fondateur : rendre les musiques expérimentales et « aventureuses » accessibles à tous, sans entrée payante et en plein jour. Le festival revendique un ADN resté intact, mêlant artistes inclassables et univers sonores hybrides dans un esprit d&#39;ouverture et de gratuité. Les Toulousains peuvent y assister librement, le premier rendez-vous étant fixé jeudi 25 juin à partir de 19h.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-        <a class="cal-card" href="https://redir.ownpage.fr/newsletter/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiMmVmYjQyNmQiLCJ1IjoiOGM1YWFhMGZiMzUxMWYwMmNhNTZmZTc1NzE2NjczYzYiLCJ1cyI6ZmFsc2UsInVyIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0xlQm9uYm9uVG91bG91c2UvP19vcGU9ZXlKbmRXbGtJam9pT0dNMVlXRmhNR1ppTXpVeE1XWXdNbU5oTlRabVpUYzFOekUyTmpjell6WWlmUSUzRCUzRCIsImciOiI0NTY0MTciLCJwIjoiMSJ9" target="_blank" rel="noopener">
-          <div class="cal-card-title">Les Siestes Électroniques fêtent leurs 25 ans à Toulouse en juin</div>
-          
-          <p class="cal-card-summary">Du 25 au 28 juin 2026, le festival des Siestes Électroniques célèbre son 25e anniversaire au jardin Compans-Caffarelli à Toulouse. L&#39;événement, entièrement gratuit, proposera quatre jours de concerts de musiques hybrides, de DJ sets et une programmation familiale en accès libre. Cette édition anniversaire marque un quart de siècle d&#39;existence pour ce rendez-vous estival toulousain dédié aux musiques électroniques. Le festival s&#39;adresse aussi bien aux amateurs de scènes pointues qu&#39;aux familles souhaitant découvrir ces sonorités dans un cadre accessible.</p>
-          
-          <span class="cal-card-source">Newsletter</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">3</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Arts&#39; Scénics à Lisle-sur-Tarn affiche une programmation complète pour juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 3 au 5 juillet 2026, la bastide de Lisle-sur-Tarn, à une trentaine de minutes de Toulouse, accueille une nouvelle édition du festival Arts&#39; Scénics. La programmation, désormais complète, mêle rock, rap, reggae et musiques hybrides sur trois jours et trois soirées distinctes. Le vendredi est marqué par Skip The Use, L&#39;Entourloop et Hilight Tribe ; le samedi par Alpha Blondy, Youssoupha et Souad Massi ; le dimanche par Keny Arkana et le duo toulousain Mouss &amp; Hakim. Selon Toulouscope, l&#39;événement se distingue par une affiche particulièrement solide pour un festival de cette taille.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">4</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Arts&#39; Scénics à Lisle-sur-Tarn affiche une programmation complète pour juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 3 au 5 juillet 2026, la bastide de Lisle-sur-Tarn, à une trentaine de minutes de Toulouse, accueille une nouvelle édition du festival Arts&#39; Scénics. La programmation, désormais complète, mêle rock, rap, reggae et musiques hybrides sur trois jours et trois soirées distinctes. Le vendredi est marqué par Skip The Use, L&#39;Entourloop et Hilight Tribe ; le samedi par Alpha Blondy, Youssoupha et Souad Massi ; le dimanche par Keny Arkana et le duo toulousain Mouss &amp; Hakim. Selon Toulouscope, l&#39;événement se distingue par une affiche particulièrement solide pour un festival de cette taille.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">5</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Arts&#39; Scénics à Lisle-sur-Tarn affiche une programmation complète pour juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 3 au 5 juillet 2026, la bastide de Lisle-sur-Tarn, à une trentaine de minutes de Toulouse, accueille une nouvelle édition du festival Arts&#39; Scénics. La programmation, désormais complète, mêle rock, rap, reggae et musiques hybrides sur trois jours et trois soirées distinctes. Le vendredi est marqué par Skip The Use, L&#39;Entourloop et Hilight Tribe ; le samedi par Alpha Blondy, Youssoupha et Souad Massi ; le dimanche par Keny Arkana et le duo toulousain Mouss &amp; Hakim. Selon Toulouscope, l&#39;événement se distingue par une affiche particulièrement solide pour un festival de cette taille.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">mercredi</span>
-        <span class="cal-date-num">8</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&#39;une deux-centaine de personnes, l&#39;événement accueille aujourd&#39;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a commencé, et sera confiée aux premiers bénévoles et équipes techniques du festival. Selon le chargé de communication Simon Portes, l&#39;objectif est de célébrer et remercier bénévoles, partenaires et festivaliers, tout en conservant l&#39;esprit originel de partage musical.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">jeudi</span>
-        <span class="cal-date-num">9</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&#39;une deux-centaine de personnes, l&#39;événement accueille aujourd&#39;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a commencé, et sera confiée aux premiers bénévoles et équipes techniques du festival. Selon le chargé de communication Simon Portes, l&#39;objectif est de célébrer et remercier bénévoles, partenaires et festivaliers, tout en conservant l&#39;esprit originel de partage musical.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">vendredi</span>
-        <span class="cal-date-num">10</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&#39;une deux-centaine de personnes, l&#39;événement accueille aujourd&#39;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a commencé, et sera confiée aux premiers bénévoles et équipes techniques du festival. Selon le chargé de communication Simon Portes, l&#39;objectif est de célébrer et remercier bénévoles, partenaires et festivaliers, tout en conservant l&#39;esprit originel de partage musical.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">samedi</span>
-        <span class="cal-date-num">11</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&#39;une deux-centaine de personnes, l&#39;événement accueille aujourd&#39;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a commencé, et sera confiée aux premiers bénévoles et équipes techniques du festival. Selon le chargé de communication Simon Portes, l&#39;objectif est de célébrer et remercier bénévoles, partenaires et festivaliers, tout en conservant l&#39;esprit originel de partage musical.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">dimanche</span>
-        <span class="cal-date-num">12</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&#39;une deux-centaine de personnes, l&#39;événement accueille aujourd&#39;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a commencé, et sera confiée aux premiers bénévoles et équipes techniques du festival. Selon le chargé de communication Simon Portes, l&#39;objectif est de célébrer et remercier bénévoles, partenaires et festivaliers, tout en conservant l&#39;esprit originel de partage musical.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-    
-    <div class="cal-day ">
-      <div class="cal-date-col">
-        <span class="cal-date-week">lundi</span>
-        <span class="cal-date-num">13</span>
-        <span class="cal-date-mon">juillet</span>
-      </div>
-      <div class="cal-events-col">
-        
-        <a class="cal-card" href="None" target="_blank" rel="noopener">
-          <div class="cal-card-title">Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</div>
-          
-          <p class="cal-card-summary">Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&#39;une deux-centaine de personnes, l&#39;événement accueille aujourd&#39;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a commencé, et sera confiée aux premiers bénévoles et équipes techniques du festival. Selon le chargé de communication Simon Portes, l&#39;objectif est de célébrer et remercier bénévoles, partenaires et festivaliers, tout en conservant l&#39;esprit originel de partage musical.</p>
-          
-          <span class="cal-card-source">Source</span>
-        </a>
-        
-      </div>
-    </div>
-  
-</div>
+<div id="cal-full" class="calw "></div>
+<script>
+(function () {
+  var EVENTS   = [{"event_start": "2025-05-13", "event_end": null, "title": "Le Festival de Cannes retransmis en direct dans trois cinémas Véo", "event_name": "Le Festival de Cannes retransmis en direct dans trois cinémas Véo", "summary": "Le mardi 13 mai, les cinémas Véo de l'agglomération toulousaine — La Cartoucherie, Colomiers et Muret — proposent une soirée spéciale autour de l'ouverture du Festival de Cannes. Le public pourra suivre en direct sur grand écran la montée des marches et la cérémonie d'ouverture, animée par Eye Haïdara. La soirée se prolonge avec l'avant-première mondiale de La Vénus électrique, nouvelle comédie romantique de Pierre Salvadori avec Pio Marmaï, Anaïs Demoustier et Gilles Lellouche, film…", "url": "", "source_label": "Source"}, {"event_start": "2026-05-08", "event_end": null, "title": "DJ set et collection capsule pour fêter une collab à Saint-Cyprien", "event_name": "DJ set et collection capsule pour fêter une collab à Saint-Cyprien", "summary": "Ce vendredi 8 mai à partir de 19h, deux commerçants du quartier Saint-Cyprien s'associent le temps d'une soirée au 13 rue Reclusane. Mer.fils, artisan textile des Allées Charles de Fitte, y dévoile une collection capsule de t-shirts et bracelets inspirés des produits du primeur Le Jardin des Copains, place de l'Estrapade. Quatre modèles de t-shirts à l'effigie de fruits et légumes de saison (pamplemousse, artichaut, fraise, fruit de la passion) sont proposés en série limitée, à 35 euros l'unité…", "url": "", "source_label": "Source"}, {"event_start": "2026-05-09", "event_end": "2026-05-30", "title": "Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai", "event_name": "Le Bus Figaro reprend la route en Occitanie du 9 au 30 mai", "summary": "L'Opéra national du Capitole lance la troisième édition de son spectacle itinérant Le Bus Figaro, du 9 au 30 mai, à travers la région Occitanie. Ce format « opéra de poche » d'une heure, entièrement en français, propose une adaptation vivante du Barbier de Séville de Rossini, avec quiproquos, déguisements et intrigues amoureuses. La scénographie mobile, articulée autour d'une chaise à porteurs du XVIIIe siècle se transformant en mini-bus, joue le rôle de décor itinérant. Le projet, lancé en…", "url": "", "source_label": "Source"}, {"event_start": "2026-05-13", "event_end": "2026-05-16", "title": "Echos & Merveilles revient à Bruguières pour sa 8e édition en mai 2026", "event_name": "Echos & Merveilles revient à Bruguières pour sa 8e édition en mai 2026", "summary": "Du 13 au 16 mai 2026, le festival Echos & Merveilles investit le Parc du Bascala à Bruguières, au nord de Toulouse, pour sa 8e édition intitulée « Le Roi Mundis ». Né en 2016 à l'initiative d'un collectif de musiciens toulousains, l'événement est consacré à l'univers de la Fantasy — musiques folk, celtiques et médiévales, mythes arthuriens, légendes nordiques — et se revendique unique en Europe par sa thématique. Il rassemble chaque année plusieurs dizaines de milliers de visiteurs, artisans…", "url": "https://actu.fr/occitanie/toulouse_31555/pres-de-toulouse-ce-festival-unique-en-europe-debarque-pendant-quatre-jours-voici-le-programme_64241089.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-05-13", "event_end": null, "title": "Une sculpture passée par Malraux mise aux enchères à Toulouse", "event_name": "Une sculpture passée par Malraux mise aux enchères à Toulouse", "summary": "La maison de ventes toulousaine Primardeco organise une vente aux enchères le mercredi 13 mai 2026 à 14h, proposant 165 lots issus de collections privées. Parmi les pièces phares figure une petite sculpture féminine en pierre volcanique du Massif central, attribuée à Antoine Rabany dit « Le Zouave », un paysan-soldat auvergnat du XIXe siècle. L'œuvre, conservée dans une collection privée depuis les années 1950, aurait été examinée par André Malraux puis par le musée Barbier-Mueller à Genève…", "url": "https://actu.fr/occitanie/toulouse_31555/une-sculpture-passee-entre-les-mains-d-andre-malraux-est-mise-aux-encheres-a-toulouse-pour-plusieurs-milliers-d-euros_64232950.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-05-13", "event_end": "2026-05-17", "title": "Long week-end de l'Ascension : sorties et événements à Toulouse", "event_name": "Long week-end de l'Ascension : sorties et événements à Toulouse", "summary": "Le long week-end de l'Ascension (13-17 mai) s'annonce chargé à Toulouse et ses alentours, avec une palette variée d'événements pour tous les goûts. Bigflo et Oli retrouvent leur public toulousain les 14 et 15 mai au Zénith pour leur Karma Tour, avec des premières parties assurées par Beesau et Danyl, à partir de 45 euros. Le festival Echos et Merveilles revient pour sa 8e édition au site du Buscala à Bruguières (13-17 mai), proposant concerts, marché artisanal et animations familiales dans un…", "url": "http://cdt31.tourinsoft.com/view.ashx?email=b80f7177-9ffd-4310-a112-e658177365a1&utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Newsletter"}, {"event_start": "2026-05-14", "event_end": "2026-05-17", "title": "Vide-greniers et brocantes à Toulouse pour le week-end de l'Ascension", "event_name": "Vide-greniers et brocantes à Toulouse pour le week-end de l'Ascension", "summary": "Le long week-end de l'Ascension (14-17 mai) est l'occasion de chiner à Toulouse et dans ses environs, avec de nombreux vide-greniers et brocantes au programme. Dès le jeudi 14 mai, des événements sont prévus au Fauga, à Launac et à Grisolles. Le samedi, la brocante de l'église Saint-Aubin et un forum des antiquaires avenue des États-Unis ouvrent leurs portes. Le dimanche 17 mai est particulièrement chargé, avec des vide-greniers à Sesquières, Labège, Fenouillet (plus de 200 exposants) et…", "url": "https://actu.fr/occitanie/toulouse_31555/vide-greniers-brocantes-decouvrez-les-lieux-ou-chiner-a-toulouse-pour-ce-long-week-end-de-l-ascension_64260591.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-05-14", "event_end": "2026-05-16", "title": "« Commerces en fête » : 250 commerçants animés ce week-end de l'Ascension", "event_name": "« Commerces en fête » : 250 commerçants animés ce week-end de l'Ascension", "summary": "La troisième édition de « Commerces en fête », organisée par la CCI de Toulouse en partenariat avec la Mairie et Toulouse Métropole, se déroule du jeudi 14 au samedi 16 mai 2026 dans le centre-ville. Quelque 250 commerçants participent cette année — dont Les Galeries Lafayette, Bonobo ou Chez Zel —, un chiffre en hausse à chaque édition selon la CCI. Rue Alsace-Lorraine, deux scènes accueilleront l'Orchestre de chambre de Toulouse et le batteur de Cats on Trees, avec cinq passages quotidiens…", "url": "https://actu.fr/occitanie/toulouse_31555/toulouse-est-en-fete-pour-ce-week-end-de-l-ascension-250-commercants-participent-a-l-evenement-ce-qu-il-faut-savoir_64234118.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-05-14", "event_end": "2026-05-15", "title": "Sélection de sorties culturelles à Toulouse ce week-end", "event_name": "Sélection de sorties culturelles à Toulouse ce week-end", "summary": "Le magazine culturel Clutch propose sa sélection de bons plans pour le week-end du 14 au 15 mai. En tête d'affiche, le festival Échos & Merveilles se tient du 13 au 17 mai entre le Parc de Bruguières et la salle du Bascala : cinq jours dédiés aux cultures de l'imaginaire et de la fantasy, avec 40 concerts, 150 artisans, 100 auteurs et illustrateurs, et des animations familiales — tarifs de gratuit à 49,80 €, avec navettes gratuites et camping sur place. Le vendredi soir, plusieurs concerts sont…", "url": "https://swst0.mjt.lu/nl3/TlYDAC7IXiA7KAGdBzqDiA?m=AWMAAJg3tZgAAc60iVYAA810g9oAAYDOisoAnYwaACUggABqBZ6v5d7NVGm7T5a47EW40UlfOQAitIA&amp%3Bb=fa425b14&amp%3Be=c71119c9&amp%3Bx=w549wTzDQpQvWTH-Pq2RMk5n_BqWBfAJsNlz7LpapyI&utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Newsletter"}, {"event_start": "2026-05-15", "event_end": null, "title": "Portes ouvertes aux Thermes de Luchon le 15 mai", "event_name": "Portes ouvertes aux Thermes de Luchon le 15 mai", "summary": "Les Thermes de Luchon ouvrent leurs portes au public le vendredi 15 mai 2026, de 14h à 18h, pour une après-midi de découverte gratuite et commentée. Les visiteurs pourront parcourir les espaces habituellement réservés aux curistes et suivre les différentes étapes d'une cure thermale, des bains aux applications de boue en passant par les soins par vapeur. L'établissement se distingue par ses eaux sulfurées parmi les plus riches en soufre de France, ainsi que par un vaporarium naturel aménagé…", "url": "", "source_label": "Source"}, {"event_start": "2026-05-15", "event_end": "2026-05-16", "title": "Le festival électro Plein Phare revient à l'observatoire de Pech David", "event_name": "Le festival électro Plein Phare revient à l'observatoire de Pech David", "summary": "Le Festival Plein Phare se tiendra les 15 et 16 mai 2026 à l'observatoire de Pech David, l'un des sites en plein air les plus appréciés de Toulouse. Sur 6 000 m², plus de 65 artistes se produiront pendant plus de 50 heures de musique, avec des after-parties en sus. L'édition se distingue par une scène à 360° dotée d'un son quadriphonique, plaçant le public au cœur du dispositif sonore — une configuration rare dans le paysage festivalier local. Un chapiteau de 1 000 m² fait également office de…", "url": "https://actu.fr/occitanie/toulouse_31555/50-heures-de-musique-65-artistes-ce-gigantesque-festival-electro-revient-dans-le-plus-beau-spot-de-toulouse_64239142.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-05-16", "event_end": "2026-05-17", "title": "Championnat de France Élite de motocross à Gaillac-Toulza en mai 2026", "event_name": "Championnat de France Élite de motocross à Gaillac-Toulza en mai 2026", "summary": "Les 16 et 17 mai 2026, le circuit Jean-Pierre Goudol de Gaillac-Toulza accueillera une étape du 24MX Tour, comptant pour le Championnat de France Élite de motocross. Quatre catégories seront au programme : Espoir (85 cm³), Juniors (125 cm³), MX2 (250 cm³) et MX1 (450 cm³), ces deux dernières constituant les épreuves phares du week-end. Situé à moins d'une heure de Toulouse, ce circuit est réputé pour son relief et la qualité de sa piste, offrant une bonne visibilité aux spectateurs. L'édition…", "url": "", "source_label": "Source"}, {"event_start": "2026-05-17", "event_end": null, "title": "Le Capitole illuminé aux couleurs arc-en-ciel ce dimanche 17 mai", "event_name": "Le Capitole illuminé aux couleurs arc-en-ciel ce dimanche 17 mai", "summary": "À l'occasion de la Journée mondiale contre l'homophobie, la transphobie et la biphobie, la façade du Capitole sera illuminée aux couleurs de l'arc-en-ciel dans la soirée du dimanche 17 mai 2026. Cette initiative annuelle de la Ville rose s'inscrit dans une journée dédiée à la sensibilisation et à la prévention des violences liées à l'orientation sexuelle et à l'identité de genre. Le maire Jean-Luc Moudenc a pris la parole sur X pour affirmer que « personne ne devrait avoir à subir la haine » et…", "url": "https://actu.fr/occitanie/toulouse_31555/un-spectacle-a-ne-pas-manquer-a-toulouse-ce-dimanche-le-capitole-va-s-illuminer-aux-couleurs-de-l-arc-en-ciel_64275798.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-05-22", "event_end": "2026-06-14", "title": "La Star Academy Tour fait trois dates au Zénith de Toulouse", "event_name": "La Star Academy Tour fait trois dates au Zénith de Toulouse", "summary": "La promotion 2025 de la Star Academy, emmenée par la gagnante Ambre et huit autres académicien·ne·s, s'arrête à Toulouse dans le cadre de sa tournée nationale. Trois représentations sont programmées au Zénith : le vendredi 22 mai 2026 à 20h, puis le dimanche 14 juin à 15h et à 20h. Ce dernier rendez-vous du 14 juin correspond à la clôture de la tournée française avant une extension en Belgique et en Suisse jusqu'en juillet. Le spectacle promet acrobaties, chorégraphies soignées et reprises des…", "url": "https://www.toulouscope.fr/2026/05/16/la-star-academy-sarrete-a-toulouse-2-dates-de-show-avec-choregraphies-et-reprises-des-meilleures-chansons-13358044.php?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Toulouscope"}, {"event_start": "2026-05-22", "event_end": null, "title": "La Boum Géante revient à Toulouse pour une deuxième édition", "event_name": "La Boum Géante revient à Toulouse pour une deuxième édition", "summary": "La Boum Géante, soirée nostalgique sur le thème des années 80-90, revient à Toulouse le vendredi 22 mai 2026 à l'Esmeralda, salle privatisée au bord du lac de Sesquières. Un DJ set de 22h à 6h du matin enchaînera les tubes de l'époque — Madonna, Nirvana, Spice Girls, Backstreet Boys — dans une ambiance déco immersive avec jeux de lumière, photobooth et vidéaste. Le dress code est fortement encouragé : leggings fluo, chemises en flanelle, casquettes à l'envers… les 100 premiers arrivés en tenue…", "url": "https://actu.fr/occitanie/toulouse_31555/look-retro-ambiance-annees-80-90-la-boum-geante-de-retour-a-toulouse-pour-une-deuxieme-edition_64200465.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-05-23", "event_end": "2026-05-25", "title": "La 10e édition des Natur'Ailes à Narbonne-Plage en mai 2026", "event_name": "La 10e édition des Natur'Ailes à Narbonne-Plage en mai 2026", "summary": "Pour son édition anniversaire, le festival de cerfs-volants Natur'Ailes se tiendra à Narbonne-Plage du samedi 23 au lundi 25 mai 2026, lors du long week-end de la Pentecôte. Temps fort de cette 10e édition : la tentative de faire voler l'un des plus grands cerfs-volants au monde, mesurant plus de 100 mètres de long, pour la toute première fois devant le public. Des dizaines de cerfs-volants géants représentant des animaux marins — requins, baleines, pieuvres, raies manta — animeront le front de…", "url": "https://www.toulouscope.fr/2026/05/15/a-narbonne-3-jours-de-voltige-et-lun-des-plus-grands-cerfs-volants-du-monde-pour-la-10e-edition-des-naturailes-13357988.php?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Toulouscope"}, {"event_start": "2026-05-28", "event_end": null, "title": "L'Étoile Club organise sa soirée champagne le 28 mai 2026", "event_name": "L'Étoile Club organise sa soirée champagne le 28 mai 2026", "summary": "La discothèque L'Étoile, dans le quartier Croix-Daurade à Toulouse, organise le jeudi 28 mai 2026 sa « Soirée Rose », présentée comme « la soirée champagne de l'année ». Il s'agit de la 18e édition de cet événement, organisé en partenariat avec une marque de champagne non précisée. Au programme : dress code, cocktail dînatoire offert sur invitation dès 19h, performances artistiques, stands découverte, DJ set et décoration thématique. La soirée s'ouvre au grand public sur le dancefloor à partir…", "url": "https://actu.fr/occitanie/toulouse_31555/sortir-a-toulouse-ce-celebre-club-va-organiser-la-soiree-champagne-de-l-annee-ce-qui-vous-attend_64250524.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-05-29", "event_end": "2026-05-30", "title": "La Fête de l'Huma 31 revient à Pechbonnieu fin mai 2026", "event_name": "La Fête de l'Huma 31 revient à Pechbonnieu fin mai 2026", "summary": "La Fête de l'Huma 31 se tiendra les vendredi 29 et samedi 30 mai 2026 à Pechbonnieu, au nord de Toulouse, près du stade municipal. L'événement, ouvert à tous et aux familles, mêle concerts, expositions, débats politiques et rencontres militantes dans un cadre arboré. Un village associatif rassemblera des organisations syndicales, féministes, solidaires et internationalistes, tandis que des espaces de restauration et une buvette animeront le site tout au long du week-end. Le vendredi soir, des…", "url": "https://www.toulouscope.fr/2026/05/11/cet-evenement-mele-festivites-et-engagement-avec-concerts-culture-et-debats-13355353.php?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Toulouscope"}, {"event_start": "2026-05-30", "event_end": "2026-05-30", "title": "Soirée électro inédite sur le rooftop de la médiathèque José-Cabanis", "event_name": "Soirée électro inédite sur le rooftop de la médiathèque José-Cabanis", "summary": "Le samedi 30 mai 2026, le rooftop de la médiathèque José-Cabanis (espaces Vanel) accueillera pour la première fois une soirée DJ set électro, organisée par BlumHouse et Orbital Station. L'événement, prévu de 19h30 à 2h30, transformera le lieu en club à 360° avec scène centrale, sound system renforcé et show lumières adapté à l'architecture du rooftop. La programmation, entièrement assurée par des artistes locaux, couvrira des genres tels que la Bass, la UK Garage, la UK House, la Drum and Bass…", "url": "", "source_label": "Source"}, {"event_start": "2026-05-30", "event_end": "2026-05-31", "title": "Salon du livre du Grand Narbonne : 90 auteurs, ateliers et dédicaces gratuites", "event_name": "Salon du livre du Grand Narbonne : 90 auteurs, ateliers et dédicaces gratuites", "summary": "Le Salon du livre du Grand Narbonne tient sa 12ᵉ édition les 30 et 31 mai sur le cours Mirabeau, avec l'entrée et la plupart des animations proposées gratuitement. Plus de 90 auteurs et autrices seront présents pour des dédicaces et des rencontres autour des romans, de la BD et de la littérature jeunesse. Le thème de cette édition tourne autour du dialogue entre actualité et mémoire, avec des axes comme l'héritage, l'exil et l'engagement. Julien Sandrel, parrain du salon et auteur du…", "url": "https://www.toulouscope.fr/2026/05/13/a-narbonne-ce-salon-du-livre-propose-dedicaces-rencontres-et-ateliers-autour-des-romans-bd-et-jeunesse-13354652.php?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Toulouscope"}, {"event_start": "2026-06-05", "event_end": "2026-07-26", "title": "Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion", "event_name": "Le festival Mister Freeze revient à Toulouse à la caserne Jacques Vion", "summary": "Après deux ans d'absence, le festival de street-art et d'art contemporain Mister Freeze fait son retour à Toulouse du 5 juin au 26 juillet 2026, selon Toulouscope. Il investit cette fois la caserne Jacques Vion, allée Charles-de-Fitte, un bâtiment patrimonial protégé de 10 000 m² récemment rénové, transformé pour l'occasion en grand atelier éphémère. Plus de 40 artistes venant de France, d'Espagne, de Grèce, du Chili et d'autres pays sont annoncés au programme. L'événement se veut accessible à…", "url": "", "source_label": "Source"}, {"event_start": "2026-06-19", "event_end": null, "title": "Job dating dédié à l'alternance au Stadium de Toulouse le 19 juin", "event_name": "Job dating dédié à l'alternance au Stadium de Toulouse le 19 juin", "summary": "Le Groupe Alternance Toulouse organise un job dating consacré à l'alternance le vendredi 19 juin 2026 à partir de 14h au Stadium de Toulouse. Plus de 30 entreprises, mêlant grandes enseignes nationales et acteurs locaux, seront présentes pour recruter des alternants de niveau bac à bac+5. L'événement est gratuit et ouvert à tous ; les candidats sont invités à venir munis de leur CV pour passer plusieurs entretiens dans la journée, dans des secteurs comme la vente, le commerce, le management ou…", "url": "https://actu.fr/occitanie/toulouse_31555/emploi-un-job-dating-specialement-dedie-a-l-alternance-organise-au-stadium-de-toulouse-comment-y-participer_64210676.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}, {"event_start": "2026-06-25", "event_end": "2026-06-28", "title": "Les Siestes Électroniques fêtent 25 ans avec 4 jours gratuits à Toulouse", "event_name": "Les Siestes Électroniques fêtent 25 ans avec 4 jours gratuits à Toulouse", "summary": "Les Siestes Électroniques célèbrent leur 25e anniversaire avec quatre jours de concerts gratuits en plein air au jardin Compans-Caffarelli, du 25 au 28 juin. Nées en 2002, les Siestes se sont construites autour d'un principe fondateur : rendre les musiques expérimentales et « aventureuses » accessibles à tous, sans entrée payante et en plein jour. Le festival revendique un ADN resté intact, mêlant artistes inclassables et univers sonores hybrides dans un esprit d'ouverture et de gratuité. Les…", "url": "", "source_label": "Source"}, {"event_start": "2026-06-25", "event_end": "2026-06-28", "title": "Les Siestes Électroniques fêtent leurs 25 ans à Toulouse en juin", "event_name": "Les Siestes Électroniques fêtent leurs 25 ans à Toulouse en juin", "summary": "Du 25 au 28 juin 2026, le festival des Siestes Électroniques célèbre son 25e anniversaire au jardin Compans-Caffarelli à Toulouse. L'événement, entièrement gratuit, proposera quatre jours de concerts de musiques hybrides, de DJ sets et une programmation familiale en accès libre. Cette édition anniversaire marque un quart de siècle d'existence pour ce rendez-vous estival toulousain dédié aux musiques électroniques. Le festival s'adresse aussi bien aux amateurs de scènes pointues qu'aux familles…", "url": "https://redir.ownpage.fr/newsletter/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiMmVmYjQyNmQiLCJ1IjoiOGM1YWFhMGZiMzUxMWYwMmNhNTZmZTc1NzE2NjczYzYiLCJ1cyI6ZmFsc2UsInVyIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0xlQm9uYm9uVG91bG91c2UvP19vcGU9ZXlKbmRXbGtJam9pT0dNMVlXRmhNR1ppTXpVeE1XWXdNbU5oTlRabVpUYzFOekUyTmpjell6WWlmUSUzRCUzRCIsImciOiI0NTY0MTciLCJwIjoiMSJ9?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Newsletter"}, {"event_start": "2026-07-03", "event_end": "2026-07-05", "title": "Le festival Arts' Scénics à Lisle-sur-Tarn affiche une programmation complète pour juillet 2026", "event_name": "Le festival Arts' Scénics à Lisle-sur-Tarn affiche une programmation complète pour juillet 2026", "summary": "Du 3 au 5 juillet 2026, la bastide de Lisle-sur-Tarn, à une trentaine de minutes de Toulouse, accueille une nouvelle édition du festival Arts' Scénics. La programmation, désormais complète, mêle rock, rap, reggae et musiques hybrides sur trois jours et trois soirées distinctes. Le vendredi est marqué par Skip The Use, L'Entourloop et Hilight Tribe ; le samedi par Alpha Blondy, Youssoupha et Souad Massi ; le dimanche par Keny Arkana et le duo toulousain Mouss & Hakim. Selon Toulouscope…", "url": "", "source_label": "Source"}, {"event_start": "2026-07-08", "event_end": "2026-07-13", "title": "Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026", "event_name": "Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026", "summary": "Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d'une deux-centaine de personnes, l'événement accueille aujourd'hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a…", "url": "", "source_label": "Source"}, {"event_start": "2026-08-27", "event_end": "2026-08-28", "title": "Le Rose Festival 2026 dévoile onze nouveaux artistes pour ses 5 ans", "event_name": "Le Rose Festival 2026 dévoile onze nouveaux artistes pour ses 5 ans", "summary": "Le Rose Festival, organisé par Big Flo et Oli, vient d'annoncer onze nouveaux noms pour son édition 2026, qui célébrera les cinq ans de l'événement. Le jeudi 27 août, Macklemore, Charlotte Cardin et Ino Casablanca seront rejoints par Naïka (chanteuse franco-haïtienne), Mosimann (électro), Novah (hard techno), Miki et Franglish. Le vendredi 28 août, Aya Nakamura et Kungs seront précédés du trio rap L2B, de Vladimir Cauchemar et de Marguerite, récente candidate de la Star Academy. Ces annonces…", "url": "", "source_label": "Source"}, {"event_start": "2026-11-14", "event_end": "2026-11-15", "title": "Bigflo et Oli annoncent deux nouveaux concerts au Zénith de Toulouse", "event_name": "Bigflo et Oli annoncent deux nouveaux concerts au Zénith de Toulouse", "summary": "Après une série de cinq concerts au Zénith de Toulouse ce printemps, Bigflo et Oli ont annoncé dimanche 17 mai 2026 deux nouvelles dates dans la même salle : les 14 et 15 novembre 2026. L'annonce a été faite en direct à la fin de leur cinquième représentation, selon actu_toulouse. Avec sept concerts au Zénith au total, les deux frères toulousains établissent un record personnel dans cette salle. La billetterie a ouvert le lundi 18 mai 2026 à midi.", "url": "https://actu.fr/occitanie/toulouse_31555/bigflo-et-oli-programment-deux-nouveaux-concerts-au-zenith-de-toulouse-voici-les-dates-la-billetterie-est-ouverte_64278782.html?utm_source=lavillerose.com&utm_medium=referral&utm_campaign=toulouse-news", "source_label": "Actu Toulouse"}];
+  var el       = document.getElementById("cal-full");
+  var compact  = false;
+  var MAX_CHIPS = compact ? 2 : 3;
+  if (!el) return;
+
+  var today     = new Date();
+  var curYear   = today.getFullYear();
+  var curMonth  = today.getMonth();
+  var selDate   = null;
+
+  var MONTHS   = ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'];
+  var DOWS     = ['L','M','M','J','V','S','D'];
+  var MONTHS_FR = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+  var WDAYS_FR  = ['lundi','mardi','mercredi','jeudi','vendredi','samedi','dimanche'];
+
+  function pad(n) { return String(n).padStart(2,'0'); }
+  function ds(y,m,d){ return y+'-'+pad(m+1)+'-'+pad(d); }
+  function todayStr(){ return ds(today.getFullYear(),today.getMonth(),today.getDate()); }
+
+  function eventsOn(date) {
+    return EVENTS.filter(function(ev) {
+      var end = ev.event_end || ev.event_start;
+      return date >= ev.event_start && date <= end;
+    });
+  }
+
+  function frLabel(dateStr) {
+    var d   = new Date(dateStr + 'T12:00:00');
+    var dow = (d.getDay() + 6) % 7;
+    return WDAYS_FR[dow] + ' ' + d.getDate() + ' ' + MONTHS_FR[d.getMonth()] + ' ' + d.getFullYear();
+  }
+
+  function esc(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+  }
+
+  function truncate(s, n) { return s.length > n ? s.slice(0, n-1) + '…' : s; }
+
+  function renderPanel(dateStr) {
+    var evs = eventsOn(dateStr);
+    if (!evs.length) return '';
+    var html = '<div class="calw-panel"><div class="calw-panel-title">' + frLabel(dateStr) + '</div>';
+    evs.forEach(function(ev) {
+      html += '<a class="calw-ev-card" href="' + esc(ev.url) + '" target="_blank" rel="noopener">'
+            + '<div class="calw-ev-title">' + esc(ev.title) + '</div>';
+      if (!compact && ev.summary) html += '<p class="calw-ev-summary">' + esc(ev.summary) + '</p>';
+      html += '<span class="calw-ev-source">' + esc(ev.source_label) + '</span></a>';
+    });
+    return html + '</div>';
+  }
+
+  function render() {
+    var ts        = todayStr();
+    var firstDow  = (new Date(curYear, curMonth, 1).getDay() + 6) % 7;
+    var daysInMo  = new Date(curYear, curMonth + 1, 0).getDate();
+
+    var html = '<div class="calw-header">'
+      + '<button class="calw-btn calw-prev">&#8249;</button>'
+      + '<span class="calw-month-label">' + MONTHS[curMonth] + ' ' + curYear + '</span>'
+      + '<button class="calw-btn calw-next">&#8250;</button>'
+      + '</div>'
+      + '<div class="calw-grid">';
+
+    DOWS.forEach(function(d) { html += '<div class="calw-dow">' + d + '</div>'; });
+    for (var i = 0; i < firstDow; i++) html += '<div class="calw-cell calw-empty"></div>';
+
+    for (var day = 1; day <= daysInMo; day++) {
+      var date = ds(curYear, curMonth, day);
+      var evs  = eventsOn(date);
+      var cls  = 'calw-cell';
+      if (date === ts)      cls += ' calw-today';
+      else if (date < ts)   cls += ' calw-past';
+      if (date === selDate) cls += ' calw-sel';
+      if (evs.length)       cls += ' calw-has-ev';
+
+      var chipLen = compact ? 12 : 20;
+      var shown   = evs.slice(0, MAX_CHIPS);
+      var extra   = evs.length - MAX_CHIPS;
+
+      html += '<div class="' + cls + '" data-date="' + date + '">'
+            + '<span class="calw-dn">' + day + '</span>';
+
+      shown.forEach(function(ev) {
+        var label = truncate(ev.event_name || ev.title, chipLen);
+        if (compact) {
+          html += '<a class="calw-chip" href="/calendar.html#' + date + '">' + esc(label) + '</a>';
+        } else {
+          html += '<a class="calw-chip" href="' + esc(ev.url) + '" target="_blank" rel="noopener">' + esc(label) + '</a>';
+        }
+      });
+
+      if (extra > 0) {
+        html += '<span class="calw-more" data-date="' + date + '">+' + extra + ' autre' + (extra > 1 ? 's' : '') + '</span>';
+      }
+
+      html += '</div>';
+    }
+    html += '</div>';
+
+    if (!compact && selDate) html += renderPanel(selDate);
+
+    el.innerHTML = html;
+
+    el.querySelector('.calw-prev').onclick = function() {
+      curMonth--; if (curMonth < 0) { curMonth = 11; curYear--; } selDate = null; render();
+    };
+    el.querySelector('.calw-next').onclick = function() {
+      curMonth++; if (curMonth > 11) { curMonth = 0; curYear++; } selDate = null; render();
+    };
+
+    /* Day cell click (not on a chip): toggle event panel */
+    el.querySelectorAll('.calw-cell.calw-has-ev').forEach(function(cell) {
+      cell.addEventListener('click', function(e) {
+        /* Let chip/more clicks bubble up to their own handlers */
+        if (e.target.classList.contains('calw-chip') || e.target.classList.contains('calw-more')) return;
+        if (compact) return;
+        var d = cell.dataset.date;
+        selDate = (selDate === d) ? null : d;
+        render();
+        if (selDate) {
+          var panel = el.querySelector('.calw-panel');
+          if (panel) setTimeout(function() { panel.scrollIntoView({behavior:'smooth',block:'nearest'}); }, 0);
+        }
+      });
+    });
+
+    /* "+N more" click: show panel for that day */
+    el.querySelectorAll('.calw-more').forEach(function(btn) {
+      btn.onclick = function(e) {
+        e.stopPropagation();
+        if (compact) { window.location = '/calendar.html#' + btn.dataset.date; return; }
+        selDate = btn.dataset.date;
+        render();
+        var panel = el.querySelector('.calw-panel');
+        if (panel) setTimeout(function() { panel.scrollIntoView({behavior:'smooth',block:'nearest'}); }, 0);
+      };
+    });
+  }
+
+  /* calendar.html: pre-select date from URL hash */
+  if (!compact && window.location.hash) {
+    var hash = window.location.hash.slice(1);
+    if (/^\d{4}-\d{2}-\d{2}$/.test(hash)) {
+      selDate  = hash;
+      var p    = hash.split('-');
+      curYear  = parseInt(p[0], 10);
+      curMonth = parseInt(p[1], 10) - 1;
+    }
+  }
+
+  render();
+})();
+</script>
 
   </section>
 </div>
