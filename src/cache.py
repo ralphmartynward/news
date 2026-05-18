@@ -44,6 +44,7 @@ MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN emailed_at TEXT",
     "ALTER TABLE clusters ADD COLUMN event_start TEXT",
     "ALTER TABLE clusters ADD COLUMN event_end TEXT",
+    "ALTER TABLE clusters ADD COLUMN event_name TEXT",
 ]
 
 
@@ -121,6 +122,7 @@ def upsert_cluster(
     category: str | None = None,
     event_start: str | None = None,
     event_end: str | None = None,
+    event_name: str | None = None,
 ) -> None:
     import json as _json
 
@@ -130,8 +132,8 @@ def upsert_cluster(
     conn.execute(
         """INSERT INTO clusters
            (cluster_id, title, summary, framing_note, read_for, category,
-            event_start, event_end, last_synthesised_at)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            event_start, event_end, event_name, last_synthesised_at)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
            ON CONFLICT(cluster_id) DO UPDATE SET
              title               = excluded.title,
              summary             = excluded.summary,
@@ -140,6 +142,7 @@ def upsert_cluster(
              category            = excluded.category,
              event_start         = excluded.event_start,
              event_end           = excluded.event_end,
+             event_name          = excluded.event_name,
              last_synthesised_at = excluded.last_synthesised_at""",
         (
             cluster_id,
@@ -150,6 +153,7 @@ def upsert_cluster(
             category,
             event_start,
             event_end,
+            event_name,
             now,
         ),
     )
@@ -187,6 +191,7 @@ def load_cluster(conn: sqlite3.Connection, cluster_id: str) -> dict[str, Any] | 
         "category": r["category"] if "category" in keys else None,
         "event_start": r["event_start"] if "event_start" in keys else None,
         "event_end": r["event_end"] if "event_end" in keys else None,
+        "event_name": r["event_name"] if "event_name" in keys else None,
         "last_synthesised_at": r["last_synthesised_at"],
     }
 
@@ -278,7 +283,7 @@ def clusters_needing_event_dates(conn: sqlite3.Connection) -> list[str]:
 def load_calendar_events(conn: sqlite3.Connection) -> list[dict[str, Any]]:
     """All event clusters with a structured event_start date, with their primary item URL/source."""
     rows = conn.execute(
-        """SELECT c.cluster_id, c.title, c.summary, c.event_start, c.event_end,
+        """SELECT c.cluster_id, c.title, c.summary, c.event_start, c.event_end, c.event_name,
                   (SELECT url    FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS url,
                   (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source
            FROM clusters c

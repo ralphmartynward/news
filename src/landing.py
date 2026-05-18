@@ -91,6 +91,7 @@ def _calendar_events_json(calendar_events: list[dict[str, Any]] | None) -> str:
             "event_start": ev["event_start"],
             "event_end": ev.get("event_end") or None,
             "title": ev.get("title") or "",
+            "event_name": ev.get("event_name") or ev.get("title") or "",
             "summary": _summarise(ev.get("summary") or ""),
             "url": _with_utm(ev.get("url") or ""),
             "source_label": SOURCE_LABELS.get(ev.get("source", ""), ev.get("source", "") or "Source"),

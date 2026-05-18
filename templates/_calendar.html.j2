@@ -200,11 +200,11 @@
             + '<span class="calw-dn">' + day + '</span>';
 
       shown.forEach(function(ev) {
+        var label = truncate(ev.event_name || ev.title, chipLen);
         if (compact) {
-          /* On landing page: chip links straight to calendar page for that date */
-          html += '<a class="calw-chip" href="/calendar.html#' + date + '">' + esc(truncate(ev.title, chipLen)) + '</a>';
+          html += '<a class="calw-chip" href="/calendar.html#' + date + '">' + esc(label) + '</a>';
         } else {
-          html += '<a class="calw-chip" href="' + esc(ev.url) + '" target="_blank" rel="noopener">' + esc(truncate(ev.title, chipLen)) + '</a>';
+          html += '<a class="calw-chip" href="' + esc(ev.url) + '" target="_blank" rel="noopener">' + esc(label) + '</a>';
         }
       });
 

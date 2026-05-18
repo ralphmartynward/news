@@ -94,6 +94,7 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
 
     event_start = (data.get("event_start") or None)
     event_end = (data.get("event_end") or None)
+    event_name = (data.get("event_name") or None)
 
     return {
         "title": title,
@@ -103,6 +104,7 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
         "category": category,
         "event_start": event_start,
         "event_end": event_end,
+        "event_name": event_name,
     }
 
 
