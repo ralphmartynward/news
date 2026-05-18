@@ -1,87 +1,202 @@
 {% macro calendar_styles() %}
 <style>
-.cal-timeline { display: flex; flex-direction: column; }
-.cal-day {
-  display: grid; grid-template-columns: 96px 1fr; gap: 16px;
-  padding: 14px 0; border-top: 1px solid rgba(0,0,0,0.06);
-  align-items: start;
+/* ── Calendar widget ─────────────────────────────────────────────── */
+.calw { font-family: inherit; }
+.calw-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 4px 0 16px;
 }
-.cal-day--today { background: rgba(74,222,128,0.03); border-radius: 8px; padding: 14px 10px; margin: 0 -10px; }
-.cal-day--past { opacity: 0.45; }
-.cal-date-col { display: flex; flex-direction: column; gap: 1px; padding-top: 3px; }
-.cal-date-num  { font-size: 26px; font-weight: 900; line-height: 1; color: #0f172a; }
-.cal-date-week { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #94a3b8; }
-.cal-date-mon  { font-size: 11px; color: #94a3b8; }
-.cal-day--today .cal-date-num  { color: #4ade80; }
-.cal-day--today .cal-date-week { color: #4ade80; opacity: 0.7; }
-.cal-events-col { display: flex; flex-direction: column; gap: 8px; }
-.cal-card {
-  background: #fff; border: 1px solid rgba(0,0,0,0.08); border-radius: 10px;
-  padding: 12px 14px; text-decoration: none; color: inherit; display: block;
+.calw-month-label { font-size: 17px; font-weight: 900; color: #0f172a; }
+.calw-btn {
+  background: #fff; border: 1px solid rgba(0,0,0,0.12); border-radius: 8px;
+  width: 32px; height: 32px; font-size: 18px; line-height: 1;
+  cursor: pointer; color: #475569; display: flex; align-items: center; justify-content: center;
+  transition: background 120ms;
+}
+.calw-btn:hover { background: #f1f5f9; color: #0f172a; }
+.calw-grid {
+  display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px;
+}
+.calw-dow {
+  text-align: center; font-size: 11px; font-weight: 700;
+  color: #94a3b8; text-transform: uppercase; padding: 0 0 10px;
+}
+.calw-cell {
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: flex-start; padding: 6px 2px 4px;
+  border-radius: 8px; min-height: 46px; position: relative;
+  cursor: default;
+}
+.calw-cell.calw-has-ev { cursor: pointer; }
+.calw-cell.calw-has-ev:hover { background: #f0fdf4; }
+.calw-dn {
+  font-size: 14px; font-weight: 600; color: #0f172a; line-height: 1;
+  width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
+  border-radius: 50%;
+}
+.calw-cell.calw-past .calw-dn { color: #cbd5e1; }
+.calw-cell.calw-today .calw-dn { background: #2563eb; color: #fff; font-weight: 800; }
+.calw-cell.calw-sel .calw-dn { background: #0f172a; color: #fff; font-weight: 800; }
+.calw-cell.calw-today.calw-sel .calw-dn { background: #0f172a; }
+.calw-dot {
+  width: 5px; height: 5px; border-radius: 50%; background: #4ade80;
+  display: block; margin-top: 3px; flex-shrink: 0;
+}
+.calw-cell.calw-past .calw-dot { background: #e2e8f0; }
+.calw-cell.calw-today .calw-dot { background: #93c5fd; }
+/* Panel: event list shown below grid when day is clicked */
+.calw-panel { margin-top: 20px; }
+.calw-panel-title {
+  font-size: 11px; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 0.6px; color: #64748b; margin-bottom: 12px;
+  padding-bottom: 8px; border-bottom: 1px solid rgba(0,0,0,0.06);
+  text-transform: capitalize;
+}
+.calw-ev-card {
+  display: block; background: #fff; border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px; padding: 12px 14px; margin-bottom: 8px;
+  text-decoration: none; color: inherit;
   transition: border-color 150ms, box-shadow 150ms;
 }
-.cal-card:hover { border-color: #4ade80; box-shadow: 0 2px 10px rgba(74,222,128,0.12); }
-.cal-card-title   { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
-.cal-card:hover .cal-card-title { color: #16a34a; }
-.cal-card-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 8px; }
-.cal-card-source  {
+.calw-ev-card:hover { border-color: #4ade80; box-shadow: 0 2px 8px rgba(74,222,128,0.12); }
+.calw-ev-title { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
+.calw-ev-card:hover .calw-ev-title { color: #16a34a; }
+.calw-ev-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 8px; }
+.calw-ev-source {
   font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
   color: #16a34a; background: #f0fdf4; border: 1px solid #bbf7d0;
   border-radius: 999px; padding: 2px 7px; display: inline-block;
 }
-.cal-today-bar {
-  display: flex; align-items: center; gap: 10px;
-  padding: 10px 0 6px; margin: 6px 0 2px;
-  font-size: 10px; font-weight: 800; text-transform: uppercase;
-  letter-spacing: 0.8px; color: #4ade80;
-}
-.cal-today-bar::before, .cal-today-bar::after {
-  content: ''; flex: 1; height: 1px; background: rgba(74,222,128,0.25);
-}
-/* Compact variant for landing page widget */
-.cal-compact .cal-day  { grid-template-columns: 72px 1fr; gap: 10px; padding: 10px 0; }
-.cal-compact .cal-date-num  { font-size: 20px; }
-.cal-compact .cal-card { padding: 8px 12px; }
-.cal-compact .cal-card-title { font-size: 13px; margin-bottom: 0; }
-.cal-compact .cal-card-summary { display: none; }
-@media (max-width: 600px) {
-  .cal-day { grid-template-columns: 56px 1fr; gap: 10px; }
-  .cal-date-num { font-size: 20px; }
-  .cal-date-mon { display: none; }
-}
+/* Compact variant */
+.calw-compact .calw-month-label { font-size: 14px; }
+.calw-compact .calw-btn { width: 26px; height: 26px; font-size: 15px; }
+.calw-compact .calw-cell { min-height: 36px; padding: 4px 1px 2px; }
+.calw-compact .calw-dn { font-size: 12px; width: 24px; height: 24px; }
+.calw-compact .calw-dot { width: 4px; height: 4px; margin-top: 2px; }
+.calw-compact .calw-dow { font-size: 10px; padding-bottom: 6px; }
 </style>
 {% endmacro %}
 
-{% macro render_calendar(days, compact=false) %}
-<div class="cal-timeline {% if compact %}cal-compact{% endif %}">
-  {% set ns = namespace(past_done=false) %}
-  {% for day in days %}
-    {% if not ns.past_done and not day.is_past %}
-      {% if loop.index0 > 0 %}
-      <div class="cal-today-bar">Aujourd'hui et à venir</div>
-      {% endif %}
-      {% set ns.past_done = true %}
-    {% endif %}
-    <div class="cal-day {% if day.is_today %}cal-day--today{% elif day.is_past %}cal-day--past{% endif %}">
-      <div class="cal-date-col">
-        <span class="cal-date-week">{{ day.date_label.split(' ')[0] }}</span>
-        <span class="cal-date-num">{{ day.date_label.split(' ')[1] }}</span>
-        <span class="cal-date-mon">{{ day.date_label.split(' ')[2] if day.date_label.split(' ')|length > 2 else '' }}</span>
-      </div>
-      <div class="cal-events-col">
-        {% for ev in day.events %}
-        <a class="cal-card" href="{{ ev.url }}" target="_blank" rel="noopener">
-          <div class="cal-card-title">{{ ev.title }}</div>
-          {% if not compact and ev.summary %}
-          <p class="cal-card-summary">{{ ev.summary }}</p>
-          {% endif %}
-          <span class="cal-card-source">{{ ev.source_label }}</span>
-        </a>
-        {% endfor %}
-      </div>
-    </div>
-  {% else %}
-    <p style="color:#94a3b8;font-size:13px;padding:16px 0;">Aucun événement avec dates structurées pour le moment.</p>
-  {% endfor %}
-</div>
+{% macro render_calendar(events_json, compact=false, widget_id="cal-widget") %}
+<div id="{{ widget_id }}" class="calw {% if compact %}calw-compact{% endif %}"></div>
+<script>
+(function () {
+  var EVENTS = {{ events_json | safe }};
+  var container = document.getElementById({{ widget_id | tojson }});
+  var compact = {{ 'true' if compact else 'false' }};
+  if (!container) return;
+
+  var today = new Date();
+  var curYear = today.getFullYear();
+  var curMonth = today.getMonth();
+  var selDate = null;
+
+  var MONTHS  = ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'];
+  var DOWLBLS = ['L','M','M','J','V','S','D'];
+  var MONTHS_FR = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+  var WDAYS_FR  = ['lundi','mardi','mercredi','jeudi','vendredi','samedi','dimanche'];
+
+  function pad(n) { return String(n).padStart(2,'0'); }
+  function ds(y,m,d) { return y+'-'+pad(m+1)+'-'+pad(d); }
+  function todayStr() { return ds(today.getFullYear(),today.getMonth(),today.getDate()); }
+
+  function eventsOn(date) {
+    return EVENTS.filter(function(ev) {
+      var end = ev.event_end || ev.event_start;
+      return date >= ev.event_start && date <= end;
+    });
+  }
+
+  function frLabel(dateStr) {
+    var d = new Date(dateStr + 'T12:00:00');
+    var dow = (d.getDay() + 6) % 7;
+    return WDAYS_FR[dow] + ' ' + d.getDate() + ' ' + MONTHS_FR[d.getMonth()] + ' ' + d.getFullYear();
+  }
+
+  function renderPanel(dateStr) {
+    var evs = eventsOn(dateStr);
+    if (!evs.length) return '';
+    var html = '<div class="calw-panel"><div class="calw-panel-title">' + frLabel(dateStr) + '</div>';
+    evs.forEach(function(ev) {
+      html += '<a class="calw-ev-card" href="' + ev.url + '" target="_blank" rel="noopener">';
+      html += '<div class="calw-ev-title">' + ev.title + '</div>';
+      if (ev.summary) html += '<p class="calw-ev-summary">' + ev.summary + '</p>';
+      html += '<span class="calw-ev-source">' + ev.source_label + '</span>';
+      html += '</a>';
+    });
+    html += '</div>';
+    return html;
+  }
+
+  function render() {
+    var ts = todayStr();
+    var firstDow = (new Date(curYear, curMonth, 1).getDay() + 6) % 7; /* 0=Mon */
+    var daysInMonth = new Date(curYear, curMonth + 1, 0).getDate();
+
+    var html = '<div class="calw-header">'
+      + '<button class="calw-btn calw-prev">&#8249;</button>'
+      + '<span class="calw-month-label">' + MONTHS[curMonth] + ' ' + curYear + '</span>'
+      + '<button class="calw-btn calw-next">&#8250;</button>'
+      + '</div><div class="calw-grid">';
+
+    DOWLBLS.forEach(function(d) { html += '<div class="calw-dow">' + d + '</div>'; });
+    for (var i = 0; i < firstDow; i++) html += '<div class="calw-cell"></div>';
+
+    for (var day = 1; day <= daysInMonth; day++) {
+      var date = ds(curYear, curMonth, day);
+      var evs  = eventsOn(date);
+      var cls  = 'calw-cell';
+      if (date === ts)      cls += ' calw-today';
+      else if (date < ts)   cls += ' calw-past';
+      if (date === selDate) cls += ' calw-sel';
+      if (evs.length)       cls += ' calw-has-ev';
+      html += '<div class="' + cls + '" data-date="' + date + '">'
+            + '<span class="calw-dn">' + day + '</span>'
+            + (evs.length ? '<span class="calw-dot"></span>' : '')
+            + '</div>';
+    }
+    html += '</div>';
+
+    if (!compact && selDate) html += renderPanel(selDate);
+
+    container.innerHTML = html;
+
+    container.querySelector('.calw-prev').onclick = function() {
+      curMonth--; if (curMonth < 0) { curMonth = 11; curYear--; } render();
+    };
+    container.querySelector('.calw-next').onclick = function() {
+      curMonth++; if (curMonth > 11) { curMonth = 0; curYear++; } render();
+    };
+
+    container.querySelectorAll('.calw-cell.calw-has-ev').forEach(function(cell) {
+      cell.onclick = function() {
+        var d = cell.dataset.date;
+        if (compact) {
+          window.location = '/calendar.html#' + d;
+        } else {
+          selDate = (selDate === d) ? null : d;
+          render();
+          if (selDate) {
+            var panel = container.querySelector('.calw-panel');
+            if (panel) setTimeout(function() { panel.scrollIntoView({behavior:'smooth',block:'nearest'}); }, 0);
+          }
+        }
+      };
+    });
+  }
+
+  /* On calendar.html, honour URL hash to pre-select a date */
+  if (!compact && window.location.hash) {
+    var hash = window.location.hash.slice(1);
+    if (/^\d{4}-\d{2}-\d{2}$/.test(hash)) {
+      selDate = hash;
+      var parts = hash.split('-');
+      curYear = parseInt(parts[0], 10);
+      curMonth = parseInt(parts[1], 10) - 1;
+    }
+  }
+
+  render();
+})();
+</script>
 {% endmacro %}

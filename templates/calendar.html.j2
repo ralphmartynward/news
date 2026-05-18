@@ -93,7 +93,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     <div class="sec-label">Agenda</div>
     <h2 class="sec-title">Événements à Toulouse</h2>
     <p class="sec-sub">Passés (14 j) et à venir (90 j) — cliquez pour lire l'article source.</p>
-    {{ render_calendar(all_days, compact=false) }}
+    {{ render_calendar(calendar_events_json, compact=false, widget_id="cal-full") }}
   </section>
 </div>
 

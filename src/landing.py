@@ -5,6 +5,7 @@ import os
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from zoneinfo import ZoneInfo
 
 import feedparser
@@ -65,6 +66,36 @@ def _french_long_date(d: datetime) -> str:
 def _french_short_date(d: datetime) -> str:
     paris_d = d.astimezone(PARIS)
     return f"{paris_d.day} {FRENCH_MONTHS[paris_d.month - 1]}, {paris_d.strftime('%H:%M')}"
+
+
+_UTM = {"utm_source": "lavillerose.com", "utm_medium": "referral", "utm_campaign": "toulouse-news"}
+
+
+def _with_utm(url: str) -> str:
+    if not url or not url.startswith("http"):
+        return url
+    parts = urlsplit(url)
+    q = dict(parse_qsl(parts.query, keep_blank_values=True))
+    for k, v in _UTM.items():
+        q.setdefault(k, v)
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(q), parts.fragment))
+
+
+def _calendar_events_json(calendar_events: list[dict[str, Any]] | None) -> str:
+    """Serialize calendar events to a JSON string safe for embedding in a <script> tag."""
+    items = []
+    for ev in (calendar_events or []):
+        if not ev.get("event_start"):
+            continue
+        items.append({
+            "event_start": ev["event_start"],
+            "event_end": ev.get("event_end") or None,
+            "title": ev.get("title") or "",
+            "summary": _summarise(ev.get("summary") or ""),
+            "url": _with_utm(ev.get("url") or ""),
+            "source_label": SOURCE_LABELS.get(ev.get("source", ""), ev.get("source", "") or "Source"),
+        })
+    return _json.dumps(items, ensure_ascii=False)
 
 
 def _build_calendar_days(
@@ -280,6 +311,7 @@ def render(
         page_description=page_description,
         jsonld=jsonld,
         calendar_days=calendar_days,
+        calendar_events_json=_calendar_events_json(calendar_events),
     )
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -305,6 +337,7 @@ def render_calendar_page(calendar_events: list[dict[str, Any]], out_path: Path) 
         date_long=date_long,
         event_count=len(calendar_events),
         worker_subscribe_url=WORKER_SUBSCRIBE_URL,
+        calendar_events_json=_calendar_events_json(calendar_events),
     )
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(html, encoding="utf-8")

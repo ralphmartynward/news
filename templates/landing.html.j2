@@ -322,7 +322,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 </div>
 
 <!-- Calendar widget: upcoming events with structured dates -->
-{% if calendar_days %}
+{% if calendar_events_json and calendar_events_json != '[]' %}
 <div class="page">
   <section class="section" style="border-top:1px solid rgba(0,0,0,0.06);">
     <div class="sec-label">Agenda</div>
@@ -330,8 +330,8 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
       À venir à Toulouse
       <a href="/calendar.html" style="font-size:12px;font-weight:700;color:#16a34a;text-decoration:none;border:1px solid #bbf7d0;background:#f0fdf4;border-radius:999px;padding:4px 12px;">Voir tout l'agenda →</a>
     </h2>
-    <p class="sec-sub">Événements des 14 prochains jours — <a href="/calendar.html" style="color:#16a34a;">voir le calendrier complet</a></p>
-    {{ render_calendar(calendar_days, compact=true) }}
+    <p class="sec-sub">Cliquez sur un jour pour voir les événements — <a href="/calendar.html" style="color:#16a34a;">calendrier complet</a></p>
+    {{ render_calendar(calendar_events_json, compact=true, widget_id="cal-compact") }}
   </section>
 </div>
 {% endif %}
