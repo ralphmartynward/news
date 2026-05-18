@@ -48,6 +48,8 @@
 .calw-cell.calw-past .calw-dn { color: #cbd5e1; }
 .calw-cell.calw-today .calw-dn { background: #2563eb; color: #fff; font-weight: 800; }
 .calw-cell.calw-sel   .calw-dn { background: #0f172a; color: #fff; font-weight: 800; }
+a.calw-dn-link { text-decoration: none; display: flex; align-items: center; justify-content: center; }
+a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
 
 /* Event chips inside cells */
 .calw-chip {
@@ -196,16 +198,17 @@
       var shown   = evs.slice(0, MAX_CHIPS);
       var extra   = evs.length - MAX_CHIPS;
 
+      /* On compact widget, wrap day number as link to calendar page for that date */
+      var dnHtml = compact && evs.length
+        ? '<a class="calw-dn calw-dn-link" href="/calendar.html#' + date + '">' + day + '</a>'
+        : '<span class="calw-dn">' + day + '</span>';
       html += '<div class="' + cls + '" data-date="' + date + '">'
-            + '<span class="calw-dn">' + day + '</span>';
+            + dnHtml;
 
       shown.forEach(function(ev) {
         var label = truncate(ev.event_name || ev.title, chipLen);
-        if (compact) {
-          html += '<a class="calw-chip" href="/calendar.html#' + date + '">' + esc(label) + '</a>';
-        } else {
-          html += '<a class="calw-chip" href="' + esc(ev.url) + '" target="_blank" rel="noopener">' + esc(label) + '</a>';
-        }
+        var href  = ev.url || '#';
+        html += '<a class="calw-chip" href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(label) + '</a>';
       });
 
       if (extra > 0) {
@@ -227,21 +230,21 @@
       curMonth++; if (curMonth > 11) { curMonth = 0; curYear++; } selDate = null; render();
     };
 
-    /* Day cell click (not on a chip): toggle event panel */
-    el.querySelectorAll('.calw-cell.calw-has-ev').forEach(function(cell) {
-      cell.addEventListener('click', function(e) {
-        /* Let chip/more clicks bubble up to their own handlers */
-        if (e.target.classList.contains('calw-chip') || e.target.classList.contains('calw-more')) return;
-        if (compact) return;
-        var d = cell.dataset.date;
-        selDate = (selDate === d) ? null : d;
-        render();
-        if (selDate) {
-          var panel = el.querySelector('.calw-panel');
-          if (panel) setTimeout(function() { panel.scrollIntoView({behavior:'smooth',block:'nearest'}); }, 0);
-        }
+    /* Day cell click (background only, not chip/more/dn-link): toggle event panel on full page */
+    if (!compact) {
+      el.querySelectorAll('.calw-cell.calw-has-ev').forEach(function(cell) {
+        cell.addEventListener('click', function(e) {
+          if (e.target.closest('.calw-chip') || e.target.closest('.calw-more') || e.target.closest('.calw-dn-link')) return;
+          var d = cell.dataset.date;
+          selDate = (selDate === d) ? null : d;
+          render();
+          if (selDate) {
+            var panel = el.querySelector('.calw-panel');
+            if (panel) setTimeout(function() { panel.scrollIntoView({behavior:'smooth',block:'nearest'}); }, 0);
+          }
+        });
       });
-    });
+    }
 
     /* "+N more" click: show panel for that day */
     el.querySelectorAll('.calw-more').forEach(function(btn) {
