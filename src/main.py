@@ -41,7 +41,7 @@ def _item_to_entry(item: dict[str, Any]) -> dict[str, Any]:
         "title": item["title"],
         "url": item["url"],
         "published_at": item["published_at"],
-        "updated_at": item["published_at"],
+        "updated_at": item.get("seen_at", item["published_at"]),
         "authors": [item["source"]],
         "item_type": item.get("item_type", "news"),
         "summary": summary,
@@ -53,7 +53,12 @@ def _item_to_entry(item: dict[str, Any]) -> dict[str, Any]:
 
 def _cluster_to_entry(cluster_id: str, items: list[dict[str, Any]], synth: dict[str, Any] | None) -> dict[str, Any]:
     primary = min(items, key=lambda i: i["published_at"])
-    latest_at = max(i["published_at"] for i in items)
+    # Use seen_at (digest processing time) as updated_at so the landing page
+    # filters by when items entered the digest, not the source publication date.
+    # Articles published late yesterday but fetched this morning should appear
+    # on today's landing page, not yesterday's.
+    seen_ats = [i["seen_at"] for i in items if i.get("seen_at")]
+    latest_at = max(seen_ats) if seen_ats else max(i["published_at"] for i in items)
     if synth:
         title = synth["title"]
         summary = synth["summary"]

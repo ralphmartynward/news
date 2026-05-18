@@ -125,7 +125,14 @@ def render(
             if getattr(e, "published_parsed", None)
             else None
         )
-        if published and published.astimezone(PARIS).date() != display_date:
+        # Filter by updated (digest processing date) not published (source date):
+        # articles fetched today but published yesterday belong on today's page.
+        digest_dt = (
+            datetime(*e.updated_parsed[:6], tzinfo=ZoneInfo("UTC"))
+            if getattr(e, "updated_parsed", None)
+            else published
+        )
+        if digest_dt and digest_dt.astimezone(PARIS).date() != display_date:
             continue
         cat = _entry_category(e)
         if cat not in grouped:
