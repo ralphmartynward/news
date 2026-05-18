@@ -161,6 +161,9 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
             continue
         try:
             result = synthesise(items)
+            if result is None:
+                print(f"  {cid}: skipped (insufficient content)")
+                continue
             cache_mod.upsert_cluster(
                 conn,
                 cid,

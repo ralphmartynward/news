@@ -61,7 +61,7 @@ def _extract_json(text: str) -> str:
     return s[start:end + 1]
 
 
-def synthesise(items: list[dict[str, Any]]) -> dict[str, Any]:
+def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
     """Send a cluster's items to Claude and return the synthesis JSON."""
     if not items:
         raise SynthesiseError("synthesise called with empty items")
@@ -79,6 +79,9 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any]:
         data = json.loads(extracted)
     except json.JSONDecodeError as e:
         raise SynthesiseError(f"Claude returned non-JSON: {extracted[:200]!r}") from e
+
+    if data.get("skip"):
+        return None
 
     title = (data.get("title") or "").strip()
     summary = (data.get("summary") or "").strip()

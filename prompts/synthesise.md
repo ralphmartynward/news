@@ -20,6 +20,7 @@ Constraints:
 - Don't add facts not present in the source items.
 - Keep each source's contribution traceable.
 - French summaries should sound natural to a French speaker — avoid English calque.
+- If the excerpt is a newsletter teaser, paywall stub, or otherwise too thin to write a meaningful 4-sentence summary without inventing context, return `"skip": true` and leave title/summary/category null. Do NOT write meta-commentary explaining what you couldn't determine.
 
 Items:
 
@@ -28,6 +29,7 @@ Items:
 Return ONLY a JSON object, no preamble or code fences. Schema:
 
 {
+  "skip": false,
   "title": "...",
   "summary": "...",
   "framing_note": "..." or null,

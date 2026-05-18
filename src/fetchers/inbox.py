@@ -334,19 +334,27 @@ SENDER_EXTRACTORS: dict[str, Callable[[str, str, datetime, str], list[dict[str, 
     "tourinsoft.com": _extract_officetourisme,
 }
 
-# Fallback source label for unrecognised senders
-DEFAULT_SOURCE = "newsletter"
-
-
 def _classify_sender(from_addr: str) -> tuple[str, Callable | None]:
-    """Return (source_key, extractor_fn_or_None)."""
+    """Return (source_key, extractor_fn_or_None).
+
+    For unrecognised senders, returns the root domain (e.g. "actu.fr") so
+    the card shows something more informative than a generic "Newsletter" label.
+    """
     if "@" not in from_addr:
-        return DEFAULT_SOURCE, None
-    domain = from_addr.rsplit("@", 1)[-1].strip().lower()
+        return "newsletter", None
+    # Extract bare email address from "Display Name <email@domain>" format
+    email = from_addr
+    if "<" in from_addr:
+        m = re.search(r"<([^>]+)>", from_addr)
+        if m:
+            email = m.group(1).strip()
+    domain = email.rsplit("@", 1)[-1].strip().lower()
     for known, fn in SENDER_EXTRACTORS.items():
         if domain.endswith(known):
             return known.split(".")[-2] if "." in known else known, fn
-    return DEFAULT_SOURCE, None
+    # Derive root domain as source key (e.g. "newsletter.actu.fr" → "actu.fr")
+    parts = domain.split(".")
+    return ".".join(parts[-2:]) if len(parts) >= 2 else domain, None
 
 
 # ── Cloudflare KV helpers ──────────────────────────────────────────────────
