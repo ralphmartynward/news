@@ -42,6 +42,8 @@ CREATE TABLE IF NOT EXISTS clusters (
 MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN category TEXT",
     "ALTER TABLE clusters ADD COLUMN emailed_at TEXT",
+    "ALTER TABLE clusters ADD COLUMN event_start TEXT",
+    "ALTER TABLE clusters ADD COLUMN event_end TEXT",
 ]
 
 
@@ -117,6 +119,8 @@ def upsert_cluster(
     framing_note: str | None,
     read_for: list[dict[str, str]] | None,
     category: str | None = None,
+    event_start: str | None = None,
+    event_end: str | None = None,
 ) -> None:
     import json as _json
 
@@ -125,14 +129,17 @@ def upsert_cluster(
     # nuke the whole row and reset emailed_at to NULL every synthesis pass.
     conn.execute(
         """INSERT INTO clusters
-           (cluster_id, title, summary, framing_note, read_for, category, last_synthesised_at)
-           VALUES (?, ?, ?, ?, ?, ?, ?)
+           (cluster_id, title, summary, framing_note, read_for, category,
+            event_start, event_end, last_synthesised_at)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
            ON CONFLICT(cluster_id) DO UPDATE SET
-             title              = excluded.title,
-             summary            = excluded.summary,
-             framing_note       = excluded.framing_note,
-             read_for           = excluded.read_for,
-             category           = excluded.category,
+             title               = excluded.title,
+             summary             = excluded.summary,
+             framing_note        = excluded.framing_note,
+             read_for            = excluded.read_for,
+             category            = excluded.category,
+             event_start         = excluded.event_start,
+             event_end           = excluded.event_end,
              last_synthesised_at = excluded.last_synthesised_at""",
         (
             cluster_id,
@@ -141,8 +148,23 @@ def upsert_cluster(
             framing_note,
             _json.dumps(read_for) if read_for else None,
             category,
+            event_start,
+            event_end,
             now,
         ),
+    )
+    conn.commit()
+
+
+def set_event_dates(
+    conn: sqlite3.Connection,
+    cluster_id: str,
+    event_start: str,
+    event_end: str | None = None,
+) -> None:
+    conn.execute(
+        "UPDATE clusters SET event_start = ?, event_end = ? WHERE cluster_id = ?",
+        (event_start, event_end, cluster_id),
     )
     conn.commit()
 
@@ -155,13 +177,16 @@ def load_cluster(conn: sqlite3.Connection, cluster_id: str) -> dict[str, Any] | 
     ).fetchone()
     if not r:
         return None
+    keys = r.keys()
     return {
         "cluster_id": r["cluster_id"],
         "title": r["title"],
         "summary": r["summary"],
         "framing_note": r["framing_note"],
         "read_for": _json.loads(r["read_for"]) if r["read_for"] else None,
-        "category": r["category"] if "category" in r.keys() else None,
+        "category": r["category"] if "category" in keys else None,
+        "event_start": r["event_start"] if "event_start" in keys else None,
+        "event_end": r["event_end"] if "event_end" in keys else None,
         "last_synthesised_at": r["last_synthesised_at"],
     }
 
@@ -240,6 +265,27 @@ def clusters_needing_synthesis(conn: sqlite3.Connection) -> list[str]:
         "WHERE c.cluster_id IS NULL OR c.category IS NULL"
     ).fetchall()
     return [r["cluster_id"] for r in rows]
+
+
+def clusters_needing_event_dates(conn: sqlite3.Connection) -> list[str]:
+    """Event clusters that are missing a structured event_start date."""
+    rows = conn.execute(
+        "SELECT cluster_id FROM clusters WHERE category = 'event' AND event_start IS NULL"
+    ).fetchall()
+    return [r["cluster_id"] for r in rows]
+
+
+def load_calendar_events(conn: sqlite3.Connection) -> list[dict[str, Any]]:
+    """All event clusters with a structured event_start date, with their primary item URL/source."""
+    rows = conn.execute(
+        """SELECT c.cluster_id, c.title, c.summary, c.event_start, c.event_end,
+                  (SELECT url    FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS url,
+                  (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source
+           FROM clusters c
+           WHERE c.category = 'event' AND c.event_start IS NOT NULL
+           ORDER BY c.event_start"""
+    ).fetchall()
+    return [dict(r) for r in rows]
 
 
 def vacuum(conn: sqlite3.Connection) -> None:

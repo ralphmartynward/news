@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json as _json
 import os
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any
 from zoneinfo import ZoneInfo
@@ -67,6 +67,56 @@ def _french_short_date(d: datetime) -> str:
     return f"{paris_d.day} {FRENCH_MONTHS[paris_d.month - 1]}, {paris_d.strftime('%H:%M')}"
 
 
+def _build_calendar_days(
+    events: list[dict[str, Any]],
+    *,
+    days_past: int = 0,
+    days_future: int = 14,
+) -> list[dict[str, Any]]:
+    """Group events into an ordered list of day dicts for template rendering.
+
+    Multi-day events (event_end set) appear on each day they span, capped at
+    14 days to guard against bad date data. Events outside the window are dropped.
+    """
+    today = datetime.now(PARIS).date()
+    today_iso = today.isoformat()
+    window_start = today - timedelta(days=days_past)
+    window_end = today + timedelta(days=days_future)
+
+    by_date: dict[str, list[dict[str, Any]]] = {}
+    for ev in events:
+        start_str = ev.get("event_start") or ""
+        end_str = ev.get("event_end") or start_str
+        try:
+            start_d = date.fromisoformat(start_str)
+            end_d = date.fromisoformat(end_str)
+        except ValueError:
+            continue
+        end_d = min(end_d, start_d + timedelta(days=13))
+        ev_out = dict(ev)
+        ev_out["source_label"] = SOURCE_LABELS.get(ev.get("source", ""), ev.get("source", "") or "Source")
+        d = start_d
+        while d <= end_d:
+            if window_start <= d <= window_end:
+                key = d.isoformat()
+                by_date.setdefault(key, [])
+                if not any(e["cluster_id"] == ev["cluster_id"] for e in by_date[key]):
+                    by_date[key].append(ev_out)
+            d += timedelta(days=1)
+
+    result = []
+    for date_iso in sorted(by_date.keys()):
+        d = date.fromisoformat(date_iso)
+        result.append({
+            "date_iso": date_iso,
+            "date_label": f"{FRENCH_WEEKDAYS[d.weekday()]} {d.day} {FRENCH_MONTHS[d.month - 1]}",
+            "is_today": date_iso == today_iso,
+            "is_past": date_iso < today_iso,
+            "events": by_date[date_iso],
+        })
+    return result
+
+
 def _entry_category(entry: Any) -> str:
     tags = getattr(entry, "tags", None) or []
     for tag in tags:
@@ -109,6 +159,7 @@ def render(
     filter_date: date | None = None,
     archive_dates: list[dict[str, str]] | None = None,
     is_archive: bool = False,
+    calendar_events: list[dict[str, Any]] | None = None,
 ) -> None:
     """Render the landing page (or an archive page).
 
@@ -209,6 +260,13 @@ def render(
         autoescape=select_autoescape(["html", "j2"]),
     )
     template = env.get_template("landing.html.j2")
+    # Compact calendar: upcoming events only (next 14 days), shown on index page
+    calendar_days = (
+        _build_calendar_days(calendar_events, days_past=0, days_future=14)
+        if (calendar_events and not is_archive)
+        else []
+    )
+
     html = template.render(
         date_long=date_long,
         sections=sections,
@@ -221,7 +279,32 @@ def render(
         page_title=page_title,
         page_description=page_description,
         jsonld=jsonld,
+        calendar_days=calendar_days,
     )
 
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(html, encoding="utf-8")
+
+
+def render_calendar_page(calendar_events: list[dict[str, Any]], out_path: Path) -> None:
+    """Render the standalone /calendar.html page."""
+    # Full view: past 14 days + upcoming 90 days
+    all_days = _build_calendar_days(calendar_events, days_past=14, days_future=90)
+    today_iso = datetime.now(PARIS).date().isoformat()
+
+    now_paris = datetime.now(PARIS)
+    date_long = _french_long_date(now_paris)
+
+    env = Environment(
+        loader=FileSystemLoader(str(TEMPLATE_DIR)),
+        autoescape=select_autoescape(["html", "j2"]),
+    )
+    html = env.get_template("calendar.html.j2").render(
+        all_days=all_days,
+        today_iso=today_iso,
+        date_long=date_long,
+        event_count=len(calendar_events),
+        worker_subscribe_url=WORKER_SUBSCRIBE_URL,
+    )
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(html, encoding="utf-8")

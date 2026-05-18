@@ -92,10 +92,50 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
     if category not in ("news", "event", "place", "culture"):
         category = None  # will fall back to source default at entry-build time
 
+    event_start = (data.get("event_start") or None)
+    event_end = (data.get("event_end") or None)
+
     return {
         "title": title,
         "summary": summary,
         "framing_note": (data.get("framing_note") or None),
         "read_for": data.get("read_for") or None,
         "category": category,
+        "event_start": event_start,
+        "event_end": event_end,
     }
+
+
+def extract_event_dates(cluster: dict[str, Any]) -> tuple[str | None, str | None]:
+    """Lightweight date extraction for event clusters whose items have been pruned.
+
+    Uses the cluster's stored title + summary rather than re-fetching source items.
+    Returns (event_start, event_end) as ISO strings or (None, None).
+    """
+    title = (cluster.get("title") or "").strip()
+    summary = (cluster.get("summary") or "").strip()
+    if not title:
+        return None, None
+
+    prompt = (
+        "Extract the event date(s) from this Toulouse event digest entry.\n"
+        f"Title: {title}\n"
+        f"Summary: {summary[:400]}\n\n"
+        'Return ONLY a JSON object: {"event_start": "YYYY-MM-DD" or null, "event_end": "YYYY-MM-DD" or null}\n'
+        "Use null if dates cannot be determined. Assume year 2026 unless clearly stated otherwise."
+    )
+    try:
+        msg = _client().messages.create(
+            model=MODEL,
+            max_tokens=60,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        raw = msg.content[0].text.strip()
+        start = raw.find("{")
+        end = raw.rfind("}")
+        if start != -1 and end > start:
+            data = json.loads(raw[start:end + 1])
+            return data.get("event_start") or None, data.get("event_end") or None
+    except Exception:
+        pass
+    return None, None

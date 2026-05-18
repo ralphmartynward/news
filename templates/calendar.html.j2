@@ -1,0 +1,113 @@
+{% from '_calendar.html.j2' import calendar_styles, render_calendar %}
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Agenda Toulouse — La Ville Rose</title>
+<meta name="description" content="Calendrier des événements à Toulouse : concerts, festivals, expositions, marchés. Mis à jour chaque matin."/>
+<meta property="og:title" content="Agenda Toulouse — La Ville Rose"/>
+<meta property="og:description" content="Événements à venir à Toulouse, agrégés chaque matin."/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://news.lavillerose.com/calendar.html"/>
+<link rel="canonical" href="https://news.lavillerose.com/calendar.html"/>
+<link rel="alternate" type="application/atom+xml" title="Toulouse News" href="/feed.xml"/>
+<link rel="icon" type="image/x-icon" href="https://lavillerose.com/assets/favicon/favicon.ico"/>
+<link href="/shared.css" rel="stylesheet"/>
+{{ calendar_styles() }}
+<style>
+html, body { height: auto; min-height: 100vh; display: block; background: #f8fafc; }
+.cal-hero {
+  background: #0f172a; color: #fff;
+  padding: 48px 24px 36px; text-align: center;
+}
+.cal-hero-eyebrow {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 999px; padding: 5px 14px;
+  font-size: 11px; font-weight: 800; letter-spacing: 0.7px;
+  text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 18px;
+}
+.cal-hero-title {
+  font-size: clamp(24px, 4vw, 38px); font-weight: 950; line-height: 1.05;
+  letter-spacing: -0.3px; color: #fff; margin: 0 0 10px;
+}
+.cal-hero-title .green { color: #4ade80; }
+.cal-hero-sub  { font-size: 14px; color: rgba(255,255,255,0.55); margin: 0; }
+.cal-nav {
+  display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 22px;
+}
+.cal-nav a {
+  background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15);
+  color: rgba(255,255,255,0.8); border-radius: 999px; padding: 6px 14px;
+  font-size: 12px; font-weight: 700; text-decoration: none;
+  transition: background 140ms;
+}
+.cal-nav a:hover { background: rgba(255,255,255,0.18); }
+.cal-nav a.active { background: #4ade80; color: #0f172a; border-color: #4ade80; }
+.page { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+.cal-section { padding: 48px 0; }
+.sec-label {
+  font-size: 10px; font-weight: 800; color: #94a3b8;
+  text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 6px;
+}
+.sec-title {
+  font-size: clamp(18px, 2.4vw, 24px); font-weight: 950;
+  color: #0f172a; margin: 0 0 6px; letter-spacing: -0.2px;
+}
+.sec-sub { font-size: 13px; color: #64748b; margin: 0 0 24px; }
+.back-link {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 700; color: #475569; text-decoration: none;
+  margin-bottom: 20px;
+}
+.back-link:hover { color: #0f172a; }
+</style>
+</head>
+<body>
+
+<nav id="persona-nav">
+  <a href="https://lavillerose.com/" class="pnav-brand" style="text-decoration:none;">La Ville Rose</a>
+  <a href="https://lavillerose.com/etudiants"    class="pnav-tab">🎓 Étudiants</a>
+  <a href="https://lavillerose.com/parents"      class="pnav-tab">👨‍👩‍👧 Parents</a>
+  <a href="https://lavillerose.com/societe_v2"   class="pnav-tab">🏢 Entreprises</a>
+  <a href="https://lavillerose.com/investisseur" class="pnav-tab">📈 Investisseurs</a>
+  <a href="https://lavillerose.com/seniors"      class="pnav-tab">🧓 Séniors</a>
+  <a href="/"                                    class="pnav-tab">📰 News</a>
+</nav>
+
+<div class="cal-hero">
+  <div class="cal-hero-eyebrow">📅 {{ date_long }}</div>
+  <h1 class="cal-hero-title">Agenda <span class="green">Toulouse</span></h1>
+  <p class="cal-hero-sub">{{ event_count }} événement{{ 's' if event_count != 1 else '' }} — mis à jour chaque matin à 7h</p>
+  <nav class="cal-nav">
+    <a href="/">← Digest du jour</a>
+    <a href="#agenda" class="active">📅 Calendrier</a>
+    <a href="/feed.xml">📡 RSS</a>
+  </nav>
+</div>
+
+<div class="page">
+  <section class="cal-section" id="agenda">
+    <a href="/" class="back-link">← Retour au digest</a>
+    <div class="sec-label">Agenda</div>
+    <h2 class="sec-title">Événements à Toulouse</h2>
+    <p class="sec-sub">Passés (14 j) et à venir (90 j) — cliquez pour lire l'article source.</p>
+    {{ render_calendar(all_days, compact=false) }}
+  </section>
+</div>
+
+<footer>
+  <strong>La Ville Rose · Agenda</strong> — Événements toulousains agrégés<br>
+  <span style="margin-top:3px;display:inline-block;">
+    <a href="/">Digest du jour</a> ·
+    <a href="/feed.xml">RSS</a> ·
+    <a href="https://lavillerose.com/">Cartes &amp; données</a>
+  </span><br>
+  <span style="margin-top:4px;display:inline-block;font-size:10px;">
+    Sources : Actu Toulouse, La Dépêche, Le Bonbon, Clutch, Toulouse Secret, Toulouscope, OpenAgenda, L'Essentiel
+  </span>
+</footer>
+
+</body>
+</html>

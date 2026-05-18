@@ -10,13 +10,14 @@ from zoneinfo import ZoneInfo
 from src import cache as cache_mod
 from src.fetchers import actu_toulouse, inbox, toulouscope
 from src.feed import write_atom
-from src.landing import PARIS, _french_long_date, render as render_landing
+from src.landing import PARIS, _french_long_date, render as render_landing, render_calendar_page
 from src.render_email import render as render_email
 from src.send import SendError, send_broadcast
 
 FEED_OUTPUT = Path("docs/feed.xml")
 LANDING_OUTPUT = Path("docs/index.html")
 ARCHIVE_DIR = Path("docs/archive")
+CALENDAR_OUTPUT = Path("docs/calendar.html")
 SITEMAP_OUTPUT = Path("docs/sitemap.xml")
 CACHE_PATH = Path("data/items_seen.db")
 SITE_BASE = "https://news.lavillerose.com"
@@ -155,35 +156,57 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
 
     if not to_synthesise:
         print("synthesise: nothing to do (no touched clusters, no missing synth)")
-        return
+    else:
+        print(
+            f"synthesise: {len(to_synthesise)} cluster(s) "
+            f"({len(touched_cluster_ids)} touched, {len(backfill)} backfill)"
+        )
 
-    print(
-        f"synthesise: {len(to_synthesise)} cluster(s) "
-        f"({len(touched_cluster_ids)} touched, {len(backfill)} backfill)"
-    )
+        for cid in sorted(to_synthesise):
+            items = cache_mod.cluster_items(conn, cid)
+            if not items:
+                continue
+            try:
+                result = synthesise(items)
+                if result is None:
+                    print(f"  {cid}: skipped (insufficient content)")
+                    continue
+                cache_mod.upsert_cluster(
+                    conn,
+                    cid,
+                    title=result["title"],
+                    summary=result["summary"],
+                    framing_note=result["framing_note"],
+                    read_for=result["read_for"],
+                    category=result["category"],
+                    event_start=result.get("event_start"),
+                    event_end=result.get("event_end"),
+                )
+                cat_label = f"[{result['category']}] " if result["category"] else ""
+                print(f"  {cid}: {cat_label}'{result['title'][:60]}…'")
+            except SynthesiseError as e:
+                print(f"  {cid}: FAILED — {e}", file=sys.stderr)
 
-    for cid in sorted(to_synthesise):
-        items = cache_mod.cluster_items(conn, cid)
-        if not items:
+    # Backfill event dates for clusters whose items are pruned — lightweight
+    # extraction from stored title+summary avoids re-fetching source content.
+    from src.synthesise import extract_event_dates
+    date_backfill = [
+        cid for cid in cache_mod.clusters_needing_event_dates(conn)
+        if cid not in to_synthesise  # already handled above
+    ]
+    if date_backfill:
+        print(f"synthesise: {len(date_backfill)} event cluster(s) need date backfill")
+    for cid in date_backfill:
+        cluster = cache_mod.load_cluster(conn, cid)
+        if not cluster:
             continue
         try:
-            result = synthesise(items)
-            if result is None:
-                print(f"  {cid}: skipped (insufficient content)")
-                continue
-            cache_mod.upsert_cluster(
-                conn,
-                cid,
-                title=result["title"],
-                summary=result["summary"],
-                framing_note=result["framing_note"],
-                read_for=result["read_for"],
-                category=result["category"],
-            )
-            cat_label = f"[{result['category']}] " if result["category"] else ""
-            print(f"  {cid}: {cat_label}'{result['title'][:60]}…'")
-        except SynthesiseError as e:
-            print(f"  {cid}: FAILED — {e}", file=sys.stderr)
+            start, end = extract_event_dates(cluster)
+            if start:
+                cache_mod.set_event_dates(conn, cid, start, end)
+                print(f"  {cid}: date backfill {start}" + (f"→{end}" if end else ""))
+        except Exception as e:
+            print(f"  {cid}: date backfill FAILED — {e}", file=sys.stderr)
 
 
 def _close_conn(conn: Any) -> None:
@@ -201,6 +224,7 @@ def _write_sitemap(archive_dates: list[dict[str, str]], out_path: Path) -> None:
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
         f'  <url><loc>{SITE_BASE}/</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>',
+        f'  <url><loc>{SITE_BASE}/calendar.html</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>',
     ]
     for arc in archive_dates:
         d = arc["date"]
@@ -276,7 +300,10 @@ def main() -> None:
         for d in sorted(past_dates, reverse=True)
     ]
 
-    render_landing(FEED_OUTPUT, LANDING_OUTPUT, archive_dates=archive_dates)
+    calendar_events = cache_mod.load_calendar_events(conn) if conn else []
+    print(f"calendar: {len(calendar_events)} event(s) with structured dates")
+
+    render_landing(FEED_OUTPUT, LANDING_OUTPUT, archive_dates=archive_dates, calendar_events=calendar_events)
     print(f"wrote {LANDING_OUTPUT} ({LANDING_OUTPUT.stat().st_size} bytes)")
 
     for arc in archive_dates:
@@ -285,8 +312,11 @@ def main() -> None:
         render_landing(FEED_OUTPUT, arc_path, filter_date=arc_date, archive_dates=archive_dates, is_archive=True)
         print(f"wrote {arc_path}")
 
+    render_calendar_page(calendar_events, CALENDAR_OUTPUT)
+    print(f"wrote {CALENDAR_OUTPUT} ({CALENDAR_OUTPUT.stat().st_size} bytes)")
+
     _write_sitemap(archive_dates, SITEMAP_OUTPUT)
-    print(f"wrote {SITEMAP_OUTPUT} ({len(archive_dates) + 1} URLs)")
+    print(f"wrote {SITEMAP_OUTPUT} ({len(archive_dates) + 2} URLs)")
 
     api_key = os.environ.get("RESEND_API_KEY", "").strip()
     audience_id = os.environ.get("RESEND_AUDIENCE_ID", "").strip()

@@ -1,3 +1,4 @@
+{% from '_calendar.html.j2' import calendar_styles, render_calendar %}
 <!doctype html>
 <html lang="fr">
 <head>
@@ -233,6 +234,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
   .subscribe-card { padding: 16px; }
 }
 </style>
+{{ calendar_styles() }}
 </head>
 <body>
 
@@ -318,6 +320,21 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     </section>
   {% endif %}
 </div>
+
+<!-- Calendar widget: upcoming events with structured dates -->
+{% if calendar_days %}
+<div class="page">
+  <section class="section" style="border-top:1px solid rgba(0,0,0,0.06);">
+    <div class="sec-label">Agenda</div>
+    <h2 class="sec-title" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;">
+      À venir à Toulouse
+      <a href="/calendar.html" style="font-size:12px;font-weight:700;color:#16a34a;text-decoration:none;border:1px solid #bbf7d0;background:#f0fdf4;border-radius:999px;padding:4px 12px;">Voir tout l'agenda →</a>
+    </h2>
+    <p class="sec-sub">Événements des 14 prochains jours — <a href="/calendar.html" style="color:#16a34a;">voir le calendrier complet</a></p>
+    {{ render_calendar(calendar_days, compact=true) }}
+  </section>
+</div>
+{% endif %}
 
 <!-- Archive navigation -->
 {% if is_archive or archive_dates %}
