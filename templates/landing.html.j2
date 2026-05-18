@@ -3,13 +3,14 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>Toulouse News — La Ville Rose</title>
-<meta name="description" content="L'actualité de Toulouse, agrégée chaque jour à 7h. Sources locales, dédupliquées, résumées."/>
-<meta property="og:title" content="Toulouse News — La Ville Rose"/>
-<meta property="og:description" content="L'actualité de Toulouse, agrégée chaque jour à 7h."/>
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_description }}"/>
+<meta property="og:title" content="{{ page_title }}"/>
+<meta property="og:description" content="{{ page_description }}"/>
 <meta property="og:type" content="website"/>
-<meta property="og:url" content="https://news.lavillerose.com/"/>
-<link rel="canonical" href="https://news.lavillerose.com/"/>
+<meta property="og:url" content="{{ canonical_url }}"/>
+<link rel="canonical" href="{{ canonical_url }}"/>
+<script type="application/ld+json">{{ jsonld | safe }}</script>
 <link rel="alternate" type="application/atom+xml" title="Toulouse News" href="/feed.xml"/>
 <link rel="icon" type="image/x-icon" href="https://lavillerose.com/assets/favicon/favicon.ico"/>
 <link href="/shared.css" rel="stylesheet"/>

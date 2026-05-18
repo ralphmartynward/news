@@ -17,7 +17,9 @@ from src.send import SendError, send_broadcast
 FEED_OUTPUT = Path("docs/feed.xml")
 LANDING_OUTPUT = Path("docs/index.html")
 ARCHIVE_DIR = Path("docs/archive")
+SITEMAP_OUTPUT = Path("docs/sitemap.xml")
 CACHE_PATH = Path("data/items_seen.db")
+SITE_BASE = "https://news.lavillerose.com"
 
 FETCHERS = [
     ("actu_toulouse", actu_toulouse.fetch),
@@ -193,6 +195,22 @@ def _close_conn(conn: Any) -> None:
             pass
 
 
+def _write_sitemap(archive_dates: list[dict[str, str]], out_path: Path) -> None:
+    today = datetime.now(PARIS).date().isoformat()
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+        f'  <url><loc>{SITE_BASE}/</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>',
+    ]
+    for arc in archive_dates:
+        d = arc["date"]
+        lines.append(
+            f'  <url><loc>{SITE_BASE}/archive/{d}.html</loc><lastmod>{d}</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>'
+        )
+    lines.append("</urlset>")
+    out_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def _fetch_all() -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for name, fetch_fn in FETCHERS:
@@ -266,6 +284,9 @@ def main() -> None:
         arc_path = ARCHIVE_DIR / f"{arc['date']}.html"
         render_landing(FEED_OUTPUT, arc_path, filter_date=arc_date, archive_dates=archive_dates, is_archive=True)
         print(f"wrote {arc_path}")
+
+    _write_sitemap(archive_dates, SITEMAP_OUTPUT)
+    print(f"wrote {SITEMAP_OUTPUT} ({len(archive_dates) + 1} URLs)")
 
     api_key = os.environ.get("RESEND_API_KEY", "").strip()
     audience_id = os.environ.get("RESEND_AUDIENCE_ID", "").strip()

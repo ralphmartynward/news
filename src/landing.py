@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json as _json
 import os
 from datetime import date, datetime
 from pathlib import Path
@@ -96,6 +97,7 @@ def _build_entry(e: Any) -> dict[str, Any]:
         "source_key": source_key,
         "source_label": SOURCE_LABELS.get(source_key, source_key or "Source"),
         "published_label": _french_short_date(published) if published else "",
+        "published_iso": published.isoformat() if published else "",
         "summary": _summarise(summary_text) if summary_text else "",
     }
 
@@ -149,19 +151,76 @@ def render(
             sections.append({"key": cat, "label": label, "title": title, "entries": entries})
 
     display_dt = datetime(display_date.year, display_date.month, display_date.day, tzinfo=PARIS)
+    date_long = _french_long_date(display_dt)
+    entry_count = sum(len(s["entries"]) for s in sections)
+
+    if is_archive:
+        canonical_url = f"https://news.lavillerose.com/archive/{display_date.isoformat()}.html"
+        page_title = f"Toulouse News — {date_long} | La Ville Rose"
+        page_description = f"Actualités du {date_long} à Toulouse — {entry_count} stories de sources locales."
+    else:
+        canonical_url = "https://news.lavillerose.com/"
+        page_title = "Toulouse News — La Ville Rose"
+        page_description = "L'actualité de Toulouse, agrégée chaque jour à 7h. Sources locales, dédupliquées, résumées."
+
+    # Build JSON-LD structured data for search engines
+    schema_items: list[dict] = []
+    for section in sections:
+        for entry in section["entries"]:
+            if section["key"] == "event":
+                schema_items.append({
+                    "@type": "Event",
+                    "name": entry["title"],
+                    "description": entry["summary"] or entry["title"],
+                    "url": entry["url"],
+                    "startDate": display_date.isoformat(),
+                    "location": {
+                        "@type": "Place",
+                        "name": "Toulouse",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Toulouse",
+                            "addressCountry": "FR",
+                        },
+                    },
+                    "organizer": {"@type": "Organization", "name": entry["source_label"]},
+                })
+            else:
+                schema_items.append({
+                    "@type": "NewsArticle",
+                    "headline": entry["title"],
+                    "description": entry["summary"] or entry["title"],
+                    "url": entry["url"],
+                    "datePublished": entry.get("published_iso") or display_date.isoformat(),
+                    "publisher": {
+                        "@type": "Organization",
+                        "name": "La Ville Rose News",
+                        "url": "https://news.lavillerose.com",
+                    },
+                })
+    jsonld = _json.dumps(
+        {"@context": "https://schema.org", "@graph": schema_items},
+        ensure_ascii=False,
+        separators=(",", ":"),
+    )
+
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
         autoescape=select_autoescape(["html", "j2"]),
     )
     template = env.get_template("landing.html.j2")
     html = template.render(
-        date_long=_french_long_date(display_dt),
+        date_long=date_long,
         sections=sections,
-        entry_count=sum(len(s["entries"]) for s in sections),
+        entry_count=entry_count,
         source_count=len(sources_seen),
         worker_subscribe_url=WORKER_SUBSCRIBE_URL,
         archive_dates=archive_dates or [],
         is_archive=is_archive,
+        canonical_url=canonical_url,
+        page_title=page_title,
+        page_description=page_description,
+        jsonld=jsonld,
     )
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
