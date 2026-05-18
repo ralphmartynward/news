@@ -1,56 +1,83 @@
 {% macro calendar_styles() %}
 <style>
-/* ── Calendar widget ─────────────────────────────────────────────── */
+/* ── Calendar grid ───────────────────────────────────────────────── */
 .calw { font-family: inherit; }
+
 .calw-header {
   display: flex; align-items: center; justify-content: space-between;
-  padding: 4px 0 16px;
+  padding: 4px 0 14px;
 }
 .calw-month-label { font-size: 17px; font-weight: 900; color: #0f172a; }
 .calw-btn {
   background: #fff; border: 1px solid rgba(0,0,0,0.12); border-radius: 8px;
-  width: 32px; height: 32px; font-size: 18px; line-height: 1;
-  cursor: pointer; color: #475569; display: flex; align-items: center; justify-content: center;
+  width: 30px; height: 30px; font-size: 18px; cursor: pointer; color: #475569;
+  display: flex; align-items: center; justify-content: center;
   transition: background 120ms;
 }
 .calw-btn:hover { background: #f1f5f9; color: #0f172a; }
+
 .calw-grid {
-  display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  border-left: 1px solid rgba(0,0,0,0.07);
+  border-top: 1px solid rgba(0,0,0,0.07);
 }
 .calw-dow {
-  text-align: center; font-size: 11px; font-weight: 700;
-  color: #94a3b8; text-transform: uppercase; padding: 0 0 10px;
+  text-align: center; font-size: 10px; font-weight: 700;
+  color: #94a3b8; text-transform: uppercase; letter-spacing: 0.4px;
+  padding: 0 0 8px; border: none;
 }
 .calw-cell {
-  display: flex; flex-direction: column; align-items: center;
-  justify-content: flex-start; padding: 6px 2px 4px;
-  border-radius: 8px; min-height: 46px; position: relative;
-  cursor: default;
+  border-right: 1px solid rgba(0,0,0,0.07);
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  padding: 4px 3px 6px;
+  min-height: 72px;
+  display: flex; flex-direction: column; align-items: stretch;
+  background: #fff;
 }
-.calw-cell.calw-has-ev { cursor: pointer; }
-.calw-cell.calw-has-ev:hover { background: #f0fdf4; }
+.calw-cell.calw-past { background: #fafafa; }
+.calw-cell.calw-today { background: #eff6ff; }
+.calw-cell.calw-empty { background: #fafafa; }
+
 .calw-dn {
-  font-size: 14px; font-weight: 600; color: #0f172a; line-height: 1;
-  width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
-  border-radius: 50%;
+  font-size: 13px; font-weight: 700; color: #475569; line-height: 1;
+  width: 24px; height: 24px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 50%; margin: 0 auto 3px; flex-shrink: 0;
 }
 .calw-cell.calw-past .calw-dn { color: #cbd5e1; }
 .calw-cell.calw-today .calw-dn { background: #2563eb; color: #fff; font-weight: 800; }
-.calw-cell.calw-sel .calw-dn { background: #0f172a; color: #fff; font-weight: 800; }
-.calw-cell.calw-today.calw-sel .calw-dn { background: #0f172a; }
-.calw-dot {
-  width: 5px; height: 5px; border-radius: 50%; background: #4ade80;
-  display: block; margin-top: 3px; flex-shrink: 0;
+.calw-cell.calw-sel   .calw-dn { background: #0f172a; color: #fff; font-weight: 800; }
+
+/* Event chips inside cells */
+.calw-chip {
+  display: block;
+  font-size: 11px; font-weight: 600; line-height: 1.2;
+  background: #dcfce7; color: #166534;
+  border-radius: 3px; padding: 2px 5px; margin: 1px 0;
+  overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+  cursor: pointer; text-decoration: none;
+  transition: background 100ms;
 }
-.calw-cell.calw-past .calw-dot { background: #e2e8f0; }
-.calw-cell.calw-today .calw-dot { background: #93c5fd; }
-/* Panel: event list shown below grid when day is clicked */
-.calw-panel { margin-top: 20px; }
+.calw-chip:hover { background: #bbf7d0; }
+.calw-cell.calw-past .calw-chip { background: #f1f5f9; color: #94a3b8; }
+.calw-cell.calw-past .calw-chip:hover { background: #e2e8f0; }
+.calw-more {
+  font-size: 10px; font-weight: 700; color: #64748b;
+  padding: 1px 4px; cursor: pointer; display: block; margin-top: 1px;
+}
+.calw-more:hover { color: #16a34a; }
+.calw-cell.calw-has-ev { cursor: default; }
+
+/* Event panel below grid */
+.calw-panel {
+  margin-top: 20px;
+  border-top: 2px solid #4ade80;
+  padding-top: 14px;
+}
 .calw-panel-title {
-  font-size: 11px; font-weight: 800; text-transform: uppercase;
-  letter-spacing: 0.6px; color: #64748b; margin-bottom: 12px;
-  padding-bottom: 8px; border-bottom: 1px solid rgba(0,0,0,0.06);
-  text-transform: capitalize;
+  font-size: 12px; font-weight: 800; text-transform: capitalize;
+  letter-spacing: 0.3px; color: #0f172a; margin-bottom: 12px;
 }
 .calw-ev-card {
   display: block; background: #fff; border: 1px solid rgba(0,0,0,0.08);
@@ -59,21 +86,29 @@
   transition: border-color 150ms, box-shadow 150ms;
 }
 .calw-ev-card:hover { border-color: #4ade80; box-shadow: 0 2px 8px rgba(74,222,128,0.12); }
-.calw-ev-title { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
+.calw-ev-title   { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
 .calw-ev-card:hover .calw-ev-title { color: #16a34a; }
 .calw-ev-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 8px; }
-.calw-ev-source {
+.calw-ev-source  {
   font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
   color: #16a34a; background: #f0fdf4; border: 1px solid #bbf7d0;
   border-radius: 999px; padding: 2px 7px; display: inline-block;
 }
-/* Compact variant */
+
+/* Compact variant for landing page */
+.calw-compact .calw-cell   { min-height: 52px; padding: 3px 2px 4px; }
+.calw-compact .calw-dn     { font-size: 11px; width: 20px; height: 20px; margin-bottom: 2px; }
+.calw-compact .calw-chip   { font-size: 10px; padding: 1px 4px; }
+.calw-compact .calw-more   { font-size: 9px; }
 .calw-compact .calw-month-label { font-size: 14px; }
-.calw-compact .calw-btn { width: 26px; height: 26px; font-size: 15px; }
-.calw-compact .calw-cell { min-height: 36px; padding: 4px 1px 2px; }
-.calw-compact .calw-dn { font-size: 12px; width: 24px; height: 24px; }
-.calw-compact .calw-dot { width: 4px; height: 4px; margin-top: 2px; }
-.calw-compact .calw-dow { font-size: 10px; padding-bottom: 6px; }
+.calw-compact .calw-btn    { width: 26px; height: 26px; font-size: 15px; }
+.calw-compact .calw-dow    { font-size: 9px; }
+
+@media (max-width: 600px) {
+  .calw-chip { font-size: 9px; padding: 1px 3px; }
+  .calw-dn   { font-size: 11px; width: 20px; height: 20px; }
+  .calw-cell { min-height: 54px; }
+}
 </style>
 {% endmacro %}
 
@@ -81,24 +116,25 @@
 <div id="{{ widget_id }}" class="calw {% if compact %}calw-compact{% endif %}"></div>
 <script>
 (function () {
-  var EVENTS = {{ events_json | safe }};
-  var container = document.getElementById({{ widget_id | tojson }});
-  var compact = {{ 'true' if compact else 'false' }};
-  if (!container) return;
+  var EVENTS   = {{ events_json | safe }};
+  var el       = document.getElementById({{ widget_id | tojson }});
+  var compact  = {{ 'true' if compact else 'false' }};
+  var MAX_CHIPS = compact ? 2 : 3;
+  if (!el) return;
 
-  var today = new Date();
-  var curYear = today.getFullYear();
-  var curMonth = today.getMonth();
-  var selDate = null;
+  var today     = new Date();
+  var curYear   = today.getFullYear();
+  var curMonth  = today.getMonth();
+  var selDate   = null;
 
-  var MONTHS  = ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'];
-  var DOWLBLS = ['L','M','M','J','V','S','D'];
+  var MONTHS   = ['Janvier','Février','Mars','Avril','Mai','Juin','Juillet','Août','Septembre','Octobre','Novembre','Décembre'];
+  var DOWS     = ['L','M','M','J','V','S','D'];
   var MONTHS_FR = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
   var WDAYS_FR  = ['lundi','mardi','mercredi','jeudi','vendredi','samedi','dimanche'];
 
   function pad(n) { return String(n).padStart(2,'0'); }
-  function ds(y,m,d) { return y+'-'+pad(m+1)+'-'+pad(d); }
-  function todayStr() { return ds(today.getFullYear(),today.getMonth(),today.getDate()); }
+  function ds(y,m,d){ return y+'-'+pad(m+1)+'-'+pad(d); }
+  function todayStr(){ return ds(today.getFullYear(),today.getMonth(),today.getDate()); }
 
   function eventsOn(date) {
     return EVENTS.filter(function(ev) {
@@ -108,41 +144,46 @@
   }
 
   function frLabel(dateStr) {
-    var d = new Date(dateStr + 'T12:00:00');
+    var d   = new Date(dateStr + 'T12:00:00');
     var dow = (d.getDay() + 6) % 7;
     return WDAYS_FR[dow] + ' ' + d.getDate() + ' ' + MONTHS_FR[d.getMonth()] + ' ' + d.getFullYear();
   }
+
+  function esc(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+  }
+
+  function truncate(s, n) { return s.length > n ? s.slice(0, n-1) + '…' : s; }
 
   function renderPanel(dateStr) {
     var evs = eventsOn(dateStr);
     if (!evs.length) return '';
     var html = '<div class="calw-panel"><div class="calw-panel-title">' + frLabel(dateStr) + '</div>';
     evs.forEach(function(ev) {
-      html += '<a class="calw-ev-card" href="' + ev.url + '" target="_blank" rel="noopener">';
-      html += '<div class="calw-ev-title">' + ev.title + '</div>';
-      if (ev.summary) html += '<p class="calw-ev-summary">' + ev.summary + '</p>';
-      html += '<span class="calw-ev-source">' + ev.source_label + '</span>';
-      html += '</a>';
+      html += '<a class="calw-ev-card" href="' + esc(ev.url) + '" target="_blank" rel="noopener">'
+            + '<div class="calw-ev-title">' + esc(ev.title) + '</div>';
+      if (!compact && ev.summary) html += '<p class="calw-ev-summary">' + esc(ev.summary) + '</p>';
+      html += '<span class="calw-ev-source">' + esc(ev.source_label) + '</span></a>';
     });
-    html += '</div>';
-    return html;
+    return html + '</div>';
   }
 
   function render() {
-    var ts = todayStr();
-    var firstDow = (new Date(curYear, curMonth, 1).getDay() + 6) % 7; /* 0=Mon */
-    var daysInMonth = new Date(curYear, curMonth + 1, 0).getDate();
+    var ts        = todayStr();
+    var firstDow  = (new Date(curYear, curMonth, 1).getDay() + 6) % 7;
+    var daysInMo  = new Date(curYear, curMonth + 1, 0).getDate();
 
     var html = '<div class="calw-header">'
       + '<button class="calw-btn calw-prev">&#8249;</button>'
       + '<span class="calw-month-label">' + MONTHS[curMonth] + ' ' + curYear + '</span>'
       + '<button class="calw-btn calw-next">&#8250;</button>'
-      + '</div><div class="calw-grid">';
+      + '</div>'
+      + '<div class="calw-grid">';
 
-    DOWLBLS.forEach(function(d) { html += '<div class="calw-dow">' + d + '</div>'; });
-    for (var i = 0; i < firstDow; i++) html += '<div class="calw-cell"></div>';
+    DOWS.forEach(function(d) { html += '<div class="calw-dow">' + d + '</div>'; });
+    for (var i = 0; i < firstDow; i++) html += '<div class="calw-cell calw-empty"></div>';
 
-    for (var day = 1; day <= daysInMonth; day++) {
+    for (var day = 1; day <= daysInMo; day++) {
       var date = ds(curYear, curMonth, day);
       var evs  = eventsOn(date);
       var cls  = 'calw-cell';
@@ -150,49 +191,79 @@
       else if (date < ts)   cls += ' calw-past';
       if (date === selDate) cls += ' calw-sel';
       if (evs.length)       cls += ' calw-has-ev';
+
+      var chipLen = compact ? 12 : 20;
+      var shown   = evs.slice(0, MAX_CHIPS);
+      var extra   = evs.length - MAX_CHIPS;
+
       html += '<div class="' + cls + '" data-date="' + date + '">'
-            + '<span class="calw-dn">' + day + '</span>'
-            + (evs.length ? '<span class="calw-dot"></span>' : '')
-            + '</div>';
+            + '<span class="calw-dn">' + day + '</span>';
+
+      shown.forEach(function(ev) {
+        if (compact) {
+          /* On landing page: chip links straight to calendar page for that date */
+          html += '<a class="calw-chip" href="/calendar.html#' + date + '">' + esc(truncate(ev.title, chipLen)) + '</a>';
+        } else {
+          html += '<a class="calw-chip" href="' + esc(ev.url) + '" target="_blank" rel="noopener">' + esc(truncate(ev.title, chipLen)) + '</a>';
+        }
+      });
+
+      if (extra > 0) {
+        html += '<span class="calw-more" data-date="' + date + '">+' + extra + ' autre' + (extra > 1 ? 's' : '') + '</span>';
+      }
+
+      html += '</div>';
     }
     html += '</div>';
 
     if (!compact && selDate) html += renderPanel(selDate);
 
-    container.innerHTML = html;
+    el.innerHTML = html;
 
-    container.querySelector('.calw-prev').onclick = function() {
-      curMonth--; if (curMonth < 0) { curMonth = 11; curYear--; } render();
+    el.querySelector('.calw-prev').onclick = function() {
+      curMonth--; if (curMonth < 0) { curMonth = 11; curYear--; } selDate = null; render();
     };
-    container.querySelector('.calw-next').onclick = function() {
-      curMonth++; if (curMonth > 11) { curMonth = 0; curYear++; } render();
+    el.querySelector('.calw-next').onclick = function() {
+      curMonth++; if (curMonth > 11) { curMonth = 0; curYear++; } selDate = null; render();
     };
 
-    container.querySelectorAll('.calw-cell.calw-has-ev').forEach(function(cell) {
-      cell.onclick = function() {
+    /* Day cell click (not on a chip): toggle event panel */
+    el.querySelectorAll('.calw-cell.calw-has-ev').forEach(function(cell) {
+      cell.addEventListener('click', function(e) {
+        /* Let chip/more clicks bubble up to their own handlers */
+        if (e.target.classList.contains('calw-chip') || e.target.classList.contains('calw-more')) return;
+        if (compact) return;
         var d = cell.dataset.date;
-        if (compact) {
-          window.location = '/calendar.html#' + d;
-        } else {
-          selDate = (selDate === d) ? null : d;
-          render();
-          if (selDate) {
-            var panel = container.querySelector('.calw-panel');
-            if (panel) setTimeout(function() { panel.scrollIntoView({behavior:'smooth',block:'nearest'}); }, 0);
-          }
+        selDate = (selDate === d) ? null : d;
+        render();
+        if (selDate) {
+          var panel = el.querySelector('.calw-panel');
+          if (panel) setTimeout(function() { panel.scrollIntoView({behavior:'smooth',block:'nearest'}); }, 0);
         }
+      });
+    });
+
+    /* "+N more" click: show panel for that day */
+    el.querySelectorAll('.calw-more').forEach(function(btn) {
+      btn.onclick = function(e) {
+        e.stopPropagation();
+        if (compact) { window.location = '/calendar.html#' + btn.dataset.date; return; }
+        selDate = btn.dataset.date;
+        render();
+        var panel = el.querySelector('.calw-panel');
+        if (panel) setTimeout(function() { panel.scrollIntoView({behavior:'smooth',block:'nearest'}); }, 0);
       };
     });
   }
 
-  /* On calendar.html, honour URL hash to pre-select a date */
+  /* calendar.html: pre-select date from URL hash */
   if (!compact && window.location.hash) {
     var hash = window.location.hash.slice(1);
     if (/^\d{4}-\d{2}-\d{2}$/.test(hash)) {
-      selDate = hash;
-      var parts = hash.split('-');
-      curYear = parseInt(parts[0], 10);
-      curMonth = parseInt(parts[1], 10) - 1;
+      selDate  = hash;
+      var p    = hash.split('-');
+      curYear  = parseInt(p[0], 10);
+      curMonth = parseInt(p[1], 10) - 1;
     }
   }
 
