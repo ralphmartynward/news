@@ -183,6 +183,7 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                 if result is None:
                     print(f"  {cid}: skipped (insufficient content)")
                     continue
+                primary = min(items, key=lambda i: i["published_at"])
                 cache_mod.upsert_cluster(
                     conn,
                     cid,
@@ -194,6 +195,7 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                     event_start=result.get("event_start"),
                     event_end=result.get("event_end"),
                     event_name=result.get("event_name"),
+                    primary_url=primary["url"],
                 )
                 cat_label = f"[{result['category']}] " if result["category"] else ""
                 print(f"  {cid}: {cat_label}'{result['title'][:60]}…'")
