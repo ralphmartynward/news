@@ -32,9 +32,17 @@ _LINK_RE = re.compile(r'<a\s+[^>]*href="(https?://[^"]+)"', re.IGNORECASE)
 # Transactional email detection (subscription confirmations, welcome emails, etc.)
 _TRANSACTIONAL_SUBJECT_RE = re.compile(
     r"(confirmation\s+d[e’]\s*inscription|bienvenue|welcome\s+to|newsletter\s+confirm"
-    r"|confirmer\s+votre\s+(email|adresse|inscription)|please\s+(confirm|verify)\s+your)",
+    r"|confirmer\s+votre\s+(email|adresse|inscription)|please\s+(confirm|verify)\s+your"
+    r"|forwarding\s+confirmation|mail\s+forwarding|gmail\s+forwarding"
+    r"|delivery\s+(failure|status|notification)|undelivered\s+mail|mailer.daemon"
+    r"|out\s+of\s+office|automatic\s+reply|réponse\s+automatique)",
     re.IGNORECASE,
 )
+_SYSTEM_SENDER_DOMAINS = frozenset({
+    "google.com", "accounts.google.com", "googlemail.com",
+    "microsoft.com", "outlook.com", "hotmail.com",
+    "apple.com", "icloud.com",
+})
 _TRANSACTIONAL_BODY_RE = re.compile(
     r"(e-mail\s+de\s+confirmation|confirmer\s+votre\s+inscription"
     r"|vous\s+[êe]tes\s+(bien\s+)?inscrit|cliquez\s+ici\s+pour\s+(confirmer|valider)"
@@ -47,12 +55,16 @@ _CLUTCH_DAY_RE = re.compile(r"⚡+\s*([A-ZÀ-ÿ]+(?:\s+[A-ZÀ-ÿ]+)*\s+\d+\s+[A-
 _CLUTCH_STOP_MARKERS = ("- CITY GUIDE -", "CITY GUIDE", "- LA VID", "Clutcho", "+ d'événements")
 
 
-def _is_transactional(subject: str, text: str) -> bool:
+def _is_transactional(subject: str, text: str, from_addr: str = "") -> bool:
     """Return True for clearly non-editorial emails (subscription confirmations, etc.)."""
     if _TRANSACTIONAL_SUBJECT_RE.search(subject):
         return True
     if _TRANSACTIONAL_BODY_RE.search(text[:3000]):
         return True
+    if from_addr and "@" in from_addr:
+        domain = from_addr.rsplit("@", 1)[-1].strip(">").lower()
+        if any(domain == d or domain.endswith("." + d) for d in _SYSTEM_SENDER_DOMAINS):
+            return True
     return False
 
 
@@ -438,7 +450,7 @@ def fetch(within_hours: int = 24) -> list[dict[str, Any]]:
 
         # Fallback: one item per email — skip transactional/system emails
         subject = (payload.get("subject") or "").strip()
-        if _is_transactional(subject, text):
+        if _is_transactional(subject, text, from_addr):
             print(f"inbox: skipping transactional email — {subject[:80]!r}")
             continue
 

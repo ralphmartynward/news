@@ -92,7 +92,7 @@ def _build_calendar_days(
             end_d = date.fromisoformat(end_str)
         except ValueError:
             continue
-        end_d = min(end_d, start_d + timedelta(days=13))
+        end_d = min(end_d, start_d + timedelta(days=3))
         ev_out = dict(ev)
         ev_out["source_label"] = SOURCE_LABELS.get(ev.get("source", ""), ev.get("source", "") or "Source")
         d = start_d
@@ -262,7 +262,7 @@ def render(
     template = env.get_template("landing.html.j2")
     # Compact calendar: upcoming events only (next 14 days), shown on index page
     calendar_days = (
-        _build_calendar_days(calendar_events, days_past=0, days_future=14)
+        _build_calendar_days(calendar_events, days_past=0, days_future=60)
         if (calendar_events and not is_archive)
         else []
     )
@@ -289,7 +289,7 @@ def render(
 def render_calendar_page(calendar_events: list[dict[str, Any]], out_path: Path) -> None:
     """Render the standalone /calendar.html page."""
     # Full view: past 14 days + upcoming 90 days
-    all_days = _build_calendar_days(calendar_events, days_past=14, days_future=90)
+    all_days = _build_calendar_days(calendar_events, days_past=30, days_future=365)
     today_iso = datetime.now(PARIS).date().isoformat()
 
     now_paris = datetime.now(PARIS)

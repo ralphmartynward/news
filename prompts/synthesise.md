@@ -8,6 +8,7 @@ Generate:
 3. If multiple sources cover with meaningful framing differences, briefly note them. Skip if framings are identical.
 4. Suggest which source to read for which angle, if relevant. Skip if not.
 5. If category is "event", extract event_start (ISO date YYYY-MM-DD) and optionally event_end. Dates are often in the title ("Lundi 19 mai", "Du 18 au 20 mai") or the summary. Return null for both if no date is determinable. Do not invent or guess dates.
+   - event_end: ONLY set for genuinely continuous multi-day events (a festival running every day from May 18 to May 20). Do NOT set event_end for events with multiple separate discrete dates (a concert on May 22 and another on June 14 — use only event_start for the earliest date and leave event_end null).
 6. Pick exactly one category for the cluster:
    - "news": hard news, civic announcements, weather alerts, sports results, politics, public-safety updates, current events.
    - "event": scheduled events with a specific date — concerts, festivals, exhibitions, markets, performances, screenings. Things you might attend.
