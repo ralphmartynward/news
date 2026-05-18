@@ -120,6 +120,9 @@ def _cluster_today(items: list[dict[str, Any]]):
     pruned = cache_mod.prune(conn)
     if pruned:
         print(f"cache: pruned {pruned} items older than 7 days")
+    cleaned = cache_mod.purge_system_sources(conn)
+    if cleaned:
+        print(f"cache: purged {cleaned} item(s) from system/transactional senders")
 
     cached = cache_mod.load_recent(conn)
     print(f"cache: {len(cached)} items in 7-day window")

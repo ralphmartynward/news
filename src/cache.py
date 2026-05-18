@@ -71,6 +71,21 @@ def open_cache(path: Path = DEFAULT_DB_PATH) -> sqlite3.Connection:
     return conn
 
 
+_SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com",
+                   "microsoft.com", "outlook.com", "hotmail.com", "apple.com", "icloud.com")
+
+
+def purge_system_sources(conn: sqlite3.Connection) -> int:
+    """Remove cached items whose source key matches known system/transactional senders."""
+    placeholders = ",".join("?" * len(_SYSTEM_SOURCES))
+    cur = conn.execute(
+        f"DELETE FROM items WHERE source IN ({placeholders})",
+        _SYSTEM_SOURCES,
+    )
+    conn.commit()
+    return cur.rowcount
+
+
 def prune(conn: sqlite3.Connection, *, days: int = RETENTION_DAYS) -> int:
     cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
     cur = conn.execute("DELETE FROM items WHERE seen_at < ?", (cutoff,))
