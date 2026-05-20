@@ -72,7 +72,7 @@ def open_cache(path: Path = DEFAULT_DB_PATH) -> sqlite3.Connection:
     return conn
 
 
-_SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com",
+_SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com", "gmail.com",
                    "microsoft.com", "outlook.com", "hotmail.com", "apple.com", "icloud.com")
 
 

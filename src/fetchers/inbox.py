@@ -39,7 +39,7 @@ _TRANSACTIONAL_SUBJECT_RE = re.compile(
     re.IGNORECASE,
 )
 _SYSTEM_SENDER_DOMAINS = frozenset({
-    "google.com", "accounts.google.com", "googlemail.com",
+    "google.com", "accounts.google.com", "googlemail.com", "gmail.com",
     "microsoft.com", "outlook.com", "hotmail.com",
     "apple.com", "icloud.com",
 })
@@ -346,6 +346,23 @@ SENDER_EXTRACTORS: dict[str, Callable[[str, str, datetime, str], list[dict[str, 
     "tourinsoft.com": _extract_officetourisme,
 }
 
+# Content-based detection: used when the email was forwarded (e.g. Gmail auto-forward
+# rewrites From to the forwarder's address). Each entry is (extractor, html_detector).
+_CONTENT_EXTRACTORS: list[tuple[Callable, Callable[[str, str], bool]]] = [
+    (
+        _extract_lessentiel,
+        lambda html, text: 'class="tmob"' in html and "lessentiel.fr" in html,
+    ),
+    (
+        _extract_clutch,
+        lambda html, text: "⚡" in text and "clutchmag.fr" in (html + text),
+    ),
+    (
+        _extract_officetourisme,
+        lambda html, text: "EN SAVOIR PLUS" in html and "tourinsoft.com" in (html + text),
+    ),
+]
+
 def _classify_sender(from_addr: str) -> tuple[str, Callable | None]:
     """Return (source_key, extractor_fn_or_None).
 
@@ -447,6 +464,19 @@ def fetch(within_hours: int = 24) -> list[dict[str, Any]]:
             if extracted:
                 items.extend(extracted)
                 continue
+
+        # Content-based routing: catches newsletters forwarded via Gmail or other
+        # relays that rewrite the From address.
+        routed = False
+        for content_extractor, detector in _CONTENT_EXTRACTORS:
+            if detector(html, text):
+                extracted = content_extractor(html, text, received_at, from_addr)
+                if extracted:
+                    items.extend(extracted)
+                    routed = True
+                    break
+        if routed:
+            continue
 
         # Fallback: one item per email — skip transactional/system emails
         subject = (payload.get("subject") or "").strip()
