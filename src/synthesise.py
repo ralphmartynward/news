@@ -120,11 +120,22 @@ def extract_event_dates(cluster: dict[str, Any]) -> tuple[str | None, str | None
         return None, None
 
     prompt = (
-        "Extract the event date(s) from this Toulouse event digest entry.\n"
-        f"Title: {title}\n"
-        f"Summary: {summary[:400]}\n\n"
-        'Return ONLY a JSON object: {"event_start": "YYYY-MM-DD" or null, "event_end": "YYYY-MM-DD" or null}\n'
-        "Use null if dates cannot be determined. Assume year 2026 unless clearly stated otherwise."
+        "Extract the event date(s) from this Toulouse event digest entry.
+"
+        f"Title: {title}
+"
+        f"Summary: {summary[:400]}
+
+"
+        "Rules: event_end must ONLY be set for events that run continuously every day "
+        "(e.g. a 3-day festival May 13-16). For events with separate discrete dates "
+        "(e.g. 'le 22 mai et le 14 juin') use only event_start for the EARLIEST date "
+        "and leave event_end null.
+"
+        "Use null if dates cannot be determined. Assume year 2026 unless stated.
+
+"
+        'Return ONLY: {"event_start": "YYYY-MM-DD" or null, "event_end": "YYYY-MM-DD" or null}'
     )
     try:
         msg = _client().messages.create(
