@@ -26,6 +26,8 @@ LESSENTIEL_TEXT_CAP = 5000  # per article, full content (feeds synthesis)
 
 _TAG_RE = re.compile(r"<[^>]+>")
 _WS_RE = re.compile(r"\s+")
+_STYLE_RE = re.compile(r"<style[^>]*>.*?</style>", re.IGNORECASE | re.DOTALL)
+_SCRIPT_RE = re.compile(r"<script[^>]*>.*?</script>", re.IGNORECASE | re.DOTALL)
 _TRACKING_DOMAINS = ("list-manage.com", "mailchi.mp", "sendgrid.net", "click.", "track.", "unsubscribe")
 _LINK_RE = re.compile(r'<a\s+[^>]*href="(https?://[^"]+)"', re.IGNORECASE)
 
@@ -69,7 +71,9 @@ def _is_transactional(subject: str, text: str, from_addr: str = "") -> bool:
 
 
 def _strip_html(html: str) -> str:
-    return _WS_RE.sub(" ", _TAG_RE.sub(" ", html or "")).strip()
+    h = _STYLE_RE.sub(" ", html or "")
+    h = _SCRIPT_RE.sub(" ", h)
+    return _WS_RE.sub(" ", _TAG_RE.sub(" ", h)).strip()
 
 
 def _representative_url(html: str) -> str | None:
@@ -171,6 +175,7 @@ def _extract_lessentiel(
 
 _OT_DATE_RE = re.compile(
     r"^(DU\s+\d+\s+AU\s+\d+\s+[A-ZÉÈÊËÀÙÏÎÔÛÂ]+|"
+    r"JUSQU['’]?AU\s+\d+\s+[A-ZÉÈÊËÀÙÏÎÔÛÂ]+|"
     r"(?:LUNDI|MARDI|MERCREDI|JEUDI|VENDREDI|SAMEDI|DIMANCHE)\s+\d+\s+[A-ZÉÈÊËÀÙÏÎÔÛÂ]+)",
     re.IGNORECASE,
 )
