@@ -73,7 +73,11 @@ def open_cache(path: Path = DEFAULT_DB_PATH) -> sqlite3.Connection:
 
 
 _SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com", "gmail.com",
-                   "microsoft.com", "outlook.com", "hotmail.com", "apple.com", "icloud.com")
+                   "microsoft.com", "outlook.com", "hotmail.com", "apple.com", "icloud.com",
+                   # Fallback source keys produced when a newsletter extractor returns empty —
+                   # the extractor now works so these stale single-item fallbacks should be purged
+                   "tourinsoft",  # OfficeTourisme fallback (extractor produces "office_tourisme")
+                   )
 
 
 def purge_system_sources(conn: sqlite3.Connection) -> int:
