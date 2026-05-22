@@ -159,9 +159,16 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
     # picked up by the date_backfill pass later in this same run.
     bad_spans = cache_mod.clusters_with_bad_event_span(conn, max_days=3)
     if bad_spans:
-        print(f"synthesise: resetting {len(bad_spans)} cluster(s) with bad event span")
+        print(f"synthesise: fixing {len(bad_spans)} cluster(s) with bad event span")
         for cid in bad_spans:
-            cache_mod.set_event_dates(conn, cid, None, None)
+            cluster = cache_mod.load_cluster(conn, cid)
+            if cluster and cluster.get("event_start"):
+                # Keep event_start, clear only event_end — this breaks the reset
+                # loop: NULL event_end is never flagged as a bad span, so the
+                # cluster stays on the calendar for just its start date.
+                cache_mod.set_event_dates(conn, cid, cluster["event_start"], None)
+            else:
+                cache_mod.set_event_dates(conn, cid, None, None)
 
     backfill = set(cache_mod.clusters_needing_synthesis(conn))
     to_synthesise = touched_cluster_ids | backfill
