@@ -21,7 +21,7 @@ USER_AGENT = (
 )
 REQUEST_TIMEOUT_S = 20
 INTER_REQUEST_DELAY_S = 0.5
-DEFAULT_WITHIN_DAYS = 7  # places/openings/culture window per spec
+DEFAULT_WITHIN_DAYS = 2  # 48h window keeps yesterday's articles without re-surfacing a week of backlog
 
 
 def _fetch_html(url: str) -> str:
