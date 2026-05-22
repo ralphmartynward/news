@@ -72,7 +72,8 @@ def open_cache(path: Path = DEFAULT_DB_PATH) -> sqlite3.Connection:
     return conn
 
 
-_SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com", "gmail.com",
+_SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com",
+                   # gmail.com removed — see _SYSTEM_SENDER_DOMAINS comment
                    "microsoft.com", "outlook.com", "hotmail.com", "apple.com", "icloud.com",
                    # Fallback source keys produced when a newsletter extractor returns empty —
                    # the extractor now works so these stale single-item fallbacks should be purged

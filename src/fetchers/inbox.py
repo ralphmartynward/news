@@ -41,7 +41,10 @@ _TRANSACTIONAL_SUBJECT_RE = re.compile(
     re.IGNORECASE,
 )
 _SYSTEM_SENDER_DOMAINS = frozenset({
-    "google.com", "accounts.google.com", "googlemail.com", "gmail.com",
+    "google.com", "accounts.google.com", "googlemail.com",
+    # gmail.com removed: Gmail auto-forwards real newsletters (e.g. L'Essentiel)
+    # and those would be blocked here. Gmail system emails (forwarding
+    # confirmations, delivery failures) are already caught by subject regex.
     "microsoft.com", "outlook.com", "hotmail.com",
     "apple.com", "icloud.com",
 })
@@ -366,7 +369,9 @@ _CONTENT_EXTRACTORS: list[tuple[Callable, Callable[[str, str], bool]]] = [
         _extract_lessentiel,
         # Use loose check: Gmail forwarding may normalise attribute quotes
         # or reformat whitespace, so match on class name + domain only.
-        lambda html, text: "tmob" in html and "lessentiel.fr" in html,
+        # Also check text: Gmail forwarding may deliver empty html but text
+        # still contains lessentiel.fr links — routing prevents transactional block
+        lambda html, text: ("tmob" in html and "lessentiel.fr" in html) or "lessentiel.fr" in text,
     ),
     (
         _extract_clutch,
