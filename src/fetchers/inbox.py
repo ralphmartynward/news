@@ -351,101 +351,12 @@ def _extract_clutch(
     return items
 
 
-def _extract_bonbon(
-    html: str,
-    text: str,
-    received_at: datetime,
-    from_addr: str,
-) -> list[dict[str, Any]]:
-    """Extract individual articles from Le Bonbon Toulouse newsletter.
-
-    Article links are tracking URLs (redir.ownpage.fr) whose base64 payload
-    contains the real URL under the 'ur' key.  Only toulouse/ articles are
-    kept (excludes bonbontv and other-city pages).  Where no per-article H1
-    exists the title falls back to the URL slug (synthesis rewrites it anyway).
-    """
-    try:
-        import base64 as _b64
-        import json as _json
-
-        from bs4 import BeautifulSoup
-
-        soup = BeautifulSoup(html, "html.parser")
-        for tag in soup.find_all(["style", "script", "head"]):
-            tag.decompose()
-
-        _BONBON_URL = re.compile(r"lebonbon\.fr/toulouse/(?!bonbontv)", re.I)
-        _SECTION_HDRS = frozenset({
-            "\xe0 ne pas manquer",
-            "4 bonnes nouvelles qui font du bien",
-            "les bons plans",
-            "la citation de la semaine",
-        })
-
-        def decode_ownpage(href: str) -> str:
-            b64 = href.split("/")[-1]
-            b64 += "=" * (4 - len(b64) % 4)
-            try:
-                return _json.loads(_b64.b64decode(b64)).get("ur", "")
-            except Exception:
-                return ""
-
-        # Keep the LAST link for each URL (text link, not preceding image link)
-        url_to_anchor: dict[str, Any] = {}
-        for a in soup.find_all("a", href=True):
-            if "redir.ownpage.fr" not in a["href"]:
-                continue
-            url = decode_ownpage(a["href"])
-            if _BONBON_URL.search(url):
-                url_to_anchor[url] = a
-
-        items: list[dict[str, Any]] = []
-        for url, anchor in url_to_anchor.items():
-            # Title: nearest preceding H1 that is not a generic section header
-            title = ""
-            h1 = anchor.find_previous("h1")
-            if h1:
-                h1_text = h1.get_text(strip=True)
-                if h1_text.lower() not in _SECTION_HDRS and len(h1_text) > 10:
-                    title = h1_text
-            if not title:
-                # Strip query string first, then get last path segment
-                slug = url.split("?")[0].rstrip("/").split("/")[-1]
-                title = slug.replace("-", " ").strip().title()[:80]
-
-            # Description: nearest preceding P with substantive content
-            desc = ""
-            for p in anchor.find_all_previous("p"):
-                p_text = p.get_text(strip=True)
-                if len(p_text) > 30 and not p_text.lower().startswith("lire"):
-                    desc = p_text
-                    break
-
-            items.append({
-                "source": "le_bonbon",
-                "url": url,
-                "title": title,
-                "published_at": received_at.isoformat(),
-                "raw_html": None,
-                "extracted_text": desc[:LESSENTIEL_TEXT_CAP],
-                "item_type": "news",
-                "event_date": None,
-                "metadata": {"from": from_addr},
-            })
-
-        return items
-    except Exception as _exc:
-        import sys as _sys
-        print(f"inbox: _extract_bonbon failed — {type(_exc).__name__}: {_exc}", file=_sys.stderr)
-        return []
-
 
 # Map sender-domain suffix → extractor function
 SENDER_EXTRACTORS: dict[str, Callable[[str, str, datetime, str], list[dict[str, Any]]]] = {
     "toulouse.lessentiel.fr": _extract_lessentiel,
     "clutchmag.fr": _extract_clutch,
     "tourinsoft.com": _extract_officetourisme,
-    "newsletter-lebonbon.fr": _extract_bonbon,
 }
 
 # Content-based detection: used when the email was forwarded (e.g. Gmail auto-forward
@@ -464,10 +375,6 @@ _CONTENT_EXTRACTORS: list[tuple[Callable, Callable[[str, str], bool]]] = [
     (
         _extract_officetourisme,
         lambda html, text: "EN SAVOIR PLUS" in html and "tourinsoft.com" in (html + text),
-    ),
-    (
-        _extract_bonbon,
-        lambda html, text: "redir.ownpage.fr" in html and "lebonbon.fr" in html,
     ),
 ]
 

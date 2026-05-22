@@ -77,7 +77,8 @@ _SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com", "gmail
                    # Fallback source keys produced when a newsletter extractor returns empty —
                    # the extractor now works so these stale single-item fallbacks should be purged
                    "tourinsoft",           # OfficeTourisme fallback (extractor produces "office_tourisme")
-                   "newsletter-lebonbon",  # Le Bonbon fallback (extractor produces "le_bonbon")
+                   "newsletter-lebonbon",  # Le Bonbon fallback
+                   "le_bonbon",            # Le Bonbon extracted items (source removed)
                    )
 
 
