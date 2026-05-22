@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-05-22T17:59:15.911443+00:00</updated>
+  <updated>2026-05-22T20:41:09.313503+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -1228,5 +1228,19 @@
     <summary>La 2e édition des « 12 heures du Gesù » se tiendra ce samedi 23 mai 2026, de midi à minuit, dans l'église du Gesù, édifice du XIXe siècle désacralisé situé rue des Fleurs dans le quartier des Carmes, récemment classé Monument de la Ville. Douze structures toulousaines proposeront des performances musicales inhabituelles pour ce type de lieu : DJ sets, rock joué sur l'orgue classé Monument Historique par le groupe Tubi Nebulosi, création scénique de l'ensemble À bout de souffle, et bien d'autres. L'entrée et la sortie sont libres tout au long de la journée, selon la jauge disponible à chaque instant. La première édition avait réuni plus de 1 000 personnes ; une buvette et un food-truck seront également présents à l'extérieur.</summary>
     <category term="event"/>
     <published>2026-05-21T11:01:11+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:bfce8fac-cc9f-43b3-954d-b279c119ee6b</id>
+    <title>💧Une goutte d'eau</title>
+    <updated>2026-05-22T20:41:09.313503+00:00</updated>
+    <author>
+      <name>gmail.com</name>
+    </author>
+    <content type="html">&lt;p&gt;Et aussi : La Nuit des Rois et celle des musées ; du sport et des idées de sorties pour ce grand week-end...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNw2n-ojEA0_ueglPXEInSa6q36zNHFWPFs1o2jkNL1keg&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;gmail.com&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNw2n-ojEA0_ueglPXEInSa6q36zNHFWPFs1o2jkNL1keg&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Et aussi : La Nuit des Rois et celle des musées ; du sport et des idées de sorties pour ce grand week-end...</summary>
+    <category term="news"/>
+    <published>2026-05-22T04:09:12.579000+00:00</published>
   </entry>
 </feed>
