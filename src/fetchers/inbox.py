@@ -356,7 +356,9 @@ SENDER_EXTRACTORS: dict[str, Callable[[str, str, datetime, str], list[dict[str, 
 _CONTENT_EXTRACTORS: list[tuple[Callable, Callable[[str, str], bool]]] = [
     (
         _extract_lessentiel,
-        lambda html, text: 'class="tmob"' in html and "lessentiel.fr" in html,
+        # Use loose check: Gmail forwarding may normalise attribute quotes
+        # or reformat whitespace, so match on class name + domain only.
+        lambda html, text: "tmob" in html and "lessentiel.fr" in html,
     ),
     (
         _extract_clutch,
