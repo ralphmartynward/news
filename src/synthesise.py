@@ -120,21 +120,14 @@ def extract_event_dates(cluster: dict[str, Any]) -> tuple[str | None, str | None
         return None, None
 
     prompt = (
-        "Extract the event date(s) from this Toulouse event digest entry.
-"
-        f"Title: {title}
-"
-        f"Summary: {summary[:400]}
-
-"
+        "Extract the event date(s) from this Toulouse event digest entry.\n"
+        f"Title: {title}\n"
+        f"Summary: {summary[:400]}\n\n"
         "Rules: event_end must ONLY be set for events that run continuously every day "
         "(e.g. a 3-day festival May 13-16). For events with separate discrete dates "
         "(e.g. 'le 22 mai et le 14 juin') use only event_start for the EARLIEST date "
-        "and leave event_end null.
-"
-        "Use null if dates cannot be determined. Assume year 2026 unless stated.
-
-"
+        "and leave event_end null.\n"
+        "Use null if dates cannot be determined. Assume year 2026 unless stated.\n\n"
         'Return ONLY: {"event_start": "YYYY-MM-DD" or null, "event_end": "YYYY-MM-DD" or null}'
     )
     try:
