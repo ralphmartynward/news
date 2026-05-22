@@ -283,7 +283,9 @@ def _extract_officetourisme(
 
         return items
 
-    except Exception:
+    except Exception as _exc:
+        import sys as _sys
+        print(f"inbox: _extract_officetourisme failed — {type(_exc).__name__}: {_exc}", file=_sys.stderr)
         return []
 
 
@@ -432,7 +434,9 @@ def _extract_bonbon(
             })
 
         return items
-    except Exception:
+    except Exception as _exc:
+        import sys as _sys
+        print(f"inbox: _extract_bonbon failed — {type(_exc).__name__}: {_exc}", file=_sys.stderr)
         return []
 
 
