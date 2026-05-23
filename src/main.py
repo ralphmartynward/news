@@ -157,6 +157,10 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
     # Reset event dates for clusters whose span is suspiciously long (discrete
     # dates mistaken for a continuous range). Clearing them here means they're
     # picked up by the date_backfill pass later in this same run.
+    wrong_year = cache_mod.reset_wrong_year_event_dates(conn)
+    if wrong_year:
+        print(f"synthesise: reset {wrong_year} cluster(s) with wrong event year")
+
     bad_spans = cache_mod.clusters_with_bad_event_span(conn, max_days=3)
     if bad_spans:
         print(f"synthesise: fixing {len(bad_spans)} cluster(s) with bad event span")

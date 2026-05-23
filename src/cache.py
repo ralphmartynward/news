@@ -301,6 +301,24 @@ def clusters_needing_synthesis(conn: sqlite3.Connection) -> list[str]:
     return [r["cluster_id"] for r in rows]
 
 
+def reset_wrong_year_event_dates(conn: sqlite3.Connection, expected_year: int = 2026) -> int:
+    """Clear event_start/end for clusters whose year doesn't match expected_year.
+
+    Synthesis sometimes infers the wrong year (e.g. 2025 instead of 2026) when the
+    source text says 'samedi 23 mai' without an explicit year.  These clusters are
+    outside the calendar window and would never appear.  Resetting them lets the
+    date-backfill pass re-extract with the corrected year assumption.
+    """
+    cur = conn.execute(
+        "UPDATE clusters SET event_start = NULL, event_end = NULL "
+        "WHERE category = 'event' AND event_start IS NOT NULL "
+        "AND event_start NOT LIKE ?",
+        (f"{expected_year}%",),
+    )
+    conn.commit()
+    return cur.rowcount
+
+
 def clusters_with_bad_event_span(conn: sqlite3.Connection, max_days: int = 7) -> list[str]:
     """Event clusters whose event_end is more than max_days after event_start.
     These are likely the result of Claude spanning discrete dates into a continuous
