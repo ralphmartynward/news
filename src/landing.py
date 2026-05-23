@@ -99,6 +99,60 @@ def _calendar_events_json(calendar_events: list[dict[str, Any]] | None) -> str:
     return _json.dumps(items, ensure_ascii=False)
 
 
+def _pagination_chips(
+    archive_dates: list[dict[str, str]],
+    current_date: date | None,
+) -> list[dict]:
+    """Return context-aware pagination chips for the archive nav.
+
+    Each chip is one of:
+      {'date': '2026-05-21', 'short': '21 mai', 'is_current': bool}
+      {'is_ellipsis': True}
+
+    On today's page (current_date=None): show 3 most-recent + … + oldest.
+    On an archive page: show 1 neighbour each side of current + … + oldest,
+    with the current chip marked is_current=True.
+    """
+    n = len(archive_dates)
+    if n == 0:
+        return []
+
+    current_iso = current_date.isoformat() if current_date else None
+    current_idx: int | None = None
+    if current_iso:
+        for i, arc in enumerate(archive_dates):
+            if arc["date"] == current_iso:
+                current_idx = i
+                break
+
+    result: list[dict] = []
+
+    if current_idx is None:
+        # Today's page — show 3 newest + … + oldest
+        shown = set()
+        for arc in archive_dates[:3]:
+            result.append({**arc, "is_current": False, "is_ellipsis": False})
+            shown.add(arc["date"])
+        if n > 4:
+            result.append({"is_ellipsis": True})
+        if n > 3 and archive_dates[-1]["date"] not in shown:
+            result.append({**archive_dates[-1], "is_current": False, "is_ellipsis": False})
+    else:
+        # Archive page — show window [idx-1 .. idx+1], then … + oldest
+        lo = max(0, current_idx - 1)
+        hi = min(n - 1, current_idx + 1)
+        shown = set()
+        for i in range(lo, hi + 1):
+            result.append({**archive_dates[i], "is_current": (i == current_idx), "is_ellipsis": False})
+            shown.add(archive_dates[i]["date"])
+        if hi < n - 2:
+            result.append({"is_ellipsis": True})
+        if n > 0 and archive_dates[-1]["date"] not in shown:
+            result.append({**archive_dates[-1], "is_current": (current_idx == n - 1), "is_ellipsis": False})
+
+    return result
+
+
 def _build_calendar_days(
     events: list[dict[str, Any]],
     *,
@@ -313,6 +367,7 @@ def render(
         jsonld=jsonld,
         calendar_days=calendar_days,
         calendar_events_json=_calendar_events_json(calendar_events),
+        pagination_chips=_pagination_chips(archive_dates or [], filter_date),
     )
 
     out_path.parent.mkdir(parents=True, exist_ok=True)

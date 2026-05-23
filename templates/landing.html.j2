@@ -218,6 +218,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
   transition: background 120ms, color 120ms;
 }
 .arc-btn:hover { background: #0f172a; color: #fff; border-color: #0f172a; }
+.arc-btn-current { background: #0f172a; color: #fff; border-color: #0f172a; cursor: default; pointer-events: none; }
 
 /* ── Empty state ── */
 .empty {
@@ -346,15 +347,15 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
   <div style="margin-top:{% if is_archive %}8{% else %}0{% endif %}px;">
     <div class="sec-label" style="margin-bottom:8px;">Éditions précédentes</div>
     <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;">
-      {% for arc in archive_dates[:3] %}
-      <a href="/archive/{{ arc.date }}.html" class="arc-btn">{{ arc.short }}</a>
+      {% for chip in pagination_chips %}
+        {% if chip.is_ellipsis %}
+        <span style="color:#94a3b8;font-size:14px;font-weight:700;padding:0 4px;">…</span>
+        {% elif chip.is_current %}
+        <span class="arc-btn arc-btn-current">{{ chip.short }}</span>
+        {% else %}
+        <a href="/archive/{{ chip.date }}.html" class="arc-btn">{{ chip.short }}</a>
+        {% endif %}
       {% endfor %}
-      {% if archive_dates|length > 4 %}
-      <span style="color:#94a3b8;font-size:14px;font-weight:700;padding:0 2px;">…</span>
-      {% endif %}
-      {% if archive_dates|length > 3 %}
-      <a href="/archive/{{ archive_dates[-1].date }}.html" class="arc-btn">{{ archive_dates[-1].short }}</a>
-      {% endif %}
     </div>
   </div>
   {% endif %}

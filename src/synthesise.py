@@ -32,12 +32,14 @@ def _format_items(items: list[dict[str, Any]]) -> str:
 
 
 def _build_prompt(items: list[dict[str, Any]]) -> str:
+    import datetime as _dt
     template = PROMPT_PATH.read_text(encoding="utf-8")
     sources = sorted({it.get("source", "") for it in items if it.get("source")})
     return (
         template.replace("{N}", str(len(items)))
         .replace("{sources}", ", ".join(sources))
         .replace("{items}", _format_items(items))
+        .replace("{year}", str(_dt.datetime.now().year))
     )
 
 
@@ -127,7 +129,7 @@ def extract_event_dates(cluster: dict[str, Any]) -> tuple[str | None, str | None
         "(e.g. a 3-day festival May 13-16). For events with separate discrete dates "
         "(e.g. 'le 22 mai et le 14 juin') use only event_start for the EARLIEST date "
         "and leave event_end null.\n"
-        "Use null if dates cannot be determined. Assume year 2026 unless stated.\n\n"
+        f"Use null if dates cannot be determined. Assume year {__import__('datetime').datetime.now().year} unless stated.\n\n"
         'Return ONLY: {"event_start": "YYYY-MM-DD" or null, "event_end": "YYYY-MM-DD" or null}'
     )
     try:

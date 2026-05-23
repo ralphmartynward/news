@@ -301,14 +301,15 @@ def clusters_needing_synthesis(conn: sqlite3.Connection) -> list[str]:
     return [r["cluster_id"] for r in rows]
 
 
-def reset_wrong_year_event_dates(conn: sqlite3.Connection, expected_year: int = 2026) -> int:
+def reset_wrong_year_event_dates(conn: sqlite3.Connection, expected_year: int | None = None) -> int:
     """Clear event_start/end for clusters whose year doesn't match expected_year.
 
-    Synthesis sometimes infers the wrong year (e.g. 2025 instead of 2026) when the
-    source text says 'samedi 23 mai' without an explicit year.  These clusters are
-    outside the calendar window and would never appear.  Resetting them lets the
-    date-backfill pass re-extract with the corrected year assumption.
+    Synthesis sometimes infers the wrong year when the source text says 'samedi 23 mai'
+    without an explicit year.  Resetting lets the backfill re-extract with the correct
+    year assumption.  Defaults to the current calendar year.
     """
+    if expected_year is None:
+        expected_year = datetime.now(timezone.utc).year
     cur = conn.execute(
         "UPDATE clusters SET event_start = NULL, event_end = NULL "
         "WHERE category = 'event' AND event_start IS NOT NULL "
