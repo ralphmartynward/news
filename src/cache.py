@@ -73,13 +73,16 @@ def open_cache(path: Path = DEFAULT_DB_PATH) -> sqlite3.Connection:
 
 
 _SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com",
-                   # gmail.com removed — see _SYSTEM_SENDER_DOMAINS comment
                    "microsoft.com", "outlook.com", "hotmail.com", "apple.com", "icloud.com",
-                   # Fallback source keys produced when a newsletter extractor returns empty —
-                   # the extractor now works so these stale single-item fallbacks should be purged
-                   "tourinsoft",           # OfficeTourisme fallback (extractor produces "office_tourisme")
-                   "newsletter-lebonbon",  # Le Bonbon fallback
-                   "le_bonbon",            # Le Bonbon extracted items (source removed)
+                   # gmail.com: purge fallback items from Gmail-forwarded emails whose HTML
+                   # was empty (old KV entries). NOT in _SYSTEM_SENDER_DOMAINS so future
+                   # emails still pass the transactional check and reach content detection.
+                   "gmail.com",
+                   # Fallback source keys produced when a newsletter extractor returns empty
+                   "tourinsoft",                # OfficeTourisme fallback
+                   "newsletter-lebonbon",       # Le Bonbon fallback (extractor era, no .fr)
+                   "newsletter-lebonbon.fr",    # Le Bonbon fallback (post-extractor, full domain)
+                   "le_bonbon",                 # Le Bonbon extracted items (source removed)
                    )
 
 
