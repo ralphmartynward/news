@@ -43,10 +43,11 @@ _TRANSACTIONAL_SUBJECT_RE = re.compile(
 _SYSTEM_SENDER_DOMAINS = frozenset({
     "google.com", "accounts.google.com", "googlemail.com",
     # gmail.com removed: Gmail auto-forwards real newsletters (e.g. L'Essentiel)
-    # and those would be blocked here. Gmail system emails (forwarding
-    # confirmations, delivery failures) are already caught by subject regex.
+    # and those would be blocked here. Gmail system emails are caught by subject regex.
     "microsoft.com", "outlook.com", "hotmail.com",
     "apple.com", "icloud.com",
+    # Newsletters removed from digest — block at fetch time so no fallback item is created
+    "newsletter-lebonbon.fr",
 })
 _TRANSACTIONAL_BODY_RE = re.compile(
     r"(e-mail\s+de\s+confirmation|confirmer\s+votre\s+inscription"
