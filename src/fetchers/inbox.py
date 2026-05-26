@@ -41,12 +41,14 @@ _TRANSACTIONAL_SUBJECT_RE = re.compile(
     re.IGNORECASE,
 )
 _SYSTEM_SENDER_DOMAINS = frozenset({
-    "google.com", "accounts.google.com", "googlemail.com",
-    # gmail.com removed: Gmail auto-forwards real newsletters (e.g. L'Essentiel)
-    # and those would be blocked here. Gmail system emails are caught by subject regex.
+    "google.com", "accounts.google.com", "googlemail.com", "gmail.com",
+    # gmail.com restored: L'Essentiel now has a direct subscription
+    # (newsletters@lavillerose.com → arrives from @toulouse.lessentiel.fr,
+    # handled by sender-based routing before this check). Gmail-forwarded
+    # copies produce useless fallback cards so block them here.
     "microsoft.com", "outlook.com", "hotmail.com",
     "apple.com", "icloud.com",
-    # Newsletters removed from digest — block at fetch time so no fallback item is created
+    # Newsletters removed from digest
     "newsletter-lebonbon.fr",
 })
 _TRANSACTIONAL_BODY_RE = re.compile(
