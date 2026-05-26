@@ -135,24 +135,9 @@ def _extract_lessentiel(
         if not title:
             continue
 
-        # Full article content: extract all readable text from the content
-        # area (lead + sub-headings + bullet points). This feeds synthesis,
-        # not the end-user; Claude will distil it into 4-6 sentences.
-        content_div = table.find("div", style=lambda s: s and "margin-top:20px" in s)
-        if content_div:
-            # remove share / social blocks
-            for share_div in content_div.find_all("div", style=lambda s: s and "text-align:center" in (s or "")):
-                share_div.decompose()
-            summary = content_div.get_text(separator="\n", strip=True)
-        else:
-            lead = table.find("p", class_="first-paragraph")
-            summary = lead.get_text(separator=" ", strip=True) if lead else ""
-
-        # URL: L'Essentiel has no standalone article pages — the newsletter
-        # IS the article. Use the newsletter date page with the article anchor
-        # so each article has a unique URL (required: url is the cache primary
-        # key, so shared URLs would collapse all articles to one cache entry).
-        # The anchor also filters out promo blocks (#autopromo is non-numeric).
+        # URL: search BEFORE any decompose — the anchor lives inside the
+        # share block (a mailto: link with the newsletter URL in the body)
+        # which would be removed by the text-align:center decompose below.
         url: str | None = None
         for a in table.find_all("a", href=True):
             m = anchor_re.search(a["href"])
@@ -163,6 +148,19 @@ def _extract_lessentiel(
 
         if not url:
             continue  # promo block — no numeric anchor found
+
+        # Full article content: extract all readable text from the content
+        # area (lead + sub-headings + bullet points). This feeds synthesis,
+        # not the end-user; Claude will distil it into 4-6 sentences.
+        content_div = table.find("div", style=lambda s: s and "margin-top:20px" in s)
+        if content_div:
+            # remove share / social blocks (safe now — URL already captured above)
+            for share_div in content_div.find_all("div", style=lambda s: s and "text-align:center" in (s or "")):
+                share_div.decompose()
+            summary = content_div.get_text(separator="\n", strip=True)
+        else:
+            lead = table.find("p", class_="first-paragraph")
+            summary = lead.get_text(separator=" ", strip=True) if lead else ""
 
         items.append({
             "source": "lessentiel",
