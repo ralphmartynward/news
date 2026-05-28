@@ -86,6 +86,22 @@ _SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com",
                    )
 
 
+def purge_newsletter_fallbacks(conn: sqlite3.Connection) -> int:
+    """Remove single-item fallback entries for newsletters whose extractor is now fixed.
+
+    When a newsletter extractor returns [] (e.g. L'Essentiel before the URL-ordering
+    fix), the fallback handler creates one item using the email subject as title and a
+    tracking URL.  Properly extracted items have canonical /newsletter/…#ID URLs.
+    This deletes fallback items whose URL does NOT match the canonical pattern.
+    """
+    cur = conn.execute(
+        "DELETE FROM items WHERE source = 'lessentiel' "
+        "AND url NOT LIKE '%lessentiel.fr/newsletter/toulouse/%'"
+    )
+    conn.commit()
+    return cur.rowcount
+
+
 def purge_system_sources(conn: sqlite3.Connection) -> int:
     """Remove cached items whose source key matches known system/transactional senders."""
     placeholders = ",".join("?" * len(_SYSTEM_SOURCES))

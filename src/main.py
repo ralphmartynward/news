@@ -123,6 +123,9 @@ def _cluster_today(items: list[dict[str, Any]]):
     cleaned = cache_mod.purge_system_sources(conn)
     if cleaned:
         print(f"cache: purged {cleaned} item(s) from system/transactional senders")
+    fb_cleaned = cache_mod.purge_newsletter_fallbacks(conn)
+    if fb_cleaned:
+        print(f"cache: purged {fb_cleaned} newsletter fallback item(s)")
 
     cached = cache_mod.load_recent(conn)
     print(f"cache: {len(cached)} items in 7-day window")

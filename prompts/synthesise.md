@@ -13,7 +13,7 @@ Generate:
    - event_name: the short proper name of the event itself, 2–5 words (e.g. "Le Bus Figaro", "Echos & Merveilles", "Star Academy Tour", "Bigflo & Oli"). This is what people call the event, not the article headline. Leave null if no distinct event name exists.
 6. Pick exactly one category for the cluster:
    - "news": hard news, civic announcements, weather alerts, sports results, politics, public-safety updates, current events.
-   - "event": scheduled events with a specific date — concerts, festivals, exhibitions, markets, performances, screenings. Things you might attend.
+   - "event": dedicated event listings with specific attendance details (venue, date, time) — concert listings, festival programmes, exhibition schedules, market dates. The content should be primarily an invitation to attend, not a news article that mentions an event in passing. A news story about an artist performing, a review of an event, or an article that reports on something happening is "news", not "event".
    - "place": places, openings, closures — restaurants, bars, shops, hotels, neighbourhood spots, hospitality. Things to visit or eat at.
    - "culture": cultural coverage that isn't tied to a single date — artist profiles, film/book reviews, cultural trends, cinema, art.
    If a story crosses categories, pick the one most useful to a reader scanning the digest. Don't be afraid to put a "Toulouscope" article in "news" if it's about civic info, or an "Actu Toulouse" article in "place" if it's about a new restaurant.
