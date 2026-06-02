@@ -81,20 +81,48 @@ def _with_utm(url: str) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(q), parts.fragment))
 
 
+_URL_TO_SOURCE: dict[str, str] = {
+    "tourinsoft.com": "office_tourisme",
+    "toulouse-tourisme.com": "office_tourisme",
+    "lessentiel.fr": "lessentiel",
+    "toulouscope.fr": "toulouscope",
+    "lebonbon.fr": "le_bonbon",
+    "actu.fr": "actu_toulouse",
+    "ladepeche.fr": "la_depeche",
+}
+
+
+def _infer_source(ev: dict[str, Any]) -> str:
+    """Return a source key from the event dict, falling back to URL-based inference
+    when the source field is NULL (items have been pruned from the DB)."""
+    src = ev.get("source") or ""
+    if src:
+        return src
+    url = ev.get("url") or ""
+    for domain, key in _URL_TO_SOURCE.items():
+        if domain in url:
+            return key
+    return ""
+
+
 def _calendar_events_json(calendar_events: list[dict[str, Any]] | None) -> str:
     """Serialize calendar events to a JSON string safe for embedding in a <script> tag."""
     items = []
     for ev in (calendar_events or []):
         if not ev.get("event_start"):
             continue
+        url = _with_utm(ev.get("url") or "")
+        if not url:
+            continue  # skip events with no article URL — card would link to current page
+        src = _infer_source(ev)
         items.append({
             "event_start": ev["event_start"],
             "event_end": ev.get("event_end") or None,
             "title": ev.get("title") or "",
             "event_name": ev.get("event_name") or ev.get("title") or "",
             "summary": _summarise(ev.get("summary") or ""),
-            "url": _with_utm(ev.get("url") or ""),
-            "source_label": SOURCE_LABELS.get(ev.get("source", ""), ev.get("source", "") or "Source"),
+            "url": url,
+            "source_label": SOURCE_LABELS.get(src, src or "Source"),
         })
     return _json.dumps(items, ensure_ascii=False)
 

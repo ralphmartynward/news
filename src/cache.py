@@ -278,19 +278,23 @@ def mark_shown(conn: sqlite3.Connection, urls: Iterable[str]) -> None:
     conn.commit()
 
 
-def clusters_to_email(conn: sqlite3.Connection) -> list[str]:
-    """Cluster_ids that should appear in today's email:
-    - Clusters with items but no synthesis row yet (synthesis may have failed)
-    - Clusters with synthesis and emailed_at IS NULL (synthesised, not yet sent)
-    Excludes clusters already marked as emailed.
+def clusters_to_email(conn: sqlite3.Connection, within_hours: int = 48) -> list[str]:
+    """Cluster_ids that should appear in today's email.
+
+    Restricted to clusters that have at least one item with seen_at within
+    the last `within_hours` hours.  This prevents old clusters (e.g. from
+    a day when the email send failed) from resurfacing in subsequent emails
+    even though their emailed_at is still NULL.
     """
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=within_hours)).isoformat()
     rows = conn.execute(
         """SELECT DISTINCT i.cluster_id
            FROM items i
            LEFT JOIN clusters c ON c.cluster_id = i.cluster_id
-           WHERE c.cluster_id IS NULL      -- synthesis never ran / failed
-              OR c.emailed_at IS NULL      -- synthesised, not yet emailed
-        """
+           WHERE i.seen_at >= ?
+             AND (c.cluster_id IS NULL OR c.emailed_at IS NULL)
+        """,
+        (cutoff,),
     ).fetchall()
     return [r["cluster_id"] for r in rows]
 
