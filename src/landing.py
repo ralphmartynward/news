@@ -251,6 +251,16 @@ def _build_entry(e: Any) -> dict[str, Any]:
         if getattr(e, "published_parsed", None)
         else None
     )
+    # Use updated (digest processing date) for the card date label so it always
+    # matches the archive page the card appears on.  For single-source clusters
+    # updated ≈ published; for multi-source clusters updated reflects when the
+    # latest source was fetched, which is more accurate than the oldest item's
+    # publication date.
+    updated = (
+        datetime(*e.updated_parsed[:6], tzinfo=ZoneInfo("UTC"))
+        if getattr(e, "updated_parsed", None)
+        else published
+    )
     source_key = _entry_source(e)
     summary_text = e.get("summary", "") or (
         e.get("content", [{}])[0].get("value", "") if e.get("content") else ""
@@ -260,7 +270,7 @@ def _build_entry(e: Any) -> dict[str, Any]:
         "title": e.title,
         "source_key": source_key,
         "source_label": SOURCE_LABELS.get(source_key, source_key or "Source"),
-        "published_label": _french_short_date(published) if published else "",
+        "published_label": _french_short_date(updated) if updated else "",
         "published_iso": published.isoformat() if published else "",
         "summary": _summarise(summary_text) if summary_text else "",
     }
