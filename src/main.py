@@ -198,6 +198,13 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                     print(f"  {cid}: skipped (insufficient content)")
                     continue
                 primary = min(items, key=lambda i: i["published_at"])
+                event_start = result.get("event_start")
+                event_end = result.get("event_end")
+                # "jusqu'au DATE" pattern: Claude sets event_end only.
+                # Fill event_start from the primary item's publication date
+                # so the event spans from when it was published to the end date.
+                if event_end and not event_start:
+                    event_start = primary["published_at"][:10]
                 cache_mod.upsert_cluster(
                     conn,
                     cid,
@@ -206,8 +213,8 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                     framing_note=result["framing_note"],
                     read_for=result["read_for"],
                     category=result["category"],
-                    event_start=result.get("event_start"),
-                    event_end=result.get("event_end"),
+                    event_start=event_start,
+                    event_end=event_end,
                     event_name=result.get("event_name"),
                     primary_url=primary["url"],
                 )
