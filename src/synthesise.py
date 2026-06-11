@@ -125,11 +125,13 @@ def extract_event_dates(cluster: dict[str, Any]) -> tuple[str | None, str | None
         "Extract the event date(s) from this Toulouse event digest entry.\n"
         f"Title: {title}\n"
         f"Summary: {summary[:400]}\n\n"
-        "Rules: event_end must ONLY be set for events that run continuously every day "
-        "(e.g. a 3-day festival May 13-16). For events with separate discrete dates "
-        "(e.g. 'le 22 mai et le 14 juin') use only event_start for the EARLIEST date "
-        "and leave event_end null.\n"
-        f"Use null if dates cannot be determined. Assume year {__import__('datetime').datetime.now().year} unless stated.\n\n"
+        "Rules:\n"
+        "- Only extract event_start from EXPLICIT day numbers (e.g. 'le 23 mai', 'samedi 14 juin'). "
+        "Do NOT resolve relative expressions like 'ce soir', 'demain', 'samedi prochain', 'ce week-end' "
+        "— these are only valid at publication time and will produce wrong dates during backfill. "
+        "Return null if only relative expressions are present.\n"
+        "- event_end: only for genuinely continuous multi-day events, not discrete separate dates.\n"
+        f"- Assume year {__import__('datetime').datetime.now().year} unless stated.\n\n"
         'Return ONLY: {"event_start": "YYYY-MM-DD" or null, "event_end": "YYYY-MM-DD" or null}'
     )
     try:
