@@ -206,7 +206,7 @@ def _build_calendar_days(
             end_d = date.fromisoformat(end_str)
         except ValueError:
             continue
-        end_d = min(end_d, start_d + timedelta(days=3))
+        end_d = min(end_d, start_d + timedelta(days=30))
         ev_out = dict(ev)
         ev_out["source_label"] = SOURCE_LABELS.get(ev.get("source", ""), ev.get("source", "") or "Source")
         d = start_d

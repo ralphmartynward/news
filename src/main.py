@@ -164,7 +164,7 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
     if wrong_year:
         print(f"synthesise: reset {wrong_year} cluster(s) with wrong event year")
 
-    bad_spans = cache_mod.clusters_with_bad_event_span(conn, max_days=3)
+    bad_spans = cache_mod.clusters_with_bad_event_span(conn, max_days=90)
     if bad_spans:
         print(f"synthesise: fixing {len(bad_spans)} cluster(s) with bad event span")
         for cid in bad_spans:
