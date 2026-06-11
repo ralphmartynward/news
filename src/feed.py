@@ -103,8 +103,17 @@ def write_atom(entries: list[dict[str, Any]], path: Path) -> None:
         fe.link(href=_with_utm(entry["url"]), rel="alternate")
         fe.published(_parse(entry["published_at"]))
         fe.updated(_parse(entry["updated_at"]))
-        for author in entry.get("authors", []):
-            fe.author({"name": author})
+        # Write primary source (earliest published_at) first so feedparser's
+        # e.author returns the right label, not the alphabetically-first one.
+        sources = entry.get("sources", [])
+        primary_src = sources[0]["source"] if sources else ""
+        authors_ordered = (
+            [primary_src] + [a for a in entry.get("authors", []) if a != primary_src]
+            if primary_src else entry.get("authors", [])
+        )
+        for author in authors_ordered:
+            if author:
+                fe.author({"name": author})
         fe.category({"term": entry.get("item_type", "news")})
 
         summary = entry.get("summary", "").strip()

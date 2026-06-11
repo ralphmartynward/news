@@ -186,9 +186,11 @@ _OT_DATE_RE = re.compile(
 _OT_SKIP_RE = re.compile(
     r"(voir le contenu|se d[eé]sabonner|unsubscribe|©|copyright"
     r"|MailingFS|EN SAVOIR PLUS|Les immanquables|Et bien plus encore"
+    r"|Nos bons plans|Tout l.agenda|Tout le programme"
     r"|/\*|\*/)",
     re.IGNORECASE,
 )
+_OT_MIN_DESC_LINES = 2  # skip events with fewer desc lines (section headers, stubs)
 
 
 def _extract_officetourisme(
@@ -270,6 +272,10 @@ def _extract_officetourisme(
 
             excerpt = "\n".join(desc_lines)[:LESSENTIEL_TEXT_CAP]
 
+            # Skip section headers / stub entries with no real description
+            if len(desc_lines) < _OT_MIN_DESC_LINES:
+                continue
+
             # Use a stable unique URL: tracking href if present, else fallback with index
             url = href if href.startswith("http") else f"{fallback_url}-{idx}"
 
@@ -299,10 +305,11 @@ def _extract_clutch(
     received_at: datetime,
     from_addr: str,
 ) -> list[dict[str, Any]]:
-    """Split one Clutch newsletter into per-day event items.
+    """Split one Clutch newsletter into per-event items.
 
-    Structure: day headers ⚡ LUNDI 12 MAI ⚡ followed by event blocks
-    (each starting with ➤), separated by --- lines.
+    Structure: day headers ⚡ LUNDI 12 MAI ⚡ followed by event blocks,
+    each starting with ➤ and separated by --- lines.  Each event block
+    becomes its own item so the calendar can display individual events.
     """
     parts = _CLUTCH_DAY_RE.split(text)
     if len(parts) < 3:
@@ -327,30 +334,46 @@ def _extract_clutch(
         if not content or "➤" not in content:
             continue
 
-        # Split by separator lines (--- blocks) and keep blocks with ➤
-        event_blocks = []
-        for block in re.split(r"\n\s*-{5,}\s*\n", content):
-            block = block.strip()
-            if "➤" in block:
-                event_blocks.append(block)
-
-        if not event_blocks:
-            continue
-
-        excerpt = "\n\n".join(event_blocks)[:LESSENTIEL_TEXT_CAP]
         day_slug = re.sub(r"[^a-z0-9]+", "-", day_label.lower()).strip("-")
 
-        items.append({
-            "source": "clutch",
-            "url": f"https://www.clutchmag.fr/evenements#{date_slug}-{day_slug}",
-            "title": f"Plans Clutch – {day_label}",
-            "published_at": received_at.isoformat(),
-            "raw_html": None,
-            "extracted_text": excerpt,
-            "item_type": "event",
-            "event_date": None,
-            "metadata": {"from": from_addr, "day": day_label},
-        })
+        # Split by separator lines and parse each individual event
+        for block_idx, block in enumerate(re.split(r"\n\s*-{5,}\s*\n", content)):
+            block = block.strip()
+            if "➤" not in block:
+                continue
+
+            block_lines = [l for l in block.splitlines() if l.strip()]
+            if not block_lines:
+                continue
+
+            # Extract title: first line containing ➤
+            title = ""
+            desc_lines: list[str] = []
+            found_title = False
+            for line in block_lines:
+                if not found_title and "➤" in line:
+                    title = re.sub(r"^.*➤\s*", "", line).strip()
+                    found_title = True
+                elif found_title:
+                    desc_lines.append(line)
+
+            if not title:
+                continue
+
+            # Unique URL per event (block_idx avoids cache key collisions)
+            url = f"https://www.clutchmag.fr/evenements#{date_slug}-{day_slug}-{block_idx}"
+
+            items.append({
+                "source": "clutch",
+                "url": url,
+                "title": f"{title} – {day_label}",
+                "published_at": received_at.isoformat(),
+                "raw_html": None,
+                "extracted_text": "\n".join(desc_lines)[:LESSENTIEL_TEXT_CAP],
+                "item_type": "event",
+                "event_date": None,
+                "metadata": {"from": from_addr, "day": day_label},
+            })
 
     return items
 
