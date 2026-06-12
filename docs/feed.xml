@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-06-11T06:37:33.590175+00:00</updated>
+  <updated>2026-06-12T06:36:05.615483+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,471 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:3102b2d9-7a62-45fb-9752-2806cac3ea7d</id>
-    <title>Tout l'agenda</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=c35c5635-c95c-479e-b0b2-52a9e0fe9207&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=c35c5635-c95c-479e-b0b2-52a9e0fe9207&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:9708523c-291b-4484-976c-329b10ca3999</id>
-    <title>Fête des couleurs</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=9e777153-3731-4770-8af1-66d8d90f3bfb&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=9e777153-3731-4770-8af1-66d8d90f3bfb&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:7c4ef8df-e98a-4ec0-bcf3-796bce71b20a</id>
-    <title>Brocantes des allées</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=e9680325-5fc3-4c3f-af06-ac184ecfa3a9&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=e9680325-5fc3-4c3f-af06-ac184ecfa3a9&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:e96f15c9-1b51-4a2d-b2f9-241a2541fe84</id>
-    <title>Nos bons plans</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=c60cebb7-97b3-4f7b-8d4d-758c6fb2ca39&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=c60cebb7-97b3-4f7b-8d4d-758c6fb2ca39&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:880d4237-e423-4ca6-8aec-4778af523954</id>
-    <title>Les Buissonnières : marché gourmand et vins de Fronton en juin et juillet</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;Les Buissonnières proposent deux éditions de leur marché gourmand convivial, les jeudis 11 juin et 9 juillet 2026. L&amp;#x27;événement met à l&amp;#x27;honneur le terroir frontonnais avec des dégustations de vins de Fronton et des produits locaux. Une ambiance musicale festive accompagne le tout, dans un esprit familial et convivial. L&amp;#x27;événement s&amp;#x27;adresse aussi bien aux familles qu&amp;#x27;aux amis souhaitant découvrir ou retrouver les saveurs de la région.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=46fb068e-7add-4a0f-84b6-c6800fa027df&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=46fb068e-7add-4a0f-84b6-c6800fa027df&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les Buissonnières proposent deux éditions de leur marché gourmand convivial, les jeudis 11 juin et 9 juillet 2026. L'événement met à l'honneur le terroir frontonnais avec des dégustations de vins de Fronton et des produits locaux. Une ambiance musicale festive accompagne le tout, dans un esprit familial et convivial. L'événement s'adresse aussi bien aux familles qu'aux amis souhaitant découvrir ou retrouver les saveurs de la région.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:23d86c7f-2023-4a2b-bcf2-4ca49d1edbb2</id>
-    <title>Printemps Lalande : fête familiale sport et spectacle le 6 juin</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;Le quartier Lalande accueille le Printemps Lalande, une journée festive gratuite destinée aux familles et au jeune public. Au programme : initiations sportives, démonstrations et cascades spectaculaires assurées par les célèbres frères Grumaux. L&amp;#x27;événement est entièrement gratuit et se déroule le samedi 6 juin. Une belle occasion de profiter d&amp;#x27;une animation de quartier mêlant sport et spectacle vivant.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=e2fcedf8-1a19-4908-95ba-897713520faf&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=e2fcedf8-1a19-4908-95ba-897713520faf&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le quartier Lalande accueille le Printemps Lalande, une journée festive gratuite destinée aux familles et au jeune public. Au programme : initiations sportives, démonstrations et cascades spectaculaires assurées par les célèbres frères Grumaux. L'événement est entièrement gratuit et se déroule le samedi 6 juin. Une belle occasion de profiter d'une animation de quartier mêlant sport et spectacle vivant.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6b32838e-d39f-42a9-bd3c-3293688f9599</id>
-    <title>Salon Anime Pop &amp; Game : deux jours de pop culture à Toulouse</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;Le salon Anime Pop &amp;amp; Game se tient les samedi 7 et dimanche 8 juin à Toulouse, dédié à la pop culture sous toutes ses formes. Au programme : jeux vidéo, cosplay, jeux de société, illustrateurs et animations variées. L&amp;#x27;événement se veut accessible à toute la famille, dans une ambiance geek, ludique et créative. Selon l&amp;#x27;Office du Tourisme, c&amp;#x27;est une occasion de plonger dans un univers participatif et festif le temps d&amp;#x27;un week-end.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=b4564f6f-ff30-44ce-a564-250f448bc55e&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=b4564f6f-ff30-44ce-a564-250f448bc55e&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le salon Anime Pop &amp; Game se tient les samedi 7 et dimanche 8 juin à Toulouse, dédié à la pop culture sous toutes ses formes. Au programme : jeux vidéo, cosplay, jeux de société, illustrateurs et animations variées. L'événement se veut accessible à toute la famille, dans une ambiance geek, ludique et créative. Selon l'Office du Tourisme, c'est une occasion de plonger dans un univers participatif et festif le temps d'un week-end.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:668fe0eb-10ec-4646-b4e7-c386f0156013</id>
-    <title>Soirées Chill &amp; Chic à la Cour des Consuls tous les samedis d'été</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;La Cour des Consuls lance ses soirées estivales « Chill &amp;amp; Chic » chaque samedi jusqu&amp;#x27;à fin septembre. Au programme : DJ sets dans un cadre intimiste, accompagnés de planches à partager et de boissons. La première date annoncée est le samedi 6 juin. L&amp;#x27;événement s&amp;#x27;adresse à tous ceux qui souhaitent profiter d&amp;#x27;une ambiance lounge dans un lieu select du centre de Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=6b0f3c79-b46c-4716-9dcc-4fd216c58bba&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=6b0f3c79-b46c-4716-9dcc-4fd216c58bba&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Cour des Consuls lance ses soirées estivales « Chill &amp; Chic » chaque samedi jusqu'à fin septembre. Au programme : DJ sets dans un cadre intimiste, accompagnés de planches à partager et de boissons. La première date annoncée est le samedi 6 juin. L'événement s'adresse à tous ceux qui souhaitent profiter d'une ambiance lounge dans un lieu select du centre de Toulouse.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:3eec3dce-23ea-4422-b4ac-7ffe6f18e92d</id>
-    <title>Premier food-tour bio de Toulouse, vendredi 5 et samedi 6 juin</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;Toulouse accueille son tout premier food-tour entièrement consacré au bio, les vendredi 5 et samedi 6 juin. La balade gourmande propose des dégustations et des rencontres avec les artisans locaux qui font vivre l&amp;#x27;alimentation biologique en région. L&amp;#x27;événement met en avant une découverte du tissu artisanal bio toulousain à travers un parcours rythmé et convivial. Il s&amp;#x27;adresse à tous les curieux de gastronomie et de circuits courts souhaitant explorer une autre facette de la ville.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=45966318-de2a-409d-838b-cdc7e0d0d4d3&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=45966318-de2a-409d-838b-cdc7e0d0d4d3&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse accueille son tout premier food-tour entièrement consacré au bio, les vendredi 5 et samedi 6 juin. La balade gourmande propose des dégustations et des rencontres avec les artisans locaux qui font vivre l'alimentation biologique en région. L'événement met en avant une découverte du tissu artisanal bio toulousain à travers un parcours rythmé et convivial. Il s'adresse à tous les curieux de gastronomie et de circuits courts souhaitant explorer une autre facette de la ville.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:e9b8558e-542e-4535-b168-eef1bc70ad93</id>
-    <title>Exposition photo : Pierre-Elie de Pibrac explore un Japon intime</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;Office du tourisme de Toulouse signale une exposition photographique de Pierre-Elie de Pibrac, visible jusqu&amp;#x27;au 30 août 2026. L&amp;#x27;artiste y présente un Japon méconnu, à travers des portraits intimistes et des paysages poétiques. L&amp;#x27;ensemble de l&amp;#x27;œuvre interroge la fragilité et la beauté éphémère de la condition humaine. L&amp;#x27;exposition s&amp;#x27;adresse à tous les amateurs de photographie et de culture japonaise présents à Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=5f08c485-3221-4b3a-9730-4008b90dfcd4&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=5f08c485-3221-4b3a-9730-4008b90dfcd4&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office du tourisme de Toulouse signale une exposition photographique de Pierre-Elie de Pibrac, visible jusqu'au 30 août 2026. L'artiste y présente un Japon méconnu, à travers des portraits intimistes et des paysages poétiques. L'ensemble de l'œuvre interroge la fragilité et la beauté éphémère de la condition humaine. L'exposition s'adresse à tous les amateurs de photographie et de culture japonaise présents à Toulouse.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:93ab71df-cb54-477a-82f5-5d7f470f3f6d</id>
-    <title>WEACT : cinq jours de création contemporaine gratuite à Toulouse</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;WEACT est un événement artistique proposant cinq jours de parcours, expositions, performances et rencontres gratuites à travers Toulouse et sa métropole. La manifestation met à l&amp;#x27;honneur la création contemporaine sous diverses formes, accessibles à tous sans frais d&amp;#x27;entrée. L&amp;#x27;événement se termine le 7 juin 2026, ce qui permet de déduire un début autour du 3 juin. Habitants et visiteurs de Toulouse et de sa métropole sont invités à participer à ce parcours artistique diffus sur le territoire.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=e2e53eaa-6a76-4624-884c-cda803c97d65&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=e2e53eaa-6a76-4624-884c-cda803c97d65&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>WEACT est un événement artistique proposant cinq jours de parcours, expositions, performances et rencontres gratuites à travers Toulouse et sa métropole. La manifestation met à l'honneur la création contemporaine sous diverses formes, accessibles à tous sans frais d'entrée. L'événement se termine le 7 juin 2026, ce qui permet de déduire un début autour du 3 juin. Habitants et visiteurs de Toulouse et de sa métropole sont invités à participer à ce parcours artistique diffus sur le territoire.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:e447a27d-bb7d-4187-ae67-bc37bbaccc2a</id>
-    <title>Spectacle poétique harpe, chant et danse au monastère Sainte-Catherine</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;Le vendredi 5 juin, le monastère Sainte-Catherine accueille « Au fil du temps », un spectacle intimiste mêlant harpe, chant et danse. Le cadre du monastère offre une atmosphère recueillie et propice à cette parenthèse artistique et poétique. L&amp;#x27;événement est présenté comme une expérience émotionnelle, alliant musique et mouvement dans un dialogue entre les arts. Les amateurs de spectacles vivants dans un lieu atypique toulousain sont particulièrement concernés.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=b8aacc8d-4559-4a3f-b873-3cefd6cca9be&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=b8aacc8d-4559-4a3f-b873-3cefd6cca9be&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le vendredi 5 juin, le monastère Sainte-Catherine accueille « Au fil du temps », un spectacle intimiste mêlant harpe, chant et danse. Le cadre du monastère offre une atmosphère recueillie et propice à cette parenthèse artistique et poétique. L'événement est présenté comme une expérience émotionnelle, alliant musique et mouvement dans un dialogue entre les arts. Les amateurs de spectacles vivants dans un lieu atypique toulousain sont particulièrement concernés.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d1ae2037-67ad-41b5-b9f7-a617761b6827</id>
-    <title>Festival « Passe ton bach d'abord » : trois jours de musique baroque</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;Le festival « Passe ton bach d&amp;#x27;abord » se tient du 5 au 7 juin à Toulouse, proposant une plongée éclectique dans l&amp;#x27;univers de Bach. Au programme : concerts, ateliers et performances inédites qui mêlent tradition baroque et réinterprétations contemporaines. L&amp;#x27;événement s&amp;#x27;adresse à un large public, qu&amp;#x27;il soit néophyte ou amateur averti de musique ancienne. Une occasion de découvrir ou redécouvrir Bach sous un angle renouvelé.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=547c089e-6a73-403a-8065-04dee11756ba&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=547c089e-6a73-403a-8065-04dee11756ba&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le festival « Passe ton bach d'abord » se tient du 5 au 7 juin à Toulouse, proposant une plongée éclectique dans l'univers de Bach. Au programme : concerts, ateliers et performances inédites qui mêlent tradition baroque et réinterprétations contemporaines. L'événement s'adresse à un large public, qu'il soit néophyte ou amateur averti de musique ancienne. Une occasion de découvrir ou redécouvrir Bach sous un angle renouvelé.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f00a3568-3664-4c06-b7ae-811b29293a5d</id>
-    <title>Exposition immersive Mister Freeze : street art et sculptures jusqu'au 26 juillet</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;Le festival Mister Freeze propose une exposition immersive à Toulouse, visible jusqu&amp;#x27;au 26 juillet 2026. L&amp;#x27;événement mêle street art, sculptures, fresques et créations réalisées en direct, dans un cadre alliant patrimoine brut et effervescence artistique. Le format immersif et la diversité des disciplines artistiques représentées constituent les points forts mis en avant. L&amp;#x27;exposition s&amp;#x27;adresse à tous les amateurs d&amp;#x27;art urbain et de créations contemporaines.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=65d738f3-73c7-4108-a290-37ed1fff0a1a&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=65d738f3-73c7-4108-a290-37ed1fff0a1a&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le festival Mister Freeze propose une exposition immersive à Toulouse, visible jusqu'au 26 juillet 2026. L'événement mêle street art, sculptures, fresques et créations réalisées en direct, dans un cadre alliant patrimoine brut et effervescence artistique. Le format immersif et la diversité des disciplines artistiques représentées constituent les points forts mis en avant. L'exposition s'adresse à tous les amateurs d'art urbain et de créations contemporaines.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:21a081f7-ca18-4c0e-ac16-8efec5a32534</id>
-    <title>Marche des Fiertés 2026 à Toulouse le 6 juin</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;La Marche des Fiertés de Toulouse se tiendra le samedi 6 juin 2026, dans une ambiance festive, engagée et inclusive. L&amp;#x27;événement, gratuit et ouvert à tous — amis, familles, associations —, rassemblera chars et milliers de participants. Son objectif : célébrer la diversité et défendre les droits LGBTQI+. Aucun détail sur le parcours ou l&amp;#x27;horaire de départ n&amp;#x27;est précisé dans la source.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=9d285f43-e095-4a6d-ac4e-1c285043a088&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=9d285f43-e095-4a6d-ac4e-1c285043a088&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Marche des Fiertés de Toulouse se tiendra le samedi 6 juin 2026, dans une ambiance festive, engagée et inclusive. L'événement, gratuit et ouvert à tous — amis, familles, associations —, rassemblera chars et milliers de participants. Son objectif : célébrer la diversité et défendre les droits LGBTQI+. Aucun détail sur le parcours ou l'horaire de départ n'est précisé dans la source.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5af27dff-84f5-48a0-b9d6-abe4bb71c3f4</id>
-    <title>Rendez-vous aux jardins à Toulouse du 5 au 7 juin</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;événement national « Rendez-vous aux jardins » fait escale à Toulouse du 5 au 7 juin 2026, pour trois jours de découverte des plus beaux jardins de la ville. L&amp;#x27;édition 2026 est placée sous le thème de « La vue », fil conducteur des animations et rencontres proposées tout au long du week-end. La manifestation est gratuite et s&amp;#x27;adresse aussi bien aux familles qu&amp;#x27;aux amis souhaitant s&amp;#x27;évader en plein air. Les détails précis des sites participants et des horaires ne sont pas mentionnés dans l&amp;#x27;extrait disponible.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=1cd38a87-d265-407b-9470-7185f6195a18&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;url_id=1cd38a87-d265-407b-9470-7185f6195a18&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'événement national « Rendez-vous aux jardins » fait escale à Toulouse du 5 au 7 juin 2026, pour trois jours de découverte des plus beaux jardins de la ville. L'édition 2026 est placée sous le thème de « La vue », fil conducteur des animations et rencontres proposées tout au long du week-end. La manifestation est gratuite et s'adresse aussi bien aux familles qu'aux amis souhaitant s'évader en plein air. Les détails précis des sites participants et des horaires ne sont pas mentionnés dans l'extrait disponible.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:49:53.182000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:32d62e02-09aa-4e1a-9f39-eb1542436682</id>
-    <title>Premier week-end de juin chargé à Toulouse : Pride, festivals et sport</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le week-end des 5 et 6 juin 2026 s&amp;#x27;annonce très animé à Toulouse. La 31e Marche des Fiertés est attendue samedi 6 juin avec environ 40 000 personnes au départ de la place du Capitole à 15h, accompagnée d&amp;#x27;un village associatif toute la journée. Le festival de house music ASO, gratuit et déjà sold out lors de sa première édition, revient les 5 et 6 juin au jardin Raymond VI. Le week-end propose également des rendez-vous nature (Village de l&amp;#x27;Eau, Rendez-vous aux Jardins, clean walks sur l&amp;#x27;île du Ramier), des matchs sportifs (Fenix, Stade Toulousain féminin) et un salon de l&amp;#x27;automobile électrique dimanche sur la piste des Géants.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse offre un agenda détaillé avec horaires, lieux et contexte pour chaque événement, tandis que L&amp;#x27;Essentiel présente une liste plus condensée qui inclut des événements supplémentaires non mentionnés par Actu Toulouse (Village de l&amp;#x27;Eau, clean walks, matchs sportifs, salon auto). Les deux sources s&amp;#x27;accordent sur la Pride mais diffèrent légèrement sur les horaires du village associatif (L&amp;#x27;Essentiel indique 10h–14h, Actu Toulouse indique 10h–17h30).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails complets sur la Pride, le festival ASO et le programme estival des Halles de la Cartoucherie&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble rapide du week-end incluant sport, nature et salon automobile&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#42368"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#42368"/>
-    <summary>Le week-end des 5 et 6 juin 2026 s'annonce très animé à Toulouse. La 31e Marche des Fiertés est attendue samedi 6 juin avec environ 40 000 personnes au départ de la place du Capitole à 15h, accompagnée d'un village associatif toute la journée. Le festival de house music ASO, gratuit et déjà sold out lors de sa première édition, revient les 5 et 6 juin au jardin Raymond VI. Le week-end propose également des rendez-vous nature (Village de l'Eau, Rendez-vous aux Jardins, clean walks sur l'île du Ramier), des matchs sportifs (Fenix, Stade Toulousain féminin) et un salon de l'automobile électrique dimanche sur la piste des Géants.</summary>
-    <category term="event"/>
-    <published>2026-06-05T04:08:41.785000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:887ffa32-302f-42e2-b5b4-a0c69950f87d</id>
-    <title>Le Boudu Comedy Club s'invite au CGR de Blagnac ce soir</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Ce soir à 20h30, le Boudu Comedy Club organise une soirée stand-up au CGR de Blagnac, dans une salle de 280 places à 16 euros l&amp;#x27;entrée. Le plateau sera majoritairement toulousain, avec des artistes locaux connus et un vidéaste présent en ligne, même si les noms ne sont pas dévoilés à l&amp;#x27;avance — c&amp;#x27;est la marque de fabrique du club. L&amp;#x27;artiste local Pilou, auteur de l&amp;#x27;affiche de la soirée, tiendra également un stand pour exposer ses œuvres, dans l&amp;#x27;esprit de la scène culturelle locale. Cette soirée marque la fin d&amp;#x27;une année difficile pour l&amp;#x27;association, qui a dû quitter son lieu historique, le bar Boudu Pont à Saint-Cyprien, pour se réinstaller au Flashback Café — et qui ambitionne désormais un « Boudu 3.0 » plus structuré.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#42367"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#42367"/>
-    <summary>Ce soir à 20h30, le Boudu Comedy Club organise une soirée stand-up au CGR de Blagnac, dans une salle de 280 places à 16 euros l'entrée. Le plateau sera majoritairement toulousain, avec des artistes locaux connus et un vidéaste présent en ligne, même si les noms ne sont pas dévoilés à l'avance — c'est la marque de fabrique du club. L'artiste local Pilou, auteur de l'affiche de la soirée, tiendra également un stand pour exposer ses œuvres, dans l'esprit de la scène culturelle locale. Cette soirée marque la fin d'une année difficile pour l'association, qui a dû quitter son lieu historique, le bar Boudu Pont à Saint-Cyprien, pour se réinstaller au Flashback Café — et qui ambitionne désormais un « Boudu 3.0 » plus structuré.</summary>
-    <category term="event"/>
-    <published>2026-06-05T04:08:41.785000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:cc5d03b6-be3b-463a-8310-75974e458677</id>
-    <title>Le Festi'Run revient pour une 3e édition au lac de la Ramée</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Festi&amp;#x27;Run, course solidaire et inclusive organisée par APF France Handicap, tient sa troisième édition ce vendredi au lac de la Ramée, avec un départ à 10 heures. L&amp;#x27;événement mêle handi-sportifs et valides sur deux circuits — une boucle de 2,7 km ou un grand tour de 5 km — sans chronomètre, dans un esprit festif et de partage. Les inscriptions restent ouvertes en ligne ou sur place, et un village d&amp;#x27;animations accueille les non-coureurs jusqu&amp;#x27;à 14 heures, avec des associations, des entreprises partenaires et la possibilité de tester des disciplines comme la boccia. L&amp;#x27;édition est parrainée par deux jeunes handi-sportifs haut-garonnais : Noha Cheuzeville, triple champion de France en para-escrime, et Clément Latorre, 27e mondial en para-tennis de table.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#42365"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#42365"/>
-    <summary>Le Festi'Run, course solidaire et inclusive organisée par APF France Handicap, tient sa troisième édition ce vendredi au lac de la Ramée, avec un départ à 10 heures. L'événement mêle handi-sportifs et valides sur deux circuits — une boucle de 2,7 km ou un grand tour de 5 km — sans chronomètre, dans un esprit festif et de partage. Les inscriptions restent ouvertes en ligne ou sur place, et un village d'animations accueille les non-coureurs jusqu'à 14 heures, avec des associations, des entreprises partenaires et la possibilité de tester des disciplines comme la boccia. L'édition est parrainée par deux jeunes handi-sportifs haut-garonnais : Noha Cheuzeville, triple champion de France en para-escrime, et Clément Latorre, 27e mondial en para-tennis de table.</summary>
-    <category term="event"/>
-    <published>2026-06-05T04:08:41.785000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:e29f4ea5-a7ce-4280-86d5-64d78388b9e8</id>
-    <title>500 choristes toulousains sur scène pour les légendes du rock</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le spectacle « 15 000 voix pour les légendes du rock », produit par David Hardy Productions via l&amp;#x27;association Voices Harmony, se tient ce soir à 20h au Zénith de Toulouse. Pas moins de 500 choristes amateurs issus du bassin toulousain, de Rodez et de Font-Romeu monteront sur scène, dirigés par deux cheffes de chœur locales, Cindy Parizot et Annabelle Rougemont. Au programme : des titres des Rolling Stones, des Beatles, de Téléphone, d&amp;#x27;Indochine et de Johnny Hallyday, dans un format de vrai concert rock. Les choristes, aux profils très variés, ont suivi huit journées de répétitions communes depuis novembre, avec une dernière balance aujourd&amp;#x27;hui au Zénith.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#42364"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#42364"/>
-    <summary>Le spectacle « 15 000 voix pour les légendes du rock », produit par David Hardy Productions via l'association Voices Harmony, se tient ce soir à 20h au Zénith de Toulouse. Pas moins de 500 choristes amateurs issus du bassin toulousain, de Rodez et de Font-Romeu monteront sur scène, dirigés par deux cheffes de chœur locales, Cindy Parizot et Annabelle Rougemont. Au programme : des titres des Rolling Stones, des Beatles, de Téléphone, d'Indochine et de Johnny Hallyday, dans un format de vrai concert rock. Les choristes, aux profils très variés, ont suivi huit journées de répétitions communes depuis novembre, avec une dernière balance aujourd'hui au Zénith.</summary>
-    <category term="event"/>
-    <published>2026-06-05T04:08:41.785000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a9759eaa-890e-494a-8021-8e76e075de46</id>
-    <title>Sorties du week-end : agenda clutch samedi 6 et dimanche 7 juin</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Clutch propose une sélection de sorties pour le week-end des 6 et 7 juin à Toulouse et ses environs. Samedi, on note notamment un événement rap en participation libre à la Cave Po&amp;#x27;, la Fête de la Ménagerie à L&amp;#x27;Usine de Tournefeuille (cinéma, spectacles, concerts à 5 €) et un concert reggae de Groundation au Bikini (29–32 €). Dimanche, le Festi Bout&amp;#x27;Chou fête sa 21e édition à Pechbonnieu sur le thème de la plage et du monde marin, avec 21 compagnies et 72 représentations pour petits et grands (5 €, gratuit pour les moins d&amp;#x27;un an). La journée du dimanche propose aussi le Son de Tolosa Fest à la Maison de quartier Rangueil et une session free jazz/java à Montaigut-sur-Save, tous deux gratuits ou à prix libre.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-04-samedi-6-juin"&gt;Clutch&lt;/a&gt;, &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-04-dimanche-7-juin"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-04-samedi-6-juin"/>
-    <summary>Clutch propose une sélection de sorties pour le week-end des 6 et 7 juin à Toulouse et ses environs. Samedi, on note notamment un événement rap en participation libre à la Cave Po', la Fête de la Ménagerie à L'Usine de Tournefeuille (cinéma, spectacles, concerts à 5 €) et un concert reggae de Groundation au Bikini (29–32 €). Dimanche, le Festi Bout'Chou fête sa 21e édition à Pechbonnieu sur le thème de la plage et du monde marin, avec 21 compagnies et 72 représentations pour petits et grands (5 €, gratuit pour les moins d'un an). La journée du dimanche propose aussi le Son de Tolosa Fest à la Maison de quartier Rangueil et une session free jazz/java à Montaigut-sur-Save, tous deux gratuits ou à prix libre.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:04:24.415000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:3c0a5e98-35dc-44b1-a448-0fafa2621fe4</id>
-    <title>Bons plans sorties à Toulouse ce vendredi 5 juin</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;La newsletter Clutch recense plusieurs événements à Toulouse ce vendredi 5 juin. Le festival ASO (A Story Of...) fête sa 2e édition au Jardin Raymond VI les 5 et 6 juin, de 12h à minuit, avec une programmation 100 % House Music (Gotis, Kaval, Tatie Dee, Grand Boulevard…) et entrée gratuite, bar et food court assurés par le B12 et les Tilleuls. Le festival Passe Ton Bach d&amp;#x27;abord ! entre dans sa 18e édition du 5 au 7 juin, proposant plus de 70 rendez-vous mêlant musique baroque, arts visuels et danse, dont de nombreux concerts gratuits. L&amp;#x27;extrait mentionne également une soirée Tropical Vybz à l&amp;#x27;Urban Lab, mais le détail est tronqué.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-04-vendredi-5-juin"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-04-vendredi-5-juin"/>
-    <summary>La newsletter Clutch recense plusieurs événements à Toulouse ce vendredi 5 juin. Le festival ASO (A Story Of...) fête sa 2e édition au Jardin Raymond VI les 5 et 6 juin, de 12h à minuit, avec une programmation 100 % House Music (Gotis, Kaval, Tatie Dee, Grand Boulevard…) et entrée gratuite, bar et food court assurés par le B12 et les Tilleuls. Le festival Passe Ton Bach d'abord ! entre dans sa 18e édition du 5 au 7 juin, proposant plus de 70 rendez-vous mêlant musique baroque, arts visuels et danse, dont de nombreux concerts gratuits. L'extrait mentionne également une soirée Tropical Vybz à l'Urban Lab, mais le détail est tronqué.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:04:24.415000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d330b81a-5451-4a38-a3e1-e1f738882d5e</id>
-    <title>Swirls et Montevideo en concert au Ravelin jeudi soir</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Ravelin accueille jeudi 4 juin une soirée post-punk, rock et indie avec deux groupes : Swirls et Montevideo. Le concert débute à 20h pour un prix d&amp;#x27;entrée de 5 €. L&amp;#x27;information est relayée par Clutch dans sa sélection de plans du jour. Une soirée accessible et abordable pour les amateurs de rock indépendant toulousain.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-04-jeudi-4-juin"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-04-jeudi-4-juin"/>
-    <summary>Le Ravelin accueille jeudi 4 juin une soirée post-punk, rock et indie avec deux groupes : Swirls et Montevideo. Le concert débute à 20h pour un prix d'entrée de 5 €. L'information est relayée par Clutch dans sa sélection de plans du jour. Une soirée accessible et abordable pour les amateurs de rock indépendant toulousain.</summary>
-    <category term="event"/>
-    <published>2026-06-04T10:04:24.415000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:aef2a04c-e800-40f2-8431-570d73411945</id>
-    <title>Saint-Cyp en fête : une semaine d'animations dans le quartier</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Du 1er au 7 juin, le quartier Saint-Cyprien célèbre sa fête annuelle avec une programmation entièrement en accès libre. Associations, commerçants, habitants et artistes investissent squares, cafés, médiathèque et centre culturel pour proposer expositions, ateliers, concerts, DJ sets, vide-grenier et banquets. Point d&amp;#x27;orgue vendredi 5 juin : la Fête de l&amp;#x27;Estrapade transforme la place du même nom en grande célébration à ciel ouvert, avec concerts, boom pour enfants et stands gourmands portés par les commerçants du quartier. L&amp;#x27;événement, organisé avec le soutien de la Ville de Toulouse, en est à sa dixième édition.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Lessentiel couvre le lancement de l&amp;#x27;événement sans préciser les dates exactes ; Toulouscope donne le programme jour par jour et consacre un article distinct à la Fête de l&amp;#x27;Estrapade du vendredi ; l&amp;#x27;office du tourisme se limite à une courte invitation.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Programme détaillé jour par jour et focus sur la Fête de l&amp;#x27;Estrapade&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble de l&amp;#x27;ambiance et du concept de la fête de quartier&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Rappel synthétique des dates pour s&amp;#x27;y retrouver&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/04/a-saint-cyprien-la-place-de-lestrapade-se-transforme-en-grande-fete-de-quartier-ce-vendredi-13399158.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&amp;amp;url_id=6214f8e3-c35e-4010-b015-90c1b84664c8&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/06/04/a-saint-cyprien-la-place-de-lestrapade-se-transforme-en-grande-fete-de-quartier-ce-vendredi-13399158.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Du 1er au 7 juin, le quartier Saint-Cyprien célèbre sa fête annuelle avec une programmation entièrement en accès libre. Associations, commerçants, habitants et artistes investissent squares, cafés, médiathèque et centre culturel pour proposer expositions, ateliers, concerts, DJ sets, vide-grenier et banquets. Point d'orgue vendredi 5 juin : la Fête de l'Estrapade transforme la place du même nom en grande célébration à ciel ouvert, avec concerts, boom pour enfants et stands gourmands portés par les commerçants du quartier. L'événement, organisé avec le soutien de la Ville de Toulouse, en est à sa dixième édition.</summary>
-    <category term="event"/>
-    <published>2026-06-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:1c776fb4-2646-45e7-a460-7a4c5802529e</id>
-    <title>Festa Nòu, première fête des producteurs ariégeois à Saverdun</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;La toute première édition de Festa Nòu se tiendra le samedi 20 juin sur la grande place du Champ de Mars à Saverdun, en Ariège, à environ 45 minutes en train de Toulouse. L&amp;#x27;événement est organisé par l&amp;#x27;ADAFTA, dont fait partie la Chambre d&amp;#x27;agriculture de l&amp;#x27;Ariège, dans le cadre de la marque « Nòu Ariège Pyrénées ». Les visiteurs pourront découvrir un marché de producteurs locaux proposant viande, pain, fruits et légumes, avec la possibilité d&amp;#x27;échanger directement avec les exploitants. L&amp;#x27;objectif est de valoriser l&amp;#x27;agriculture ariégeoise, de sensibiliser à l&amp;#x27;approvisionnement local et de lancer la saison estivale des activités chez les producteurs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/04/festa-nou-la-1ere-fete-du-terroir-et-des-producteurs-sinstalle-en-ariege-13392303.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/06/04/festa-nou-la-1ere-fete-du-terroir-et-des-producteurs-sinstalle-en-ariege-13392303.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La toute première édition de Festa Nòu se tiendra le samedi 20 juin sur la grande place du Champ de Mars à Saverdun, en Ariège, à environ 45 minutes en train de Toulouse. L'événement est organisé par l'ADAFTA, dont fait partie la Chambre d'agriculture de l'Ariège, dans le cadre de la marque « Nòu Ariège Pyrénées ». Les visiteurs pourront découvrir un marché de producteurs locaux proposant viande, pain, fruits et légumes, avec la possibilité d'échanger directement avec les exploitants. L'objectif est de valoriser l'agriculture ariégeoise, de sensibiliser à l'approvisionnement local et de lancer la saison estivale des activités chez les producteurs.</summary>
-    <category term="event"/>
-    <published>2026-06-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8583751f-4170-43c7-a67c-e900082997b0</id>
-    <title>Intervention du Raid à Empalot : l'auteur des tirs condamné</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le dimanche 31 mai 2026, plusieurs unités de police — dont le Raid, la BAC et la CDI — sont intervenues vers 9h dans un immeuble du quartier Empalot à Toulouse, après des coups de feu signalés vers 6h30. Un homme de 27 ans, filmé par des voisins en train de menacer quelqu&amp;#x27;un avec une arme à feu dans la rue, s&amp;#x27;était retranché dans un appartement au deuxième étage avant d&amp;#x27;être interpellé sans grande résistance. Jugé en comparution immédiate deux jours plus tard, le 2 juin, il a reconnu sa présence sur les vidéos mais a affirmé avoir d&amp;#x27;abord été braqué par son interlocuteur — un individu qui n&amp;#x27;a pu être identifié et reste introuvable. Récidiviste connu de la justice, il a été incarcéré à l&amp;#x27;issue du jugement, même si des zones d&amp;#x27;ombre persistent sur le rôle exact de la prétendue victime.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article couvre l&amp;#x27;intervention policière à chaud, soulignant l&amp;#x27;aspect opérationnel et l&amp;#x27;introuvable victime présumée. Le second, publié après le jugement, apporte les éléments judiciaires : la comparution immédiate, les aveux partiels de l&amp;#x27;accusé et sa condamnation.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Déroulement de l&amp;#x27;intervention policière et contexte du quartier&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Suite judiciaire, version de l&amp;#x27;accusé et condamnation&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/interpelle-par-le-raid-a-toulouse-le-recidiviste-assure-avoir-ete-braque-mais-part-quand-meme-en-prison_64354524.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/interpelle-par-le-raid-a-toulouse-le-recidiviste-assure-avoir-ete-braque-mais-part-quand-meme-en-prison_64354524.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le dimanche 31 mai 2026, plusieurs unités de police — dont le Raid, la BAC et la CDI — sont intervenues vers 9h dans un immeuble du quartier Empalot à Toulouse, après des coups de feu signalés vers 6h30. Un homme de 27 ans, filmé par des voisins en train de menacer quelqu'un avec une arme à feu dans la rue, s'était retranché dans un appartement au deuxième étage avant d'être interpellé sans grande résistance. Jugé en comparution immédiate deux jours plus tard, le 2 juin, il a reconnu sa présence sur les vidéos mais a affirmé avoir d'abord été braqué par son interlocuteur — un individu qui n'a pu être identifié et reste introuvable. Récidiviste connu de la justice, il a été incarcéré à l'issue du jugement, même si des zones d'ombre persistent sur le rôle exact de la prétendue victime.</summary>
-    <category term="news"/>
-    <published>2026-06-04T11:57:47+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:675475ba-f084-471c-8df4-2a3f37e12c2f</id>
-    <title>Airbus lance une campagne de recrutement de 200 postes à Toulouse</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Airbus, dont le siège mondial est à Toulouse, a mandaté le cabinet Randstad pour pourvoir plus de 200 postes sur le bassin toulousain au printemps 2026. Cette campagne vise à répondre à la montée en cadence de production et au renouvellement des flottes d&amp;#x27;avions civils dans le monde, alors que les carnets de commandes du constructeur sont pleins. Les postes concernent une grande variété de profils techniques et logistiques, notamment des ajusteurs-monteurs, câbleurs, mécaniciens systèmes, chaudronniers, intégrateurs cabines et opérateurs, au sein des chaînes d&amp;#x27;assemblage final. Cette opportunité s&amp;#x27;adresse aussi bien aux professionnels expérimentés qu&amp;#x27;aux personnes en reconversion professionnelle.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/200-postes-a-pourvoir-chez-airbus-une-grande-campagne-de-recrutement-lancee-a-toulouse_64351361.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/200-postes-a-pourvoir-chez-airbus-une-grande-campagne-de-recrutement-lancee-a-toulouse_64351361.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Airbus, dont le siège mondial est à Toulouse, a mandaté le cabinet Randstad pour pourvoir plus de 200 postes sur le bassin toulousain au printemps 2026. Cette campagne vise à répondre à la montée en cadence de production et au renouvellement des flottes d'avions civils dans le monde, alors que les carnets de commandes du constructeur sont pleins. Les postes concernent une grande variété de profils techniques et logistiques, notamment des ajusteurs-monteurs, câbleurs, mécaniciens systèmes, chaudronniers, intégrateurs cabines et opérateurs, au sein des chaînes d'assemblage final. Cette opportunité s'adresse aussi bien aux professionnels expérimentés qu'aux personnes en reconversion professionnelle.</summary>
-    <category term="news"/>
-    <published>2026-06-04T12:33:13+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d</id>
-    <title>L'Aligofest revient à Toulouse en novembre, billetterie ouverte</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;Aligofest, festival dédié à l&amp;#x27;aligot-saucisse à volonté, revient pour sa 2e édition les 13 et 14 novembre 2026 au Grand Marché Min de Toulouse, après avoir attiré près de 6 000 participants l&amp;#x27;an dernier. L&amp;#x27;objectif affiché est de battre le précédent record du monde établi lors de la première édition : 3,9 tonnes d&amp;#x27;aligot-saucisse consommées en deux jours. La billetterie ouvre le 1er juin 2026, avec des tarifs entre 35 et 40 euros par journée (gratuit pour les moins de 5 ans), incluant place assise, aligot à volonté, boisson de bienvenue et foulard personnalisé. L&amp;#x27;événement est porté par la Brasserie Caporal et le club de rugby à XIII Toulouse Olympique XIII, qui en est à l&amp;#x27;origine.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-aligofest-bientot-de-retour-a-toulouse-la-billetterie-vient-d-ouvrir-un-nouveau-record-du-monde-a-la-cle_64344060.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/l-aligofest-bientot-de-retour-a-toulouse-la-billetterie-vient-d-ouvrir-un-nouveau-record-du-monde-a-la-cle_64344060.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Aligofest, festival dédié à l'aligot-saucisse à volonté, revient pour sa 2e édition les 13 et 14 novembre 2026 au Grand Marché Min de Toulouse, après avoir attiré près de 6 000 participants l'an dernier. L'objectif affiché est de battre le précédent record du monde établi lors de la première édition : 3,9 tonnes d'aligot-saucisse consommées en deux jours. La billetterie ouvre le 1er juin 2026, avec des tarifs entre 35 et 40 euros par journée (gratuit pour les moins de 5 ans), incluant place assise, aligot à volonté, boisson de bienvenue et foulard personnalisé. L'événement est porté par la Brasserie Caporal et le club de rugby à XIII Toulouse Olympique XIII, qui en est à l'origine.</summary>
-    <category term="event"/>
-    <published>2026-06-04T13:06:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f5da3990-72f2-451e-83e2-8836dfea6909</id>
-    <title>Capuozzo de retour au Stade Toulousain après trois mois de blessure</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Ange Capuozzo, ailier international italien du Stade Toulousain, fait son retour à la compétition après trois mois d&amp;#x27;absence liés à une blessure à l&amp;#x27;épaule subie en février face au XV de France. Le joueur, qui compte 31 sélections, sera dans le groupe toulousain ce samedi pour le déplacement au Racing 92, lors de la dernière journée de Top 14. Dans un entretien accordé à actu_toulouse, Capuozzo se dit sans appréhension et satisfait de ses sensations retrouvées, soulignant le travail accompli avec le staff médical. Son retour tombe à point nommé pour le Stade Toulousain à l&amp;#x27;approche des phases finales.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ange-capuozzo-est-mort-de-faim-a-toulouse-je-prefererais-passer-l-eponge-sur-les-blessures-et-jouer-plus_64356368.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/ange-capuozzo-est-mort-de-faim-a-toulouse-je-prefererais-passer-l-eponge-sur-les-blessures-et-jouer-plus_64356368.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ange Capuozzo, ailier international italien du Stade Toulousain, fait son retour à la compétition après trois mois d'absence liés à une blessure à l'épaule subie en février face au XV de France. Le joueur, qui compte 31 sélections, sera dans le groupe toulousain ce samedi pour le déplacement au Racing 92, lors de la dernière journée de Top 14. Dans un entretien accordé à actu_toulouse, Capuozzo se dit sans appréhension et satisfait de ses sensations retrouvées, soulignant le travail accompli avec le staff médical. Son retour tombe à point nommé pour le Stade Toulousain à l'approche des phases finales.</summary>
-    <category term="news"/>
-    <published>2026-06-04T16:44:24+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:9a36a85e-7a39-4de2-9696-fab83eefdebb</id>
-    <title>Des armes automatiques découvertes dans un garage à Bellefontaine</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Dans la nuit du 3 au 4 juin 2026, des policiers ont interpellé cinq jeunes — dont quatre mineurs — qui s&amp;#x27;attroupaient vers 3h du matin devant un box au sous-sol d&amp;#x27;un immeuble allée de Bellefontaine, après qu&amp;#x27;un habitant a alerté les forces de l&amp;#x27;ordre. Un fusil d&amp;#x27;assaut dépassait d&amp;#x27;un sac, et des armes automatiques ont été retrouvées à l&amp;#x27;intérieur du garage. Une perquisition est en cours pour établir le nombre exact d&amp;#x27;armes et leur nature, tandis que les cinq mis en cause sont placés en garde à vue. L&amp;#x27;enquête, confiée à la Direction de la criminalité organisée et spécialisée, doit notamment déterminer si les jeunes — décrits comme de « petites mains du trafic » — avaient accès librement à ces armes ou étaient en train de commettre un vol par effraction.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinq-jeunes-s-affairaient-autour-d-un-garage-des-armes-automatiques-retrouvees-a-l-interieur-par-la-police-a-toulouse_64356079.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cinq-jeunes-s-affairaient-autour-d-un-garage-des-armes-automatiques-retrouvees-a-l-interieur-par-la-police-a-toulouse_64356079.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Dans la nuit du 3 au 4 juin 2026, des policiers ont interpellé cinq jeunes — dont quatre mineurs — qui s'attroupaient vers 3h du matin devant un box au sous-sol d'un immeuble allée de Bellefontaine, après qu'un habitant a alerté les forces de l'ordre. Un fusil d'assaut dépassait d'un sac, et des armes automatiques ont été retrouvées à l'intérieur du garage. Une perquisition est en cours pour établir le nombre exact d'armes et leur nature, tandis que les cinq mis en cause sont placés en garde à vue. L'enquête, confiée à la Direction de la criminalité organisée et spécialisée, doit notamment déterminer si les jeunes — décrits comme de « petites mains du trafic » — avaient accès librement à ces armes ou étaient en train de commettre un vol par effraction.</summary>
-    <category term="news"/>
-    <published>2026-06-04T17:22:16+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:2b773bbe-d200-4263-806b-682188fbe2ae</id>
-    <title>606 délégués citoyens désignés vendredi pour les Sénatoriales 2026</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Ce vendredi 5 juin 2026, le conseil municipal de Toulouse se réunit au Capitole pour désigner les délégués qui composeront le collège électoral des élections sénatoriales du 27 septembre 2026. Toulouse se distingue des autres communes de Haute-Garonne par la taille de ce collège : près de 700 délégués au total, dont les 69 élus municipaux et environ 606 simples citoyens désignés pour l&amp;#x27;occasion. Cette particularité découle du code électoral, qui impose aux grandes villes de désigner des délégués supplémentaires afin que leur poids démographique soit proportionnellement représenté dans le scrutin sénatorial. Toulouse et Colomiers sont les seules communes de Haute-Garonne concernées par ce mécanisme, la date de la réunion ayant été fixée non par la mairie, mais directement par l&amp;#x27;État.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ils-ne-sont-pas-elus-pourquoi-606-habitants-vont-etre-designes-ce-vendredi-a-toulouse-pour-elire-les-senateurs_64354890.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/ils-ne-sont-pas-elus-pourquoi-606-habitants-vont-etre-designes-ce-vendredi-a-toulouse-pour-elire-les-senateurs_64354890.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce vendredi 5 juin 2026, le conseil municipal de Toulouse se réunit au Capitole pour désigner les délégués qui composeront le collège électoral des élections sénatoriales du 27 septembre 2026. Toulouse se distingue des autres communes de Haute-Garonne par la taille de ce collège : près de 700 délégués au total, dont les 69 élus municipaux et environ 606 simples citoyens désignés pour l'occasion. Cette particularité découle du code électoral, qui impose aux grandes villes de désigner des délégués supplémentaires afin que leur poids démographique soit proportionnellement représenté dans le scrutin sénatorial. Toulouse et Colomiers sont les seules communes de Haute-Garonne concernées par ce mécanisme, la date de la réunion ayant été fixée non par la mairie, mais directement par l'État.</summary>
-    <category term="news"/>
-    <published>2026-06-04T18:02:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:16e35674-4218-4b00-a6b4-482bac91699d</id>
-    <title>Travaux estivaux : métro, tram et Téléo perturbés plusieurs semaines</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Tisséo profite de l&amp;#x27;été, période de moindre affluence, pour lancer plusieurs chantiers d&amp;#x27;envergure sur le réseau de transports en commun toulousain. Le président de Tisséo Voyageurs, Emilion Esnault, souligne le caractère « exceptionnel » de ces travaux par leur ampleur et leur concentration dans le temps. Première perturbation annoncée : la ligne T1 du tramway sera entièrement à l&amp;#x27;arrêt du 4 au 12 juillet, afin de préparer l&amp;#x27;arrivée de la future Ligne Aéroport et de réaliser diverses opérations de maintenance. Des fermetures affectant également le métro et le Téléo sont prévues cet été, avec des bus relais mis en place pendant les interruptions.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/metro-tramway-teleo-des-fermetures-de-plusieurs-semaines-a-venir-dans-les-transports-a-toulouse_64357312.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/metro-tramway-teleo-des-fermetures-de-plusieurs-semaines-a-venir-dans-les-transports-a-toulouse_64357312.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Tisséo profite de l'été, période de moindre affluence, pour lancer plusieurs chantiers d'envergure sur le réseau de transports en commun toulousain. Le président de Tisséo Voyageurs, Emilion Esnault, souligne le caractère « exceptionnel » de ces travaux par leur ampleur et leur concentration dans le temps. Première perturbation annoncée : la ligne T1 du tramway sera entièrement à l'arrêt du 4 au 12 juillet, afin de préparer l'arrivée de la future Ligne Aéroport et de réaliser diverses opérations de maintenance. Des fermetures affectant également le métro et le Téléo sont prévues cet été, avec des bus relais mis en place pendant les interruptions.</summary>
-    <category term="news"/>
-    <published>2026-06-04T18:39:16+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c78c6165-de6e-4501-8905-cc733a7ef6f0</id>
-    <title>Record du monde de la plus grande chocolatine battu à Toulouse</title>
-    <updated>2026-06-05T06:34:23.148846+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le jeudi 4 juin 2026, Toulouse FM a organisé la 9e Journée mondiale de la chocolatine place Saint-Sernin, avec l&amp;#x27;ambition de battre le record du monde de la plus longue viennoiserie. La chocolatine géante, préparée au CFA Toulouse-Blagnac par des artisans et des apprentis, a finalement mesuré 61,17 m pour environ 200 kg, surpassant l&amp;#x27;ancien record de 52 m — lui aussi détenu par Toulouse FM. Un huissier de justice a officiellement validé le record à 16h43. En raison de la pluie, la découpe prévue place Saint-Sernin a été annulée, mais la distribution gratuite aux Toulousains a bien eu lieu vers 17h30.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse publie deux articles : l&amp;#x27;un annonçant l&amp;#x27;événement en amont (avec les détails de préparation), l&amp;#x27;autre rendant compte du résultat en direct. L&amp;#x27;Essentiel couvre l&amp;#x27;événement sous forme de synthèse pratique, précisant notamment que le record actuel appartenait déjà à Toulouse FM (52 m, il y a une quinzaine d&amp;#x27;années), un détail absent des articles d&amp;#x27;Actu Toulouse.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (résultat)&lt;/strong&gt;: Compte-rendu détaillé de la journée, ambiance et déroulé du record&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Contexte concis, historique du record et coulisses de la préparation&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (annonce)&lt;/strong&gt;: Détails techniques et organisation en amont de l&amp;#x27;événement&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/on-etait-choque-de-la-longueur-le-record-du-monde-de-la-plus-grande-chocolatine-battu-a-toulouse_64354926.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/on-etait-choque-de-la-longueur-le-record-du-monde-de-la-plus-grande-chocolatine-battu-a-toulouse_64354926.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le jeudi 4 juin 2026, Toulouse FM a organisé la 9e Journée mondiale de la chocolatine place Saint-Sernin, avec l'ambition de battre le record du monde de la plus longue viennoiserie. La chocolatine géante, préparée au CFA Toulouse-Blagnac par des artisans et des apprentis, a finalement mesuré 61,17 m pour environ 200 kg, surpassant l'ancien record de 52 m — lui aussi détenu par Toulouse FM. Un huissier de justice a officiellement validé le record à 16h43. En raison de la pluie, la découpe prévue place Saint-Sernin a été annulée, mais la distribution gratuite aux Toulousains a bien eu lieu vers 17h30.</summary>
-    <category term="news"/>
-    <published>2026-06-04T19:57:58+02:00</published>
-  </entry>
   <entry>
     <id>cluster:a169ac88-1cd5-43db-a442-3dc96081eebf</id>
     <title>Caché : une parenthèse estivale méditerranéenne les dimanches à Toulouse</title>
@@ -732,6 +267,22 @@ We Are Ballos
     <published>2026-06-06T12:06:02+02:00</published>
   </entry>
   <entry>
+    <id>cluster:19eb0280-a216-49d5-a4ac-293ecf903afc</id>
+    <title>Le festival Mister Freeze de retour à Toulouse après deux ans d'absence</title>
+    <updated>2026-06-07T06:33:40.069481+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le festival de street art Mister Freeze revient à Toulouse du 5 juin au 26 juillet 2026, après deux ans d&amp;#x27;absence, sous le thème « Ça déborde ! ». Il investit cette année l&amp;#x27;ancienne caserne de pompiers Jacques-Vion, sur les allées Charles-de-Fitte, un bâtiment brutaliste classé aux Monuments historiques. Piloté par le Toulousain Cédric Lascours (alias Reso), l&amp;#x27;événement réunit entre 40 et 70 artistes — les deux sources divergent sur ce chiffre — venus de France et de plusieurs pays, dont l&amp;#x27;Espagne, la Grèce et le Chili. Au programme : expositions sur 10 000 m², ateliers, visites guidées, performances live, conférences, espace dédié aux enfants, guinguette, food-trucks et même un coin tatouage.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux sources s&amp;#x27;accordent sur l&amp;#x27;essentiel, mais divergent sur le nombre d&amp;#x27;artistes : lessentiel annonce 70 artistes nationaux et européens, tandis qu&amp;#x27;actu_toulouse en recense plus de 40, venus du monde entier. lessentiel insiste sur l&amp;#x27;historique et l&amp;#x27;ancrage du collectif ; actu_toulouse privilégie l&amp;#x27;immersion et les nouveautés de l&amp;#x27;édition 2026.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Contexte historique du festival et du collectif Mister Freeze depuis 2013&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails pratiques, programmation et ambiance de l&amp;#x27;édition 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ca-deborde-immersion-au-coeur-de-mister-freeze-le-festival-de-street-art-de-retour-a-toulouse_64362043.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ca-deborde-immersion-au-coeur-de-mister-freeze-le-festival-de-street-art-de-retour-a-toulouse_64362043.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le festival de street art Mister Freeze revient à Toulouse du 5 juin au 26 juillet 2026, après deux ans d'absence, sous le thème « Ça déborde ! ». Il investit cette année l'ancienne caserne de pompiers Jacques-Vion, sur les allées Charles-de-Fitte, un bâtiment brutaliste classé aux Monuments historiques. Piloté par le Toulousain Cédric Lascours (alias Reso), l'événement réunit entre 40 et 70 artistes — les deux sources divergent sur ce chiffre — venus de France et de plusieurs pays, dont l'Espagne, la Grèce et le Chili. Au programme : expositions sur 10 000 m², ateliers, visites guidées, performances live, conférences, espace dédié aux enfants, guinguette, food-trucks et même un coin tatouage.</summary>
+    <category term="event"/>
+    <published>2026-06-06T13:08:01+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:b866a3cf-ccc4-40aa-8cf5-ff9f4d055ba0</id>
     <title>Le Salon de l'automobile électrique revient à Toulouse le 7 juin</title>
     <updated>2026-06-07T06:33:40.069481+00:00</updated>
@@ -789,38 +340,19 @@ We Are Ballos
     <published>2026-06-06T23:04:03+02:00</published>
   </entry>
   <entry>
-    <id>cluster:19eb0280-a216-49d5-a4ac-293ecf903afc</id>
-    <title>Le festival Mister Freeze de retour à Toulouse après deux ans d'absence</title>
-    <updated>2026-06-07T06:33:40.069481+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le festival de street art Mister Freeze revient à Toulouse du 5 juin au 26 juillet 2026, après deux ans d&amp;#x27;absence, sous le thème « Ça déborde ! ». Il investit cette année l&amp;#x27;ancienne caserne de pompiers Jacques-Vion, sur les allées Charles-de-Fitte, un bâtiment brutaliste classé aux Monuments historiques. Piloté par le Toulousain Cédric Lascours (alias Reso), l&amp;#x27;événement réunit entre 40 et 70 artistes — les deux sources divergent sur ce chiffre — venus de France et de plusieurs pays, dont l&amp;#x27;Espagne, la Grèce et le Chili. Au programme : expositions sur 10 000 m², ateliers, visites guidées, performances live, conférences, espace dédié aux enfants, guinguette, food-trucks et même un coin tatouage.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux sources s&amp;#x27;accordent sur l&amp;#x27;essentiel, mais divergent sur le nombre d&amp;#x27;artistes : lessentiel annonce 70 artistes nationaux et européens, tandis qu&amp;#x27;actu_toulouse en recense plus de 40, venus du monde entier. lessentiel insiste sur l&amp;#x27;historique et l&amp;#x27;ancrage du collectif ; actu_toulouse privilégie l&amp;#x27;immersion et les nouveautés de l&amp;#x27;édition 2026.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Contexte historique du festival et du collectif Mister Freeze depuis 2013&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails pratiques, programmation et ambiance de l&amp;#x27;édition 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#42366"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/ca-deborde-immersion-au-coeur-de-mister-freeze-le-festival-de-street-art-de-retour-a-toulouse_64362043.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-05?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#42366"/>
-    <summary>Le festival de street art Mister Freeze revient à Toulouse du 5 juin au 26 juillet 2026, après deux ans d'absence, sous le thème « Ça déborde ! ». Il investit cette année l'ancienne caserne de pompiers Jacques-Vion, sur les allées Charles-de-Fitte, un bâtiment brutaliste classé aux Monuments historiques. Piloté par le Toulousain Cédric Lascours (alias Reso), l'événement réunit entre 40 et 70 artistes — les deux sources divergent sur ce chiffre — venus de France et de plusieurs pays, dont l'Espagne, la Grèce et le Chili. Au programme : expositions sur 10 000 m², ateliers, visites guidées, performances live, conférences, espace dédié aux enfants, guinguette, food-trucks et même un coin tatouage.</summary>
-    <category term="event"/>
-    <published>2026-06-05T04:08:41.785000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:488de16b-63c1-4715-8900-d16438365688</id>
     <title>31e Marche des Fiertés à Toulouse : 30 000 personnes dans les rues</title>
     <updated>2026-06-07T06:33:40.069481+00:00</updated>
     <author>
-      <name>actu_toulouse</name>
+      <name>toulouscope</name>
     </author>
     <author>
-      <name>toulouscope</name>
+      <name>actu_toulouse</name>
     </author>
     <content type="html">&lt;p&gt;La 31e édition de la Marche des Fiertés, organisée par Pride Toulouse avec le soutien de la municipalité, s&amp;#x27;est tenue le samedi 6 juin 2026. Un village associatif a investi la place du Capitole de 10h à 14h, avec des stands de prévention, de santé et de conseil juridique, avant le départ du cortège à 14h10. Une vingtaine de chars et batucadas ont parcouru le centre-ville — rue Alsace-Lorraine, jusqu&amp;#x27;à la gare et le canal du Midi, avant de revenir place du Capitole. Le collectif Pride Toulouse estime la participation à 30 000 personnes, chiffre que la police ramène à environ 15 000 ; une after-pride gratuite, une première selon les organisateurs, a clôturé la journée en soirée.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Toulouscope couvre l&amp;#x27;événement en amont sous angle programmatique. Les deux articles d&amp;#x27;Actu Toulouse se distinguent : l&amp;#x27;un présente le programme avant la marche, l&amp;#x27;autre en fait le compte rendu après coup — et c&amp;#x27;est ce dernier qui signale l&amp;#x27;écart notable entre les chiffres de fréquentation avancés par les organisateurs (30 000) et ceux de la police (environ 15 000).&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Détails pratiques du programme et du parcours&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Compte rendu de l&amp;#x27;événement et divergence des chiffres de participation&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/05/marche-des-fiertes-ce-samedi-musique-chars-village-associatif-et-ambiance-festive-13400876.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/30-000-personnes-attendues-pour-la-marche-des-fiertes-a-toulouse-parcours-horaires-et-after-pride-voici-le-programme_64355746.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pride-2026-a-toulouse-revivez-la-marche-des-fiertes-qui-a-reuni-plus-de-30-000-personnes_64366411.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/05/marche-des-fiertes-ce-samedi-musique-chars-village-associatif-et-ambiance-festive-13400876.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pride-2026-a-toulouse-revivez-la-marche-des-fiertes-qui-a-reuni-plus-de-30-000-personnes_64366411.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/06/05/marche-des-fiertes-ce-samedi-musique-chars-village-associatif-et-ambiance-festive-13400876.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>La 31e édition de la Marche des Fiertés, organisée par Pride Toulouse avec le soutien de la municipalité, s'est tenue le samedi 6 juin 2026. Un village associatif a investi la place du Capitole de 10h à 14h, avec des stands de prévention, de santé et de conseil juridique, avant le départ du cortège à 14h10. Une vingtaine de chars et batucadas ont parcouru le centre-ville — rue Alsace-Lorraine, jusqu'à la gare et le canal du Midi, avant de revenir place du Capitole. Le collectif Pride Toulouse estime la participation à 30 000 personnes, chiffre que la police ramène à environ 15 000 ; une after-pride gratuite, une première selon les organisateurs, a clôturé la journée en soirée.</summary>
     <category term="news"/>
@@ -956,6 +488,21 @@ We Are Ballos
     <published>2026-06-07T15:00:01+02:00</published>
   </entry>
   <entry>
+    <id>cluster:0adea36d-0a68-4d82-a686-cdee54fcbae4</id>
+    <title>Trois agressions à l'arme blanche en quelques jours à Toulouse</title>
+    <updated>2026-06-08T06:35:51.595767+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;En l&amp;#x27;espace d&amp;#x27;une semaine, trois incidents violents impliquant des armes tranchantes ont été signalés à Toulouse. Le 29 mai, quartier Côte Pavée, un homme de 27 ans a poignardé son ex-petite amie et l&amp;#x27;ami qui l&amp;#x27;accompagnait dans leur voiture ; il s&amp;#x27;est rendu à la police le soir même et sera jugé le 7 juillet 2026 pour violences avec arme. Le 1er juin, aux Arènes, une jeune femme a frappé son compagnon à la tempe avec une paire de ciseaux lors d&amp;#x27;une dispute de jalousie ; la victime a nécessité des points de suture mais n&amp;#x27;a pas souhaité porter plainte. Le 6 juin, quartier Saint-Cyprien, un homme de 36 ans a saisi des ciseaux dans un salon de coiffure voisin pour blesser au thorax un homme de 22 ans lors d&amp;#x27;une rixe ; l&amp;#x27;auteur a été placé en garde à vue, la victime n&amp;#x27;est pas en danger de mort. Ces trois affaires distinctes illustrent une recrudescence des violences aux armes improvisées dans différents quartiers de la ville.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Agression au couteau quartier Côte Pavée et renvoi en jugement&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Coup de ciseaux aux Arènes et refus de plainte de la victime&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Rixe armée à Saint-Cyprien le soir de la Pride et du match du Stade Toulousain&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-homme-de-22-ans-recoit-plusieurs-coups-de-ciseau-au-thorax-lors-d-une-rixe-a-toulouse_64367481.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/un-homme-de-22-ans-recoit-plusieurs-coups-de-ciseau-au-thorax-lors-d-une-rixe-a-toulouse_64367481.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>En l'espace d'une semaine, trois incidents violents impliquant des armes tranchantes ont été signalés à Toulouse. Le 29 mai, quartier Côte Pavée, un homme de 27 ans a poignardé son ex-petite amie et l'ami qui l'accompagnait dans leur voiture ; il s'est rendu à la police le soir même et sera jugé le 7 juillet 2026 pour violences avec arme. Le 1er juin, aux Arènes, une jeune femme a frappé son compagnon à la tempe avec une paire de ciseaux lors d'une dispute de jalousie ; la victime a nécessité des points de suture mais n'a pas souhaité porter plainte. Le 6 juin, quartier Saint-Cyprien, un homme de 36 ans a saisi des ciseaux dans un salon de coiffure voisin pour blesser au thorax un homme de 22 ans lors d'une rixe ; l'auteur a été placé en garde à vue, la victime n'est pas en danger de mort. Ces trois affaires distinctes illustrent une recrudescence des violences aux armes improvisées dans différents quartiers de la ville.</summary>
+    <category term="news"/>
+    <published>2026-06-07T13:02:27+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:08c8bca9-29a3-4a3b-8491-68781a8cfc63</id>
     <title>Rugby, handball, rugby à XIII : le bilan sportif toulousain de la semaine</title>
     <updated>2026-06-08T06:35:51.595767+00:00</updated>
@@ -1000,21 +547,6 @@ We Are Ballos
     <published>2026-06-08T07:12:01+02:00</published>
   </entry>
   <entry>
-    <id>cluster:0adea36d-0a68-4d82-a686-cdee54fcbae4</id>
-    <title>Trois agressions à l'arme blanche en quelques jours à Toulouse</title>
-    <updated>2026-06-08T06:35:51.595767+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;En l&amp;#x27;espace d&amp;#x27;une semaine, trois incidents violents impliquant des armes tranchantes ont été signalés à Toulouse. Le 29 mai, quartier Côte Pavée, un homme de 27 ans a poignardé son ex-petite amie et l&amp;#x27;ami qui l&amp;#x27;accompagnait dans leur voiture ; il s&amp;#x27;est rendu à la police le soir même et sera jugé le 7 juillet 2026 pour violences avec arme. Le 1er juin, aux Arènes, une jeune femme a frappé son compagnon à la tempe avec une paire de ciseaux lors d&amp;#x27;une dispute de jalousie ; la victime a nécessité des points de suture mais n&amp;#x27;a pas souhaité porter plainte. Le 6 juin, quartier Saint-Cyprien, un homme de 36 ans a saisi des ciseaux dans un salon de coiffure voisin pour blesser au thorax un homme de 22 ans lors d&amp;#x27;une rixe ; l&amp;#x27;auteur a été placé en garde à vue, la victime n&amp;#x27;est pas en danger de mort. Ces trois affaires distinctes illustrent une recrudescence des violences aux armes improvisées dans différents quartiers de la ville.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Agression au couteau quartier Côte Pavée et renvoi en jugement&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Coup de ciseaux aux Arènes et refus de plainte de la victime&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Rixe armée à Saint-Cyprien le soir de la Pride et du match du Stade Toulousain&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-apres-une-dispute-avec-sa-copine-un-jeune-de-20-ans-recoit-un-violent-coup-de-ciseau-dans-la-tempe_64356815.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-homme-de-22-ans-recoit-plusieurs-coups-de-ciseau-au-thorax-lors-d-une-rixe-a-toulouse_64367481.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-apres-une-dispute-avec-sa-copine-un-jeune-de-20-ans-recoit-un-violent-coup-de-ciseau-dans-la-tempe_64356815.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>En l'espace d'une semaine, trois incidents violents impliquant des armes tranchantes ont été signalés à Toulouse. Le 29 mai, quartier Côte Pavée, un homme de 27 ans a poignardé son ex-petite amie et l'ami qui l'accompagnait dans leur voiture ; il s'est rendu à la police le soir même et sera jugé le 7 juillet 2026 pour violences avec arme. Le 1er juin, aux Arènes, une jeune femme a frappé son compagnon à la tempe avec une paire de ciseaux lors d'une dispute de jalousie ; la victime a nécessité des points de suture mais n'a pas souhaité porter plainte. Le 6 juin, quartier Saint-Cyprien, un homme de 36 ans a saisi des ciseaux dans un salon de coiffure voisin pour blesser au thorax un homme de 22 ans lors d'une rixe ; l'auteur a été placé en garde à vue, la victime n'est pas en danger de mort. Ces trois affaires distinctes illustrent une recrudescence des violences aux armes improvisées dans différents quartiers de la ville.</summary>
-    <category term="news"/>
-    <published>2026-06-04T19:10:08+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:e7b2afbf-b96c-44e4-a103-3031f22751c2</id>
     <title>Chantier ligne C du métro : nouvelles phases et perturbations à Toulouse</title>
     <updated>2026-06-08T06:35:51.595767+00:00</updated>
@@ -1024,11 +556,11 @@ We Are Ballos
     <content type="html">&lt;p&gt;Le chantier de la future ligne C du métro de Toulouse, lancé fin 2022, entre dans plusieurs nouvelles phases cet été 2026. À partir de mi-juillet, la circulation sera coupée au carrefour rue des Frères Lion/boulevard Carnot/allées François-Verdier, nœud majeur autour de la station François-Verdier où 1,5 million de voyageurs transitent chaque année. Tisséo a par ailleurs annoncé la date de réouverture du tunnel piéton de la gare Matabiau, fermé depuis le 2 juin 2025 et contournée quotidiennement par quelque 30 000 usagers. Sur l&amp;#x27;avancement global, le président de Tisséo Jean-Michel Lattes indique que 70 % des aménagements sont réalisés et 13 km de tunnel creusés sur 22, tout en précisant qu&amp;#x27;une « phase de remédiation » est engagée avec Eiffage pour compenser les retards et tenter de tenir l&amp;#x27;objectif d&amp;#x27;une mise en service fin 2028.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Les trois articles couvrent des angles complémentaires : l&amp;#x27;un se concentre sur les perturbations de circulation autour de François-Verdier, le deuxième dresse un bilan global de l&amp;#x27;avancement des travaux, et le troisième traite spécifiquement de la réouverture du tunnel Matabiau. Aucune contradiction entre les sources, mais les détails sur la date de réouverture du tunnel Matabiau ne sont pas reproduits dans l&amp;#x27;extrait disponible.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Perturbations de circulation autour de François-Verdier dès juillet 2026&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Bilan global de l&amp;#x27;avancement du chantier et calendrier ligne C&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Réouverture du tunnel piéton de la gare Matabiau&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cet-enorme-chantier-du-metro-va-bouleverser-un-noeud-de-circulation-de-toulouse-pendant-plusieurs-mois_64355820.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-chantier-du-metro-entre-dans-une-nouvelle-phase-a-toulouse-les-stations-vont-etre-habillees-annonce-tisseo_64361125.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/ferme-depuis-un-an-le-tunnel-de-la-gare-matabiau-a-toulouse-va-rouvrir-tisseo-annonce-la-date_64359613.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cet-enorme-chantier-du-metro-va-bouleverser-un-noeud-de-circulation-de-toulouse-pendant-plusieurs-mois_64355820.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-chantier-du-metro-entre-dans-une-nouvelle-phase-a-toulouse-les-stations-vont-etre-habillees-annonce-tisseo_64361125.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/ferme-depuis-un-an-le-tunnel-de-la-gare-matabiau-a-toulouse-va-rouvrir-tisseo-annonce-la-date_64359613.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-chantier-du-metro-entre-dans-une-nouvelle-phase-a-toulouse-les-stations-vont-etre-habillees-annonce-tisseo_64361125.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>Le chantier de la future ligne C du métro de Toulouse, lancé fin 2022, entre dans plusieurs nouvelles phases cet été 2026. À partir de mi-juillet, la circulation sera coupée au carrefour rue des Frères Lion/boulevard Carnot/allées François-Verdier, nœud majeur autour de la station François-Verdier où 1,5 million de voyageurs transitent chaque année. Tisséo a par ailleurs annoncé la date de réouverture du tunnel piéton de la gare Matabiau, fermé depuis le 2 juin 2025 et contournée quotidiennement par quelque 30 000 usagers. Sur l'avancement global, le président de Tisséo Jean-Michel Lattes indique que 70 % des aménagements sont réalisés et 13 km de tunnel creusés sur 22, tout en précisant qu'une « phase de remédiation » est engagée avec Eiffage pour compenser les retards et tenter de tenir l'objectif d'une mise en service fin 2028.</summary>
     <category term="news"/>
-    <published>2026-06-05T06:04:01+02:00</published>
+    <published>2026-06-07T07:06:01+02:00</published>
   </entry>
   <entry>
     <id>cluster:b0c8af21-eeba-4093-b9bf-8b472f31e530</id>
@@ -1630,22 +1162,6 @@ We Are Ballos
     <published>2026-06-11T07:19:04+02:00</published>
   </entry>
   <entry>
-    <id>cluster:e4e4607a-08f9-495e-99b7-ecfcc4b07fb9</id>
-    <title>Coupe du monde : Moudenc prépare couvre-feu et mesures anti-casseurs à Toulouse</title>
-    <updated>2026-06-11T06:37:33.590175+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Après les violences survenues le 30 mai lors de la victoire du PSG en Ligue des Champions — incendies, vandalisme et affrontements avec les forces de l&amp;#x27;ordre en centre-ville —, le maire de Toulouse Jean-Luc Moudenc a publié une tribune le 8 juin proposant un arsenal de mesures préventives pour la Coupe du monde 2026, qui débute le 11 juin. Parmi les pistes évoquées : faire payer la casse aux auteurs via des travaux d&amp;#x27;intérêt général (y compris pour les mineurs), le recours à la reconnaissance faciale, et l&amp;#x27;instauration d&amp;#x27;un couvre-feu municipal. L&amp;#x27;adjoint à la sécurité Émilion Esnault confirme qu&amp;#x27;un arrêté de couvre-feu pour les mineurs est en préparation, en concertation avec la police nationale et la préfecture, mais les horaires, les publics visés et les matchs concernés ne sont pas encore arrêtés. Le décalage horaire avec l&amp;#x27;Amérique du Nord, qui entraîne des diffusions nocturnes, complique la définition des modalités.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article présente la tribune de Moudenc et l&amp;#x27;ensemble des mesures proposées, tandis que le second se concentre sur la concrétisation du couvre-feu pour les mineurs et les déclarations de l&amp;#x27;adjoint à la sécurité. Les deux articles sont complémentaires plutôt que contradictoires.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (tribune Moudenc)&lt;/strong&gt;: Le détail de l&amp;#x27;ensemble des propositions du maire, dont la reconnaissance faciale et les TIG&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (couvre-feu)&lt;/strong&gt;: L&amp;#x27;état d&amp;#x27;avancement concret de l&amp;#x27;arrêté municipal et les matchs potentiellement concernés&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/reconnaissance-faciale-couvre-feu-avant-la-coupe-du-monde-le-maire-de-toulouse-propose-un-arsenal-anti-casseurs_64374080.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-pour-rappeler-aux-parents-leurs-obligations-la-mairie-de-toulouse-va-instaurer-un-couvre-feu_64380769.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/reconnaissance-faciale-couvre-feu-avant-la-coupe-du-monde-le-maire-de-toulouse-propose-un-arsenal-anti-casseurs_64374080.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Après les violences survenues le 30 mai lors de la victoire du PSG en Ligue des Champions — incendies, vandalisme et affrontements avec les forces de l'ordre en centre-ville —, le maire de Toulouse Jean-Luc Moudenc a publié une tribune le 8 juin proposant un arsenal de mesures préventives pour la Coupe du monde 2026, qui débute le 11 juin. Parmi les pistes évoquées : faire payer la casse aux auteurs via des travaux d'intérêt général (y compris pour les mineurs), le recours à la reconnaissance faciale, et l'instauration d'un couvre-feu municipal. L'adjoint à la sécurité Émilion Esnault confirme qu'un arrêté de couvre-feu pour les mineurs est en préparation, en concertation avec la police nationale et la préfecture, mais les horaires, les publics visés et les matchs concernés ne sont pas encore arrêtés. Le décalage horaire avec l'Amérique du Nord, qui entraîne des diffusions nocturnes, complique la définition des modalités.</summary>
-    <category term="news"/>
-    <published>2026-06-09T12:08:04+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:9a126939-bfbf-4a5a-b954-3a9979c73846</id>
     <title>Menace au cutter dans un McDonald's : une cliente bannie de Toulouse</title>
     <updated>2026-06-11T06:37:33.590175+00:00</updated>
@@ -1676,21 +1192,414 @@ We Are Ballos
     <published>2026-06-07T13:42:55+02:00</published>
   </entry>
   <entry>
+    <id>cluster:9160ae9b-9874-4df8-9829-30c74c21d0bb</id>
+    <title>Rio Loco : festival musical jusqu'au 14 juin</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;p&gt;Le festival Rio Loco se tient à Toulouse jusqu&amp;#x27;au 14 juin, proposant un voyage musical aux couleurs des îles et du monde. La programmation mêle têtes d&amp;#x27;affiche internationales et découvertes musicales venues des quatre coins du globe. L&amp;#x27;événement est conçu pour tous les publics, avec des animations adaptées aux familles. Une occasion de sortie aussi bien entre amis qu&amp;#x27;en famille.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=776e4ddd-5e84-42b2-bbd8-508dd8602a4f&amp;amp;url_id=4563dda5-fedb-4db6-b572-cf8baf92ad1d&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=776e4ddd-5e84-42b2-bbd8-508dd8602a4f&amp;url_id=4563dda5-fedb-4db6-b572-cf8baf92ad1d&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le festival Rio Loco se tient à Toulouse jusqu'au 14 juin, proposant un voyage musical aux couleurs des îles et du monde. La programmation mêle têtes d'affiche internationales et découvertes musicales venues des quatre coins du globe. L'événement est conçu pour tous les publics, avec des animations adaptées aux familles. Une occasion de sortie aussi bien entre amis qu'en famille.</summary>
+    <category term="event"/>
+    <published>2026-06-11T10:39:28.205000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1a78ba9d-f57b-452d-a907-4ad7a9486983</id>
+    <title>Sorties du week-end : caves, livres, Rio Loco et sport</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Ce week-end à Toulouse et ses environs, les propositions sont nombreuses et variées. Le festival de caves de la compagnie Voraces se poursuit — une expérience originale où l&amp;#x27;adresse du spectacle, souvent dans une cave privée, n&amp;#x27;est révélée qu&amp;#x27;au dernier moment — jusqu&amp;#x27;au 20 juin. Le salon du livre de Blagnac se tient à la salle des Ramiers (entrée libre), avec notamment la présence de Virginie Lloyd pour son thriller féministe *Elle a le regard qui tue*. Rio Loco continue sur l&amp;#x27;île de la prairie des Filtres jusqu&amp;#x27;à dimanche soir, avec une after au Métronome samedi nuit. Côté sport, la 28e Corrida de Cugnaux (course caritative au profit de l&amp;#x27;enfance malheureuse), le match Toulouse Olympique XIII contre Leeds Rhinos au stade Ernest Wallon samedi à 19h, et le Canidé-Plouf — une pool party aquatique réservée aux chiens — complètent le programme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#43248"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#43248"/>
+    <summary>Ce week-end à Toulouse et ses environs, les propositions sont nombreuses et variées. Le festival de caves de la compagnie Voraces se poursuit — une expérience originale où l'adresse du spectacle, souvent dans une cave privée, n'est révélée qu'au dernier moment — jusqu'au 20 juin. Le salon du livre de Blagnac se tient à la salle des Ramiers (entrée libre), avec notamment la présence de Virginie Lloyd pour son thriller féministe *Elle a le regard qui tue*. Rio Loco continue sur l'île de la prairie des Filtres jusqu'à dimanche soir, avec une after au Métronome samedi nuit. Côté sport, la 28e Corrida de Cugnaux (course caritative au profit de l'enfance malheureuse), le match Toulouse Olympique XIII contre Leeds Rhinos au stade Ernest Wallon samedi à 19h, et le Canidé-Plouf — une pool party aquatique réservée aux chiens — complètent le programme.</summary>
+    <category term="event"/>
+    <published>2026-06-12T04:08:50.266000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:e4048fb0-7f33-4398-ad1f-c070547afb0e</id>
+    <title>La 12e Fête du Lido : 13 spectacles de cirque dans la métropole</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;La 12e édition de la Fête du Lido se déroule du 12 au 21 juin dans la métropole toulousaine, avec 13 spectacles mêlant créations d&amp;#x27;élèves de l&amp;#x27;Ésacto&amp;#x27;Lido et performances d&amp;#x27;artistes amateurs. Cet événement clôt la saison « Tout un cirque » avec des propositions aériennes, acrobatiques, dansées et comiques à Toulouse, Tournefeuille, Balma, Blagnac et Cugnaux. Parmi les temps forts : la création The Meaning Of Life par onze étudiants de 1re année au Parc des sports du Bazacle, et Rétrofutur le 17 juin — une rétrospective gratuite réunissant six promotions et une centaine d&amp;#x27;anciens élèves. Les représentations se tiennent notamment sous le chapiteau des Argoulets et dans divers lieux de la ville.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#43247"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#43247"/>
+    <summary>La 12e édition de la Fête du Lido se déroule du 12 au 21 juin dans la métropole toulousaine, avec 13 spectacles mêlant créations d'élèves de l'Ésacto'Lido et performances d'artistes amateurs. Cet événement clôt la saison « Tout un cirque » avec des propositions aériennes, acrobatiques, dansées et comiques à Toulouse, Tournefeuille, Balma, Blagnac et Cugnaux. Parmi les temps forts : la création The Meaning Of Life par onze étudiants de 1re année au Parc des sports du Bazacle, et Rétrofutur le 17 juin — une rétrospective gratuite réunissant six promotions et une centaine d'anciens élèves. Les représentations se tiennent notamment sous le chapiteau des Argoulets et dans divers lieux de la ville.</summary>
+    <category term="event"/>
+    <published>2026-06-12T04:08:50.266000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5e02749e-8cf2-4e91-aecf-35e7af7d8845</id>
+    <title>Les Concerts de Poche reviennent à Toulouse pour un soir gratuit</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;association Les Concerts de Poche, fondée en 2005 par la pianiste Gisèle Magnan, fait son retour à Toulouse avec un concert gratuit en plein air ce soir à 19h au centre culturel de Bordeblanche. Au programme, les pianistes toulousains Anna Jbanova et Tom Grimaud interpréteront des œuvres de Schubert et Borodine, tandis qu&amp;#x27;en première partie, la chorale de l&amp;#x27;école Ferdinand de Lesseps et les Chœurs du lac proposeront des extraits de Carmen et La Flûte enchantée. La soirée s&amp;#x27;inscrit dans le cadre de l&amp;#x27;événement Art-Lingot et sera précédée à 18h par le vernissage de l&amp;#x27;exposition photographique « J&amp;#x27;ai deux amours, mon pays et la Côte d&amp;#x27;Ivoire » de Jean-Marie Renaud. La mission de l&amp;#x27;association est de rendre la musique classique, lyrique et jazz accessible à tous, en priorité aux jeunes et aux personnes éloignées de ces pratiques culturelles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#43246"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#43246"/>
+    <summary>L'association Les Concerts de Poche, fondée en 2005 par la pianiste Gisèle Magnan, fait son retour à Toulouse avec un concert gratuit en plein air ce soir à 19h au centre culturel de Bordeblanche. Au programme, les pianistes toulousains Anna Jbanova et Tom Grimaud interpréteront des œuvres de Schubert et Borodine, tandis qu'en première partie, la chorale de l'école Ferdinand de Lesseps et les Chœurs du lac proposeront des extraits de Carmen et La Flûte enchantée. La soirée s'inscrit dans le cadre de l'événement Art-Lingot et sera précédée à 18h par le vernissage de l'exposition photographique « J'ai deux amours, mon pays et la Côte d'Ivoire » de Jean-Marie Renaud. La mission de l'association est de rendre la musique classique, lyrique et jazz accessible à tous, en priorité aux jeunes et aux personnes éloignées de ces pratiques culturelles.</summary>
+    <category term="event"/>
+    <published>2026-06-12T04:08:50.266000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b5c8e149-7fbf-4697-9531-c25f2a338f48</id>
+    <title>Village des notaires : consultations gratuites allées Jules-Guesde</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Un village des notaires s&amp;#x27;installe allées Jules-Guesde à Toulouse pour proposer des consultations juridiques gratuites et sans rendez-vous, de 9h à 18h. Les professionnels répondront aux questions sur l&amp;#x27;héritage, la donation, l&amp;#x27;acquisition ou la vente d&amp;#x27;un bien, le contrat de mariage, le PACS ou le divorce. Les espaces sont aménagés pour garantir la confidentialité des échanges. L&amp;#x27;événement est organisé par la Chambre des notaires de la Cour d&amp;#x27;appel de Toulouse, qui regroupe 632 professionnels de Haute-Garonne, d&amp;#x27;Ariège, du Tarn et du Tarn-et-Garonne, et qui vient d&amp;#x27;élire une nouvelle présidente, Me Marjorie Lartigue-Chabbert.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#43245"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#43245"/>
+    <summary>Un village des notaires s'installe allées Jules-Guesde à Toulouse pour proposer des consultations juridiques gratuites et sans rendez-vous, de 9h à 18h. Les professionnels répondront aux questions sur l'héritage, la donation, l'acquisition ou la vente d'un bien, le contrat de mariage, le PACS ou le divorce. Les espaces sont aménagés pour garantir la confidentialité des échanges. L'événement est organisé par la Chambre des notaires de la Cour d'appel de Toulouse, qui regroupe 632 professionnels de Haute-Garonne, d'Ariège, du Tarn et du Tarn-et-Garonne, et qui vient d'élire une nouvelle présidente, Me Marjorie Lartigue-Chabbert.</summary>
+    <category term="event"/>
+    <published>2026-06-12T04:08:50.266000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:fb605a37-f47b-49d9-85ee-9d12ad460225</id>
+    <title>Les Journées de l'archéologie à Toulouse ce week-end</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Les Journées nationales de l&amp;#x27;archéologie se tiennent à Toulouse du 12 au 14 juin, avec une journée prioritairement dédiée aux scolaires le vendredi. Organisées par l&amp;#x27;Institut national de recherches archéologiques préventives (Inrap) sous l&amp;#x27;égide du ministère de la Culture, elles visent à sensibiliser le grand public à la richesse du patrimoine archéologique et à la nécessité de sa préservation. Au programme : animations ludiques, visites inédites, accès gratuit aux collections, rencontres avec des archéologues, et une exposition « Gaulois mais Romains » au musée Saint-Raymond. L&amp;#x27;entrée est gratuite, l&amp;#x27;événement est ouvert à tous, en famille ou entre amis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux sources divergent légèrement sur les dates : office_tourisme ne mentionne que le week-end des 13 et 14 juin, tandis que lessentiel précise que l&amp;#x27;événement débute dès le 12 juin (journée scolaires). Cette différence reflète probablement le public cible de chaque source.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Contexte national, organisation, programme détaillé et exposition au musée Saint-Raymond&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Infos pratiques pour le grand public : dates du week-end, gratuité, ambiance familiale&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=776e4ddd-5e84-42b2-bbd8-508dd8602a4f&amp;amp;url_id=8700aa5d-91f1-44dd-922e-d26e0778d367&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#43244"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=776e4ddd-5e84-42b2-bbd8-508dd8602a4f&amp;url_id=8700aa5d-91f1-44dd-922e-d26e0778d367&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les Journées nationales de l'archéologie se tiennent à Toulouse du 12 au 14 juin, avec une journée prioritairement dédiée aux scolaires le vendredi. Organisées par l'Institut national de recherches archéologiques préventives (Inrap) sous l'égide du ministère de la Culture, elles visent à sensibiliser le grand public à la richesse du patrimoine archéologique et à la nécessité de sa préservation. Au programme : animations ludiques, visites inédites, accès gratuit aux collections, rencontres avec des archéologues, et une exposition « Gaulois mais Romains » au musée Saint-Raymond. L'entrée est gratuite, l'événement est ouvert à tous, en famille ou entre amis.</summary>
+    <category term="event"/>
+    <published>2026-06-11T10:39:28.205000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:63e49a9b-0133-4fc2-8b36-477930888eb1</id>
+    <title>NH09909 – Dimanche 14 Juin</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;Afro, punk, rap 
+Le Rex | 19h30 | 25 €
+&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-dimanche-14-juin-2"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-dimanche-14-juin-2"/>
+    <summary>Afro, punk, rap 
+Le Rex | 19h30 | 25 €
+&lt;&lt;</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7db7e1c2-13f4-4d67-ae61-a37d5c44c9ee</id>
+    <title>TIC TAC TOE – Dimanche 14 Juin</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;Groovy jazz 
+Maison Soclo | 19h | Grat&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-dimanche-14-juin-1"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-dimanche-14-juin-1"/>
+    <summary>Groovy jazz 
+Maison Soclo | 19h | Grat</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:79bd916c-ea39-4d13-aaef-694cf15011a5</id>
+    <title>Dimanche Electro KIGS #14 : soirée House et Techno gratuite</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;La série d&amp;#x27;événements Dimanche Electro KIGS arrive à sa 14e édition le dimanche 14 juin, avec Aladin aka Franck Ros aux platines pour une session House et Techno. La soirée se déroule au Frankie la nuit / N8, à partir de 15h. L&amp;#x27;entrée est libre, ce qui en fait une sortie accessible à tous les amateurs de musiques électroniques toulousains.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-dimanche-14-juin-0"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-dimanche-14-juin-0"/>
+    <summary>La série d'événements Dimanche Electro KIGS arrive à sa 14e édition le dimanche 14 juin, avec Aladin aka Franck Ros aux platines pour une session House et Techno. La soirée se déroule au Frankie la nuit / N8, à partir de 15h. L'entrée est libre, ce qui en fait une sortie accessible à tous les amateurs de musiques électroniques toulousains.</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:88002440-dbc7-47c4-91de-c57028340c3c</id>
+    <title>Concert jazz de Samarabalouf à Marignac-Lasclares</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;Le groupe Samarabalouf se produit en concert jazz le samedi 13 juin à la Salle Noël Miegemolle de Marignac-Lasclares. Le spectacle débute à 20h, avec des places proposées entre 12 et 24 euros. L&amp;#x27;événement s&amp;#x27;adresse aux amateurs de jazz dans la région toulousaine. Les informations de billetterie et de réservation sont à consulter directement auprès de la source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-samedi-13-juin-2"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-samedi-13-juin-2"/>
+    <summary>Le groupe Samarabalouf se produit en concert jazz le samedi 13 juin à la Salle Noël Miegemolle de Marignac-Lasclares. Le spectacle débute à 20h, avec des places proposées entre 12 et 24 euros. L'événement s'adresse aux amateurs de jazz dans la région toulousaine. Les informations de billetterie et de réservation sont à consulter directement auprès de la source.</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:cff2bc1e-dfa0-4e73-ae1a-a0f233e53138</id>
+    <title>Karaoké autotuné queer punk à La Mécanique des Fluides</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;La Mécanique des Fluides accueille Radical Kitten, un karaoké autotuné animé par Maria Caresses, le samedi 13 juin à partir de 20h. L&amp;#x27;événement se revendique queer punk et no wave, proposant une ambiance décalée et festive. L&amp;#x27;entrée est à participation libre. Un rendez-vous pour les amateurs de soirées alternatives et participatives à Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-samedi-13-juin-1"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-samedi-13-juin-1"/>
+    <summary>La Mécanique des Fluides accueille Radical Kitten, un karaoké autotuné animé par Maria Caresses, le samedi 13 juin à partir de 20h. L'événement se revendique queer punk et no wave, proposant une ambiance décalée et festive. L'entrée est à participation libre. Un rendez-vous pour les amateurs de soirées alternatives et participatives à Toulouse.</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a027049f-16de-488d-bba3-60588e4c9868</id>
+    <title>Halle en Voix : journée chant à la Halle de La Machine</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;événement Halle en Voix se tient à la Halle de La Machine le samedi 13 juin, à partir de 10h. La manifestation est dédiée au chant et propose des tarifs accessibles, entre 6 et 12 euros. Peu de détails supplémentaires sont disponibles dans la source sur le programme ou les artistes impliqués. L&amp;#x27;événement s&amp;#x27;adresse aux amateurs de chant et au grand public toulousain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-samedi-13-juin-0"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-samedi-13-juin-0"/>
+    <summary>L'événement Halle en Voix se tient à la Halle de La Machine le samedi 13 juin, à partir de 10h. La manifestation est dédiée au chant et propose des tarifs accessibles, entre 6 et 12 euros. Peu de détails supplémentaires sont disponibles dans la source sur le programme ou les artistes impliqués. L'événement s'adresse aux amateurs de chant et au grand public toulousain.</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:751b6699-5008-45f9-a14b-c8c6ef57a227</id>
+    <title>Concert black métal : Seth et Orob à La Cabane</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;Les groupes Seth et Orob se produiront à La Cabane, à Toulouse, le vendredi 12 juin. La soirée est placée sous le signe du black métal. Le concert débute à 20h, avec une entrée à 23,50 €. L&amp;#x27;événement s&amp;#x27;adresse aux amateurs du genre dans la région toulousaine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-vendredi-12-juin-2"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-vendredi-12-juin-2"/>
+    <summary>Les groupes Seth et Orob se produiront à La Cabane, à Toulouse, le vendredi 12 juin. La soirée est placée sous le signe du black métal. Le concert débute à 20h, avec une entrée à 23,50 €. L'événement s'adresse aux amateurs du genre dans la région toulousaine.</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:770bb32c-9cc5-4520-a3a6-125f424d09bd</id>
+    <title>Rémi Panossian Trio en concert à Toulouse le 12 juin</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Rémi Panossian Trio se produit à l&amp;#x27;Interférence le vendredi 12 juin à partir de 19h30. Le groupe évolue dans un registre jazz rock. La place est proposée au tarif de 26,80 €. L&amp;#x27;information provient de la billetterie Clutch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-vendredi-12-juin-1"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-vendredi-12-juin-1"/>
+    <summary>Le Rémi Panossian Trio se produit à l'Interférence le vendredi 12 juin à partir de 19h30. Le groupe évolue dans un registre jazz rock. La place est proposée au tarif de 26,80 €. L'information provient de la billetterie Clutch.</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a2d295cc-3400-4743-a609-71c1b792faa3</id>
+    <title>Rio Loco : Maya Kamaty en concert à la Prairie des Filtres</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;Le festival Rio Loco propose une soirée world et soul à la Prairie des Filtres le vendredi 12 juin. Maya Kamaty, artiste réunionnaise aux influences mêlant maloya et soul contemporaine, figure parmi les têtes d&amp;#x27;affiche de cette session. L&amp;#x27;entrée est fixée à 12 €, avec une ouverture des portes à 17h. Un rendez-vous pour les amateurs de musiques du monde en plein air au bord de la Garonne.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-vendredi-12-juin-0"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-vendredi-12-juin-0"/>
+    <summary>Le festival Rio Loco propose une soirée world et soul à la Prairie des Filtres le vendredi 12 juin. Maya Kamaty, artiste réunionnaise aux influences mêlant maloya et soul contemporaine, figure parmi les têtes d'affiche de cette session. L'entrée est fixée à 12 €, avec une ouverture des portes à 17h. Un rendez-vous pour les amateurs de musiques du monde en plein air au bord de la Garonne.</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:380f9e7f-e34f-4ba7-bf69-8f5be793283c</id>
+    <title>Soirée d'ouverture du Petit Bikini le 11 juin</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>clutch</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Petit Bikini organise sa soirée d&amp;#x27;ouverture le jeudi 11 juin à partir de 18h. L&amp;#x27;entrée est gratuite. Aucun autre détail sur la programmation ou le déroulé de la soirée n&amp;#x27;est précisé dans la source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-06-11-jeudi-11-juin-0"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-06-11-jeudi-11-juin-0"/>
+    <summary>Le Petit Bikini organise sa soirée d'ouverture le jeudi 11 juin à partir de 18h. L'entrée est gratuite. Aucun autre détail sur la programmation ou le déroulé de la soirée n'est précisé dans la source.</summary>
+    <category term="event"/>
+    <published>2026-06-11T12:24:09.620000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:fa3eae48-fab0-4f19-9e9e-ce39641e0a1e</id>
+    <title>Le Kiosque de la Roseraie, seize ans de lien social dans le quartier</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Installé à la sortie du métro Roseraie, le Kiosque de la Roseraie est tenu par Abdallah depuis sept ans, mais son histoire avec le quartier remonte à seize ans, d&amp;#x27;abord comme cafetier ambulant. En repérant un manque de commerces conviviaux près du parc et de la bouche de métro, il a voulu créer un espace accessible et ouvert sur l&amp;#x27;extérieur. Avec le temps, le kiosque est devenu un véritable point de rendez-vous intergénérationnel, fréquenté par retraités, travailleurs, étudiants et familles. Abdallah connaît bon nombre de ses habitués par leur prénom, et le lieu est désormais reconnu comme un espace de rencontre et de lien social au cœur de la Roseraie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Portrait du gérant et histoire du kiosque comme lieu de vie de quartier&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/11/le-kiosque-de-la-roseraie-repere-de-vie-et-de-lien-social-13396483.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/06/11/le-kiosque-de-la-roseraie-repere-de-vie-et-de-lien-social-13396483.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Installé à la sortie du métro Roseraie, le Kiosque de la Roseraie est tenu par Abdallah depuis sept ans, mais son histoire avec le quartier remonte à seize ans, d'abord comme cafetier ambulant. En repérant un manque de commerces conviviaux près du parc et de la bouche de métro, il a voulu créer un espace accessible et ouvert sur l'extérieur. Avec le temps, le kiosque est devenu un véritable point de rendez-vous intergénérationnel, fréquenté par retraités, travailleurs, étudiants et familles. Abdallah connaît bon nombre de ses habitués par leur prénom, et le lieu est désormais reconnu comme un espace de rencontre et de lien social au cœur de la Roseraie.</summary>
+    <category term="place"/>
+    <published>2026-06-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:48195d04-d1a1-426f-8a0c-4a95c436e88b</id>
+    <title>Un policier blessé après avoir été percuté par un scootériste à Toulouse</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Mercredi 10 juin 2026 vers 19h30, place Esquirol à Toulouse, des policiers ont surpris une transaction de stupéfiants entre deux individus. En tentant d&amp;#x27;interpeller les suspects, l&amp;#x27;un des agents a été percuté par le scootériste qui prenait la fuite, subissant des blessures à la main, aux tibias, aux bras et aux fesses. Le policier a été pris en charge par les sapeurs-pompiers de Haute-Garonne et évacué au CHU de Toulouse. Le conducteur du scooter a été interpellé peu après par un autre équipage de police.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/surpris-en-pleine-transaction-de-stupefiants-le-scooteriste-percute-et-blesse-un-policier-a-toulouse_64387906.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/surpris-en-pleine-transaction-de-stupefiants-le-scooteriste-percute-et-blesse-un-policier-a-toulouse_64387906.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Mercredi 10 juin 2026 vers 19h30, place Esquirol à Toulouse, des policiers ont surpris une transaction de stupéfiants entre deux individus. En tentant d'interpeller les suspects, l'un des agents a été percuté par le scootériste qui prenait la fuite, subissant des blessures à la main, aux tibias, aux bras et aux fesses. Le policier a été pris en charge par les sapeurs-pompiers de Haute-Garonne et évacué au CHU de Toulouse. Le conducteur du scooter a été interpellé peu après par un autre équipage de police.</summary>
+    <category term="news"/>
+    <published>2026-06-11T13:19:18+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:bc334310-e62d-4e37-a33e-f0ac15ce73b1</id>
+    <title>Une fan zone de 18 000 personnes prévue au Stadium pour la Coupe du monde</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La mairie de Toulouse a officialisé jeudi 11 juin 2026 l&amp;#x27;installation d&amp;#x27;une fan zone sur le parvis du Stadium de Toulouse durant la Coupe du monde de football. Le dispositif, d&amp;#x27;une capacité de 18 000 personnes, sera activé uniquement en cas de qualification de l&amp;#x27;équipe de France en quart de finale, demi-finale et finale — soit trois dates possibles au maximum. Sur place, un écran géant, de la restauration, une buvette, des animations et des distributions gratuites d&amp;#x27;éthylotests, préservatifs et bouchons d&amp;#x27;oreilles sont prévus. Le maire Jean-Luc Moudenc a précisé que le parvis du Stadium sera exclu du périmètre de l&amp;#x27;arrêté municipal sur le couvre-feu pour les mineurs annoncé le même jour.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-officiel-il-y-aura-une-fan-zone-a-toulouse-pendant-la-coupe-du-monde-de-football-tout-ce-qui-est-prevu_64387246.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-officiel-il-y-aura-une-fan-zone-a-toulouse-pendant-la-coupe-du-monde-de-football-tout-ce-qui-est-prevu_64387246.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La mairie de Toulouse a officialisé jeudi 11 juin 2026 l'installation d'une fan zone sur le parvis du Stadium de Toulouse durant la Coupe du monde de football. Le dispositif, d'une capacité de 18 000 personnes, sera activé uniquement en cas de qualification de l'équipe de France en quart de finale, demi-finale et finale — soit trois dates possibles au maximum. Sur place, un écran géant, de la restauration, une buvette, des animations et des distributions gratuites d'éthylotests, préservatifs et bouchons d'oreilles sont prévus. Le maire Jean-Luc Moudenc a précisé que le parvis du Stadium sera exclu du périmètre de l'arrêté municipal sur le couvre-feu pour les mineurs annoncé le même jour.</summary>
+    <category term="news"/>
+    <published>2026-06-11T12:16:22+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f474f370-65e5-4b86-ad3f-90b64d11fad7</id>
+    <title>Un responsable de caisse d'Auchan-Montaudran détourne 31 300 euros</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Un responsable de caisse de l&amp;#x27;hypermarché Auchan-Montaudran à Toulouse est soupçonné d&amp;#x27;avoir détourné plus de 31 300 euros à son employeur sur une période de sept mois, entre décembre 2024 et juillet 2025. Chargé de gérer un distributeur automatique de billets, il en aurait profité pour se constituer un magot illégal. La Brigade des atteintes aux biens Rive droite a mené l&amp;#x27;enquête en exploitant des enregistrements vidéo et des relevés bancaires, avant d&amp;#x27;interpeller le trentenaire à son domicile le 9 juin 2026. Lors de sa garde à vue, l&amp;#x27;homme a reconnu les faits ; du matériel multimédia a été saisi à son domicile.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/avec-une-technique-bien-rodee-le-responsable-de-caisse-arnaque-un-hypermarche-de-toulouse-de-plus-de-30-000-euros_64387781.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/avec-une-technique-bien-rodee-le-responsable-de-caisse-arnaque-un-hypermarche-de-toulouse-de-plus-de-30-000-euros_64387781.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un responsable de caisse de l'hypermarché Auchan-Montaudran à Toulouse est soupçonné d'avoir détourné plus de 31 300 euros à son employeur sur une période de sept mois, entre décembre 2024 et juillet 2025. Chargé de gérer un distributeur automatique de billets, il en aurait profité pour se constituer un magot illégal. La Brigade des atteintes aux biens Rive droite a mené l'enquête en exploitant des enregistrements vidéo et des relevés bancaires, avant d'interpeller le trentenaire à son domicile le 9 juin 2026. Lors de sa garde à vue, l'homme a reconnu les faits ; du matériel multimédia a été saisi à son domicile.</summary>
+    <category term="news"/>
+    <published>2026-06-11T13:44:29+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7bc52997-b68c-42b3-b42b-84c129e14133</id>
+    <title>Panache de fumée à l'est de Toulouse : un feu de broussailles vite maîtrisé</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le jeudi 11 juin 2026, vers 15h, un important panache de fumée a été visible à l&amp;#x27;est de Toulouse, près du périphérique et de la zone commerciale de Balma-Gramont, semant l&amp;#x27;inquiétude dans plusieurs quartiers alentour. Il s&amp;#x27;agissait en réalité d&amp;#x27;un feu de broussailles très localisé, déclaré chemin de Gramont. Quinze pompiers mobilisés avec trois lances à eau ont rapidement maîtrisé l&amp;#x27;incendie. Aucune perturbation n&amp;#x27;a été signalée sur la ligne SNCF Albi-Toulouse ni sur le chantier du Technocentre voisin, selon actu_toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-y-a-le-feu-la-panache-de-fumee-odeur-persistante-cet-incendie-a-inquiete-plusieurs-quartiers-de-toulouse_64389385.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/il-y-a-le-feu-la-panache-de-fumee-odeur-persistante-cet-incendie-a-inquiete-plusieurs-quartiers-de-toulouse_64389385.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le jeudi 11 juin 2026, vers 15h, un important panache de fumée a été visible à l'est de Toulouse, près du périphérique et de la zone commerciale de Balma-Gramont, semant l'inquiétude dans plusieurs quartiers alentour. Il s'agissait en réalité d'un feu de broussailles très localisé, déclaré chemin de Gramont. Quinze pompiers mobilisés avec trois lances à eau ont rapidement maîtrisé l'incendie. Aucune perturbation n'a été signalée sur la ligne SNCF Albi-Toulouse ni sur le chantier du Technocentre voisin, selon actu_toulouse.</summary>
+    <category term="news"/>
+    <published>2026-06-11T16:44:50+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:64e82f1e-d494-4228-8cb8-7473b04564dd</id>
+    <title>Atteinte d'un cancer rare, elle devient maman grâce au CHU de Toulouse</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Une jeune femme prénommée Laetitia, diagnostiquée en 2019 d&amp;#x27;un sarcome d&amp;#x27;Ewing — tumeur maligne osseuse rare touchant 80 à 100 personnes par an en France — a pu devenir maman grâce à une greffe de cortex ovarien réalisée au CHU de Toulouse. Avant le début de sa chimiothérapie, les médecins lui avaient prélevé des fragments de cortex ovarien par cryoconservation, anticipant les risques d&amp;#x27;altération de la fertilité liés aux traitements. Après plusieurs années de traitement et une rémission confirmée en 2024, la transplantation de ces fragments a permis la naissance d&amp;#x27;un petit garçon en février 2026. Cette réussite illustre les possibilités offertes par la préservation de la fertilité oncologique, et témoigne d&amp;#x27;une prouesse médicale et technique menée par les équipes du CHU toulousain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/chaque-jour-je-mesure-ma-chance-atteinte-d-un-cancer-rare-elle-devient-maman-apres-une-prouesse-du-chu-de-toulouse_64388058.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/chaque-jour-je-mesure-ma-chance-atteinte-d-un-cancer-rare-elle-devient-maman-apres-une-prouesse-du-chu-de-toulouse_64388058.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Une jeune femme prénommée Laetitia, diagnostiquée en 2019 d'un sarcome d'Ewing — tumeur maligne osseuse rare touchant 80 à 100 personnes par an en France — a pu devenir maman grâce à une greffe de cortex ovarien réalisée au CHU de Toulouse. Avant le début de sa chimiothérapie, les médecins lui avaient prélevé des fragments de cortex ovarien par cryoconservation, anticipant les risques d'altération de la fertilité liés aux traitements. Après plusieurs années de traitement et une rémission confirmée en 2024, la transplantation de ces fragments a permis la naissance d'un petit garçon en février 2026. Cette réussite illustre les possibilités offertes par la préservation de la fertilité oncologique, et témoigne d'une prouesse médicale et technique menée par les équipes du CHU toulousain.</summary>
+    <category term="news"/>
+    <published>2026-06-11T17:08:27+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5937621b-d89e-4f22-bbf8-39631038b1f9</id>
+    <title>Le Petit Bikini rouvre sa guinguette à Ramonville à partir du 11 juin</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La guinguette estivale du Bikini, Le Petit Bikini, rouvre ses portes à Ramonville le 11 juin 2026 pour une nouvelle saison. Née en 2021 dans le contexte post-covid, elle s&amp;#x27;est imposée comme un rendez-vous incontournable de l&amp;#x27;été toulousain. Le programme inaugural du premier week-end mêle soirée années 90/2000/2010 (rock, pop, électro, hip-hop), un Apéro Disco avec le DJ Madame Gaultier le 12 juin, puis un « rewind » du Classico Café, haut lieu de la scène électronique toulousaine. L&amp;#x27;établissement proposera également restauration (tapas, planches à partager), piscine, pétanque, baby-foot, ping-pong, diffusion des matchs des Bleus pour le Mondial 2026 et un quiz Coupe du Monde le 16 juin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-emblematique-guinguette-du-bikini-a-toulouse-rouvre-ses-portes-et-promet-un-ete-electrique-au-bord-de-la-piscine_64387391.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/l-emblematique-guinguette-du-bikini-a-toulouse-rouvre-ses-portes-et-promet-un-ete-electrique-au-bord-de-la-piscine_64387391.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La guinguette estivale du Bikini, Le Petit Bikini, rouvre ses portes à Ramonville le 11 juin 2026 pour une nouvelle saison. Née en 2021 dans le contexte post-covid, elle s'est imposée comme un rendez-vous incontournable de l'été toulousain. Le programme inaugural du premier week-end mêle soirée années 90/2000/2010 (rock, pop, électro, hip-hop), un Apéro Disco avec le DJ Madame Gaultier le 12 juin, puis un « rewind » du Classico Café, haut lieu de la scène électronique toulousaine. L'établissement proposera également restauration (tapas, planches à partager), piscine, pétanque, baby-foot, ping-pong, diffusion des matchs des Bleus pour le Mondial 2026 et un quiz Coupe du Monde le 16 juin.</summary>
+    <category term="event"/>
+    <published>2026-06-11T17:54:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:df608c26-6c71-4927-be94-a556a8439ac3</id>
+    <title>Manifestation à Toulouse contre l'austérité dans la recherche publique</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Une journée d&amp;#x27;action nationale a rassemblé environ 80 personnes à Toulouse le jeudi 11 juin, place Jean-Jaurès, pour dénoncer le sous-financement de la recherche scientifique et de l&amp;#x27;enseignement supérieur. Doctorants, fonctionnaires du CNRS et personnels d&amp;#x27;autres instituts de recherche ont répondu à l&amp;#x27;appel d&amp;#x27;une intersyndicale regroupant CGT et plusieurs autres organisations. Selon Bruno Guibert, secrétaire régional du SNTRS-CGT, les budgets 2026 des organismes de recherche traduisent un « désengagement massif de l&amp;#x27;État », qualifié de « choix politique inacceptable ». Ce mouvement s&amp;#x27;inscrit dans une série de mobilisations sociales récentes à Toulouse, après les agriculteurs, les routiers et les AESH.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Reportage de terrain avec témoignages des manifestants et contexte syndical&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-inacceptable-pourquoi-les-travailleurs-de-la-recherche-et-de-l-enseignement-superieur-ont-manifeste-a-toulouse_64389049.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-inacceptable-pourquoi-les-travailleurs-de-la-recherche-et-de-l-enseignement-superieur-ont-manifeste-a-toulouse_64389049.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Une journée d'action nationale a rassemblé environ 80 personnes à Toulouse le jeudi 11 juin, place Jean-Jaurès, pour dénoncer le sous-financement de la recherche scientifique et de l'enseignement supérieur. Doctorants, fonctionnaires du CNRS et personnels d'autres instituts de recherche ont répondu à l'appel d'une intersyndicale regroupant CGT et plusieurs autres organisations. Selon Bruno Guibert, secrétaire régional du SNTRS-CGT, les budgets 2026 des organismes de recherche traduisent un « désengagement massif de l'État », qualifié de « choix politique inacceptable ». Ce mouvement s'inscrit dans une série de mobilisations sociales récentes à Toulouse, après les agriculteurs, les routiers et les AESH.</summary>
+    <category term="news"/>
+    <published>2026-06-11T18:46:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:97303b03-f9f3-4516-8f7f-fe1d2ddc4e99</id>
+    <title>Le pub irlandais O'Briens rouvre après plus d'un an de fermeture</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le pub irlandais O&amp;#x27;Briens, boulevard Carnot à Toulouse, rouvre ses portes le vendredi 12 juin 2026, plus d&amp;#x27;un an après sa fermeture forcée. Tout a commencé en avril 2024 avec la fragilisation d&amp;#x27;un immeuble voisin au 69 boulevard Carnot, dont les planchers s&amp;#x27;affaissaient, entraînant un arrêté municipal d&amp;#x27;interdiction d&amp;#x27;accès. En mai 2025, un expert judiciaire a signalé des dégradations sur le mur mitoyen avec le pub, provoquant la fermeture immédiate du O&amp;#x27;Briens sur décision de la mairie. L&amp;#x27;établissement a traversé une période difficile, avec notamment le licenciement de trois salariés, avant de pouvoir enfin reprendre son activité, selon le gérant David Vanpeperstraete.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-un-soulagement-pendant-plus-d-un-an-ce-pub-emblematique-de-toulouse-est-reste-ferme-il-rouvre-enfin_64389473.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-un-soulagement-pendant-plus-d-un-an-ce-pub-emblematique-de-toulouse-est-reste-ferme-il-rouvre-enfin_64389473.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le pub irlandais O'Briens, boulevard Carnot à Toulouse, rouvre ses portes le vendredi 12 juin 2026, plus d'un an après sa fermeture forcée. Tout a commencé en avril 2024 avec la fragilisation d'un immeuble voisin au 69 boulevard Carnot, dont les planchers s'affaissaient, entraînant un arrêté municipal d'interdiction d'accès. En mai 2025, un expert judiciaire a signalé des dégradations sur le mur mitoyen avec le pub, provoquant la fermeture immédiate du O'Briens sur décision de la mairie. L'établissement a traversé une période difficile, avec notamment le licenciement de trois salariés, avant de pouvoir enfin reprendre son activité, selon le gérant David Vanpeperstraete.</summary>
+    <category term="place"/>
+    <published>2026-06-12T06:04:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f9e18f51-19b4-4e51-836c-e012c921d721</id>
+    <title>La Planète Rock, discothèque mythique de Toulouse, ferme après 32 ans</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La Planète Rock, discothèque pop-rock emblématique située au nord-est de Toulouse chemin de Lanusse, fermera définitivement ses portes fin juin 2026 après 32 ans d&amp;#x27;existence. Son gérant Francis Aribaud, qui s&amp;#x27;est depuis reconverti dans le théâtre, a annoncé la nouvelle le 11 juin et a remercié le personnel et les clients fidèles. Deux dernières soirées sont prévues : une soirée Années 80 le 13 juin, puis la grande soirée de clôture le 27 juin. Le lieu, discret en façade mais reconnu pour son ambiance unique, sera cédé — marquant la fin d&amp;#x27;un chapitre de la vie nocturne toulousaine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/apres-32-ans-de-soirees-memorables-la-planete-rock-discotheque-mythique-ferme-definitivement-a-toulouse_64391399.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/apres-32-ans-de-soirees-memorables-la-planete-rock-discotheque-mythique-ferme-definitivement-a-toulouse_64391399.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Planète Rock, discothèque pop-rock emblématique située au nord-est de Toulouse chemin de Lanusse, fermera définitivement ses portes fin juin 2026 après 32 ans d'existence. Son gérant Francis Aribaud, qui s'est depuis reconverti dans le théâtre, a annoncé la nouvelle le 11 juin et a remercié le personnel et les clients fidèles. Deux dernières soirées sont prévues : une soirée Années 80 le 13 juin, puis la grande soirée de clôture le 27 juin. Le lieu, discret en façade mais reconnu pour son ambiance unique, sera cédé — marquant la fin d'un chapitre de la vie nocturne toulousaine.</summary>
+    <category term="news"/>
+    <published>2026-06-12T07:33:03+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:e4e4607a-08f9-495e-99b7-ecfcc4b07fb9</id>
+    <title>Coupe du monde : couvre-feu pour les mineurs instauré à Toulouse</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Suite aux débordements survenus le 30 mai lors de la victoire du PSG en Ligue des Champions, le maire de Toulouse Jean-Luc Moudenc a pris un arrêté municipal instaurant un couvre-feu pour les mineurs de moins de 16 ans pendant la Coupe du monde 2026. La mesure s&amp;#x27;applique de 22h à 5h du matin dans un périmètre couvrant l&amp;#x27;hypercentre, les allées Jean-Jaurès et les quartiers Bonnefoy et Marengo, lors d&amp;#x27;une série de nuits de matchs jugés « sensibles » du 13 juin au 27 juin. Moudenc évoque également d&amp;#x27;autres pistes anti-casseurs, dont la reconnaissance faciale et des travaux d&amp;#x27;intérêt général pour les auteurs de dégradations. L&amp;#x27;opposition socialiste, par la voix de François Briançon, qualifie l&amp;#x27;arrêté de « proposition absurde, inapplicable et incontrôlable », déplorant aussi l&amp;#x27;absence de fan zone.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les trois premiers articles d&amp;#x27;actu_toulouse relatent la genèse et le contenu du dispositif de façon chronologique et factuelle. Le quatrième donne la parole à l&amp;#x27;opposition et met en avant les critiques politiques, offrant un contrepoint absent des autres.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – « Reconnaissance faciale »&lt;/strong&gt;: L&amp;#x27;ensemble des propositions anti-casseurs de Moudenc, contexte et déclarations du maire&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – « Couvre-feu instauré à Toulouse »&lt;/strong&gt;: Les modalités précises du couvre-feu : horaires, périmètre, matchs concernés&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – « une proposition absurde »&lt;/strong&gt;: Les critiques de l&amp;#x27;opposition et le débat politique autour de la mesure&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/reconnaissance-faciale-couvre-feu-avant-la-coupe-du-monde-le-maire-de-toulouse-propose-un-arsenal-anti-casseurs_64374080.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-pour-rappeler-aux-parents-leurs-obligations-la-mairie-de-toulouse-va-instaurer-un-couvre-feu_64380769.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/couvre-feu-instaure-a-toulouse-pendant-la-coupe-du-monde-ou-va-t-il-etre-applique-et-a-partir-de-quelle-heure_64386635.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/couvre-feu-a-toulouse-pendant-la-coupe-du-monde-une-proposition-absurde-inapplicable-et-incontrolable_64388695.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/reconnaissance-faciale-couvre-feu-avant-la-coupe-du-monde-le-maire-de-toulouse-propose-un-arsenal-anti-casseurs_64374080.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Suite aux débordements survenus le 30 mai lors de la victoire du PSG en Ligue des Champions, le maire de Toulouse Jean-Luc Moudenc a pris un arrêté municipal instaurant un couvre-feu pour les mineurs de moins de 16 ans pendant la Coupe du monde 2026. La mesure s'applique de 22h à 5h du matin dans un périmètre couvrant l'hypercentre, les allées Jean-Jaurès et les quartiers Bonnefoy et Marengo, lors d'une série de nuits de matchs jugés « sensibles » du 13 juin au 27 juin. Moudenc évoque également d'autres pistes anti-casseurs, dont la reconnaissance faciale et des travaux d'intérêt général pour les auteurs de dégradations. L'opposition socialiste, par la voix de François Briançon, qualifie l'arrêté de « proposition absurde, inapplicable et incontrôlable », déplorant aussi l'absence de fan zone.</summary>
+    <category term="news"/>
+    <published>2026-06-09T12:08:04+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:6909249c-b383-4f23-9c37-4922fd5b30e0</id>
-    <title>Rio Loco 2026 : cinq jours de musiques insulaires à Toulouse</title>
-    <updated>2026-06-11T06:37:33.590175+00:00</updated>
+    <title>Rio Loco 2026 « Insulae » : cinq jours de musiques insulaires à Toulouse</title>
+    <updated>2026-06-12T06:36:05.615483+00:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
     <author>
       <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;La 31e édition du festival Rio Loco, sur le thème « Insulae », se tient du 10 au 14 juin 2026 à la prairie des Filtres, sur les bords de la Garonne. La soirée d&amp;#x27;ouverture ce mercredi à 17h comprend notamment un hommage à Cesaria Évora, quinze ans après sa disparition, porté par le Cesaria Evora Orchestra et des invités comme Teófilo Chantre, Lucibela, Elida Almeida, Mayra Andrade, Stomy Bugsy et le rappeur toulousain Dadoo. Tout au long de la semaine, le festival propose concerts, DJ sets, spectacles jeune public, guinguette et arts visuels avec des artistes tels qu&amp;#x27;Imany, Ky-Mani Marley, Morcheeba, Buena Vista All Stars et Los Van Van. Des dizaines de milliers de spectateurs sont attendus ; les lignes de métro A et B seront prolongées jusqu&amp;#x27;à 1h30 le mercredi soir pour faciliter les déplacements.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse détaille le programme artistique et les infos pratiques (transports, horaires), tandis que L&amp;#x27;Essentiel adopte un format synthétique de bullet points pour la soirée d&amp;#x27;ouverture. Le quatrième article d&amp;#x27;Actu Toulouse mentionne Rio Loco dans le cadre d&amp;#x27;un agenda de fin de semaine plus large.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Programme détaillé de la soirée d&amp;#x27;ouverture, infos transports et accès pratiques&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble rapide du festival et du contexte UNESCO Toulouse Ville des Musiques&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-rio-loco-ouvre-son-edition-2026-avec-un-hommage-a-cesaria-evora_64346748.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/programme-transports-interdictions-tout-savoir-sur-le-festival-rio-loco-qui-debute-a-toulouse_64375591.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-10?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#42909"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/guinguette-festival-et-soiree-d-ete-retrouvez-les-sorties-prevues-a-toulouse-pour-cette-fin-de-semaine_64356415.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;La 31e édition du festival Rio Loco se tient du 10 au 14 juin 2026 à la prairie des Filtres, sur le thème « Insulae » — les musiques des îles du monde entier. La soirée d&amp;#x27;ouverture du mercredi 10 juin a notamment proposé un hommage à Cesária Évora avec le Cesaria Evora Orchestra et plusieurs invités capverdiens, ainsi qu&amp;#x27;une rencontre inédite entre le groupe réunionnais Lindigo Family et la chanteuse japonaise Anna Sato. Le reste du programme inclut Morcheeba (jeudi), Roberto Fonseca (vendredi), Imany, Ky-Mani Marley, Buena Vista All Stars et Los Van Van, avec près de 80 000 spectateurs attendus au total. L&amp;#x27;accès se fait en métro (Esquirol, Saint-Cyprien, Carmes, Palais de Justice), tramway ou bus jusqu&amp;#x27;à l&amp;#x27;arrêt Fer à cheval, avec horaires de métro prolongés jusqu&amp;#x27;à 1h30 certains soirs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse couvre l&amp;#x27;événement en plusieurs articles distincts (soirée d&amp;#x27;ouverture, programme pratique, programme des jours suivants, agenda de fin de semaine), tandis que L&amp;#x27;Essentiel propose une synthèse plus concise de l&amp;#x27;ensemble de l&amp;#x27;édition. Les deux sources sont concordantes sur les faits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails du programme jour par jour, infos pratiques transports et hommage à Cesária Évora&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble rapide de l&amp;#x27;édition et contexte UNESCO&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-rio-loco-ouvre-son-edition-2026-avec-un-hommage-a-cesaria-evora_64346748.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/programme-transports-interdictions-tout-savoir-sur-le-festival-rio-loco-qui-debute-a-toulouse_64375591.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-10?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#42909"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/guinguette-festival-et-soiree-d-ete-retrouvez-les-sorties-prevues-a-toulouse-pour-cette-fin-de-semaine_64356415.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/video-rio-loco-morcheeba-roberto-fonseca-ky-mani-marley-le-programme-des-prochains-jours_64387407.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-rio-loco-ouvre-son-edition-2026-avec-un-hommage-a-cesaria-evora_64346748.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La 31e édition du festival Rio Loco, sur le thème « Insulae », se tient du 10 au 14 juin 2026 à la prairie des Filtres, sur les bords de la Garonne. La soirée d'ouverture ce mercredi à 17h comprend notamment un hommage à Cesaria Évora, quinze ans après sa disparition, porté par le Cesaria Evora Orchestra et des invités comme Teófilo Chantre, Lucibela, Elida Almeida, Mayra Andrade, Stomy Bugsy et le rappeur toulousain Dadoo. Tout au long de la semaine, le festival propose concerts, DJ sets, spectacles jeune public, guinguette et arts visuels avec des artistes tels qu'Imany, Ky-Mani Marley, Morcheeba, Buena Vista All Stars et Los Van Van. Des dizaines de milliers de spectateurs sont attendus ; les lignes de métro A et B seront prolongées jusqu'à 1h30 le mercredi soir pour faciliter les déplacements.</summary>
+    <summary>La 31e édition du festival Rio Loco se tient du 10 au 14 juin 2026 à la prairie des Filtres, sur le thème « Insulae » — les musiques des îles du monde entier. La soirée d'ouverture du mercredi 10 juin a notamment proposé un hommage à Cesária Évora avec le Cesaria Evora Orchestra et plusieurs invités capverdiens, ainsi qu'une rencontre inédite entre le groupe réunionnais Lindigo Family et la chanteuse japonaise Anna Sato. Le reste du programme inclut Morcheeba (jeudi), Roberto Fonseca (vendredi), Imany, Ky-Mani Marley, Buena Vista All Stars et Los Van Van, avec près de 80 000 spectateurs attendus au total. L'accès se fait en métro (Esquirol, Saint-Cyprien, Carmes, Palais de Justice), tramway ou bus jusqu'à l'arrêt Fer à cheval, avec horaires de métro prolongés jusqu'à 1h30 certains soirs.</summary>
     <category term="event"/>
     <published>2026-06-07T18:36:01+02:00</published>
   </entry>
