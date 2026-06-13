@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-06-12T06:36:05.615483+00:00</updated>
+  <updated>2026-06-13T06:30:12.026045+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -11,173 +11,17 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
   <entry>
-    <id>cluster:a169ac88-1cd5-43db-a442-3dc96081eebf</id>
-    <title>Caché : une parenthèse estivale méditerranéenne les dimanches à Toulouse</title>
-    <updated>2026-06-06T06:15:22.436276+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Caché est un nouveau rendez-vous dominical estival imaginé par Sophia du Toulouse Pasta Club et le chef étoilé Yannick Delpech, installé tous les dimanches de l&amp;#x27;été dans l&amp;#x27;espace d&amp;#x27;Acte II, rue Panebœuf, dans le quartier Côte Pavée. Le concept : piscine, cocktails et cuisine méditerranéenne légère, pensés pour recréer une atmosphère de vacances sans quitter Toulouse. La carte éphémère mise sur des produits frais et marins — crudo de mulet, sashimi de daurade à partager, crevettes — dans un esprit décontracté où l&amp;#x27;on peut venir en maillot de bain. Le lancement a eu lieu le dimanche 7 juin, et l&amp;#x27;événement se répète chaque dimanche tout au long de l&amp;#x27;été.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/05/cache-le-rendez-vous-intime-des-dimanches-dete-a-toulouse-13400902.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/06/05/cache-le-rendez-vous-intime-des-dimanches-dete-a-toulouse-13400902.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Caché est un nouveau rendez-vous dominical estival imaginé par Sophia du Toulouse Pasta Club et le chef étoilé Yannick Delpech, installé tous les dimanches de l'été dans l'espace d'Acte II, rue Panebœuf, dans le quartier Côte Pavée. Le concept : piscine, cocktails et cuisine méditerranéenne légère, pensés pour recréer une atmosphère de vacances sans quitter Toulouse. La carte éphémère mise sur des produits frais et marins — crudo de mulet, sashimi de daurade à partager, crevettes — dans un esprit décontracté où l'on peut venir en maillot de bain. Le lancement a eu lieu le dimanche 7 juin, et l'événement se répète chaque dimanche tout au long de l'été.</summary>
-    <category term="place"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:90516e94-6a2b-44fe-a54a-90436773aae2</id>
-    <title>Carambolage sur le périphérique toulousain : un blessé, heure de bouchon</title>
-    <updated>2026-06-06T06:15:22.436276+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Un carambolage impliquant cinq voitures et un scooter s&amp;#x27;est produit vendredi matin vers 8h45 sur le périphérique intérieur de Toulouse, en direction de Montpellier, entre les bretelles de Soupetard (PR233). Neuf personnes étaient impliquées ; seul le conducteur du scooter, un homme de 63 ans, a été blessé et évacué en urgence relative vers l&amp;#x27;hôpital. La circulation a été coupée pour permettre l&amp;#x27;intervention de 14 pompiers et d&amp;#x27;une équipe du SMUR, obligeant les automobilistes à quitter le périphérique à Soupetard et provoquant près d&amp;#x27;une heure de bouchon. Vers 10h, la voie a été partiellement rouverte sur deux voies, la voie de droite et la bande d&amp;#x27;arrêt d&amp;#x27;urgence restant neutralisées.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-peripherique-coupe-a-toulouse-apres-un-carambolage-entre-un-scooter-et-cinq-voitures_64359811.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/le-peripherique-coupe-a-toulouse-apres-un-carambolage-entre-un-scooter-et-cinq-voitures_64359811.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Un carambolage impliquant cinq voitures et un scooter s'est produit vendredi matin vers 8h45 sur le périphérique intérieur de Toulouse, en direction de Montpellier, entre les bretelles de Soupetard (PR233). Neuf personnes étaient impliquées ; seul le conducteur du scooter, un homme de 63 ans, a été blessé et évacué en urgence relative vers l'hôpital. La circulation a été coupée pour permettre l'intervention de 14 pompiers et d'une équipe du SMUR, obligeant les automobilistes à quitter le périphérique à Soupetard et provoquant près d'une heure de bouchon. Vers 10h, la voie a été partiellement rouverte sur deux voies, la voie de droite et la bande d'arrêt d'urgence restant neutralisées.</summary>
-    <category term="news"/>
-    <published>2026-06-05T10:48:47+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:14623658-8b92-4b54-9ea5-25b2ab4dad9b</id>
-    <title>Huit cas de dengue en Haute-Garonne, les démoustications s'intensifient</title>
-    <updated>2026-06-06T06:15:22.436276+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Selon le premier bulletin saisonnier de Santé publique France publié le 4 juin 2026, huit cas de dengue ont été officiellement recensés en Haute-Garonne entre le 1er mai et le 2 juin, sur 15 cas recensés en Occitanie — ce qui en fait le département le plus touché de la région. Au total, 16 cas d&amp;#x27;arbovirus (dengue, chikungunya, zika) ont été détectés dans 13 départements occitans depuis le lancement de la surveillance saisonnière. Face à cette situation jugée précoce, l&amp;#x27;opérateur Altopictus, mandaté par l&amp;#x27;ARS Occitanie, a déjà mené quatre campagnes de démoustication dans l&amp;#x27;agglomération toulousaine pour couper les chaînes de transmission. La saison s&amp;#x27;annonce tendue avant même les grandes chaleurs estivales.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/moustique-tigre-deja-huit-cas-de-dengue-en-haute-garonne-les-demoustications-s-enchainent_64358487.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/moustique-tigre-deja-huit-cas-de-dengue-en-haute-garonne-les-demoustications-s-enchainent_64358487.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Selon le premier bulletin saisonnier de Santé publique France publié le 4 juin 2026, huit cas de dengue ont été officiellement recensés en Haute-Garonne entre le 1er mai et le 2 juin, sur 15 cas recensés en Occitanie — ce qui en fait le département le plus touché de la région. Au total, 16 cas d'arbovirus (dengue, chikungunya, zika) ont été détectés dans 13 départements occitans depuis le lancement de la surveillance saisonnière. Face à cette situation jugée précoce, l'opérateur Altopictus, mandaté par l'ARS Occitanie, a déjà mené quatre campagnes de démoustication dans l'agglomération toulousaine pour couper les chaînes de transmission. La saison s'annonce tendue avant même les grandes chaleurs estivales.</summary>
-    <category term="news"/>
-    <published>2026-06-05T12:40:09+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:1b3d3000-ba00-4067-a903-2e031caa0a51</id>
-    <title>Ciné sous les étoiles : projections en plein air dès juin à Toulouse</title>
-    <updated>2026-06-06T06:15:22.436276+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La Cinémathèque de Toulouse lance la 4e édition de « Ciné sous les étoiles », avec une première séance le vendredi 5 juin 2026. De début juin à mi-septembre, des films cultes seront projetés en plein air dans plusieurs lieux de l&amp;#x27;agglomération : le musée Aeroscopia, l&amp;#x27;Envol des Pionniers, le Parc de la Faourette, ainsi que dans des communes voisines comme Brax, Beauzelle, Cugnaux et Villeneuve-Tolosane. La programmation est éclectique — films familiaux, blockbusters et art et essai — avec des titres tels que Jumanji, Top Gun, Madagascar 3, Le Chat Potté 2 ou Boîte Noire. Certaines soirées sont accompagnées d&amp;#x27;animations, de concerts ou de repas, et la mairie de Toulouse soutient des associations de quartier pour organiser des séances dans des espaces publics à travers toute la ville.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cine-sous-les-etoiles-des-projections-en-plein-air-de-films-cultes-debutent-a-toulouse_64343486.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cine-sous-les-etoiles-des-projections-en-plein-air-de-films-cultes-debutent-a-toulouse_64343486.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Cinémathèque de Toulouse lance la 4e édition de « Ciné sous les étoiles », avec une première séance le vendredi 5 juin 2026. De début juin à mi-septembre, des films cultes seront projetés en plein air dans plusieurs lieux de l'agglomération : le musée Aeroscopia, l'Envol des Pionniers, le Parc de la Faourette, ainsi que dans des communes voisines comme Brax, Beauzelle, Cugnaux et Villeneuve-Tolosane. La programmation est éclectique — films familiaux, blockbusters et art et essai — avec des titres tels que Jumanji, Top Gun, Madagascar 3, Le Chat Potté 2 ou Boîte Noire. Certaines soirées sont accompagnées d'animations, de concerts ou de repas, et la mairie de Toulouse soutient des associations de quartier pour organiser des séances dans des espaces publics à travers toute la ville.</summary>
-    <category term="event"/>
-    <published>2026-06-05T13:23:30+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:e0949904-5a26-4ea2-b4de-a86364c74377</id>
-    <title>Airbus accélère ses livraisons en mai et vise une année record</title>
-    <updated>2026-06-06T06:15:22.436276+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Airbus a livré 81 avions commerciaux en mai 2026, contre 67 en avril et seulement 53 sur le même mois en 2025, signe d&amp;#x27;une nette accélération après un début d&amp;#x27;année difficile. Au total, 262 appareils ont été livrés à 68 clients depuis janvier, dépassant les 243 enregistrés à la même période l&amp;#x27;an dernier. Côté commandes, mai a également été solide avec 379 unités, dont une commande historique de 150 A220-300 passée par AirAsia pour 19 milliards de dollars — la plus importante jamais enregistrée en une seule fois sur cet appareil. L&amp;#x27;avionneur, dont les principales activités sont basées à Toulouse, maintient son objectif d&amp;#x27;une année record en matière de livraisons, un indicateur clé de ses résultats financiers.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/airbus-les-livraisons-redecollent-en-mai-l-avionneur-table-toujours-sur-une-annee-record_64361689.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/airbus-les-livraisons-redecollent-en-mai-l-avionneur-table-toujours-sur-une-annee-record_64361689.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Airbus a livré 81 avions commerciaux en mai 2026, contre 67 en avril et seulement 53 sur le même mois en 2025, signe d'une nette accélération après un début d'année difficile. Au total, 262 appareils ont été livrés à 68 clients depuis janvier, dépassant les 243 enregistrés à la même période l'an dernier. Côté commandes, mai a également été solide avec 379 unités, dont une commande historique de 150 A220-300 passée par AirAsia pour 19 milliards de dollars — la plus importante jamais enregistrée en une seule fois sur cet appareil. L'avionneur, dont les principales activités sont basées à Toulouse, maintient son objectif d'une année record en matière de livraisons, un indicateur clé de ses résultats financiers.</summary>
-    <category term="news"/>
-    <published>2026-06-05T17:54:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6339a04e-8d18-4101-bda5-0c209009b063</id>
-    <title>Un tableau inconnu de Nicolas Tournier découvert et mis aux enchères à Toulouse</title>
-    <updated>2026-06-06T06:15:22.436276+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La maison de ventes Fournié-Cortès a présenté le 4 juin 2026 à l&amp;#x27;Hôtel Vitry, à Toulouse, un tableau inédit attribué à Nicolas Tournier — disciple du Caravage et figure majeure de la peinture languedocienne du XVIIe siècle. L&amp;#x27;œuvre, un « Portrait d&amp;#x27;homme à l&amp;#x27;épée », était conservée depuis des générations dans une famille toulousaine qui ignorait sa valeur et ne s&amp;#x27;y attachait pas particulièrement, car il ne s&amp;#x27;agissait pas d&amp;#x27;un portrait de famille. C&amp;#x27;est lors d&amp;#x27;une visite à domicile pour estimer d&amp;#x27;autres objets que les commissaires-priseurs ont repéré le tableau ; il a ensuite été expertisé par le cabinet Turquin à Paris, qui l&amp;#x27;a estimé entre 40 000 et 60 000 euros. Le tableau n&amp;#x27;a finalement pas trouvé acquéreur lors de la vente, et son avenir reste incertain selon actu_toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/on-ne-se-doutait-pas-de-sa-valeur-coup-de-theatre-a-toulouse-pour-ce-tableau-mis-aux-encheres-a-prix-d-or_64356549.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/on-ne-se-doutait-pas-de-sa-valeur-coup-de-theatre-a-toulouse-pour-ce-tableau-mis-aux-encheres-a-prix-d-or_64356549.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La maison de ventes Fournié-Cortès a présenté le 4 juin 2026 à l'Hôtel Vitry, à Toulouse, un tableau inédit attribué à Nicolas Tournier — disciple du Caravage et figure majeure de la peinture languedocienne du XVIIe siècle. L'œuvre, un « Portrait d'homme à l'épée », était conservée depuis des générations dans une famille toulousaine qui ignorait sa valeur et ne s'y attachait pas particulièrement, car il ne s'agissait pas d'un portrait de famille. C'est lors d'une visite à domicile pour estimer d'autres objets que les commissaires-priseurs ont repéré le tableau ; il a ensuite été expertisé par le cabinet Turquin à Paris, qui l'a estimé entre 40 000 et 60 000 euros. Le tableau n'a finalement pas trouvé acquéreur lors de la vente, et son avenir reste incertain selon actu_toulouse.</summary>
-    <category term="news"/>
-    <published>2026-06-05T18:46:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:bcef11d9-4a11-4593-8cb1-58b0f035d0b4</id>
-    <title>Une centenaire piège un faux ramoneur avec l'aide de la police</title>
-    <updated>2026-06-06T06:15:22.436276+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le 2 juin 2026 à Toulouse, un homme de 22 ans se présente au domicile d&amp;#x27;une femme de 100 ans en se faisant passer pour un ramoneur mandaté par le syndic de copropriété. Après avoir effectué un travail douteux, il réclame plusieurs centaines d&amp;#x27;euros à la centenaire. Méfiante, celle-ci prétexte ne pas avoir de liquide et lui demande de revenir, puis alerte aussitôt la police. Sur les conseils des agents, elle rappelle l&amp;#x27;escroc pour qu&amp;#x27;il revienne — et c&amp;#x27;est une brigade de police qui l&amp;#x27;accueille à son retour. Les vérifications confirment qu&amp;#x27;il n&amp;#x27;était pas employé de la société invoquée, qu&amp;#x27;il facturait des travaux non réalisés et qu&amp;#x27;il se montrait insistant.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/arnaque-le-faux-ramoneur-tente-d-escroquer-une-centenaire-qui-le-piege-avec-la-complicite-de-la-police-a-toulouse_64362948.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/arnaque-le-faux-ramoneur-tente-d-escroquer-une-centenaire-qui-le-piege-avec-la-complicite-de-la-police-a-toulouse_64362948.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le 2 juin 2026 à Toulouse, un homme de 22 ans se présente au domicile d'une femme de 100 ans en se faisant passer pour un ramoneur mandaté par le syndic de copropriété. Après avoir effectué un travail douteux, il réclame plusieurs centaines d'euros à la centenaire. Méfiante, celle-ci prétexte ne pas avoir de liquide et lui demande de revenir, puis alerte aussitôt la police. Sur les conseils des agents, elle rappelle l'escroc pour qu'il revienne — et c'est une brigade de police qui l'accueille à son retour. Les vérifications confirment qu'il n'était pas employé de la société invoquée, qu'il facturait des travaux non réalisés et qu'il se montrait insistant.</summary>
-    <category term="news"/>
-    <published>2026-06-05T19:03:54+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f92f068f-d061-4f89-ab39-0738c1d134c9</id>
-    <title>La guinguette Les Canotiers rouvre sur les bords de Garonne</title>
-    <updated>2026-06-06T06:15:22.436276+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Les Canotiers, guinguette installée quai de Tounis en plein centre de Toulouse, entame sa troisième saison depuis le mardi 2 juin 2026. Changement notable cette année : la célèbre terrasse flottante ne sera pas déployée, et les clients resteront à quai — sans perdre pour autant la vue sur le Pont Neuf illuminé le soir. La carte a été entièrement repensée : 100 % froide, orientée produits de la mer, avec bowls, tartares de thon et saumon, tapas et planches à partager, à partir de 7 €. L&amp;#x27;établissement propose également des cocktails signatures aux notes florales, pour une centaine de couverts en terrasse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/elle-offre-une-vue-imprenable-sur-la-garonne-cette-guinguette-de-toulouse-rouvre-sa-terrasse-mais-restera-a-quai_64363331.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/elle-offre-une-vue-imprenable-sur-la-garonne-cette-guinguette-de-toulouse-rouvre-sa-terrasse-mais-restera-a-quai_64363331.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les Canotiers, guinguette installée quai de Tounis en plein centre de Toulouse, entame sa troisième saison depuis le mardi 2 juin 2026. Changement notable cette année : la célèbre terrasse flottante ne sera pas déployée, et les clients resteront à quai — sans perdre pour autant la vue sur le Pont Neuf illuminé le soir. La carte a été entièrement repensée : 100 % froide, orientée produits de la mer, avec bowls, tartares de thon et saumon, tapas et planches à partager, à partir de 7 €. L'établissement propose également des cocktails signatures aux notes florales, pour une centaine de couverts en terrasse.</summary>
-    <category term="place"/>
-    <published>2026-06-06T06:06:02+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:27edee50-e96b-4d2b-8235-f4943cafc892</id>
-    <title>Ramasseurs de balles : les coulisses d'un job pas comme les autres 🎾</title>
+    <title>Les coulisses de la sélection des ramasseurs de balles à Roland-Garros</title>
     <updated>2026-06-07T06:33:40.069481+00:00</updated>
     <author>
       <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;On les remarque à peine, et pourtant ils sont partout sur les courts. Les ramasseurs de balles font
-partie du décor de Roland-Garros
-. Et derrière chaque édition se cache une véritable opération de sélection et de formation, soutenue par
-BNP Paribas
-depuis les tout débuts du partenariat.
-7 500 candidats, 300 élus
-BNP Paribas accompagne les ramasseurs de balles
-depuis 1973
-. Et depuis 2000, la banque soutient leur
-sélection à l&amp;#x27;échelle nationale
-: avant cette date, seuls les licenciés d&amp;#x27;Île-de-France pouvaient candidater, quand l&amp;#x27;opération est aujourd&amp;#x27;hui ouverte à tous les jeunes passionnés du territoire. Chaque année, ils sont environ
-7 500 à participer aux sélections
-pour, au bout du parcours,
-300 places
-sur les courts de Roland-Garros. Une mission exigeante, formatrice, et que beaucoup décrochent comme une fierté.
-Une école pour former la relève
-Pour aller plus loin, BNP Paribas accompagne depuis 2025 la création par la FFT d&amp;#x27;une
-École des ramasseurs de balles
-. L&amp;#x27;idée ? permettre à de jeunes licenciés de ramasser lors de tournois tout au long de l&amp;#x27;année, et multiplier les clubs formateurs pour toucher davantage de jeunes partout en France. En un an seulement,
-1 500 jeunes
-y ont déjà été formés. Les ramasseurs disposent par ailleurs, depuis 2021, de la plateforme
-We Are Ballos
-, créée avec la FFT pour garder le contact et accéder à des contenus et animations exclusives.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Chaque année, quelque 7 500 jeunes se portent candidats pour décrocher l&amp;#x27;une des 300 places de ramasseur de balles à Roland-Garros, une mission à la fois exigeante et valorisante. BNP Paribas soutient ce dispositif depuis 1973 et a contribué à son ouverture nationale à partir de 2000, permettant à des jeunes de toute la France — et non plus seulement d&amp;#x27;Île-de-France — de postuler. Depuis 2025, la FFT, avec l&amp;#x27;appui de la banque, a créé une École des ramasseurs de balles pour former des jeunes lors de tournois tout au long de l&amp;#x27;année : 1 500 jeunes y ont déjà été formés en un an. Les ramasseurs bénéficient également depuis 2021 de la plateforme communautaire We Are Ballos, créée avec la FFT pour maintenir le lien et proposer des contenus exclusifs.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-06?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#42763"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-06-06?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#42763"/>
-    <summary>On les remarque à peine, et pourtant ils sont partout sur les courts. Les ramasseurs de balles font
-partie du décor de Roland-Garros
-. Et derrière chaque édition se cache une véritable opération de sélection et de formation, soutenue par
-BNP Paribas
-depuis les tout débuts du partenariat.
-7 500 candidats, 300 élus
-BNP Paribas accompagne les ramasseurs de balles
-depuis 1973
-. Et depuis 2000, la banque soutient leur
-sélection à l'échelle nationale
-: avant cette date, seuls les licenciés d'Île-de-France pouvaient candidater, quand l'opération est aujourd'hui ouverte à tous les jeunes passionnés du territoire. Chaque année, ils sont environ
-7 500 à participer aux sélections
-pour, au bout du parcours,
-300 places
-sur les courts de Roland-Garros. Une mission exigeante, formatrice, et que beaucoup décrochent comme une fierté.
-Une école pour former la relève
-Pour aller plus loin, BNP Paribas accompagne depuis 2025 la création par la FFT d'une
-École des ramasseurs de balles
-. L'idée ? permettre à de jeunes licenciés de ramasser lors de tournois tout au long de l'année, et multiplier les clubs formateurs pour toucher davantage de jeunes partout en France. En un an seulement,
-1 500 jeunes
-y ont déjà été formés. Les ramasseurs disposent par ailleurs, depuis 2021, de la plateforme
-We Are Ballos
-, créée avec la FFT pour garder le contact et accéder à des contenus et animations exclusives.</summary>
-    <category term="news"/>
+    <summary>Chaque année, quelque 7 500 jeunes se portent candidats pour décrocher l'une des 300 places de ramasseur de balles à Roland-Garros, une mission à la fois exigeante et valorisante. BNP Paribas soutient ce dispositif depuis 1973 et a contribué à son ouverture nationale à partir de 2000, permettant à des jeunes de toute la France — et non plus seulement d'Île-de-France — de postuler. Depuis 2025, la FFT, avec l'appui de la banque, a créé une École des ramasseurs de balles pour former des jeunes lors de tournois tout au long de l'année : 1 500 jeunes y ont déjà été formés en un an. Les ramasseurs bénéficient également depuis 2021 de la plateforme communautaire We Are Ballos, créée avec la FFT pour maintenir le lien et proposer des contenus exclusifs.</summary>
+    <category term="culture"/>
     <published>2026-06-06T09:09:30.342000+00:00</published>
   </entry>
   <entry>
@@ -297,6 +141,22 @@ We Are Ballos
     <published>2026-06-06T16:02:01+02:00</published>
   </entry>
   <entry>
+    <id>cluster:488de16b-63c1-4715-8900-d16438365688</id>
+    <title>31e Marche des Fiertés à Toulouse : 30 000 personnes dans les rues</title>
+    <updated>2026-06-07T06:33:40.069481+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La 31e édition de la Marche des Fiertés, organisée par Pride Toulouse avec le soutien de la municipalité, s&amp;#x27;est tenue le samedi 6 juin 2026. Un village associatif a investi la place du Capitole de 10h à 14h, avec des stands de prévention, de santé et de conseil juridique, avant le départ du cortège à 14h10. Une vingtaine de chars et batucadas ont parcouru le centre-ville — rue Alsace-Lorraine, jusqu&amp;#x27;à la gare et le canal du Midi, avant de revenir place du Capitole. Le collectif Pride Toulouse estime la participation à 30 000 personnes, chiffre que la police ramène à environ 15 000 ; une after-pride gratuite, une première selon les organisateurs, a clôturé la journée en soirée.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Toulouscope couvre l&amp;#x27;événement en amont sous angle programmatique. Les deux articles d&amp;#x27;Actu Toulouse se distinguent : l&amp;#x27;un présente le programme avant la marche, l&amp;#x27;autre en fait le compte rendu après coup — et c&amp;#x27;est ce dernier qui signale l&amp;#x27;écart notable entre les chiffres de fréquentation avancés par les organisateurs (30 000) et ceux de la police (environ 15 000).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Détails pratiques du programme et du parcours&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Compte rendu de l&amp;#x27;événement et divergence des chiffres de participation&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pride-2026-a-toulouse-revivez-la-marche-des-fiertes-qui-a-reuni-plus-de-30-000-personnes_64366411.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/pride-2026-a-toulouse-revivez-la-marche-des-fiertes-qui-a-reuni-plus-de-30-000-personnes_64366411.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La 31e édition de la Marche des Fiertés, organisée par Pride Toulouse avec le soutien de la municipalité, s'est tenue le samedi 6 juin 2026. Un village associatif a investi la place du Capitole de 10h à 14h, avec des stands de prévention, de santé et de conseil juridique, avant le départ du cortège à 14h10. Une vingtaine de chars et batucadas ont parcouru le centre-ville — rue Alsace-Lorraine, jusqu'à la gare et le canal du Midi, avant de revenir place du Capitole. Le collectif Pride Toulouse estime la participation à 30 000 personnes, chiffre que la police ramène à environ 15 000 ; une after-pride gratuite, une première selon les organisateurs, a clôturé la journée en soirée.</summary>
+    <category term="news"/>
+    <published>2026-06-06T18:12:07+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:a7fd7617-826b-4e2c-95b5-762f69e69368</id>
     <title>Une installation monumentale à la Chapelle de La Grave rend hommage à l'eau</title>
     <updated>2026-06-07T06:33:40.069481+00:00</updated>
@@ -338,25 +198,6 @@ We Are Ballos
     <summary>Le Stade Toulousain s'est incliné 31-20 sur la pelouse du Racing 92 lors de la dernière journée de la saison régulière de Top 14. Dans une rencontre très disputée, les Stadistes ont longtemps cru à la remontée avant de céder face à un Racing motivé par l'enjeu de la qualification. Un carton orange infligé à Fabien Sanconnie en seconde période a constitué un tournant défavorable pour Toulouse. Malgré cette défaite, le Stade Toulousain termine à la première place de la saison régulière.</summary>
     <category term="news"/>
     <published>2026-06-06T23:04:03+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:488de16b-63c1-4715-8900-d16438365688</id>
-    <title>31e Marche des Fiertés à Toulouse : 30 000 personnes dans les rues</title>
-    <updated>2026-06-07T06:33:40.069481+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La 31e édition de la Marche des Fiertés, organisée par Pride Toulouse avec le soutien de la municipalité, s&amp;#x27;est tenue le samedi 6 juin 2026. Un village associatif a investi la place du Capitole de 10h à 14h, avec des stands de prévention, de santé et de conseil juridique, avant le départ du cortège à 14h10. Une vingtaine de chars et batucadas ont parcouru le centre-ville — rue Alsace-Lorraine, jusqu&amp;#x27;à la gare et le canal du Midi, avant de revenir place du Capitole. Le collectif Pride Toulouse estime la participation à 30 000 personnes, chiffre que la police ramène à environ 15 000 ; une after-pride gratuite, une première selon les organisateurs, a clôturé la journée en soirée.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Toulouscope couvre l&amp;#x27;événement en amont sous angle programmatique. Les deux articles d&amp;#x27;Actu Toulouse se distinguent : l&amp;#x27;un présente le programme avant la marche, l&amp;#x27;autre en fait le compte rendu après coup — et c&amp;#x27;est ce dernier qui signale l&amp;#x27;écart notable entre les chiffres de fréquentation avancés par les organisateurs (30 000) et ceux de la police (environ 15 000).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Détails pratiques du programme et du parcours&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Compte rendu de l&amp;#x27;événement et divergence des chiffres de participation&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/05/marche-des-fiertes-ce-samedi-musique-chars-village-associatif-et-ambiance-festive-13400876.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pride-2026-a-toulouse-revivez-la-marche-des-fiertes-qui-a-reuni-plus-de-30-000-personnes_64366411.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/06/05/marche-des-fiertes-ce-samedi-musique-chars-village-associatif-et-ambiance-festive-13400876.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La 31e édition de la Marche des Fiertés, organisée par Pride Toulouse avec le soutien de la municipalité, s'est tenue le samedi 6 juin 2026. Un village associatif a investi la place du Capitole de 10h à 14h, avec des stands de prévention, de santé et de conseil juridique, avant le départ du cortège à 14h10. Une vingtaine de chars et batucadas ont parcouru le centre-ville — rue Alsace-Lorraine, jusqu'à la gare et le canal du Midi, avant de revenir place du Capitole. Le collectif Pride Toulouse estime la participation à 30 000 personnes, chiffre que la police ramène à environ 15 000 ; une after-pride gratuite, une première selon les organisateurs, a clôturé la journée en soirée.</summary>
-    <category term="news"/>
-    <published>2026-06-05T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>cluster:03d547a6-2e3f-4121-860a-c12e11c31b61</id>
@@ -859,22 +700,6 @@ We Are Ballos
     <summary>Airbus, dont le siège est à Toulouse, a dévoilé le 8 juin au salon aéronautique de Berlin une maquette de l'U145, un hélicoptère à pilotage automatique piloté par intelligence artificielle. Dérivé du H145 déjà existant, l'appareil mesure plus de 10 mètres et affiche une masse maximale au décollage de 3,8 tonnes, ce qui le distingue nettement du VSR700, drone sans pilote plus petit déjà développé par Airbus depuis 2019. Sa conception modulaire lui ouvre un large éventail d'usages : transport de fret, gestion de catastrophes, lutte contre les incendies, surveillance ou encore applications militaires. La date de premier vol opérationnel n'est pas encore précisée selon la source.</summary>
     <category term="news"/>
     <published>2026-06-09T13:06:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5e08abb9-5214-4414-8d7d-927428b5329f</id>
-    <title>Deux accidents successifs sur le périphérique de Toulouse, bouchons importants</title>
-    <updated>2026-06-10T06:34:29.354181+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le mardi 9 juin 2026, le périphérique de Toulouse a été le théâtre de deux accidents distincts. Le premier, impliquant quatre véhicules, s&amp;#x27;est produit vers 12h20 peu après la sortie Borderouge en direction de Bordeaux, entraînant la fermeture de deux voies et un bouchon de plus de deux kilomètres. Un second accident, cette fois dans le sens intérieur, a eu lieu vers 15h30 au niveau de la sortie de Sesquières, impliquant deux voitures et un poids lourd, avec neutralisation de la voie de droite. Avant même l&amp;#x27;heure de pointe, les ralentissements cumulés atteignaient près de 10 km sur le périphérique intérieur, affectant l&amp;#x27;ensemble des usagers de rocade.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article couvre uniquement le sinistre de la mi-journée avec les premières mesures de circulation ; le second, publié plus tard, dresse un bilan cumulé des deux accidents et insiste sur l&amp;#x27;ampleur des bouchons en fin d&amp;#x27;après-midi.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Détails du premier accident et fermetures de voies initiales&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Vue d&amp;#x27;ensemble des deux accidents et étendue des bouchons en cours d&amp;#x27;après-midi&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/accident-sur-le-peripherique-de-toulouse-4-vehicules-impliques-les-secours-sur-place_64375835.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/encore-un-accident-entre-trois-vehicules-sur-le-peripherique-de-toulouse-deja-plus-de-10-km-de-bouchons_64377419.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/accident-sur-le-peripherique-de-toulouse-4-vehicules-impliques-les-secours-sur-place_64375835.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le mardi 9 juin 2026, le périphérique de Toulouse a été le théâtre de deux accidents distincts. Le premier, impliquant quatre véhicules, s'est produit vers 12h20 peu après la sortie Borderouge en direction de Bordeaux, entraînant la fermeture de deux voies et un bouchon de plus de deux kilomètres. Un second accident, cette fois dans le sens intérieur, a eu lieu vers 15h30 au niveau de la sortie de Sesquières, impliquant deux voitures et un poids lourd, avec neutralisation de la voie de droite. Avant même l'heure de pointe, les ralentissements cumulés atteignaient près de 10 km sur le périphérique intérieur, affectant l'ensemble des usagers de rocade.</summary>
-    <category term="news"/>
-    <published>2026-06-09T12:35:36+02:00</published>
   </entry>
   <entry>
     <id>cluster:c48c24b5-1db6-47a8-a12f-d3b19d4ccfde</id>
@@ -1602,5 +1427,161 @@ Maison Soclo | 19h | Grat</summary>
     <summary>La 31e édition du festival Rio Loco se tient du 10 au 14 juin 2026 à la prairie des Filtres, sur le thème « Insulae » — les musiques des îles du monde entier. La soirée d'ouverture du mercredi 10 juin a notamment proposé un hommage à Cesária Évora avec le Cesaria Evora Orchestra et plusieurs invités capverdiens, ainsi qu'une rencontre inédite entre le groupe réunionnais Lindigo Family et la chanteuse japonaise Anna Sato. Le reste du programme inclut Morcheeba (jeudi), Roberto Fonseca (vendredi), Imany, Ky-Mani Marley, Buena Vista All Stars et Los Van Van, avec près de 80 000 spectateurs attendus au total. L'accès se fait en métro (Esquirol, Saint-Cyprien, Carmes, Palais de Justice), tramway ou bus jusqu'à l'arrêt Fer à cheval, avec horaires de métro prolongés jusqu'à 1h30 certains soirs.</summary>
     <category term="event"/>
     <published>2026-06-07T18:36:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f3c7f410-8a78-4818-adbb-4a823628c220</id>
+    <title>Le Musée des Augustins propose une riche programmation estivale</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Musée des Augustins de Toulouse enrichit son offre estivale avec une programmation mêlant expositions, concerts et visites insolites. Temps fort de la saison : la présentation du *Joueur de luth* de Nicolas Tournier, toile caravagesque acquise récemment par la Ville de Toulouse après des siècles en mains privées, exposée aux côtés de quatre autres portraits de ce peintre majeur du Languedoc. Des concerts sont également prévus dans le cloître, notamment à l&amp;#x27;occasion de la Fête de la Musique. L&amp;#x27;institution, toujours en phase de réouverture progressive après plusieurs années de travaux, s&amp;#x27;affirme comme un lieu patrimonial incontournable de la Ville rose cet été.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/12/un-ete-culturel-au-musee-des-augustins-concerts-expos-et-visites-insolites-au-programme-13412318.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/06/12/un-ete-culturel-au-musee-des-augustins-concerts-expos-et-visites-insolites-au-programme-13412318.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Musée des Augustins de Toulouse enrichit son offre estivale avec une programmation mêlant expositions, concerts et visites insolites. Temps fort de la saison : la présentation du *Joueur de luth* de Nicolas Tournier, toile caravagesque acquise récemment par la Ville de Toulouse après des siècles en mains privées, exposée aux côtés de quatre autres portraits de ce peintre majeur du Languedoc. Des concerts sont également prévus dans le cloître, notamment à l'occasion de la Fête de la Musique. L'institution, toujours en phase de réouverture progressive après plusieurs années de travaux, s'affirme comme un lieu patrimonial incontournable de la Ville rose cet été.</summary>
+    <category term="culture"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5ca0dca7-7e87-48c6-9cb0-af161d124f3b</id>
+    <title>Exercice antiterroriste XXL au stade Ernest-Wallon le 11 juin</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le jeudi 11 juin 2026, le stade Ernest-Wallon, enceinte du Stade Toulousain, a accueilli un vaste exercice de sécurité civile mobilisant le RAID, la Police nationale, les sapeurs-pompiers de la Haute-Garonne et le SAMU 31. Le scénario simulait une attaque terroriste lors d&amp;#x27;un match à guichets fermés entre le Stade Toulousain et le Stade Français, avec plusieurs assaillants s&amp;#x27;en prenant aux supporters dans différentes zones du stade, dont une tribune. L&amp;#x27;objectif était de tester le plan ORSEC « nombreuses victimes attentat » (NOVI), sous la direction opérationnelle du directeur de cabinet du Préfet de région Occitanie. Au total, quelque 600 participants issus d&amp;#x27;une dizaine d&amp;#x27;organismes — préfecture, collectivités, hôpital universitaire, ARS et associations de sécurité civile — ont pris part à cet exercice de grande ampleur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-raid-debarque-en-force-a-ernest-wallon-antre-du-stade-toulousain-pour-simuler-la-reponse-a-un-attentat_64391615.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-raid-debarque-en-force-a-ernest-wallon-antre-du-stade-toulousain-pour-simuler-la-reponse-a-un-attentat_64391615.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le jeudi 11 juin 2026, le stade Ernest-Wallon, enceinte du Stade Toulousain, a accueilli un vaste exercice de sécurité civile mobilisant le RAID, la Police nationale, les sapeurs-pompiers de la Haute-Garonne et le SAMU 31. Le scénario simulait une attaque terroriste lors d'un match à guichets fermés entre le Stade Toulousain et le Stade Français, avec plusieurs assaillants s'en prenant aux supporters dans différentes zones du stade, dont une tribune. L'objectif était de tester le plan ORSEC « nombreuses victimes attentat » (NOVI), sous la direction opérationnelle du directeur de cabinet du Préfet de région Occitanie. Au total, quelque 600 participants issus d'une dizaine d'organismes — préfecture, collectivités, hôpital universitaire, ARS et associations de sécurité civile — ont pris part à cet exercice de grande ampleur.</summary>
+    <category term="news"/>
+    <published>2026-06-12T09:05:29+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7e24a820-a0fe-4d50-8bf3-ad25183716aa</id>
+    <title>Les cantines toulousaines abandonnent les barquettes plastique pour l'inox</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Depuis la rentrée scolaire dernière, les cantines scolaires de Toulouse ont banni les contenants en plastique, en conformité avec la loi entrée en vigueur au 1er janvier 2025. Les quelque 8 500 à 9 000 barquettes plastiques utilisées quotidiennement ont été remplacées par 56 000 bacs en inox, permettant d&amp;#x27;économiser 90 tonnes de plastique par an. Le projet a nécessité trois ans de préparation : la cuisine centrale a d&amp;#x27;abord testé le verre avant de retenir l&amp;#x27;inox, et a dû entièrement revoir ses modes de fonctionnement. Cette transformation concerne les 35 000 repas préparés chaque jour pour les écoles, les restaurants seniors et le restaurant social de Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/avant-on-jetait-tout-desormais-on-lave-comment-les-cantines-de-toulouse-ont-mis-fin-aux-barquettes-en-plastique_64376715.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/avant-on-jetait-tout-desormais-on-lave-comment-les-cantines-de-toulouse-ont-mis-fin-aux-barquettes-en-plastique_64376715.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis la rentrée scolaire dernière, les cantines scolaires de Toulouse ont banni les contenants en plastique, en conformité avec la loi entrée en vigueur au 1er janvier 2025. Les quelque 8 500 à 9 000 barquettes plastiques utilisées quotidiennement ont été remplacées par 56 000 bacs en inox, permettant d'économiser 90 tonnes de plastique par an. Le projet a nécessité trois ans de préparation : la cuisine centrale a d'abord testé le verre avant de retenir l'inox, et a dû entièrement revoir ses modes de fonctionnement. Cette transformation concerne les 35 000 repas préparés chaque jour pour les écoles, les restaurants seniors et le restaurant social de Toulouse.</summary>
+    <category term="news"/>
+    <published>2026-06-12T12:26:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:2c0deaf3-4ee7-4e3b-906d-31890ac16111</id>
+    <title>Un campement de trafic de drogue démantelé au centre de Toulouse</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le lundi 8 juin 2026 à 6 heures du matin, une centaine de policiers — DIPN, RAID, CRS et police municipale — sont intervenus dans le quartier de la rue Arnaud-Vidal, entre les allées Jean-Jaurès et la rue Gabriel-Péri, pour démanteler un réseau de trafic de stupéfiants actif depuis plusieurs mois. L&amp;#x27;opération, préparée après plus de trois mois d&amp;#x27;enquête menée par le parquet de Toulouse, a permis de saisir 1,3 kg de cocaïne, plus de 10 000 euros en espèces (dont près de 3 000 euros en pièces de monnaie), des milliers de capsules de demi-gramme prêtes à la vente, ainsi que des médicaments sous ordonnance et des cartouches de cigarettes. Sept hommes ont été interpellés, organisés en deux équipes, ainsi que deux consommateurs de stupéfiants. Le trafic ciblait une population précaire, souvent réduite à la mendicité, qui réglait ses achats en petite monnaie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-trafic-de-drogue-empoisonnait-un-quartier-du-centre-de-toulouse-un-campement-demantele-par-une-centaine-de-policiers_64393680.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-trafic-de-drogue-empoisonnait-un-quartier-du-centre-de-toulouse-un-campement-demantele-par-une-centaine-de-policiers_64393680.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le lundi 8 juin 2026 à 6 heures du matin, une centaine de policiers — DIPN, RAID, CRS et police municipale — sont intervenus dans le quartier de la rue Arnaud-Vidal, entre les allées Jean-Jaurès et la rue Gabriel-Péri, pour démanteler un réseau de trafic de stupéfiants actif depuis plusieurs mois. L'opération, préparée après plus de trois mois d'enquête menée par le parquet de Toulouse, a permis de saisir 1,3 kg de cocaïne, plus de 10 000 euros en espèces (dont près de 3 000 euros en pièces de monnaie), des milliers de capsules de demi-gramme prêtes à la vente, ainsi que des médicaments sous ordonnance et des cartouches de cigarettes. Sept hommes ont été interpellés, organisés en deux équipes, ainsi que deux consommateurs de stupéfiants. Le trafic ciblait une population précaire, souvent réduite à la mendicité, qui réglait ses achats en petite monnaie.</summary>
+    <category term="news"/>
+    <published>2026-06-12T13:10:28+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7f3f5758-b2c0-4049-b409-48e65fad8ceb</id>
+    <title>Un ex-policier toulousain mis en examen et écroué en Martinique</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Un policier quinquagénaire, anciennement en poste à Toulouse, a été mis en examen et écroué en Martinique le 11 juin 2026, au lendemain de son placement en garde à vue à Fort-de-France. Les charges retenues sont nombreuses : association de malfaiteurs, corruption passive et active, blanchiment aggravé, violation du secret professionnel, recel et détournement de données personnelles. Les faits présumés auraient été commis lors de son affectation à Toulouse, avant qu&amp;#x27;il ne rejoigne la brigade des stupéfiants du commissariat central de Fort-de-France en 2022. L&amp;#x27;enquête est conduite par la délégation nationale anticorruption (DNAC), une unité créée en septembre 2025 au sein de l&amp;#x27;IGPN.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/soupconne-de-corruption-et-d-association-de-malfaiteurs-lorsqu-il-officiait-a-toulouse-un-policier-ecroue-en-martinique_64394071.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/soupconne-de-corruption-et-d-association-de-malfaiteurs-lorsqu-il-officiait-a-toulouse-un-policier-ecroue-en-martinique_64394071.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un policier quinquagénaire, anciennement en poste à Toulouse, a été mis en examen et écroué en Martinique le 11 juin 2026, au lendemain de son placement en garde à vue à Fort-de-France. Les charges retenues sont nombreuses : association de malfaiteurs, corruption passive et active, blanchiment aggravé, violation du secret professionnel, recel et détournement de données personnelles. Les faits présumés auraient été commis lors de son affectation à Toulouse, avant qu'il ne rejoigne la brigade des stupéfiants du commissariat central de Fort-de-France en 2022. L'enquête est conduite par la délégation nationale anticorruption (DNAC), une unité créée en septembre 2025 au sein de l'IGPN.</summary>
+    <category term="news"/>
+    <published>2026-06-12T14:26:19+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a7ce9a43-b1bd-44c6-9f66-b0143c84ccba</id>
+    <title>Emmaüs Toulouse ouvre une buvette estivale au site de Sesquières</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Emmaüs Toulouse inaugure La Buvette le samedi 13 juin 2026 sur son site de Sesquières, dans le parc de quatre hectares d&amp;#x27;un château du XVIIe siècle. Ce nouvel espace convivial est conçu comme un lieu de rencontre entre visiteurs, habitants du quartier Ginestous, bénévoles et compagnons d&amp;#x27;Emmaüs. On pourra y consommer boissons chaudes, softs, gaufres maison, glaces locales et chips. Une programmation culturelle (concerts, ateliers, jeux) est prévue tout l&amp;#x27;été, avec le collectif Fanfarnaüm pour l&amp;#x27;inauguration ; La Buvette restera ouverte jusqu&amp;#x27;au 3 octobre 2026.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/dans-le-parc-d-un-chateau-de-toulouse-un-nouveau-lieu-de-convivialite-et-de-solidarite-ouvre-pour-l-ete_64381162.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/dans-le-parc-d-un-chateau-de-toulouse-un-nouveau-lieu-de-convivialite-et-de-solidarite-ouvre-pour-l-ete_64381162.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Emmaüs Toulouse inaugure La Buvette le samedi 13 juin 2026 sur son site de Sesquières, dans le parc de quatre hectares d'un château du XVIIe siècle. Ce nouvel espace convivial est conçu comme un lieu de rencontre entre visiteurs, habitants du quartier Ginestous, bénévoles et compagnons d'Emmaüs. On pourra y consommer boissons chaudes, softs, gaufres maison, glaces locales et chips. Une programmation culturelle (concerts, ateliers, jeux) est prévue tout l'été, avec le collectif Fanfarnaüm pour l'inauguration ; La Buvette restera ouverte jusqu'au 3 octobre 2026.</summary>
+    <category term="place"/>
+    <published>2026-06-12T17:58:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7be17427-8fa6-45c8-9cd9-a0853d62b508</id>
+    <title>Vide-greniers et brocantes à Toulouse les 13 et 14 juin</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le week-end des 13 et 14 juin 2026 s&amp;#x27;annonce favorable pour chiner à Toulouse et dans ses environs, avec une météo ensoleillée à la clé. Le samedi, un vide-greniers est prévu au Mirail, et plusieurs braderies se tiennent à Castanet-Tolosan, Cornebarrieu et L&amp;#x27;Union. Le dimanche est particulièrement chargé avec pas moins de neuf vide-greniers répartis dans différents quartiers toulousains, dont les Minimes, Pradettes, Pouvourville et les allées Frédéric Mistral. Les alentours ne sont pas en reste, avec des rendez-vous à Ramonville-Saint-Agne et Montbrun-Lauragais.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Liste complète des adresses et lieux pour chaque vide-greniers du week-end&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/chiner-a-toulouse-et-aux-alentours-notre-selection-de-vide-greniers-a-faire-les-13-et-14-juin_64386646.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/chiner-a-toulouse-et-aux-alentours-notre-selection-de-vide-greniers-a-faire-les-13-et-14-juin_64386646.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le week-end des 13 et 14 juin 2026 s'annonce favorable pour chiner à Toulouse et dans ses environs, avec une météo ensoleillée à la clé. Le samedi, un vide-greniers est prévu au Mirail, et plusieurs braderies se tiennent à Castanet-Tolosan, Cornebarrieu et L'Union. Le dimanche est particulièrement chargé avec pas moins de neuf vide-greniers répartis dans différents quartiers toulousains, dont les Minimes, Pradettes, Pouvourville et les allées Frédéric Mistral. Les alentours ne sont pas en reste, avec des rendez-vous à Ramonville-Saint-Agne et Montbrun-Lauragais.</summary>
+    <category term="event"/>
+    <published>2026-06-12T18:46:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:27e80999-4f9e-4c7f-a764-22311b238736</id>
+    <title>Le restaurant Chez Carmen fête ses 70 ans à Toulouse</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Ouvert en 1956, le restaurant Chez Carmen célèbre ses 70 ans d&amp;#x27;existence en plein cœur de Toulouse, à deux pas du métro Palais de Justice. Surnommé « le restaurant des abattoirs », l&amp;#x27;établissement s&amp;#x27;est spécialisé dans les pièces de boucher — côtes de bœuf, bavette, onglets — et les recettes de grand-mère. Aujourd&amp;#x27;hui, c&amp;#x27;est Olivier Carmen, petit-fils des fondateurs, qui perpétue cette histoire familiale après avoir succédé à son père Tony en 2010. Pour marquer l&amp;#x27;anniversaire, une journée festive est organisée le samedi 13 juin avec un buffet autour du bœuf, de la musique et une ambiance bistrot conviviale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-famille-et-trois-generations-aux-commandes-veritable-institution-a-toulouse-le-restaurant-chez-carmen-a-70-ans_64395714.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/une-famille-et-trois-generations-aux-commandes-veritable-institution-a-toulouse-le-restaurant-chez-carmen-a-70-ans_64395714.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Ouvert en 1956, le restaurant Chez Carmen célèbre ses 70 ans d'existence en plein cœur de Toulouse, à deux pas du métro Palais de Justice. Surnommé « le restaurant des abattoirs », l'établissement s'est spécialisé dans les pièces de boucher — côtes de bœuf, bavette, onglets — et les recettes de grand-mère. Aujourd'hui, c'est Olivier Carmen, petit-fils des fondateurs, qui perpétue cette histoire familiale après avoir succédé à son père Tony en 2010. Pour marquer l'anniversaire, une journée festive est organisée le samedi 13 juin avec un buffet autour du bœuf, de la musique et une ambiance bistrot conviviale.</summary>
+    <category term="event"/>
+    <published>2026-06-12T19:32:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b6fc9635-3e9a-4d85-84ff-c6fbe15d858f</id>
+    <title>50 ans au CHU de Toulouse : le parcours de Martine, de femme de ménage à cadre de santé</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Martine Huc quittera l&amp;#x27;hôpital Pierre-Paul Riquet à Purpan en décembre 2026, après plus de cinquante ans passés au CHU de Toulouse. Elle y a débuté en 1976, à 19 ans, comme agent de service hospitalier chargée du ménage dans les chambres de chirurgie cardiovasculaire à Rangueil. Grâce aux dispositifs de promotion professionnelle hospitalière, elle a ensuite suivi une formation d&amp;#x27;aide-soignante, puis est devenue infirmière de bloc opératoire, avant d&amp;#x27;accéder à son poste actuel de cadre de santé. Son témoignage, recueilli par Actu Toulouse, illustre les parcours d&amp;#x27;ascension professionnelle possibles au sein de la fonction publique hospitalière.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/elle-a-commence-par-des-menages-et-termine-cadre-de-sante-martine-a-travaille-50-ans-au-chu-de-toulouse_64395625.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/elle-a-commence-par-des-menages-et-termine-cadre-de-sante-martine-a-travaille-50-ans-au-chu-de-toulouse_64395625.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Martine Huc quittera l'hôpital Pierre-Paul Riquet à Purpan en décembre 2026, après plus de cinquante ans passés au CHU de Toulouse. Elle y a débuté en 1976, à 19 ans, comme agent de service hospitalier chargée du ménage dans les chambres de chirurgie cardiovasculaire à Rangueil. Grâce aux dispositifs de promotion professionnelle hospitalière, elle a ensuite suivi une formation d'aide-soignante, puis est devenue infirmière de bloc opératoire, avant d'accéder à son poste actuel de cadre de santé. Son témoignage, recueilli par Actu Toulouse, illustre les parcours d'ascension professionnelle possibles au sein de la fonction publique hospitalière.</summary>
+    <category term="culture"/>
+    <published>2026-06-13T06:04:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:eec37a98-069e-445b-8119-39feba02595e</id>
+    <title>Papi Guinguette à Croix-Daurade s'offre un nouveau rooftop</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Ancien PMU vieillissant route d&amp;#x27;Albi, le Liberty Café a été entièrement transformé il y a un an par son gérant Dany Boulfetat pour devenir Papi Guinguette, un établissement modernisé tourné vers les habitants du quartier Croix-Daurade. L&amp;#x27;endroit vient de s&amp;#x27;enrichir d&amp;#x27;un rooftop flambant neuf, encore en cours d&amp;#x27;aménagement, qui offrira une trentaine de places supplémentaires en plus de la grande terrasse extérieure déjà existante. Une statue de la Liberté — vestige de l&amp;#x27;ancien café — customisée par le graffeur toulousain Mondé trône sur cette terrasse comme pièce maîtresse du lieu. L&amp;#x27;établissement propose également une formule déjeuner à 19€ (entrée, plat, dessert) du mardi au samedi, avec des produits frais, ainsi qu&amp;#x27;une offre culturelle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-avec-son-nouveau-rooftop-papi-guinguette-propose-une-offre-inedite-dans-ce-quartier_64354578.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/toulouse-avec-son-nouveau-rooftop-papi-guinguette-propose-une-offre-inedite-dans-ce-quartier_64354578.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Ancien PMU vieillissant route d'Albi, le Liberty Café a été entièrement transformé il y a un an par son gérant Dany Boulfetat pour devenir Papi Guinguette, un établissement modernisé tourné vers les habitants du quartier Croix-Daurade. L'endroit vient de s'enrichir d'un rooftop flambant neuf, encore en cours d'aménagement, qui offrira une trentaine de places supplémentaires en plus de la grande terrasse extérieure déjà existante. Une statue de la Liberté — vestige de l'ancien café — customisée par le graffeur toulousain Mondé trône sur cette terrasse comme pièce maîtresse du lieu. L'établissement propose également une formule déjeuner à 19€ (entrée, plat, dessert) du mardi au samedi, avec des produits frais, ainsi qu'une offre culturelle.</summary>
+    <category term="place"/>
+    <published>2026-06-13T06:42:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5e08abb9-5214-4414-8d7d-927428b5329f</id>
+    <title>Plusieurs accidents sur le périphérique et l'A68 autour de Toulouse</title>
+    <updated>2026-06-13T06:30:12.026045+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Deux accidents distincts ont perturbé la circulation sur le périphérique toulousain ce mardi 9 juin 2026 : le premier, impliquant quatre véhicules, s&amp;#x27;est produit peu après la sortie Borderouge vers 12h20 en direction de Bordeaux, entraînant la fermeture de deux voies et un bouchon de plus de deux kilomètres. Un second accident, cette fois entre deux voitures et un poids lourd, a eu lieu vers 15h30 au niveau de Sesquières dans le sens intérieur, provoquant avant même l&amp;#x27;heure de pointe près de 10 km de ralentissements. Par ailleurs, vendredi 12 juin, un nouvel accident impliquant quatre véhicules a été signalé sur l&amp;#x27;A68 au nord-est de Toulouse, peu après la bifurcation avec l&amp;#x27;A69, avec une voie neutralisée et environ 5 km de bouchon. Les usagers du périphérique et de l&amp;#x27;A68 sont directement concernés par ces perturbations répétées.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Premier accident du 9 juin (Borderouge, sens Bordeaux)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Second accident du 9 juin (Sesquières, sens intérieur, 10 km de bouchons)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Accident du 12 juin sur l&amp;#x27;A68&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/accident-sur-le-peripherique-de-toulouse-4-vehicules-impliques-les-secours-sur-place_64375835.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/encore-un-accident-entre-trois-vehicules-sur-le-peripherique-de-toulouse-deja-plus-de-10-km-de-bouchons_64377419.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/accident-sur-une-autoroute-pres-de-toulouse-quatre-vehicules-impliques-un-gros-bouchon-en-cours_64391736.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/accident-sur-le-peripherique-de-toulouse-4-vehicules-impliques-les-secours-sur-place_64375835.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Deux accidents distincts ont perturbé la circulation sur le périphérique toulousain ce mardi 9 juin 2026 : le premier, impliquant quatre véhicules, s'est produit peu après la sortie Borderouge vers 12h20 en direction de Bordeaux, entraînant la fermeture de deux voies et un bouchon de plus de deux kilomètres. Un second accident, cette fois entre deux voitures et un poids lourd, a eu lieu vers 15h30 au niveau de Sesquières dans le sens intérieur, provoquant avant même l'heure de pointe près de 10 km de ralentissements. Par ailleurs, vendredi 12 juin, un nouvel accident impliquant quatre véhicules a été signalé sur l'A68 au nord-est de Toulouse, peu après la bifurcation avec l'A69, avec une voie neutralisée et environ 5 km de bouchon. Les usagers du périphérique et de l'A68 sont directement concernés par ces perturbations répétées.</summary>
+    <category term="news"/>
+    <published>2026-06-09T12:35:36+02:00</published>
   </entry>
 </feed>
