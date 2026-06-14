@@ -318,7 +318,7 @@ def main() -> None:
     write_atom(entries, FEED_OUTPUT)
     print(f"wrote {FEED_OUTPUT} ({FEED_OUTPUT.stat().st_size} bytes)")
 
-    # Compute archive dates (past days found in entries)
+    # Compute archive dates (past days found in entries + existing archive files)
     today_paris = datetime.now(PARIS).date()
     past_dates: set[date] = set()
     for e in entries:
@@ -326,6 +326,14 @@ def main() -> None:
         d = dt.astimezone(PARIS).date()
         if d < today_paris:
             past_dates.add(d)
+    # Also include dates from archive HTML files already on disk
+    for arc_file in ARCHIVE_DIR.glob("*.html"):
+        try:
+            d = date.fromisoformat(arc_file.stem)
+            if d < today_paris:
+                past_dates.add(d)
+        except ValueError:
+            pass
     from src.landing import FRENCH_MONTHS
     archive_dates = [
         {
@@ -353,6 +361,24 @@ def main() -> None:
 
     _write_sitemap(archive_dates, SITEMAP_OUTPUT)
     print(f"wrote {SITEMAP_OUTPUT} ({len(archive_dates) + 2} URLs)")
+
+    search_index_path = Path("docs/search-index.json")
+    import json as _json
+    search_index = [
+        {
+            "title": e.get("title", ""),
+            "summary": e.get("summary", ""),
+            "date": e.get("published_at", "")[:10],
+            "url": e.get("url", ""),
+            "source": (e.get("authors") or [""])[0],
+        }
+        for e in entries
+    ]
+    search_index_path.write_text(
+        _json.dumps(search_index, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    print(f"wrote {search_index_path} ({len(search_index)} entries)")
 
     api_key = os.environ.get("RESEND_API_KEY", "").strip()
     audience_id = os.environ.get("RESEND_AUDIENCE_ID", "").strip()
