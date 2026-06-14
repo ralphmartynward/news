@@ -243,7 +243,7 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
   }
 
   var _openAtcId = null;
-  function toggleAtcMenu(menuId, e) {
+  window.toggleAtcMenu = function(menuId, e) {
     e.stopPropagation();
     var menu = document.getElementById(menuId);
     if (!menu) return;
@@ -254,7 +254,7 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
     }
     menu.classList.toggle('open', !isOpen);
     _openAtcId = !isOpen ? menuId : null;
-  }
+  };
   document.addEventListener('click', function() {
     if (_openAtcId) {
       var menu = document.getElementById(_openAtcId);

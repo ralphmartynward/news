@@ -336,7 +336,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
   }
 
   var _openAtcId = null;
-  function toggleAtcMenu(menuId, e) {
+  window.toggleAtcMenu = function(menuId, e) {
     e.stopPropagation();
     var menu = document.getElementById(menuId);
     if (!menu) return;
@@ -347,7 +347,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     }
     menu.classList.toggle('open', !isOpen);
     _openAtcId = !isOpen ? menuId : null;
-  }
+  };
   document.addEventListener('click', function() {
     if (_openAtcId) {
       var menu = document.getElementById(_openAtcId);
