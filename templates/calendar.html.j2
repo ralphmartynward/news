@@ -83,6 +83,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
   <nav class="cal-nav">
     <a href="/">← Digest du jour</a>
     <a href="#agenda" class="active">📅 Calendrier</a>
+    <a href="/calendar.ics">📥 S'abonner (.ics)</a>
     <a href="/feed.xml">📡 RSS</a>
   </nav>
 </div>
@@ -92,7 +93,15 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     <a href="/" class="back-link">← Retour au digest</a>
     <div class="sec-label">Agenda</div>
     <h2 class="sec-title">Événements à Toulouse</h2>
-    <p class="sec-sub">Passés (14 j) et à venir (90 j) — cliquez pour lire l'article source.</p>
+    <p class="sec-sub">Passés (30 j) et à venir — cliquez sur un événement pour lire l'article ou l'ajouter à votre agenda.</p>
+    <div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:12px 16px;margin-bottom:24px;font-size:13px;color:#166534;display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap;">
+      <span style="font-size:18px;flex-shrink:0;">📅</span>
+      <div>
+        <strong>Abonner votre agenda :</strong> Collez cette URL dans Google Calendar (« Ajouter par URL »), Apple Agenda (Fichier → Nouvel agenda par abonnement), ou Outlook :<br>
+        <code id="ics-url" style="display:inline-block;margin-top:6px;background:#dcfce7;padding:3px 8px;border-radius:6px;font-size:12px;user-select:all;cursor:pointer;" onclick="navigator.clipboard.writeText(this.textContent).then(()=>{this.style.background='#bbf7d0';setTimeout(()=>this.style.background='#dcfce7',1500)})">https://news.lavillerose.com/calendar.ics</code>
+        <span style="font-size:11px;color:#16a34a;margin-left:6px;">(cliquez pour copier)</span>
+      </div>
+    </div>
     {{ render_calendar(calendar_events_json, compact=false, widget_id="cal-full") }}
   </section>
 </div>

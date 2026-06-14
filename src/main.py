@@ -18,6 +18,7 @@ FEED_OUTPUT = Path("docs/feed.xml")
 LANDING_OUTPUT = Path("docs/index.html")
 ARCHIVE_DIR = Path("docs/archive")
 CALENDAR_OUTPUT = Path("docs/calendar.html")
+CALENDAR_ICS_OUTPUT = Path("docs/calendar.ics")
 SITEMAP_OUTPUT = Path("docs/sitemap.xml")
 CACHE_PATH = Path("data/items_seen.db")
 SITE_BASE = "https://news.lavillerose.com"
@@ -358,6 +359,22 @@ def main() -> None:
 
     render_calendar_page(calendar_events, CALENDAR_OUTPUT)
     print(f"wrote {CALENDAR_OUTPUT} ({CALENDAR_OUTPUT.stat().st_size} bytes)")
+
+    from gen_ics import build_ics
+    if conn:
+        import sqlite3 as _sqlite3
+        _conn2 = _sqlite3.connect(str(CACHE_PATH))
+        _conn2.row_factory = _sqlite3.Row
+        _ics_rows = [
+            dict(r) for r in _conn2.execute(
+                "SELECT cluster_id,event_start,event_end,event_name,title,summary,primary_url"
+                " FROM clusters WHERE event_start IS NOT NULL AND event_start != ''"
+                "   AND primary_url IS NOT NULL AND primary_url != '' ORDER BY event_start"
+            ).fetchall()
+        ]
+        _conn2.close()
+        CALENDAR_ICS_OUTPUT.write_bytes(build_ics(_ics_rows).encode("utf-8"))
+        print(f"wrote {CALENDAR_ICS_OUTPUT} ({len(_ics_rows)} events)")
 
     _write_sitemap(archive_dates, SITEMAP_OUTPUT)
     print(f"wrote {SITEMAP_OUTPUT} ({len(archive_dates) + 2} URLs)")
