@@ -207,6 +207,11 @@ def _build_calendar_days(
         except ValueError:
             continue
         end_d = min(end_d, start_d + timedelta(days=30))
+        # Roundup articles ("sorties du week-end", "bons plans", etc.) mention events
+        # that run beyond the weekend; cap them so they don't bleed across the calendar.
+        title_lower = (ev.get("event_name") or ev.get("title") or "").lower()
+        if any(kw in title_lower for kw in ("week-end", "weekend", "sorties", "bons plans", "programme du")):
+            end_d = min(end_d, start_d + timedelta(days=4))
         ev_out = dict(ev)
         ev_out["source_label"] = SOURCE_LABELS.get(ev.get("source", ""), ev.get("source", "") or "Source")
         d = start_d
