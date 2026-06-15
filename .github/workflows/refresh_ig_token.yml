@@ -1,0 +1,30 @@
+name: Refresh Instagram Token
+
+on:
+  schedule:
+    # 1st of every month at 06:00 UTC — well before the 60-day expiry
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: none   # no repo writes needed
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh long-lived token and update secret
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          RESPONSE=$(curl -sf \
+            "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_ACCESS_TOKEN}")
+          NEW_TOKEN=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['access_token'])")
+          EXPIRES_IN=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['expires_in'])")
+          echo "Token refreshed — expires in $((EXPIRES_IN/86400)) days"
+          echo "$NEW_TOKEN" | gh secret set IG_ACCESS_TOKEN
+          echo "IG_ACCESS_TOKEN secret updated."

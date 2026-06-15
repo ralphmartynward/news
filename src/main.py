@@ -303,11 +303,18 @@ def main() -> None:
                 _synthesise_clusters(conn, touched)
             else:
                 print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
-            # Generate Instagram images for today's non-news clusters
+            # Generate Instagram images and post via Graph API
             try:
                 from src.instagram import run as instagram_run
+                from src.instagram_graph import run_from_manifest as ig_post
                 today_slug = datetime.now(PARIS).date().isoformat()
                 instagram_run(conn, INSTAGRAM_DIR / today_slug)
+                ig_token   = os.environ.get("IG_ACCESS_TOKEN", "").strip()
+                ig_user_id = os.environ.get("IG_USER_ID", "").strip()
+                if ig_token and ig_user_id:
+                    ig_post(INSTAGRAM_DIR / today_slug / "manifest.json", ig_user_id, ig_token)
+                else:
+                    print("instagram_graph: skipped (IG_ACCESS_TOKEN / IG_USER_ID not set)")
             except Exception as _ig_err:
                 print(f"instagram: FAILED — {type(_ig_err).__name__}: {_ig_err}", file=sys.stderr)
 
