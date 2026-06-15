@@ -21,7 +21,7 @@ CATEGORY_ORDER: list[tuple[str, str, str]] = [
     ("news", "Actualité", "Les infos du jour"),
     ("event", "Agenda", "Ça se passe à Toulouse"),
     ("place", "À découvrir", "Lieux, ouvertures, bonnes adresses"),
-    ("culture", "Culture", "Sorties culturelles"),
+    ("culture", "Culture", "Culture & Patrimoine"),
 ]
 
 SOURCE_LABELS: dict[str, str] = {
