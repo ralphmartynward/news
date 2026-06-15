@@ -232,11 +232,7 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     footer_y = H - 72
     draw.line([(TEXT_X, footer_y - 20), (W - TEXT_X, footer_y - 20)], fill=(255, 255, 255, 40), width=1)
     draw.text((TEXT_X, footer_y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 100))
-    date_str = datetime.now(timezone.utc).strftime("%-d %b %Y") if hasattr(datetime, "strftime") else ""
-    try:
-        date_str = datetime.now(timezone.utc).strftime("%-d %b %Y")
-    except Exception:
-        date_str = datetime.now(timezone.utc).strftime("%d %b %Y").lstrip("0")
+    date_str = datetime.now(timezone.utc).strftime("%d %b %Y").lstrip("0")
     draw.text((W - TEXT_X, footer_y), date_str, font=f_tiny, fill=(255, 255, 255, 100), anchor="ra")
 
     return base.convert("RGB")
@@ -298,10 +294,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     footer_y = H - 52
     draw.line([(TEXT_X, footer_y - 16), (W - TEXT_X, footer_y - 16)], fill=(255, 255, 255, 40), width=1)
     draw.text((TEXT_X, footer_y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 100))
-    try:
-        date_str = datetime.now(timezone.utc).strftime("%-d %b %Y")
-    except Exception:
-        date_str = datetime.now(timezone.utc).strftime("%d %b %Y").lstrip("0")
+    date_str = datetime.now(timezone.utc).strftime("%d %b %Y").lstrip("0")
     draw.text((W - TEXT_X, footer_y), date_str, font=f_tiny, fill=(255, 255, 255, 100), anchor="ra")
 
     return base.convert("RGB")
