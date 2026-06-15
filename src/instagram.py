@@ -215,20 +215,18 @@ def _draw_pill_box_centered(draw, W: int, top_y: int, lines: list[str], font,
 
 
 def _paste_favicon(base, x: int, y: int, size: int = 64):
-    """Paste the favicon as a circle-masked image at (x, y) top-left."""
-    from PIL import Image, ImageDraw as _ID
-    key = size
-    if key not in _favicon_cache:
+    """Paste the favicon using its own alpha channel — no background, no circle mask."""
+    from PIL import Image
+    if size not in _favicon_cache:
         try:
             img = Image.open(str(_FAVICON_PATH)).convert("RGBA").resize((size, size), Image.LANCZOS)
-            mask = Image.new("L", (size, size), 0)
-            _ID.Draw(mask).ellipse([0, 0, size - 1, size - 1], fill=255)
-            _favicon_cache[key] = (img, mask)
+            _favicon_cache[size] = img
         except Exception:
-            _favicon_cache[key] = None
-    entry = _favicon_cache[key]
-    if entry:
-        base.paste(entry[0], (x, y), entry[1])
+            _favicon_cache[size] = None
+    img = _favicon_cache[size]
+    if img:
+        # Use the image's own alpha as the mask so the transparent background stays transparent
+        base.paste(img, (x, y), img)
 
 
 def _wrap_text(text: str, font, max_width: int, draw) -> list[str]:
@@ -278,7 +276,9 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
 
     title   = cluster.get("title", "")
     summary = cluster.get("summary", "")
-    first_sentence = (summary.split(". ")[0].rstrip(".") + ".") if summary else ""
+    # Up to 3 sentences for the bottom pill box
+    sentences_s = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
+    first_sentence = "  ".join((s.rstrip(".") + ".") for s in sentences_s[:3]) if sentences_s else ""
 
     # ── TOP PILL BOX (hook / title) ──
     title_lines = _wrap_text(title, f_title, MAX_BOX_W - 88, draw)[:4]
@@ -341,45 +341,59 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     FSIZE = 60
     _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
-    # measure bottom text block height to anchor correctly
-    segs      = _segment_title(cluster.get("title", ""))
-    sw        = _space_w(draw, f_title)
-    lh        = draw.textbbox((0, 0), "Ag", font=f_title)[3]
-    # rough line count estimate for anchor
-    sample_lines = _wrap_text(cluster.get("title", ""), f_title, TEXT_W, draw)[:3]
-    n_lines   = len(sample_lines)
-    sub_h     = draw.textbbox((0, 0), "A", font=f_sub)[3]
-    site_h    = draw.textbbox((0, 0), "A", font=f_tiny)[3]
-    cat_pill_h = draw.textbbox((0, 0), "A", font=f_cat)[3] + 20
+    title   = cluster.get("title", "")
+    summary = cluster.get("summary", "")
+    # First 1-2 sentences for the context line
+    sentences = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
+    context = (sentences[0].rstrip(".") + ".") if sentences else ""
+    context2 = (sentences[1].rstrip(".") + ".") if len(sentences) > 1 else ""
 
-    total_h = cat_pill_h + 18 + n_lines * (lh + 12) + 16 + sub_h + 14 + site_h
+    segs = _segment_title(title)
+    lh   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
+    sub_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
+    ctx_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
+    site_h = draw.textbbox((0, 0), "A", font=f_tiny)[3]
+    cat_pill_h = draw.textbbox((0, 0), "A", font=f_cat)[3] + 20
+    title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:3]
+    ctx_lines   = _wrap_text(context, f_sub, TEXT_W, draw)[:2]
+    ctx2_lines  = _wrap_text(context2, f_sub, TEXT_W, draw)[:1] if context2 else []
+    all_ctx     = (ctx_lines + ctx2_lines)[:2]
+
+    ev_date = _french_date(cluster.get("event_start") or "")
+    date_line_h = sub_h + 10 if ev_date else 0
+
+    total_h = (cat_pill_h + 18
+               + len(title_lines) * (lh + 10) + 12
+               + len(all_ctx) * (ctx_h + 6) + 10
+               + date_line_h + site_h + 8)
     y = H - PAD - total_h
 
     # category pill (centred)
     cat_label = CAT_PILLS.get(cluster.get("category", ""), "INFO")
-    cb = draw.textbbox((0, 0), cat_label, font=f_cat)
+    cb    = draw.textbbox((0, 0), cat_label, font=f_cat)
     pill_w = (cb[2] - cb[0]) + 40
-    pill_h = (cb[3] - cb[1]) + 20
+    pill_h_px = (cb[3] - cb[1]) + 20
     pill_x = (W - pill_w) // 2
     pill_bg = COL_PINK if cluster.get("category") == "event" else COL_GREEN
-    draw.rounded_rectangle([pill_x, y, pill_x + pill_w, y + pill_h],
-                            radius=pill_h // 2, fill=pill_bg)
+    draw.rounded_rectangle([pill_x, y, pill_x + pill_w, y + pill_h_px],
+                            radius=pill_h_px // 2, fill=pill_bg)
     draw.text((pill_x + 20, y + 10), cat_label, font=f_cat, fill=COL_DARK)
-    y += pill_h + 18
+    y += pill_h_px + 18
 
     # multi-colour title
-    y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, TEXT_W, line_bonus=12)
+    y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, TEXT_W, line_bonus=10)
+    y += 10
+
+    # context lines (summary sentences)
+    for line in all_ctx:
+        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 180))
+        y += ctx_h + 6
     y += 4
 
-    # subtitle: date · Toulouse
-    parts = []
-    ev = _french_date(cluster.get("event_start") or "")
-    if ev:
-        parts.append(ev)
-    parts.append("Toulouse")
-    sub = "  ·  ".join(parts)
-    draw.text((PAD, y), sub, font=f_sub, fill=(255, 255, 255, 160))
-    y += sub_h + 14
+    # date line if event
+    if ev_date:
+        draw.text((PAD, y), ev_date + "  ·  Toulouse", font=f_sub, fill=(255, 255, 255, 130))
+        y += sub_h + 10
 
     draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
 
@@ -510,11 +524,12 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     f_sub   = _load_font(24)
     f_tiny  = _load_font(17)
 
-    # number circle top-left
-    r = 36
-    draw.ellipse([PAD, 44, PAD + r*2, 44 + r*2], fill=COL_PINK if event.get("category") == "event" else COL_GREEN)
-    nb = draw.textbbox((0, 0), str(n), font=f_num)
-    draw.text((PAD + r - (nb[2]-nb[0])//2, 44 + r - (nb[3]-nb[1])//2), str(n), font=f_num, fill=COL_DARK)
+    # number pill top-left — dark semi-transparent, white text
+    num_str = str(n)
+    nb  = draw.textbbox((0, 0), num_str, font=f_num)
+    nw, nh = nb[2] - nb[0] + 28, nb[3] - nb[1] + 16
+    draw.rounded_rectangle([PAD, 44, PAD + nw, 44 + nh], radius=nh // 2, fill=(15, 23, 42, 200))
+    draw.text((PAD + 14, 44 + 8), num_str, font=f_num, fill=COL_WHITE)
 
     # title (multi-colour)
     segs = _segment_title(event.get("title", ""))
