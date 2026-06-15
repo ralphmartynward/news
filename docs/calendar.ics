@@ -2248,7 +2248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1a78ba9d-f57b-452d-a907-4ad7a9486983@news.lavillerose.com
 DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260621
 SUMMARY:Sorties du week-end
 DESCRIPTION:Ce week-end à Toulouse et ses environs\, les propositions sont
   nombreuses et variées. Le festival de caves de la compagnie Voraces se p
@@ -2496,6 +2496,61 @@ URL:https://www.clutchmag.fr/evenements#2026-06-11-dimanche-14-juin-0?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a5267dce-a82a-49c6-b143-001e27bf3b83@news.lavillerose.com
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Travaux d'urgence route de Revel : circulation perturbée lundi 15 
+ juin
+DESCRIPTION:Des travaux d'urgence sont prévus lundi 15 juin 2026 sur la ro
+ ute métropolitaine 2 (RM2)\, entre le 236 et le 238 route de Revel à Tou
+ louse\, de 9h à 16h. L'intervention concerne la réparation d'une fuite s
+ ur le réseau d'eau potable. Pendant toute la durée du chantier\, la rout
+ e sera mise en sens unique dans le sens Toulouse–Saint-Orens\, avec une 
+ déviation pour les automobilistes se dirigeant vers Toulouse. Toulouse M
+ étropole invite les usagers de cet axe très fréquenté du sud-est de l'
+ agglomératio\n\nSource\: https://actu.fr/occitanie/toulouse_31555/des-tra
+ vaux-d-urgence-sur-cette-route-tres-empruntee-toulouse-metropole-appelle-a
+ -anticiper-les-deplacements-lundi_64399258.html
+URL:https://actu.fr/occitanie/toulouse_31555/des-travaux-d-urgence-sur-cett
+ e-route-tres-empruntee-toulouse-metropole-appelle-a-anticiper-les-deplacem
+ ents-lundi_64399258.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b971b6e3-0b48-4dda-959e-15b8e6b03d7a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260629
+SUMMARY:Colore ta vie
+DESCRIPTION:La créatrice toulousaine Claudine Andrieux\, fondatrice de la 
+ marque d'upcycling Renacimiento\, réinvestit son ancienne boutique de la 
+ Porte Bleue le temps d'un pop-up collectif de quinze jours. L'événement\
+ , baptisé « Colore ta vie »\, réunit neuf créatrices locales (et une 
+ invitée venue de Brive) autour de la couleur\, du recyclage et de la cré
+ ation artisanale. On y trouvera vêtements upcyclés\, bijoux en perles re
+ cyclées\, illustrations inspirées des quartiers toulousains\, objets chi
+ nés transformés\,\n\nSource\: https://www.lessentiel.fr/newsletter/toulo
+ use/2026-06-15#43347
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-15#43347?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f510aa02-1050-471f-94a2-32beb565d52c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260621
+SUMMARY:Rencontres retraite
+DESCRIPTION:Du 15 au 20 juin 2026\, l'Agirc-Arrco organise les « Rencontre
+ s retraite » en Occitanie\, avec plus de 1 000 rendez-vous gratuits propo
+ sés dans la région. Cette édition met l'accent sur l'impact des interru
+ ptions de carrière — arrêt maladie longue durée\, invalidité\, handi
+ cap — sur les droits à la retraite. Les conseillers accompagnent les as
+ surés pour faire le point sur leurs droits acquis et les orienter dans le
+ urs démarches. À Toulouse\, deux agences participent : boulevard Lazare 
+ Carnot et l'acc\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-06-15#43348
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-15#43348?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b9a475d7-3039-4fb9-af40-0c9a41a793d1@news.lavillerose.com
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260628
@@ -2626,6 +2681,27 @@ URL:https://actu.fr/occitanie/toulouse_31555/incontournable-sur-les-reseaux
  -sociaux-ce-celebre-restaurant-italien-debarque-a-toulouse-voici-sa-date-d
  -ouverture_64389070.html?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ad6050ec-547f-4880-992f-02fa9e78c1f9@news.lavillerose.com
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Le Beluga ST d'Airbus rejoint les collections d'Aeroscopia à Blagn
+ ac
+DESCRIPTION:Le Beluga ST n° 4 (F-GSTD)\, avion-cargo emblématique d'Airbu
+ s\, intègre officiellement le musée aéronautique Aeroscopia à Blagnac 
+ le 24 juin 2026. Il s'agit d'une première mondiale : aucun autre musée n
+ 'exposait jusqu'ici cet appareil au gabarit hors norme. Retraité des airs
+  en septembre 2025 après 6 806 heures de vol et plus de 4 400 missions\, 
+ le Beluga n° 4 était dédié au transport de pièces d'avions entre les 
+ sites de production européens d'Airbus. Conçu pour des chargements impos
+ sibles à ache\n\nSource\: https://actu.fr/occitanie/toulouse_31555/airbus
+ -le-beluga-veritable-geant-du-ciel-s-installe-dans-ce-musee-pres-de-toulou
+ se-une-premiere-mondiale_64395251.html
+URL:https://actu.fr/occitanie/toulouse_31555/airbus-le-beluga-veritable-gea
+ nt-du-ciel-s-installe-dans-ce-musee-pres-de-toulouse-une-premiere-mondiale
+ _64395251.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:aeb7b645-fb42-4ffd-8c56-3a62861f90a5@news.lavillerose.com

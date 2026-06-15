@@ -220,6 +220,48 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 .arc-btn:hover { background: #0f172a; color: #fff; border-color: #0f172a; }
 .arc-btn-current { background: #0f172a; color: #fff; border-color: #0f172a; cursor: default; pointer-events: none; }
 
+/* ── Global search ── */
+.global-search-wrap {
+  position: relative;
+  margin-bottom: 20px;
+  padding-top: 8px;
+}
+.global-search-wrap svg {
+  position: absolute;
+  left: 14px; top: 50%; transform: translateY(-50%);
+  width: 16px; height: 16px; color: #94a3b8; pointer-events: none;
+}
+#global-search {
+  width: 100%; padding: 11px 16px 11px 40px;
+  border: 1.5px solid #e2e8f0; border-radius: 10px;
+  font: inherit; font-size: 14px;
+  background: #fff; outline: none;
+  transition: border-color 150ms;
+}
+#global-search:focus { border-color: #2563eb; }
+#global-search::placeholder { color: #94a3b8; }
+.search-results {
+  display: none;
+  position: absolute; left: 0; right: 0; top: calc(100% + 6px);
+  background: #fff; border: 1px solid #e2e8f0; border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,.12);
+  z-index: 100; max-height: 420px; overflow-y: auto;
+}
+.search-results.show { display: block; }
+.search-result {
+  display: flex; flex-direction: column; padding: 12px 16px;
+  border-bottom: 1px solid #f1f5f9; text-decoration: none; color: inherit;
+  transition: background 100ms;
+}
+.search-result:last-child { border-bottom: none; }
+.search-result:hover { background: #f8fafc; }
+.sr-meta { font-size: 10px; color: #94a3b8; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 3px; }
+.sr-title { font-size: 14px; font-weight: 700; color: #0f172a; line-height: 1.35; margin-bottom: 4px; }
+.sr-snippet { font-size: 12px; color: #64748b; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.search-result:hover .sr-title { color: #2563eb; }
+.search-empty { padding: 20px 16px; text-align: center; color: #94a3b8; font-size: 13px; }
+.search-result mark { background: #fef08a; color: inherit; border-radius: 2px; padding: 0 1px; }
+
 /* ── Empty state ── */
 .empty {
   background: #fff; border: 1px dashed #cbd5e1; border-radius: 14px;
@@ -319,20 +361,50 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
   letter-spacing: 0.3px; color: #0f172a; margin-bottom: 12px;
 }
 .calw-ev-card {
-  display: block; background: #fff; border: 1px solid rgba(0,0,0,0.08);
+  background: #fff; border: 1px solid rgba(0,0,0,0.08);
   border-radius: 10px; padding: 12px 14px; margin-bottom: 8px;
-  text-decoration: none; color: inherit;
-  transition: border-color 150ms, box-shadow 150ms;
+  color: inherit; transition: border-color 150ms, box-shadow 150ms;
+  position: relative;
 }
 .calw-ev-card:hover { border-color: #4ade80; box-shadow: 0 2px 8px rgba(74,222,128,0.12); }
 .calw-ev-title   { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
-.calw-ev-card:hover .calw-ev-title { color: #16a34a; }
-.calw-ev-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 8px; }
+.calw-ev-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 10px; }
+.calw-ev-footer  { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .calw-ev-source  {
   font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
   color: #16a34a; background: #f0fdf4; border: 1px solid #bbf7d0;
   border-radius: 999px; padding: 2px 7px; display: inline-block;
 }
+.calw-ev-read {
+  font-size: 11px; font-weight: 700; color: #2563eb; text-decoration: none;
+  margin-left: auto;
+}
+.calw-ev-read:hover { text-decoration: underline; }
+
+/* "Add to calendar" dropdown */
+.calw-atc-wrap  { position: relative; }
+.calw-atc-btn {
+  font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
+  color: #7c3aed; background: #faf5ff; border: 1px solid #e9d5ff;
+  border-radius: 999px; padding: 3px 9px; cursor: pointer;
+  font-family: inherit; transition: background 100ms;
+}
+.calw-atc-btn:hover { background: #ede9fe; }
+.calw-atc-menu {
+  display: none; position: absolute; bottom: calc(100% + 6px); left: 0;
+  background: #fff; border: 1px solid #e2e8f0; border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0,0,0,.12); min-width: 180px; z-index: 200;
+  overflow: hidden;
+}
+.calw-atc-menu.open { display: block; }
+.calw-atc-item {
+  display: flex; align-items: center; gap: 8px;
+  padding: 9px 14px; font-size: 13px; font-weight: 600;
+  color: #0f172a; text-decoration: none;
+  transition: background 80ms;
+}
+.calw-atc-item:hover { background: #f8fafc; }
+.calw-atc-item + .calw-atc-item { border-top: 1px solid #f1f5f9; }
 
 /* Compact variant for landing page */
 .calw-compact .calw-cell   { min-height: 52px; padding: 3px 2px 4px; }
@@ -403,6 +475,11 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
 
 <!-- News content -->
 <div class="page">
+  <div class="global-search-wrap">
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><line x1="13.5" y1="13.5" x2="18" y2="18"/></svg>
+    <input id="global-search" type="search" placeholder="Rechercher dans toutes les éditions…" autocomplete="off" spellcheck="false"/>
+    <div class="search-results" id="search-results"></div>
+  </div>
   
     <section class="section">
       <div class="empty">Pas encore de stories aujourd'hui — repassez plus tard.</div>
@@ -415,14 +492,14 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
 
 <!-- Archive navigation -->
 
-<div class="page" style="padding: 24px 24px 0;">
+<div class="page" style="padding: 24px 24px 48px; text-align: center;">
   
   <a href="/" class="arc-btn" style="margin-bottom:12px;">← Aujourd'hui</a>
   
   
   <div style="margin-top:8px;">
     <div class="sec-label" style="margin-bottom:8px;">Éditions précédentes</div>
-    <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;justify-content:center;">
       
         
         <a href="/archive/2026-05-30.html" class="arc-btn">30 mai</a>
@@ -430,6 +507,18 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
       
         
         <span class="arc-btn arc-btn-current">29 mai</span>
+        
+      
+        
+        <a href="/archive/2026-05-28.html" class="arc-btn">28 mai</a>
+        
+      
+        
+        <span style="color:#94a3b8;font-size:14px;font-weight:700;padding:0 4px;">…</span>
+        
+      
+        
+        <a href="/archive/2026-05-04.html" class="arc-btn">4 mai</a>
         
       
     </div>
@@ -521,6 +610,89 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
         s.style.display = show ? '' : 'none';
       });
     });
+  });
+})();
+
+(function () {
+  const input = document.getElementById('global-search');
+  const panel = document.getElementById('search-results');
+  if (!input || !panel) return;
+
+  let index = null;
+  let loading = false;
+
+  function loadIndex() {
+    if (index !== null || loading) return;
+    loading = true;
+    fetch('/search-index.json')
+      .then(r => r.json())
+      .then(data => { index = data; if (input.value.trim().length >= 2) doSearch(input.value.trim()); })
+      .catch(() => { index = []; });
+  }
+
+  function highlight(text, q) {
+    if (!text) return '';
+    const i = text.toLowerCase().indexOf(q.toLowerCase());
+    if (i < 0) return text.slice(0, 120) + (text.length > 120 ? '…' : '');
+    const start = Math.max(0, i - 40);
+    const end = Math.min(text.length, i + q.length + 80);
+    let s = start > 0 ? '…' : '';
+    s += escHtml(text.slice(start, i)) + '<mark>' + escHtml(text.slice(i, i + q.length)) + '</mark>' + escHtml(text.slice(i + q.length, end));
+    if (end < text.length) s += '…';
+    return s;
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function formatDate(iso) {
+    if (!iso) return '';
+    const [y, m, d] = iso.split('-').map(Number);
+    const months = ['jan','fév','mar','avr','mai','juin','juil','août','sep','oct','nov','déc'];
+    return d + ' ' + months[m - 1] + (y !== new Date().getFullYear() ? ' ' + y : '');
+  }
+
+  function doSearch(q) {
+    if (!index) { loadIndex(); return; }
+    if (q.length < 2) { panel.classList.remove('show'); return; }
+    const ql = q.toLowerCase();
+    const matches = index.filter(a =>
+      (a.title || '').toLowerCase().includes(ql) ||
+      (a.summary || '').toLowerCase().includes(ql)
+    ).slice(0, 12);
+    if (!matches.length) {
+      panel.innerHTML = '<div class="search-empty">Aucun résultat pour « ' + escHtml(q) + ' »</div>';
+    } else {
+      panel.innerHTML = matches.map(a => {
+        const snap = highlight(a.summary || a.title, q);
+        const d = formatDate(a.date);
+        const meta = [d, a.source].filter(Boolean).join(' · ');
+        return '<a class="search-result" href="' + escHtml(a.url) + '" target="_blank" rel="noopener">' +
+          '<div class="sr-meta">' + escHtml(meta) + '</div>' +
+          '<div class="sr-title">' + escHtml(a.title) + '</div>' +
+          '<div class="sr-snippet">' + snap + '</div>' +
+          '</a>';
+      }).join('');
+    }
+    panel.classList.add('show');
+  }
+
+  input.addEventListener('focus', loadIndex);
+  input.addEventListener('input', () => {
+    const q = input.value.trim();
+    if (!q) { panel.classList.remove('show'); return; }
+    doSearch(q);
+  });
+
+  document.addEventListener('click', e => {
+    if (!input.contains(e.target) && !panel.contains(e.target)) {
+      panel.classList.remove('show');
+    }
+  });
+
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Escape') { panel.classList.remove('show'); input.blur(); }
   });
 })();
 </script>

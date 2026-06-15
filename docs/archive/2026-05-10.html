@@ -1,15 +1,17 @@
+
 <!doctype html>
 <html lang="fr">
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>Toulouse News — La Ville Rose</title>
-<meta name="description" content="L'actualité de Toulouse, agrégée chaque jour à 7h. Sources locales, dédupliquées, résumées."/>
-<meta property="og:title" content="Toulouse News — La Ville Rose"/>
-<meta property="og:description" content="L'actualité de Toulouse, agrégée chaque jour à 7h."/>
+<title>Toulouse News — dimanche 10 mai 2026 | La Ville Rose</title>
+<meta name="description" content="Actualités du dimanche 10 mai 2026 à Toulouse — 0 stories de sources locales."/>
+<meta property="og:title" content="Toulouse News — dimanche 10 mai 2026 | La Ville Rose"/>
+<meta property="og:description" content="Actualités du dimanche 10 mai 2026 à Toulouse — 0 stories de sources locales."/>
 <meta property="og:type" content="website"/>
-<meta property="og:url" content="https://news.lavillerose.com/"/>
-<link rel="canonical" href="https://news.lavillerose.com/"/>
+<meta property="og:url" content="https://news.lavillerose.com/archive/2026-05-10.html"/>
+<link rel="canonical" href="https://news.lavillerose.com/archive/2026-05-10.html"/>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[]}</script>
 <link rel="alternate" type="application/atom+xml" title="Toulouse News" href="/feed.xml"/>
 <link rel="icon" type="image/x-icon" href="https://lavillerose.com/assets/favicon/favicon.ico"/>
 <link href="/shared.css" rel="stylesheet"/>
@@ -148,7 +150,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 .subscribe-card .note { font-size: 11px; color: #94a3b8; margin: 0; flex-basis: 100%; }
 
 /* ── News grid + cards ── */
-.news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+.news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; align-items: stretch; }
 .news-card {
   background: #fff;
   border: 1px solid rgba(0,0,0,0.08); border-radius: 14px;
@@ -198,9 +200,9 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 .filter-btn.active { background: #0f172a; color: #fff; border-color: #0f172a; }
 .filter-count { opacity: 0.55; margin-left: 4px; }
 .news-time { color: #94a3b8; font-weight: 600; }
-.news-title { font-size: 16px; font-weight: 800; color: #0f172a; line-height: 1.3; margin: 0 0 8px; }
+.news-title { font-size: 16px; font-weight: 800; color: #0f172a; line-height: 1.3; margin: 0 0 8px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
 .news-card:hover .news-title { color: #2563eb; }
-.news-summary { font-size: 13px; color: #475569; line-height: 1.55; margin: 0 0 12px; flex: 1; }
+.news-summary { font-size: 13px; color: #475569; line-height: 1.55; margin: 0 0 12px; flex: 1; display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
 .news-cta { font-size: 12px; font-weight: 800; color: #0f172a; margin-top: auto; display: flex; align-items: center; gap: 4px; }
 .news-card:hover .news-cta { color: #2563eb; }
 
@@ -216,6 +218,49 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
   transition: background 120ms, color 120ms;
 }
 .arc-btn:hover { background: #0f172a; color: #fff; border-color: #0f172a; }
+.arc-btn-current { background: #0f172a; color: #fff; border-color: #0f172a; cursor: default; pointer-events: none; }
+
+/* ── Global search ── */
+.global-search-wrap {
+  position: relative;
+  margin-bottom: 20px;
+  padding-top: 8px;
+}
+.global-search-wrap svg {
+  position: absolute;
+  left: 14px; top: 50%; transform: translateY(-50%);
+  width: 16px; height: 16px; color: #94a3b8; pointer-events: none;
+}
+#global-search {
+  width: 100%; padding: 11px 16px 11px 40px;
+  border: 1.5px solid #e2e8f0; border-radius: 10px;
+  font: inherit; font-size: 14px;
+  background: #fff; outline: none;
+  transition: border-color 150ms;
+}
+#global-search:focus { border-color: #2563eb; }
+#global-search::placeholder { color: #94a3b8; }
+.search-results {
+  display: none;
+  position: absolute; left: 0; right: 0; top: calc(100% + 6px);
+  background: #fff; border: 1px solid #e2e8f0; border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,.12);
+  z-index: 100; max-height: 420px; overflow-y: auto;
+}
+.search-results.show { display: block; }
+.search-result {
+  display: flex; flex-direction: column; padding: 12px 16px;
+  border-bottom: 1px solid #f1f5f9; text-decoration: none; color: inherit;
+  transition: background 100ms;
+}
+.search-result:last-child { border-bottom: none; }
+.search-result:hover { background: #f8fafc; }
+.sr-meta { font-size: 10px; color: #94a3b8; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 3px; }
+.sr-title { font-size: 14px; font-weight: 700; color: #0f172a; line-height: 1.35; margin-bottom: 4px; }
+.sr-snippet { font-size: 12px; color: #64748b; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.search-result:hover .sr-title { color: #2563eb; }
+.search-empty { padding: 20px 16px; text-align: center; color: #94a3b8; font-size: 13px; }
+.search-result mark { background: #fef08a; color: inherit; border-radius: 2px; padding: 0 1px; }
 
 /* ── Empty state ── */
 .empty {
@@ -232,6 +277,151 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
   .subscribe-card { padding: 16px; }
 }
 </style>
+
+<style>
+/* ── Calendar grid ───────────────────────────────────────────────── */
+.calw { font-family: inherit; }
+
+.calw-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 4px 0 14px;
+}
+.calw-month-label { font-size: 17px; font-weight: 900; color: #0f172a; }
+.calw-btn {
+  background: #fff; border: 1px solid rgba(0,0,0,0.12); border-radius: 8px;
+  width: 30px; height: 30px; font-size: 18px; cursor: pointer; color: #475569;
+  display: flex; align-items: center; justify-content: center;
+  transition: background 120ms;
+}
+.calw-btn:hover { background: #f1f5f9; color: #0f172a; }
+
+.calw-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  border-left: 1px solid rgba(0,0,0,0.07);
+  border-top: 1px solid rgba(0,0,0,0.07);
+}
+.calw-dow {
+  text-align: center; font-size: 10px; font-weight: 700;
+  color: #94a3b8; text-transform: uppercase; letter-spacing: 0.4px;
+  padding: 0 0 8px; border: none;
+}
+.calw-cell {
+  border-right: 1px solid rgba(0,0,0,0.07);
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  padding: 4px 3px 6px;
+  min-height: 72px;
+  display: flex; flex-direction: column; align-items: stretch;
+  background: #fff;
+}
+.calw-cell.calw-past { background: #fafafa; }
+.calw-cell.calw-today { background: #eff6ff; }
+.calw-cell.calw-empty { background: #fafafa; }
+
+.calw-dn {
+  font-size: 13px; font-weight: 700; color: #475569; line-height: 1;
+  width: 24px; height: 24px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 50%; margin: 0 auto 3px; flex-shrink: 0;
+}
+.calw-cell.calw-past .calw-dn { color: #cbd5e1; }
+.calw-cell.calw-today .calw-dn { background: #2563eb; color: #fff; font-weight: 800; }
+.calw-cell.calw-sel   .calw-dn { background: #0f172a; color: #fff; font-weight: 800; }
+a.calw-dn-link { text-decoration: none; display: flex; align-items: center; justify-content: center; }
+a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
+
+/* Event chips inside cells */
+.calw-chip {
+  display: block;
+  font-size: 11px; font-weight: 600; line-height: 1.2;
+  background: #dcfce7; color: #166534;
+  border-radius: 3px; padding: 2px 5px; margin: 1px 0;
+  overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+  cursor: pointer; text-decoration: none;
+  transition: background 100ms;
+}
+.calw-chip:hover { background: #bbf7d0; }
+.calw-cell.calw-past .calw-chip { background: #f1f5f9; color: #94a3b8; }
+.calw-cell.calw-past .calw-chip:hover { background: #e2e8f0; }
+.calw-more {
+  font-size: 10px; font-weight: 700; color: #64748b;
+  padding: 1px 4px; cursor: pointer; display: block; margin-top: 1px;
+}
+.calw-more:hover { color: #16a34a; }
+.calw-cell.calw-has-ev { cursor: default; }
+
+/* Event panel below grid */
+.calw-panel {
+  margin-top: 20px;
+  border-top: 2px solid #4ade80;
+  padding-top: 14px;
+}
+.calw-panel-title {
+  font-size: 12px; font-weight: 800; text-transform: capitalize;
+  letter-spacing: 0.3px; color: #0f172a; margin-bottom: 12px;
+}
+.calw-ev-card {
+  background: #fff; border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px; padding: 12px 14px; margin-bottom: 8px;
+  color: inherit; transition: border-color 150ms, box-shadow 150ms;
+  position: relative;
+}
+.calw-ev-card:hover { border-color: #4ade80; box-shadow: 0 2px 8px rgba(74,222,128,0.12); }
+.calw-ev-title   { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
+.calw-ev-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 10px; }
+.calw-ev-footer  { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.calw-ev-source  {
+  font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
+  color: #16a34a; background: #f0fdf4; border: 1px solid #bbf7d0;
+  border-radius: 999px; padding: 2px 7px; display: inline-block;
+}
+.calw-ev-read {
+  font-size: 11px; font-weight: 700; color: #2563eb; text-decoration: none;
+  margin-left: auto;
+}
+.calw-ev-read:hover { text-decoration: underline; }
+
+/* "Add to calendar" dropdown */
+.calw-atc-wrap  { position: relative; }
+.calw-atc-btn {
+  font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
+  color: #7c3aed; background: #faf5ff; border: 1px solid #e9d5ff;
+  border-radius: 999px; padding: 3px 9px; cursor: pointer;
+  font-family: inherit; transition: background 100ms;
+}
+.calw-atc-btn:hover { background: #ede9fe; }
+.calw-atc-menu {
+  display: none; position: absolute; bottom: calc(100% + 6px); left: 0;
+  background: #fff; border: 1px solid #e2e8f0; border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0,0,0,.12); min-width: 180px; z-index: 200;
+  overflow: hidden;
+}
+.calw-atc-menu.open { display: block; }
+.calw-atc-item {
+  display: flex; align-items: center; gap: 8px;
+  padding: 9px 14px; font-size: 13px; font-weight: 600;
+  color: #0f172a; text-decoration: none;
+  transition: background 80ms;
+}
+.calw-atc-item:hover { background: #f8fafc; }
+.calw-atc-item + .calw-atc-item { border-top: 1px solid #f1f5f9; }
+
+/* Compact variant for landing page */
+.calw-compact .calw-cell   { min-height: 52px; padding: 3px 2px 4px; }
+.calw-compact .calw-dn     { font-size: 11px; width: 20px; height: 20px; margin-bottom: 2px; }
+.calw-compact .calw-chip   { font-size: 10px; padding: 1px 4px; }
+.calw-compact .calw-more   { font-size: 9px; }
+.calw-compact .calw-month-label { font-size: 14px; }
+.calw-compact .calw-btn    { width: 26px; height: 26px; font-size: 15px; }
+.calw-compact .calw-dow    { font-size: 9px; }
+
+@media (max-width: 600px) {
+  .calw-chip { font-size: 9px; padding: 1px 3px; }
+  .calw-dn   { font-size: 11px; width: 20px; height: 20px; }
+  .calw-cell { min-height: 54px; }
+}
+</style>
+
 </head>
 <body>
 
@@ -260,8 +450,8 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     </div>
   </div>
   <div class="stats-strip">
-    <div class="stat"><span class="stat-val">15</span><span class="stat-lbl">stories aujourd'hui</span></div>
-    <div class="stat"><span class="stat-val">4</span><span class="stat-lbl">sources</span></div>
+    <div class="stat"><span class="stat-val">0</span><span class="stat-lbl">stories aujourd'hui</span></div>
+    <div class="stat"><span class="stat-val">0</span><span class="stat-lbl">sources</span></div>
     <div class="stat"><span class="stat-val">24h</span><span class="stat-lbl">de couverture</span></div>
     <div class="stat"><span class="stat-val">7h</span><span class="stat-lbl">livré chaque matin</span></div>
   </div>
@@ -285,241 +475,51 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 
 <!-- News content -->
 <div class="page">
+  <div class="global-search-wrap">
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><line x1="13.5" y1="13.5" x2="18" y2="18"/></svg>
+    <input id="global-search" type="search" placeholder="Rechercher dans toutes les éditions…" autocomplete="off" spellcheck="false"/>
+    <div class="search-results" id="search-results"></div>
+  </div>
   
-    <div class="filter-bar" role="tablist" aria-label="Filtrer par catégorie">
-      <button class="filter-btn active" data-filter="all" role="tab" aria-selected="true">Tout<span class="filter-count">15</span></button>
-      
-      <button class="filter-btn" data-filter="news" role="tab" aria-selected="false">Actualité<span class="filter-count">10</span></button>
-      
-      <button class="filter-btn" data-filter="event" role="tab" aria-selected="false">Agenda<span class="filter-count">3</span></button>
-      
-      <button class="filter-btn" data-filter="place" role="tab" aria-selected="false">À découvrir<span class="filter-count">1</span></button>
-      
-      <button class="filter-btn" data-filter="culture" role="tab" aria-selected="false">Culture<span class="filter-count">1</span></button>
-      
-    </div>
-    
-    <section class="section cat-section" data-category="news">
-      <div class="sec-label">Actualité</div>
-      <h2 class="sec-title">Les infos du jour</h2>
-      <div class="news-grid">
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/un-risque-de-tornade-n-est-pas-exclu-meteo-france-place-7-departements-d-occitanie-en-vigilance-orange_64248216.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">10 mai, 10:34</span>
-          </div>
-          <h3 class="news-title">Vigilance orange orages en Haute-Garonne et six autres départements d&#39;Occitanie</h3>
-          <p class="news-summary">Météo France a placé sept départements d&#39;Occitanie en vigilance orange aux orages ce dimanche 10 mai 2026, dont la Haute-Garonne, l&#39;Ariège, l&#39;Aveyron, le Gers, les Hautes-Pyrénées, le Tarn et le Tarn-et-Garonne. La fenêtre de risque maximale est fixée entre 15h et 21h, avec des orages attendus en deux salves, la première étant la plus virulente. Les phénomènes redoutés incluent une forte activité électrique, des rafales pouvant atteindre 100 km/h localement, de fortes pluies et de la grêle de…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/sport-clap-de-fin-du-toulouse-basket-club-et-chute-du-fenix-les-resultats-sportifs-de-la-semaine-a-toulouse_64247716.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">10 mai, 14:38</span>
-          </div>
-          <h3 class="news-title">Résultats sportifs : triomphe du Stade, fin de saison pour le Basket Club</h3>
-          <p class="news-summary">Le tour d&#39;horizon sportif de la semaine à Toulouse réserve des fortunes diverses. Le Stade Toulousain a brillé à Toulon avec une large victoire bonifiée (27-51) en Top 14, même si le match fut longtemps serré. Colomiers Rugby a arraché l&#39;essentiel en Pro D2 face à Mont-de-Marsan (19-13) malgré une prestation jugée laborieuse, lors d&#39;une soirée chargée en émotion à Michel-Bendichou. Le Fenix Toulouse Handball aurait quant à lui laissé échapper ses chances européennes, tandis que le Toulouse…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://tracking.actu.fr/view?msgid=Igdb845gNwHttzMv_kVoBQ2&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Newsletter</span>
-            <span class="news-time">10 mai, 21:05</span>
-          </div>
-          <h3 class="news-title">Contenu non exploitable : e-mail de confirmation d&#39;inscription</h3>
-          <p class="news-summary">L&#39;élément transmis est un e-mail automatique d&#39;actu.fr demandant à l&#39;utilisateur de confirmer son inscription à une newsletter locale. Il ne contient aucune information journalistique, actualité locale ni événement à résumer. Aucun contenu éditorial n&#39;est présent dans cet item. Ce cluster ne peut pas faire l&#39;objet d&#39;un résumé pour le digest.</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://nl.toulouscope.fr/optiext/optiextension.dll?ID=6pfjPObRjqShgd2ugCFiF2DOuIiJX7WWX8aSwhdEsEQRcP-4rV-b5SUkNjvPXl-GC0_4wVIZnxXedCLifzI&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Newsletter</span>
-            <span class="news-time">10 mai, 21:07</span>
-          </div>
-          <h3 class="news-title">Confirmation d&#39;inscription à la newsletter Toulouscope</h3>
-          <p class="news-summary">Cet élément est un e-mail automatique de confirmation d&#39;inscription à la newsletter de Toulouscope, sans contenu éditorial. Il ne contient aucune information locale ou actualité toulousaine. Il s&#39;agit d&#39;un message technique destiné à valider une adresse e-mail via un lien de confirmation. Aucun événement, lieu ou sujet d&#39;actualité n&#39;est abordé.</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://newsletter.lessentiel.fr/proc.php?nl=12&amp;c=7597&amp;m=7761&amp;s=71cc8fa2341883463caebe98806c8455&amp;act=unsub&amp;runid=69865022&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">L&#39;Essentiel</span>
-            <span class="news-time">10 mai, 21:08</span>
-          </div>
-          <h3 class="news-title">Confirmation d&#39;inscription à la newsletter L&#39;Essentiel Toulouse</h3>
-          <p class="news-summary">L&#39;unique élément de ce groupe est un e-mail automatique de confirmation d&#39;inscription à la newsletter L&#39;Essentiel Toulouse. Il ne contient aucune information éditoriale ni actualité locale exploitable. Le contenu visible se limite à du code CSS de mise en forme et à un message de bienvenue générique. Aucun événement, fait ou sujet d&#39;actualité toulousain n&#39;est mentionné.</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://redir.ownpage.fr/v1/optin/e410a80b0fda4115a24bfdf17c97da50/eyJzIjoiYjlmMDVlZjUiLCJyZWRpciI6Imh0dHBzOi8vbGVib25ib24uZnIvdG91bG91c2UvIiwidCI6IkttNHM4a2FrYno4ZTRackZUcDdhMVEiLCJmIjoiZmFsc2UiLCJlbSI6Im5ld3NsZXR0ZXJzQGxhdmlsbGVyb3NlLmNvbSJ9?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Newsletter</span>
-            <span class="news-time">10 mai, 21:12</span>
-          </div>
-          <h3 class="news-title">Confirmation d&#39;inscription à une newsletter toulousaine</h3>
-          <p class="news-summary">Le contenu disponible correspond à un e-mail automatique de confirmation d&#39;inscription à une newsletter, sans information éditoriale exploitable. Aucun événement, actualité ou lieu n&#39;est mentionné dans l&#39;extrait fourni. Il s&#39;agit uniquement d&#39;un message technique généré par une plateforme d&#39;envoi d&#39;e-mails. Aucun contenu journalistique ne peut être résumé à partir de cette source.</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/une-grenade-decouverte-pres-du-pont-des-catalans-a-toulouse-les-demineurs-interviennent_64249210.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">10 mai, 19:14</span>
-          </div>
-          <h3 class="news-title">Une grenade fumigène découverte près du pont des Catalans, les démineurs interviennent</h3>
-          <p class="news-summary">Dimanche 10 mai 2026 vers 12h42, les pompiers ont été appelés pour un colis suspect repéré à l&#39;accès du pont des Catalans à Toulouse. Les démineurs sont intervenus et ont identifié l&#39;engin comme une grenade fumigène, sans danger immédiat pour les personnes. Un périmètre de sécurité a été instauré par la police, et la circulation au niveau du pont a été temporairement interrompue. Au total, 10 sapeurs-pompiers et trois engins ont été mobilisés ; aucune victime n&#39;est à déplorer, selon le SDIS 31.</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="mailto:bounce-md_30010842.6a00d93d.v1-14c360892ddf4095936fd6b4d7606b7a@mandrillapp.com?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Newsletter</span>
-            <span class="news-time">10 mai, 21:15</span>
-          </div>
-          <h3 class="news-title">Confirmation d&#39;abonnement à la newsletter Toulouse Secret</h3>
-          <p class="news-summary">Ce message est un e-mail automatique de confirmation d&#39;abonnement à la newsletter Toulouse Secret, envoyé par la plateforme Mailchimp. Il ne contient aucune information éditoriale ni actualité locale. Le destinataire doit cliquer sur le lien fourni pour valider son inscription à la liste. Aucun contenu journalistique n&#39;est présent dans cet élément.</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/succession-de-bouchons-entre-narbonne-et-toulouse-avec-les-retours-du-long-week-end-vos-conditions-de-circulation_64248878.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">10 mai, 17:16</span>
-          </div>
-          <h3 class="news-title">Retours du long week-end : trafic difficile vers Toulouse</h3>
-          <p class="news-summary">Le retour du long week-end du 8 mai a provoqué d&#39;importants bouchons sur les axes autoroutiers menant à Toulouse. Dès dimanche 10 mai vers 17h, l&#39;A61 entre Narbonne et Toulouse était jalonnée de ralentissements successifs — notamment à Lézignan-Corbières, Carcassonne et Castelnaudary — représentant plusieurs dizaines de kilomètres cumulés. Sur l&#39;A64, des conditions météorologiques dégradées (grêle côté Saint-Gaudens, vigilance orange orages en Haute-Garonne) ont compliqué la circulation, avec…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/vents-a-86km-h-grele-et-fortes-pluies-un-gros-orage-a-balaye-toulouse-et-son-agglomeration-les-images_64249402.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">10 mai, 21:17</span>
-          </div>
-          <h3 class="news-title">Un orage violent avec grêle et arcus spectaculaire frappe Toulouse</h3>
-          <p class="news-summary">Dans la soirée du dimanche 10 mai 2026, un orage puissant a traversé l&#39;agglomération toulousaine en environ une heure, arrivant depuis le sud-ouest et repartant vers le nord-est. Des rafales de vent ont été enregistrées à la station Météo France de Toulouse-Blagnac, les deux sources divergeant légèrement sur la valeur maximale (86 km/h selon l&#39;un, 96 km/h selon l&#39;autre). De la grêle est tombée en quantité, particulièrement à l&#39;ouest de l&#39;agglomération (Fontenilles, Seysses) ainsi que dans…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-      </div>
+    <section class="section">
+      <div class="empty">Pas encore de stories aujourd'hui — repassez plus tard.</div>
     </section>
-    
-    <section class="section cat-section" data-category="event">
-      <div class="sec-label">Agenda</div>
-      <h2 class="sec-title">Ça se passe à Toulouse</h2>
-      <div class="news-grid">
-        
-        <a class="news-card" href="https://www.toulouscope.fr/2026/05/10/a-1h-de-toulouse-ce-festival-mythique-fete-ses-30-ans-entre-tetes-daffiche-et-retour-aux-sources-13324635.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Toulouscope</span>
-            <span class="news-time">10 mai, 02:00</span>
-          </div>
-          <h3 class="news-title">Le festival Pause Guitare fête ses 30 ans près de Toulouse en juillet 2026</h3>
-          <p class="news-summary">Du 8 au 13 juillet 2026, le festival Pause Guitare célèbre son 30e anniversaire à Albi et ses environs, à environ une heure de Toulouse. Né il y a trois décennies comme une petite fête de village d&#39;une deux-centaine de personnes, l&#39;événement accueille aujourd&#39;hui près de 60 000 festivaliers, plus de 1 600 bénévoles et une programmation répartie sur une dizaine de scènes. Cette édition anniversaire est pensée comme un retour aux sources : la soirée de clôture se tiendra à Monestiés, là où tout a…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-voici-lhistoire-du-quartier-saint-aubin-ancien-faubourg-ouvrier_64229950.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Actu Toulouse</span>
-            <span class="news-time">10 mai, 15:00</span>
-          </div>
-          <h3 class="news-title">Saint-Aubin : histoire et balade urbaine dans cet ancien faubourg ouvrier</h3>
-          <p class="news-summary">Le quartier Saint-Aubin, à Toulouse, fait l&#39;objet d&#39;un article historique publié par Actu Toulouse, qui retrace son passé d&#39;ancien faubourg industrieux. Contrairement à l&#39;image de « belle endormie » souvent accolée à Toulouse, la ville s&#39;est distinguée dès le XIXe siècle dans la carrosserie hippomobile, au point d&#39;être la deuxième ville française du secteur après Paris, avec près de 200 carrossiers. Les ateliers se concentraient notamment dans les faubourgs Saint-Étienne et Saint-Aubin. À…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-fini-le-petit-dejeuner-classique-notre-selection-des-10-brunchs-pour-savourer-le-dimanche-matin-autrement_64206195.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Toulouscope</span>
-            <span class="news-time">10 mai, 07:32</span>
-          </div>
-          <h3 class="news-title">Le brunch à Toulouse : sélection d&#39;adresses et festival du long week-end</h3>
-          <p class="news-summary">Le brunch s&#39;est solidement implanté à Toulouse, avec des files d&#39;attente chaque week-end et une offre en constante expansion dans la Ville rose. Actu Toulouse propose une sélection de dix adresses incontournables, dont Les Trois Sœurs quai de la Daurade et Sista Place près des allées Jean Jaurès, avec des formules allant de 16,90 € à 27,50 €. Par ailleurs, le restaurant Barricot - Mercure Toulouse Centre Compans organise la 3e édition de son Festival du Brunch du 14 au 17 mai 2026, profitant du…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-      </div>
-    </section>
-    
-    <section class="section cat-section" data-category="place">
-      <div class="sec-label">À découvrir</div>
-      <h2 class="sec-title">Lieux, ouvertures, bonnes adresses</h2>
-      <div class="news-grid">
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/je-voulais-vraiment-vendre-un-produit-unique-croissants-flans-tiramisus-le-boom-des-bars-a-concept-a-toulouse_64240322.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-place">Actu Toulouse</span>
-            <span class="news-time">10 mai, 13:16</span>
-          </div>
-          <h3 class="news-title">Le boom des bars à concept à Toulouse : focus sur Palais Mahina</h3>
-          <p class="news-summary">Depuis quelques années, les bars à concept — établissements dédiés à un seul produit — se multiplient à Toulouse avec succès. Parmi les derniers en date, Palais Mahina a ouvert le 30 mars 2026 Grande-Rue Saint-Michel, porté par deux anciens collègues de bureau, Sabrina (Ina) et Alkmar. L&#39;enseigne propose exclusivement des croissants sucrés ou salés à 8,90 €, garnis de produits frais et locaux, confectionnés à partir de pièces de la boulangerie Saint-Criq. Le nom de l&#39;établissement mêle…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-      </div>
-    </section>
-    
-    <section class="section cat-section" data-category="culture">
-      <div class="sec-label">Culture</div>
-      <h2 class="sec-title">Sorties culturelles</h2>
-      <div class="news-grid">
-        
-        <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/quel-est-cet-etonnant-clin-d-oeil-a-toulouse-dans-la-nouvelle-serie-malcolm-sur-disney_64192431.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-culture">Actu Toulouse</span>
-            <span class="news-time">10 mai, 10:32</span>
-          </div>
-          <h3 class="news-title">La nouvelle série Malcolm sur Disney+ cache un clin d&#39;œil à Toulouse</h3>
-          <p class="news-summary">La suite de la série culte « Malcolm », intitulée « Rien n&#39;a changé » et diffusée sur Disney+ depuis le 10 avril 2026, contient une référence discrète à Toulouse. Au 4e épisode, à 19:34, on aperçoit en arrière-plan les immeubles en brique rose de la rue Victor-Hugo, vus depuis le parking du marché couvert. C&#39;est le compte Facebook Malcolm France qui a identifié et confirmé le lieu en superposant une photo prise au même endroit. Les raisons de ce clin d&#39;œil restent floues : rien n&#39;est…</p>
-          <div class="news-cta">Lire l'article →</div>
-        </a>
-        
-      </div>
-    </section>
-    
   
 </div>
 
+<!-- Calendar widget: upcoming events with structured dates -->
+
+
 <!-- Archive navigation -->
 
-<div class="page" style="padding: 24px 24px 0;">
+<div class="page" style="padding: 24px 24px 48px; text-align: center;">
   
   <a href="/" class="arc-btn" style="margin-bottom:12px;">← Aujourd'hui</a>
   
   
   <div style="margin-top:8px;">
     <div class="sec-label" style="margin-bottom:8px;">Éditions précédentes</div>
-    <div style="display:flex;flex-wrap:wrap;gap:6px;">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;justify-content:center;">
       
-      <a href="/archive/2026-05-16.html" class="arc-btn">16 mai</a>
+        
+        <a href="/archive/2026-05-11.html" class="arc-btn">11 mai</a>
+        
       
-      <a href="/archive/2026-05-15.html" class="arc-btn">15 mai</a>
+        
+        <span class="arc-btn arc-btn-current">10 mai</span>
+        
       
-      <a href="/archive/2026-05-14.html" class="arc-btn">14 mai</a>
+        
+        <a href="/archive/2026-05-09.html" class="arc-btn">9 mai</a>
+        
       
-      <a href="/archive/2026-05-13.html" class="arc-btn">13 mai</a>
+        
+        <span style="color:#94a3b8;font-size:14px;font-weight:700;padding:0 4px;">…</span>
+        
       
-      <a href="/archive/2026-05-12.html" class="arc-btn">12 mai</a>
-      
-      <a href="/archive/2026-05-11.html" class="arc-btn">11 mai</a>
-      
-      <a href="/archive/2026-05-10.html" class="arc-btn">10 mai</a>
-      
-      <a href="/archive/2026-05-09.html" class="arc-btn">9 mai</a>
-      
-      <a href="/archive/2026-05-08.html" class="arc-btn">8 mai</a>
-      
-      <a href="/archive/2026-05-07.html" class="arc-btn">7 mai</a>
-      
-      <a href="/archive/2026-05-06.html" class="arc-btn">6 mai</a>
-      
-      <a href="/archive/2026-05-05.html" class="arc-btn">5 mai</a>
-      
-      <a href="/archive/2026-05-04.html" class="arc-btn">4 mai</a>
+        
+        <a href="/archive/2026-05-04.html" class="arc-btn">4 mai</a>
+        
       
     </div>
   </div>
@@ -610,6 +610,89 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
         s.style.display = show ? '' : 'none';
       });
     });
+  });
+})();
+
+(function () {
+  const input = document.getElementById('global-search');
+  const panel = document.getElementById('search-results');
+  if (!input || !panel) return;
+
+  let index = null;
+  let loading = false;
+
+  function loadIndex() {
+    if (index !== null || loading) return;
+    loading = true;
+    fetch('/search-index.json')
+      .then(r => r.json())
+      .then(data => { index = data; if (input.value.trim().length >= 2) doSearch(input.value.trim()); })
+      .catch(() => { index = []; });
+  }
+
+  function highlight(text, q) {
+    if (!text) return '';
+    const i = text.toLowerCase().indexOf(q.toLowerCase());
+    if (i < 0) return text.slice(0, 120) + (text.length > 120 ? '…' : '');
+    const start = Math.max(0, i - 40);
+    const end = Math.min(text.length, i + q.length + 80);
+    let s = start > 0 ? '…' : '';
+    s += escHtml(text.slice(start, i)) + '<mark>' + escHtml(text.slice(i, i + q.length)) + '</mark>' + escHtml(text.slice(i + q.length, end));
+    if (end < text.length) s += '…';
+    return s;
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function formatDate(iso) {
+    if (!iso) return '';
+    const [y, m, d] = iso.split('-').map(Number);
+    const months = ['jan','fév','mar','avr','mai','juin','juil','août','sep','oct','nov','déc'];
+    return d + ' ' + months[m - 1] + (y !== new Date().getFullYear() ? ' ' + y : '');
+  }
+
+  function doSearch(q) {
+    if (!index) { loadIndex(); return; }
+    if (q.length < 2) { panel.classList.remove('show'); return; }
+    const ql = q.toLowerCase();
+    const matches = index.filter(a =>
+      (a.title || '').toLowerCase().includes(ql) ||
+      (a.summary || '').toLowerCase().includes(ql)
+    ).slice(0, 12);
+    if (!matches.length) {
+      panel.innerHTML = '<div class="search-empty">Aucun résultat pour « ' + escHtml(q) + ' »</div>';
+    } else {
+      panel.innerHTML = matches.map(a => {
+        const snap = highlight(a.summary || a.title, q);
+        const d = formatDate(a.date);
+        const meta = [d, a.source].filter(Boolean).join(' · ');
+        return '<a class="search-result" href="' + escHtml(a.url) + '" target="_blank" rel="noopener">' +
+          '<div class="sr-meta">' + escHtml(meta) + '</div>' +
+          '<div class="sr-title">' + escHtml(a.title) + '</div>' +
+          '<div class="sr-snippet">' + snap + '</div>' +
+          '</a>';
+      }).join('');
+    }
+    panel.classList.add('show');
+  }
+
+  input.addEventListener('focus', loadIndex);
+  input.addEventListener('input', () => {
+    const q = input.value.trim();
+    if (!q) { panel.classList.remove('show'); return; }
+    doSearch(q);
+  });
+
+  document.addEventListener('click', e => {
+    if (!input.contains(e.target) && !panel.contains(e.target)) {
+      panel.classList.remove('show');
+    }
+  });
+
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Escape') { panel.classList.remove('show'); input.blur(); }
   });
 })();
 </script>
