@@ -74,6 +74,8 @@ _FONT_REGULAR_PATHS = [
 ]
 
 REQUEST_TIMEOUT_S = 10
+_FAVICON_PATH = Path(__file__).parent.parent / "assets" / "favicon.png"
+_favicon_cache: dict = {}
 
 
 # ---------------------------------------------------------------------------
@@ -212,13 +214,21 @@ def _draw_pill_box_centered(draw, W: int, top_y: int, lines: list[str], font,
     return by2
 
 
-def _draw_brand_mark(draw, cx: int, cy: int, radius: int = 44):
-    """Small filled circle with 'LVR' label — top-right watermark."""
-    draw.ellipse([cx - radius, cy - radius, cx + radius, cy + radius], fill=COL_BG)
-    font = _load_font(radius // 2, bold=True)
-    b = draw.textbbox((0, 0), "LVR", font=font)
-    draw.text((cx - (b[2] - b[0]) // 2, cy - (b[3] - b[1]) // 2), "LVR",
-              font=font, fill=COL_GREEN)
+def _paste_favicon(base, x: int, y: int, size: int = 64):
+    """Paste the favicon as a circle-masked image at (x, y) top-left."""
+    from PIL import Image, ImageDraw as _ID
+    key = size
+    if key not in _favicon_cache:
+        try:
+            img = Image.open(str(_FAVICON_PATH)).convert("RGBA").resize((size, size), Image.LANCZOS)
+            mask = Image.new("L", (size, size), 0)
+            _ID.Draw(mask).ellipse([0, 0, size - 1, size - 1], fill=255)
+            _favicon_cache[key] = (img, mask)
+        except Exception:
+            _favicon_cache[key] = None
+    entry = _favicon_cache[key]
+    if entry:
+        base.paste(entry[0], (x, y), entry[1])
 
 
 def _wrap_text(text: str, font, max_width: int, draw) -> list[str]:
@@ -253,9 +263,13 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     # subtle full-image darken so pill boxes read clearly
-    base = _apply_gradient(base, 0, H, start_alpha=40, end_alpha=60)
+    base = _apply_gradient(base, int(H * 0.62), H, start_alpha=0, end_alpha=210)
 
     draw = ImageDraw.Draw(base)
+
+    # favicon top-right
+    FSIZE = 68
+    _paste_favicon(base, W - 52 - FSIZE, 48, size=FSIZE)
 
     f_title   = _load_font(52, bold=True)
     f_summary = _load_font(38)
@@ -264,7 +278,6 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
 
     title   = cluster.get("title", "")
     summary = cluster.get("summary", "")
-    # First sentence only for bottom box
     first_sentence = (summary.split(". ")[0].rstrip(".") + ".") if summary else ""
 
     # ── TOP PILL BOX (hook / title) ──
@@ -274,8 +287,8 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
 
     # ── CTA PILL (centre) ──
     cat_raw = cluster.get("category", "place")
-    cta_labels = {"event": "AGENDA", "place": "A DECOUVRIR", "culture": "CULTURE & PATRIMOINE"}
-    cta_text = cta_labels.get(cat_raw, "DECOUVRIR")
+    cta_labels = {"event": "AGENDA", "place": "À DÉCOUVRIR", "culture": "CULTURE"}
+    cta_text = cta_labels.get(cat_raw, "DÉCOUVRIR")
     cta_bg   = COL_GREEN if cat_raw != "event" else COL_PINK
     cta_font = f_cta
     b = draw.textbbox((0, 0), cta_text, font=cta_font)
@@ -315,7 +328,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     photo = _download_image(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
-    base = _apply_gradient(base, int(H * 0.35), H, start_alpha=0, end_alpha=220)
+    base = _apply_gradient(base, int(H * 0.62), H, start_alpha=0, end_alpha=220)
 
     draw = ImageDraw.Draw(base)
 
@@ -324,8 +337,9 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     f_sub   = _load_font(23)
     f_tiny  = _load_font(17)
 
-    # brand mark top-right
-    _draw_brand_mark(draw, W - PAD - 20, 60, radius=34)
+    # favicon top-right
+    FSIZE = 60
+    _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
     # measure bottom text block height to anchor correctly
     segs      = _segment_title(cluster.get("title", ""))
@@ -400,25 +414,21 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
         photo = _download_image(backdrop_url)
         if photo:
             base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
-    base = _apply_gradient(base, 0,          int(H * 0.35), start_alpha=80,  end_alpha=0)
-    base = _apply_gradient(base, int(H * 0.4), H,           start_alpha=0,   end_alpha=210)
+    base = _apply_gradient(base, 0,            int(H * 0.25), start_alpha=100, end_alpha=0)
+    base = _apply_gradient(base, int(H * 0.55), H,           start_alpha=0,   end_alpha=215)
 
     draw = ImageDraw.Draw(base)
 
-    f_brand  = _load_font(26, bold=True)
+    # favicon top-right
+    FSIZE = 64
+    _paste_favicon(base, W - 52 - FSIZE, 44, size=FSIZE)
+
     f_title  = _load_font(62, bold=True)
     f_date   = _load_font(36, bold=True)
     f_tiny   = _load_font(18)
 
-    # brand mark centred top
-    b = draw.textbbox((0, 0), "LVR", font=f_brand)
-    bw, bh = b[2] - b[0] + 36, b[3] - b[1] + 20
-    bx = (W - bw) // 2
-    draw.rounded_rectangle([bx, 48, bx + bw, 48 + bh], radius=bh // 2, fill=COL_PINK)
-    draw.text((bx + 18, 48 + 10), "LVR", font=f_brand, fill=COL_WHITE)
-
     # main title
-    title_lines = ["Que faire ce", "week-end a", "Toulouse ?"]
+    title_lines = ["Que faire ce", "week-end à", "Toulouse ?"]
     f_t = f_title
     lh  = draw.textbbox((0, 0), "A", font=f_t)[3]
     title_total_h = len(title_lines) * (lh + 8)
@@ -432,6 +442,7 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
         # "Toulouse" in pink
         if "Toulouse" in line:
             before, after = line.split("Toulouse", 1)
+            # centre the whole line first
             x = (W - lw) // 2
             if before:
                 draw.text((x, y), before, font=f_t, fill=COL_WHITE)
@@ -486,9 +497,13 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     photo = _download_image(event.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
-    base = _apply_gradient(base, int(H * 0.32), H, start_alpha=0, end_alpha=225)
+    base = _apply_gradient(base, int(H * 0.60), H, start_alpha=0, end_alpha=225)
 
     draw = ImageDraw.Draw(base)
+
+    # favicon top-right
+    FSIZE = 56
+    _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
     f_num   = _load_font(28, bold=True)
     f_title = _load_font(48, bold=True)
