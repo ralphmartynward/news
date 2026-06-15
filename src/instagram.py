@@ -10,8 +10,7 @@ from __future__ import annotations
 
 import io
 import json
-import textwrap
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -26,12 +25,14 @@ POST_W, POST_H   = 1080, 1080
 
 COL_BG        = (15,  23,  42)       # #0f172a
 COL_GREEN     = (74, 222, 128)       # #4ade80
+COL_PINK      = (244, 114, 182)      # #f472b6
 COL_WHITE     = (255, 255, 255)
-COL_MUTED     = (255, 255, 255, 150) # semi-transparent white
 COL_DARK_TEXT = (15,  23,  42)
-COL_OVERLAY   = (15,  23,  42, 200)
 
 SITE_LABEL = "news.lavillerose.com"
+
+FRENCH_MONTHS = ["janvier","fevrier","mars","avril","mai","juin",
+                 "juillet","aout","septembre","octobre","novembre","decembre"]
 
 SOURCE_LABELS: dict[str, str] = {
     "lessentiel":     "L'Essentiel",
@@ -158,144 +159,137 @@ def _wrap_text(text: str, font, max_width: int, draw) -> list[str]:
     return lines
 
 
-def _text_block_height(lines: list[str], font, line_spacing: int = 8, draw=None) -> int:
-    if not lines:
-        return 0
-    sample = draw.textbbox((0, 0), lines[0], font=font) if draw else (0, 0, 0, 30)
-    lh = sample[3] - sample[1]
-    return len(lines) * lh + (len(lines) - 1) * line_spacing
+def _french_date(iso_date: str) -> str:
+    """'2026-06-20' -> '20 juin 2026'"""
+    try:
+        d = date.fromisoformat(iso_date)
+        return f"{d.day} {FRENCH_MONTHS[d.month - 1]} {d.year}"
+    except Exception:
+        return ""
+
+
+def _subtitle(cluster: dict[str, Any]) -> str:
+    """Build the small subtitle line: date + location."""
+    parts = []
+    ev = _french_date(cluster.get("event_start") or "")
+    if ev:
+        parts.append(ev)
+    parts.append("Toulouse")
+    return "  ·  ".join(parts)
 
 
 # ---------------------------------------------------------------------------
-# Template renderers
+# Template renderers — full-bleed photo, text overlaid at bottom
 # ---------------------------------------------------------------------------
 
-def _render_story(cluster: dict[str, Any]) -> "Image":
-    """1080×1920 story image."""
+def _render_post(cluster: dict[str, Any]) -> "Image":
+    """1080×1080 square post. Photo fills full frame, gradient at bottom 45%."""
     from PIL import Image, ImageDraw
 
-    W, H = STORY_W, STORY_H
-    TEXT_X = 64
-    TEXT_W = W - TEXT_X * 2
+    W, H = POST_W, POST_H
+    PAD   = 52
+    TEXT_W = W - PAD * 2
 
-    # Base layer
-    base = Image.new("RGB", (W, H), COL_BG)
-
-    # Article image fills top square (1080×1080)
+    # --- background + photo ---
+    base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
     photo = _download_image(cluster.get("image_url"))
     if photo:
-        photo = _cover_crop(photo, W, W)
-        base.paste(photo, (0, 0))
-        base = base.convert("RGBA")
-        base = _apply_gradient(base, W // 2, W, start_alpha=0, end_alpha=240)
-        base = _apply_gradient(base, W, H, start_alpha=240, end_alpha=240)
-    else:
-        base = base.convert("RGBA")
+        base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
+
+    # gradient: transparent from 40% down to solid at bottom
+    base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=215)
 
     draw = ImageDraw.Draw(base)
 
-    # Fonts
-    f_source  = _load_font(26, bold=True)
-    f_title   = _load_font(54, bold=True)
-    f_summary = _load_font(30)
-    f_tiny    = _load_font(22)
+    f_badge = _load_font(22, bold=True)
+    f_title = _load_font(52, bold=True)
+    f_sub   = _load_font(24)
+    f_tiny  = _load_font(17)
 
-    y = W + 60  # start below image
-
-    # Source + category badges
+    # --- top-right source badge ---
     source_label = SOURCE_LABELS.get(cluster.get("source", ""), cluster.get("source", ""))
-    cat_label    = CATEGORY_LABELS.get(cluster.get("category", ""), "")
-    rx = _draw_pill(draw, TEXT_X, y, source_label, f_source, bg=COL_GREEN, fg=COL_DARK_TEXT)
-    if cat_label:
-        _draw_pill(draw, rx + 12, y, cat_label, f_source,
-                   bg=(255, 255, 255, 30), fg=(255, 255, 255, 200))
-    y += 66
+    badge_bg = COL_GREEN if cluster.get("category") != "event" else COL_PINK
+    bbox_b   = draw.textbbox((0, 0), source_label, font=f_badge)
+    pill_w   = (bbox_b[2] - bbox_b[0]) + 16 * 2
+    draw2    = draw
+    _draw_pill(draw2, W - PAD - pill_w, 44, source_label, f_badge,
+               bg=badge_bg, fg=COL_DARK_TEXT, pad_x=16, pad_h=8)
 
-    # Title
-    title = cluster.get("title", "")
-    title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:4]
+    # --- title (bottom area) ---
+    title_lines = _wrap_text(cluster.get("title", ""), f_title, TEXT_W, draw2)[:3]
+    # measure total title block height to anchor from bottom
+    lh = draw2.textbbox((0, 0), title_lines[0] if title_lines else "A", font=f_title)
+    line_h = lh[3] - lh[1]
+    sub_h  = draw2.textbbox((0, 0), "A", font=f_sub)[3]
+    site_h = draw2.textbbox((0, 0), "A", font=f_tiny)[3]
+    total_h = len(title_lines) * (line_h + 10) + 18 + sub_h + 16 + site_h
+    y = H - PAD - total_h
+
     for line in title_lines:
-        draw.text((TEXT_X, y), line, font=f_title, fill=COL_WHITE)
-        bbox = draw.textbbox((TEXT_X, y), line, font=f_title)
-        y += (bbox[3] - bbox[1]) + 12
-    y += 24
+        draw2.text((PAD, y), line, font=f_title, fill=COL_WHITE)
+        y += line_h + 10
+    y += 8
 
-    # Summary (2 lines max)
-    summary = cluster.get("summary", "")[:300]
-    sum_lines = _wrap_text(summary, f_summary, TEXT_W, draw)[:3]
-    for line in sum_lines:
-        draw.text((TEXT_X, y), line, font=f_summary, fill=(255, 255, 255, 170))
-        bbox = draw.textbbox((TEXT_X, y), line, font=f_summary)
-        y += (bbox[3] - bbox[1]) + 8
+    # subtitle: date · Toulouse
+    sub = _subtitle(cluster)
+    draw2.text((PAD, y), sub, font=f_sub, fill=(255, 255, 255, 170))
+    y += sub_h + 16
 
-    # Footer
-    footer_y = H - 72
-    draw.line([(TEXT_X, footer_y - 20), (W - TEXT_X, footer_y - 20)], fill=(255, 255, 255, 40), width=1)
-    draw.text((TEXT_X, footer_y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 100))
-    date_str = datetime.now(timezone.utc).strftime("%d %b %Y").lstrip("0")
-    draw.text((W - TEXT_X, footer_y), date_str, font=f_tiny, fill=(255, 255, 255, 100), anchor="ra")
+    # watermark
+    draw2.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 80))
 
     return base.convert("RGB")
 
 
-def _render_post(cluster: dict[str, Any]) -> "Image":
-    """1080×1080 square post image."""
+def _render_story(cluster: dict[str, Any]) -> "Image":
+    """1080×1920 story. Photo fills full frame, text overlaid bottom third."""
     from PIL import Image, ImageDraw
 
-    W, H = POST_W, POST_H
-    IMAGE_H = 520  # top photo area
-    TEXT_X = 56
-    TEXT_W = W - TEXT_X * 2
+    W, H = STORY_W, STORY_H
+    PAD   = 64
+    TEXT_W = W - PAD * 2
 
-    base = Image.new("RGB", (W, H), COL_BG)
-
+    base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
     photo = _download_image(cluster.get("image_url"))
     if photo:
-        photo = _cover_crop(photo, W, IMAGE_H)
-        base.paste(photo, (0, 0))
-        base = base.convert("RGBA")
-        base = _apply_gradient(base, IMAGE_H // 2, IMAGE_H + 40, start_alpha=0, end_alpha=230)
-        base = _apply_gradient(base, IMAGE_H + 40, H, start_alpha=230, end_alpha=230)
-    else:
-        base = base.convert("RGBA")
+        base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
+
+    # gradient: bottom 45%
+    base = _apply_gradient(base, int(H * 0.45), H, start_alpha=0, end_alpha=225)
 
     draw = ImageDraw.Draw(base)
 
-    f_source  = _load_font(24, bold=True)
-    f_title   = _load_font(46, bold=True)
-    f_summary = _load_font(26)
-    f_tiny    = _load_font(20)
+    f_badge = _load_font(24, bold=True)
+    f_title = _load_font(62, bold=True)
+    f_sub   = _load_font(28)
+    f_tiny  = _load_font(20)
 
-    y = IMAGE_H + 36
-
+    # top-right source badge
     source_label = SOURCE_LABELS.get(cluster.get("source", ""), cluster.get("source", ""))
-    cat_label    = CATEGORY_LABELS.get(cluster.get("category", ""), "")
-    rx = _draw_pill(draw, TEXT_X, y, source_label, f_source, bg=COL_GREEN, fg=COL_DARK_TEXT)
-    if cat_label:
-        _draw_pill(draw, rx + 12, y, cat_label, f_source,
-                   bg=(255, 255, 255, 30), fg=(255, 255, 255, 200))
-    y += 58
+    badge_bg = COL_GREEN if cluster.get("category") != "event" else COL_PINK
+    bbox_b   = draw.textbbox((0, 0), source_label, font=f_badge)
+    pill_w   = (bbox_b[2] - bbox_b[0]) + 18 * 2
+    _draw_pill(draw, W - PAD - pill_w, 56, source_label, f_badge,
+               bg=badge_bg, fg=COL_DARK_TEXT, pad_x=18, pad_h=10)
 
-    title = cluster.get("title", "")
-    title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:3]
+    # title anchored from bottom
+    title_lines = _wrap_text(cluster.get("title", ""), f_title, TEXT_W, draw)[:4]
+    lh     = draw.textbbox((0, 0), title_lines[0] if title_lines else "A", font=f_title)[3]
+    sub_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
+    site_h = draw.textbbox((0, 0), "A", font=f_tiny)[3]
+    total_h = len(title_lines) * (lh + 14) + 22 + sub_h + 20 + site_h
+    y = H - PAD - total_h
+
     for line in title_lines:
-        draw.text((TEXT_X, y), line, font=f_title, fill=COL_WHITE)
-        bbox = draw.textbbox((TEXT_X, y), line, font=f_title)
-        y += (bbox[3] - bbox[1]) + 10
-    y += 20
+        draw.text((PAD, y), line, font=f_title, fill=COL_WHITE)
+        y += lh + 14
+    y += 10
 
-    summary = cluster.get("summary", "")[:200]
-    sum_lines = _wrap_text(summary, f_summary, TEXT_W, draw)[:2]
-    for line in sum_lines:
-        draw.text((TEXT_X, y), line, font=f_summary, fill=(255, 255, 255, 160))
-        bbox = draw.textbbox((TEXT_X, y), line, font=f_summary)
-        y += (bbox[3] - bbox[1]) + 6
+    sub = _subtitle(cluster)
+    draw.text((PAD, y), sub, font=f_sub, fill=(255, 255, 255, 170))
+    y += sub_h + 20
 
-    footer_y = H - 52
-    draw.line([(TEXT_X, footer_y - 16), (W - TEXT_X, footer_y - 16)], fill=(255, 255, 255, 40), width=1)
-    draw.text((TEXT_X, footer_y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 100))
-    date_str = datetime.now(timezone.utc).strftime("%d %b %Y").lstrip("0")
-    draw.text((W - TEXT_X, footer_y), date_str, font=f_tiny, fill=(255, 255, 255, 100), anchor="ra")
+    draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 80))
 
     return base.convert("RGB")
 
