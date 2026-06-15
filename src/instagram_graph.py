@@ -45,7 +45,6 @@ def create_image_container(ig_user_id: str, token: str, image_url: str, caption:
         token,
         image_url=image_url,
         caption=caption,
-        media_type="IMAGE",
     )
     return result["id"]
 

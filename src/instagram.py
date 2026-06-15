@@ -323,7 +323,7 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
         cid     = cl["cluster_id"]
         source  = cl.get("source") or "unknown"
         fmt     = _format_for(source)
-        filename = f"{cid}_{fmt}.png"
+        filename = f"{cid}_{fmt}.jpg"
         out_path = out_dir / filename
 
         try:
@@ -331,7 +331,7 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
                 img = _render_story(cl)
             else:
                 img = _render_post(cl)
-            img.save(str(out_path), "PNG", optimize=True)
+            img.save(str(out_path), "JPEG", quality=90)
             print(f"  instagram: {filename} [{cl.get('category')}] {cl['title'][:50]}")
             manifest.append({
                 "cluster_id": cid,
