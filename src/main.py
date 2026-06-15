@@ -20,6 +20,7 @@ ARCHIVE_DIR = Path("docs/archive")
 CALENDAR_OUTPUT = Path("docs/calendar.html")
 CALENDAR_ICS_OUTPUT = Path("docs/calendar.ics")
 SITEMAP_OUTPUT = Path("docs/sitemap.xml")
+INSTAGRAM_DIR = Path("docs/instagram")
 CACHE_PATH = Path("data/items_seen.db")
 SITE_BASE = "https://news.lavillerose.com"
 
@@ -302,6 +303,14 @@ def main() -> None:
                 _synthesise_clusters(conn, touched)
             else:
                 print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
+            # Generate Instagram images for today's non-news clusters
+            try:
+                from src.instagram import run as instagram_run
+                today_slug = datetime.now(PARIS).date().isoformat()
+                instagram_run(conn, INSTAGRAM_DIR / today_slug)
+            except Exception as _ig_err:
+                print(f"instagram: FAILED — {type(_ig_err).__name__}: {_ig_err}", file=sys.stderr)
+
             entries = _entries_from_cache(conn)
             # Email only clusters not yet emailed (prevents old content resurfacing)
             email_cluster_ids = set(cache_mod.clusters_to_email(conn))

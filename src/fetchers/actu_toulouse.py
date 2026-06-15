@@ -72,6 +72,7 @@ def fetch(within_hours: int = 24) -> list[dict[str, Any]]:
             continue
         md = trafilatura.extract_metadata(html)
         title = (md.title if md and md.title else "").strip()
+        image_url = (md.image or None) if md else None
         items.append(
             {
                 "source": "actu_toulouse",
@@ -82,6 +83,7 @@ def fetch(within_hours: int = 24) -> list[dict[str, Any]]:
                 "extracted_text": text,
                 "item_type": "news",
                 "event_date": None,
+                "image_url": image_url,
                 "metadata": {},
             }
         )

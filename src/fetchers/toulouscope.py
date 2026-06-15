@@ -70,6 +70,7 @@ def fetch(within_hours: int | None = None) -> list[dict[str, Any]]:
         title = (md.title if md and md.title else "").strip()
         if not title:
             continue
+        image_url = (md.image or None) if md else None
         # Prefer trafilatura's parsed date (often more precise than URL day);
         # fall back to URL-encoded date.
         published_at = url_date
@@ -88,6 +89,7 @@ def fetch(within_hours: int | None = None) -> list[dict[str, Any]]:
                 "extracted_text": text,
                 "item_type": "place",
                 "event_date": None,
+                "image_url": image_url,
                 "metadata": {},
             }
         )

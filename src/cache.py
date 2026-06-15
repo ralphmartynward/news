@@ -21,7 +21,8 @@ CREATE TABLE IF NOT EXISTS items (
     embedding BLOB NOT NULL,
     cluster_id TEXT NOT NULL,
     seen_at TEXT NOT NULL,
-    shown_in_feed INTEGER NOT NULL DEFAULT 0
+    shown_in_feed INTEGER NOT NULL DEFAULT 0,
+    image_url TEXT
 );
 CREATE INDEX IF NOT EXISTS idx_seen_at ON items(seen_at);
 CREATE INDEX IF NOT EXISTS idx_cluster_id ON items(cluster_id);
@@ -46,6 +47,7 @@ MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN event_end TEXT",
     "ALTER TABLE clusters ADD COLUMN event_name TEXT",
     "ALTER TABLE clusters ADD COLUMN primary_url TEXT",
+    "ALTER TABLE items ADD COLUMN image_url TEXT",
 ]
 
 
@@ -121,6 +123,7 @@ def prune(conn: sqlite3.Connection, *, days: int = RETENTION_DAYS) -> int:
 
 
 def _row_to_item(r: sqlite3.Row) -> dict[str, Any]:
+    keys = r.keys()
     return {
         "url": r["url"],
         "source": r["source"],
@@ -133,6 +136,7 @@ def _row_to_item(r: sqlite3.Row) -> dict[str, Any]:
         "cluster_id": r["cluster_id"],
         "seen_at": r["seen_at"],
         "shown_in_feed": bool(r["shown_in_feed"]),
+        "image_url": r["image_url"] if "image_url" in keys else None,
     }
 
 
@@ -258,13 +262,14 @@ def upsert(conn: sqlite3.Connection, items: Iterable[dict[str, Any]]) -> None:
                 it["cluster_id"],
                 it.get("seen_at", now),
                 int(it.get("shown_in_feed", False)),
+                it.get("image_url"),
             )
         )
     conn.executemany(
         "INSERT OR REPLACE INTO items "
         "(url, source, title, published_at, item_type, summary, extracted_text, "
-        "embedding, cluster_id, seen_at, shown_in_feed) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "embedding, cluster_id, seen_at, shown_in_feed, image_url) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         rows,
     )
     conn.commit()
@@ -373,6 +378,30 @@ def load_calendar_events(conn: sqlite3.Connection) -> list[dict[str, Any]]:
            FROM clusters c
            WHERE c.category = 'event' AND c.event_start IS NOT NULL
            ORDER BY c.event_start"""
+    ).fetchall()
+    return [dict(r) for r in rows]
+
+
+def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[dict[str, Any]]:
+    """Clusters synthesised since `since_iso` (ISO datetime) with category != 'news'.
+
+    Returns each cluster with its primary source and image_url pulled from items.
+    """
+    rows = conn.execute(
+        """SELECT c.cluster_id, c.title, c.summary, c.category,
+                  COALESCE(c.primary_url,
+                    (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
+                  ) AS url,
+                  (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source,
+                  (SELECT image_url FROM items
+                   WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
+                   ORDER BY published_at LIMIT 1) AS image_url
+           FROM clusters c
+           WHERE c.category != 'news'
+             AND c.category IS NOT NULL
+             AND c.last_synthesised_at >= ?
+           ORDER BY c.last_synthesised_at DESC""",
+        (since_iso,),
     ).fetchall()
     return [dict(r) for r in rows]
 
