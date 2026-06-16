@@ -2047,19 +2047,19 @@ UID:cluster:6909249c-b383-4f23-9c37-4922fd5b30e0@news.lavillerose.com
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260615
 SUMMARY:Rio Loco 2026
-DESCRIPTION:La 31e édition du festival Rio Loco se tient du 10 au 14 juin 
- 2026 à la prairie des Filtres\, sur le thème « Insulae » — les musiq
- ues des îles du monde entier. La soirée d'ouverture du mercredi 10 juin 
- a notamment proposé un hommage à Cesária Évora avec le Cesaria Evora O
- rchestra et plusieurs invités capverdiens\, ainsi qu'une rencontre inédi
- te entre le groupe réunionnais Lindigo Family et la chanteuse japonaise A
- nna Sato. Le reste du programme inclut Morcheeba (jeudi)\, Roberto Fonseca
-  (vendredi)\,\n\nSource\: https://actu.fr/occitanie/toulouse_31555/toulous
- e-rio-loco-ouvre-son-edition-2026-avec-un-hommage-a-cesaria-evora_64346748
- .html
-URL:https://actu.fr/occitanie/toulouse_31555/toulouse-rio-loco-ouvre-son-ed
- ition-2026-avec-un-hommage-a-cesaria-evora_64346748.html?utm_source=ical&u
- tm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:La 31e édition du festival Rio Loco\, placée sous le thème 
+ « Insulae » (musiques des îles)\, s'est tenue du 10 au 14 juin 2026 sur
+  la prairie des Filtres à Toulouse\, attirant plus de 100 000 festivalier
+ s. Au programme : des concerts éclectiques alliant reggae (Ky-Mani Marley
+ )\, trip-hop (Morcheeba)\, jazz cubain (Roberto Fonseca)\, chanson (Imany)
+  et un hommage émouvant à Cesaria Evora\, ainsi que DJ sets\, spectacles
+  familiaux et parcours d'arts visuels. Le festival\, porté par Le Metronu
+ m\, est reconnu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/progr
+ amme-transports-interdictions-tout-savoir-sur-le-festival-rio-loco-qui-deb
+ ute-a-toulouse_64375591.html
+URL:https://actu.fr/occitanie/toulouse_31555/programme-transports-interdict
+ ions-tout-savoir-sur-le-festival-rio-loco-qui-debute-a-toulouse_64375591.h
+ tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:880d4237-e423-4ca6-8aec-4778af523954@news.lavillerose.com
@@ -2152,17 +2152,17 @@ BEGIN:VEVENT
 UID:cluster:bc334310-e62d-4e37-a33e-f0ac15ce73b1@news.lavillerose.com
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260720
-SUMMARY:Fan Zone Coupe du Monde
-DESCRIPTION:La mairie de Toulouse a officialisé le 11 juin 2026 la créati
- on d'une fan zone sur le parvis du Stadium de Toulouse pour la Coupe du mo
- nde de football. D'une capacité de 18 000 personnes\, elle ouvrira ses po
- rtes à partir des quarts de finale de l'équipe de France — soit au max
- imum trois fois\, si les Bleus vont jusqu'en finale. Le site proposera un 
- écran géant\, de la restauration\, une buvette et des animations\, ainsi
-  que des distributions gratuites d'éthylotests\, de préservatifs et de b
- ouchons d'\n\nSource\: https://actu.fr/occitanie/toulouse_31555/c-est-offi
- ciel-il-y-aura-une-fan-zone-a-toulouse-pendant-la-coupe-du-monde-de-footba
- ll-tout-ce-qui-est-prevu_64387246.html
+SUMMARY:Fan zone\, couvre-feu : Toulouse se prépare pour la Coupe du monde
+DESCRIPTION:La mairie de Toulouse a officialisé la création d'une fan zon
+ e sur le parvis du Stadium\, d'une capacité de 18 000 personnes\, qui ouv
+ rira à partir des quarts de finale de l'équipe de France (et jusqu'à un
+ e éventuelle finale). L'espace proposera un écran géant\, restauration\
+ , buvette et animations\, avec distributions gratuites d'éthylotests\, pr
+ éservatifs et bouchons d'oreilles dans une optique de prévention. En par
+ allèle\, un couvre-feu de 22h à 5h est instauré dans le centre-ville po
+ ur les moins de\n\nSource\: https://actu.fr/occitanie/toulouse_31555/c-est
+ -officiel-il-y-aura-une-fan-zone-a-toulouse-pendant-la-coupe-du-monde-de-f
+ ootball-tout-ce-qui-est-prevu_64387246.html
 URL:https://actu.fr/occitanie/toulouse_31555/c-est-officiel-il-y-aura-une-f
  an-zone-a-toulouse-pendant-la-coupe-du-monde-de-football-tout-ce-qui-est-p
  revu_64387246.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
@@ -2248,7 +2248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1a78ba9d-f57b-452d-a907-4ad7a9486983@news.lavillerose.com
 DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260616
 SUMMARY:Sorties du week-end
 DESCRIPTION:Ce week-end à Toulouse et ses environs\, les propositions sont
   nombreuses et variées. Le festival de caves de la compagnie Voraces se p
@@ -2496,58 +2496,20 @@ URL:https://www.clutchmag.fr/evenements#2026-06-11-dimanche-14-juin-0?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:a5267dce-a82a-49c6-b143-001e27bf3b83@news.lavillerose.com
+UID:cluster:800d96ee-5703-4ad4-ad62-1be4cf54142e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-SUMMARY:Travaux d'urgence route de Revel : circulation perturbée lundi 15 
- juin
-DESCRIPTION:Des travaux d'urgence sont prévus lundi 15 juin 2026 sur la ro
- ute métropolitaine 2 (RM2)\, entre le 236 et le 238 route de Revel à Tou
- louse\, de 9h à 16h. L'intervention concerne la réparation d'une fuite s
- ur le réseau d'eau potable. Pendant toute la durée du chantier\, la rout
- e sera mise en sens unique dans le sens Toulouse–Saint-Orens\, avec une 
- déviation pour les automobilistes se dirigeant vers Toulouse. Toulouse M
- étropole invite les usagers de cet axe très fréquenté du sud-est de l'
- agglomératio\n\nSource\: https://actu.fr/occitanie/toulouse_31555/des-tra
- vaux-d-urgence-sur-cette-route-tres-empruntee-toulouse-metropole-appelle-a
- -anticiper-les-deplacements-lundi_64399258.html
-URL:https://actu.fr/occitanie/toulouse_31555/des-travaux-d-urgence-sur-cett
- e-route-tres-empruntee-toulouse-metropole-appelle-a-anticiper-les-deplacem
- ents-lundi_64399258.html?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:b971b6e3-0b48-4dda-959e-15b8e6b03d7a@news.lavillerose.com
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260629
-SUMMARY:Colore ta vie
-DESCRIPTION:La créatrice toulousaine Claudine Andrieux\, fondatrice de la 
- marque d'upcycling Renacimiento\, réinvestit son ancienne boutique de la 
- Porte Bleue le temps d'un pop-up collectif de quinze jours. L'événement\
- , baptisé « Colore ta vie »\, réunit neuf créatrices locales (et une 
- invitée venue de Brive) autour de la couleur\, du recyclage et de la cré
- ation artisanale. On y trouvera vêtements upcyclés\, bijoux en perles re
- cyclées\, illustrations inspirées des quartiers toulousains\, objets chi
- nés transformés\,\n\nSource\: https://www.lessentiel.fr/newsletter/toulo
- use/2026-06-15#43347
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-15#43347?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:f510aa02-1050-471f-94a2-32beb565d52c@news.lavillerose.com
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260621
-SUMMARY:Rencontres retraite
-DESCRIPTION:Du 15 au 20 juin 2026\, l'Agirc-Arrco organise les « Rencontre
- s retraite » en Occitanie\, avec plus de 1 000 rendez-vous gratuits propo
- sés dans la région. Cette édition met l'accent sur l'impact des interru
- ptions de carrière — arrêt maladie longue durée\, invalidité\, handi
- cap — sur les droits à la retraite. Les conseillers accompagnent les as
- surés pour faire le point sur leurs droits acquis et les orienter dans le
- urs démarches. À Toulouse\, deux agences participent : boulevard Lazare 
- Carnot et l'acc\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
- 2026-06-15#43348
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-15#43348?utm_sour
+SUMMARY:Le Cosmo fête ses 10 ans
+DESCRIPTION:Le cinéma arts et essai toulousain American Cosmograph\, connu
+  sous le nom « Le Cosmo »\, célèbre ce soir ses 10 ans avec une soiré
+ e anniversaire rue Montardy. Les festivités débutent à 18h avec un apé
+ ro et des grignotages offerts\, suivis d'un concert du groupe de bluegrass
+  Bees Knees Breakfast à 18h45\, puis de projections en avant-première à
+  partir de 20h. Inauguré le 15 juin 2016 sous ce nom\, le lieu a en réal
+ ité une histoire bien plus ancienne : installé dans une ancienne salle d
+ 'opéra de la fi\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-06-16#43509
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-16#43509?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
@@ -2683,25 +2645,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/incontournable-sur-les-reseaux
  toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:ad6050ec-547f-4880-992f-02fa9e78c1f9@news.lavillerose.com
+UID:cluster:62f090bc-a113-4961-9c00-0b0b2af1ccb0@news.lavillerose.com
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-SUMMARY:Le Beluga ST d'Airbus rejoint les collections d'Aeroscopia à Blagn
- ac
-DESCRIPTION:Le Beluga ST n° 4 (F-GSTD)\, avion-cargo emblématique d'Airbu
- s\, intègre officiellement le musée aéronautique Aeroscopia à Blagnac 
- le 24 juin 2026. Il s'agit d'une première mondiale : aucun autre musée n
- 'exposait jusqu'ici cet appareil au gabarit hors norme. Retraité des airs
-  en septembre 2025 après 6 806 heures de vol et plus de 4 400 missions\, 
- le Beluga n° 4 était dédié au transport de pièces d'avions entre les 
- sites de production européens d'Airbus. Conçu pour des chargements impos
- sibles à ache\n\nSource\: https://actu.fr/occitanie/toulouse_31555/airbus
- -le-beluga-veritable-geant-du-ciel-s-installe-dans-ce-musee-pres-de-toulou
- se-une-premiere-mondiale_64395251.html
-URL:https://actu.fr/occitanie/toulouse_31555/airbus-le-beluga-veritable-gea
- nt-du-ciel-s-installe-dans-ce-musee-pres-de-toulouse-une-premiere-mondiale
- _64395251.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
- genda
+SUMMARY:Avant-première Beluga aeroscopia
+DESCRIPTION:Après près de trente ans de service\, le Beluga ST n°4 (F-GS
+ TD) d'Airbus prend sa retraite et intègre les collections du musée aeros
+ copia à Blagnac — une première mondiale pour cet appareil. Reconnaissa
+ ble à son fuselage bombé évoquant la baleine blanche\, le Beluga a assu
+ ré le transport de pièces géantes entre les sites européens d'Airbus d
+ epuis les années 1990. Construit à seulement cinq exemplaires\, il a pro
+ gressivement été remplacé par la nouvelle génération Beluga XL. Son a
+ rrivée au musée ser\n\nSource\: https://www.toulouscope.fr/2026/06/15/le
+ -mythique-beluga-rejoint-aeroscopia-une-premiere-mondiale-a-blagnac-134161
+ 34.php
+URL:https://www.toulouscope.fr/2026/06/15/le-mythique-beluga-rejoint-aerosc
+ opia-une-premiere-mondiale-a-blagnac-13416134.php?utm_source=ical&utm_medi
+ um=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:aeb7b645-fb42-4ffd-8c56-3a62861f90a5@news.lavillerose.com
