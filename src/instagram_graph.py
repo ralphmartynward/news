@@ -17,7 +17,7 @@ from typing import Any
 
 import requests
 
-API_BASE = "https://graph.instagram.com/v19.0"
+API_BASE = "https://graph.instagram.com/v21.0"
 REQUEST_TIMEOUT_S = 30
 PUBLISH_DELAY_S = 5  # wait between container creation and publish
 
