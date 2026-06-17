@@ -1,0 +1,56 @@
+[
+  {
+    "cluster_id": "cluster:fa24b62f-942d-4da3-8fa1-7138975658c7",
+    "format": "post",
+    "source": "toulouscope",
+    "category": "place",
+    "title": "La Forteresse de Penne, trésor médiéval à 1h30 de Toulouse",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/69eb66800f7586a92f0e4d13/hd/image.jpg?v=2",
+    "file": "cluster:fa24b62f-942d-4da3-8fa1-7138975658c7_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:e47569af-39e0-4917-b5b4-1c53c8fd05f2",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Le Joueur de luth de Nicolas Tournier rejoint les Augustins",
+    "image_url": "https://static.actu.fr/uploads/2026/06/joueur-de-luth.jpg",
+    "file": "cluster:e47569af-39e0-4917-b5b4-1c53c8fd05f2_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:b64f3f27-fc12-41c2-8d4e-5431a9de95b1",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Journée découverte des métiers de l'uniforme à Borderouge",
+    "image_url": "https://www.lessentiel.fr/nl/l.png",
+    "file": "cluster:b64f3f27-fc12-41c2-8d4e-5431a9de95b1_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:a287fdbf-bc04-47b6-a24f-fe477130fead",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "place",
+    "title": "Pompon, nouvelle péniche conviviale au port de l'Embouchure",
+    "image_url": "https://www.lessentiel.fr/nl/l.png",
+    "file": "cluster:a287fdbf-bc04-47b6-a24f-fe477130fead_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:86daf088-4514-459a-916b-6d70e19516aa",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Partir en Livre revient pour une 12e édition autour des héros",
+    "image_url": "https://www.lessentiel.fr/nl/l.png",
+    "file": "cluster:86daf088-4514-459a-916b-6d70e19516aa_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:10957db0-2cf4-41ff-a518-2d6cb9f397e2",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Éclipse solaire à 97,9 % visible depuis Toulouse le 12 août 2026",
+    "image_url": "https://static.actu.fr/uploads/2026/06/eclipse-dr-adobe-960x640-1.jpg",
+    "file": "cluster:10957db0-2cf4-41ff-a518-2d6cb9f397e2_post.jpg"
+  }
+]

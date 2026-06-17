@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://news.lavillerose.com/</loc><lastmod>2026-06-15</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://news.lavillerose.com/calendar.html</loc><lastmod>2026-06-15</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.lavillerose.com/</loc><lastmod>2026-06-17</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://news.lavillerose.com/calendar.html</loc><lastmod>2026-06-17</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.lavillerose.com/archive/2026-06-16.html</loc><lastmod>2026-06-16</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+  <url><loc>https://news.lavillerose.com/archive/2026-06-15.html</loc><lastmod>2026-06-15</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
   <url><loc>https://news.lavillerose.com/archive/2026-06-14.html</loc><lastmod>2026-06-14</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
   <url><loc>https://news.lavillerose.com/archive/2026-06-13.html</loc><lastmod>2026-06-13</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
   <url><loc>https://news.lavillerose.com/archive/2026-06-12.html</loc><lastmod>2026-06-12</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
