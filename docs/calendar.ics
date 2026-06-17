@@ -2152,17 +2152,17 @@ BEGIN:VEVENT
 UID:cluster:bc334310-e62d-4e37-a33e-f0ac15ce73b1@news.lavillerose.com
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260720
-SUMMARY:Fan zone\, couvre-feu : Toulouse se prépare pour la Coupe du monde
-DESCRIPTION:La mairie de Toulouse a officialisé la création d'une fan zon
- e sur le parvis du Stadium\, d'une capacité de 18 000 personnes\, qui ouv
- rira à partir des quarts de finale de l'équipe de France (et jusqu'à un
- e éventuelle finale). L'espace proposera un écran géant\, restauration\
- , buvette et animations\, avec distributions gratuites d'éthylotests\, pr
- éservatifs et bouchons d'oreilles dans une optique de prévention. En par
- allèle\, un couvre-feu de 22h à 5h est instauré dans le centre-ville po
- ur les moins de\n\nSource\: https://actu.fr/occitanie/toulouse_31555/c-est
- -officiel-il-y-aura-une-fan-zone-a-toulouse-pendant-la-coupe-du-monde-de-f
- ootball-tout-ce-qui-est-prevu_64387246.html
+SUMMARY:Fan Zone Coupe du Monde
+DESCRIPTION:La mairie de Toulouse a officialisé le 11 juin 2026 l'installa
+ tion d'une fan zone sur le parvis du Stadium\, d'une capacité de 18 000 p
+ ersonnes\, à partir des quarts de finale de l'équipe de France — à co
+ ndition que les Bleus atteignent cette phase. Au programme : écran géant
+ \, restauration\, buvette\, animations et distributions gratuites de maté
+ riel de prévention. En parallèle\, un couvre-feu est instauré de 22h à
+  5h dans le centre-ville pour les moins de 16 ans non accompagnés lors de
+ s matchs de gr\n\nSource\: https://actu.fr/occitanie/toulouse_31555/c-est-
+ officiel-il-y-aura-une-fan-zone-a-toulouse-pendant-la-coupe-du-monde-de-fo
+ otball-tout-ce-qui-est-prevu_64387246.html
 URL:https://actu.fr/occitanie/toulouse_31555/c-est-officiel-il-y-aura-une-f
  an-zone-a-toulouse-pendant-la-coupe-du-monde-de-football-tout-ce-qui-est-p
  revu_64387246.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
@@ -2513,6 +2513,27 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-16#43509?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f83ad610-43b6-4247-a2d9-824e1f3e4167@news.lavillerose.com
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Air Canada inaugure le premier vol commercial A321XLR depuis Toulou
+ se-Blagnac
+DESCRIPTION:Air Canada a opéré le 16 juin 2026 le premier vol commercial 
+ d'un Airbus A321XLR au départ de l'aéroport Toulouse-Blagnac à destinat
+ ion de Montréal. Il s'agit d'une double première : ni Air Canada ni l'a
+ éroport toulousain n'avaient encore utilisé cet appareil sur une liaison
+  commerciale. L'A321XLR\, monocouloir longue portée d'une autonomie de pr
+ ès de 8 700 km\, propose deux classes de service dont une Signature class
+  avec sièges entièrement inclinables. Selon Air Canada\, cet avion doit 
+ renforcer \n\nSource\: https://actu.fr/occitanie/toulouse_31555/airbus-cet
+ te-compagnie-realise-le-premier-vol-commercial-d-un-a321xlr-depuis-l-aerop
+ ort-de-toulouse-blagnac_64409704.html
+URL:https://actu.fr/occitanie/toulouse_31555/airbus-cette-compagnie-realise
+ -le-premier-vol-commercial-d-un-a321xlr-depuis-l-aeroport-de-toulouse-blag
+ nac_64409704.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b9a475d7-3039-4fb9-af40-0c9a41a793d1@news.lavillerose.com
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260628
@@ -2549,6 +2570,23 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-11#43112?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:86daf088-4514-459a-916b-6d70e19516aa@news.lavillerose.com
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260720
+SUMMARY:Partir en Livre
+DESCRIPTION:Du 17 juin au 19 juillet\, le festival national du livre jeunes
+ se « Partir en Livre » déploie sa 12e édition sur le thème « Nos pet
+ its et grands héros »\, avec des événements dans toute la France organ
+ isés par le Centre national du livre (CNL). Bibliothèques\, parcs\, plag
+ es et médiathèques accueilleront ateliers\, lectures et rencontres avec 
+ auteurs et illustrateurs. Dans la région toulousaine\, plusieurs rendez-v
+ ous sont prévus : un jeu de piste autour de Mortelle Adèle à la médiat
+ hèque Les Granges \n\nSource\: https://www.lessentiel.fr/newsletter/toulo
+ use/2026-06-17#43643
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-17#43643?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4eb78a42-7637-4893-856b-7000d3646496@news.lavillerose.com
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260620
@@ -2567,6 +2605,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/airbus-safran-ces-geants-de-l-
  aeronautique-sont-attendus-lors-d-un-job-dating-organise-au-stadium-de-tou
  louse_64350471.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e47569af-39e0-4917-b5b4-1c53c8fd05f2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Le Joueur de luth
+DESCRIPTION:Le musée des Augustins de Toulouse présentera à partir du 18
+  juin 2026 une œuvre exceptionnelle : Le Joueur de luth\, une huile sur t
+ oile du peintre caravagesque Nicolas Tournier datant de 1628-1630. Le tabl
+ eau a été acquis par le musée à l'hôtel Drouot en novembre 2024 pour 
+ 330 000 euros\, après avoir passé près de quatre siècles entre les mai
+ ns de la famille du capitoul Ferréol de Lafage. Restauré pour effacer qu
+ elques dommages en partie basse\, il sera exposé dans le salon vert\, ent
+ ouré de quatr\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-tab
+ leau-que-va-presenter-le-musee-des-augustins-de-toulouse-est-exceptionnel-
+ voici-son-histoire_64401623.html
+URL:https://actu.fr/occitanie/toulouse_31555/ce-tableau-que-va-presenter-le
+ -musee-des-augustins-de-toulouse-est-exceptionnel-voici-son-histoire_64401
+ 623.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b0c8af21-eeba-4093-b9bf-8b472f31e530@news.lavillerose.com
@@ -2814,6 +2871,26 @@ DESCRIPTION:Le festival Mister Freeze propose une exposition immersive à T
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&url_id=65d738f3-73c7-4108-a290-37ed
  1fff0a1a?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:10957db0-2cf4-41ff-a518-2d6cb9f397e2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Éclipse solaire 2026
+DESCRIPTION:Le mercredi 12 août 2026\, une éclipse solaire « partielle m
+ ais très prononcée » sera visible depuis Toulouse\, couvrant près de 9
+ 7\,9 % du disque solaire. La Cité de l'espace décrit un phénomène impr
+ essionnant : à partir de 19h31\, la Lune commencera à masquer progressiv
+ ement le Soleil pendant environ 30 minutes\, avec une baisse de luminosit
+ é et une chute de température attendue de 3 à 5 degrés en quelques min
+ utes. L'éclipse totale\, elle\, sera observable au nord de l'Espagne. La 
+ fin du phénomène (2\n\nSource\: https://actu.fr/occitanie/toulouse_31555
+ /une-eclipse-solaire-presque-totale-bientot-visible-depuis-toulouse-tout-c
+ e-qu-il-faut-savoir-pour-en-profiter_64410320.html
+URL:https://actu.fr/occitanie/toulouse_31555/une-eclipse-solaire-presque-to
+ tale-bientot-visible-depuis-toulouse-tout-ce-qu-il-faut-savoir-pour-en-pro
+ fiter_64410320.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:fea5ff65-fc94-4e40-b0ea-e29b8924efc8@news.lavillerose.com
