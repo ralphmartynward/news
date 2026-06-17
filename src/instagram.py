@@ -582,7 +582,8 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
         cid      = cl["cluster_id"]
         source   = cl.get("source") or "unknown"
         fmt      = _format_for(source)
-        filename = f"{cid}_{fmt}.jpg"
+        safe_cid = cid.replace(":", "_")
+        filename = f"{safe_cid}_{fmt}.jpg"
 
         try:
             img = _render_story(cl) if fmt == "story" else _render_post(cl)
