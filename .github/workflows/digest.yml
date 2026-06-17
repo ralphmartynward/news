@@ -60,3 +60,12 @@ jobs:
           done
           echo "push still failing after 3 attempts" >&2
           exit 1
+
+      - name: Post to Instagram
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: |
+          echo "Waiting 90s for GitHub Pages to deploy images..."
+          sleep 90
+          python -m src.instagram_post

@@ -303,30 +303,17 @@ def main() -> None:
                 _synthesise_clusters(conn, touched)
             else:
                 print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
-            # Generate Instagram images and post via Graph API
+            # Generate Instagram images (Graph API posting happens after git push)
             try:
                 from src.instagram import run as instagram_run, render_weekend_carousel
-                from src.instagram_graph import (run_from_manifest as ig_post,
-                                                  post_weekend_carousel_from_manifest as ig_weekend)
-                today_slug   = datetime.now(PARIS).date().isoformat()
+                today_slug    = datetime.now(PARIS).date().isoformat()
                 today_weekday = datetime.now(PARIS).weekday()  # 4=Fri, 5=Sat
-                ig_token     = os.environ.get("IG_ACCESS_TOKEN", "").strip()
-                ig_user_id   = os.environ.get("IG_USER_ID", "").strip()
-                ig_dir       = INSTAGRAM_DIR / today_slug
+                ig_dir        = INSTAGRAM_DIR / today_slug
 
-                # Daily individual posts
                 instagram_run(conn, ig_dir)
-                if ig_token and ig_user_id:
-                    ig_post(ig_dir / "manifest.json", ig_user_id, ig_token)
 
-                # Weekend carousel on Fridays and Saturdays
                 if today_weekday in (4, 5):
                     render_weekend_carousel(conn, ig_dir)
-                    if ig_token and ig_user_id:
-                        ig_weekend(ig_dir / "weekend_manifest.json", ig_user_id, ig_token)
-
-                if not (ig_token and ig_user_id):
-                    print("instagram_graph: skipped (IG_ACCESS_TOKEN / IG_USER_ID not set)")
             except Exception as _ig_err:
                 print(f"instagram: FAILED — {type(_ig_err).__name__}: {_ig_err}", file=sys.stderr)
 
