@@ -34,9 +34,12 @@ def main() -> None:
         post_weekend_carousel_from_manifest as ig_weekend,
     )
 
-    # Debug: find accessible pages and their Instagram accounts
-    r = requests.get(f"{API_BASE}/me/accounts", params={"access_token": ig_token, "fields": "id,name,instagram_business_account"}, timeout=30)
-    print(f"ig debug /me/accounts: {r.json()}")
+    # Debug: find Instagram accounts accessible to this system user
+    me = requests.get(f"{API_BASE}/me", params={"access_token": ig_token, "fields": "id"}, timeout=30).json()
+    su_id = me.get("id", "unknown")
+    print(f"ig debug system_user_id: {su_id}")
+    r = requests.get(f"{API_BASE}/{su_id}/instagram_accounts", params={"access_token": ig_token, "fields": "id,name,username"}, timeout=30)
+    print(f"ig debug instagram_accounts: {r.json()}")
 
     now           = datetime.now(PARIS)
     today_slug    = now.date().isoformat()
