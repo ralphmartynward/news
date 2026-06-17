@@ -27,10 +27,18 @@ def main() -> None:
         print("instagram_post: skipped (IG_ACCESS_TOKEN / IG_USER_ID not set)")
         return
 
+    import requests
     from src.instagram_graph import (
+        API_BASE,
         run_from_manifest as ig_post,
         post_weekend_carousel_from_manifest as ig_weekend,
     )
+
+    # Debug: verify token and account access
+    r = requests.get(f"{API_BASE}/me", params={"access_token": ig_token, "fields": "id,name"}, timeout=30)
+    print(f"ig debug /me: {r.json()}")
+    r2 = requests.get(f"{API_BASE}/{ig_user_id}", params={"access_token": ig_token, "fields": "id,name,username"}, timeout=30)
+    print(f"ig debug /{ig_user_id}: {r2.json()}")
 
     now           = datetime.now(PARIS)
     today_slug    = now.date().isoformat()
