@@ -99,7 +99,10 @@ def _download_image(url: str):
     try:
         r = requests.get(url, timeout=REQUEST_TIMEOUT_S, headers={"User-Agent": "Mozilla/5.0"})
         r.raise_for_status()
-        return Image.open(io.BytesIO(r.content)).convert("RGB")
+        img = Image.open(io.BytesIO(r.content)).convert("RGB")
+        if img.width < 100 or img.height < 100:  # tracking pixel / placeholder
+            return None
+        return img
     except Exception:
         return None
 
