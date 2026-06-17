@@ -34,12 +34,21 @@ def main() -> None:
         post_weekend_carousel_from_manifest as ig_weekend,
     )
 
-    # Debug: find Instagram accounts accessible to this system user
-    me = requests.get(f"{API_BASE}/me", params={"access_token": ig_token, "fields": "id"}, timeout=30).json()
-    su_id = me.get("id", "unknown")
-    print(f"ig debug system_user_id: {su_id}")
-    r = requests.get(f"{API_BASE}/{su_id}/instagram_accounts", params={"access_token": ig_token, "fields": "id,name,username"}, timeout=30)
-    print(f"ig debug instagram_accounts: {r.json()}")
+    # Resolve IG account ID via connected Facebook Page (System User approach)
+    pages_r = requests.get(f"{API_BASE}/me/accounts",
+                           params={"access_token": ig_token,
+                                   "fields": "id,name,instagram_business_account"},
+                           timeout=30).json()
+    print(f"ig debug pages: {pages_r}")
+    for page in pages_r.get("data", []):
+        iba = page.get("instagram_business_account")
+        if iba:
+            resolved_id = iba["id"]
+            print(f"ig: resolved Instagram account id={resolved_id} via page {page['name']}")
+            if resolved_id != ig_user_id:
+                print(f"ig: IG_USER_ID secret ({ig_user_id}) differs — using resolved id {resolved_id}")
+                ig_user_id = resolved_id
+            break
 
     now           = datetime.now(PARIS)
     today_slug    = now.date().isoformat()
