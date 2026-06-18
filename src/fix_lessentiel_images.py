@@ -22,15 +22,16 @@ INSTAGRAM_DIR = Path("docs/instagram")
 SITE_BASE = "https://news.lavillerose.com"
 
 
-def _fetch_html(url: str) -> str | None:
-    import requests
-    try:
-        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
-        r.raise_for_status()
-        return r.text
-    except Exception as e:
-        print(f"fix_lessentiel: failed to fetch {url}: {e}", file=sys.stderr)
-        return None
+def _html_from_eml(eml_path: Path) -> str | None:
+    import email as _email
+    raw = eml_path.read_text(encoding="utf-8", errors="ignore")
+    msg = _email.message_from_string(raw)
+    for part in msg.walk():
+        if part.get_content_type() == "text/html":
+            payload = part.get_payload(decode=True)
+            if payload:
+                return payload.decode("utf-8", errors="ignore")
+    return None
 
 
 def _extract_image_map(html: str) -> dict[str, str]:
@@ -70,12 +71,18 @@ def _extract_image_map(html: str) -> dict[str, str]:
 
 def main() -> None:
     today = datetime.now(PARIS).date().isoformat()
-    newsletter_url = f"https://www.lessentiel.fr/newsletter/toulouse/{today}"
-    print(f"fix_lessentiel: fetching {newsletter_url}")
 
-    html = _fetch_html(newsletter_url)
+    # Find the .eml file in the repo root
+    eml_files = sorted(Path(".").glob("lessentiel*.eml"))
+    if not eml_files:
+        print("fix_lessentiel: no lessentiel*.eml file found in repo root — aborting")
+        return
+    eml_path = eml_files[-1]  # most recent if multiple
+    print(f"fix_lessentiel: reading {eml_path}")
+
+    html = _html_from_eml(eml_path)
     if not html:
-        print("fix_lessentiel: could not fetch newsletter page — aborting")
+        print("fix_lessentiel: no HTML part found in .eml — aborting")
         return
 
     image_map = _extract_image_map(html)
