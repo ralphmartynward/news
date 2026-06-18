@@ -607,6 +607,43 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
     return manifest
 
 
+def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
+    """Generate Format 1 (story) images for events happening today."""
+    from src import cache as cache_mod
+
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    events = cache_mod.load_weekend_events(conn, today, today + "T23:59:59")
+
+    if not events:
+        print(f"instagram today events: no events for {today}")
+        return []
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    manifest: list[dict[str, Any]] = []
+
+    for ev in events:
+        cid      = ev["cluster_id"]
+        safe_cid = cid.replace(":", "_")
+        filename = f"{safe_cid}_event_story.jpg"
+        try:
+            img = _render_story(ev)
+            img.save(str(out_dir / filename), "JPEG", quality=90)
+            print(f"  instagram today: {filename} {ev['title'][:50]}")
+            manifest.append({
+                "cluster_id": cid, "format": "story", "source": ev.get("source", "unknown"),
+                "category": "event", "title": ev.get("title"),
+                "image_url": ev.get("image_url"), "file": filename,
+            })
+        except Exception as e:
+            print(f"  instagram today: FAILED {cid} — {type(e).__name__}: {e}")
+
+    (out_dir / "today_events_manifest.json").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"instagram today events: {len(manifest)} story(ies) written to {out_dir}")
+    return manifest
+
+
 def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
     """Generate Format 2 (weekend carousel) slides. Run on Fridays/Saturdays."""
     from src import cache as cache_mod

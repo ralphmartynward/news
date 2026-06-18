@@ -305,12 +305,13 @@ def main() -> None:
                 print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
             # Generate Instagram images (Graph API posting happens after git push)
             try:
-                from src.instagram import run as instagram_run, render_weekend_carousel
+                from src.instagram import run as instagram_run, render_weekend_carousel, render_today_events
                 today_slug    = datetime.now(PARIS).date().isoformat()
                 today_weekday = datetime.now(PARIS).weekday()  # 4=Fri, 5=Sat
                 ig_dir        = INSTAGRAM_DIR / today_slug
 
                 instagram_run(conn, ig_dir)
+                render_today_events(conn, ig_dir)
 
                 if today_weekday in (4, 5):
                     render_weekend_carousel(conn, ig_dir)

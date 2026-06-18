@@ -43,6 +43,12 @@ def main() -> None:
     else:
         print(f"instagram_post: no manifest at {manifest}")
 
+    today_events_manifest = ig_dir / "today_events_manifest.json"
+    if today_events_manifest.exists():
+        ig_post(today_events_manifest, ig_user_id, ig_token, base_url=SITE_BASE)
+    else:
+        print(f"instagram_post: no today_events_manifest at {today_events_manifest}")
+
     if today_weekday in (4, 5):
         weekend_manifest = ig_dir / "weekend_manifest.json"
         if weekend_manifest.exists():
