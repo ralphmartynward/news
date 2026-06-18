@@ -25,18 +25,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Re-extract images, regenerate stories, post
-        env:
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Re-extract images and regenerate stories
         run: python -m src.fix_lessentiel_images
 
       - name: Commit regenerated story images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/instagram/
+          git add docs/instagram/ data/
           if git diff --cached --quiet; then
             echo "No image changes to commit."
             exit 0
@@ -46,3 +42,14 @@ jobs:
             if git push; then exit 0; fi
             git pull --rebase origin main || exit 1
           done
+
+      - name: Wait for GitHub Pages to deploy
+        run: |
+          echo "Waiting 90s for GitHub Pages to deploy images..."
+          sleep 90
+
+      - name: Post to Instagram
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python -m src.instagram_post

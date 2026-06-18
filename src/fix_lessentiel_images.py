@@ -113,43 +113,13 @@ def main() -> None:
         return
 
     # Regenerate Instagram story images for today's clusters
-    from src import cache as cache_mod
     from src.instagram import run as instagram_run
 
     ig_dir = INSTAGRAM_DIR / today
     print(f"fix_lessentiel: regenerating Instagram images in {ig_dir}")
     instagram_run(conn, ig_dir)
     conn.close()
-
-    # Post via Graph API
-    ig_token   = os.environ.get("IG_ACCESS_TOKEN", "").strip()
-    ig_user_id = os.environ.get("IG_USER_ID", "").strip()
-    if not (ig_token and ig_user_id):
-        print("fix_lessentiel: IG credentials not set — skipping post")
-        return
-
-    import requests as _req
-    from src.instagram_graph import API_BASE, run_from_manifest as ig_post
-
-    pages = _req.get(
-        f"{API_BASE}/me/accounts",
-        params={"access_token": ig_token, "fields": "id,name,instagram_business_account"},
-        timeout=30,
-    ).json()
-    for page in pages.get("data", []):
-        iba = page.get("instagram_business_account")
-        if iba:
-            resolved = iba["id"]
-            if resolved != ig_user_id:
-                print(f"fix_lessentiel: resolved IG id={resolved}")
-                ig_user_id = resolved
-            break
-
-    manifest = ig_dir / "manifest.json"
-    if manifest.exists():
-        ig_post(manifest, ig_user_id, ig_token, base_url=SITE_BASE)
-    else:
-        print(f"fix_lessentiel: no manifest at {manifest}")
+    print("fix_lessentiel: done — images regenerated, posting handled by next workflow step")
 
 
 if __name__ == "__main__":
