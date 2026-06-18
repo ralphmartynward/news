@@ -263,64 +263,84 @@ def _wrap_text(text: str, font, max_width: int, draw) -> list[str]:
 # ---------------------------------------------------------------------------
 
 def _render_story(cluster: dict[str, Any]) -> "Image":
-    """1080x1920. Two floating pill boxes + CTA over full-bleed photo."""
+    """1080x1920. Gradient bottom-band + white text — same visual language as _render_post."""
     from PIL import Image, ImageDraw
 
     W, H = STORY_W, STORY_H
-    MAX_BOX_W = W - 100   # pill box max text area
+    PAD    = 60
+    TEXT_W = W - PAD * 2
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
     photo = _download_image(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
-    # subtle full-image darken so pill boxes read clearly
-    base = _apply_gradient(base, int(H * 0.62), H, start_alpha=0, end_alpha=210)
+    base = _apply_gradient(base, int(H * 0.42), H, start_alpha=0, end_alpha=255)
 
     draw = ImageDraw.Draw(base)
 
     # favicon top-right
     FSIZE = 68
-    _paste_favicon(base, W - 52 - FSIZE, 48, size=FSIZE)
+    _paste_favicon(base, W - 52 - FSIZE, 52, size=FSIZE)
 
-    f_title   = _load_font(52, bold=True)
-    f_summary = _load_font(38)
-    f_cta     = _load_font(30, bold=True)
-    f_tiny    = _load_font(20)
+    f_cat   = _load_font(28, bold=True)
+    f_title = _load_font(58, bold=True)
+    f_sub   = _load_font(34)
+    f_tiny  = _load_font(22)
 
-    title   = cluster.get("title", "")
-    summary = cluster.get("summary", "")
-    # Up to 3 sentences for the bottom pill box
-    sentences_s = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
-    first_sentence = "  ".join((s.rstrip(".") + ".") for s in sentences_s[:3]) if sentences_s else ""
+    title      = cluster.get("title", "")
+    event_name = cluster.get("event_name") or None
+    summary    = cluster.get("summary", "")
+    sentences  = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
+    context    = (sentences[0].rstrip(".") + ".") if sentences else ""
 
-    # ── TOP PILL BOX (hook / title) ──
-    title_lines = _wrap_text(title, f_title, MAX_BOX_W - 88, draw)[:4]
-    bot_title = _draw_pill_box_centered(draw, W, 110, title_lines, f_title,
-                                        h_pad=44, v_pad=38, corner_r=42)
+    segs = _segment_title(title, event_name=event_name)
 
-    # ── CTA PILL (centre) ──
-    cat_raw = cluster.get("category", "place")
-    cta_labels = {"event": "AGENDA", "place": "À DÉCOUVRIR", "culture": "CULTURE"}
-    cta_text = cta_labels.get(cat_raw, "DÉCOUVRIR")
-    cta_bg   = COL_GREEN if cat_raw != "event" else COL_PINK
-    cta_font = f_cta
-    b = draw.textbbox((0, 0), cta_text, font=cta_font)
-    cta_w = (b[2] - b[0]) + 56
-    cta_h = (b[3] - b[1]) + 28
-    cta_y = (H // 2) - cta_h // 2
-    cta_x = (W - cta_w) // 2
-    draw.rounded_rectangle([cta_x, cta_y, cta_x + cta_w, cta_y + cta_h],
-                            radius=cta_h // 2, fill=cta_bg)
-    draw.text((cta_x + 28, cta_y + 14), cta_text, font=cta_font, fill=COL_DARK)
+    lh       = draw.textbbox((0, 0), "Ag", font=f_title)[3]
+    sub_h    = draw.textbbox((0, 0), "A", font=f_sub)[3]
+    cat_h    = draw.textbbox((0, 0), "A", font=f_cat)[3] + 20
+    site_h   = draw.textbbox((0, 0), "A", font=f_tiny)[3]
 
-    # ── BOTTOM PILL BOX (context / summary) ──
-    sum_lines = _wrap_text(first_sentence, f_summary, MAX_BOX_W - 88, draw)[:4]
-    _draw_pill_box_centered(draw, W, H - 110 - (len(sum_lines) * 48 + 72 + 80),
-                            sum_lines, f_summary, h_pad=44, v_pad=36, corner_r=38)
+    title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:4]
+    ctx_lines   = _wrap_text(context, f_sub, TEXT_W, draw)[:3]
 
-    # watermark
-    draw.text(((W - draw.textbbox((0, 0), SITE_LABEL, font=f_tiny)[2]) // 2,
-               H - 48), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+    ev_date = _french_date(cluster.get("event_start") or "")
+    date_h  = sub_h + 12 if ev_date else 0
+
+    total_h = (cat_h + 16
+               + len(title_lines) * (lh + 12) + 14
+               + len(ctx_lines) * (sub_h + 8) + 10
+               + date_h + site_h + 8)
+    y = H - PAD - total_h
+
+    # category pill
+    cat_raw   = cluster.get("category", "place")
+    cat_label = CAT_PILLS.get(cat_raw, "INFO")
+    cb        = draw.textbbox((0, 0), cat_label, font=f_cat)
+    pill_w    = (cb[2] - cb[0]) + 44
+    pill_h_px = (cb[3] - cb[1]) + 20
+    pill_x    = (W - pill_w) // 2
+    pill_bg   = COL_PINK if cat_raw == "event" else COL_GREEN
+    draw.rounded_rectangle([pill_x, y, pill_x + pill_w, y + pill_h_px],
+                            radius=pill_h_px // 2, fill=pill_bg)
+    draw.text((pill_x + 22, y + 10), cat_label, font=f_cat, fill=COL_DARK)
+    y += pill_h_px + 16
+
+    # title
+    y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, TEXT_W, line_bonus=12)
+    y += 14
+
+    # context
+    for line in ctx_lines:
+        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 190))
+        y += sub_h + 8
+    y += 4
+
+    # date in green
+    if ev_date:
+        draw.text((PAD, y), ev_date + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
+        y += sub_h + 12
+
+    draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
 
     return base.convert("RGB")
 
@@ -341,7 +361,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     photo = _download_image(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
-    base = _apply_gradient(base, int(H * 0.45), H, start_alpha=0, end_alpha=255)
+    base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
 
     draw = ImageDraw.Draw(base)
 
