@@ -594,19 +594,21 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
 # Main entry
 # ---------------------------------------------------------------------------
 
-def _format_for(source: str) -> str:
-    return "story" if source == "lessentiel" else "post"
-
-
 def run(conn, out_dir: Path) -> list[dict[str, Any]]:
-    """Generate Format 1 (story) + Format 3 (post) images for today's clusters."""
+    """Generate square post images for place/culture clusters synthesised today.
+
+    Events are excluded here — they are handled by render_today_events (stories)
+    and render_weekend_carousel. News is excluded at the DB query level.
+    """
     from src import cache as cache_mod
 
     today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT00:00:00")
     clusters  = cache_mod.load_instagram_clusters(conn, today_iso)
+    # Only place/culture → square post. Events have dedicated renderers.
+    clusters  = [c for c in clusters if c.get("category") in ("place", "culture")]
 
     if not clusters:
-        print("instagram: no non-news clusters for today")
+        print("instagram: no place/culture clusters for today")
         return []
 
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -615,16 +617,15 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
     for cl in clusters:
         cid      = cl["cluster_id"]
         source   = cl.get("source") or "unknown"
-        fmt      = _format_for(source)
         safe_cid = cid.replace(":", "_")
-        filename = f"{safe_cid}_{fmt}.jpg"
+        filename = f"{safe_cid}_post.jpg"
 
         try:
-            img = _render_story(cl) if fmt == "story" else _render_post(cl)
+            img = _render_post(cl)
             img.save(str(out_dir / filename), "JPEG", quality=90)
             print(f"  instagram: {filename} [{cl.get('category')}] {cl['title'][:50]}")
             manifest.append({
-                "cluster_id": cid, "format": fmt, "source": source,
+                "cluster_id": cid, "format": "post", "source": source,
                 "category": cl.get("category"), "title": cl.get("title"),
                 "image_url": cl.get("image_url"), "file": filename,
             })
