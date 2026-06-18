@@ -27,10 +27,28 @@ def main() -> None:
         print("instagram_post: skipped (IG_ACCESS_TOKEN / IG_USER_ID not set)")
         return
 
+    import requests
     from src.instagram_graph import (
+        API_BASE,
         run_from_manifest as ig_post,
         post_weekend_carousel_from_manifest as ig_weekend,
     )
+
+    # System User tokens need the IG account resolved via the connected Facebook Page.
+    # Falls back to the stored IG_USER_ID if pages_show_list permission is absent.
+    pages = requests.get(
+        f"{API_BASE}/me/accounts",
+        params={"access_token": ig_token, "fields": "id,name,instagram_business_account"},
+        timeout=30,
+    ).json()
+    for page in pages.get("data", []):
+        iba = page.get("instagram_business_account")
+        if iba:
+            resolved = iba["id"]
+            if resolved != ig_user_id:
+                print(f"instagram_post: resolved IG id={resolved} via page '{page['name']}'")
+                ig_user_id = resolved
+            break
 
     now           = datetime.now(PARIS)
     today_slug    = now.date().isoformat()
