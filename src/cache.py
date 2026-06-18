@@ -402,6 +402,28 @@ def load_weekend_events(conn: sqlite3.Connection, date_from: str, date_to: str) 
     return [dict(r) for r in rows]
 
 
+def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[str, Any]]:
+    """Event clusters happening on date_iso — covers single-day and multi-day events."""
+    rows = conn.execute(
+        """SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_end,
+                  c.event_name,
+                  COALESCE(c.primary_url,
+                    (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
+                  ) AS url,
+                  (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source,
+                  (SELECT image_url FROM items
+                   WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
+                   ORDER BY published_at LIMIT 1) AS image_url
+           FROM clusters c
+           WHERE c.category = 'event'
+             AND c.event_start <= ?
+             AND (c.event_end >= ? OR (c.event_end IS NULL AND c.event_start >= ?))
+           ORDER BY c.event_start""",
+        (date_iso, date_iso, date_iso),
+    ).fetchall()
+    return [dict(r) for r in rows]
+
+
 def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[dict[str, Any]]:
     """Clusters synthesised since `since_iso` (ISO datetime) with category != 'news'.
 

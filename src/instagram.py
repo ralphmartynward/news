@@ -639,11 +639,11 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
 
 
 def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
-    """Generate Format 1 (story) images for events happening today."""
+    """Generate Format 1 (story) images for events happening today (including multi-day)."""
     from src import cache as cache_mod
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    events = cache_mod.load_weekend_events(conn, today, today + "T23:59:59")
+    events = cache_mod.load_events_on_date(conn, today)
 
     if not events:
         print(f"instagram today events: no events for {today}")
