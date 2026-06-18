@@ -2611,19 +2611,37 @@ UID:cluster:e47569af-39e0-4917-b5b4-1c53c8fd05f2@news.lavillerose.com
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Le Joueur de luth
-DESCRIPTION:Le musée des Augustins de Toulouse présentera à partir du 18
-  juin 2026 une œuvre exceptionnelle : Le Joueur de luth\, une huile sur t
- oile du peintre caravagesque Nicolas Tournier datant de 1628-1630. Le tabl
- eau a été acquis par le musée à l'hôtel Drouot en novembre 2024 pour 
- 330 000 euros\, après avoir passé près de quatre siècles entre les mai
- ns de la famille du capitoul Ferréol de Lafage. Restauré pour effacer qu
- elques dommages en partie basse\, il sera exposé dans le salon vert\, ent
- ouré de quatr\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-tab
- leau-que-va-presenter-le-musee-des-augustins-de-toulouse-est-exceptionnel-
- voici-son-histoire_64401623.html
+DESCRIPTION:Le musée des Augustins présente à partir du 18 juin 2026 une
+  acquisition récente : Le Joueur de luth\, huile sur toile du peintre car
+ avagesque toulousain Nicolas Tournier\, réalisée vers 1628-1630. L'œuvr
+ e a été achetée 330 000 euros à l'hôtel Drouot en novembre 2024\, pui
+ s restaurée pendant la période de réouverture du musée. Restée près 
+ de quatre siècles dans la famille du capitoul Ferréol de Lafage\, elle r
+ ejoint désormais le salon vert du musée\, entourée de quatre autres por
+ traits de Tournier. L\n\nSource\: https://actu.fr/occitanie/toulouse_31555
+ /ce-tableau-que-va-presenter-le-musee-des-augustins-de-toulouse-est-except
+ ionnel-voici-son-histoire_64401623.html
 URL:https://actu.fr/occitanie/toulouse_31555/ce-tableau-que-va-presenter-le
  -musee-des-augustins-de-toulouse-est-exceptionnel-voici-son-histoire_64401
  623.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0801a97e-e0c5-4e48-80c5-15d033c52f2a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260626
+SUMMARY:Tony Moggio relie Royan à Sète en handbike\, 700 km à la force d
+ es bras
+DESCRIPTION:Le Toulousain Tony Moggio\, tétraplégique depuis un accident 
+ de rugby en 2010\, réalise son plus grand défi sportif : parcourir plus 
+ de 700 km en handbike le long du Canal des Deux Mers\, de Royan à Sète\,
+  en 13 étapes d'environ 60 km chacune. Parti le 10 juin\, il fait étape 
+ à Toulouse ce jeudi en provenance de Castelsarrasin\, à mi-chemin de son
+  parcours. L'aventure mobilise une vingtaine de personnes — famille et p
+ roches assurent ravitaillement\, logistique et transferts. Le défi doit s
+ 'achever dans\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+ 26-06-18#43754
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-18#43754?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b0c8af21-eeba-4093-b9bf-8b472f31e530@news.lavillerose.com
@@ -2641,6 +2659,26 @@ DESCRIPTION:Venu de Bordeaux\, le Bliss yoga festival fait ses débuts toul
  se/2026-06-09#42823
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-09#42823?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cc51ffdd-31a8-4fbf-85c6-badefee0962e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260621
+SUMMARY:Festival de Caves
+DESCRIPTION:Toulouse propose un week-end estival bien rempli avec plusieurs
+  rendez-vous culturels et festifs. Le Festival de Caves\, en cours depuis 
+ le 9 juin pour sa 4e édition\, se clôture le 20 juin avec une soirée gr
+ atuite à la Cave Po' (rue du Taur)\, animée par DJ Louis Louis. Le festi
+ val Bel Air\, habituellement basé à Saint-Araille\, fait une escale iné
+ dite à Toulouse du 19 au 20 juin dans un format « micro » sur les haute
+ urs de Pech David\, avec une programmation musicale éclectique incluant n
+ otamment Va\n\nSource\: https://actu.fr/occitanie/toulouse_31555/festival-
+ cinema-en-plein-air-et-record-du-monde-decouvrez-ce-que-cette-fin-de-semai
+ ne-vous-reserve-a-toulous_64392397.html
+URL:https://actu.fr/occitanie/toulouse_31555/festival-cinema-en-plein-air-e
+ t-record-du-monde-decouvrez-ce-que-cette-fin-de-semaine-vous-reserve-a-tou
+ lous_64392397.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:46b78710-72b2-4eda-a85e-dd3dc0b05ada@news.lavillerose.com

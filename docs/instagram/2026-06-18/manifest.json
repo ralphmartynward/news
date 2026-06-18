@@ -1,0 +1,56 @@
+[
+  {
+    "cluster_id": "cluster:e47569af-39e0-4917-b5b4-1c53c8fd05f2",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "culture",
+    "title": "Le Joueur de luth de Nicolas Tournier désormais visible aux Augustins",
+    "image_url": "https://static.actu.fr/uploads/2026/06/joueur-de-luth.jpg",
+    "file": "cluster_e47569af-39e0-4917-b5b4-1c53c8fd05f2_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:ddda19a2-5b52-419b-aeb5-1c6415ef2de0",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "culture",
+    "title": "L'origine médiévale du nom de la rue Réclusane à Saint-Cyprien",
+    "image_url": "https://www.lessentiel.fr/nl/l.png",
+    "file": "cluster_ddda19a2-5b52-419b-aeb5-1c6415ef2de0_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cc51ffdd-31a8-4fbf-85c6-badefee0962e",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Week-end chargé à Toulouse : festival, cinéma en plein air et record du monde",
+    "image_url": "https://static.actu.fr/uploads/2026/06/toulouse-bord-de-garonne-1200x800-1.jpg",
+    "file": "cluster_cc51ffdd-31a8-4fbf-85c6-badefee0962e_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:a6af83d7-5696-467b-bea0-fdfbc5a145dd",
+    "format": "post",
+    "source": "toulouscope",
+    "category": "place",
+    "title": "Mademoiselle Nuage dévoile sa collection estivale inspirée de la Méditerranée",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a2e7591f051902e18073e44/hd/image.jpg?v=2",
+    "file": "cluster_a6af83d7-5696-467b-bea0-fdfbc5a145dd_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:79abaca9-435f-4e48-b46e-e4798ea6dc5a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Guinguette citoyenne de Tournefeuille rouvre pour sa 5e saison",
+    "image_url": "https://www.lessentiel.fr/nl/l.png",
+    "file": "cluster_79abaca9-435f-4e48-b46e-e4798ea6dc5a_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:09cd8f1a-7b64-4099-9869-b1826ba46a84",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "culture",
+    "title": "Edmond, 93 ans, pose toujours la première question en conf de presse au Stade Toulousain",
+    "image_url": "https://static.actu.fr/uploads/2026/06/edmond-bouffil-rugby-stade-toulousain.jpg",
+    "file": "cluster_09cd8f1a-7b64-4099-9869-b1826ba46a84_post.jpg"
+  }
+]
