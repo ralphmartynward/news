@@ -154,14 +154,15 @@ def _extract_lessentiel(
         # not the end-user; Claude will distil it into 4-6 sentences.
         content_div = table.find("div", style=lambda s: s and "margin-top:20px" in s)
         image_url: str | None = None
+        # Article photos live in td.ar, outside content_div — search the whole table first.
+        real_img = table.find("img", src=re.compile(r"lessentiel\.fr/sites/lessentiel/files/"))
+        if real_img:
+            image_url = real_img["src"]
         if content_div:
             # remove share / social blocks (safe now — URL already captured above)
             for share_div in content_div.find_all("div", style=lambda s: s and "text-align:center" in (s or "")):
                 share_div.decompose()
             summary = content_div.get_text(separator="\n", strip=True)
-            img = content_div.find("img", src=re.compile(r"^https?://"))
-            if img and img.get("width") not in ("1", "2", None) or (img and int(img.get("width", "100") or "100") > 10):
-                image_url = img["src"]
         else:
             lead = table.find("p", class_="first-paragraph")
             summary = lead.get_text(separator=" ", strip=True) if lead else ""
