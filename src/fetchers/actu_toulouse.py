@@ -73,6 +73,14 @@ def fetch(within_hours: int = 24) -> list[dict[str, Any]]:
         md = trafilatura.extract_metadata(html)
         title = (md.title if md and md.title else "").strip()
         image_url = (md.image or None) if md else None
+        if not image_url:
+            og = re.search(
+                r'<meta[^>]+(?:property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']'
+                r'|content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\'])',
+                html,
+            )
+            if og:
+                image_url = og.group(1) or og.group(2)
         items.append(
             {
                 "source": "actu_toulouse",
