@@ -148,20 +148,30 @@ def _space_w(draw, font) -> int:
 # Text helpers
 # ---------------------------------------------------------------------------
 
-def _segment_title(title: str) -> list[tuple[str, tuple]]:
-    """Assign brand colours to words: Toulouse=pink, first other proper noun=green."""
+def _segment_title(title: str, event_name: str | None = None) -> list[tuple[str, tuple]]:
+    """Assign colours to words.
+
+    With event_name: words that appear in the event name → pink, rest → white.
+    Without: Toulouse → pink, first other proper noun → green.
+    """
     words = title.split()
     result: list[tuple[str, tuple]] = []
-    green_used = False
-    for i, word in enumerate(words):
-        clean = word.strip(".,!?:;«»\"'")
-        if clean.lower() == "toulouse":
-            result.append((word, COL_PINK))
-        elif not green_used and i > 0 and clean and clean[0].isupper() and len(clean) > 3:
-            result.append((word, COL_GREEN))
-            green_used = True
-        else:
-            result.append((word, COL_WHITE))
+    if event_name:
+        event_words = {w.lower().strip(".,!?:;«»\"'") for w in event_name.split() if len(w) > 2}
+        for word in words:
+            clean = word.lower().strip(".,!?:;«»\"'")
+            result.append((word, COL_PINK if clean in event_words else COL_WHITE))
+    else:
+        green_used = False
+        for i, word in enumerate(words):
+            clean = word.strip(".,!?:;«»\"'")
+            if clean.lower() == "toulouse":
+                result.append((word, COL_PINK))
+            elif not green_used and i > 0 and clean and clean[0].isupper() and len(clean) > 3:
+                result.append((word, COL_GREEN))
+                green_used = True
+            else:
+                result.append((word, COL_WHITE))
     return result
 
 
@@ -331,7 +341,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     photo = _download_image(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
-    base = _apply_gradient(base, int(H * 0.62), H, start_alpha=0, end_alpha=220)
+    base = _apply_gradient(base, int(H * 0.45), H, start_alpha=0, end_alpha=255)
 
     draw = ImageDraw.Draw(base)
 
@@ -344,14 +354,15 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     FSIZE = 60
     _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
-    title   = cluster.get("title", "")
-    summary = cluster.get("summary", "")
+    title      = cluster.get("title", "")
+    event_name = cluster.get("event_name") or None
+    summary    = cluster.get("summary", "")
     # First 1-2 sentences for the context line
     sentences = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
     context = (sentences[0].rstrip(".") + ".") if sentences else ""
     context2 = (sentences[1].rstrip(".") + ".") if len(sentences) > 1 else ""
 
-    segs = _segment_title(title)
+    segs = _segment_title(title, event_name=event_name)
     lh   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
     sub_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
     ctx_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
@@ -393,9 +404,9 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
         y += ctx_h + 6
     y += 4
 
-    # date line if event
+    # date line in green if event
     if ev_date:
-        draw.text((PAD, y), ev_date + "  ·  Toulouse", font=f_sub, fill=(255, 255, 255, 130))
+        draw.text((PAD, y), ev_date + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
         y += sub_h + 10
 
     draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
