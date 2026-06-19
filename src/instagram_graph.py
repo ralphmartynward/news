@@ -60,12 +60,28 @@ def publish_container(ig_user_id: str, token: str, creation_id: str) -> str:
 
 
 def post_image(ig_user_id: str, token: str, image_url: str, caption: str) -> str:
-    """Full publish flow. Returns published media ID."""
+    """Full publish flow for a feed post. Returns published media ID."""
     creation_id = create_image_container(ig_user_id, token, image_url, caption)
     print(f"  ig: container created: {creation_id}")
     time.sleep(PUBLISH_DELAY_S)
     media_id = publish_container(ig_user_id, token, creation_id)
     print(f"  ig: published: {media_id}")
+    return media_id
+
+
+def post_story(ig_user_id: str, token: str, image_url: str) -> str:
+    """Publish a 1080x1920 image as an Instagram Story. Captions not supported."""
+    result = _post(
+        f"{ig_user_id}/media",
+        token,
+        image_url=image_url,
+        media_type="STORIES",
+    )
+    creation_id = result["id"]
+    print(f"  ig story: container created: {creation_id}")
+    time.sleep(PUBLISH_DELAY_S)
+    media_id = publish_container(ig_user_id, token, creation_id)
+    print(f"  ig story: published: {media_id}")
     return media_id
 
 
@@ -134,11 +150,14 @@ def run_from_manifest(manifest_path: Path, ig_user_id: str, token: str,
     for entry in manifest:
         filename  = entry["file"]
         image_url = f"{base_url}/instagram/{date_slug}/{filename}"
-        caption   = _build_caption(entry)
+        fmt       = entry.get("format", "post")
 
-        print(f"instagram_graph: posting {filename}")
+        print(f"instagram_graph: posting {filename} [{fmt}]")
         try:
-            media_id = post_image(ig_user_id, token, image_url, caption)
+            if fmt == "story":
+                media_id = post_story(ig_user_id, token, image_url)
+            else:
+                media_id = post_image(ig_user_id, token, image_url, _build_caption(entry))
             results.append({"cluster_id": entry.get("cluster_id"), "media_id": media_id, "file": filename})
         except InstagramAPIError as e:
             print(f"  ig: FAILED {filename} — {e}")
