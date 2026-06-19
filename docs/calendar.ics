@@ -2043,25 +2043,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/l-agence-elite-model-passe-a-t
  se-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:6909249c-b383-4f23-9c37-4922fd5b30e0@news.lavillerose.com
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260615
-SUMMARY:Rio Loco 2026
-DESCRIPTION:La 31e édition du festival Rio Loco\, placée sous le thème 
- « Insulae » (musiques des îles)\, s'est tenue du 10 au 14 juin 2026 sur
-  la prairie des Filtres à Toulouse\, attirant plus de 100 000 festivalier
- s. Au programme : des concerts éclectiques alliant reggae (Ky-Mani Marley
- )\, trip-hop (Morcheeba)\, jazz cubain (Roberto Fonseca)\, chanson (Imany)
-  et un hommage émouvant à Cesaria Evora\, ainsi que DJ sets\, spectacles
-  familiaux et parcours d'arts visuels. Le festival\, porté par Le Metronu
- m\, est reconnu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/progr
- amme-transports-interdictions-tout-savoir-sur-le-festival-rio-loco-qui-deb
- ute-a-toulouse_64375591.html
-URL:https://actu.fr/occitanie/toulouse_31555/programme-transports-interdict
- ions-tout-savoir-sur-le-festival-rio-loco-qui-debute-a-toulouse_64375591.h
- tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:880d4237-e423-4ca6-8aec-4778af523954@news.lavillerose.com
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
@@ -2482,6 +2463,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/dans-le-parc-d-un-chateau-de-t
  enda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1928a0ef-284b-43bf-aa11-628d4e16c7af@news.lavillerose.com
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:La Piste des Géants devient un grand parc urbain à Montaudran
+DESCRIPTION:La Mairie de Toulouse a officiellement inauguré le 13 juin le 
+ nouveau parc de la Piste des Géants\, un espace vert de 4\,5 hectares et 
+ 1\,2 kilomètre de long dans le quartier de Montaudran. Ce site chargé d'
+ histoire — né avec l'aventure de l'Aéropostale en 1917 — se transfor
+ me en lieu de promenade\, de loisirs et de biodiversité urbaine. Le proje
+ t a permis de retirer 28 000 m² de bitume et de végétaliser 18 000 m² 
+ de pleine terre \; plus de 1 600 arbres ont déjà été plantés\, et 1 0
+ 00 plantations supp\n\nSource\: https://www.toulouscope.fr/2026/06/18/a-to
+ ulouse-la-piste-des-geants-se-transforme-en-un-grand-parc-vegetalise-et-ou
+ vert-a-tous-13414628.php
+URL:https://www.toulouscope.fr/2026/06/18/a-toulouse-la-piste-des-geants-se
+ -transforme-en-un-grand-parc-vegetalise-et-ouvert-a-tous-13414628.php?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:79bd916c-ea39-4d13-aaef-694cf15011a5@news.lavillerose.com
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
@@ -2644,6 +2644,19 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-18#43754?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:beebc327-bc11-4cb2-abf0-103df2479b0e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Cellule de Crise
+DESCRIPTION:Le Bijou accueille « Cellule de Crise »\, un cabaret vocal\, 
+ le jeudi 18 juin à 21h. L'entrée est fixée à 10 €. Le format cabaret
+  suggère une soirée scénique mêlant chant et performance live. L'évé
+ nement s'adresse aux amateurs de spectacle vocal à Toulouse.\n\nSource\: 
+ https://www.clutchmag.fr/evenements#2026-06-18-jeudi-18-juin-0
+URL:https://www.clutchmag.fr/evenements#2026-06-18-jeudi-18-juin-0?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b0c8af21-eeba-4093-b9bf-8b472f31e530@news.lavillerose.com
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260622
@@ -2679,6 +2692,85 @@ URL:https://actu.fr/occitanie/toulouse_31555/festival-cinema-en-plein-air-e
  t-record-du-monde-decouvrez-ce-que-cette-fin-de-semaine-vous-reserve-a-tou
  lous_64392397.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260921
+SUMMARY:Idées de sorties pour un week-end chargé à Toulouse
+DESCRIPTION:Ce week-end s'annonce animé à Toulouse avec plusieurs rendez-
+ vous sportifs et culturels. En sport\, la demi-finale du championnat Elite
+  1 féminin oppose le Stade toulousain féminin au Stade bordelais à 17h 
+ au Stade Ernest-Wallon\, tandis que les caisses à savon font leur retour 
+ avenue de la Colonne samedi de 14h à 18h (entrée à 10€\, gratuit pour
+  les spectateurs). Du côté de la culture\, le musée du Vieux Toulouse i
+ naugure une exposition consacrée à l'artiste toulousain André-Pierre Lu
+ piac\, visible \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-06-19#43891
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-19#43891?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0868e9d3-3e28-4534-90e5-fe8077ee4778@news.lavillerose.com
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Bel-Air Micro Festival
+DESCRIPTION:Le Bel-Air Micro Festival se tient le vendredi 19 juin à Pech-
+ David\, à partir de 16h. La programmation electro réunit notamment Barre
+ y-Vous\, BLR et Booster Club. L'entrée est accessible entre 8 et 14 €. 
+ L'événement s'adresse aux amateurs de musique électronique dans un cadr
+ e en plein air.\n\nSource\: https://www.clutchmag.fr/evenements#2026-06-18
+ -vendredi-19-juin-0
+URL:https://www.clutchmag.fr/evenements#2026-06-18-vendredi-19-juin-0?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:82fecbbe-e20e-40a5-86c7-1f48a870030d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Chabadabada
+DESCRIPTION:Le Kalinka accueille Chabadabada pour une soirée dîner-specta
+ cle le vendredi 19 juin à partir de 20h30. L'entrée est fixée à 25 €
+ . Le format dîner-spectacle combine repas et animation scénique dans un 
+ même lieu. L'événement s'adresse aux amateurs de sorties en soirée à 
+ Toulouse.\n\nSource\: https://www.clutchmag.fr/evenements#2026-06-18-vendr
+ edi-19-juin-2
+URL:https://www.clutchmag.fr/evenements#2026-06-18-vendredi-19-juin-2?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cef416f9-7670-4803-8eb0-637f02bf21f2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:Bliss Yoga Festival
+DESCRIPTION:Le Bliss Yoga Festival se tient à la Cartoucherie de Toulouse 
+ du vendredi 19 juin à 14h jusqu'au dimanche soir\, proposant 100 heures d
+ e cours\, ateliers\, conférences et concerts sur trois jours. Le programm
+ e — baptisé « progr'âme » — couvre un large éventail de disciplin
+ es : hatha\, vinyasa\, yin\, nidra\, kundalini\, yoga aérien\, pilates\, 
+ bains sonores et chants sacrés\, répartis entre les Halles\, The Roof\, 
+ l'Autre Lieu\, le parvis et le cinéma Veo. L'accès est libre sur présen
+ tation de son tapis\, sans\n\nSource\: https://www.lessentiel.fr/newslette
+ r/toulouse/2026-06-19#43888
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-19#43888?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f057c71c-0831-48c6-a3f3-232a43bb5a39@news.lavillerose.com
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260621
+SUMMARY:Village Fraîcheur Tisséo
+DESCRIPTION:Dans la continuité du plan fraîcheur de la Mairie de Toulouse
+ \, Tisséo Voyageurs active son opération « destinations fraîcheur » p
+ our accompagner les voyageurs lors des épisodes de chaleur intense. Un vi
+ llage fraîcheur sera installé les 19 et 20 juin sur le parvis des Arène
+ s\, de 10h à 18h30\, avec foodtrucks\, démonstrations culinaires assuré
+ es par des diététiciens d'Interfel\, jeux et animations. Une brigade fra
+ îcheur parcourra l'ensemble du réseau métro\, tram\, bus et Téléo pou
+ r aller au-devant des\n\nSource\: https://www.lessentiel.fr/newsletter/tou
+ louse/2026-06-19#43890
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-19#43890?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:46b78710-72b2-4eda-a85e-dd3dc0b05ada@news.lavillerose.com
@@ -2738,6 +2830,153 @@ URL:https://actu.fr/occitanie/toulouse_31555/incontournable-sur-les-reseaux
  -sociaux-ce-celebre-restaurant-italien-debarque-a-toulouse-voici-sa-date-d
  -ouverture_64389070.html?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2065e21e-6964-4829-a2c6-8f11ca3eb026@news.lavillerose.com
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+SUMMARY:Halle en fanfare
+DESCRIPTION:Le collectif Fanfarnaüm investit la Halle les 20 et 21 juin po
+ ur un week-end musical haut en couleur. Une centaine de musiciens se réun
+ iront pour animer des fanfares déchaînées dans une ambiance festive. L'
+ événement est présenté comme idéal entre amis ou en famille. Aucune i
+ nformation sur les horaires précis ni sur le prix d'entrée n'est mention
+ née dans l'extrait disponible.\n\nSource\: https://cdt31.tourinsoft.com/M
+ ailingElectroniqueUrlTracker.ashx?email_id=65b713e2-04a5-48a6-be18-bcb8fb0
+ 1730e&url_id=0609d467-ad37-476e-bed0-e4db03e2fbae
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=65b713e2-04a5-48a6-be18-bcb8fb01730e&url_id=0609d467-ad37-476e-bed0-e4db
+ 03e2fbae?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:22d56d9d-1d81-492f-8c41-21f1dc61ddfc@news.lavillerose.com
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:El Snitra
+DESCRIPTION:El Snitra se produit le samedi 20 juin à la Maison Blanche à 
+ partir de 21h\, pour une soirée de chaâbi algérien mêlé à un récit 
+ d'exil. L'entrée est à participation libre\, rendant l'événement acces
+ sible à tous. Selon clutch\, c'est la seule information disponible sur ce
+  concert.\n\nSource\: https://www.clutchmag.fr/evenements#2026-06-18-samed
+ i-20-juin-2
+URL:https://www.clutchmag.fr/evenements#2026-06-18-samedi-20-juin-2?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8bd9d1ad-2b45-4735-b1be-965507251e04@news.lavillerose.com
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Refugee Food Festival
+DESCRIPTION:Le Refugee Food Festival fait étape à Toulouse avec une soir
+ ée animée par Mr Boom le samedi 20 juin. L'événement se tient au Dada 
+ à partir de 19h\, proposant un mix musical accompagné d'un repas. L'entr
+ ée est accessible\, entre 5 et 15 euros selon clutch. Les détails sur le
+  format exact du repas et la programmation complète restent limités dans
+  les informations disponibles.\n\nSource\: https://www.clutchmag.fr/evenem
+ ents#2026-06-18-samedi-20-juin-1
+URL:https://www.clutchmag.fr/evenements#2026-06-18-samedi-20-juin-1?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9b996a87-ab7e-482b-b7a6-edf057ceab9c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+SUMMARY:Train à 1 euro
+DESCRIPTION:La Région Occitanie reconduit exceptionnellement son opératio
+ n « train à 1 euro » les samedi 20 et dimanche 21 juin 2026\, à l'occa
+ sion du premier anniversaire de la réouverture de la ligne Montréjeau-Lu
+ chon. L'offre\, habituellement limitée à un seul week-end\, est cette an
+ née étendue à deux lignes : Toulouse-Luchon et Toulouse-Tarbes (pour le
+ s trains en correspondance avec Montréjeau-Luchon)\, soit sept circulatio
+ ns concernées. Le tarif d'un euro s'applique par train emprunté\, ce qui
+  signifie que \n\nSource\: https://actu.fr/occitanie/toulouse_31555/train-
+ a-1-euro-l-operation-exceptionnellement-renouvelee-sur-deux-lignes-au-depa
+ rt-de-toulouse-ce-week-end_64386778.html
+URL:https://actu.fr/occitanie/toulouse_31555/train-a-1-euro-l-operation-exc
+ eptionnellement-renouvelee-sur-deux-lignes-au-depart-de-toulouse-ce-week-e
+ nd_64386778.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fe4eb308-98e9-4c8a-9c3a-48a67fbbd07e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Ça Mijote !
+DESCRIPTION:Le samedi 20 juin\, les Jardins du Muséum de Borderouge accuei
+ llent « Ça Mijote ! »\, une journée gratuite dédiée à l'alimentatio
+ n\, de 10h à 12h puis de 14h à 22h. Au programme : ateliers\, projection
+ s\, lectures\, rencontres-débats et animations autour du thème de la cui
+ sine et du partage. La soirée se conclura avec Donpasta et son Cooking DJ
+  set\, mêlant musique et culture culinaire. L'entrée est gratuite\, l'é
+ vénement est organisé par le Muséum de Toulouse Métropole.\n\nSource\:
+  https://www.clutchmag.fr/evenements#2026-06-18-samedi-20-juin-0
+URL:https://www.clutchmag.fr/evenements#2026-06-18-samedi-20-juin-0?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6909249c-b383-4f23-9c37-4922fd5b30e0@news.lavillerose.com
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Fête de la musique
+DESCRIPTION:La Fête de la musique se tient le dimanche 21 juin 2026 à Tou
+ louse\, avec un programme dense dans toute la ville : soirée électro dan
+ s le centre autour des rues Labeda et des 3-Journées\, marathon musical p
+ lace de la Trinité\, journée musique et skate sur les Ramblas allées Je
+ an-Jaurès\, et pour la première fois une soirée gratuite au Zénith met
+ tant en avant la jeune scène régionale (HYL\, The Twin Souls\, Matt Mend
+ ez) de 18h à 1h du matin. Des événements préfigurent également la fê
+ te dès le vendredi \n\nSource\: https://www.toulouscope.fr/2026/06/15/fet
+ e-de-la-musique-2026-quel-est-le-programme-a-toulouse-13412074.php
+URL:https://www.toulouscope.fr/2026/06/15/fete-de-la-musique-2026-quel-est-
+ le-programme-a-toulouse-13412074.php?utm_source=ical&utm_medium=calendar&u
+ tm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3dc118a3-cd82-4369-a5ab-9340fd6c737e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:La Garonne Exposé
+DESCRIPTION:L'exposition collective La Garonne Exposé célèbre son 25e an
+ niversaire le dimanche 21 juin au Jardin Monplaisir. Au programme : peintu
+ res\, photographies et sculptures\, dans un cadre en plein air. L'entrée 
+ est gratuite et l'événement débute à 10h. Une occasion accessible à t
+ ous les Toulousains de découvrir ou redécouvrir cet événement artistiq
+ ue ancré dans le quartier.\n\nSource\: https://www.clutchmag.fr/evenement
+ s#2026-06-18-dimanche-21-juin-1
+URL:https://www.clutchmag.fr/evenements#2026-06-18-dimanche-21-juin-1?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9ce5f643-66cf-438e-8221-fda2bb45c7cf@news.lavillerose.com
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Fête de la Musique
+DESCRIPTION:Les Halles de la Cartoucherie accueillent une soirée Fête de 
+ la Musique le dimanche 21 juin à partir de 18h. Au programme : electro po
+ p et trio tropical dub\, pour une entrée gratuite. L'événement s'inscri
+ t dans les nombreuses célébrations musicales organisées à Toulouse pou
+ r cette journée nationale. Selon clutch\, c'est une soirée accessible à
+  tous sans réservation.\n\nSource\: https://www.clutchmag.fr/evenements#2
+ 026-06-18-dimanche-21-juin-2
+URL:https://www.clutchmag.fr/evenements#2026-06-18-dimanche-21-juin-2?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f732311f-6708-4b89-98e1-27e0f2fd933a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Fête de la Musique
+DESCRIPTION:Toulouse célèbre la Fête de la Musique le dimanche 21 juin a
+ vec une programmation éclectique dans toute la ville. L'événement est g
+ ratuit et ouvert à tous\, entre amis ou en famille. En tant que Ville des
+  Musiques UNESCO\, Toulouse propose une ambiance festive et unique pour l'
+ occasion. Les détails précis de la programmation ne sont pas mentionnés
+  dans l'extrait disponible.\n\nSource\: https://cdt31.tourinsoft.com/Maili
+ ngElectroniqueUrlTracker.ashx?email_id=65b713e2-04a5-48a6-be18-bcb8fb01730
+ e&url_id=27d5b2c7-e94d-4f87-a987-b09bcc87ec8a
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=65b713e2-04a5-48a6-be18-bcb8fb01730e&url_id=27d5b2c7-e94d-4f87-a987-b09b
+ cc87ec8a?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:62f090bc-a113-4961-9c00-0b0b2af1ccb0@news.lavillerose.com
