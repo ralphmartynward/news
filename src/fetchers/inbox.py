@@ -378,8 +378,58 @@ def _extract_clutch(
                 "extracted_text": "\n".join(desc_lines)[:LESSENTIEL_TEXT_CAP],
                 "item_type": "event",
                 "event_date": None,
+                "image_url": None,
                 "metadata": {"from": from_addr, "day": day_label},
             })
+
+    # --- Image extraction from HTML ---
+    # Parse the HTML to find inline event images and match them to items by
+    # title proximity. Images appear between ➤ markers in the HTML structure.
+    try:
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Build ordered list of (title_snippet, image_url) from HTML
+        # by walking all elements and associating images with the nearest ➤ title
+        html_events: list[tuple[str, str]] = []  # (title_words, img_url)
+        current_title = ""
+        for el in soup.find_all(True):
+            text_content = el.get_text(" ", strip=True)
+            if "➤" in text_content and len(text_content) < 200:
+                current_title = re.sub(r".*➤\s*", "", text_content).strip()[:60].lower()
+            elif el.name == "img":
+                src = el.get("src", "")
+                if not src.startswith("http"):
+                    continue
+                # Skip tiny tracking/icon images
+                try:
+                    w = int(el.get("width", 0) or 0)
+                    if w and w < 80:
+                        continue
+                except (ValueError, TypeError):
+                    pass
+                if current_title:
+                    html_events.append((current_title, src))
+                    current_title = ""
+
+        # Match HTML images to text-parsed items by title words overlap
+        def _title_words(t: str) -> set:
+            return {w.lower().strip(".,!?:;-–") for w in t.split() if len(w) > 3}
+
+        for item in items:
+            if item.get("image_url"):
+                continue
+            item_words = _title_words(item["title"])
+            best_url, best_score = None, 0
+            for html_title, img_url in html_events:
+                score = len(item_words & _title_words(html_title))
+                if score > best_score:
+                    best_score, best_url = score, img_url
+            if best_score >= 2 and best_url:
+                item["image_url"] = best_url
+    except Exception as _img_exc:
+        import sys as _sys
+        print(f"inbox: clutch image extraction failed — {_img_exc}", file=_sys.stderr)
 
     return items
 
