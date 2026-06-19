@@ -605,8 +605,8 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
 
     today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT00:00:00")
     clusters  = cache_mod.load_instagram_clusters(conn, today_iso)
-    # Only place/culture → square post. Events have dedicated renderers.
-    clusters  = [c for c in clusters if c.get("category") in ("place", "culture")]
+    # Only place/culture with a real image → square post. Events have dedicated renderers.
+    clusters  = [c for c in clusters if c.get("category") in ("place", "culture") and c.get("image_url")]
 
     if not clusters:
         print("instagram: no place/culture clusters for today")
@@ -645,10 +645,10 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
     from src import cache as cache_mod
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    events = cache_mod.load_events_on_date(conn, today)
+    events = [e for e in cache_mod.load_events_on_date(conn, today) if e.get("image_url")]
 
     if not events:
-        print(f"instagram today events: no events for {today}")
+        print(f"instagram today events: no events with images for {today}")
         return []
 
     out_dir.mkdir(parents=True, exist_ok=True)
