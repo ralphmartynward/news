@@ -355,6 +355,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
 
     W, H = POST_W, POST_H
     PAD    = 52
+    PAD_BOTTOM = 120   # extra clearance for Instagram's action bar overlay
     TEXT_W = W - PAD * 2
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
@@ -400,7 +401,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
                + len(title_lines) * (lh + 10) + 12
                + len(all_ctx) * (ctx_h + 6) + 10
                + date_line_h + site_h + 8)
-    y = H - PAD - total_h
+    y = H - PAD_BOTTOM - total_h
 
     # category pill (centred)
     cat_label = CAT_PILLS.get(cluster.get("category", ""), "INFO")
