@@ -403,7 +403,14 @@ def load_weekend_events(conn: sqlite3.Connection, date_from: str, date_to: str) 
 
 
 def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[str, Any]]:
-    """Event clusters happening on date_iso — covers single-day and multi-day events."""
+    """Event clusters happening on date_iso that were synthesised within the last 3 days.
+
+    The recency filter prevents multi-month events (e.g. a festival running all summer)
+    from being reposted every day they are ongoing.
+    """
+    # 3-day lookback window so events appear shortly after discovery, not repeatedly
+    from datetime import date, timedelta
+    cutoff = (date.fromisoformat(date_iso) - timedelta(days=3)).isoformat()
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_end,
                   c.event_name,
@@ -418,8 +425,9 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
            WHERE c.category = 'event'
              AND c.event_start <= ?
              AND (c.event_end >= ? OR (c.event_end IS NULL AND c.event_start >= ?))
+             AND c.last_synthesised_at >= ?
            ORDER BY c.event_start""",
-        (date_iso, date_iso, date_iso),
+        (date_iso, date_iso, date_iso, cutoff),
     ).fetchall()
     return [dict(r) for r in rows]
 
