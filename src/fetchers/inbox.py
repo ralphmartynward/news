@@ -218,9 +218,10 @@ def _extract_officetourisme(
         for tag in soup.find_all(["style", "script", "head"]):
             tag.decompose()
 
-        # Collect (text_block, href) pairs — one per "EN SAVOIR PLUS" link
-        event_blocks: list[tuple[str, str]] = []
+        # Collect (text_block, href, image_url) triples — one per "EN SAVOIR PLUS" link
+        event_blocks: list[tuple[str, str, str | None]] = []
         current_lines: list[str] = []
+        current_img: str | None = None
         fallback_url = f"https://www.toulouse-tourisme.com/agenda#{received_at.strftime('%Y-%m-%d')}"
 
         for node in soup.recursiveChildGenerator():
@@ -229,12 +230,22 @@ def _extract_officetourisme(
                 if line and not _OT_SKIP_RE.search(line):
                     current_lines.append(line)
             elif hasattr(node, "name"):
-                if node.name == "a" and "EN SAVOIR PLUS" in node.get_text():
+                if node.name == "img":
+                    src = node.get("src", "")
+                    if src.startswith("http"):
+                        try:
+                            w = int(node.get("width", 0) or 0)
+                            if not w or w >= 80:
+                                current_img = src
+                        except (ValueError, TypeError):
+                            current_img = src
+                elif node.name == "a" and "EN SAVOIR PLUS" in node.get_text():
                     href = node.get("href", "") or fallback_url
                     block_text = "\n".join(current_lines).strip()
                     if block_text:
-                        event_blocks.append((block_text, href))
+                        event_blocks.append((block_text, href, current_img))
                     current_lines = []
+                    current_img = None
 
         if not event_blocks:
             return []
@@ -242,7 +253,7 @@ def _extract_officetourisme(
         items: list[dict[str, Any]] = []
         date_slug = received_at.strftime("%Y-%m-%d")
 
-        for idx, (block, href) in enumerate(event_blocks):
+        for idx, (block, href, img_url) in enumerate(event_blocks):
             lines = [l for l in block.splitlines() if l.strip()]
             if not lines:
                 continue
@@ -294,6 +305,7 @@ def _extract_officetourisme(
                 "extracted_text": excerpt,
                 "item_type": "event",
                 "event_date": None,
+                "image_url": img_url,
                 "metadata": {"from": from_addr},
             })
 
