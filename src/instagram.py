@@ -291,7 +291,9 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     event_name = cluster.get("event_name") or None
     summary    = cluster.get("summary", "")
     sentences  = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
-    context    = (sentences[0].rstrip(".") + ".") if sentences else ""
+    # Short punchy line — cap at 95 chars so it fits in ~2 lines at font 34
+    _ctx_raw = (sentences[0].rstrip(".") + ".") if sentences else ""
+    context  = (_ctx_raw[:92] + "…") if len(_ctx_raw) > 95 else _ctx_raw
 
     segs = _segment_title(title, event_name=event_name)
 
@@ -378,10 +380,11 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     title      = cluster.get("title", "")
     event_name = cluster.get("event_name") or None
     summary    = cluster.get("summary", "")
-    # First 1-2 sentences for the context line
     sentences = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
-    context = (sentences[0].rstrip(".") + ".") if sentences else ""
-    context2 = (sentences[1].rstrip(".") + ".") if len(sentences) > 1 else ""
+    _c0 = (sentences[0].rstrip(".") + ".") if sentences else ""
+    _c1 = (sentences[1].rstrip(".") + ".") if len(sentences) > 1 else ""
+    context  = (_c0[:92] + "…") if len(_c0) > 95 else _c0
+    context2 = (_c1[:92] + "…") if len(_c1) > 95 else _c1
 
     segs = _segment_title(title, event_name=event_name)
     lh   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
