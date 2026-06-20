@@ -313,7 +313,7 @@ def main() -> None:
                 instagram_run(conn, ig_dir)
                 render_today_events(conn, ig_dir)
 
-                if today_weekday in (4, 5):
+                if today_weekday == 4:  # Friday only — after Clutch+OfficeTourisme newsletters
                     render_weekend_carousel(conn, ig_dir)
             except Exception as _ig_err:
                 print(f"instagram: FAILED — {type(_ig_err).__name__}: {_ig_err}", file=sys.stderr)

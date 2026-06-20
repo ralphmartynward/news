@@ -48,6 +48,7 @@ MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN event_name TEXT",
     "ALTER TABLE clusters ADD COLUMN primary_url TEXT",
     "ALTER TABLE items ADD COLUMN image_url TEXT",
+    "ALTER TABLE clusters ADD COLUMN ig_story_at TEXT",
 ]
 
 
@@ -403,14 +404,11 @@ def load_weekend_events(conn: sqlite3.Connection, date_from: str, date_to: str) 
 
 
 def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[str, Any]]:
-    """Event clusters happening on date_iso that were synthesised within the last 3 days.
+    """Event clusters happening on date_iso that have not yet been posted as a Story.
 
-    The recency filter prevents multi-month events (e.g. a festival running all summer)
-    from being reposted every day they are ongoing.
+    ig_story_at IS NULL ensures each event is only ever posted once as an Instagram Story.
+    Covers single-day and multi-day events (event_start <= date <= event_end).
     """
-    # 3-day lookback window so events appear shortly after discovery, not repeatedly
-    from datetime import date, timedelta
-    cutoff = (date.fromisoformat(date_iso) - timedelta(days=3)).isoformat()
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_end,
                   c.event_name,
@@ -425,11 +423,20 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
            WHERE c.category = 'event'
              AND c.event_start <= ?
              AND (c.event_end >= ? OR (c.event_end IS NULL AND c.event_start >= ?))
-             AND c.last_synthesised_at >= ?
+             AND c.ig_story_at IS NULL
            ORDER BY c.event_start""",
-        (date_iso, date_iso, date_iso, cutoff),
+        (date_iso, date_iso, date_iso),
     ).fetchall()
     return [dict(r) for r in rows]
+
+
+def mark_ig_story_posted(conn: sqlite3.Connection, cluster_ids: list[str], posted_at: str) -> None:
+    """Record that these clusters have been posted as Instagram Stories."""
+    conn.executemany(
+        "UPDATE clusters SET ig_story_at = ? WHERE cluster_id = ?",
+        [(posted_at, cid) for cid in cluster_ids],
+    )
+    conn.commit()
 
 
 def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[dict[str, Any]]:

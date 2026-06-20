@@ -606,7 +606,7 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
     today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT00:00:00")
     clusters  = cache_mod.load_instagram_clusters(conn, today_iso)
     # Only place/culture with a real image → square post. Events have dedicated renderers.
-    clusters  = [c for c in clusters if c.get("category") in ("place", "culture") and c.get("image_url")]
+    clusters  = [c for c in clusters if c.get("category") in ("place", "culture") and _good_image_url(c.get("image_url"))]
 
     if not clusters:
         print("instagram: no place/culture clusters for today")
@@ -640,12 +640,24 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
     return manifest
 
 
+_BAD_IMAGE_PATTERNS = ("lessentiel.fr/nl/", "lessentiel.fr/nl/l.", "/nl/b.png", "/nl/r/")
+
+def _good_image_url(url: str | None) -> bool:
+    if not url:
+        return False
+    return not any(p in url for p in _BAD_IMAGE_PATTERNS)
+
+
 def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
-    """Generate Format 1 (story) images for events happening today (including multi-day)."""
+    """Generate Format 1 (story) images for events happening today (including multi-day).
+
+    Each event is posted as a Story only once (ig_story_at tracks this).
+    """
     from src import cache as cache_mod
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    events = [e for e in cache_mod.load_events_on_date(conn, today) if e.get("image_url")]
+    events = [e for e in cache_mod.load_events_on_date(conn, today)
+              if _good_image_url(e.get("image_url"))]
 
     if not events:
         print(f"instagram today events: no events with images for {today}")
@@ -653,6 +665,7 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
 
     out_dir.mkdir(parents=True, exist_ok=True)
     manifest: list[dict[str, Any]] = []
+    posted_ids: list[str] = []
 
     for ev in events:
         cid      = ev["cluster_id"]
@@ -667,12 +680,16 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
                 "category": "event", "title": ev.get("title"),
                 "image_url": ev.get("image_url"), "file": filename,
             })
+            posted_ids.append(cid)
         except Exception as e:
             print(f"  instagram today: FAILED {cid} — {type(e).__name__}: {e}")
 
     (out_dir / "today_events_manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    # Mark as story-posted so they don't reappear tomorrow
+    if posted_ids:
+        cache_mod.mark_ig_story_posted(conn, posted_ids, today)
     print(f"instagram today events: {len(manifest)} story(ies) written to {out_dir}")
     return manifest
 
