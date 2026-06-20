@@ -1,0 +1,56 @@
+[
+  {
+    "cluster_id": "cluster:86daf088-4514-459a-916b-6d70e19516aa",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Partir en Livre revient pour une 12e édition autour des héros",
+    "image_url": "https://www.lessentiel.fr/nl/l.png",
+    "file": "cluster_86daf088-4514-459a-916b-6d70e19516aa_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cc51ffdd-31a8-4fbf-85c6-badefee0962e",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Week-end chargé à Toulouse : festival, cinéma en plein air et record du monde",
+    "image_url": "https://static.actu.fr/uploads/2026/06/toulouse-bord-de-garonne-1200x800-1.jpg",
+    "file": "cluster_cc51ffdd-31a8-4fbf-85c6-badefee0962e_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cef416f9-7670-4803-8eb0-637f02bf21f2",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Bliss Yoga Festival investit la Cartoucherie ce week-end",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/bliss-hallesdelacartoucheriecre-udit-remysirieix_-581_0.jpg?itok=REqJm4Jl",
+    "file": "cluster_cef416f9-7670-4803-8eb0-637f02bf21f2_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f057c71c-0831-48c6-a3f3-232a43bb5a39",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Tisséo lance son plan fraîcheur pour les fortes chaleurs",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/tisseo-fraicheur--4-.jpg?h=731e6f41&itok=C_Vwbm9A",
+    "file": "cluster_f057c71c-0831-48c6-a3f3-232a43bb5a39_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:875e7bbe-4d1e-433e-bbae-bc24ca3757a2",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "La Voile Blanche lance sa saison estivale avec un showcase de Franglish",
+    "image_url": "https://static.actu.fr/uploads/2026/06/dsc01336-enhanced-nr.jpg",
+    "file": "cluster_875e7bbe-4d1e-433e-bbae-bc24ca3757a2_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9b996a87-ab7e-482b-b7a6-edf057ceab9c",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Trains à 1 euro prolongés ce week-end sur deux lignes depuis Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2026/06/trains-lio-occitanie-ml.jpg",
+    "file": "cluster_9b996a87-ab7e-482b-b7a6-edf057ceab9c_event_story.jpg"
+  }
+]

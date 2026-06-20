@@ -1,0 +1,65 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-06-20",
+  "sunday": "2026-06-21",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:46b78710-72b2-4eda-a85e-dd3dc0b05ada",
+      "title": "Un collectif toulousain veut battre le record mondial de DJs en simultané"
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:1c776fb4-2646-45e7-a460-7a4c5802529e",
+      "title": "Festa Nòu, première fête des producteurs ariégeois à Saverdun"
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2065e21e-6964-4829-a2c6-8f11ca3eb026",
+      "title": "Halle en fanfare : un week-end festif avec le collectif Fanfarnaüm"
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:22d56d9d-1d81-492f-8c41-21f1dc61ddfc",
+      "title": "El Snitra en concert : chaâbi algérien et récit d'exil"
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8bd9d1ad-2b45-4735-b1be-965507251e04",
+      "title": "Refugee Food Festival : soirée mix et repas à Toulouse"
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:9b996a87-ab7e-482b-b7a6-edf057ceab9c",
+      "title": "Trains à 1 euro prolongés ce week-end sur deux lignes depuis Toulouse"
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:fe4eb308-98e9-4c8a-9c3a-48a67fbbd07e",
+      "title": "Journée alimentation et cuisine aux Jardins du Muséum de Borderouge"
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:6909249c-b383-4f23-9c37-4922fd5b30e0",
+      "title": "Fête de la musique 2026 à Toulouse : programme et bilan Rio Loco"
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:3dc118a3-cd82-4369-a5ab-9340fd6c737e",
+      "title": "La Garonne Exposé fête ses 25 ans au Jardin Monplaisir"
+    }
+  ]
+}
