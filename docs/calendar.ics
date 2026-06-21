@@ -2534,6 +2534,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/airbus-cette-compagnie-realise
  e-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6a00c829-401a-4c70-b216-1a3b74d8e684@news.lavillerose.com
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Café Joyeux Toulouse
+DESCRIPTION:Le Café Joyeux\, enseigne nationale connue pour employer des p
+ ersonnes en situation de handicap mental et cognitif\, a officiellement ou
+ vert le mardi 16 juin 2026 au 18 place des Carmes\, après un an de travau
+ x. Il s'agit de la 26e adresse française et de la 34e à l'échelle inter
+ nationale\, l'enseigne étant également présente au Portugal\, en Belgiq
+ ue et aux États-Unis. L'équipe toulousaine compte dix salariés\, dont l
+ a moitié en situation de handicap\, parmi lesquels Mathias\, 23 ans\, et 
+ Enguerrand\, 20\n\nSource\: https://actu.fr/occitanie/toulouse_31555/il-et
+ ait-attendu-depuis-des-annees-le-premier-cafe-joyeux-de-toulouse-vient-d-o
+ uvrir-ses-portes_64417837.html
+URL:https://actu.fr/occitanie/toulouse_31555/il-etait-attendu-depuis-des-an
+ nees-le-premier-cafe-joyeux-de-toulouse-vient-d-ouvrir-ses-portes_64417837
+ .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b9a475d7-3039-4fb9-af40-0c9a41a793d1@news.lavillerose.com
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260628
@@ -2644,6 +2663,26 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-18#43754?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:72705c46-d84a-45e7-88b1-737ab0e019a4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260624
+SUMMARY:Canicule orange en Haute-Garonne : collèges fermés\, feux interdi
+ ts\, événements annulés
+DESCRIPTION:Depuis le vendredi 19 juin 2026 à midi\, la Haute-Garonne est 
+ placée en vigilance orange canicule\, avec des températures atteignant 3
+ 7-38°C et des pointes prévues à 40°C lundi. De nombreux collèges de l
+ 'agglomération toulousaine ont décidé d'avancer la fin de l'année scol
+ aire\, certains fermant dès le vendredi à la mi-journée — chaque prin
+ cipal restant libre de prendre cette décision. Le préfet a pris un arrê
+ té interdisant feux d'artifice\, brandons et tout feu sur l'espace public
+  dans les arrondis\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ca
+ nicule-de-nombreux-colleges-arretent-les-cours-plus-tot-que-prevu-en-haute
+ -garonne_64420283.html
+URL:https://actu.fr/occitanie/toulouse_31555/canicule-de-nombreux-colleges-
+ arretent-les-cours-plus-tot-que-prevu-en-haute-garonne_64420283.html?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:beebc327-bc11-4cb2-abf0-103df2479b0e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
@@ -2692,26 +2731,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/festival-cinema-en-plein-air-e
  t-record-du-monde-decouvrez-ce-que-cette-fin-de-semaine-vous-reserve-a-tou
  lous_64392397.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:ce65d7b6-89de-4ea7-a83c-4b1cac8c02a4@news.lavillerose.com
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-SUMMARY:Stade Toulousain en demi-finale : doutes et absences avant le Racin
- g 92
-DESCRIPTION:Le Stade Toulousain affronte le Racing 92 vendredi 19 juin au V
- élodrome de Marseille pour une demi-finale de Top 14\, mais l'inquiétude
-  est grande côté toulousain. Thomas Ramos\, arrière titulaire et meille
- ur buteur de l'histoire du club\, est forfait sur blessure aux ischio-jamb
- iers\, privant Toulouse d'un élément clé de ses phases finales depuis 2
- 019. Antoine Dupont\, lui\, sera présent malgré des semaines d'absence p
- our une blessure aux adducteurs\, mais son niveau reste en deçà de son m
- eilleur depu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/thomas-r
- amos-incertain-pour-la-demi-finale-que-changerait-son-forfait-pour-le-stad
- e-toulousain_64414679.html
-URL:https://actu.fr/occitanie/toulouse_31555/thomas-ramos-incertain-pour-la
- -demi-finale-que-changerait-son-forfait-pour-le-stade-toulousain_64414679.
- html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
@@ -3165,6 +3184,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/apres-32-ans-de-soirees-memora
  bles-la-planete-rock-discotheque-mythique-ferme-definitivement-a-toulouse_
  64391399.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ce65d7b6-89de-4ea7-a83c-4b1cac8c02a4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Finale Top 14
+DESCRIPTION:Le Stade Toulousain a battu le Racing 92 sur le score record de
+  71 à 17 en demi-finale du Top 14\, vendredi 19 juin au Vélodrome de Mar
+ seille\, décrochant ainsi sa place pour la finale du samedi 27 juin au St
+ ade de France. Les articles pré-match soulignaient l'incertitude autour d
+ u forfait de Thomas Ramos (ischio-jambiers) et les doutes sur le niveau du
+  collectif toulousain depuis plusieurs semaines\, notamment l'absence de f
+ orme retrouvée d'Antoine Dupont après sa blessure. Malgré ces inquiétu
+ des\,\n\nSource\: https://actu.fr/occitanie/toulouse_31555/thomas-ramos-in
+ certain-pour-la-demi-finale-que-changerait-son-forfait-pour-le-stade-toulo
+ usain_64414679.html
+URL:https://actu.fr/occitanie/toulouse_31555/thomas-ramos-incertain-pour-la
+ -demi-finale-que-changerait-son-forfait-pour-le-stade-toulousain_64414679.
+ html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:bfcbe71a-40c5-4d54-9b98-0445eb177125@news.lavillerose.com
