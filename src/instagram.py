@@ -289,11 +289,6 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
 
     title      = cluster.get("title", "")
     event_name = cluster.get("event_name") or None
-    summary    = cluster.get("summary", "")
-    sentences  = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
-    # Short punchy line — cap at 95 chars so it fits in ~2 lines at font 34
-    _ctx_raw = (sentences[0].rstrip(".") + ".") if sentences else ""
-    context  = (_ctx_raw[:92] + "…") if len(_ctx_raw) > 95 else _ctx_raw
 
     segs = _segment_title(title, event_name=event_name)
 
@@ -303,15 +298,14 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     site_h   = draw.textbbox((0, 0), "A", font=f_tiny)[3]
 
     title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:4]
-    ctx_lines   = _wrap_text(context, f_sub, TEXT_W, draw)[:3]
 
-    ev_date = _french_date(cluster.get("event_start") or "")
-    date_h  = sub_h + 12 if ev_date else 0
+    # Always show today's date — for multi-day events event_start could be days ago
+    today_date = _french_date(datetime.now(timezone.utc).strftime("%Y-%m-%d"))
 
     total_h = (cat_h + 16
                + len(title_lines) * (lh + 12) + 14
-               + len(ctx_lines) * (sub_h + 8) + 10
-               + date_h + site_h + 8)
+               + sub_h + 12
+               + site_h + 8)
     y = H - PAD - total_h
 
     # category pill
@@ -331,16 +325,9 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, TEXT_W, line_bonus=12)
     y += 14
 
-    # context
-    for line in ctx_lines:
-        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 190))
-        y += sub_h + 8
-    y += 4
-
-    # date in green
-    if ev_date:
-        draw.text((PAD, y), ev_date + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
-        y += sub_h + 12
+    # date in green — always today
+    draw.text((PAD, y), today_date + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
+    y += sub_h + 12
 
     draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
 
