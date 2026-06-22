@@ -2991,15 +2991,15 @@ BEGIN:VEVENT
 UID:cluster:6909249c-b383-4f23-9c37-4922fd5b30e0@news.lavillerose.com
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:Fête de la musique
+SUMMARY:Fête de la Musique
 DESCRIPTION:La Fête de la musique se tient le dimanche 21 juin 2026 à Tou
- louse\, avec un programme dense dans toute la ville : soirée électro dan
- s le centre autour des rues Labeda et des 3-Journées\, marathon musical p
- lace de la Trinité\, journée musique et skate sur les Ramblas allées Je
- an-Jaurès\, et pour la première fois une soirée gratuite au Zénith met
- tant en avant la jeune scène régionale (HYL\, The Twin Souls\, Matt Mend
- ez) de 18h à 1h du matin. Des événements préfigurent également la fê
- te dès le vendredi \n\nSource\: https://www.toulouscope.fr/2026/06/15/fet
+ louse\, coïncidant cette année avec la Fête des pères. Le programme es
+ t particulièrement dense : soirée gratuite au Zénith avec la jeune scè
+ ne régionale (HYL\, The Twin Souls\, Matt Mendez)\, marathon électro en 
+ centre-ville organisé par le collectif Sunsept France dans huit établiss
+ ements\, ambiance house et skate sur les Ramblas\, ou encore DJ sets place
+  de la Trinité. Des événements préfigurant la Fête de la musique sont
+  également signalé\n\nSource\: https://www.toulouscope.fr/2026/06/15/fet
  e-de-la-musique-2026-quel-est-le-programme-a-toulouse-13412074.php
 URL:https://www.toulouscope.fr/2026/06/15/fete-de-la-musique-2026-quel-est-
  le-programme-a-toulouse-13412074.php?utm_source=ical&utm_medium=calendar&u
@@ -3057,19 +3057,72 @@ UID:cluster:adf8ad20-6b5a-451b-993c-cc430280344b@news.lavillerose.com
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Tremplin Rose Festival
-DESCRIPTION:Le lundi 22 juin\, quatre artistes émergents d'Occitanie s'aff
- ronteront en finale du Tremplin Rose Festival sur la scène du Bikini à T
- oulouse. Cette soirée gratuite\, ouverte à tous\, se tiendra devant un j
- ury de professionnels et en présence de Bigflo & Oli\, co-organisateurs d
- u dispositif avec l'association Rose. Lancé il y a trois ans\, ce trempli
- n a reçu plus de 300 candidatures cette année\, signe d'un succès grand
- issant. Les deux lauréats décrocheront un accompagnement artistique et u
- ne place à \n\nSource\: https://www.toulouscope.fr/2026/06/19/la-finale-d
- u-tremplin-rose-festival-2026-se-disputera-au-bikini-ce-22-juin-13423662.p
- hp
+DESCRIPTION:Quatre artistes émergents d'Occitanie s'affrontent lundi 22 ju
+ in sur la scène du Bikini pour la finale du Tremplin Rose Festival\, en p
+ résence d'un jury de professionnels et de Bigflo & Oli. Le dispositif\, o
+ rganisé depuis trois ans par Bigflo & Oli et l'association Rose\, vise à
+  révéler les talents de la région âgés de 16 à 35 ans dans les musiq
+ ues actuelles. Les quatre finalistes — Etane\, Milhan\, Noé Extrat et O
+ deza — proposent des univers orientés chanson\, pop électro et musique
+ s latines\, sans r\n\nSource\: https://www.toulouscope.fr/2026/06/19/la-fi
+ nale-du-tremplin-rose-festival-2026-se-disputera-au-bikini-ce-22-juin-1342
+ 3662.php
 URL:https://www.toulouscope.fr/2026/06/19/la-finale-du-tremplin-rose-festiv
  al-2026-se-disputera-au-bikini-ce-22-juin-13423662.php?utm_source=ical&utm
  _medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260703
+SUMMARY:Travaux de nuit sur le périphérique est toulousain fin juin
+DESCRIPTION:Vinci Autoroutes va réaliser des travaux de maintenance sur le
+  périphérique est de Toulouse en deux phases : du lundi 22 au jeudi 25 j
+ uin\, puis du lundi 29 juin au jeudi 2 juillet 2026. Les opérations se d
+ érouleront exclusivement de nuit\, de 21h à 6h\, avec chaque nuit un tro
+ nçon de 5 km concerné sur les 35 km que compte le périphérique. Les in
+ terventions incluent l'inspection des ouvrages d'art\, l'hydrocurage des c
+ aniveaux\, la réparation des glissières de sécurité\, la vérification
+  de la signalis\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-06-22#44059
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-22#44059?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b1dbe20b-8200-47f7-98bd-3ff976ef7ccf@news.lavillerose.com
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260629
+SUMMARY:Hyperreel
+DESCRIPTION:L'artiste Stéphanie Torrents présente sa première exposition
+ \, intitulée « Hyperreel »\, à la Maison Olpé\, espace éphémère si
+ tué au 22 rue de la Bourse à Toulouse. Ses œuvres en résine colorée 
+ — glaces acidulées\, vases\, demi-sphères pigmentées — composent un
+  univers vif et optimiste\, ouvert de 10h à 22h. Chaque pièce est pensé
+ e comme une invitation à l'optimisme\, mêlant précision du détail et s
+ pontanéité\, et rend hommage à des figures féminines emblématiques te
+ lles que Marilyn Monroe et Frida Kahl\n\nSource\: https://www.lessentiel.f
+ r/newsletter/toulouse/2026-06-22#44060
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-22#44060?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f7d6d3a4-4f5b-4f54-8b00-1a464281fb07@news.lavillerose.com
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Job Dating Mobilité
+DESCRIPTION:Un job dating dédié aux métiers de la mobilité se tiendra l
+ e 23 juin 2026 sur les allées Guesde à Toulouse\, organisé par l'UTPF\,
+  la FNTV Occitanie et France Travail\, avec Tisséo comme partenaire princ
+ ipal. Plus de 200 postes en CDD\, CDI et alternance y seront proposés. L'
+ événement mettra particulièrement en avant la féminisation du secteur 
+ et les métiers de maintenance\, jugés en tension critique\, avec des tal
+ k-shows dans un bus électrique et des démonstrations en réalité virtue
+ lle. Ce rendez-vou\n\nSource\: https://actu.fr/occitanie/toulouse_31555/em
+ ploi-plus-de-200-postes-sont-a-pourvoir-a-toulouse-lors-d-un-grand-job-dat
+ ing_64414503.html
+URL:https://actu.fr/occitanie/toulouse_31555/emploi-plus-de-200-postes-sont
+ -a-pourvoir-a-toulouse-lors-d-un-grand-job-dating_64414503.html?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:62f090bc-a113-4961-9c00-0b0b2af1ccb0@news.lavillerose.com
@@ -3222,6 +3275,24 @@ DESCRIPTION:Le vendredi 3 juillet 2026\, le Château Arton à Lectoure (Ger
 URL:https://www.toulouscope.fr/2026/06/03/ce-chateau-du-gers-prime-pour-son
  -armagnac-organise-une-soiree-inedite-avec-theatre-dj-set-et-cocktails-133
  80150.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:148f61ad-4cc9-4205-817a-f17e1a2b6e1d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260719
+SUMMARY:L'Été Caouec
+DESCRIPTION:La Ville de Blagnac organise à nouveau l'Été Caouec\, son é
+ vénement estival familial\, du 4 au 18 juillet au parc du Ritouret. Au pr
+ ogramme : structures gonflables\, mur d'escalade\, mini-golf\, tennis de t
+ able\, tente jeux d'arcade et défis sportifs pour petits et grands. Des e
+ spaces ombragés\, des jeux d'eau et une zone pique-nique sont prévus pou
+ r faire face à la chaleur. Chaque après-midi dès 16h\, une guinguette p
+ ropose boissons et snacks sur place.\n\nSource\: https://www.toulouscope.f
+ r/2026/06/21/a-blagnac-levenement-estival-melant-jeux-spectacles-concerts-
+ et-guinguette-revient-en-juillet-13420122.php
+URL:https://www.toulouscope.fr/2026/06/21/a-blagnac-levenement-estival-mela
+ nt-jeux-spectacles-concerts-et-guinguette-revient-en-juillet-13420122.php?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c48c24b5-1db6-47a8-a12f-d3b19d4ccfde@news.lavillerose.com
