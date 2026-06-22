@@ -25,7 +25,7 @@ CACHE_PATH = Path("data/items_seen.db")
 SITE_BASE = "https://news.lavillerose.com"
 
 FETCHERS = [
-    ("actu_toulouse", actu_toulouse.fetch),
+    ("actu_toulouse", lambda: actu_toulouse.fetch(within_hours=36)),
     ("toulouscope", toulouscope.fetch),
     ("inbox", inbox.fetch),
 ]
