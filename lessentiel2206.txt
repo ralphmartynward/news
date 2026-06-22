@@ -1,0 +1,1252 @@
+Delivered-To: chaosskill@gmail.com
+Received: by 2002:a05:612c:6d8c:b0:5aa:af5c:cfbe with SMTP id 12csp1943069vqt; Sun, 21 Jun 2026 21:07:05 -0700 (PDT)
+X-Forwarded-Encrypted: i=3; AFNElJ9wmkLXGwJ58DLzFDnjDhjwIslrunCxBLk3+P0AHCG+R8+LfLBsD1eFS/uRz6xu71ui4jRkcWqg4lem@gmail.com
+X-Received: by 2002:a05:620a:4728:b0:915:8502:f7fe with SMTP id af79cd13be357-9208ef600ffmr2214695885a.15.1782101225230; Sun, 21 Jun 2026 21:07:05 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1782101225; cv=pass; d=google.com; s=arc-20260327; b=dTOfcizVDWv+K0JJNOfwXaYtHkYzObks6VSiRyXq1/j03wVP8zkY71dpX+pNEZ3jqR yr5vsynGKF+Ae+QClqfD0bYTA1ehK9lXX3nt5ZTTp+fMgH6/OkU0Lf6Tx4x3WpKp2LNh rCBAoTPxEPJekh8BKSbxWizLPYyQ0NA45ydD8+NsMlK7ZlxRUZXpOAcW+axSMv1UdbWv JKkap908d2MWLOmXf2IynTryKEhfCQBN4H2F61ArKf/qomp2P2CiawzPI756o/jMMPg4 wolxxvDiS+IiPVcOQYYhahq673BcRRY5ijCpTXP99QkDhhF+xrKsLMgg6QPyN7ljIPVa Iz0Q==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327; h=feedback-id:list-unsubscribe:list-unsubscribe-post:mime-version :subject:message-id:to:reply-to:from:date:cfbl-address :dkim-signature:dkim-signature:dkim-signature:dkim-signature; bh=C3YgbtgRFQvCp25OpD+Buq7f7gch6dWCPYp0JW0ulmI=; fh=m2iAmg6EoxJ271+/I+52CVOrYeaNhQ/kPF+T7JF816A=; b=R+YkoWQQ4JLnUmdy1yEF1NAsz+jMmhik3DLxAMO9NBylqYm3YxIlW1lOggET0D06yJ d/xgcklEkasXj9YPxxnWrHymLIeTVQO1Z9pncfPHYwkSFY38uh0OTk+YlPlSNHOASoqs rRMC425KehGJjLo1yXaNsgqgeuRzbK5Q4LE9avP1Zsh9EpkRw4+GPxED1DnSYol1u98S qa9csN7ADJJLPaFgZPwbbH+lzoxleeEhYdXBd5pFlnYGcgADxUwgouIKiQ1e+Hw9LUs+ visjuhnL9xKMkQ5GUM+QkgKwSAcf5g9oaYbFTTrNCgqNEzyN2Qwn7CxPDnOcDRtNM7Eo H2BA==; dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com; dkim=pass header.i=@cloudflare-email.net header.s=cf2024-1 header.b=hDQHAgFi; dkim=pass header.i=@lavillerose.com header.s=cf2024-1 header.b=XTEvl3T+; dkim=pass header.i=@toulouse.lessentiel.fr header.s=acdkim1 header.b=JzvlRPsS; dkim=pass header.i=@acems5.com header.s=acdkim1 header.b=Ks4GYito; arc=pass (i=1 spf=pass spfdomain=em-2943080.toulouse.lessentiel.fr dkim=pass dkdomain=toulouse.lessentiel.fr dkim=pass dkdomain=acems5.com dmarc=pass fromdomain=toulouse.lessentiel.fr); spf=pass (google.com: domain of cfbounces+ndrdrop@lavillerose.com designates 104.30.10.130 as permitted sender) smtp.mailfrom=cfbounces+ndrdrop@lavillerose.com; dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=lessentiel.fr
+Return-Path: <cfbounces+ndrdrop@lavillerose.com>
+Received: from ba-bda.cloudflare-email.net (ba-bda.cloudflare-email.net. [104.30.10.130]) by mx.google.com with ESMTPS id af79cd13be357-921dac721c0si742428885a.209.2026.06.21.21.07.04 for <chaosskill@gmail.com> (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128); Sun, 21 Jun 2026 21:07:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of cfbounces+ndrdrop@lavillerose.com designates 104.30.10.130 as permitted sender) client-ip=104.30.10.130;
+Authentication-Results: mx.google.com; dkim=pass header.i=@cloudflare-email.net header.s=cf2024-1 header.b=hDQHAgFi; dkim=pass header.i=@lavillerose.com header.s=cf2024-1 header.b=XTEvl3T+; dkim=pass header.i=@toulouse.lessentiel.fr header.s=acdkim1 header.b=JzvlRPsS; dkim=pass header.i=@acems5.com header.s=acdkim1 header.b=Ks4GYito; arc=pass (i=1 spf=pass spfdomain=em-2943080.toulouse.lessentiel.fr dkim=pass dkdomain=toulouse.lessentiel.fr dkim=pass dkdomain=acems5.com dmarc=pass fromdomain=toulouse.lessentiel.fr); spf=pass (google.com: domain of cfbounces+ndrdrop@lavillerose.com designates 104.30.10.130 as permitted sender) smtp.mailfrom=cfbounces+ndrdrop@lavillerose.com; dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=lessentiel.fr
+DKIM-Signature: v=1; a=rsa-sha256; s=cf2024-1; d=cloudflare-email.net; c=relaxed/relaxed; h=Feedback-ID:List-Unsubscribe:List-Unsubscribe-Post:Subject:To:Reply-To :From:Date:from:cc:resent-date:resent-from:resent-to:resent-cc:in-reply-to :references:list-id:list-help:list-subscribe:list-post:list-owner :list-archive; t=1782101225; x=1782706025; bh=C3YgbtgRFQvCp25OpD+Buq7f7gch6 dWCPYp0JW0ulmI=; b=hDQHAgFi0ec1O0jH3xI2HFon2v316Aycw8O0QF17PQLMHl0w8WmhaUT5 J+hykdMzN4wPcrmqwsBMph1+ifI0zzE74tgzMfW951sXTr8vj5V2g6NA9eN77zB0cVrJKbMaxIV eU7fz0vQgtpp98MknU7crgT68ygQAzCURoVbqyDjJNE78393JnO4PXW52hxjfqGuFj30eL59VXC Nh/mK8fIRLOzJHmbi8XlMzcdIbNgTEAEqCxrfA6dPRqK7u+yWl8b0efoLbeYPb9mx1ze05R24cI 07C8no/sO0KqZUUGGnZ+1pwoI/osGR2Wa1kWwjoLfY/bpYJoqOhHDF+qqWMYw==;
+DKIM-Signature: v=1; a=rsa-sha256; s=cf2024-1; d=lavillerose.com; c=relaxed/relaxed; h=Feedback-ID:List-Unsubscribe:List-Unsubscribe-Post:Subject:To:Reply-To :From:Date:from:cc:resent-date:resent-from:resent-to:resent-cc:in-reply-to :references:list-id:list-help:list-subscribe:list-post:list-owner :list-archive; t=1782101225; x=1782706025; bh=C3YgbtgRFQvCp25OpD+Buq7f7gch6 dWCPYp0JW0ulmI=; b=XTEvl3T+dzLt2wyku0aXCHz+rWkQnTn0vVDFK+u21LhU0Bxud1tE3a42 YZ9pLli5uvHp5nkSyb0MNnpuLNQxZ5wfRYA3SfV/TDg/vH5WK3lGOiiL/6qMY9++R6x49kKIosd bNCIEaRW6SvQIAf+uSdE/nmshcrh20MOyllKkfsbCEnfRHLEFPI65dJzxuzdto7xetE2YUOkepj aEy/gZlD6LU0HvkR5zmOIj+LBN47+1pVNwscEPSQhQvAS+Kk7lYh3hgmnDQG9LtTON+kfH6MY3y VPTRBriKhtS1kZjH5c9NNIxrYzEftZyMOnnxgyXaNx0xFNSxq4eeo0X4ynalQ==;
+X-Forwarded-To: chaosskill@gmail.com
+X-Forwarded-For: chaosskill@gmail.com chaosskill@gmail.com
+Received: from s4.csa2.acemsb3.com (52.128.40.54) by cloudflare-email.net (cloudflare) id iyZwK2c3gzfK for <newsletters@lavillerose.com>; Mon, 22 Jun 2026 04:07:02 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=cf2024-1; d=cloudflare-email.net; cv=none; b=RhFr7N2Csb2qxNXq+q3ujWiU8LBAgNA86GGdZcTiePseJ1iXpQA7ivvVLwyRH7VCiqEwe0Eqw hmG2BM6Oudn+qhKiXs7pG5cp4NKPKAiigNXGpAqGmcui+nupbgzlAMjPJPUKN1bP2Uo+hGPlwlH On+QuauOSJ9DNcdh5NGsd6wtmjVUL2e2pgZtPFwSY3VdBHRwIOvsVwdfa4Nm48XdMF8+cTQ8ROB CoQABPiEnSqJgAQXyqBv5/kub5xzTjCOLBU4Gn/050Siveruhben6+GVMumsPEjXtK2Fmp3LXPN fkEQbKOJ1uGrNlK0owv8pVh/0kK0iyOapSXOSp22znxg==;
+ARC-Message-Signature: i=1; a=rsa-sha256; s=cf2024-1; d=cloudflare-email.net; c=relaxed/relaxed; h=Subject:To:Reply-To:From:Date:from:cc:resent-date:resent-from:resent-to :resent-cc:in-reply-to:references:list-id:list-help:list-subscribe :list-post:list-owner:list-archive; t=1782101222; x=1782706022; bh=C3YgbtgR FQvCp25OpD+Buq7f7gch6dWCPYp0JW0ulmI=; b=Zo2DSOcvNOn+EC+unWn2HZlZ5WfCGdKMyEs mbuhuqJn9pwLhpjck31h0OrmWiO+UKLvPWvN9kGSI589Lk7XD5sx+ENol1U9jVN93BlVzW1IRiK 9PRh7UXvgfnN0JFJK0JJy/OlNxHj6mn5JwCHI/rhwy9KGySMZY5lhT9eUK0X873E7PAftA49owa Hy42jtd8mJ9RuwegUr0fHjWJe2t8RoHdYyyh+B4TkjF8lN2QiqQIqxz9fhCvmk4bauDndpq6oYT a7ahIJaDy4Wu6GNZRprn/AYrhj/f0RHRsOwyDWFVbNthjwiAHvL9HAVN4+AcqozUACtqcEo5g8E RJ+2abA==;
+ARC-Authentication-Results: i=1; mx.cloudflare.net; dkim=pass header.d=toulouse.lessentiel.fr header.s=acdkim1 header.b=JzvlRPsS; dkim=pass header.d=acems5.com header.s=acdkim1 header.b=Ks4GYito; dmarc=pass header.from=toulouse.lessentiel.fr policy.dmarc=quarantine; spf=pass (mx.cloudflare.net: domain of postmaster@s4.csa2.acemsb3.com designates 52.128.40.54 as permitted sender) smtp.helo=s4.csa2.acemsb3.com; spf=pass (mx.cloudflare.net: domain of bounce-2943080-11834-686332-newsletters=lavillerose.com@em-2943080.toulouse.lessentiel.fr designates 52.128.40.54 as permitted sender) smtp.mailfrom=bounce-2943080-11834-686332-newsletters=lavillerose.com@em-2943080.toulouse.lessentiel.fr; arc=none smtp.remote-ip=52.128.40.54
+Received-SPF: pass (mx.cloudflare.net: domain of bounce-2943080-11834-686332-newsletters=lavillerose.com@em-2943080.toulouse.lessentiel.fr designates 52.128.40.54 as permitted sender) receiver=mx.cloudflare.net; client-ip=52.128.40.54; envelope-from="bounce-2943080-11834-686332-newsletters=lavillerose.com@em-2943080.toulouse.lessentiel.fr"; helo=s4.csa2.acemsb3.com;
+Authentication-Results: mx.cloudflare.net; dkim=pass header.d=toulouse.lessentiel.fr header.s=acdkim1 header.b=JzvlRPsS; dkim=pass header.d=acems5.com header.s=acdkim1 header.b=Ks4GYito; dmarc=pass header.from=toulouse.lessentiel.fr policy.dmarc=quarantine; spf=pass (mx.cloudflare.net: domain of postmaster@s4.csa2.acemsb3.com designates 52.128.40.54 as permitted sender) smtp.helo=s4.csa2.acemsb3.com; spf=pass (mx.cloudflare.net: domain of bounce-2943080-11834-686332-newsletters=lavillerose.com@em-2943080.toulouse.lessentiel.fr designates 52.128.40.54 as permitted sender) smtp.mailfrom=bounce-2943080-11834-686332-newsletters=lavillerose.com@em-2943080.toulouse.lessentiel.fr; arc=none smtp.remote-ip=52.128.40.54
+X-CF-SpamH-Score: 0
+X-KumoRef: eyJfQF8iOiJcXF8vIiwicmVjaXBpZW50IjoibmV3c2xldHRlcnNAbGF2aWxsZXJvc2UuY29tIn0=
+DKIM-Signature: v=1; a=rsa-sha256; d=toulouse.lessentiel.fr; s=acdkim1; c=relaxed/relaxed; bh=C3YgbtgRFQvCp25OpD+Buq7f7gch6dWCPYp0JW0ulmI=; h=from:to:subject:date:mime-version:content-type:sender:cc:date:message-id: list-unsubscribe:list-unsubscribe-post; t=1782101222; x=1782706022; b=JzvlRPsShHwPmgS3aUaMiLZIHWw0k7nBI4MHyl8yD+w+6KXjnoRGQZ/c35/2mFM4WpX7x7g0p rxl4b+sVroe1+G2Sg2+eFs3kgWwpwjWHSkhNcINw/omfVd6LWvqzO03wWgQTj+y5HDVqGQ4jmZS 3CW8N01xw4EIdzAQ6xDbof/U/iLhcIRhdhQYiDqp1uOF7cgeo+9gpvEG+ipqr0FROxsHOzq1XNm mVUBbMmSEPUQhDkhIt6+5h9OghhvPSjB0ThzYTE6n5XZMi1uyYj2dlSbUg2n82uTYud7j7uz3Hh FLdN6rTrlGp1KV4PHk7PaG+D9zO8W1WKX4L4Ok2pwb2w==;
+DKIM-Signature: v=1; a=rsa-sha256; d=acems5.com; s=acdkim1; c=relaxed/relaxed; bh=C3YgbtgRFQvCp25OpD+Buq7f7gch6dWCPYp0JW0ulmI=; h=from:to:subject:date:mime-version:content-type:sender:cc:date:message-id: list-unsubscribe:list-unsubscribe-post; t=1782101222; x=1782706022; b=Ks4GYitogdYpLixSSOxWYt5SNJvqlOljCW4+nwvQ/1f+kf+CBVDDRXvqJCvkstW1DHPaWocgQ 89s+jo9YT3WtGsoZMld4GZaEtos1fxmDFAvmGwB7PefgOH5ChRiQptGH4qdfnyLSd+L4Yax99Qd 5azMWEcIdaSDirH8ThFLG0m8BkkJrQK4l1nh4hDYTzCdluquNitoFn/NuZBpFiWBBCnCtFuSWzN ZToqISqwDg/qe00Olxq6jCX7A3uBYkOTR6v6HItp2uoRweDFlbnR+Gr2PXNY6P8R7yyth/xwjqq WxBKgjN5PM21QDX404xpaIHoZwVbY9fPe5ALoTHISdEQ==;
+CFBL-Address: fbl-report@acems1.com; report=arf
+X-Mailer: ActiveCampaign Mailer
+Received: from service-13 (10.14.197.102) by acems1.com (KumoMTA 10.13.183.231) with ESMTPS (TLSv1_3:TLS13_AES_256_GCM_SHA384)
+  id d292a11e6def11f1b1910e35c96e97df for <newsletters@lavillerose.com>; Mon, 22 Jun 2026 04:07:02 +0000
+Date: Mon, 22 Jun 2026 04:07:02 +0000 (GMT)
+From: l'Essentiel Toulouse <redaction@toulouse.lessentiel.fr>
+Reply-To: reply-lessentiel-bordeaux.activehosted.11834.16524.686332@s4.csa1.acemsc1.com
+To: newsletters@lavillerose.com
+Message-ID: <374037957.2296473.1782101222257@service-13>
+Subject: =?UTF-8?Q?=F0=9F=8E=A4_Un_soir_de_Tremplin?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_2296472_1744118033.1782101222257"
+X-DKIM-Options: s=acdkim1
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Virtual-Mta: lessentiel-bordeaux.activehosted.com
+X-250ok-CID: 2943080-11834
+List-Unsubscribe: <https://newsletter.lessentiel.fr/box.php?nl=12&c=11834&m=16524&s=71cc8fa2341883463caebe98806c8455&funcml=unsub2&luha=1>,<mailto:unsubscribe-b6e59021863ab305b00070c3d08e4631-11834-71cc8fa2341883463caebe98806c8455@s4.csa1.acemsc1.com>
+Feedback-ID: 2943080:activecampaign
+X-Sending-Engine: Hedwig PCS
+X-Report-Abuse: Please report abuse to abuse@activecampaign.com
+X-lid: bmV3c2xldHRlcnNAbGF2aWxsZXJvc2UuY29tICwgYzExODM0ICwgbTE2NTI0ICwgczM2NjU5NyAsIGwxMg==
+X-mid: bmV3c2xldHRlcnNAbGF2aWxsZXJvc2UuY29tICwgYzExODM0ICwgbTE2NTI0ICwgczM2NjU5Nw==
+
+------=_Part_2296472_1744118033.1782101222257
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Et aussi : Thomas Fantini est le nouveau pr=C3=A9sident du Medef 31 ; une e=
+xpo acidul=C3=A9e, des travaux de nuit sur le p=C3=A9riph...=20
+------=_Part_2296472_1744118033.1782101222257
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html charset=3DUTF-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<link href=3D"https://fonts.googleapis.com/css2?family=3DMontserrat:wght@40=
+0;700&amp;display=3Dswap" rel=3D"stylesheet">
+<title>l'Essentiel media</title>
+<style> .ar h1 img { width:auto; display:inline-block; height:23px; } img[s=
+rc*=3D"notoemoji"] { height:20px; width:18px; object-fit:contain; vertical-=
+align:sub; } .pl a { color:#037bfc; } .ad a { color:#fff; } .table-sortie l=
+i span > p { margin:0; } p sub, p sup, li sub, li sup { line-height:normal;=
+ } @media screen and (max-width: 600px) { .table-sortie td { width:100%!imp=
+ortant; display:inline-block!important; } .table-sortie td.desktop-row { di=
+splay:none!important; } .mobile-row { display:initial!important; } .sortie1=
+ tr > td.texte { padding-right:initial!important; } .sortie2 tr > td.texte =
+{ padding-left:initial!important; } .tmob { border-top:10px solid #e9eeff!i=
+mportant; } .table-sortie h2 { margin-top:initial!important; } } </style><!=
+-- Images sur Outlook 120 DPI --> <!--[if gte mso 9]> <noscript> <xml> <o:O=
+fficeDocumentSettings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:Pix=
+elsPerInch> </o:OfficeDocumentSettings> </xml> </noscript> <![endif]--> <!-=
+- Ajustement de la taille des balises <sup> dans Outlook --> <!--[if gte ms=
+o 9]> <style> sup { font-size: 100% !important; } </style> <![endif]--> <!-=
+- D=C3=A9sactivation de la typographie avanc=C3=A9e dans Outlook --> <!--[i=
+f mso]> <xml> <w:WordDocument xmlns:w=3D"urn:schemas-microsoft-com:office:w=
+ord"> <w:DontUseAdvancedTypographyReadingMail></w:DontUseAdvancedTypography=
+ReadingMail> </w:WordDocument> </xml> <![endif]-->
+</head>
+<body style=3D"margin:0;padding:0;font-family:Arial,sans-serif;background-c=
+olor:#e9eeff;word-break:break-word">
+<div style=3D"display: none !important; padding: 0; height: 1px; font-size:=
+ 1px; background-color: inherit !important; opacity: 0; color: transparent;=
+ mso-line-height-rule: exactly; line-height:1px; mso-hide:all;">
+Et aussi : Thomas Fantini est le nouveau pr=C3=A9sident du Medef 31 ; une e=
+xpo acidul=C3=A9e, des travaux de nuit sur le p=C3=A9riph...=20
+<div style=3D"display: none; max-height: 0px; overflow: hidden;">
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C
+</div>
+</div>
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%" bgcol=
+or=3D"#E9EEFF" width=3D"100%">
+<tr>
+<td style=3D"padding:0" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#fff;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial" bgcolor=3D"#FFF">
+<tr>
+<td align=3D"center"><img style=3D"border:0;display:block;max-width:100%;he=
+ight:auto;display:block;margin:20px auto 0;max-width:425px;width:100%;paddi=
+ng:20px 40px;box-sizing:border-box" width=3D"425" src=3D"https://www.lessen=
+tiel.fr/nl/l/toulouse.png"></td>
+</tr>
+<tr>
+<td>
+<p style=3D"text-align:center;font-size:20px;line-height:30px;margin:20px 0=
+;margin-bottom:40px;font-family:Montserrat,Arial;font-weight:400;color:#000=
+"><b style=3D"display:inline-block;margin-bottom:10px">Bonjour,</b> <br>
+L'actualit=C3=A9 du <span style=3D"color:#037bfc;font-weight:700">22 juin</=
+span></p></td>
+</tr>
+</table>
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#fff;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial" width=3D"100%">
+<tr style=3D"display:block;padding:0 40px 25px">
+<td>
+<p style=3D"margin:0;font-weight:400;line-height:28px;display:inline;font-f=
+amily:Montserrat,Arial;font-size:18px;color:#000"><img style=3D"width:18px;=
+height:auto;" width=3D"18" src=3D"https://www.lessentiel.fr/nl/m/ens.png"> =
+<span style=3D"font-weight:bold">M=C3=A9t=C3=A9o :</span></p>
+<p style=3D"margin:0;font-weight:400;line-height:28px;display:inline;font-f=
+amily:Montserrat,Arial;font-size:18px;color:#000">toujours du soleil et de =
+grosses chaleurs (min 23=C2=B0 ; max 40=C2=B0)</p></td>
+</tr>
+<tr style=3D"display:block;padding:0 40px 25px;">
+<td>
+<p style=3D"margin:0;font-weight:400;line-height:28px;font-family:Montserra=
+t,Arial;font-size:18px;color:#000">=F0=9F=8E=81 Voici un beau cadeau : dans=
+ cette =C3=A9dition, <em>l'Essentiel Toulouse </em>vous fait gagner <strong=
+>3X2 pass</strong> pour le <strong>Rose festival 2026 </strong>!</p></td>
+</tr>
+</table>
+<table class=3D"tmob" style=3D"border-spacing:0;border-collapse:collapse;wi=
+dth:100%;border-top:40px solid #E9EEFF;" bgcolor=3D"#E9EEFF" width=3D"100%"=
+>
+<tr>
+<td style=3D"padding:0;" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#FFF;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial;" bgcolor=3D"#FFF">
+<tr>
+<td style=3D"padding:20px;" class=3D"ar">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;margin=
+:15px 0 30px;" width=3D"100%">
+<tr>
+<td style=3D"width:18px;display:table-cell;vertical-align:text-top;padding-=
+right:20px;"><span style=3D"display:inline-block;background:url(https://www=
+.lessentiel.fr/nl/b.png) no-repeat center center;width:18px;height:16px;bac=
+kground-size:contain;"></span></td>
+<td style=3D"display:table-cell;vertical-align:baseline;">
+<h1 style=3D"font-family:Montserrat,Arial;font-weight:700;font-size:28px;co=
+lor:#000;margin:0;">1 - Les coulisses du Tremplin Rose =F0=9F=8E=A4</h1></t=
+d>
+</tr>
+</table><!--[if mso]> <br> <![endif]-->
+<div>
+<img style=3D"border:0;display:block;max-width:100%;width:100%;height:auto;=
+border-radius:20px;margin-bottom:5px;" src=3D"https://www.lessentiel.fr/sit=
+es/lessentiel/files/styles/crop_thumbnail/public/2026-06/charlottegach.jpg?=
+h=3D007bf5a0&amp;itok=3D0TpyRdWU">
+</div>
+<div style=3D"font-size:12px;font-family:Montserrat,Arial;font-weight:300;m=
+argin-top:10px;line-height:16px;">
+Cheffe de projet du volet accompagnement artistique au Rose Festival, Charl=
+otte Gach pilote le Tremplin (cr=C3=A9dit : Bleu Citron).
+</div>
+<div style=3D"margin-top:20px;">
+<div>
+<p class=3D"first-paragraph" style=3D"font-size:18px;line-height:28px;margi=
+n-bottom:10px;">La finale du Tremplin a lieu ce soir. <strong>Charlotte Gac=
+h</strong> revient sur ce dispositif de soutien aux jeunes talents =C3=A9me=
+rgents d'Occitanie.&nbsp;</p>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Comment pr=C3=A9sentez-vous le Tremplin ?</h2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB C'est la <stron=
+g>quatri=C3=A8me</strong> =C3=A9dition cette ann=C3=A9e. L'objectif est de =
+<strong>mettre en lumi=C3=A8re les nouveaux talents d'Occitanie</strong>, l=
+es 16-35 ans qui =C3=A9voluent dans la sph=C3=A8re des musiques actuelles. =
+=C2=BB</em></li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB On lance un app=
+el =C3=A0 candidatures en mars. Cette ann=C3=A9e on a re=C3=A7u pr=C3=A8s d=
+e <strong>250 projets</strong>. Un comit=C3=A9 de s=C3=A9lection profession=
+nel (programmateurs, bookeurs=E2=80=A6) =C3=A9tudie tout : les performances=
+ lives, les productions, la pr=C3=A9sentation=E2=80=A6&nbsp; Puis <strong>o=
+n retient huit demi-finalistes</strong>, r=C3=A9partis sur deux soir=C3=A9e=
+s. &nbsp;Cette ann=C3=A9e, une demi-finale a eu lieu au Metronum, une autre=
+ =C3=A0 l'Athanor d'Albi. =C2=BB</em></li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB &nbsp;Les quatr=
+e finalistes se partagent un cash prize de 10 000 euros, et les deux laur=
+=C3=A9ats repartent avec une <strong>r=C3=A9sidence artistique au Metronum<=
+/strong> et des partenariats avec des festivals en France et au Qu=C3=A9bec=
+. =C2=BB</em></li>
+</ul>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Qui sont les quatre finalistes de ce soir ?</h=
+2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB C'est tr=C3=A8s=
+ h=C3=A9t=C3=A9roclite et tr=C3=A8s chanson. Il n=E2=80=99y a pas de rap ce=
+tte ann=C3=A9e, contrairement aux =C3=A9ditions pr=C3=A9c=C3=A9dentes. &nbs=
+p;=C2=BB</em></li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB </em><a style=
+=3D"text-decoration:underline;color:#037bfc;" href=3D"https://newsletter.le=
+ssentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7=
+xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0ju4"><em>Etane</em></a><em>, c'=
+est une <strong>pop </strong>qui tire vers l'=C3=A9lectro, tr=C3=A8s modern=
+e, avec une pr=C3=A9sence sc=C3=A9nique d=C3=A9j=C3=A0 tr=C3=A8s ma=C3=AEtr=
+is=C3=A9e.&nbsp;</em><a style=3D"text-decoration:underline;color:#037bfc;" =
+href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOh=
+z13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0j-=
+U"><em>Milhan</em></a><em> propose <strong>un univers mi-bossa-nova</strong=
+> mi-musique latine, avec des congas, de la batterie=E2=80=A6 Sa musique es=
+t tr=C3=A8s vivante. &nbsp;=C2=BB</em></li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB </em><a style=
+=3D"text-decoration:underline;color:#037bfc;" href=3D"https://newsletter.le=
+ssentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7=
+xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0j-Y"><em>No=C3=A9 Extrat</em></=
+a><em>, c'est une <strong>voix puissante</strong>, qui navigue entre chanso=
+n fran=C3=A7aise et des mont=C3=A9es plus intenses. Et&nbsp;</em><a style=
+=3D"text-decoration:underline;color:#037bfc;" href=3D"https://newsletter.le=
+ssentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7=
+xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0j-c"><em>Odeza</em></a><em>, c'=
+est un <strong>trio multi-instrumentaliste toulousain</strong> avec des tou=
+ches =C3=A9lectro. =C2=BB</em></li>
+</ul>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Que se passe-t-il le soir de la finale et ensu=
+ite ?</h2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB Ce soir, c=E2=
+=80=99est&nbsp;</em><a style=3D"text-decoration:underline;color:#037bfc;" h=
+ref=3D"https://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz=
+13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0j-g=
+"><em>un concert gratuit au Bikini</em></a><em>. Chaque finaliste joue 25 m=
+inutes devant un jury, dont Oli.</em></li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB L'accompagnemen=
+t commence bien avant le concert=E2=80=A6 C'est une grosse salle, on veut q=
+ue les jeunes talents jouent dans les meilleures conditions. &nbsp;=C2=BB</=
+em></li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=AB Ensuite, pour l=
+es laur=C3=A9ats, =C3=A7a continue toute l'ann=C3=A9e : bootcamps, mastercl=
+asses avec des pros du secteur, gestion du stress, aide =C3=A0 la compositi=
+on, studio d'enregistrement mis =C3=A0 disposition=E2=80=A6 &nbsp;=C2=BB</e=
+m></li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span><em>=C2=ABOn leur donne to=
+utes les cl=C3=A9s pour se structurer et se professionnaliser. Et au Rose F=
+estival, ils ouvriront les deux sc=C3=A8nes principales. Les finalistes jou=
+eront =C3=A9galement sur la sc=C3=A8ne Visionnaire. =C2=BB</em></li>
+</ul>
+<p style=3D"margin:5px 0;font-family:Montserrat,Arial;font-weight:400;font-=
+size:16px;line-height:26px;color:#000;"><strong>Bonus&nbsp;</strong>: l'Ess=
+entiel Toulouse vous fait gagner 3 X 2 pass pour le Rose festival ! Il suff=
+it de&nbsp;<a style=3D"text-decoration:underline;color:#037bfc;" href=3D"ht=
+tps://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfw=
+xdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0j-k"><u>cliq=
+uer sur ce lien</u></a>.</p>
+<p></p>
+</div>
+<div style=3D"margin:40px auto 0;text-align:center;font-size:16px">
+<span style=3D"display:block">Partager sur</span>
+<table style=3D"padding-top:5px;border-spacing:0;border-collapse:collapse;m=
+argin:0 auto;text-align:center;">
+<tr>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"mailto:?subject=3DNe%20rate%20rien%20de%20ce=
+%20qui%20se%20passe%20aujourd%27hui%20!&amp;body=3Dnewsletters@lavillerose.=
+com vous%20a%20partag=C3=A9%20une%20actualit=C3=A9%20de%20l=E2=80=99Essenti=
+el%20Toulouse%0A%0ALes%20coulisses%20du%20Tremplin%20Rose%20%F0%9F%8E%A4%20=
+-%2022%20juin%0Ahttps://www.lessentiel.fr/newsletter/toulouse/2026-06-22%23=
+44057"> <img style=3D"display:block;height:18px;margin:10px 3px 20px" heigh=
+t=3D"18" src=3D"https://www.lessentiel.fr/nl/r/ml.png"> </a></td>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D=
+4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEIni=
+c6q36zd~HV~Fs1o2ki_T0j-o"> <img style=3D"display:block;height:20px;margin:1=
+0px 0 20px 3px" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/lk.png"=
+> </a></td>
+</tr>
+</table>
+</div>
+</div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table class=3D"tmob" style=3D"border-spacing:0;border-collapse:collapse;wi=
+dth:100%;border-top:40px solid #E9EEFF;" bgcolor=3D"#E9EEFF" width=3D"100%"=
+>
+<tr>
+<td style=3D"padding:0;" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#FFF;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial;" bgcolor=3D"#FFF">
+<tr>
+<td style=3D"padding:20px;" class=3D"ar">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;margin=
+:15px 0 30px;" width=3D"100%">
+<tr>
+<td style=3D"width:18px;display:table-cell;vertical-align:text-top;padding-=
+right:20px;"><span style=3D"display:inline-block;background:url(https://www=
+.lessentiel.fr/nl/b.png) no-repeat center center;width:18px;height:16px;bac=
+kground-size:contain;"></span></td>
+<td style=3D"display:table-cell;vertical-align:baseline;">
+<h1 style=3D"font-family:Montserrat,Arial;font-weight:700;font-size:28px;co=
+lor:#000;margin:0;">2 - Des recettes d'ici et d'ailleurs =F0=9F=A7=86</h1><=
+/td>
+</tr>
+</table><!--[if mso]> <br> <![endif]-->
+<div>
+<img style=3D"border:0;display:block;max-width:100%;width:100%;height:auto;=
+border-radius:20px;margin-bottom:5px;" src=3D"https://www.lessentiel.fr/sit=
+es/lessentiel/files/styles/crop_thumbnail/public/2026-06/le-refugee-food-fe=
+stival--credit-photo-gabriel-bouhatous.jpg?itok=3D2fhJ6PmU">
+</div>
+<div style=3D"font-size:12px;font-family:Montserrat,Arial;font-weight:300;m=
+argin-top:10px;line-height:16px;">
+Le Refugee food festival participe =C3=A0 l'insertion socio-professionnelle=
+ des chefs exil=C3=A9s (cr=C3=A9dit : Gabriel Bouhatous).
+</div>
+<div style=3D"margin-top:20px;">
+<div>
+<p class=3D"first-paragraph" style=3D"font-size:18px;line-height:28px;margi=
+n-bottom:10px;">Le&nbsp;<a style=3D"text-decoration:underline;color:#037bfc=
+;" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5J=
+UOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T=
+1juY"><u>Refugee Food Festival</u></a> remet le couvert dans des <strong>=
+=C3=A9tablissements toulousains</strong>. Le principe : des personnes exil=
+=C3=A9es y pr=C3=A9parent des&nbsp;<strong>plats </strong>de leur pays d=E2=
+=80=99origine.</p>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Une recette solidaire</h2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Apr=C3=A8s un&nbsp;<strong=
+>tour du monde</strong> et pour faire =C3=A9cho =C3=A0 leur exp=C3=A9rience=
+,&nbsp;<strong>Marine Mandrila</strong> et&nbsp;<strong>Louis Martin</stron=
+g> lancent, en 2016, le projet citoyen =C2=AB <em>Refugee Food</em> =C2=BB,=
+ compos=C3=A9 aujourd=E2=80=99hui d=E2=80=99une association, d=E2=80=99une =
+entreprise d=E2=80=99insertion et d=E2=80=99un organisme de formation.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>L=E2=80=99objectif est de =
+faire =C3=A9voluer les&nbsp;<strong>regards port=C3=A9s</strong> sur les pe=
+rsonnes ayant demand=C3=A9 l'asile en France gr=C3=A2ce au levier de la cui=
+sine.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Mais aussi de tenter d'acc=
+=C3=A9l=C3=A9rer ainsi leur&nbsp;<strong>insertion socio-professionnelle&nb=
+sp;</strong>dans la restauration. Cette initiative permettant aux r=C3=A9fu=
+gi=C3=A9s de travailler aux c=C3=B4t=C3=A9s des&nbsp;<strong>chefs</strong>=
+ des =C3=A9tablissements participants.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>La&nbsp;<strong>11<sup>e</=
+sup>&nbsp;=C3=A9dition</strong> du Refugee Food Festival, organis=C3=A9e da=
+ns&nbsp;<strong>12 villes de France</strong>, m=C3=AAle gastronomie, solida=
+rit=C3=A9 et culture.</li>
+</ul>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Au menu</h2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Une dizaine de&nbsp;<a sty=
+le=3D"text-decoration:underline;color:#037bfc;" href=3D"https://newsletter.=
+lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zU=
+y7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T1juc"><u>restaurants toulousai=
+ns</u></a> y participent cette semaine, m=C3=AAme dans la restauration coll=
+ective comme =C3=A0 l=E2=80=99H=C3=B4tel de R=C3=A9gion avec des <strong>sa=
+veurs soudanaises</strong>.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Pourquoi ne pas opter ce s=
+oir pour un d=C3=AEner d'inspiration <strong>ukrainienne</strong> au <stron=
+g>Bistro Garonne</strong> ?</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Demain, le <strong>caf=C3=
+=A9 Ginette</strong> propose un d=C3=A9jeuner <strong>franco-ivoirien</stro=
+ng>, tandis que jeudi le restaurant d'application de l'=C3=A9cole <strong>L=
+a Source</strong> =C3=A0 La Cartoucherie servira =C3=A0 midi un menu d'insp=
+iration <strong>bangladaise</strong>.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>=C3=80 faire suivre en fin=
+ de semaine par de la cuisine <strong>syrienne</strong> et <strong>guin=C3=
+=A9enne</strong>.</li>
+</ul>
+<p></p>
+</div>
+<div style=3D"margin:40px auto 0;text-align:center;font-size:16px">
+<span style=3D"display:block">Partager sur</span>
+<table style=3D"padding-top:5px;border-spacing:0;border-collapse:collapse;m=
+argin:0 auto;text-align:center;">
+<tr>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"mailto:?subject=3DNe%20rate%20rien%20de%20ce=
+%20qui%20se%20passe%20aujourd%27hui%20!&amp;body=3Dnewsletters@lavillerose.=
+com vous%20a%20partag=C3=A9%20une%20actualit=C3=A9%20de%20l=E2=80=99Essenti=
+el%20Toulouse%0A%0ADes%20recettes%20d%27ici%20et%20d%27ailleurs%20%F0%9F%A7=
+%86%20-%2022%20juin%0Ahttps://www.lessentiel.fr/newsletter/toulouse/2026-06=
+-22%2344058"> <img style=3D"display:block;height:18px;margin:10px 3px 20px"=
+ height=3D"18" src=3D"https://www.lessentiel.fr/nl/r/ml.png"> </a></td>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D=
+4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEIni=
+c6q36zd~HV~Fs1o2ki_T0j-0"> <img style=3D"display:block;height:20px;margin:1=
+0px 0 20px 3px" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/lk.png"=
+> </a></td>
+</tr>
+</table>
+</div>
+</div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table class=3D"tmob" style=3D"border-spacing:0;border-collapse:collapse;wi=
+dth:100%;border-top:40px solid #E9EEFF;" bgcolor=3D"#E9EEFF" width=3D"100%"=
+>
+<tr>
+<td style=3D"padding:0;" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#FFF;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial;" bgcolor=3D"#FFF">
+<tr>
+<td style=3D"padding:20px;" class=3D"ar">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;margin=
+:15px 0 30px;" width=3D"100%">
+<tr>
+<td style=3D"width:18px;display:table-cell;vertical-align:text-top;padding-=
+right:20px;"><span style=3D"display:inline-block;background:url(https://www=
+.lessentiel.fr/nl/b.png) no-repeat center center;width:18px;height:16px;bac=
+kground-size:contain;"></span></td>
+<td style=3D"display:table-cell;vertical-align:baseline;">
+<h1 style=3D"font-family:Montserrat,Arial;font-weight:700;font-size:28px;co=
+lor:#000;margin:0;">3 - Travaux de nuit sur le p=C3=A9riph=C3=A9rique toulo=
+usain =F0=9F=9B=A3=EF=B8=8F</h1></td>
+</tr>
+</table><!--[if mso]> <br> <![endif]-->
+<div>
+<img style=3D"border:0;display:block;max-width:100%;width:100%;height:auto;=
+border-radius:20px;margin-bottom:5px;" src=3D"https://www.lessentiel.fr/sit=
+es/lessentiel/files/styles/crop_thumbnail/public/2026-06/travaux-autoroute-=
+adobestock_1847044164.jpg?itok=3DLFeAW5fV">
+</div>
+<div style=3D"font-size:12px;font-family:Montserrat,Arial;font-weight:300;m=
+argin-top:10px;line-height:16px;">
+Les voies de circulation seront rendues aux usagers d=C3=A8s 6h chaque mati=
+n (cr=C3=A9dit : Adobe Stock).
+</div>
+<div style=3D"margin-top:20px;">
+<div>
+<p class=3D"first-paragraph" style=3D"font-size:18px;line-height:28px;margi=
+n-bottom:10px;">Du lundi 22 au jeudi 25 juin, puis la semaine prochaine du =
+lundi 29 juin au jeudi 2 juillet, Vinci Autoroutes va proc=C3=A9der =C3=A0 =
+des op=C3=A9rations d=E2=80=99entretien du <strong>p=C3=A9riph=C3=A9rique e=
+st</strong> toulousain.</p>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">En quoi =C3=A7a consiste ?</h2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Nouvelle salve de travaux =
+sur le p=C3=A9riph=C3=A9rique. Ils concernent la partie est de Toulouse et =
+se d=C3=A9rouleront <strong>en deux temps </strong>: lundi 22 au jeudi 25 j=
+uin 2026, puis du lundi 29 juin au jeudi 2 juillet.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Les op=C3=A9rations se d=
+=C3=A9rouleront exclusivement <strong>de nuit</strong>.&nbsp;Des <strong>it=
+in=C3=A9raires de d=C3=A9viation</strong> seront mis en place.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Vinci Autoroutes va proc=
+=C3=A9der =C3=A0 la <strong>maintenance</strong> de l=E2=80=99infrastructur=
+e autorouti=C3=A8re : inspection des ouvrages d=E2=80=99art, hydrocurage de=
+s caniveaux, r=C3=A9paration de glissi=C3=A8res de s=C3=A9curit=C3=A9, v=C3=
+=A9rification des panneaux de signalisation, des panneaux =C3=A0 messages v=
+ariables et cam=C3=A9ras du syst=C3=A8me de vid=C3=A9o-surveillance.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>L'<strong>=C3=A9lagage</st=
+rong> des arbres et de la v=C3=A9g=C3=A9tation sera =C3=A9galement effectu=
+=C3=A9 aux abords du p=C3=A9riph=C3=A9rique.</li>
+</ul>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Dans le d=C3=A9tail</h2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Le p=C3=A9riph=C3=A9rique =
+fait <strong>35 kilom=C3=A8tres </strong>et, chaque nuit, un tron=C3=A7on d=
+e <strong>5 km</strong> sera concern=C3=A9.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Cette nuit, de 21h =C3=A0 =
+6h, le p=C3=A9riph=C3=A9rique int=C3=A9rieur sera ferm=C3=A9 en direction d=
+e Montpellier entre les =C3=A9changeurs de Sesqui=C3=A8res (n=C2=B033) et C=
+roix-Daurade (n=C2=B014), ce qui inclut la bifurcation avec l=E2=80=99A62 e=
+n direction de Bordeaux.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>La nuit du mardi 23 juin, =
+aux m=C3=AAmes horaires, le p=C3=A9riph=C3=A9rique ext=C3=A9rieur sera ferm=
+=C3=A9 en direction de Bordeaux entre les =C3=A9changeurs de Croix-Daurade =
+(n=C2=B014) et Sesqui=C3=A8res (n=C2=B033), y compris la bifurcation avec l=
+=E2=80=99A620.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>La nuit du mercredi 24 jui=
+n 2026, &nbsp;ce sera au tour du p=C3=A9riph=C3=A9rique int=C3=A9rieur en d=
+irection de Montpellier entre les =C3=A9changeurs de Croix-Daurade (n=C2=B0=
+14) et Soupetard (n=C2=B016), ce qui inclut la bifurcation avec l=E2=80=99A=
+68 en direction d=E2=80=99Albi/Castres.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>La nuit du jeudi 25 juin, =
+toujours de 21h =C3=A0 6h le lendemain, le p=C3=A9riph=C3=A9rique ext=C3=A9=
+rieur sera ferm=C3=A9 en direction de Bordeaux entre les =C3=A9changeurs de=
+ Soupetard (n=C2=B016) et Croix-Daurade (n=C2=B014), dont la bifurcation av=
+ec l=E2=80=99A68 en direction d=E2=80=99Albi/Castres.</li>
+</ul>
+</div>
+<div style=3D"margin:40px auto 0;text-align:center;font-size:16px">
+<span style=3D"display:block">Partager sur</span>
+<table style=3D"padding-top:5px;border-spacing:0;border-collapse:collapse;m=
+argin:0 auto;text-align:center;">
+<tr>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"mailto:?subject=3DNe%20rate%20rien%20de%20ce=
+%20qui%20se%20passe%20aujourd%27hui%20!&amp;body=3Dnewsletters@lavillerose.=
+com vous%20a%20partag=C3=A9%20une%20actualit=C3=A9%20de%20l=E2=80=99Essenti=
+el%20Toulouse%0A%0ATravaux%20de%20nuit%20sur%20le%20p%C3%A9riph%C3%A9rique%=
+20toulousain%20%F0%9F%9B%A3%EF%B8%8F%20-%2022%20juin%0Ahttps://www.lessenti=
+el.fr/newsletter/toulouse/2026-06-22%2344059"> <img style=3D"display:block;=
+height:18px;margin:10px 3px 20px" height=3D"18" src=3D"https://www.lessenti=
+el.fr/nl/r/ml.png"> </a></td>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D=
+4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEIni=
+c6q36zd~HV~Fs1o2ki_T0j-4"> <img style=3D"display:block;height:20px;margin:1=
+0px 0 20px 3px" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/lk.png"=
+> </a></td>
+</tr>
+</table>
+</div>
+</div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table class=3D"tmob" style=3D"border-spacing:0;border-collapse:collapse;wi=
+dth:100%;border-top:40px solid #E9EEFF;" bgcolor=3D"#E9EEFF" width=3D"100%"=
+>
+<tr>
+<td style=3D"padding:0;" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#FFF;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial;" bgcolor=3D"#FFF">
+<tr>
+<td style=3D"padding:20px;" class=3D"ar">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;margin=
+:15px 0 30px;" width=3D"100%">
+<tr>
+<td style=3D"width:18px;display:table-cell;vertical-align:text-top;padding-=
+right:20px;"><span style=3D"display:inline-block;background:url(https://www=
+.lessentiel.fr/nl/b.png) no-repeat center center;width:18px;height:16px;bac=
+kground-size:contain;"></span></td>
+<td style=3D"display:table-cell;vertical-align:baseline;">
+<h1 style=3D"font-family:Montserrat,Arial;font-weight:700;font-size:28px;co=
+lor:#000;margin:0;">4 - Une invitation =C3=A0 l'optimisme =F0=9F=8D=A7</h1>=
+</td>
+</tr>
+</table><!--[if mso]> <br> <![endif]-->
+<div>
+<img style=3D"border:0;display:block;max-width:100%;width:100%;height:auto;=
+border-radius:20px;margin-bottom:5px;" src=3D"https://www.lessentiel.fr/sit=
+es/lessentiel/files/styles/crop_thumbnail/public/2026-06/torrents.jpg?h=3D7=
+a467901&amp;itok=3Dsqncbz9v">
+</div>
+<div style=3D"font-size:12px;font-family:Montserrat,Arial;font-weight:300;m=
+argin-top:10px;line-height:16px;">
+Voil=C3=A0 qui donne envie de les croquer (cr=C3=A9dit : St=C3=A9phanie Tor=
+rents).
+</div>
+<div style=3D"margin-top:20px;">
+<div>
+<p class=3D"first-paragraph" style=3D"font-size:18px;line-height:28px;margi=
+n-bottom:10px;">Les =C5=93uvres en r=C3=A9sine color=C3=A9e de St=C3=A9phan=
+ie Torrents sont =C3=A0 d=C3=A9couvrir =C3=A0 la Maison Olp=C3=A9. Le verni=
+ssage a lieu ce soir.</p>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">En toile de fond</h2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Le monde vif et color=C3=
+=A9 de&nbsp;<a style=3D"text-decoration:underline;color:#037bfc;" href=3D"h=
+ttps://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIf=
+wxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0jMU"><u>St=
+=C3=A9phanie Torrents</u></a> fait du bien. Il insuffle une certaine <stron=
+g>=C3=A9nergie</strong>.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Des <strong>glaces acidul=
+=C3=A9es</strong>, des vases aussi beaux que des bouquets, de petits tags p=
+our votre morne souris d=E2=80=99ordinateur=E2=80=A6</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Il y a aussi ces demi-sph=
+=C3=A8res pigment=C3=A9es assembl=C3=A9es=E2=80=A6&nbsp;=C2=AB&nbsp;<em>Le =
+rendu n=E2=80=99est v=C3=A9ritablement visible que de loin. Comme si <stron=
+g>prendre du recul</strong> sur les situations =C3=A9tait la seule v=C3=A9r=
+itable opportunit=C3=A9 de discerner=E2=80=A6</em>=C2=BB, explique l=E2=80=
+=99artiste.&nbsp;</li>
+</ul>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">L'esprit</h2>
+<ul style=3D"padding-left:15px;">
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>=C2=AB&nbsp;<em>Chaque =C5=
+=93uvre est pens=C3=A9e comme une invitation =C3=A0 l'optimisme, un instant=
+ suspendu o=C3=B9 la pr=C3=A9cision du d=C3=A9tail rencontre la spontan=C3=
+=A9it=C3=A9 de l'=C3=A9motion.&nbsp;</em>=C2=BB</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>L=E2=80=99artiste rend hom=
+mage =C3=A0 la r=C3=A9silience dont ont fait preuve d=E2=80=99illustres <st=
+rong>figures f=C3=A9minines</strong>. =C3=80 ce titre, Marilyn Monroe et Fr=
+ida Kahlo ont toute leur place dans cette collection.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>=C3=80 d=C3=A9couvrir<stro=
+ng>&nbsp;</strong>=C3=A0 <strong>l=E2=80=99espace d=E2=80=99exposition =C3=
+=A9ph=C3=A9m=C3=A8re</strong>&nbsp;<a style=3D"text-decoration:underline;co=
+lor:#037bfc;" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKI=
+qPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~H=
+V~Fs1o2ki_T1jug"><u>Maison Olp=C3=A9</u></a>, au 22 rue de la Bourse, de 10=
+h =C3=A0 22h, o=C3=B9&nbsp;St=C3=A9phanie Torrents tient sa premi=C3=A8re&n=
+bsp;exposition intitul=C3=A9e&nbsp;<strong>Hyperreel</strong>.</li>
+<li style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Aria=
+l;font-weight:400;font-size:16px;line-height:26px;color:#000;"><span style=
+=3D"font-size:24px;padding-right:5px;font-weight:initial;color:#037bfc;vert=
+ical-align:middle;mso-hide:all;">=E2=80=A2</span>Le vernissage a lieu ce so=
+ir =C3=A0 18h, puis les =C5=93uvres seront visibles jusqu=E2=80=99au 28 jui=
+n.</li>
+</ul>
+<p></p>
+</div>
+<div style=3D"margin:40px auto 0;text-align:center;font-size:16px">
+<span style=3D"display:block">Partager sur</span>
+<table style=3D"padding-top:5px;border-spacing:0;border-collapse:collapse;m=
+argin:0 auto;text-align:center;">
+<tr>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"mailto:?subject=3DNe%20rate%20rien%20de%20ce=
+%20qui%20se%20passe%20aujourd%27hui%20!&amp;body=3Dnewsletters@lavillerose.=
+com vous%20a%20partag=C3=A9%20une%20actualit=C3=A9%20de%20l=E2=80=99Essenti=
+el%20Toulouse%0A%0AUne%20invitation%20%C3%A0%20l%27optimisme%20%F0%9F%8D%A7=
+%20-%2022%20juin%0Ahttps://www.lessentiel.fr/newsletter/toulouse/2026-06-22=
+%2344060"> <img style=3D"display:block;height:18px;margin:10px 3px 20px" he=
+ight=3D"18" src=3D"https://www.lessentiel.fr/nl/r/ml.png"> </a></td>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D=
+4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEIni=
+c6q36zd~HV~Fs1o2ki_T0jMc"> <img style=3D"display:block;height:20px;margin:1=
+0px 0 20px 3px" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/lk.png"=
+> </a></td>
+</tr>
+</table>
+</div>
+</div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table class=3D"tmob" style=3D"border-spacing:0;border-collapse:collapse;wi=
+dth:100%;border-top:40px solid #E9EEFF;" bgcolor=3D"#E9EEFF" width=3D"100%"=
+>
+<tr>
+<td style=3D"padding:0;" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#FFF;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial;" bgcolor=3D"#FFF">
+<tr>
+<td style=3D"padding:20px;" class=3D"ar">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;margin=
+:15px 0 30px;" width=3D"100%">
+<tr>
+<td style=3D"width:18px;display:table-cell;vertical-align:text-top;padding-=
+right:20px;"><span style=3D"display:inline-block;background:url(https://www=
+.lessentiel.fr/nl/b.png) no-repeat center center;width:18px;height:16px;bac=
+kground-size:contain;"></span></td>
+<td style=3D"display:table-cell;vertical-align:baseline;">
+<h1 style=3D"font-family:Montserrat,Arial;font-weight:700;font-size:28px;co=
+lor:#000;margin:0;">5 - Portrait&nbsp;: Thomas Fantini, nouveau pr=C3=A9sid=
+ent du Medef 31&nbsp;=F0=9F=91=A8=F0=9F=8F=BB=E2=80=8D=F0=9F=92=BC</h1></td=
+>
+</tr>
+</table><!--[if mso]> <br> <![endif]-->
+<div>
+<img style=3D"border:0;display:block;max-width:100%;width:100%;height:auto;=
+border-radius:20px;margin-bottom:5px;" src=3D"https://www.lessentiel.fr/sit=
+es/lessentiel/files/styles/crop_thumbnail/public/2026-06/fantini-credit-stu=
+dio-marius---berengere.jpg?itok=3DZG1CmqeT">
+</div>
+<div style=3D"font-size:12px;font-family:Montserrat,Arial;font-weight:300;m=
+argin-top:10px;line-height:16px;">
+Thomas Fantini pr=C3=A9side la section d=C3=A9partementale du Medef (cr=C3=
+=A9dit photo : Studio Marius).
+</div>
+<div style=3D"margin-top:20px;">
+<div>
+<p class=3D"first-paragraph" style=3D"font-size:18px;line-height:28px;margi=
+n-bottom:10px;">Entrepreneur toulousain, dirigeant du groupe de restauratio=
+n, traiteur et r=C3=A9ception Maison Pergo, Thomas Fantini est le nouveau p=
+r=C3=A9sident du Medef Haute-Garonne.</p>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Ce qui compte</h2>
+<p style=3D"margin:5px 0;font-family:Montserrat,Arial;font-weight:400;font-=
+size:16px;line-height:26px;color:#000;">Ancien joueur de <strong>rugby</str=
+ong> pass=C3=A9 par les espoirs du Stade Toulousain, <a style=3D"text-decor=
+ation:underline;color:#037bfc;" href=3D"https://newsletter.lessentiel.fr/lt=
+.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_u=
+eglPXEInic6q36zd~HV~Fs1o2ki_T0jMg">Thomas Fantini</a> a gard=C3=A9 de ce pa=
+ss=C3=A9 l=E2=80=99engagement collectif. Engag=C3=A9 au Medef de longue dat=
+e, il =C3=A9tait depuis 2020 vice-pr=C3=A9sident de<strong>&nbsp;</strong>l=
+a section d=C3=A9partementale du syndicat patronal.</p>
+<p style=3D"margin:5px 0;font-family:Montserrat,Arial;font-weight:400;font-=
+size:16px;line-height:26px;color:#000;">Succ=C3=A9dant =C3=A0 Pierre-Olivie=
+r Nau, le dirigeant du groupe Manatour, qui avait occup=C3=A9 cette fonctio=
+n pendant 6 ans, Thomas Fantini a =C3=A9t=C3=A9 =C3=A9lu pr=C3=A9sident du =
+Medef Haute-Garonne le 11 juin dernier, pour un mandat de 3 ans. &nbsp;<em>=
+=C2=AB Avant d=E2=80=99=C3=AAtre pr=C3=A9sident, je suis entrepreneur. Je c=
+onnais les <strong>responsabilit=C3=A9s</strong>, les contraintes et parfoi=
+s la&nbsp;solitude du chef d=E2=80=99entreprise. Mais je connais aussi&nbsp=
+;<strong>la fiert=C3=A9 de b=C3=A2tir</strong>, de transmettre, de cr=C3=A9=
+er de l=E2=80=99activit=C3=A9 et de faire grandir des =C3=A9quipes. C=E2=80=
+=99est cette <strong>=C3=A9nergie</strong> que je veux d=C3=A9fendre et fai=
+re entendre</em> =C2=BB, dit-il.</p>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Bio express&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</h2=
+>
+<p style=3D"margin:5px 0;font-family:Montserrat,Arial;font-weight:400;font-=
+size:16px;line-height:26px;color:#000;">=C3=82g=C3=A9 de 50 ans, Thomas Fan=
+tini est devenu une figure incontournable. Issu d=E2=80=99une famille d=E2=
+=80=99entrepreneurs, il opte pour des =C3=A9tudes sup=C3=A9rieures en comme=
+rce et marketing.</p>
+<p style=3D"margin:5px 0;font-family:Montserrat,Arial;font-weight:400;font-=
+size:16px;line-height:26px;color:#000;">Apr=C3=A8s avoir ouvert son premier=
+ restaurant (Le Varsi) en 2002, il reprend La Pergola, dans le quartier de =
+Lardenne, en 2004. =C3=80 partir de 2010, il d=C3=A9veloppe un groupe en re=
+prenant d=E2=80=99autres restaurants.<strong> Maison Pergo</strong> rassemb=
+le aujourd=E2=80=99hui une douzaine d=E2=80=99=C3=A9tablissements, restaura=
+nts et traiteurs toulousains. S=E2=80=99y trouvent des noms bien connus des=
+ Toulousains : La Pergola, le Bibent, Les Bouillons Lab=C3=A8ge et Hippodro=
+me la C=C3=A9pi=C3=A8re, Skandi, Falcou=E2=80=A6&nbsp;</p>
+<p style=3D"margin:5px 0;font-family:Montserrat,Arial;font-weight:400;font-=
+size:16px;line-height:26px;color:#000;">Premier traiteur d'Occitanie et tro=
+isi=C3=A8me groupe r=C3=A9gional de restauration, Maison Pergo&nbsp;<strong=
+>emploie plus de 170 personnes </strong>et g=C3=A9n=C3=A8re <strong>20 mill=
+ions d=E2=80=99euros de chiffre d=E2=80=99affaires</strong> par an.</p>
+<h2 style=3D"color:#000;font-family:Montserrat,Arial;font-size:18px;line-he=
+ight:26px;font-weight:700;margin:30px 0 10px;text-transform:uppercase;"><im=
+g src=3D"https://www.lessentiel.fr/nl/l.png" style=3D"width:11px;height:16p=
+x;display:inline;vertical-align:middle;margin-right:5px;object-fit:contain;=
+" width=3D"11" height=3D"16">Sauver l=E2=80=99apprentissage</h2>
+<p style=3D"margin:5px 0;font-family:Montserrat,Arial;font-weight:400;font-=
+size:16px;line-height:26px;color:#000;">Thomas Fantini&nbsp;est =C3=A9galem=
+ent le pr=C3=A9sident de la branche restauration de&nbsp;l=E2=80=99<strong>=
+UMIH 31</strong>, l=E2=80=99Union des m=C3=A9tiers et des industries de l'h=
+=C3=B4tellerie, et du<strong> CFA de Blagnac.</strong></p>
+<p style=3D"margin:5px 0;font-family:Montserrat,Arial;font-weight:400;font-=
+size:16px;line-height:26px;color:#000;">Parmi les premiers engagements du n=
+ouveau pr=C3=A9sident du syndicat patronal&nbsp;: la d=C3=A9fense de l=E2=
+=80=99apprentissage. Thomas Fantini s=E2=80=99insurge <strong>contre la</st=
+rong>&nbsp;<strong>r=C3=A9duction annonc=C3=A9e des financements</strong> p=
+ublics (-88 %) destin=C3=A9s aux R=C3=A9gions pour financer les CFA.&nbsp;<=
+em>=C2=AB Les cons=C3=A9quences d'une telle r=C3=A9duction seraient imm=C3=
+=A9diates pour les centres de formation. De nombreux CFA pourraient =C3=AAt=
+re contraints de r=C3=A9duire leur offre p=C3=A9dagogique, de diff=C3=A9rer=
+ des investissements indispensables ou de revoir leur organisation. Selon l=
+es premi=C3=A8res remont=C3=A9es du secteur, pr=C3=A8s de 17 % d'entre eux =
+envisagent d=C3=A9j=C3=A0 des mesures de r=C3=A9duction d'activit=C3=A9, de=
+ r=C3=A9organisation ou de suppression de postes =C2=BB</em>, alerte-t-il.<=
+/p>
+</div>
+<div style=3D"margin:40px auto 0;text-align:center;font-size:16px">
+<span style=3D"display:block">Partager sur</span>
+<table style=3D"padding-top:5px;border-spacing:0;border-collapse:collapse;m=
+argin:0 auto;text-align:center;">
+<tr>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"mailto:?subject=3DNe%20rate%20rien%20de%20ce=
+%20qui%20se%20passe%20aujourd%27hui%20!&amp;body=3Dnewsletters@lavillerose.=
+com vous%20a%20partag=C3=A9%20une%20actualit=C3=A9%20de%20l=E2=80=99Essenti=
+el%20Toulouse%0A%0APortrait%26nbsp%3B%3A%20Thomas%20Fantini%2C%20nouveau%20=
+pr%C3%A9sident%20du%20Medef%2031%26nbsp%3B%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D=
+%F0%9F%92%BC%20-%2022%20juin%0Ahttps://www.lessentiel.fr/newsletter/toulous=
+e/2026-06-22%2344061"> <img style=3D"display:block;height:18px;margin:10px =
+3px 20px" height=3D"18" src=3D"https://www.lessentiel.fr/nl/r/ml.png"> </a>=
+</td>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D=
+4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEIni=
+c6q36zd~HV~Fs1o2ki_T0jMk"> <img style=3D"display:block;height:20px;margin:1=
+0px 0 20px 3px" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/lk.png"=
+> </a></td>
+</tr>
+</table>
+</div>
+</div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table class=3D"tmob" style=3D"border-spacing:0;border-collapse:collapse;wi=
+dth:100%;border-top:40px solid #E9EEFF;" bgcolor=3D"#E9EEFF" width=3D"100%"=
+>
+<tr>
+<td style=3D"padding:0;" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#FFF;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial" bgcolor=3D"#FFF">
+<tr>
+<td style=3D"padding:20px;" class=3D"ar">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;margin=
+:15px 0 30px;" width=3D"100%">
+<tr>
+<td style=3D"width:18px;display:table-cell;vertical-align:text-top;padding-=
+right:20px;"><span style=3D"display:inline-block;background:url(https://www=
+.lessentiel.fr/nl/b.png) no-repeat center center;width:18px;height:16px;bac=
+kground-size:contain"></span></td>
+<td style=3D"display:table-cell;vertical-align:baseline">
+<h1 style=3D"font-family:Montserrat,Arial;font-weight:700;font-size:28px;co=
+lor:#000;margin:0;">REVUE DE PRESSE =F0=9F=97=9E</h1></td>
+</tr>
+</table>
+<div style=3D"margin-bottom:20px;">
+<h2 style=3D"font-size:20px;"><img style=3D"width:11px;height:16px;display:=
+inline-block;vertical-align:middle;margin-right:5px;max-width:100%;" width=
+=3D"11" height=3D"16" src=3D"https://www.lessentiel.fr/nl/l.png">Les vacanc=
+es avant l'heure</h2>
+<div style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Ari=
+al;font-weight:400;font-size:16px;line-height:26px;color:#000;">
+<p>De nombreux parents ont re=C3=A7u un mail du coll=C3=A8ge de leur(s) enf=
+ants(s) leur signifiant un <strong>emploi du temps all=C3=A9g=C3=A9</strong=
+> en raison de l'alerte orange canicule. La d=C3=A9cision en revient au pri=
+ncipal.e de l'=C3=A9tablissement. <a style=3D"text-decoration:underline;col=
+or:#037bfc;" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIq=
+PM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV=
+~Fs1o2ki_T1juk">France 3 Occitanie</a> fait =C3=A9galement le point dans le=
+s =C3=A9coles.</p>
+</div>
+</div>
+<div style=3D"margin-bottom:0;">
+<h2 style=3D"font-size:20px;"><img style=3D"width:11px;height:16px;display:=
+inline-block;vertical-align:middle;margin-right:5px;max-width:100%" width=
+=3D"11" height=3D"16" src=3D"https://www.lessentiel.fr/nl/l.png">Unis contr=
+e les cancers p=C3=A9diatriques</h2>
+<div style=3D"margin-bottom:10px;list-style:none;font-family:Montserrat,Ari=
+al;font-weight:400;font-size:16px;line-height:26px;color:#000;">
+<p>CIRCLE, un centre de recherche en canc=C3=A9rologie p=C3=A9diatrique, as=
+sociant l'Oncopole, le CHU de Toulouse et celui de Montpellier s'unissent p=
+our gu=C3=A9rir les cancers p=C3=A9diatriques. A lire sur <a style=3D"text-=
+decoration:underline;color:#037bfc;" href=3D"https://newsletter.lessentiel.=
+fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj=
+0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0jMs">France 3 Occitanie</a>.</p>
+</div>
+</div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table class=3D"tmob" style=3D"border-spacing:0;border-collapse:collapse;wi=
+dth:100%;border-top:40px solid #E9EEFF;" bgcolor=3D"#E9EEFF" width=3D"100%"=
+>
+<tr>
+<td style=3D"padding:0;" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#FFF;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial;" bgcolor=3D"#FFF">
+<tr>
+<td style=3D"padding:20px;">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;margin=
+:15px 0 30px;" width=3D"100%">
+<tr>
+<td style=3D"width:18px;display:table-cell;vertical-align:text-top;padding-=
+right:20px;"><span style=3D"display:inline-block;background:url(https://www=
+.lessentiel.fr/nl/b.png) no-repeat center center;width:18px;height:16px;bac=
+kground-size:contain;"></span></td>
+<td style=3D"display:table-cell;vertical-align:baseline;">
+<h1 style=3D"font-family:Montserrat,Arial;font-weight:700;font-size:28px;co=
+lor:#000;margin:0;text-transform:uppercase;">NOS ID=C3=89ES SORTIES DE LA S=
+EMAINE =F0=9F=92=A1</h1></td>
+</tr>
+</table><!--[if mso]> <br> <![endif]-->
+<div>
+<img style=3D"border:0;display:block;max-width:100%;width:100%;height:auto;=
+border-radius:20px;margin-bottom:5px;" src=3D"https://www.lessentiel.fr/sit=
+es/lessentiel/files/styles/crop_thumbnail/public/2026-06/tunnelier---charli=
+ne-poullain.jpg?itok=3Dhh_XUGli">
+</div>
+<div style=3D"font-size:12px;font-family:Montserrat,Arial;font-weight:300;m=
+argin-top:10px;line-height:16px;">
+Lors d'une visite au d=C3=A9but du percement =C3=A0 Colomiers. Tiss=C3=A9o =
+d=C3=A9voile tous les changements cette semaine (cr=C3=A9dit Charline Poull=
+ain).
+</div>
+<div style=3D"padding-bottom:20px;margin-bottom:20px;border-bottom:1px soli=
+d #E9EEFF">
+<h2 style=3D"margin:0;font-size:20px;margin-top:25px;"><img style=3D"width:=
+11px;height:16px;display:inline-block;vertical-align:middle;margin-right:5p=
+x;max-width:100%;" width=3D"11" height=3D"16" src=3D"https://www.lessentiel=
+.fr/nl/l.png">D=C3=AEner bleu solidaire</h2><span style=3D"margin-bottom:10=
+px;list-style:none;font-family:Montserrat,Arial;font-weight:400;font-size:1=
+6px;line-height:26px;color:#000;">
+<p>Et si une soir=C3=A9e pouvait changer des vies ? Les Rotary Clubs et clu=
+bs Rotaract convient au <a style=3D"text-decoration:underline;color:#037bfc=
+;" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5J=
+UOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T=
+0jMw">D=C3=AEner Bleu</a>, une garden party solidaire, mercredi soir au Gra=
+nd Rond, au profit de l'association <strong>L=E2=80=99Enfant Bleu</strong> =
+qui combat la maltraitance envers les enfants.</p>
+<p>Le Dress code est bleu bien s=C3=BBr.</p></span>
+</div>
+<div style=3D"padding-bottom:20px;margin-bottom:20px;border-bottom:1px soli=
+d #E9EEFF">
+<h2 style=3D"margin:0;font-size:20px;margin-top:25px;"><img style=3D"width:=
+11px;height:16px;display:inline-block;vertical-align:middle;margin-right:5p=
+x;max-width:100%;" width=3D"11" height=3D"16" src=3D"https://www.lessentiel=
+.fr/nl/l.png">D=C3=A9couvrir des stations de la ligne C</h2><span style=3D"=
+margin-bottom:10px;list-style:none;font-family:Montserrat,Arial;font-weight=
+:400;font-size:16px;line-height:26px;color:#000;">
+<p>Ce sont des rendez-vous toujours pris d'assaut : jeudi 26 juin, de 15h =
+=C3=A0 18h (et samedi 4 juillet), Tiss=C3=A9o invite =C3=A0 d=C3=A9couvrir =
+en avant-premi=C3=A8re les coulisses de deux chantiers de la Ligne C : les =
+stations <strong>Limayrac =E2=80=93 Cit=C3=A9 de l=E2=80=99Espace</strong> =
+et <strong>Colomiers Gare</strong>. Sur <a style=3D"text-decoration:underli=
+ne;color:#037bfc;" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D4lZy=
+~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q3=
+6zd~HV~Fs1o2ki_T0jM0">inscriptions</a>.</p>
+<p>En plus de la d=C3=A9couverte du chantier, les professionnels expliquent=
+ le chantier, les techniques utilis=C3=A9es, les m=C3=A9tiers mobilis=C3=A9=
+s...</p></span>
+</div>
+<div>
+<h2 style=3D"margin:0;font-size:20px;margin-top:25px;"><img style=3D"width:=
+11px;height:16px;display:inline-block;vertical-align:middle;margin-right:5p=
+x;max-width:100%;" width=3D"11" height=3D"16" src=3D"https://www.lessentiel=
+.fr/nl/l.png">Faire la sieste =C3=A0 Compans</h2><span style=3D"margin-bott=
+om:10px;list-style:none;font-family:Montserrat,Arial;font-weight:400;font-s=
+ize:16px;line-height:26px;color:#000;">
+<p><a style=3D"text-decoration:underline;color:#037bfc;" href=3D"https://ne=
+wsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLI=
+XbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0jM4">Les Siestes</a>=
+ reviennent pour cette 25<sup>e</sup> =C3=A9dition, au jardin Compans-Caffa=
+relli du 25 au 28 juin.</p>
+<p>=C3=80 compter de jeudi soir, une quinzaine de concerts sont programm=C3=
+=A9s durant ces quatre jours. <strong>L'entr=C3=A9e est libre</strong> et g=
+ratuite.</p></span>
+</div>
+<div style=3D"margin:40px auto 0;text-align:center;font-size:16px">
+<span style=3D"display:block">Partager sur</span>
+<table style=3D"padding-top:5px;border-spacing:0;border-collapse:collapse;m=
+argin:0 auto;text-align:center;">
+<tr>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"mailto:?subject=3DNe%20rate%20rien%20de%20ce=
+%20qui%20se%20passe%20aujourd%27hui%20!&amp;body=3Dnewsletters@lavillerose.=
+com vous%20a%20partag=C3=A9%20une%20id=C3=A9e%20sortie%20de%20l=E2=80=99Ess=
+entiel%20Toulouse%0A%0Ahttps://www.lessentiel.fr/newsletter/toulouse/2026-0=
+6-22%23idees-sorties-semaine"> <img style=3D"display:block;height:18px;marg=
+in:10px 3px 20px" height=3D"18" src=3D"https://www.lessentiel.fr/nl/r/ml.pn=
+g"> </a></td>
+<td style=3D"padding:0 5px;"><a style=3D"color:#037bfc;text-decoration:none=
+;display:inline-block" href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D=
+4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEIni=
+c6q36zd~HV~Fs1o2ki_T0keU"> <img style=3D"display:block;height:20px;margin:1=
+0px 0 20px 3px" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/lk.png"=
+> </a></td>
+</tr>
+</table>
+</div></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table class=3D"tmob" style=3D"border-spacing:0;border-collapse:collapse;wi=
+dth:100%;padding-top:40px;border-top:initial;border-top:40px solid #e9eeff"=
+ bgcolor=3D"#E9EEFF" width=3D"100%">
+<tr>
+<td style=3D"padding:0;" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;background-color:#fff;padding:20px;box-sizing:borde=
+r-box;font-family:Montserrat,Arial" bgcolor=3D"#FFF">
+<tr>
+<td style=3D"padding:40px 20px 20px">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;backgr=
+ound:#fff;font-family:Montserrat,Arial;font-weight:400;font-size:14px;line-=
+height:20px;text-align:center" width=3D"100%">
+<tr>
+<td><b style=3D"display:inline-block;">Direction de la r=C3=A9daction :</b>=
+ Jean-Marc Paillous avec Emmanuelle Magne et Dany Laforge. <b style=3D"disp=
+lay:inline-block;">R=C3=A9dactrice en chef :</b> Charline Poullain. <b styl=
+e=3D"display:inline-block;">Avec :</b> Adrien Pateau et Colette Rose.</td>
+</tr>
+</table>
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;margin=
+-top:40px;margin-bottom:80px;background:#fff;font-family:Montserrat,Arial;f=
+ont-weight:400;font-size:14px;line-height:20px;text-align:right" width=3D"1=
+00%">
+<tr>
+<td style=3D"text-align:center;color:#000;font-family:Montserrat,Arial;font=
+-size:38px;line-height:50px;font-weight:700;padding:40px 0;background:url(&=
+quot;https://www.lessentiel.fr/nl/s.png&quot;) no-repeat;background-size:co=
+ntain;background-position:20%;padding-bottom:50px">=C3=80 demain !</td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%" bgcol=
+or=3D"#E9EEFF" width=3D"100%">
+<tr>
+<td style=3D"padding:0" align=3D"center">
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%;max-wi=
+dth:650px;margin:0 auto;padding:20px;box-sizing:border-box;font-family:Mont=
+serrat,Arial;background:#037bfc" bgcolor=3D"#082C66">
+<tr>
+<td align=3D"center"><img style=3D"display:block;margin:20px auto;max-width=
+:425px;width:100%;padding:20px 40px;box-sizing:border-box" width=3D"425" sr=
+c=3D"https://www.lessentiel.fr/nl/l/w-toulouse.png?b"></td>
+</tr>
+<tr>
+<td align=3D"center">
+<div style=3D"padding:0 40px 20px;box-sizing:border-box;font-family:Montser=
+rat,Arial">
+<p style=3D"color:#fff;font-weight:300;font-size:14px;text-align:center">Ce=
+t e-mail vous a =C3=A9t=C3=A9 transf=C3=A9r=C3=A9 ? <a style=3D"text-decora=
+tion:underline;color:#fff;font-weight:300;font-size:14px;text-align:center"=
+ href=3D"https://newsletter.lessentiel.fr/lt.php?x=3D4lZy~GDKIqPM7sKqyd5JUO=
+hz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNx2nEpj0A0_ueglPXEInic6q36zd~HV~Fs1o2ki_T0k=
+eY">Inscrivez-vous maintenant</a> pour recevoir l=E2=80=99Essentiel Toulous=
+e directement dans votre bo=C3=AEte mail.</p>
+</div>
+<div style=3D"margin:0 auto;text-align:center;font-size:14px">
+<span style=3D"color:#FFF;display:block">Suivez-nous sur les r=C3=A9seaux s=
+ociaux</span> <!--[if mso]> <br> <![endif]-->
+<table style=3D"padding-top:5px;border-spacing:0;border-collapse:collapse;m=
+argin:0 auto;text-align:center;">
+<tr>
+<td style=3D"padding:0 5px;"><img style=3D"display:block;height:20px;margin=
+:10px 3px 20px 0" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/w-fb.=
+png"></td>
+<td style=3D"padding:0 5px;"><img style=3D"display:block;height:20px;margin=
+:10px 3px 20px 0" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/w-lk.=
+png"></td>
+<td style=3D"padding:0 5px;"><img style=3D"display:block;height:20px;margin=
+:10px 3px 20px 0" height=3D"20" src=3D"https://www.lessentiel.fr/nl/r/w-in.=
+png"></td>
+</tr>
+</table>
+</div></td>
+</tr>
+<tr>
+<td>
+<div style=3D"padding:0 40px 20px;box-sizing:border-box;font-family:Montser=
+rat,Arial;color:#fff;text-decoration:none;font-weight:300;font-size:14px;te=
+xt-align:center">
+<p><span>Nos newsletters d'actualit=C3=A9 locale :</span> Bordeaux, Clermon=
+t-Ferrand, Grenoble, Lille, Lyon, Marseille, Montpellier, Nantes, Nice, Par=
+is, Rennes, Rouen, Strasbourg, Toulon, Toulouse</p>
+<p><span>Nos newsletters nationales :</span> Animaux de compagnie, Environn=
+ement, Livres, Patrimoine culturel</p>
+</div>
+<div style=3D"padding:0 20px 20px;box-sizing:border-box;font-family:Montser=
+rat,Arial;color:#b8ccf8;text-decoration:none;font-weight:300;font-size:9px;=
+text-align:center">
+Vous recevez cet e-mail car vous e=CC=82tes inscrit(e) a=CC=80 la newslette=
+r quotidienne de l=E2=80=99Essentiel Toulouse. Une publication e=CC=81dite=
+=CC=81e par l'Essentiel media, socie=CC=81te=CC=81 par actions simplifie=CC=
+=81e au capital de 6862,50 euros, immatricule=CC=81e au Registre du Commerc=
+e et des Socie=CC=81te=CC=81s de Paris sous le nume=CC=81ro RCS 949 150 098=
+. Le directeur de la publication est Jean-Michel Arnaud. Conforme=CC=81ment=
+ a=CC=80 la loi =C2=AB Informatique et Liberte=CC=81s =C2=BB, vous be=CC=81=
+ne=CC=81ficiez d=E2=80=99un droit d=E2=80=99acce=CC=80s, de rectification, =
+d=E2=80=99opposition et de suppression des donne=CC=81es vous concernant. V=
+ous pouvez exercer vos droits par email : <a style=3D"text-decoration:under=
+line;color:#b8ccf8" href=3D"mailto:dpo@lessentiel.fr">dpo@lessentiel.fr</a>=
+. Pour en savoir plus, rendez-vous sur la page =C2=ABPolitique de confident=
+ialite=CC=81=C2=BB de notre site.
+</div>
+<div>
+<table style=3D"border-spacing:0;border-collapse:collapse;width:100%" align=
+=3D"center">
+<tr>
+<td align=3D"center">
+<p><a style=3D"text-decoration:underline;color:#fff;font-weight:300;font-si=
+ze:12px;text-align:center" href=3D"http://newsletter.lessentiel.fr/proc.php=
+?c=3D11834&m=3D16524&s=3D71cc8fa2341883463caebe98806c8455&d=3D366597&v=3D2&=
+nl=3D12&act=3Dunsub">Se d=C3=A9sabonner</a></p></td>
+</tr>
+<tr>
+<td align=3D"center">
+<p><span class=3D"ad" style=3D"text-decoration:none;color:#fff;font-weight:=
+300;font-size:12px;text-align:center">l&#39;Essentiel media, 24 rue des Per=
+champs, 75016 Paris, France</span></p></td>
+</tr>
+</table>
+</div></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<br>
+<img src=3D"https://newsletter.lessentiel.fr/lteo?x=3D5DZi0HHEKXOdT9Aiu_HGg=
+xNzAq2iitLvle0yY5bGUIHODKFA0_LFVhNz2HEl-QNkjMs1YHnKkqYkGKG.Awc8lCSgDr_yxAA0=
+xxDrkLMCYIWXDau2MRF4UlGnQKtgvQ1fy1owYXXFJePKF8DwydPJUuBz1O7exEDvjDhylKV7J3i=
+f5X_7" border=3D"0" width=3D"1" height=3D"1" style=3D"display:block;width:1=
+px!important;min-width:1px!important;max-width:1px!important;height:1px!imp=
+ortant;border:0;overflow:hidden;"/>
+</body>
+</html>
+------=_Part_2296472_1744118033.1782101222257--

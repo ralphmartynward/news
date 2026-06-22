@@ -180,7 +180,97 @@ def _extract_lessentiel(
             "metadata": {"from": from_addr},
         })
 
+    # Also extract the "Nos idées sorties de la semaine" section
+    items.extend(_extract_lessentiel_sorties(html, received_at, from_addr))
+
     return items
+
+
+def _extract_lessentiel_sorties(
+    html: str,
+    received_at: datetime,
+    from_addr: str,
+) -> list[dict[str, Any]]:
+    """Extract 'Nos idées sorties de la semaine' ideas from L'Essentiel newsletter.
+
+    Each idea is a <h2> block inside the tmob table that has the SORTIES header.
+    We try to fetch an OG image by following the tracking link; if that fails
+    no image_url is set (and the item will be excluded from Instagram).
+    """
+    try:
+        from bs4 import BeautifulSoup
+
+        soup = BeautifulSoup(html, "html.parser")
+
+        # Find the tmob table containing the sorties section header
+        sorties_table = None
+        for table in soup.find_all("table", class_="tmob"):
+            h1 = table.find("h1")
+            if h1 and "SORTIES" in h1.get_text().upper():
+                sorties_table = table
+                break
+        if not sorties_table:
+            return []
+
+        date_slug = received_at.strftime("%Y-%m-%d")
+        items: list[dict[str, Any]] = []
+
+        for idx, h2 in enumerate(sorties_table.find_all("h2")):
+            title = h2.get_text(strip=True)
+            if not title:
+                continue
+
+            # Description: the span immediately after the h2
+            span = h2.find_next_sibling("span")
+            description = span.get_text(separator=" ", strip=True) if span else ""
+
+            # Tracking link → follow redirect to get canonical URL + OG image
+            tracking_link = None
+            if span:
+                a = span.find("a", href=True)
+                if a and a["href"].startswith("http"):
+                    tracking_link = a["href"]
+
+            canonical_url = tracking_link or f"https://www.lessentiel.fr/idees-sorties/{date_slug}-{idx}"
+            image_url: str | None = None
+
+            if tracking_link:
+                try:
+                    r = requests.get(
+                        tracking_link, timeout=8,
+                        headers={"User-Agent": "Mozilla/5.0"},
+                        allow_redirects=True,
+                    )
+                    canonical_url = r.url  # resolved URL after redirects
+                    og = re.search(
+                        r'<meta[^>]+(?:property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']'
+                        r'|content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\'])',
+                        r.text,
+                    )
+                    if og:
+                        image_url = og.group(1) or og.group(2)
+                except Exception:
+                    pass
+
+            items.append({
+                "source": "lessentiel",
+                "url": canonical_url,
+                "title": title,
+                "published_at": received_at.isoformat(),
+                "raw_html": None,
+                "extracted_text": description[:LESSENTIEL_TEXT_CAP],
+                "item_type": "event",
+                "event_date": None,
+                "image_url": image_url,
+                "metadata": {"from": from_addr, "section": "sorties"},
+            })
+
+        return items
+
+    except Exception as _exc:
+        import sys as _sys
+        print(f"inbox: _extract_lessentiel_sorties failed — {type(_exc).__name__}: {_exc}", file=_sys.stderr)
+        return []
 
 
 _OT_DATE_RE = re.compile(
