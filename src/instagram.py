@@ -138,6 +138,37 @@ def _french_date(iso_date: str) -> str:
         return ""
 
 
+def _french_date_range(start_iso: str, end_iso: str | None) -> str:
+    """Return a human-readable date range in French.
+
+    Single day  → '23 juin 2026'
+    Same month  → 'du 17 au 21 juin 2026'
+    Cross-month → 'du 17 juin au 19 juillet 2026'
+    Open-ended  → 'jusqu'au 20 août 2026'
+    Already started, ongoing → 'jusqu'au 20 août 2026'
+    """
+    try:
+        s = date.fromisoformat(start_iso[:10])
+    except Exception:
+        return ""
+    try:
+        e = date.fromisoformat(end_iso[:10]) if end_iso else s
+    except Exception:
+        e = s
+
+    today = date.today()
+    sm, em = FRENCH_MONTHS[s.month - 1], FRENCH_MONTHS[e.month - 1]
+
+    if s == e:
+        return f"{s.day} {sm} {s.year}"
+    if s < today:
+        # Event already started — show end only
+        return f"jusqu'au {e.day} {em} {e.year}"
+    if s.month == e.month and s.year == e.year:
+        return f"du {s.day} au {e.day} {em} {s.year}"
+    return f"du {s.day} {sm} au {e.day} {em} {e.year}"
+
+
 def _space_w(draw, font) -> int:
     b = draw.textbbox((0, 0), "i i", font=font)
     a = draw.textbbox((0, 0), "ii",  font=font)
@@ -319,8 +350,11 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:4]
     venue_lines = _wrap_text(venue, f_sub, TEXT_W, draw)[:2] if venue else []
 
-    # Always show today's date — for multi-day events event_start could be days ago
-    today_date = _french_date(datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+    # Show event date range — more informative than just today's date
+    event_date_str = _french_date_range(
+        cluster.get("event_start") or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        cluster.get("event_end"),
+    )
 
     total_h = (cat_h + 16
                + len(title_lines) * (lh + 12) + 10
@@ -353,8 +387,8 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     if venue_lines:
         y += 8
 
-    # date in green — always today
-    draw.text((PAD, y), today_date + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
+    # date range in green
+    draw.text((PAD, y), event_date_str + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
     y += sub_h + 12
 
     draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
@@ -603,7 +637,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
         y += sub_h + 6
 
     parts = []
-    ev = _french_date(event.get("event_start") or "")
+    ev = _french_date_range(event.get("event_start") or "", event.get("event_end"))
     if ev:
         parts.append(ev)
     parts.append("Toulouse")
