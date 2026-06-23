@@ -2663,24 +2663,21 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-18#43754?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:72705c46-d84a-45e7-88b1-737ab0e019a4@news.lavillerose.com
+UID:cluster:79abaca9-435f-4e48-b46e-e4798ea6dc5a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260624
-SUMMARY:Canicule orange en Haute-Garonne : collèges fermés\, feux interdi
- ts\, événements annulés
-DESCRIPTION:Depuis le vendredi 19 juin 2026 à midi\, la Haute-Garonne est 
- placée en vigilance orange canicule\, avec des températures atteignant 3
- 7-38°C et des pointes prévues à 40°C lundi. De nombreux collèges de l
- 'agglomération toulousaine ont décidé d'avancer la fin de l'année scol
- aire\, certains fermant dès le vendredi à la mi-journée — chaque prin
- cipal restant libre de prendre cette décision. Le préfet a pris un arrê
- té interdisant feux d'artifice\, brandons et tout feu sur l'espace public
-  dans les arrondis\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ca
- nicule-de-nombreux-colleges-arretent-les-cours-plus-tot-que-prevu-en-haute
- -garonne_64420283.html
-URL:https://actu.fr/occitanie/toulouse_31555/canicule-de-nombreux-colleges-
- arretent-les-cours-plus-tot-que-prevu-en-haute-garonne_64420283.html?utm_s
- ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DTEND;VALUE=DATE:20260831
+SUMMARY:Guinguettes estivales toulousaines
+DESCRIPTION:Deux guinguettes associatives distinctes rouvrent pour l'été 
+ dans la région toulousaine : la Guinguette citoyenne de Tournefeuille\, a
+ u lac des Pêcheurs\, fête ses 5 ans et accueille le public les jeudis\, 
+ vendredis et samedis avec concerts\, cinéma en plein air\, initiations de
+  danse et animations sportives le samedi matin. De son côté\, L'Éphém
+ ère Guinguette de Lacroix-Falgarde\, sur les berges de l'Ariège\, entame
+  sa 15e saison et ouvre les vendredis\, samedis et dimanches jusqu'au 30 a
+ oût\, avec conce\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
+ e/2026-06-18#43777
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-18#43777?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:beebc327-bc11-4cb2-abf0-103df2479b0e@news.lavillerose.com
@@ -3053,6 +3050,26 @@ URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  cc87ec8a?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f84cefd7-6762-40c6-b05b-f9006edfe053@news.lavillerose.com
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Fête de la Musique
+DESCRIPTION:La Fête de la musique s'est tenue ce dimanche 21 juin à Toulo
+ use malgré une chaleur extrême dépassant les 37 °C\, attirant une foul
+ e nombreuse dans l'hypercentre. La soirée s'est « relativement bien pass
+ ée » selon une source d'Actu Toulouse\, mais plusieurs fêtards ont sign
+ alé aux forces de l'ordre avoir été victimes de piqûres à la seringue
+ . Les incidents se sont concentrés place Saint-Pierre\, ainsi que dans le
+ s secteurs de Victor-Hugo et place du Capitole. Selon la même source\, «
+  quatre ou cinq \n\nSource\: https://actu.fr/occitanie/toulouse_31555/fete
+ -de-la-musique-a-toulouse-plusieurs-personnes-victimes-de-piqures-dans-les
+ -rues-de-l-hypercentre_64438283.html
+URL:https://actu.fr/occitanie/toulouse_31555/fete-de-la-musique-a-toulouse-
+ plusieurs-personnes-victimes-de-piqures-dans-les-rues-de-l-hypercentre_644
+ 38283.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:adf8ad20-6b5a-451b-993c-cc430280344b@news.lavillerose.com
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
@@ -3109,17 +3126,17 @@ BEGIN:VEVENT
 UID:cluster:f7d6d3a4-4f5b-4f54-8b00-1a464281fb07@news.lavillerose.com
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-SUMMARY:Job Dating Mobilité
-DESCRIPTION:Un job dating dédié aux métiers de la mobilité se tiendra l
- e 23 juin 2026 sur les allées Guesde à Toulouse\, organisé par l'UTPF\,
-  la FNTV Occitanie et France Travail\, avec Tisséo comme partenaire princ
- ipal. Plus de 200 postes en CDD\, CDI et alternance y seront proposés. L'
- événement mettra particulièrement en avant la féminisation du secteur 
- et les métiers de maintenance\, jugés en tension critique\, avec des tal
- k-shows dans un bus électrique et des démonstrations en réalité virtue
- lle. Ce rendez-vou\n\nSource\: https://actu.fr/occitanie/toulouse_31555/em
- ploi-plus-de-200-postes-sont-a-pourvoir-a-toulouse-lors-d-un-grand-job-dat
- ing_64414503.html
+SUMMARY:Mobility Tour Toulouse
+DESCRIPTION:Le Mobility Tour\, événement de recrutement dédié aux méti
+ ers du transport\, se tient le 23 juin 2026 sur les allées Jules-Guesde 
+ à Toulouse\, de 9h à 16h\, entrée libre. Plus de 200 offres d'emploi en
+  CDD\, CDI et alternance sont proposées par des employeurs comme Tisséo 
+ Voyageurs\, Keolis Garonne et SNCF Réseau. L'événement met un double ac
+ cent sur les métiers en tension (techniciens\, mécaniciens\, électromé
+ caniciens) et sur la féminisation du secteur. Il s'adresse à tous les pr
+ ofils — jeunes en orie\n\nSource\: https://actu.fr/occitanie/toulouse_31
+ 555/emploi-plus-de-200-postes-sont-a-pourvoir-a-toulouse-lors-d-un-grand-j
+ ob-dating_64414503.html
 URL:https://actu.fr/occitanie/toulouse_31555/emploi-plus-de-200-postes-sont
  -a-pourvoir-a-toulouse-lors-d-un-grand-job-dating_64414503.html?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -3293,6 +3310,44 @@ DESCRIPTION:La Ville de Blagnac organise à nouveau l'Été Caouec\, son é
 URL:https://www.toulouscope.fr/2026/06/21/a-blagnac-levenement-estival-mela
  nt-jeux-spectacles-concerts-et-guinguette-revient-en-juillet-13420122.php?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c3741925-9df2-49db-a318-3dc77b0f9b9f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Toulouse crée un guichet unique pour l'attribution des places en c
+ rèche
+DESCRIPTION:Face à la pénurie de places en crèche à Toulouse — enviro
+ n une centaine d'enfants en liste d'attente selon la municipalité —\, l
+ a Ville va lancer un Guichet Unique d'Attribution le 4 juillet prochain. C
+ e nouveau dispositif permettra aux familles de déposer leurs demandes en 
+ ligne via un portail dédié\, tout en maintenant un accueil physique dans
+  les Espaces Petite Enfance. Le portail donnera accès à 80 % de l'offre 
+ municipale\, couvrant crèches collectives et familiales\, multi-accueils 
+ en gestion m\n\nSource\: https://actu.fr/occitanie/toulouse_31555/difficil
+ e-de-trouver-une-place-en-creche-a-toulouse-la-ville-met-en-place-un-nouve
+ au-dispositif-d-inscription_64424339.html
+URL:https://actu.fr/occitanie/toulouse_31555/difficile-de-trouver-une-place
+ -en-creche-a-toulouse-la-ville-met-en-place-un-nouveau-dispositif-d-inscri
+ ption_64424339.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e3d0481a-c5ba-4add-9953-3a08735f7557@news.lavillerose.com
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Réseau Entreprendre Occitanie Garonne
+DESCRIPTION:Le Réseau Entreprendre Occitanie Garonne\, actif depuis 2001\,
+  multiplie les occasions de rencontres pour les créateurs\, repreneurs et
+  développeurs d'entreprise de la région. Une réunion collective est pr
+ évue pour les porteurs de projets candidats à l'accompagnement\, suivie 
+ jeudi d'un déjeuner d'échanges au Biergarten Purpan avec speed meeting. 
+ Des cafés gourmands sont également programmés les 10 juillet et 28 aoû
+ t pour les entrepreneurs souhaitant intégrer le réseau. L'association\, 
+ qui a accordé \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-06-23#44326
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-23#44326?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c48c24b5-1db6-47a8-a12f-d3b19d4ccfde@news.lavillerose.com
