@@ -1,7 +1,25 @@
 """Generate docs/calendar.ics from the DB. Run from the project root."""
+import re
 import sqlite3
 from datetime import date, timedelta
 from pathlib import Path
+
+_VENUE_RE = re.compile(
+    r"(?:jardins?|parcs?|stades?|stadiums?|salles?|allées?|allees?|"
+    r"rues?|places?|esplanade|halles?|palais|lacs?|bastide|hangar|espace|"
+    r"couloir|avenue|boulevard|campus|quartier)"
+    r"\s+(?:(?:de|du|de la|de l)\s+)?"
+    r"[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][^,\.;\n]{2,45}",
+    re.IGNORECASE | re.UNICODE,
+)
+_VENUE_STRIP_RE = re.compile(r"\s+(?:à\s+\S+|pour\s+\w+|et\s+\w+|avec\s+\w+).*$", re.IGNORECASE)
+
+
+def _extract_venue(summary: str) -> str:
+    m = _VENUE_RE.search(summary[:300])
+    if not m:
+        return ""
+    return _VENUE_STRIP_RE.sub("", m.group(0)).strip()[:60]
 
 
 def ics_escape(s: str) -> str:
@@ -68,6 +86,7 @@ def build_ics(rows: list[dict]) -> str:
         summary_text = (r.get("summary") or "").strip()[:500]
         url = (r.get("primary_url") or "").strip()
         uid = (r.get("cluster_id") or url) + "@news.lavillerose.com"
+        venue = _extract_venue(summary_text)
 
         desc = ics_escape(summary_text)
         if url:
@@ -82,6 +101,8 @@ def build_ics(rows: list[dict]) -> str:
             ics_fold("SUMMARY:" + ics_escape(name)),
             ics_fold("DESCRIPTION:" + desc),
         ]
+        if venue:
+            lines.append(ics_fold("LOCATION:" + ics_escape(venue + ", Toulouse")))
         if url:
             lines.append(ics_fold("URL:" + url + UTM))
         lines.append("END:VEVENT")
