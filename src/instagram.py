@@ -148,6 +148,24 @@ def _space_w(draw, font) -> int:
 # Text helpers
 # ---------------------------------------------------------------------------
 
+_VENUE_RE = re.compile(
+    r"(?:jardins?|parcs?|stades?|stadiums?|salles?|allées?|allees?|"
+    r"rues?|places?|esplanade|halles?|palais|lacs?|bastide|hangar|espace|"
+    r"couloir|avenue|boulevard|campus|quartier)"
+    r"\s+(?:(?:de|du|de la|de l)\s+)?"
+    r"[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][^,\.;\n]{2,45}",
+    re.IGNORECASE | re.UNICODE,
+)
+_VENUE_STRIP_RE = re.compile(r"\s+(?:à\s+\S+|pour\s+\w+|et\s+\w+|avec\s+\w+).*$", re.IGNORECASE)
+
+def _extract_venue(summary: str) -> str:
+    """Return the first venue/location phrase from the summary, stripped of city tail."""
+    m = _VENUE_RE.search(summary[:300])
+    if not m:
+        return ""
+    venue = _VENUE_STRIP_RE.sub("", m.group(0)).strip()
+    return venue[:55]
+
 def _segment_title(title: str, event_name: str | None = None) -> list[tuple[str, tuple]]:
     """Assign colours to words.
 
@@ -289,6 +307,7 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
 
     title      = cluster.get("title", "")
     event_name = cluster.get("event_name") or None
+    venue      = _extract_venue(cluster.get("summary") or "")
 
     segs = _segment_title(title, event_name=event_name)
 
@@ -298,12 +317,14 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     site_h   = draw.textbbox((0, 0), "A", font=f_tiny)[3]
 
     title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:4]
+    venue_lines = _wrap_text(venue, f_sub, TEXT_W, draw)[:2] if venue else []
 
     # Always show today's date — for multi-day events event_start could be days ago
     today_date = _french_date(datetime.now(timezone.utc).strftime("%Y-%m-%d"))
 
     total_h = (cat_h + 16
-               + len(title_lines) * (lh + 12) + 14
+               + len(title_lines) * (lh + 12) + 10
+               + len(venue_lines) * (sub_h + 6) + (8 if venue_lines else 0)
                + sub_h + 12
                + site_h + 8)
     y = H - PAD - total_h
@@ -323,7 +344,14 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
 
     # title
     y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, TEXT_W, line_bonus=12)
-    y += 14
+    y += 10
+
+    # venue / location (white, slightly faded)
+    for line in venue_lines:
+        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 200))
+        y += sub_h + 6
+    if venue_lines:
+        y += 8
 
     # date in green — always today
     draw.text((PAD, y), today_date + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
