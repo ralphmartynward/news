@@ -585,16 +585,22 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     draw.text((PAD + 14, 44 + 8), num_str, font=f_num, fill=COL_WHITE)
 
     # title (multi-colour)
-    segs = _segment_title(event.get("title", ""))
-    lh   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
+    segs  = _segment_title(event.get("title", ""))
+    venue = _extract_venue(event.get("summary") or "")
+    lh    = draw.textbbox((0, 0), "Ag", font=f_title)[3]
     sub_h = draw.textbbox((0, 0), "A", font=f_sub)[3]
     sample = _wrap_text(event.get("title", ""), f_title, W - PAD*2, draw)[:3]
     n_lines = len(sample)
-    total_h = n_lines * (lh + 10) + 14 + sub_h + 12 + 20
+    venue_lines = _wrap_text(venue, f_sub, W - PAD*2, draw)[:1] if venue else []
+    total_h = n_lines * (lh + 10) + 14 + len(venue_lines) * (sub_h + 6) + sub_h + 12 + 20
     y = H - PAD - total_h
 
     y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, W - PAD*2, line_bonus=10)
     y += 6
+
+    for line in venue_lines:
+        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 190))
+        y += sub_h + 6
 
     parts = []
     ev = _french_date(event.get("event_start") or "")
