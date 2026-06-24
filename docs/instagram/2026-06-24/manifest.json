@@ -1,0 +1,29 @@
+[
+  {
+    "cluster_id": "cluster:b96d8123-3ec9-442f-8bbc-5bafe4de45c1",
+    "format": "post",
+    "source": "toulouscope",
+    "category": "place",
+    "title": "La Terrasse des Jardins ouvre sa terrasse ombragée pour la belle saison",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a390876e1912234d001e0f6/hd/image.jpg?v=13",
+    "file": "cluster_b96d8123-3ec9-442f-8bbc-5bafe4de45c1_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:a3dd6b44-ca2f-4a00-9c5e-7f5364942d0a",
+    "format": "post",
+    "source": "lessentiel",
+    "category": "culture",
+    "title": "Ticky Holgado, acteur toulousain culte des années 1990, né un 24 juin",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/ticky-holgado-credit-photo-dr--.jpg?itok=50DwkMho",
+    "file": "cluster_a3dd6b44-ca2f-4a00-9c5e-7f5364942d0a_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:a00a8d68-b57f-4c96-93ae-5a5fc002575b",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "place",
+    "title": "La guinguette L'Écluse d'Eric rouvre en bord de Garonne à Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2026/06/guiguette-lecluse-eric-toulouse.jpeg",
+    "file": "cluster_a00a8d68-b57f-4c96-93ae-5a5fc002575b_post.jpg"
+  }
+]
