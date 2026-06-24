@@ -115,15 +115,27 @@ def _build_weekend_caption(events: list[dict[str, Any]], sat_str: str, sun_str: 
 
 
 def _build_caption(cluster: dict[str, Any]) -> str:
-    title   = cluster.get("title", "")
-    summary = cluster.get("summary", "")
-    # First sentence of summary only
-    first_sentence = summary.split(". ")[0].rstrip(".") + "." if summary else ""
+    import json as _json
+    title      = cluster.get("title", "")
+    ig_caption = cluster.get("ig_caption") or ""
+    if not ig_caption:
+        summary = cluster.get("summary", "")
+        ig_caption = (summary.split(". ")[0].rstrip(".") + ".") if summary else ""
+
+    # Hashtags: use Claude-generated ones, fall back to generic
+    raw = cluster.get("ig_hashtags")
+    try:
+        tags = _json.loads(raw) if isinstance(raw, str) else (raw or [])
+    except Exception:
+        tags = []
+    if not tags:
+        tags = ["toulouse", "lavillerose", "actutoulouse"]
+    hashtag_str = " ".join(f"#{t.lstrip('#')}" for t in tags[:8])
+
     lines = [title]
-    if first_sentence and first_sentence != title:
-        lines.append("")
-        lines.append(first_sentence)
-    lines += ["", "📍 Toulouse · news.lavillerose.com", "", "#toulouse #lavillerose #actutoulouse"]
+    if ig_caption and ig_caption != title:
+        lines += ["", ig_caption]
+    lines += ["", "📍 Toulouse · news.lavillerose.com", "", hashtag_str]
     return "\n".join(lines)
 
 

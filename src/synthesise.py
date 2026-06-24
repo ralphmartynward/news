@@ -97,6 +97,9 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
     event_start = (data.get("event_start") or None)
     event_end = (data.get("event_end") or None)
     event_name = (data.get("event_name") or None)
+    ig_caption = (data.get("ig_caption") or None)
+    ig_hashtags_raw = data.get("ig_hashtags")
+    ig_hashtags = json.dumps(ig_hashtags_raw, ensure_ascii=False) if ig_hashtags_raw else None
 
     return {
         "title": title,
@@ -107,6 +110,8 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
         "event_start": event_start,
         "event_end": event_end,
         "event_name": event_name,
+        "ig_caption": ig_caption,
+        "ig_hashtags": ig_hashtags,
     }
 
 

@@ -49,6 +49,8 @@ MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN primary_url TEXT",
     "ALTER TABLE items ADD COLUMN image_url TEXT",
     "ALTER TABLE clusters ADD COLUMN ig_story_at TEXT",
+    "ALTER TABLE clusters ADD COLUMN ig_caption TEXT",
+    "ALTER TABLE clusters ADD COLUMN ig_hashtags TEXT",
 ]
 
 
@@ -171,17 +173,18 @@ def upsert_cluster(
     event_end: str | None = None,
     event_name: str | None = None,
     primary_url: str | None = None,
+    ig_caption: str | None = None,
+    ig_hashtags: str | None = None,
 ) -> None:
     import json as _json
 
     now = datetime.now(timezone.utc).isoformat()
-    # ON CONFLICT DO UPDATE preserves emailed_at — INSERT OR REPLACE would
-    # nuke the whole row and reset emailed_at to NULL every synthesis pass.
     conn.execute(
         """INSERT INTO clusters
            (cluster_id, title, summary, framing_note, read_for, category,
-            event_start, event_end, event_name, primary_url, last_synthesised_at)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            event_start, event_end, event_name, primary_url, last_synthesised_at,
+            ig_caption, ig_hashtags)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
            ON CONFLICT(cluster_id) DO UPDATE SET
              title               = excluded.title,
              summary             = excluded.summary,
@@ -192,7 +195,9 @@ def upsert_cluster(
              event_end           = excluded.event_end,
              event_name          = excluded.event_name,
              primary_url         = COALESCE(excluded.primary_url, clusters.primary_url),
-             last_synthesised_at = excluded.last_synthesised_at""",
+             last_synthesised_at = excluded.last_synthesised_at,
+             ig_caption          = COALESCE(excluded.ig_caption, clusters.ig_caption),
+             ig_hashtags         = COALESCE(excluded.ig_hashtags, clusters.ig_hashtags)""",
         (
             cluster_id,
             title,
@@ -205,6 +210,8 @@ def upsert_cluster(
             event_name,
             primary_url,
             now,
+            ig_caption,
+            ig_hashtags,
         ),
     )
     conn.commit()
@@ -410,9 +417,12 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
     The image filter in render_today_events naturally caps volume to image-having events only.
     Covers single-day and multi-day events (event_start <= date <= event_end).
     """
+    from datetime import date, timedelta
+    # Long events (> 14 days) repost weekly; short events repost daily.
+    week_ago = (date.fromisoformat(date_iso) - timedelta(days=7)).isoformat()
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_end,
-                  c.event_name,
+                  c.event_name, c.ig_caption, c.ig_hashtags,
                   COALESCE(c.primary_url,
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,
@@ -424,9 +434,21 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
            WHERE c.category = 'event'
              AND c.event_start <= ?
              AND (c.event_end >= ? OR (c.event_end IS NULL AND c.event_start >= ?))
-             AND (c.ig_story_at IS NULL OR c.ig_story_at < ?)
+             AND (
+               c.ig_story_at IS NULL
+               OR (
+                 -- Short event (≤ 14 days): repost daily
+                 (c.event_end IS NULL OR julianday(c.event_end) - julianday(c.event_start) <= 14)
+                 AND c.ig_story_at < ?
+               )
+               OR (
+                 -- Long event (> 14 days): repost weekly
+                 julianday(c.event_end) - julianday(c.event_start) > 14
+                 AND c.ig_story_at < ?
+               )
+             )
            ORDER BY c.event_start""",
-        (date_iso, date_iso, date_iso, date_iso),
+        (date_iso, date_iso, date_iso, date_iso, week_ago),
     ).fetchall()
     return [dict(r) for r in rows]
 
@@ -447,6 +469,7 @@ def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[di
     """
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.category,
+                  c.ig_caption, c.ig_hashtags,
                   COALESCE(c.primary_url,
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,

@@ -13,7 +13,9 @@ Generate:
    - "jusqu'au DATE" (until DATE): set event_end = DATE and leave event_start = null. The start date will be inferred automatically from the article's publication date. Do NOT use the end date as the start date.
    - event_end: ONLY set for genuinely continuous multi-day events (a festival running every day from May 18 to May 20). Do NOT set event_end for events with multiple separate discrete dates (a concert on May 22 and another on June 14 — use only event_start for the earliest date and leave event_end null).
    - event_name: the short proper name of the event itself, 2–5 words (e.g. "Le Bus Figaro", "Echos & Merveilles", "Star Academy Tour", "Bigflo & Oli"). This is what people call the event, not the article headline. Leave null if no distinct event name exists.
-6. Pick exactly one category for the cluster:
+6. Write a short Instagram caption (ig_caption): one punchy sentence, max 15 words, in French. It must say WHAT the thing is and WHERE or WHO, not just restate the title. Focus on the most concrete detail that would make someone want to attend or visit. Examples: "Guinguette en bord de Garonne, plage de sable et concerts le dimanche." / "Expo gratuite sur la faune toulousaine jusqu'en septembre aux Jacobins."
+7. Generate 5–7 Instagram hashtags (ig_hashtags): mix of high-volume discovery tags (#toulouse #sortiraToulouse) and specific tags relevant to this content (#guinguette #boisdesbordes #été2026 #gastronomie etc.). All in French or topic-specific. No generic filler. Return as a JSON array of strings without the # prefix.
+8. Pick exactly one category for the cluster:
    - "news": hard news, civic announcements, weather alerts, sports results, politics, public-safety updates, current events.
    - "event": dedicated event listings with specific attendance details (venue, date, time) — concert listings, festival programmes, exhibition schedules, market dates. The content should be primarily an invitation to attend, not a news article that mentions an event in passing. A news story about an artist performing, a review of an event, or an article that reports on something happening is "news", not "event".
    - "place": places, openings, closures — restaurants, bars, shops, hotels, neighbourhood spots, hospitality. Things to visit or eat at.
@@ -43,5 +45,7 @@ Return ONLY a JSON object, no preamble or code fences. Schema:
   "category": "news" | "event" | "place" | "culture",
   "event_start": "YYYY-MM-DD" or null,
   "event_end": "YYYY-MM-DD" or null,
-  "event_name": "..." or null
+  "event_name": "..." or null,
+  "ig_caption": "..." or null,
+  "ig_hashtags": ["toulouse", "sortiraToulouse", ...] or null
 }
