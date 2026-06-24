@@ -404,9 +404,10 @@ def load_weekend_events(conn: sqlite3.Connection, date_from: str, date_to: str) 
 
 
 def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[str, Any]]:
-    """Event clusters happening on date_iso that have not yet been posted as a Story.
+    """Event clusters happening on date_iso that haven't been posted as a Story today.
 
-    ig_story_at IS NULL ensures each event is only ever posted once as an Instagram Story.
+    Stories disappear after 24h so posting daily for ongoing events is intentional.
+    The image filter in render_today_events naturally caps volume to image-having events only.
     Covers single-day and multi-day events (event_start <= date <= event_end).
     """
     rows = conn.execute(
@@ -423,9 +424,9 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
            WHERE c.category = 'event'
              AND c.event_start <= ?
              AND (c.event_end >= ? OR (c.event_end IS NULL AND c.event_start >= ?))
-             AND c.ig_story_at IS NULL
+             AND (c.ig_story_at IS NULL OR c.ig_story_at < ?)
            ORDER BY c.event_start""",
-        (date_iso, date_iso, date_iso),
+        (date_iso, date_iso, date_iso, date_iso),
     ).fetchall()
     return [dict(r) for r in rows]
 
