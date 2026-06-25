@@ -332,39 +332,55 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     FSIZE = 68
     _paste_favicon(base, W - 52 - FSIZE, 52, size=FSIZE)
 
-    f_cat   = _load_font(28, bold=True)
-    f_title = _load_font(58, bold=True)
-    f_sub   = _load_font(34)
-    f_tiny  = _load_font(22)
+    f_cat      = _load_font(28, bold=True)
+    f_headline = _load_font(64, bold=True)   # event_name — short & punchy
+    f_sub      = _load_font(32)              # ig_caption lines
+    f_meta     = _load_font(26)              # venue · date
+    f_tiny     = _load_font(22)
 
     title      = cluster.get("title", "")
     event_name = cluster.get("event_name") or None
+    ig_caption = cluster.get("ig_caption") or ""
     venue      = _extract_venue(cluster.get("summary") or "")
 
-    segs = _segment_title(title, event_name=event_name)
+    # Headline: event_name if available, otherwise full title
+    headline    = event_name if event_name else title
+    headline_segs = [(w, COL_PINK) for w in headline.split()] if event_name else \
+                    _segment_title(title)
 
-    lh       = draw.textbbox((0, 0), "Ag", font=f_title)[3]
-    sub_h    = draw.textbbox((0, 0), "A", font=f_sub)[3]
-    cat_h    = draw.textbbox((0, 0), "A", font=f_cat)[3] + 20
-    site_h   = draw.textbbox((0, 0), "A", font=f_tiny)[3]
+    # Description: ig_caption split into lines (Claude generates \n-separated lines)
+    caption_lines_raw = [l.strip() for l in ig_caption.split("\n") if l.strip()][:3]
 
-    title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:4]
-    venue_lines = _wrap_text(venue, f_sub, TEXT_W, draw)[:2] if venue else []
+    lh_h    = draw.textbbox((0, 0), "Ag", font=f_headline)[3]
+    lh_s    = draw.textbbox((0, 0), "Ag", font=f_sub)[3]
+    lh_m    = draw.textbbox((0, 0), "A", font=f_meta)[3]
+    cat_h   = draw.textbbox((0, 0), "A", font=f_cat)[3] + 20
+    site_h  = draw.textbbox((0, 0), "A", font=f_tiny)[3]
 
-    # Show event date range — more informative than just today's date
+    headline_lines = _wrap_text(headline, f_headline, TEXT_W, draw)[:3]
+    caption_lines  = []
+    for raw in caption_lines_raw:
+        caption_lines += _wrap_text(raw, f_sub, TEXT_W, draw)[:1]
+    caption_lines = caption_lines[:3]
+
     event_date_str = _french_date_range(
         cluster.get("event_start") or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         cluster.get("event_end"),
     )
+    meta_parts = []
+    if venue:
+        meta_parts.append(venue)
+    meta_parts.append(event_date_str + "  ·  Toulouse" if event_date_str else "Toulouse")
+    meta_str = "  ·  ".join(meta_parts) if venue else (event_date_str + "  ·  Toulouse" if event_date_str else "Toulouse")
 
-    total_h = (cat_h + 16
-               + len(title_lines) * (lh + 12) + 10
-               + len(venue_lines) * (sub_h + 6) + (8 if venue_lines else 0)
-               + sub_h + 12
+    total_h = (cat_h + 14
+               + len(headline_lines) * (lh_h + 8) + 10
+               + len(caption_lines) * (lh_s + 6) + (8 if caption_lines else 0)
+               + lh_m + 10
                + site_h + 8)
     y = H - PAD - total_h
 
-    # category pill
+    # category pill (centred)
     cat_raw   = cluster.get("category", "place")
     cat_label = CAT_PILLS.get(cat_raw, "INFO")
     cb        = draw.textbbox((0, 0), cat_label, font=f_cat)
@@ -375,22 +391,22 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     draw.rounded_rectangle([pill_x, y, pill_x + pill_w, y + pill_h_px],
                             radius=pill_h_px // 2, fill=pill_bg)
     draw.text((pill_x + 22, y + 10), cat_label, font=f_cat, fill=COL_DARK)
-    y += pill_h_px + 16
+    y += pill_h_px + 14
 
-    # title
-    y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, TEXT_W, line_bonus=12)
+    # headline (event_name in pink, or full title with colour logic)
+    y, _ = _draw_multicolor_lines(draw, PAD, y, headline_segs, f_headline, TEXT_W, line_bonus=8)
     y += 10
 
-    # venue / location (white, slightly faded)
-    for line in venue_lines:
-        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 200))
-        y += sub_h + 6
-    if venue_lines:
+    # description lines from ig_caption
+    for line in caption_lines:
+        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 210))
+        y += lh_s + 6
+    if caption_lines:
         y += 8
 
-    # date range in green
-    draw.text((PAD, y), event_date_str + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
-    y += sub_h + 12
+    # venue · date in green
+    draw.text((PAD, y), meta_str, font=f_meta, fill=COL_GREEN)
+    y += lh_m + 10
 
     draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
 
