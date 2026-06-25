@@ -544,26 +544,34 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     FSIZE = 64
     _paste_favicon(base, W - 52 - FSIZE, 44, size=FSIZE)
 
-    f_title  = _load_font(62, bold=True)
-    f_date   = _load_font(36, bold=True)
-    f_tiny   = _load_font(18)
+    f_title   = _load_font(62, bold=True)
+    f_date    = _load_font(36, bold=True)
+    f_weather = _load_font(30, bold=True)
+    f_tiny    = _load_font(18)
+
+    # Fetch weekend weather (fail silently)
+    sat_weather = sun_weather = ""
+    try:
+        from src.weather import weekend_lines
+        sat_weather, sun_weather = weekend_lines()
+    except Exception:
+        pass
 
     # main title
     title_lines = ["Que faire ce", "week-end à", "Toulouse ?"]
     f_t = f_title
     lh  = draw.textbbox((0, 0), "A", font=f_t)[3]
     title_total_h = len(title_lines) * (lh + 8)
-    date_h = draw.textbbox((0, 0), "A", font=f_date)[3]
+    date_h    = draw.textbbox((0, 0), "A", font=f_date)[3]
+    weather_h = draw.textbbox((0, 0), "A", font=f_weather)[3] + 8 if (sat_weather or sun_weather) else 0
     dots_h = 30
-    total  = title_total_h + 20 + date_h + 32 + dots_h
+    total  = title_total_h + 20 + date_h + 16 + weather_h + 16 + dots_h
     y = H - PAD - total
 
     for line in title_lines:
         lw = draw.textbbox((0, 0), line, font=f_t)[2]
-        # "Toulouse" in pink
         if "Toulouse" in line:
             before, after = line.split("Toulouse", 1)
-            # centre the whole line first
             x = (W - lw) // 2
             if before:
                 draw.text((x, y), before, font=f_t, fill=COL_WHITE)
@@ -578,12 +586,20 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     y += 12
 
     # date range in green
-    sat_str = f"{sat.day} {FRENCH_MONTHS[sat.month-1]}"
-    sun_str = f"{sun.day} {FRENCH_MONTHS[sun.month-1]}"
+    sat_str  = f"{sat.day} {FRENCH_MONTHS[sat.month-1]}"
+    sun_str  = f"{sun.day} {FRENCH_MONTHS[sun.month-1]}"
     date_str = f"{sat_str} - {sun_str}"
     dw = draw.textbbox((0, 0), date_str, font=f_date)[2]
     draw.text(((W - dw) // 2, y), date_str, font=f_date, fill=COL_GREEN)
-    y += date_h + 32
+    y += date_h + 16
+
+    # weather line (emoji + sat + sun temperatures)
+    if sat_weather or sun_weather:
+        weather_str = "  ·  ".join(filter(None, [sat_weather, sun_weather]))
+        ww = draw.textbbox((0, 0), weather_str, font=f_weather)[2]
+        draw.text(((W - ww) // 2, y), weather_str, font=f_weather, fill=(255, 255, 255, 220))
+        y += weather_h
+    y += 16
 
     # carousel dots + arrow
     n_dots = min(len(events) + 1, 8)

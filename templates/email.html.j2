@@ -40,7 +40,7 @@
 
 <div class="header">
   <h1 class="brand">Toulouse News</h1>
-  <p class="date">{{ date_long }}</p>
+  <p class="date">{{ date_long }}{% if weather_line %} &nbsp;·&nbsp; {{ weather_line }}{% endif %}</p>
 </div>
 
 <p class="lead">L'actu de la Ville Rose, agrégée pour vous. {{ entry_count }} {{ "story" if entry_count == 1 else "stories" }} aujourd'hui.</p>

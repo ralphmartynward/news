@@ -63,6 +63,12 @@ def render(entries: list[dict[str, Any]]) -> tuple[str, str]:
     entry_count = sum(len(s["entries"]) for s in sections)
     subject = f"Toulouse News — {date_long}"
 
+    try:
+        from src.weather import today_line
+        weather_line = today_line()
+    except Exception:
+        weather_line = ""
+
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
         autoescape=select_autoescape(["html", "j2"]),
@@ -72,5 +78,6 @@ def render(entries: list[dict[str, Any]]) -> tuple[str, str]:
         date_long=date_long,
         sections=sections,
         entry_count=entry_count,
+        weather_line=weather_line,
     )
     return subject, html
