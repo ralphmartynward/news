@@ -394,6 +394,7 @@ def load_weekend_events(conn: sqlite3.Connection, date_from: str, date_to: str) 
     """Event clusters with event_start between date_from and date_to (ISO dates)."""
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_name,
+                  c.ig_caption,
                   COALESCE(c.primary_url,
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,

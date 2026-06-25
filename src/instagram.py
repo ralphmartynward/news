@@ -608,7 +608,7 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
 
 
 def _render_weekend_event_slide(event: dict, n: int) -> "Image":
-    """One event slide for the weekend carousel."""
+    """One event slide for the weekend carousel — mirrors story layout."""
     from PIL import Image, ImageDraw
 
     W, H = POST_W, POST_H
@@ -618,7 +618,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     photo = _download_image(event.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
-    base = _apply_gradient(base, int(H * 0.60), H, start_alpha=0, end_alpha=225)
+    base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
 
     draw = ImageDraw.Draw(base)
 
@@ -626,43 +626,59 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     FSIZE = 56
     _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
-    f_num   = _load_font(28, bold=True)
-    f_title = _load_font(48, bold=True)
-    f_sub   = _load_font(24)
-    f_tiny  = _load_font(17)
+    f_num      = _load_font(28, bold=True)
+    f_headline = _load_font(52, bold=True)
+    f_sub      = _load_font(26)
+    f_meta     = _load_font(22)
+    f_tiny     = _load_font(17)
 
-    # number pill top-left — dark semi-transparent, white text
+    # number pill top-left
     num_str = str(n)
     nb  = draw.textbbox((0, 0), num_str, font=f_num)
     nw, nh = nb[2] - nb[0] + 28, nb[3] - nb[1] + 16
     draw.rounded_rectangle([PAD, 44, PAD + nw, 44 + nh], radius=nh // 2, fill=(15, 23, 42, 200))
     draw.text((PAD + 14, 44 + 8), num_str, font=f_num, fill=COL_WHITE)
 
-    # title (multi-colour)
-    segs  = _segment_title(event.get("title", ""))
-    venue = _extract_venue(event.get("summary") or "")
-    lh    = draw.textbbox((0, 0), "Ag", font=f_title)[3]
-    sub_h = draw.textbbox((0, 0), "A", font=f_sub)[3]
-    sample = _wrap_text(event.get("title", ""), f_title, W - PAD*2, draw)[:3]
-    n_lines = len(sample)
-    venue_lines = _wrap_text(venue, f_sub, W - PAD*2, draw)[:1] if venue else []
-    total_h = n_lines * (lh + 10) + 14 + len(venue_lines) * (sub_h + 6) + sub_h + 12 + 20
+    event_name = event.get("event_name") or None
+    ig_caption = event.get("ig_caption") or ""
+    venue      = _extract_venue(event.get("summary") or "")
+
+    # Headline: event_name in pink, or full title with colour logic
+    headline      = event_name if event_name else event.get("title", "")
+    headline_segs = [(w, COL_PINK) for w in headline.split()] if event_name else \
+                    _segment_title(event.get("title", ""))
+    headline_lines = _wrap_text(headline, f_headline, W - PAD*2, draw)[:2]
+
+    # Description from ig_caption
+    caption_raw   = [l.strip() for l in ig_caption.split("\n") if l.strip()][:2]
+    caption_lines = []
+    for raw in caption_raw:
+        caption_lines += _wrap_text(raw, f_sub, W - PAD*2, draw)[:1]
+
+    ev_str   = _french_date_range(event.get("event_start") or "", event.get("event_end"))
+    meta_str = ("  ·  ".join(filter(None, [venue, ev_str])) + "  ·  Toulouse") if (venue or ev_str) else "Toulouse"
+
+    lh_h  = draw.textbbox((0, 0), "Ag", font=f_headline)[3]
+    lh_s  = draw.textbbox((0, 0), "A", font=f_sub)[3]
+    lh_m  = draw.textbbox((0, 0), "A", font=f_meta)[3]
+    site_h = draw.textbbox((0, 0), "A", font=f_tiny)[3]
+
+    total_h = (len(headline_lines) * (lh_h + 8) + 10
+               + len(caption_lines) * (lh_s + 6) + (8 if caption_lines else 0)
+               + lh_m + 8 + site_h + 8)
     y = H - PAD - total_h
 
-    y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, W - PAD*2, line_bonus=10)
-    y += 6
+    y, _ = _draw_multicolor_lines(draw, PAD, y, headline_segs, f_headline, W - PAD*2, line_bonus=8)
+    y += 10
 
-    for line in venue_lines:
-        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 190))
-        y += sub_h + 6
+    for line in caption_lines:
+        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 210))
+        y += lh_s + 6
+    if caption_lines:
+        y += 8
 
-    parts = []
-    ev = _french_date_range(event.get("event_start") or "", event.get("event_end"))
-    if ev:
-        parts.append(ev)
-    parts.append("Toulouse")
-    draw.text((PAD, y), "  ·  ".join(parts), font=f_sub, fill=(255, 255, 255, 160))
-    y += sub_h + 12
+    draw.text((PAD, y), meta_str, font=f_meta, fill=COL_GREEN)
+    y += lh_m + 8
 
     draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
 
