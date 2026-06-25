@@ -212,6 +212,10 @@ def _extract_lessentiel_sorties(
         if not sorties_table:
             return []
 
+        # Section image — usually the poster/photo for the first idea; used as fallback
+        section_img = sorties_table.find("img", src=re.compile(r"lessentiel\.fr/sites/lessentiel/files/"))
+        section_img_url: str | None = section_img["src"] if section_img else None
+
         date_slug = received_at.strftime("%Y-%m-%d")
         items: list[dict[str, Any]] = []
 
@@ -251,6 +255,10 @@ def _extract_lessentiel_sorties(
                         image_url = og.group(1) or og.group(2)
                 except Exception:
                     pass
+
+            # Fall back to section image (most relevant for idx=0, acceptable for others)
+            if not image_url and section_img_url:
+                image_url = section_img_url
 
             items.append({
                 "source": "lessentiel",
