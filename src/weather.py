@@ -91,5 +91,5 @@ def weekend_lines() -> tuple[str, str]:
         if not f:
             return ""
         day = FRENCH_DAYS[d.weekday()][:3].capitalize()
-        return f"{f['emoji']} {day} {f['max']}°"
+        return f"{day} {f['max']}°"
     return fmt(sat), fmt(sun)

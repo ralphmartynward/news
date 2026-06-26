@@ -181,22 +181,23 @@ def _space_w(draw, font) -> int:
 # ---------------------------------------------------------------------------
 
 _VENUE_RE = re.compile(
-    r"(?:jardins?|parcs?|stades?|stadiums?|salles?|allées?|allees?|"
+    # Venue type keyword (case-insensitive via inline flag)
+    r"(?i:jardins?|parcs?|stades?|stadiums?|salles?|allées?|allees?|"
     r"rues?|places?|esplanade|halles?|palais|lacs?|bastide|hangar|espace|"
     r"couloir|avenue|boulevard|campus|quartier)"
-    r"\s+(?:(?:de|du|de la|de l)\s+)?"
-    r"[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][^,\.;\n]{2,45}",
-    re.IGNORECASE | re.UNICODE,
+    # Optional article/preposition before proper name
+    r"(?:\s+(?i:de\s+la|de\s+l\w*|d'\w*|du|de)\s*)?"
+    # Proper name: 1+ capitalized words (case-sensitive), connectors allowed between
+    r"\s*[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][a-zàâéèêëîïôùûç]+(?:\s+(?:[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][a-zàâéèêëîïôùûç]+|de|du|la|le|les|l'))*",
+    re.UNICODE,
 )
-_VENUE_STRIP_RE = re.compile(r"\s+(?:à\s+\S+|pour\s+\w+|et\s+\w+|avec\s+\w+).*$", re.IGNORECASE)
 
 def _extract_venue(summary: str) -> str:
-    """Return the first venue/location phrase from the summary, stripped of city tail."""
+    """Return the first venue/location phrase from the summary."""
     m = _VENUE_RE.search(summary[:300])
     if not m:
         return ""
-    venue = _VENUE_STRIP_RE.sub("", m.group(0)).strip()
-    return venue[:55]
+    return m.group(0).strip()[:55]
 
 def _segment_title(title: str, event_name: str | None = None) -> list[tuple[str, tuple]]:
     """Assign colours to words.
@@ -671,8 +672,15 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     for raw in caption_raw:
         caption_lines += _wrap_text(raw, f_sub, W - PAD*2, draw)[:1]
 
-    ev_str   = _french_date_range(event.get("event_start") or "", event.get("event_end"))
-    meta_str = ("  ·  ".join(filter(None, [venue, ev_str])) + "  ·  Toulouse") if (venue or ev_str) else "Toulouse"
+    ev_str = _french_date_range(event.get("event_start") or "", event.get("event_end"))
+    if venue and ev_str:
+        meta_str = f"{venue}  ·  {ev_str}"
+    elif venue:
+        meta_str = venue
+    elif ev_str:
+        meta_str = f"{ev_str}  ·  Toulouse"
+    else:
+        meta_str = "Toulouse"
 
     lh_h  = draw.textbbox((0, 0), "Ag", font=f_headline)[3]
     lh_s  = draw.textbbox((0, 0), "A", font=f_sub)[3]
@@ -815,10 +823,16 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
         print(f"instagram weekend: no events found for {sat} - {sun}")
         return []
 
+    # Prioritize events that have a usable image so imageless slides don't displace them
+    events_with_img = [e for e in events if _good_image_url(e.get("image_url"))]
+    events_no_img   = [e for e in events if not _good_image_url(e.get("image_url"))]
+    events = events_with_img + events_no_img
+    print(f"instagram weekend: {len(events_with_img)} with image, {len(events_no_img)} without")
+
     out_dir.mkdir(parents=True, exist_ok=True)
     slides: list[dict[str, Any]] = []
 
-    # Cover slide
+    # Cover slide (1) + up to 19 event slides = 20 max (Instagram carousel limit)
     cover = _render_weekend_cover(events, sat, sun)
     cover_file = "weekend_cover.jpg"
     cover.save(str(out_dir / cover_file), "JPEG", quality=92)
@@ -826,7 +840,7 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
     print(f"  instagram weekend: cover slide ({sat} - {sun})")
 
     # Event slides
-    for i, ev in enumerate(events[:9], start=1):
+    for i, ev in enumerate(events[:19], start=1):
         slide = _render_weekend_event_slide(ev, i)
         fname = f"weekend_event_{i:02d}.jpg"
         slide.save(str(out_dir / fname), "JPEG", quality=92)
