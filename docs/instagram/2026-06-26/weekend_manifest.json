@@ -1,0 +1,59 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-06-27",
+  "sunday": "2026-06-28",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c05358aa-fcc6-4706-9d1a-7d3052eb0516",
+      "title": "Un pique-nique gastronomique occitan au sommet du Pic du Midi"
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ce65d7b6-89de-4ea7-a83c-4b1cac8c02a4",
+      "title": "Finale Top 14 : le Stade Toulousain face à Montpellier au Stade de France"
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:05c05bad-2a85-4a2e-b236-52fa34e1097a",
+      "title": "Finale Top 14 en direct place du Capitole ce samedi"
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:60d376e4-ac19-49be-a498-cc2bb393b8f8",
+      "title": "Sant Joan : fête multiculturelle et familiale aux Allées Jules Guesde"
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c462e005-01d9-4a74-a37f-46452603b9a0",
+      "title": "Festival Sozinho aux Minimes : ateliers, kermesse et live"
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e1182cf2-8f61-4c2f-8c95-a5e3f925717b",
+      "title": "Soirée Karnage Soldiers au Rex : gabber et techno dure"
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d43d9bfa-ff9d-4d5c-b322-3ec4fd136349",
+      "title": "Halle s'Emballe : concert classique à la Halle de La Machine"
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:f506ed77-4cc1-4e10-94e0-851a49fe5777",
+      "title": "Concert Les Fils de Ta Mère au Jardin Musical, 28 juin"
+    }
+  ]
+}
