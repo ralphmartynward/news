@@ -1,0 +1,20 @@
+[
+  {
+    "cluster_id": "cluster:db9cbfae-468d-4692-a6e9-9f6e8250a863",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "place",
+    "title": "7 lacs pour se baigner à moins d'une heure de Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2025/06/lac-montrejeau-pyrenees.jpg",
+    "file": "cluster_db9cbfae-468d-4692-a6e9-9f6e8250a863_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:0797b840-fa83-495c-958d-97659e085c4c",
+    "format": "post",
+    "source": "toulouscope",
+    "category": "culture",
+    "title": "Toulouscope lance son sixième numéro pour l'été 2026",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a3e28b6b2c842131804edb4/hd/image.jpg?v=2",
+    "file": "cluster_0797b840-fa83-495c-958d-97659e085c4c_post.jpg"
+  }
+]

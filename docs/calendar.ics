@@ -3461,7 +3461,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:69ea813e-df15-4ff7-b532-10fab3af0956@news.lavillerose.com
 DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20260627
 SUMMARY:Babayaga ultime chapitre
 DESCRIPTION:La maison Babayaga\, lieu emblématique de Toulouse\, rouvre se
  s portes après presque deux ans de fermeture\, portée par le collectif S
@@ -3550,16 +3550,16 @@ UID:cluster:ce65d7b6-89de-4ea7-a83c-4b1cac8c02a4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Finale Top 14 Capitole
-DESCRIPTION:Après une demi-finale record contre le Racing 92 (71-17)\, le 
- Stade Toulousain affrontera Montpellier en finale du Top 14 le samedi 27 j
- uin 2026 au Stade de France. La mairie de Toulouse\, à l'initiative de Je
- an-Luc Moudenc\, installe un écran géant place du Capitole à partir de 
- 19h pour le coup d'envoi à 21h. En raison d'une alerte canicule avec 37-3
- 8°C annoncés\, le départ des joueurs depuis Ernest-Wallon — habituell
- ement célébré par les supporters — est annulé ce jeudi 25 juin. Des 
- restrictions d\n\nSource\: https://actu.fr/occitanie/toulouse_31555/je-voi
- s-que-l-inquietude-plane-mais-pourquoi-autant-de-doutes-autour-du-stade-to
- ulousain-avant-la-demie-du-top-14_64426504.html
+DESCRIPTION:Le Stade Toulousain affrontera Montpellier en finale du Top 14 
+ ce samedi 27 juin 2026 au Stade de France (coup d'envoi à 21h)\, après a
+ voir écrasé le Racing 92 71-17 en demi-finale. Pour les supporters rest
+ és à Toulouse\, la mairie installe un écran géant place du Capitole à
+  partir de 19h\, avec des restrictions de circulation dès 14h et une ferm
+ eture partielle de la place en journée en raison de la canicule (38°C an
+ noncés). Une seconde diffusion est organisée au stade Ernest-Wallon par 
+ le Toulouse\n\nSource\: https://actu.fr/occitanie/toulouse_31555/je-vois-q
+ ue-l-inquietude-plane-mais-pourquoi-autant-de-doutes-autour-du-stade-toulo
+ usain-avant-la-demie-du-top-14_64426504.html
 LOCATION:Stade Toulousain affrontera Montpellier en finale du\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/je-vois-que-l-inquietude-plane
  -mais-pourquoi-autant-de-doutes-autour-du-stade-toulousain-avant-la-demie-
@@ -3569,20 +3569,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
 DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Finale Top 14
-DESCRIPTION:Le Stade Toulousain dispute la finale du Top 14 contre Montpell
- ier HR au Stade de France le samedi 27 juin 2026\, et la mairie de Toulous
- e installe un écran géant place du Capitole pour une retransmission à p
- artir de 19h. La place sera fermée dès 16h\, avec des accès limités à
-  quelques rues et un impact sur la station de métro Capitole — un dispo
- sitif de sécurité renforcé est prévu. D'autres lieux permettront aussi
-  de suivre la rencontre : le stade Ernest-Wallon avec le Toulouse Olympiqu
- e\, le Gran\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026
- -06-19#43891
-LOCATION:Stade Toulousain dispute la finale du Top 14 contre\, Toulouse
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-19#43891?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DTEND;VALUE=DATE:20260629
+SUMMARY:Finale Top 14\, festivals\, vide-greniers : le week-end du 27-28 ju
+ in
+DESCRIPTION:Ce week-end à Toulouse\, l'événement phare est la finale du 
+ Top 14 opposant le Stade Toulousain à Montpellier HR\, retransmise sur é
+ cran géant place du Capitole à partir de 19h samedi 27 juin — avec dis
+ positif de sécurité renforcé\, fermeture de la place dès 16h et accès
+  restreint aux rues environnantes. En marge du match\, plusieurs bars\, gu
+ inguettes et le stade Ernest-Wallon proposent des retransmissions alternat
+ ives. Par ailleurs\, la maison artistique Babayaga rouvre ses portes vendr
+ edi 26 et sam\n\nSource\: https://www.toulouscope.fr/2026/06/25/le-top-10-
+ des-festivals-de-lete-a-ne-pas-manquer-a-toulouse-et-alentours-13433060.ph
+ p
+LOCATION:Stade Toulousain\, Toulouse
+URL:https://www.toulouscope.fr/2026/06/25/le-top-10-des-festivals-de-lete-a
+ -ne-pas-manquer-a-toulouse-et-alentours-13433060.php?utm_source=ical&utm_m
+ edium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:05c05bad-2a85-4a2e-b236-52fa34e1097a@news.lavillerose.com
@@ -3651,6 +3654,26 @@ URL:https://www.clutchmag.fr/evenements#2026-06-25-samedi-27-juin-2?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:eac881a0-b061-4a46-8b05-3c99b8ccb63c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:La Bohème
+DESCRIPTION:Le samedi 27 juin\, une dizaine de créateurs toulousains inves
+ tiront l'Union des Arts\, dans le quartier Bonhoure\, pour la première é
+ dition de La Bohème\, un nouveau marché artisanal. L'événement est por
+ té par deux artisanes locales\, Marie Anh Malhaire (Mulot Bijoux) et Cél
+ ine Cole (Atelier Agami)\, qui souhaitaient créer un rendez-vous à taill
+ e humaine axé sur l'échange direct avec les fabricants. On y trouvera c
+ éramiques\, bijoux\, bougies\, illustrations\, maroquinerie et gourmandis
+ es artisanales. L'\n\nSource\: https://www.toulouscope.fr/2026/06/26/la-bo
+ heme-un-nouveau-marche-de-createurs-sinstalle-a-toulouse-ce-week-end-13435
+ 284.php
+LOCATION:quartier Bonhoure\, Toulouse
+URL:https://www.toulouscope.fr/2026/06/26/la-boheme-un-nouveau-marche-de-cr
+ eateurs-sinstalle-a-toulouse-ce-week-end-13435284.php?utm_source=ical&utm_
+ medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d43d9bfa-ff9d-4d5c-b322-3ec4fd136349@news.lavillerose.com
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
@@ -3702,6 +3725,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/plusieurs-dizaines-de-postes-u
  niquement-ouverts-aux-femmes-safran-organise-un-afterwork-recrutement-a-to
  ulouse_64449184.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:606ccc61-b830-4d73-b871-09288f8af0c3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Segula Days Toulouse
+DESCRIPTION:Le groupe d'ingénierie Segula Technologies organise un job dat
+ ing à Toulouse le jeudi 2 juillet 2026\, de 10h à 18h\, au Stade Ernest-
+ Wallon. Cet événement\, baptisé « Segula Days »\, propose environ 60 
+ postes en CDI dans des métiers variés : électriciens\, mécaniciens\, c
+ hefs d'équipe\, inspecteurs qualité et ingénieurs. L'accès est libre s
+ ans inscription préalable — seul un CV est nécessaire pour se présent
+ er. Les échanges se dérouleront de manière informelle autour de collati
+ ons\, avec des recruteurs\n\nSource\: https://actu.fr/occitanie/toulouse_3
+ 1555/aeronautique-60-postes-en-cdi-a-pourvoir-lors-d-un-evenement-dans-ce-
+ groupe-base-a-toulouse_64447111.html
+LOCATION:Stade Ernest-Wallon\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/aeronautique-60-postes-en-cdi-
+ a-pourvoir-lors-d-un-evenement-dans-ce-groupe-base-a-toulouse_64447111.htm
+ l?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:bfcbe71a-40c5-4d54-9b98-0445eb177125@news.lavillerose.com
@@ -3896,6 +3939,26 @@ DESCRIPTION:Le festival Mister Freeze propose une exposition immersive à T
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&url_id=65d738f3-73c7-4108-a290-37ed
  1fff0a1a?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:559c6ef3-447a-42f7-b07c-ef6c0ad60cac@news.lavillerose.com
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260808
+SUMMARY:Festival d'Astronomie de Fleurance
+DESCRIPTION:Le Festival d'Astronomie de Fleurance\, présenté comme le plu
+ s grand festival de culture scientifique en Europe\, se tiendra du 31 juil
+ let au 7 août 2026 dans le Gers pour sa 36e édition. Plus de 50 chercheu
+ rs et passionnés y retrouveront le grand public autour des sciences de l'
+ Univers. Cette édition mise particulièrement sur la dimension familiale 
+ avec cinq nouvelles activités : une chasse aux météorites en mode jeu d
+ e piste\, des ateliers « Goûters Astro »\, des projections commentées 
+ par des sci\n\nSource\: https://www.toulouscope.fr/2026/06/26/festival-das
+ tronomie-de-fleurance-le-plus-grand-festival-de-culture-scientifique-en-eu
+ rope-revient-pour-une-36e-edition-13413248.php
+URL:https://www.toulouscope.fr/2026/06/26/festival-dastronomie-de-fleurance
+ -le-plus-grand-festival-de-culture-scientifique-en-europe-revient-pour-une
+ -36e-edition-13413248.php?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:10957db0-2cf4-41ff-a518-2d6cb9f397e2@news.lavillerose.com
