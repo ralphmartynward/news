@@ -3492,6 +3492,23 @@ URL:https://www.clutchmag.fr/evenements#2026-06-25-vendredi-26-juin-2?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d2b3cb62-7b0a-4dba-8dc5-a32aebd36227@news.lavillerose.com
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Time For Love
+DESCRIPTION:La comédie musicale toulousaine Time For Love a remporté le P
+ rix du Public lors des Trophées de la Comédie Musicale 2026 au théâtre
+  Mogador à Paris\, le 15 juin. Produite depuis 2025 au Casino Barrière d
+ e Toulouse\, elle réunit 15 artistes locaux sur scène dans un spectacle 
+ écrit et mis en scène par Carole Chauvy\, directrice artistique du Casin
+ o Barrière. L'histoire mêle voyage dans le temps\, Napoléon Bonaparte p
+ ropulsé au XXIe siècle et comédie populaire rythmée de chorégraphies 
+ et de morceaux re\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
+ e/2026-06-26#44728
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-26#44728?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:f74c11c9-ad04-4b98-a675-b29cacf25e6d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
@@ -3544,27 +3561,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/apres-32-ans-de-soirees-memora
  bles-la-planete-rock-discotheque-mythique-ferme-definitivement-a-toulouse_
  64391399.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:ce65d7b6-89de-4ea7-a83c-4b1cac8c02a4@news.lavillerose.com
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Finale Top 14 Capitole
-DESCRIPTION:Le Stade Toulousain affrontera Montpellier en finale du Top 14 
- ce samedi 27 juin 2026 au Stade de France (coup d'envoi à 21h)\, après a
- voir écrasé le Racing 92 71-17 en demi-finale. Pour les supporters rest
- és à Toulouse\, la mairie installe un écran géant place du Capitole à
-  partir de 19h\, avec des restrictions de circulation dès 14h et une ferm
- eture partielle de la place en journée en raison de la canicule (38°C an
- noncés). Une seconde diffusion est organisée au stade Ernest-Wallon par 
- le Toulouse\n\nSource\: https://actu.fr/occitanie/toulouse_31555/je-vois-q
- ue-l-inquietude-plane-mais-pourquoi-autant-de-doutes-autour-du-stade-toulo
- usain-avant-la-demie-du-top-14_64426504.html
-LOCATION:Stade Toulousain affrontera Montpellier en finale du\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/je-vois-que-l-inquietude-plane
- -mais-pourquoi-autant-de-doutes-autour-du-stade-toulousain-avant-la-demie-
- du-top-14_64426504.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
- oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
@@ -3674,6 +3670,48 @@ URL:https://www.toulouscope.fr/2026/06/26/la-boheme-un-nouveau-marche-de-cr
  medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:905a9098-7ae4-46fa-87d5-44c002ad7382@news.lavillerose.com
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Finale Top 14 2026
+DESCRIPTION:Le Stade Toulousain a remporté son quatrième Bouclier de Bren
+ nus d'affilée en s'imposant 28-20 face à Montpellier lors de la finale d
+ u Top 14\, disputée samedi 27 juin au Stade de France devant 78 411 spect
+ ateurs. Peato Mauvaka a été l'homme de la soirée avec un doublé d'essa
+ is\, tandis que Jack Willis a été désigné homme du match grâce à qua
+ tre ballons récupérés dans les rucks. Toulouse a mené 25-6 à la mi-te
+ mps avant que les Montpelliérains ne tentent un retour\, notamment par l'
+ entremise de Gabr\n\nSource\: https://actu.fr/occitanie/toulouse_31555/top
+ -14-un-double-de-mauvaka-une-pluie-de-brennus-le-stade-toulousain-remporte
+ -un-quatrieme-brennus-consecutif_64467050.html
+LOCATION:Stade Toulousain a remporté son quatrième Bouclier d\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/top-14-un-double-de-mauvaka-un
+ e-pluie-de-brennus-le-stade-toulousain-remporte-un-quatrieme-brennus-conse
+ cutif_64467050.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ce65d7b6-89de-4ea7-a83c-4b1cac8c02a4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Présentation du Bouclier de Brennus
+DESCRIPTION:Le Stade Toulousain a battu Montpellier en finale du Top 14 le 
+ samedi 27 juin 2026 au Stade de France\, décrochant un 25e Bouclier de Br
+ ennus et un quatrième titre consécutif — exploit inédit depuis le Sta
+ de Bordelais du début du XXe siècle. Plus de 15 000 supporters s'étaien
+ t rassemblés place du Capitole pour suivre la retransmission sur écran g
+ éant\, malgré une canicule à 37–38°C et une alerte rouge en Haute-Ga
+ ronne. Le match a connu un scénario chaotique\, interrompu par des orages
+  au Stade de F\n\nSource\: https://actu.fr/occitanie/toulouse_31555/stade-
+ toulousain-la-finale-du-top-14-sera-diffusee-sur-ecran-geant-place-du-capi
+ tole-annonce-jean-luc-moudenc_64430374.html
+LOCATION:Stade Toulousain a battu Montpellier en finale du To\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/stade-toulousain-la-finale-du-
+ top-14-sera-diffusee-sur-ecran-geant-place-du-capitole-annonce-jean-luc-mo
+ udenc_64430374.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d43d9bfa-ff9d-4d5c-b322-3ec4fd136349@news.lavillerose.com
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
@@ -3705,6 +3743,27 @@ DESCRIPTION:Le Jardin Musical de Toulouse accueille Les Fils de Ta Mère le
 LOCATION:Jardin Musical de Toulouse accueille Les Fils de Ta M\, Toulouse
 URL:https://www.clutchmag.fr/evenements#2026-06-25-dimanche-28-juin-1?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:56f7bda9-5ea7-4b20-9ef2-5370ebf8e94d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Le tunnel métro-gare Matabiau rouvre après plus d'un an de travau
+ x
+DESCRIPTION:Le passage souterrain reliant la ligne A du métro à la gare T
+ oulouse-Matabiau rouvre ce lundi 29 juin 2026\, après plus d'un an de fer
+ meture entamée le 2 juin 2025. Pendant cette période\, des milliers d'us
+ agers et de touristes devaient sortir au niveau de la médiathèque et mar
+ cher 8 à 10 minutes supplémentaires pour rejoindre la gare. Le tunnel r
+ énové intègre des améliorations d'accessibilité pour les personnes à
+  mobilité réduite\, même si l'accès au hall 2 et aux quais nécessite 
+ toujours de passe\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-
+ fin-de-la-galere-le-passage-souterrain-entre-le-metro-et-la-gare-de-toulou
+ se-rouvre-lundi-et-il-y-a-du-nouveau_64462392.html
+URL:https://actu.fr/occitanie/toulouse_31555/la-fin-de-la-galere-le-passage
+ -souterrain-entre-le-metro-et-la-gare-de-toulouse-rouvre-lundi-et-il-y-a-d
+ u-nouveau_64462392.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:72614cde-00a3-4623-9c02-a067dcb63290@news.lavillerose.com
@@ -3980,6 +4039,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/une-eclipse-solaire-presque-to
  tale-bientot-visible-depuis-toulouse-tout-ce-qu-il-faut-savoir-pour-en-pro
  fiter_64410320.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d18dae09-5e37-42cb-a613-01969306e063@news.lavillerose.com
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260830
+SUMMARY:Rose Festival 2026
+DESCRIPTION:Le Rose Festival\, créé par Bigflo et Oli et désormais rende
+ z-vous incontournable des musiques actuelles dans la région toulousaine\,
+  a annoncé sept nouveaux noms pour son édition 2026 : El Grande Toto\, B
+ ekar\, Meryl\, Eva\, Médine\, R2 et Jetlag. Le festival se tiendra du 27 
+ au 29 août 2026 au Meett\, le parc des expositions de Toulouse Métropole
+ . Ces ajouts complètent une affiche déjà très solide avec Aya Nakamura
+ \, DJ Snake\, Macklemore et Charlotte Cardin en têtes d'affiche. Les orga
+ nisateurs précise\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ro
+ se-festival-bekar-medine-meryl-sept-nouveaux-artistes-rejoignent-la-progra
+ mmation_64455885.html
+URL:https://actu.fr/occitanie/toulouse_31555/rose-festival-bekar-medine-mer
+ yl-sept-nouveaux-artistes-rejoignent-la-programmation_64455885.html?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:fea5ff65-fc94-4e40-b0ea-e29b8924efc8@news.lavillerose.com
