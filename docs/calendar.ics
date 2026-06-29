@@ -3187,16 +3187,17 @@ BEGIN:VEVENT
 UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260703
-SUMMARY:Travaux de nuit sur le périphérique est de Toulouse cette semaine
-DESCRIPTION:Vinci Autoroutes effectue des travaux d'entretien nocturnes sur
-  le périphérique est de Toulouse\, du 22 au 25 juin puis du 29 juin au 2
-  juillet 2026. Chaque nuit\, de 21h à 6h\, un tronçon d'environ 5 km est
-  fermé à la circulation\, avec des itinéraires de déviation mis en pla
- ce. Les opérations comprennent l'inspection des ouvrages d'art\, l'hydroc
- urage des caniveaux\, la réparation de glissières de sécurité\, la vé
- rification de la signalisation et l'élagage de la végétation. Les autom
- obilistes emprunt\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
- e/2026-06-22#44059
+SUMMARY:Travaux de nuit sur le périphérique est de Toulouse : tronçons f
+ ermés
+DESCRIPTION:Vinci Autoroutes effectue des travaux de maintenance nocturnes 
+ sur le périphérique est de Toulouse en deux phases : du lundi 22 au jeud
+ i 25 juin\, puis du lundi 29 juin au jeudi 2 juillet 2026. Chaque nuit\, d
+ e 21h à 6h\, un tronçon d'environ 5 km est fermé à la circulation\, av
+ ec des itinéraires de déviation mis en place. Les opérations comprennen
+ t l'inspection des ouvrages d'art\, le hydrocurage\, la réparation des gl
+ issières\, la vérification de la signalisation et l'élagage des abords.
+  Les automobi\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+ 26-06-22#44059
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-22#44059?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -3523,6 +3524,27 @@ URL:https://www.clutchmag.fr/evenements#2026-06-25-vendredi-26-juin-1?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:13c2bf62-5965-45af-9e1a-018709b7f8f4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Magic Days CSE Airbus
+DESCRIPTION:Le vendredi 26 juin 2026\, le Comité Social et Économique d'A
+ irbus a privatisé le Stadium de Toulouse à l'île du Ramier pour ses « 
+ Magic Days »\, réunissant plus de 8 500 salariés et leurs familles. L'
+ événement a été animé par le groupe Magic System\, dont la prestation
+  a précédé la diffusion en direct du match de Coupe du monde France-Nor
+ vège sur écran géant. L'organisation a été confiée à Univers Stadiu
+ m\, la branche événementielle lancée en 2025 par le Toulouse FC pour di
+ versifier ses activités e\n\nSource\: https://actu.fr/occitanie/toulouse_
+ 31555/le-puissant-cse-d-airbus-voit-les-choses-en-grand-et-invite-8500-per
+ sonnes-pour-un-show-xxl-au-stadium-de-toulouse_64468273.html
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/le-puissant-cse-d-airbus-voit-
+ les-choses-en-grand-et-invite-8500-personnes-pour-un-show-xxl-au-stadium-d
+ e-toulouse_64468273.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c05358aa-fcc6-4706-9d1a-7d3052eb0516@news.lavillerose.com
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
@@ -3563,21 +3585,41 @@ URL:https://actu.fr/occitanie/toulouse_31555/apres-32-ans-de-soirees-memora
  enda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ce65d7b6-89de-4ea7-a83c-4b1cac8c02a4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Finale Top 14 2026
+DESCRIPTION:Le Stade Toulousain a battu Montpellier en finale du Top 14 le 
+ samedi 27 juin 2026 au Stade de France\, décrochant un 25e Bouclier de Br
+ ennus et un quatrième titre consécutif — exploit inédit depuis leur p
+ ropre quadruplé de 1994-1997. Plus de 15 000 supporters étaient réunis 
+ place du Capitole pour suivre la retransmission sur écran géant\, malgr
+ é une canicule à 37-38°C et une interruption du match suite à des orag
+ es sur Paris. La célébration habituelle sur le balcon du Capitole prévu
+ e le dimanche \n\nSource\: https://actu.fr/occitanie/toulouse_31555/depart
+ -des-joueurs-diffusion-sur-ecran-geant-les-animations-a-toulouse-pour-la-f
+ inale-du-top-14_64452095.html
+LOCATION:Stade Toulousain a battu Montpellier en finale du To\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/depart-des-joueurs-diffusion-s
+ ur-ecran-geant-les-animations-a-toulouse-pour-la-finale-du-top-14_64452095
+ .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
-SUMMARY:Finale Top 14\, festivals\, vide-greniers : le week-end du 27-28 ju
- in
-DESCRIPTION:Ce week-end à Toulouse\, l'événement phare est la finale du 
- Top 14 opposant le Stade Toulousain à Montpellier HR\, retransmise sur é
- cran géant place du Capitole à partir de 19h samedi 27 juin — avec dis
- positif de sécurité renforcé\, fermeture de la place dès 16h et accès
-  restreint aux rues environnantes. En marge du match\, plusieurs bars\, gu
- inguettes et le stade Ernest-Wallon proposent des retransmissions alternat
- ives. Par ailleurs\, la maison artistique Babayaga rouvre ses portes vendr
- edi 26 et sam\n\nSource\: https://www.toulouscope.fr/2026/06/25/le-top-10-
- des-festivals-de-lete-a-ne-pas-manquer-a-toulouse-et-alentours-13433060.ph
- p
+SUMMARY:Sorties à Toulouse ce week-end : finale Top 14\, festivals et vide
+ -greniers
+DESCRIPTION:Le week-end du 27-28 juin 2026 s'annonce chargé à Toulouse av
+ ec\, en tête d'affiche\, la finale du Top 14 opposant le Stade Toulousain
+  à Montpellier\, retransmise sur écran géant place du Capitole à parti
+ r de 19h — avec dispositif de sécurité renforcé et fermeture de la pl
+ ace dès 16h. En parallèle\, la maison artistique Babayaga rouvre à Sain
+ t-Cyprien les 26 et 27 juin\, invitant le public à peindre directement su
+ r les murs selon des thématiques par pièce. Les amateurs de bonnes affai
+ res trouveront l\n\nSource\: https://www.toulouscope.fr/2026/06/25/le-top-
+ 10-des-festivals-de-lete-a-ne-pas-manquer-a-toulouse-et-alentours-13433060
+ .php
 LOCATION:Stade Toulousain\, Toulouse
 URL:https://www.toulouscope.fr/2026/06/25/le-top-10-des-festivals-de-lete-a
  -ne-pas-manquer-a-toulouse-et-alentours-13433060.php?utm_source=ical&utm_m
@@ -3691,27 +3733,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/top-14-un-double-de-mauvaka-un
  use-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:ce65d7b6-89de-4ea7-a83c-4b1cac8c02a4@news.lavillerose.com
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-SUMMARY:Présentation du Bouclier de Brennus
-DESCRIPTION:Le Stade Toulousain a battu Montpellier en finale du Top 14 le 
- samedi 27 juin 2026 au Stade de France\, décrochant un 25e Bouclier de Br
- ennus et un quatrième titre consécutif — exploit inédit depuis le Sta
- de Bordelais du début du XXe siècle. Plus de 15 000 supporters s'étaien
- t rassemblés place du Capitole pour suivre la retransmission sur écran g
- éant\, malgré une canicule à 37–38°C et une alerte rouge en Haute-Ga
- ronne. Le match a connu un scénario chaotique\, interrompu par des orages
-  au Stade de F\n\nSource\: https://actu.fr/occitanie/toulouse_31555/stade-
- toulousain-la-finale-du-top-14-sera-diffusee-sur-ecran-geant-place-du-capi
- tole-annonce-jean-luc-moudenc_64430374.html
-LOCATION:Stade Toulousain a battu Montpellier en finale du To\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/stade-toulousain-la-finale-du-
- top-14-sera-diffusee-sur-ecran-geant-place-du-capitole-annonce-jean-luc-mo
- udenc_64430374.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
- use-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:d43d9bfa-ff9d-4d5c-b322-3ec4fd136349@news.lavillerose.com
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
@@ -3745,27 +3766,6 @@ URL:https://www.clutchmag.fr/evenements#2026-06-25-dimanche-28-juin-1?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:56f7bda9-5ea7-4b20-9ef2-5370ebf8e94d@news.lavillerose.com
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-SUMMARY:Le tunnel métro-gare Matabiau rouvre après plus d'un an de travau
- x
-DESCRIPTION:Le passage souterrain reliant la ligne A du métro à la gare T
- oulouse-Matabiau rouvre ce lundi 29 juin 2026\, après plus d'un an de fer
- meture entamée le 2 juin 2025. Pendant cette période\, des milliers d'us
- agers et de touristes devaient sortir au niveau de la médiathèque et mar
- cher 8 à 10 minutes supplémentaires pour rejoindre la gare. Le tunnel r
- énové intègre des améliorations d'accessibilité pour les personnes à
-  mobilité réduite\, même si l'accès au hall 2 et aux quais nécessite 
- toujours de passe\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-
- fin-de-la-galere-le-passage-souterrain-entre-le-metro-et-la-gare-de-toulou
- se-rouvre-lundi-et-il-y-a-du-nouveau_64462392.html
-URL:https://actu.fr/occitanie/toulouse_31555/la-fin-de-la-galere-le-passage
- -souterrain-entre-le-metro-et-la-gare-de-toulouse-rouvre-lundi-et-il-y-a-d
- u-nouveau_64462392.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
- oulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:72614cde-00a3-4623-9c02-a067dcb63290@news.lavillerose.com
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
@@ -3784,6 +3784,22 @@ URL:https://actu.fr/occitanie/toulouse_31555/plusieurs-dizaines-de-postes-u
  niquement-ouverts-aux-femmes-safran-organise-un-afterwork-recrutement-a-to
  ulouse_64449184.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:dc85e4b9-46d7-46a3-9008-75ae0dfced51@news.lavillerose.com
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+SUMMARY:Convivencia
+DESCRIPTION:Le festival Convivencia fait son entrée à Toulouse de manièr
+ e originale\, avec une parade fluviale prévue le mercredi 1er juillet à 
+ 18h30 à l'écluse Bayard\, près de la gare Matabiau. Des concerts suivro
+ nt jeudi et vendredi\, avec notamment un grand bal au port de l'Embouchure
+ . Le festival met ainsi à l'honneur les voies d'eau et les espaces portua
+ ires de la ville. L'événement s'adresse à un large public désireux de 
+ découvrir ou redécouvrir Toulouse depuis ses canaux et ses rives.\n\nSou
+ rce\: https://convivencia.eu/
+URL:https://convivencia.eu/?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:606ccc61-b830-4d73-b871-09288f8af0c3@news.lavillerose.com
@@ -3806,6 +3822,21 @@ URL:https://actu.fr/occitanie/toulouse_31555/aeronautique-60-postes-en-cdi-
  l?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c947fc2c-42cb-47b9-b644-e16464db64ec@news.lavillerose.com
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260706
+SUMMARY:WateRugby Toulouse
+DESCRIPTION:Du jeudi 2 au dimanche 5 juillet\, le tournoi de WateRugby s'in
+ stalle à nouveau sur le port de la Daurade à Toulouse. Les berges de la 
+ Garonne se transforment en terrain de jeu flottant pour l'occasion. La par
+ ticularité du sport : pour stopper le porteur de ballon\, il faut le pous
+ ser à l'eau. L'événement est ouvert au public et promet une ambiance fe
+ stive et originale au cœur de la ville.\n\nSource\: https://waterugby.com
+ /
+URL:https://waterugby.com/?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:bfcbe71a-40c5-4d54-9b98-0445eb177125@news.lavillerose.com
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
@@ -3823,6 +3854,39 @@ DESCRIPTION:Le vendredi 3 juillet 2026\, le Château Arton à Lectoure (Ger
 URL:https://www.toulouscope.fr/2026/06/03/ce-chateau-du-gers-prime-pour-son
  -armagnac-organise-une-soiree-inedite-avec-theatre-dj-set-et-cocktails-133
  80150.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7aacf1d7-fc96-4547-954d-068e371d830a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260705
+SUMMARY:Nuits Étoilées de Candie
+DESCRIPTION:Les Nuits Étoilées de Candie organisent deux soirées de cin
+ éma en plein air les 3 et 4 juillet au domaine agricole de Candie\, avec 
+ des projections à la nuit tombée. Au programme le vendredi : « Les Gar
+ çons et Guillaume\, à table ! »\, et le samedi : « Les Trois Mousqueta
+ ires : D'Artagnan ». L'événement est porté par la Fondation Toulouse C
+ ancer Santé\, et les bénéfices des soirées financeront des projets de 
+ recherche contre le cancer du pôle de cancérologie de Toulouse. Une occa
+ sion de sortir sous \n\nSource\: https://www.billetweb.fr/les-nuits-etoile
+ es-de-candie1
+URL:https://www.billetweb.fr/les-nuits-etoilees-de-candie1?utm_source=ical&
+ utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f6e2a531-4500-4066-abfa-ecd15616a4b7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260713
+SUMMARY:Tangopostale
+DESCRIPTION:Le festival Tangopostale se tiendra du 3 au 12 juillet pour sa 
+ 17e édition. La programmation\, dense et accessible à tous\, se déploie
+  dans plusieurs lieux emblématiques de la ville. Au programme : plus de 1
+ 00 heures de bal\, près de 80 rendez-vous incluant des milongas tradition
+ nelles et néo\, des concerts\, des stages animés par des maestros intern
+ ationaux\, ainsi que des conférences. L'événement s'adresse aussi bien 
+ aux danseurs confirmés qu'aux curieux souhaitant découvrir la culture du
+  tango.\n\nSource\: https://tangopostale.com/
+URL:https://tangopostale.com/?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:148f61ad-4cc9-4205-817a-f17e1a2b6e1d@news.lavillerose.com
@@ -3960,6 +4024,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/festivites-du-14-juillet-bigfl
  o-amp-oli-gims-et-feu-d-artifice-geant-voici-le-programme-du-13-juillet-a-
  toulouse_64378040.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b5c91044-6f46-48f5-b33b-01382c9c5297@news.lavillerose.com
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Antes & Madzes
+DESCRIPTION:Antes & Madzes\, duo de rap originaire de Rodez et désormais i
+ nstallé à Toulouse\, s'apprête à jouer sur la Prairie des Filtres le 1
+ 3 juillet. Rémi Massol (Madzes) et Sylvain Antès se sont rencontrés en 
+ 2014 et ont rapidement enchaîné les premières parties\, dont celle de V
+ ald puis d'Orelsan au Zénith devant 10 000 personnes. Avec plus de 200 00
+ 0 auditeurs mensuels sur Spotify\, le duo se distingue par une écriture a
+ ncrée dans le quotidien rural\, les contradictions sociales et la vie loi
+ n des grande\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-06-29#44871
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-29#44871?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e940f68e-8fd9-4b9d-96e9-5008d4a74864@news.lavillerose.com
