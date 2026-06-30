@@ -421,34 +421,45 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
     from datetime import date, timedelta
     # Long events (> 14 days) repost weekly; short events repost daily.
     week_ago = (date.fromisoformat(date_iso) - timedelta(days=7)).isoformat()
+    # eff_start: use the cluster's explicit event_start when set; fall back to the
+    # item's published_at date for events that only use relative date language
+    # ("ce soir", "aujourd'hui", "cet après-midi") which synthesis correctly
+    # leaves as NULL rather than guessing.
     rows = conn.execute(
-        """SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_end,
-                  c.event_name, c.ig_caption, c.ig_hashtags,
-                  COALESCE(c.primary_url,
-                    (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
-                  ) AS url,
-                  (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source,
-                  (SELECT image_url FROM items
-                   WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
-                   ORDER BY published_at LIMIT 1) AS image_url
-           FROM clusters c
-           WHERE c.category = 'event'
-             AND c.event_start <= ?
-             AND (c.event_end >= ? OR (c.event_end IS NULL AND c.event_start >= ?))
+        """SELECT cluster_id, title, summary, category, event_start, event_end,
+                  event_name, ig_caption, ig_hashtags, url, source, image_url
+           FROM (
+             SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_end,
+                    c.event_name, c.ig_caption, c.ig_hashtags, c.ig_story_at,
+                    COALESCE(c.primary_url,
+                      (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
+                    ) AS url,
+                    (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source,
+                    (SELECT image_url FROM items
+                     WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
+                     ORDER BY published_at LIMIT 1) AS image_url,
+                    COALESCE(c.event_start,
+                      DATE((SELECT published_at FROM items
+                            WHERE cluster_id = c.cluster_id
+                            ORDER BY published_at LIMIT 1))
+                    ) AS eff_start
+             FROM clusters c
+             WHERE c.category = 'event'
+           )
+           WHERE eff_start <= ?
+             AND (event_end >= ? OR (event_end IS NULL AND eff_start >= ?))
              AND (
-               c.ig_story_at IS NULL
+               ig_story_at IS NULL
                OR (
-                 -- Short event (≤ 14 days): repost daily
-                 (c.event_end IS NULL OR julianday(c.event_end) - julianday(c.event_start) <= 14)
-                 AND c.ig_story_at < ?
+                 (event_end IS NULL OR julianday(event_end) - julianday(eff_start) <= 14)
+                 AND ig_story_at < ?
                )
                OR (
-                 -- Long event (> 14 days): repost weekly
-                 julianday(c.event_end) - julianday(c.event_start) > 14
-                 AND c.ig_story_at < ?
+                 julianday(event_end) - julianday(eff_start) > 14
+                 AND ig_story_at < ?
                )
              )
-           ORDER BY c.event_start""",
+           ORDER BY eff_start""",
         (date_iso, date_iso, date_iso, date_iso, week_ago),
     ).fetchall()
     return [dict(r) for r in rows]

@@ -238,14 +238,25 @@ def _extract_lessentiel_sorties(
             canonical_url = tracking_link or f"https://www.lessentiel.fr/idees-sorties/{date_slug}-{idx}"
             image_url: str | None = None
 
-            if tracking_link:
+            # 1) Direct image: each sortie has its own photo in an adjacent <td>
+            #    column of the same <table class="table-sortie"> element.
+            parent_table = h2.find_parent("table")
+            if parent_table:
+                img_el = parent_table.find(
+                    "img", src=re.compile(r"lessentiel\.fr/sites/lessentiel/files/")
+                )
+                if img_el:
+                    image_url = img_el["src"]
+
+            # 2) Follow tracking link to get OG image from the destination page
+            if not image_url and tracking_link:
                 try:
                     r = requests.get(
                         tracking_link, timeout=8,
                         headers={"User-Agent": "Mozilla/5.0"},
                         allow_redirects=True,
                     )
-                    canonical_url = r.url  # resolved URL after redirects
+                    canonical_url = r.url
                     og = re.search(
                         r'<meta[^>]+(?:property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']'
                         r'|content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\'])',
@@ -256,7 +267,7 @@ def _extract_lessentiel_sorties(
                 except Exception:
                     pass
 
-            # Fall back to section image (most relevant for idx=0, acceptable for others)
+            # 3) Last resort: section-level fallback image
             if not image_url and section_img_url:
                 image_url = section_img_url
 
