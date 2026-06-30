@@ -1,20 +1,38 @@
 [
   {
-    "cluster_id": "cluster:fab4e0e3-d0be-4ffb-9c54-04330db41162",
+    "cluster_id": "cluster:4867e646-55fc-499d-842f-6da76606ad89",
     "format": "story",
     "source": "lessentiel",
     "category": "event",
-    "title": "Boutique éphémère de céramique et bijoux aux Carmes",
-    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/24-06-26-pop-up---dr.jpg?h=70c5a3e7&itok=VhMrk8x8",
-    "file": "cluster_fab4e0e3-d0be-4ffb-9c54-04330db41162_event_story.jpg"
+    "title": "La French Tech Toulouse tient son Summer Tech Day 2026 à La Cité",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/french-tech.jpg?h=8e84e30b&itok=p4NWceso",
+    "file": "cluster_4867e646-55fc-499d-842f-6da76606ad89_event_story.jpg"
   },
   {
-    "cluster_id": "cluster:72614cde-00a3-4623-9c02-a067dcb63290",
+    "cluster_id": "cluster:5cfc5c79-e6be-4bb9-b59a-781a4b9875bc",
     "format": "story",
-    "source": "actu_toulouse",
+    "source": "lessentiel",
     "category": "event",
-    "title": "Safran recrute 30 femmes lors d'un afterwork à Toulouse",
-    "image_url": "https://static.actu.fr/uploads/2026/06/capture-decran-2026-06-24-162055.png",
-    "file": "cluster_72614cde-00a3-4623-9c02-a067dcb63290_event_story.jpg"
+    "title": "Conférence gratuite sur le climat et l'espace à la Cité de l'espace",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/espace-adobestock_302537769.jpg?itok=qunl8EO4",
+    "file": "cluster_5cfc5c79-e6be-4bb9-b59a-781a4b9875bc_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:4f182d09-9c0b-4388-9a50-729782c0a7e4",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence sur la météo et l'aviation à la médiathèque Cabanis",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-06/avion-h-adobestock_232240970.jpg?itok=lsMC0zGC",
+    "file": "cluster_4f182d09-9c0b-4388-9a50-729782c0a7e4_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d48856cb-7af8-4b00-bd9d-73bab56d24a2",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier SOS informatique à la médiathèque d'Empalot",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-06/ordi---magnific-h.jpg?itok=JMgpkB0N",
+    "file": "cluster_d48856cb-7af8-4b00-bd9d-73bab56d24a2_event_story.jpg"
   }
 ]
