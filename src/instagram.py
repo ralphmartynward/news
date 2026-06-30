@@ -184,7 +184,8 @@ _VENUE_RE = re.compile(
     # Venue type keyword (case-insensitive via inline flag)
     r"(?i:jardins?|parcs?|stades?|stadiums?|salles?|allées?|allees?|"
     r"rues?|places?|esplanade|halles?|palais|lacs?|bastide|hangar|espace|"
-    r"couloir|avenue|boulevard|campus|quartier)"
+    r"couloir|avenue|boulevard|campus|quartier|médiathèques?|mediatheques?|"
+    r"bibliothèques?|maisons?|musées?|cinémas?|théâtres?|chapelles?)"
     # Optional article/preposition before proper name
     r"(?:\s+(?i:de\s+la|de\s+l\w*|d'\w*|du|de)\s*)?"
     # Proper name: 1+ capitalized words (case-sensitive), connectors allowed between
@@ -192,12 +193,34 @@ _VENUE_RE = re.compile(
     re.UNICODE,
 )
 
+# Locative prepositions in French — used to extract venue from AI-generated ig_caption
+_CAPTION_VENUE_RE = re.compile(
+    r"\b(?:au|chez|à\s+la|à\s+l[''e]\s*|dans\s+la|dans\s+le|dans\s+l[''e]\s*)\s+"
+    r"(.+?)(?:\s*[,!?]|$)",
+    re.IGNORECASE | re.MULTILINE | re.UNICODE,
+)
+
+
 def _extract_venue(summary: str) -> str:
-    """Return the first venue/location phrase from the summary."""
+    """Return the first venue/location phrase from the summary (regex fallback)."""
     m = _VENUE_RE.search(summary[:300])
     if not m:
         return ""
     return m.group(0).strip()[:55]
+
+
+def _venue_from_caption(ig_caption: str) -> str:
+    """Extract venue from the AI-generated ig_caption via locative prepositions.
+
+    Claude writes the venue naturally into ig_caption ('au Mama Shelter',
+    'à la médiathèque d'Empalot', 'à la Cité de l'espace'), so parsing
+    the locative phrase gives a more accurate result than regex on the summary.
+    """
+    for line in (ig_caption or "").split("\n"):
+        m = _CAPTION_VENUE_RE.search(line.strip())
+        if m:
+            return m.group(1).strip()[:55]
+    return ""
 
 def _segment_title(title: str, event_name: str | None = None) -> list[tuple[str, tuple]]:
     """Assign colours to words.
@@ -342,7 +365,7 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     title      = cluster.get("title", "")
     event_name = cluster.get("event_name") or None
     ig_caption = cluster.get("ig_caption") or ""
-    venue      = _extract_venue(cluster.get("summary") or "")
+    venue      = _venue_from_caption(cluster.get("ig_caption") or "") or _extract_venue(cluster.get("summary") or "")
 
     # Headline: event_name if available, otherwise full title
     headline    = event_name if event_name else title
@@ -658,7 +681,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
 
     event_name = event.get("event_name") or None
     ig_caption = event.get("ig_caption") or ""
-    venue      = _extract_venue(event.get("summary") or "")
+    venue      = _venue_from_caption(event.get("ig_caption") or "") or _extract_venue(event.get("summary") or "")
 
     # Headline: event_name in pink, or full title with colour logic
     headline      = event_name if event_name else event.get("title", "")
