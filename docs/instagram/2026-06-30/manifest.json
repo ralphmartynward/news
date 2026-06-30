@@ -1,0 +1,29 @@
+[
+  {
+    "cluster_id": "cluster:d137ed92-f5ca-4f27-a05a-a8b2c219508f",
+    "format": "post",
+    "source": "lessentiel",
+    "category": "place",
+    "title": "Le Café Joyeux ouvre place des Carmes à Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/cafe-joyeux-a-toulouse-emploie-5-personnes-en-situaiton-de-handicap---cafe-joyeux.jpg?itok=ado6pjNs",
+    "file": "cluster_d137ed92-f5ca-4f27-a05a-a8b2c219508f_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:c926dd63-3cb5-4c7a-862e-a7fcad47de56",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "culture",
+    "title": "Sept expositions incontournables à Toulouse cet été",
+    "image_url": "https://static.actu.fr/uploads/2026/06/mister-freeze-siloe-barber-expo-2026-toulouse.jpg",
+    "file": "cluster_c926dd63-3cb5-4c7a-862e-a7fcad47de56_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:79d988f6-9e7b-468a-af5e-cbd9b6182cdc",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "culture",
+    "title": "La Fnac s'installe dans l'immeuble des Variétés, une histoire riche",
+    "image_url": "https://static.actu.fr/uploads/2026/06/20260624-121056.jpg",
+    "file": "cluster_79d988f6-9e7b-468a-af5e-cbd9b6182cdc_post.jpg"
+  }
+]

@@ -3607,20 +3607,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
 DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260629
-SUMMARY:Sorties à Toulouse ce week-end : finale Top 14\, festivals et vide
- -greniers
-DESCRIPTION:Le week-end du 27-28 juin 2026 s'annonce chargé à Toulouse av
- ec\, en tête d'affiche\, la finale du Top 14 opposant le Stade Toulousain
-  à Montpellier\, retransmise sur écran géant place du Capitole à parti
- r de 19h — avec dispositif de sécurité renforcé et fermeture de la pl
- ace dès 16h. En parallèle\, la maison artistique Babayaga rouvre à Sain
- t-Cyprien les 26 et 27 juin\, invitant le public à peindre directement su
- r les murs selon des thématiques par pièce. Les amateurs de bonnes affai
- res trouveront l\n\nSource\: https://www.toulouscope.fr/2026/06/25/le-top-
- 10-des-festivals-de-lete-a-ne-pas-manquer-a-toulouse-et-alentours-13433060
- .php
-LOCATION:Stade Toulousain\, Toulouse
+DTEND;VALUE=DATE:20260628
+SUMMARY:Le guide des sorties à Toulouse ce week-end de fin juin
+DESCRIPTION:Ce week-end à Toulouse est dominé par la finale du Top 14 sam
+ edi 27 juin\, avec un écran géant place du Capitole dès 19h pour le mat
+ ch Stade Toulousain – Montpellier\, accompagné d'un dispositif de sécu
+ rité renforcé et de restrictions d'accès (place fermée à partir de 16
+ h\, station de métro Capitole impactée). En parallèle\, la maison artis
+ tique Babayaga rouvre ses portes les 26 et 27 juin dans le quartier Saint-
+ Cyprien\, invitant le public à peindre les murs sur des thématiques diff
+ érentes par pièce\n\nSource\: https://www.toulouscope.fr/2026/06/25/le-t
+ op-10-des-festivals-de-lete-a-ne-pas-manquer-a-toulouse-et-alentours-13433
+ 060.php
+LOCATION:place du Capitole dès 19h\, Toulouse
 URL:https://www.toulouscope.fr/2026/06/25/le-top-10-des-festivals-de-lete-a
  -ne-pas-manquer-a-toulouse-et-alentours-13433060.php?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
@@ -3716,17 +3715,17 @@ UID:cluster:905a9098-7ae4-46fa-87d5-44c002ad7382@news.lavillerose.com
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Finale Top 14 2026
-DESCRIPTION:Le Stade Toulousain a remporté son quatrième Bouclier de Bren
- nus d'affilée en s'imposant 28-20 face à Montpellier lors de la finale d
- u Top 14\, disputée samedi 27 juin au Stade de France devant 78 411 spect
- ateurs. Peato Mauvaka a été l'homme de la soirée avec un doublé d'essa
- is\, tandis que Jack Willis a été désigné homme du match grâce à qua
- tre ballons récupérés dans les rucks. Toulouse a mené 25-6 à la mi-te
- mps avant que les Montpelliérains ne tentent un retour\, notamment par l'
- entremise de Gabr\n\nSource\: https://actu.fr/occitanie/toulouse_31555/top
- -14-un-double-de-mauvaka-une-pluie-de-brennus-le-stade-toulousain-remporte
- -un-quatrieme-brennus-consecutif_64467050.html
-LOCATION:Stade Toulousain a remporté son quatrième Bouclier d\, Toulouse
+DESCRIPTION:Le Stade Toulousain a battu Montpellier 28-20 au Stade de Franc
+ e le 27 juin devant 78 411 spectateurs\, décrochant un quatrième Bouclie
+ r de Brennus d'affilée — une performance rarissime dans l'histoire du r
+ ugby français. Peato Mauvaka a été l'homme en vue avec un doublé\, tan
+ dis que Jack Willis a dominé les rucks pour être désigné homme du matc
+ h. Malgré un retour montpelliérain en seconde période relancé par Ngan
+ debe et un carton jaune pour Matthis Lebel\, Toulouse a tenu bon. Les anci
+ ens du club\, \n\nSource\: https://actu.fr/occitanie/toulouse_31555/top-14
+ -un-double-de-mauvaka-une-pluie-de-brennus-le-stade-toulousain-remporte-un
+ -quatrieme-brennus-consecutif_64467050.html
+LOCATION:Stade Toulousain a battu Montpellier 28-20 au Stade\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/top-14-un-double-de-mauvaka-un
  e-pluie-de-brennus-le-stade-toulousain-remporte-un-quatrieme-brennus-conse
  cutif_64467050.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
@@ -3766,6 +3765,25 @@ URL:https://www.clutchmag.fr/evenements#2026-06-25-dimanche-28-juin-1?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c926dd63-3cb5-4c7a-862e-a7fcad47de56@news.lavillerose.com
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260727
+SUMMARY:Sept expositions incontournables à Toulouse cet été
+DESCRIPTION:Actu Toulouse propose une sélection de sept expositions à dé
+ couvrir à Toulouse pendant l'été 2026\, sans avoir besoin de quitter la
+  ville. Parmi les temps forts : le festival de street-art Mister Freeze à
+  l'ex-caserne Jacques Vion (Saint-Cyprien)\, avec plus de 40 artistes inte
+ rnationaux sur 10 000 m²\, jusqu'au 26 juillet. La maison éphémère Bab
+ ayaga fait également son retour jusqu'au 25 juillet\, les vendredis et sa
+ medis uniquement\, avant sa destruction à la rentrée. Les Abattoirs cons
+ acrent quant\n\nSource\: https://actu.fr/occitanie/toulouse_31555/mister-f
+ reeze-joaquin-sorolla-les-expositions-a-ne-pas-manquer-cet-ete-a-toulouse_
+ 64454404.html
+URL:https://actu.fr/occitanie/toulouse_31555/mister-freeze-joaquin-sorolla-
+ les-expositions-a-ne-pas-manquer-cet-ete-a-toulouse_64454404.html?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:72614cde-00a3-4623-9c02-a067dcb63290@news.lavillerose.com
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
@@ -3800,6 +3818,25 @@ DESCRIPTION:Le festival Convivencia fait son entrée à Toulouse de manièr
  rce\: https://convivencia.eu/
 URL:https://convivencia.eu/?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:39da6a99-01d7-4755-a98b-f8e061185038@news.lavillerose.com
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+SUMMARY:Festival Convivencia
+DESCRIPTION:Le festival itinérant Convivencia\, qui se définit comme « l
+ e plus lent du monde » en naviguant chaque année sur le canal du Midi\, 
+ fait escale à Toulouse du 1er au 3 juillet 2026 pour son édition anniver
+ saire. La péniche historique du festival\, le Chèvrefeuille\, arrivera e
+ n cortège fluvial depuis l'écluse Bayard le 1er juillet à 18h30\, anim
+ ée par la Vespa Cougourdon Ouchestra dans un esprit occitan et musiques d
+ u monde. Les 2 et 3 juillet\, des concerts gratuits sont programmés dès 
+ 19h au Port de \n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-fe
+ stival-le-plus-lent-du-monde-fete-ses-30-ans-a-toulouse-trois-jours-de-con
+ certs-gratuits_64456185.html
+URL:https://actu.fr/occitanie/toulouse_31555/le-festival-le-plus-lent-du-mo
+ nde-fete-ses-30-ans-a-toulouse-trois-jours-de-concerts-gratuits_64456185.h
+ tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:606ccc61-b830-4d73-b871-09288f8af0c3@news.lavillerose.com
@@ -3887,6 +3924,24 @@ DESCRIPTION:Le festival Tangopostale se tiendra du 3 au 12 juillet pour sa
   tango.\n\nSource\: https://tangopostale.com/
 URL:https://tangopostale.com/?utm_source=ical&utm_medium=calendar&utm_campa
  ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7b7f6ae5-7ffa-419c-b835-091a85332493@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260713
+SUMMARY:Tangopostale
+DESCRIPTION:La 17e édition du festival international Tangopostale se tiend
+ ra à Toulouse du 3 au 12 juillet\, avec plus de 100 heures de bal et prè
+ s de 80 rendez-vous (concerts\, stages\, conférences\, projections\, yoga
+ ). Les grandes milongas en plein air place Saint-Pierre sont prévues du 6
+  au 11 juillet\, mêlant danseurs confirmés et grand public. En marge du 
+ festival\, la photographe Marie Hyvernaud expose ses «Instants de tango»
+  gratuitement à la Communauté municipale de santé\, place de la Daurade
+ \, du 30 juin \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2
+ 026-06-30#45124
+LOCATION:place Saint-Pierre sont prévues du 6 au 11 juillet\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-30#45124?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:148f61ad-4cc9-4205-817a-f17e1a2b6e1d@news.lavillerose.com
@@ -4063,6 +4118,27 @@ URL:https://actu.fr/occitanie/toulouse_31555/jean-michel-jarre-de-retour-a-
  e-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f9629181-db79-41b6-a52b-2c159b2d07b0@news.lavillerose.com
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260719
+SUMMARY:Pain Bénit Open Air
+DESCRIPTION:Le collectif Pain bénit organise un open air gratuit les 17 et
+  18 juillet au parc du Sacré-Cœur\, un espace vert installé sur un pont
+  enjambant le périphérique de Toulouse\, à hauteur de la section Rangue
+ il-Lespinet. L'événement promet plus de 14 heures de musique électroniq
+ ue réparties sur deux jours\, avec neuf artistes dont Ben Candel\, Loukou
+ m\, Lunaa et Mamz'Hell\, ainsi qu'un show lumière XXL. Le site se transfo
+ rme en village festif avec activités sportives (pétanque\, beach-volley\
+ , mölkky…)\, foo\n\nSource\: https://actu.fr/occitanie/toulouse_31555/q
+ uatorze-heures-de-musique-sur-un-pont-qui-enjambe-le-peripherique-cet-open
+ -air-gratuit-va-faire-danser-toulouse_64470845.html
+LOCATION:parc du Sacré-Cœur\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/quatorze-heures-de-musique-sur
+ -un-pont-qui-enjambe-le-peripherique-cet-open-air-gratuit-va-faire-danser-
+ toulouse_64470845.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:f00a3568-3664-4c06-b7ae-811b29293a5d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
@@ -4156,6 +4232,47 @@ DESCRIPTION:Le festival Piano aux Jacobins tiendra sa nouvelle édition du
  -05-26#41180
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-05-26#41180?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:07d7a889-1273-4785-ab65-47c6e5aba3f3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260928
+SUMMARY:Festival MAP 2026
+DESCRIPTION:Du 11 au 27 septembre 2026\, le festival de photographie MAP re
+ vient pour sa 16e édition à Toulouse\, avec pour lieu principal l'ancien
+ ne caserne Jacques-Vion dans le quartier Saint-Cyprien. Ce bâtiment des a
+ nnées 1970\, signé par l'architecte Pierre Debeaux\, est classé « Arch
+ itecture contemporaine remarquable » et inscrit aux Monuments historiques
+  — il est habituellement fermé au public. Le festival y proposera des e
+ xpositions gratuites de photographie contemporaine\, mais aussi des rencon
+ tres\, des\n\nSource\: https://www.toulouscope.fr/2026/06/29/une-expositio
+ n-photo-gratuite-investit-une-ancienne-caserne-toulousaine-habituellement-
+ fermee-au-public-13427781.php
+LOCATION:quartier Saint-Cyprien\, Toulouse
+URL:https://www.toulouscope.fr/2026/06/29/une-exposition-photo-gratuite-inv
+ estit-une-ancienne-caserne-toulousaine-habituellement-fermee-au-public-134
+ 27781.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ab9810d4-6afe-48af-9571-31984bcd976c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20270401
+SUMMARY:Le siège de la Caf rue Riquet ferme six mois pour travaux
+DESCRIPTION:Le siège de la Caf de Toulouse\, situé rue Pierre-Paul Riquet
+ \, fermera ses portes au public du lundi 21 septembre 2026 jusqu'à fin ma
+ rs 2027 pour des travaux d'amélioration de l'accueil. Durant cette pério
+ de\, trois autres sites restent accessibles : Empalot\, les Izards et la R
+ eynerie. Ce dernier élargit ses horaires à cinq jours par semaine\, du l
+ undi au vendredi\, y compris pendant les vacances scolaires\, tandis qu'Em
+ palot et les Izards maintiennent leurs jours habituels (lundi\, mardi\, je
+ udi\, hors\n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-siege-d
+ e-la-caf-a-toulouse-va-fermer-pendant-plusieurs-mois-quelles-sont-les-autr
+ es-sites-ouverts-au-public_64456033.html
+LOCATION:rue Pierre-Paul Riquet\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/le-siege-de-la-caf-a-toulouse-
+ va-fermer-pendant-plusieurs-mois-quelles-sont-les-autres-sites-ouverts-au-
+ public_64456033.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
