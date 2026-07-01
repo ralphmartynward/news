@@ -1,0 +1,29 @@
+[
+  {
+    "cluster_id": "cluster:39da6a99-01d7-4755-a98b-f8e061185038",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Le festival Convivencia fête ses 30 ans à Toulouse, concerts gratuits",
+    "image_url": "https://static.actu.fr/uploads/2026/06/toulouse-convivencia-cmichelmahandran.jpg",
+    "file": "cluster_39da6a99-01d7-4755-a98b-f8e061185038_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:e6d4bbb0-a7d5-448b-93a3-2dc14a330b3f",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le théâtre du Fil à Plomb présente « La Fée des fleurs » pour tout-petits",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-06/fee-fleurs.jpg?itok=ykzLQLQ7",
+    "file": "cluster_e6d4bbb0-a7d5-448b-93a3-2dc14a330b3f_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f22b8067-60b4-42f2-a738-1d0fb317c19b",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier cuisine en plein air aux Jardins du Ricotier à Fenouillet",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-06/adobestock_564573264-h.jpeg?itok=IxLfjAMm",
+    "file": "cluster_f22b8067-60b4-42f2-a738-1d0fb317c19b_event_story.jpg"
+  }
+]

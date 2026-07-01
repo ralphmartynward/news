@@ -1,0 +1,38 @@
+[
+  {
+    "cluster_id": "cluster:f7073989-f6ec-486b-8973-9995b5cc33a5",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "culture",
+    "title": "Le « Musée Imaginaire » d'Oli s'exporte au Grand Palais à Paris",
+    "image_url": "https://static.actu.fr/uploads/2024/12/186d1ad94d0663c6d1ad94d06007d1v.jpg",
+    "file": "cluster_f7073989-f6ec-486b-8973-9995b5cc33a5_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:efdbeb1c-dcf1-455d-919e-3a84ae28de5c",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "place",
+    "title": "L'Hôtel Grand Balcon dévoile sa modernisation à 3 millions d'euros",
+    "image_url": "https://static.actu.fr/uploads/2026/06/img-8780.jpeg",
+    "file": "cluster_efdbeb1c-dcf1-455d-919e-3a84ae28de5c_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:ee6f0c10-5d5b-4dd1-964b-417bba1d6a64",
+    "format": "post",
+    "source": "lessentiel",
+    "category": "culture",
+    "title": "Nouvelle direction pour le Théâtre de la Cité à Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/md_portraits-matthieu-cruciani-et-e-umilie-capliez---01-04-26---simon-gosselin-31.jpg?h=7e3b5dcf&itok=HjfXIFuj",
+    "file": "cluster_ee6f0c10-5d5b-4dd1-964b-417bba1d6a64_post.jpg"
+  },
+  {
+    "cluster_id": "cluster:5ceba7ce-c5df-437f-97ec-7c0c52993592",
+    "format": "post",
+    "source": "lessentiel",
+    "category": "place",
+    "title": "Le Café des Pionniers ouvre à l'Envol des Pionniers de Montaudran",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/cafe-pionniers--c-pierrecarton_pc008775_hd.jpg?itok=DP8ga9Ac",
+    "file": "cluster_5ceba7ce-c5df-437f-97ec-7c0c52993592_post.jpg"
+  }
+]

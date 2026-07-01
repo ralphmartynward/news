@@ -3608,18 +3608,19 @@ BEGIN:VEVENT
 UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:Le guide des sorties à Toulouse ce week-end de fin juin
-DESCRIPTION:Ce week-end à Toulouse est dominé par la finale du Top 14 sam
- edi 27 juin\, avec un écran géant place du Capitole dès 19h pour le mat
- ch Stade Toulousain – Montpellier\, accompagné d'un dispositif de sécu
- rité renforcé et de restrictions d'accès (place fermée à partir de 16
- h\, station de métro Capitole impactée). En parallèle\, la maison artis
- tique Babayaga rouvre ses portes les 26 et 27 juin dans le quartier Saint-
- Cyprien\, invitant le public à peindre les murs sur des thématiques diff
- érentes par pièce\n\nSource\: https://www.toulouscope.fr/2026/06/25/le-t
+SUMMARY:Festival de Toulouse\, finale Top 14\, vide-greniers : le guide du 
+ week-end
+DESCRIPTION:Ce week-end à Toulouse est particulièrement chargé : la 5e 
+ édition du Festival de Toulouse démarre avec une programmation mêlant c
+ lassique et variété (Calogero\, Axelle Red\, Pomme\, Michel Plasson) à 
+ la Halle aux Grains et à l'Auditorium Saint-Pierre-des-Cuisines\, du 30 j
+ uin au 11 juillet 2026. La finale du Top 14 opposant le Stade Toulousain 
+ à Montpellier sera retransmise sur écran géant place du Capitole samedi
+  soir dès 19h\, avec un dispositif de sécurité renforcé et la place fe
+ rmée dès 16h. Les\n\nSource\: https://www.toulouscope.fr/2026/06/25/le-t
  op-10-des-festivals-de-lete-a-ne-pas-manquer-a-toulouse-et-alentours-13433
  060.php
-LOCATION:place du Capitole dès 19h\, Toulouse
+LOCATION:Halle aux Grains\, Toulouse
 URL:https://www.toulouscope.fr/2026/06/25/le-top-10-des-festivals-de-lete-a
  -ne-pas-manquer-a-toulouse-et-alentours-13433060.php?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
@@ -3804,6 +3805,99 @@ URL:https://actu.fr/occitanie/toulouse_31555/plusieurs-dizaines-de-postes-u
  ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4867e646-55fc-499d-842f-6da76606ad89@news.lavillerose.com
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Summer Tech Day 2026
+DESCRIPTION:La French Tech Toulouse organise ce jour son Summer Tech Day 20
+ 26 à La Cité\, 55 avenue Louis Bréguet\, de 9h30 à 22h. L'événement 
+ annuel réunit plus de 500 participants — start-ups\, grands groupes\, i
+ nvestisseurs\, experts et institutionnels — autour de la thématique « 
+ naviguer dans l'incertitude ». Au programme : prises de parole\, ateliers
+  et tables rondes sur cinq axes prioritaires\, dont la souveraineté techn
+ ologique\, le financement et l'export\, avec un focus particulier sur la c
+ ybersécurité et l\n\nSource\: https://www.lessentiel.fr/newsletter/toulo
+ use/2026-06-30#45126
+LOCATION:avenue Louis Bréguet\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-30#45126?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5cfc5c79-e6be-4bb9-b59a-781a4b9875bc@news.lavillerose.com
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Universités d'été du CNES
+DESCRIPTION:Une conférence sur le réchauffement climatique et les observa
+ tions satellitaires se tient ce soir à 19h à la Cité de l'espace de Tou
+ louse\, dans le cadre des Universités d'été du CNES « Espace et climat
+  ». L'entrée est gratuite sur inscription. Le conférencier Benoît Meys
+ signac\, chercheur au LEGOS et au CNES\, est spécialiste du cycle global 
+ de l'eau et de l'énergie terrestre\, et contributeur principal au dernier
+  rapport du GIEC. Il présentera un état des lieux des connaissances actu
+ elles sur le s\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2
+ 026-06-30#45125
+LOCATION:espace de Toulouse\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-30#45125?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4f182d09-9c0b-4388-9a50-729782c0a7e4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:L'impact de la météo
+DESCRIPTION:La médiathèque Cabanis accueille ce soir une conférence de J
+ acques Verrière\, ancien commandant de bord et instructeur chez Air Franc
+ e. Il y abordera l'impact des conditions météorologiques sur les opérat
+ ions aériennes et les lancements spatiaux. L'événement s'inscrit dans l
+ a tradition de conférences grand public proposées par la médiathèque t
+ oulousaine. Les deux sources sont identiques et ne fournissent pas d'horai
+ re précis ni de détails supplémentaires sur la soirée.\n\nSource\: htt
+ ps://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxd
+ kZHjLIXbM7pB-zUy7xeNy2nMmjEA0_ueglPXEInmg6I36zdHOVvFs1o2kiN9ujMc
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeNy2nMmjEA0_ueglPXEInmg6I36zdHOVvFs1o2kiN9ujMc?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d48856cb-7af8-4b00-bd9d-73bab56d24a2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:SOS Informatique
+DESCRIPTION:La médiathèque d'Empalot propose cet après-midi un atelier d
+ e résolution de problèmes informatiques ouvert à tous. Les participants
+  peuvent venir avec leurs difficultés concrètes : ordinateur lent\, impo
+ ssibilité de modifier des fichiers ou de changer une présentation. L'év
+ énement est accessible sans nécessité de compétences techniques partic
+ ulières. Il s'adresse à toute personne en difficulté avec l'usage coura
+ nt de l'informatique.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?
+ x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy2nMmjEA0_ueglPXE
+ Inmg6I36zdHOVvFs1o2kiN9ujMg
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeNy2nMmjEA0_ueglPXEInmg6I36zdHOVvFs1o2kiN9ujMg?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c7c6a1e1-da98-46fa-bcf2-2f472f6c025f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Couvre-feu pour les mineurs lors de France-Suède à Toulouse
+DESCRIPTION:La mairie de Toulouse instaure un couvre-feu pour les mineurs d
+ e moins de 16 ans non accompagnés lors du match de 16e de finale France-S
+ uède\, le mardi 30 juin 2026\, de 22h à 5h du matin. La mesure s'appliqu
+ e dans l'hypercentre\, les allées Jean-Jaurès et les quartiers Bonnefoy 
+ et Marengo — le même périmètre que lors des matchs de phase de groupe
+ . Ce match est le seul des 16es de finale concerné par un tel arrêté\, 
+ en raison de son horaire tardif (23h) \; d'autres rencontres jugées à ri
+ sques\, comme \n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-toul
+ ouse-le-couvre-feu-pour-les-mineurs-sera-applique-lors-du-match-de-coupe-d
+ u-monde-entre-la-france-et-la-suede_64476660.html
+LOCATION:allées Jean-Jaurès\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/a-toulouse-le-couvre-feu-pour-
+ les-mineurs-sera-applique-lors-du-match-de-coupe-du-monde-entre-la-france-
+ et-la-suede_64476660.html?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:dc85e4b9-46d7-46a3-9008-75ae0dfced51@news.lavillerose.com
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260704
@@ -3823,17 +3917,17 @@ BEGIN:VEVENT
 UID:cluster:39da6a99-01d7-4755-a98b-f8e061185038@news.lavillerose.com
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260704
-SUMMARY:Festival Convivencia
-DESCRIPTION:Le festival itinérant Convivencia\, qui se définit comme « l
- e plus lent du monde » en naviguant chaque année sur le canal du Midi\, 
- fait escale à Toulouse du 1er au 3 juillet 2026 pour son édition anniver
- saire. La péniche historique du festival\, le Chèvrefeuille\, arrivera e
- n cortège fluvial depuis l'écluse Bayard le 1er juillet à 18h30\, anim
- ée par la Vespa Cougourdon Ouchestra dans un esprit occitan et musiques d
- u monde. Les 2 et 3 juillet\, des concerts gratuits sont programmés dès 
- 19h au Port de \n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-fe
- stival-le-plus-lent-du-monde-fete-ses-30-ans-a-toulouse-trois-jours-de-con
- certs-gratuits_64456185.html
+SUMMARY:Festival Convivencia Toulouse
+DESCRIPTION:Le festival itinérant Convivencia\, qui navigue chaque été s
+ ur le Canal du Midi à bord d'une péniche-scène flottante\, fait escale 
+ à Toulouse du 1er au 3 juillet 2026 au Port de l'Embouchure. Cette éditi
+ on anniversaire (30 ans du festival) coïncide avec les 30 ans de l'inscri
+ ption du Canal du Midi au patrimoine mondial de l'UNESCO. Les festivités 
+ débutent le 1er juillet à 18h30 par une parade fluviale depuis l'écluse
+  Bayard\, animée par La Vespa Cougourdon Orchestra\, avant une soirée Cl
+ utchorama. L\n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-festi
+ val-le-plus-lent-du-monde-fete-ses-30-ans-a-toulouse-trois-jours-de-concer
+ ts-gratuits_64456185.html
 URL:https://actu.fr/occitanie/toulouse_31555/le-festival-le-plus-lent-du-mo
  nde-fete-ses-30-ans-a-toulouse-trois-jours-de-concerts-gratuits_64456185.h
  tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -3942,6 +4036,27 @@ DESCRIPTION:La 17e édition du festival international Tangopostale se tiend
 LOCATION:place Saint-Pierre sont prévues du 6 au 11 juillet\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-30#45124?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8554de1a-85c5-4741-9090-3f0ea92dee0c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260705
+SUMMARY:DroneArt Show Harry Potter
+DESCRIPTION:Les 3 et 4 juillet\, le Stadium de Toulouse accueillera le Dron
+ eArt Show : Harry Potter™\, un spectacle aérien où 1 200 drones lumine
+ ux reconstitueront dans le ciel les personnages et symboles emblématiques
+  de la saga. Le tout sera accompagné des bandes originales des films\, de
+  dialogues cultes et d'un violoniste jouant en direct. Chaque spectateur r
+ ecevra un bracelet LED interactif s'illuminant en synchronisation avec les
+  séquences. Cet événement s'inscrit dans une tournée internationale c
+ élébran\n\nSource\: https://www.toulouscope.fr/2026/06/30/harry-potter-c
+ e-week-end-un-spectacle-de-1-200-drones-illumine-le-ciel-de-toulouse-13444
+ 463.php
+LOCATION:Stadium de Toulouse accueillera le DroneArt Show : Harry\, Toulous
+ e
+URL:https://www.toulouscope.fr/2026/06/30/harry-potter-ce-week-end-un-spect
+ acle-de-1-200-drones-illumine-le-ciel-de-toulouse-13444463.php?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:148f61ad-4cc9-4205-817a-f17e1a2b6e1d@news.lavillerose.com
@@ -4293,5 +4408,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/l-aligofest-bientot-de-retour-
  a-toulouse-la-billetterie-vient-d-ouvrir-un-nouveau-record-du-monde-a-la-c
  le_64344060.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
  -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f7073989-f6ec-486b-8973-9995b5cc33a5@news.lavillerose.com
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20270222
+SUMMARY:Musée Imaginaire
+DESCRIPTION:Après le succès retentissant de son exposition au musée des 
+ Abattoirs de Toulouse — 112 312 visiteurs entre décembre 2024 et mai 20
+ 25 —\, le rappeur Oli (Bigflo & Oli) voit son « Musée Imaginaire » s'
+ inviter au Grand Palais à Paris. L'institution parisienne a officiellemen
+ t annoncé accueillir l'exposition du 2 décembre 2026 au 21 février 2027
+ . À Toulouse\, l'événement avait su attirer à la fois les amateurs d'a
+ rt contemporain et un public très jeune\, souvent novice en matière de m
+ usée\, selon la di\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a
+ pres-toulouse-l-exposition-du-rappeur-oli-s-installera-au-prestigieux-gran
+ d-palais-a-paris_64478112.html
+LOCATION:Palais\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/apres-toulouse-l-exposition-du
+ -rappeur-oli-s-installera-au-prestigieux-grand-palais-a-paris_64478112.htm
+ l?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 END:VCALENDAR
