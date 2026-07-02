@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-07-01T06:34:28.872820+00:00</updated>
+  <updated>2026-07-02T06:20:52.062121+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,34 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:9c096a92-2000-4bb1-91ca-a252ecb10eb1</id>
-    <title>Un homme secouru sur une pile du pont Saint-Pierre après avoir sauté dans la Garonne</title>
-    <updated>2026-06-24T08:19:27.136805+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Dans la nuit du mercredi 24 juin 2026, vers 1h20 du matin, un individu a sauté dans la Garonne depuis le pont Saint-Pierre en plein centre de Toulouse. Coincé sur une pile du pont après s&amp;#x27;être extrait du courant, il a nécessité l&amp;#x27;intervention d&amp;#x27;un important dispositif de secours : 17 sapeurs-pompiers et neuf véhicules issus de quatre casernes. Les plongeurs spécialisés en secours aquatiques du Sdis 31 ont pu ramener la personne saine et sauve sur la rive. Son état de santé ne requérait pas d&amp;#x27;hospitalisation ; elle a été remise à la police, et les circonstances exactes de son geste restent à déterminer.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-saute-dans-la-garonne-depuis-le-pont-saint-pierre-a-toulouse-coince-sur-une-pile-du-pont-les-pompiers-le-secourent_64446278.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/il-saute-dans-la-garonne-depuis-le-pont-saint-pierre-a-toulouse-coince-sur-une-pile-du-pont-les-pompiers-le-secourent_64446278.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Dans la nuit du mercredi 24 juin 2026, vers 1h20 du matin, un individu a sauté dans la Garonne depuis le pont Saint-Pierre en plein centre de Toulouse. Coincé sur une pile du pont après s'être extrait du courant, il a nécessité l'intervention d'un important dispositif de secours : 17 sapeurs-pompiers et neuf véhicules issus de quatre casernes. Les plongeurs spécialisés en secours aquatiques du Sdis 31 ont pu ramener la personne saine et sauve sur la rive. Son état de santé ne requérait pas d'hospitalisation ; elle a été remise à la police, et les circonstances exactes de son geste restent à déterminer.</summary>
-    <category term="news"/>
-    <published>2026-06-24T08:33:55+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6fba2937-3ccf-4f21-99df-024610349023</id>
-    <title>Malaise d'un voyageur perturbe la ligne A du métro toulousain</title>
-    <updated>2026-06-24T08:19:27.136805+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La ligne A du métro de Toulouse a été partiellement interrompue le mercredi 24 juin 2026, après qu&amp;#x27;un voyageur a fait un malaise dans une rame à la station Mirail Université vers 9h. Les stations entre Basso Cambo et Arènes ont été temporairement non desservies, soit sept stations sur la partie ouest de la ligne. La circulation a partiellement repris à partir de 9h30, avant un retour progressif à la normale annoncé par Tisséo vers 9h45. Durant l&amp;#x27;interruption, Tisséo orientait les voyageurs vers les lignes de bus de substitution L14, 13 et 18 pour couvrir les stations concernées.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pourquoi-la-ligne-a-du-metro-de-toulouse-est-partiellement-arretee-depuis-pres-d-une-heure_64446523.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/pourquoi-la-ligne-a-du-metro-de-toulouse-est-partiellement-arretee-depuis-pres-d-une-heure_64446523.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La ligne A du métro de Toulouse a été partiellement interrompue le mercredi 24 juin 2026, après qu'un voyageur a fait un malaise dans une rame à la station Mirail Université vers 9h. Les stations entre Basso Cambo et Arènes ont été temporairement non desservies, soit sept stations sur la partie ouest de la ligne. La circulation a partiellement repris à partir de 9h30, avant un retour progressif à la normale annoncé par Tisséo vers 9h45. Durant l'interruption, Tisséo orientait les voyageurs vers les lignes de bus de substitution L14, 13 et 18 pour couvrir les stations concernées.</summary>
-    <category term="news"/>
-    <published>2026-06-24T09:45:32+02:00</published>
-  </entry>
   <entry>
     <id>cluster:9102e7fc-1359-4dc7-993f-7afd18757e00</id>
     <title>L'hôpital Ducuing crée un Centre de la femme et monte en néonatologie</title>
@@ -1540,34 +1512,6 @@ zones périurbaines et rurales ont souvent été laissées à l'écart
     <published>2026-07-01T04:08:09.911000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:e6d4bbb0-a7d5-448b-93a3-2dc14a330b3f</id>
-    <title>Le théâtre du Fil à Plomb présente « La Fée des fleurs » pour tout-petits</title>
-    <updated>2026-07-01T06:34:28.872820+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le théâtre du Fil à Plomb propose « La Fée des fleurs », un spectacle jeune public accessible dès 9 mois. La pièce se présente comme une balade poétique de 30 minutes mêlant chansons, danse et magie. Le format court et la tranche d&amp;#x27;âge très basse en font une sortie idéale pour les familles avec nourrissons ou jeunes enfants. Aucune précision de date ni de tarif n&amp;#x27;est fournie dans les extraits disponibles.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy3Hypi0A0_ueglPXEInmi5636zdLIU~Fs1o2kiN9xkuc&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNy3Hypi0A0_ueglPXEInmi5636zdLIU~Fs1o2kiN9xkuc&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy3Hypi0A0_ueglPXEInmi5636zdLIU~Fs1o2kiN9xkuc&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le théâtre du Fil à Plomb propose « La Fée des fleurs », un spectacle jeune public accessible dès 9 mois. La pièce se présente comme une balade poétique de 30 minutes mêlant chansons, danse et magie. Le format court et la tranche d'âge très basse en font une sortie idéale pour les familles avec nourrissons ou jeunes enfants. Aucune précision de date ni de tarif n'est fournie dans les extraits disponibles.</summary>
-    <category term="event"/>
-    <published>2026-07-01T04:06:40.522000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f22b8067-60b4-42f2-a738-1d0fb317c19b</id>
-    <title>Atelier cuisine en plein air aux Jardins du Ricotier à Fenouillet</title>
-    <updated>2026-07-01T06:34:28.872820+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Les Jardins du Ricotier organisent un atelier de cuisine collective en plein air au Hangar à Fenouillet. Au programme : préparation de tapas et de tartines à base de légumineuses et légumes bio, suivie d&amp;#x27;une dégustation. L&amp;#x27;événement mise sur le partage et la convivialité autour d&amp;#x27;une cuisine saine et végétale. Les deux sources sont identiques et ne précisent pas d&amp;#x27;horaire ni de tarif.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy3Hypi0A0_ueglPXEInmi5636zdLIU~Fs1o2kiN9ylug&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNy3Hypi0A0_ueglPXEInmi5636zdLIU~Fs1o2kiN9ylug&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy3Hypi0A0_ueglPXEInmi5636zdLIU~Fs1o2kiN9ylug&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les Jardins du Ricotier organisent un atelier de cuisine collective en plein air au Hangar à Fenouillet. Au programme : préparation de tapas et de tartines à base de légumineuses et légumes bio, suivie d'une dégustation. L'événement mise sur le partage et la convivialité autour d'une cuisine saine et végétale. Les deux sources sont identiques et ne précisent pas d'horaire ni de tarif.</summary>
-    <category term="event"/>
-    <published>2026-07-01T04:06:40.522000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:8554de1a-85c5-4741-9090-3f0ea92dee0c</id>
     <title>1 200 drones Harry Potter illuminent le ciel du Stadium</title>
     <updated>2026-07-01T06:34:28.872820+00:00</updated>
@@ -1608,20 +1552,6 @@ zones périurbaines et rurales ont souvent été laissées à l'écart
     <summary>La compagnie aérienne scandinave SAS a annoncé le 30 juin 2026 l'achat de jusqu'à 40 appareils de la famille A330 d'Airbus, pour un montant supérieur à 10 milliards de dollars. La commande combine des A330-900neo et des A330-300, ces derniers destinés à soutenir la croissance à court terme en attendant les livraisons des neo. Airbus a de son côté confirmé 18 commandes fermes. Cette transaction est une excellente nouvelle pour l'agglomération toulousaine, puisque la seule ligne d'assemblage final des A330 dans le monde se trouve à l'usine Clément-Ader de Colomiers.</summary>
     <category term="news"/>
     <published>2026-06-30T12:02:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c7c6a1e1-da98-46fa-bcf2-2f472f6c025f</id>
-    <title>Couvre-feu pour les mineurs lors de France-Suède à Toulouse</title>
-    <updated>2026-07-01T06:34:28.872820+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La mairie de Toulouse instaure un couvre-feu pour les mineurs de moins de 16 ans non accompagnés lors du match de 16e de finale France-Suède, le mardi 30 juin 2026, de 22h à 5h du matin. La mesure s&amp;#x27;applique dans l&amp;#x27;hypercentre, les allées Jean-Jaurès et les quartiers Bonnefoy et Marengo — le même périmètre que lors des matchs de phase de groupe. Ce match est le seul des 16es de finale concerné par un tel arrêté, en raison de son horaire tardif (23h) ; d&amp;#x27;autres rencontres jugées à risques, comme Pays-Bas-Maroc et Suisse-Algérie, se jouent à des heures encore plus tardives, ce qui a conduit la mairie à ne pas y appliquer de couvre-feu. Le maire Jean-Luc Moudenc justifie cette décision par la volonté d&amp;#x27;éviter les débordements similaires à ceux survenus lors de la victoire du PSG en Ligue des Champions.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/a-toulouse-le-couvre-feu-pour-les-mineurs-sera-applique-lors-du-match-de-coupe-du-monde-entre-la-france-et-la-suede_64476660.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/a-toulouse-le-couvre-feu-pour-les-mineurs-sera-applique-lors-du-match-de-coupe-du-monde-entre-la-france-et-la-suede_64476660.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La mairie de Toulouse instaure un couvre-feu pour les mineurs de moins de 16 ans non accompagnés lors du match de 16e de finale France-Suède, le mardi 30 juin 2026, de 22h à 5h du matin. La mesure s'applique dans l'hypercentre, les allées Jean-Jaurès et les quartiers Bonnefoy et Marengo — le même périmètre que lors des matchs de phase de groupe. Ce match est le seul des 16es de finale concerné par un tel arrêté, en raison de son horaire tardif (23h) ; d'autres rencontres jugées à risques, comme Pays-Bas-Maroc et Suisse-Algérie, se jouent à des heures encore plus tardives, ce qui a conduit la mairie à ne pas y appliquer de couvre-feu. Le maire Jean-Luc Moudenc justifie cette décision par la volonté d'éviter les débordements similaires à ceux survenus lors de la victoire du PSG en Ligue des Champions.</summary>
-    <category term="news"/>
-    <published>2026-06-30T16:27:57+02:00</published>
   </entry>
   <entry>
     <id>cluster:f7073989-f6ec-486b-8973-9995b5cc33a5</id>
@@ -1707,5 +1637,264 @@ zones périurbaines et rurales ont souvent été laissées à l'écart
     <summary>Ce week-end à Toulouse est particulièrement chargé : la 5e édition du Festival de Toulouse démarre avec une programmation mêlant classique et variété (Calogero, Axelle Red, Pomme, Michel Plasson) à la Halle aux Grains et à l'Auditorium Saint-Pierre-des-Cuisines, du 30 juin au 11 juillet 2026. La finale du Top 14 opposant le Stade Toulousain à Montpellier sera retransmise sur écran géant place du Capitole samedi soir dès 19h, avec un dispositif de sécurité renforcé et la place fermée dès 16h. Les amateurs de bonnes affaires trouveront plusieurs vide-greniers et brocantes samedi 27 et dimanche 28 juin dans Toulouse et ses alentours. En parallèle, des événements gratuits sont annoncés pour l'été, dont le NRJ Music Tour le 13 juillet à la Prairie des Filtres et le festival itinérant 31 Notes d'été du 1er au 29 août en Haute-Garonne.</summary>
     <category term="news"/>
     <published>2026-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:79c68c52-d92a-47ca-8268-b6f3b01a832d</id>
+    <title>Le théâtre Sorano mise sur le politique pour sa nouvelle saison</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Le théâtre Sorano de Toulouse entame une saison très dense avec 40 spectacles, dont une majorité de créations, placée sous le signe du politique en lien avec l&amp;#x27;année présidentielle. La directrice en place depuis janvier 2025 poursuit ses axes artistiques avec des créations de Romane Nicolas et Hugues Duchêne, ce dernier signant une dystopie politique projetée jusqu&amp;#x27;en 2077. Parmi les temps forts, « Thérapie Macron » imagine un Emmanuel Macron octogénaire hésitant à se représenter en 2058, tandis que « Nelvar - Le royaume sans peuple » aborde la lutte pour le pouvoir sur un registre de fantasy héroïque. La programmation cherche également à prendre du recul via le répertoire classique, mêlant engagement contemporain et distance critique.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45390"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45390"/>
+    <summary>Le théâtre Sorano de Toulouse entame une saison très dense avec 40 spectacles, dont une majorité de créations, placée sous le signe du politique en lien avec l'année présidentielle. La directrice en place depuis janvier 2025 poursuit ses axes artistiques avec des créations de Romane Nicolas et Hugues Duchêne, ce dernier signant une dystopie politique projetée jusqu'en 2077. Parmi les temps forts, « Thérapie Macron » imagine un Emmanuel Macron octogénaire hésitant à se représenter en 2058, tandis que « Nelvar - Le royaume sans peuple » aborde la lutte pour le pouvoir sur un registre de fantasy héroïque. La programmation cherche également à prendre du recul via le répertoire classique, mêlant engagement contemporain et distance critique.</summary>
+    <category term="culture"/>
+    <published>2026-07-02T04:10:13.243000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:83ee57d1-09b5-4cb3-8e3e-214bcd53f940</id>
+    <title>Le Comex 40 du Medef 31 fête l'été au Canal du Midi</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Comex 40 du Medef Haute-Garonne, qui réunit 150 dirigeants d&amp;#x27;entreprise de moins de 45 ans, organise sa summer party aux Cales de Radoub, 65 allée des Demoiselles à Toulouse. Ouverte à tous, cette 5e édition reverse 15 € par entrée à la Mission mécénat de Voies Navigables de France pour financer la replantation du Canal du Midi, menacé par le chancre coloré qui ravage ses platanes emblématiques. L&amp;#x27;événement coïncide avec le festival Convivencia, qui se tient au même endroit. Des packs partenaires sont également proposés aux entreprises souhaitant rejoindre le Club des mécènes du canal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45388"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45388"/>
+    <summary>Le Comex 40 du Medef Haute-Garonne, qui réunit 150 dirigeants d'entreprise de moins de 45 ans, organise sa summer party aux Cales de Radoub, 65 allée des Demoiselles à Toulouse. Ouverte à tous, cette 5e édition reverse 15 € par entrée à la Mission mécénat de Voies Navigables de France pour financer la replantation du Canal du Midi, menacé par le chancre coloré qui ravage ses platanes emblématiques. L'événement coïncide avec le festival Convivencia, qui se tient au même endroit. Des packs partenaires sont également proposés aux entreprises souhaitant rejoindre le Club des mécènes du canal.</summary>
+    <category term="event"/>
+    <published>2026-07-02T04:10:13.243000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1c0fa16d-74e1-4566-96f7-5c50f7ca9017</id>
+    <title>Exposition collective sur La Grave aux Halles de la Cartoucherie</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Les Halles de la Cartoucherie accueillent tout l&amp;#x27;été l&amp;#x27;exposition collective « Mais Grave », réunissant 10 artistes toulousains autour d&amp;#x27;un même sujet : le dôme de La Grave, souvent présenté comme le monument le plus photographié de Toulouse. Chaque artiste — photographe, illustrateur, céramiste — propose sa propre interprétation dans un format imposé de 50 × 70 cm, créant une diversité de regards à partir d&amp;#x27;une contrainte commune. L&amp;#x27;exposition se tient dans la Grande Rue des Halles jusqu&amp;#x27;à fin août. En parallèle, l&amp;#x27;artiste Guillaumit a réalisé des fresques au sol dans le Préau, et les Halles lancent des brunchs dominicaux de 10h à 12h à partir de dimanche.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45389"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45389"/>
+    <summary>Les Halles de la Cartoucherie accueillent tout l'été l'exposition collective « Mais Grave », réunissant 10 artistes toulousains autour d'un même sujet : le dôme de La Grave, souvent présenté comme le monument le plus photographié de Toulouse. Chaque artiste — photographe, illustrateur, céramiste — propose sa propre interprétation dans un format imposé de 50 × 70 cm, créant une diversité de regards à partir d'une contrainte commune. L'exposition se tient dans la Grande Rue des Halles jusqu'à fin août. En parallèle, l'artiste Guillaumit a réalisé des fresques au sol dans le Préau, et les Halles lancent des brunchs dominicaux de 10h à 12h à partir de dimanche.</summary>
+    <category term="event"/>
+    <published>2026-07-02T04:10:13.243000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:da3fe171-5128-4c59-a39b-31487b1ea6f8</id>
+    <title>La base nautique du lac de la Reynerie ouvre pour l'été</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;La base nautique et de loisirs du lac de la Reynerie est ouverte gratuitement du 2 juillet au 29 août, du mardi au samedi de 16h30 à 18h. Enfants et adultes peuvent y pratiquer canoë-kayak, paddle ou aquabike, avec matériel mis à disposition pendant 30 minutes et inscriptions sur place. Les mineurs doivent au préalable passer un test ou obtenir un pass nautique gratuit dans les piscines toulousaines. Le Club de Kayak toulousain assure des initiations au kayak-polo tout l&amp;#x27;été, et les berges accueillent également fontaines, jeux d&amp;#x27;eau, parkour, street workout et aires de jeux.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45387"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45387"/>
+    <summary>La base nautique et de loisirs du lac de la Reynerie est ouverte gratuitement du 2 juillet au 29 août, du mardi au samedi de 16h30 à 18h. Enfants et adultes peuvent y pratiquer canoë-kayak, paddle ou aquabike, avec matériel mis à disposition pendant 30 minutes et inscriptions sur place. Les mineurs doivent au préalable passer un test ou obtenir un pass nautique gratuit dans les piscines toulousaines. Le Club de Kayak toulousain assure des initiations au kayak-polo tout l'été, et les berges accueillent également fontaines, jeux d'eau, parkour, street workout et aires de jeux.</summary>
+    <category term="event"/>
+    <published>2026-07-02T04:10:13.243000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d310c9e5-f446-46a9-b49c-e95b68333023</id>
+    <title>La 8e édition du WateRugby revient à la Daurade</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Le WateRugby, événement phare de Toulouse, tient sa 8e édition à la Daurade sur quatre jours, sur le thème des années 80. Le concept original allie rugby à toucher et baignade dans la Garonne : pour marquer un essai, les joueurs doivent plonger dans le fleuve depuis une plateforme flottante de 50m x 40m. Plus de 1 500 joueurs et joueuses sont attendus sur deux terrains flottants, avec un programme progressif : étudiants en début de semaine, entreprises ensuite, puis grand public ce week-end. Le point d&amp;#x27;orgue sera l&amp;#x27;Eau&amp;#x27;ll Star, rassemblant plus de 50 légendes du rugby français. L&amp;#x27;année dernière, l&amp;#x27;événement avait attiré plus de 40 000 personnes sur quatre jours, en faisant l&amp;#x27;un des plus grands rendez-vous annuels de la Ville rose.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45386"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45386"/>
+    <summary>Le WateRugby, événement phare de Toulouse, tient sa 8e édition à la Daurade sur quatre jours, sur le thème des années 80. Le concept original allie rugby à toucher et baignade dans la Garonne : pour marquer un essai, les joueurs doivent plonger dans le fleuve depuis une plateforme flottante de 50m x 40m. Plus de 1 500 joueurs et joueuses sont attendus sur deux terrains flottants, avec un programme progressif : étudiants en début de semaine, entreprises ensuite, puis grand public ce week-end. Le point d'orgue sera l'Eau'll Star, rassemblant plus de 50 légendes du rugby français. L'année dernière, l'événement avait attiré plus de 40 000 personnes sur quatre jours, en faisant l'un des plus grands rendez-vous annuels de la Ville rose.</summary>
+    <category term="event"/>
+    <published>2026-07-02T04:10:13.243000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d52ca8e1-4264-4f0b-8800-dd3b80efcc16</id>
+    <title>Ariane Brodier revient aux 3T avec son spectacle « Bonne »</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;La comédienne Ariane Brodier présente son nouveau spectacle solo, intitulé Bonne, sur la scène des 3T à Toulouse. Après le succès de Mytho, elle y explore avec finesse les étiquettes que la société colle aux femmes. Le spectacle s&amp;#x27;annonce comme une comédie engagée, mêlant humour et réflexion sur les injonctions faites aux femmes. Les deux sources sont identiques et ne fournissent pas de date précise ni de détails supplémentaires sur les représentations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy3XEhikA0_ueglPXEI3Ca5q36zdLKVvFs1o2kiN93kuU&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNy3XEhikA0_ueglPXEI3Ca5q36zdLKVvFs1o2kiN93kuU&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy3XEhikA0_ueglPXEI3Ca5q36zdLKVvFs1o2kiN93kuU&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La comédienne Ariane Brodier présente son nouveau spectacle solo, intitulé Bonne, sur la scène des 3T à Toulouse. Après le succès de Mytho, elle y explore avec finesse les étiquettes que la société colle aux femmes. Le spectacle s'annonce comme une comédie engagée, mêlant humour et réflexion sur les injonctions faites aux femmes. Les deux sources sont identiques et ne fournissent pas de date précise ni de détails supplémentaires sur les représentations.</summary>
+    <category term="event"/>
+    <published>2026-07-02T04:06:05.943000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1b76e13e-3aa6-406d-be44-b3591860f434</id>
+    <title>Concert piano-violoncelle au musée des Augustins</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Le musée des Augustins accueille une « Pause musicale » autour d&amp;#x27;une sonate pour piano et violoncelle. La prestation est assurée par Cécile Milan et Sarah Corbière, deux musiciennes associées au département musique de l&amp;#x27;Université Toulouse – Jean Jaurès. Ce partenariat entre le musée et l&amp;#x27;université illustre les liens entre patrimoine culturel et formation musicale universitaire à Toulouse. Les amateurs de musique de chambre pourront profiter du cadre exceptionnel du musée pour cette performance intimiste.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy3XEhikA0_ueglPXEI3Ca5q36zdLKVvFs1o2kiN~uj-c&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNy3XEhikA0_ueglPXEI3Ca5q36zdLKVvFs1o2kiN~uj-c&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy3XEhikA0_ueglPXEI3Ca5q36zdLKVvFs1o2kiN~uj-c&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le musée des Augustins accueille une « Pause musicale » autour d'une sonate pour piano et violoncelle. La prestation est assurée par Cécile Milan et Sarah Corbière, deux musiciennes associées au département musique de l'Université Toulouse – Jean Jaurès. Ce partenariat entre le musée et l'université illustre les liens entre patrimoine culturel et formation musicale universitaire à Toulouse. Les amateurs de musique de chambre pourront profiter du cadre exceptionnel du musée pour cette performance intimiste.</summary>
+    <category term="event"/>
+    <published>2026-07-02T04:06:05.943000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c86c74cd-9c81-48ac-8da7-c572beaebc58</id>
+    <title>Jazz à Foix fête ses 25 ans, six jours de concerts en plein air</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Du 20 au 25 juillet 2026, le festival Jazz à Foix célèbre son 25e anniversaire dans les cours de l&amp;#x27;école Lucien-Goron, en plein cœur de la cité ariégeoise, à moins d&amp;#x27;1h30 de Toulouse. Pour l&amp;#x27;occasion, les organisateurs annoncent une programmation éclectique mêlant grands noms du jazz et découvertes, avec concerts gratuits dès 18h dans le Village Jazz et soirées payantes jusqu&amp;#x27;en jam-session tardive. Le festival peut accueillir jusqu&amp;#x27;à 8 500 spectateurs sur l&amp;#x27;ensemble des soirées, dans une ambiance conviviale avec buvette, restaurant associatif et food trucks. L&amp;#x27;extrait s&amp;#x27;interrompt avant que la programmation complète des 25 ans ne soit dévoilée.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/01/le-festival-jazz-a-foix-fete-ses-25-ans-avec-une-programmation-eclectique-13425991.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/07/01/le-festival-jazz-a-foix-fete-ses-25-ans-avec-une-programmation-eclectique-13425991.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Du 20 au 25 juillet 2026, le festival Jazz à Foix célèbre son 25e anniversaire dans les cours de l'école Lucien-Goron, en plein cœur de la cité ariégeoise, à moins d'1h30 de Toulouse. Pour l'occasion, les organisateurs annoncent une programmation éclectique mêlant grands noms du jazz et découvertes, avec concerts gratuits dès 18h dans le Village Jazz et soirées payantes jusqu'en jam-session tardive. Le festival peut accueillir jusqu'à 8 500 spectateurs sur l'ensemble des soirées, dans une ambiance conviviale avec buvette, restaurant associatif et food trucks. L'extrait s'interrompt avant que la programmation complète des 25 ans ne soit dévoilée.</summary>
+    <category term="event"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:bda3fd09-23a8-439a-b04d-111c6a19fd39</id>
+    <title>Milan Presse à Toulouse : une trentaine de postes menacés, les salariés débrayent</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Une centaine de salariés de Milan Presse ont débrayé mardi matin à Toulouse pour protester contre un plan de sauvegarde de l&amp;#x27;emploi (PSE) initié par la maison mère Bayard, qui prévoit la suppression d&amp;#x27;environ 28 CDI et 3 CDD. Les suppressions de postes sont prévues pour être effectives en 2027, mais les salariés réclament des délais plus longs pour permettre de véritables négociations. Parmi les mesures contestées, la disparition du magazine Yam Yam (ex-Géo Ado), jugée précipitée par la déléguée syndicale CGT Aude Le Breton, qui souligne que le titre n&amp;#x27;était en vente que depuis septembre. Milan Presse, rachetée par Bayard en 2004, édite des publications jeunesse bien connues comme Toboggan, Wapiti et 1jour1actu, et les salariés s&amp;#x27;inquiètent d&amp;#x27;une dilution progressive de l&amp;#x27;identité de la marque.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-trentaine-de-postes-doivent-etre-supprimes-a-toulouse-le-groupe-milan-presse-dans-la-tourmente_64480589.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/une-trentaine-de-postes-doivent-etre-supprimes-a-toulouse-le-groupe-milan-presse-dans-la-tourmente_64480589.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Une centaine de salariés de Milan Presse ont débrayé mardi matin à Toulouse pour protester contre un plan de sauvegarde de l'emploi (PSE) initié par la maison mère Bayard, qui prévoit la suppression d'environ 28 CDI et 3 CDD. Les suppressions de postes sont prévues pour être effectives en 2027, mais les salariés réclament des délais plus longs pour permettre de véritables négociations. Parmi les mesures contestées, la disparition du magazine Yam Yam (ex-Géo Ado), jugée précipitée par la déléguée syndicale CGT Aude Le Breton, qui souligne que le titre n'était en vente que depuis septembre. Milan Presse, rachetée par Bayard en 2004, édite des publications jeunesse bien connues comme Toboggan, Wapiti et 1jour1actu, et les salariés s'inquiètent d'une dilution progressive de l'identité de la marque.</summary>
+    <category term="news"/>
+    <published>2026-07-01T10:18:22+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a4f5b556-18d4-4539-b8b8-fd4eccfebff6</id>
+    <title>Panne d'électricité : 5 000 foyers touchés à Toulouse ce mercredi</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Ce mercredi 1er juillet 2026 vers 9h, une panne d&amp;#x27;électricité a privé plus de 5 000 foyers et commerces toulousains de courant, affectant le centre-ville, les Carmes et Lardenne. L&amp;#x27;origine de l&amp;#x27;incident ne vient pas de la chaleur — les températures étaient clémentes ce matin-là — mais de travaux menés sur un poste source à Colomiers. Enedis a expliqué qu&amp;#x27;un nouveau transformateur était en cours d&amp;#x27;installation pour augmenter la puissance du réseau, et que quelques « départs » haute tension ont été coupés durant l&amp;#x27;opération. Ces travaux s&amp;#x27;inscrivent dans un effort de renforcement du réseau face à la croissance démographique continue de l&amp;#x27;agglomération toulousaine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-panne-d-electricite-touche-5-000-foyers-et-commerces-a-toulouse-ce-qu-il-s-est-passe_64481299.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/une-panne-d-electricite-touche-5-000-foyers-et-commerces-a-toulouse-ce-qu-il-s-est-passe_64481299.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Ce mercredi 1er juillet 2026 vers 9h, une panne d'électricité a privé plus de 5 000 foyers et commerces toulousains de courant, affectant le centre-ville, les Carmes et Lardenne. L'origine de l'incident ne vient pas de la chaleur — les températures étaient clémentes ce matin-là — mais de travaux menés sur un poste source à Colomiers. Enedis a expliqué qu'un nouveau transformateur était en cours d'installation pour augmenter la puissance du réseau, et que quelques « départs » haute tension ont été coupés durant l'opération. Ces travaux s'inscrivent dans un effort de renforcement du réseau face à la croissance démographique continue de l'agglomération toulousaine.</summary>
+    <category term="news"/>
+    <published>2026-07-01T12:02:43+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c0a8df04-60d1-466d-9a11-a94c44b1db23</id>
+    <title>Affaire Jubillar : Frank Berton se retire avant le procès en appel</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;avocat Frank Berton, inscrit au barreau de Lille et spécialiste des grands procès, ne défendra finalement pas Cédric Jubillar lors de son procès en appel prévu à Toulouse à partir du 21 septembre 2026. C&amp;#x27;est Jubillar lui-même qui a mis fin à cette collaboration, craignant que Berton ne puisse être présent pendant toute la durée du procès, estimée à quatre semaines. Condamné le 17 octobre 2025 à 30 ans de réclusion pour le meurtre de sa femme Delphine, disparue dans la nuit du 15 au 16 décembre 2020, Jubillar avait déjà changé d&amp;#x27;équipe juridique après le premier procès aux Assises du Tarn. Sa défense reposera désormais sur Pierre Debuisson et son père Guy Debuisson, figure du barreau toulousain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-la-defense-change-de-tete-l-un-des-nouveaux-avocats-se-retire-avant-le-nouveau-proces_64480505.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-la-defense-change-de-tete-l-un-des-nouveaux-avocats-se-retire-avant-le-nouveau-proces_64480505.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'avocat Frank Berton, inscrit au barreau de Lille et spécialiste des grands procès, ne défendra finalement pas Cédric Jubillar lors de son procès en appel prévu à Toulouse à partir du 21 septembre 2026. C'est Jubillar lui-même qui a mis fin à cette collaboration, craignant que Berton ne puisse être présent pendant toute la durée du procès, estimée à quatre semaines. Condamné le 17 octobre 2025 à 30 ans de réclusion pour le meurtre de sa femme Delphine, disparue dans la nuit du 15 au 16 décembre 2020, Jubillar avait déjà changé d'équipe juridique après le premier procès aux Assises du Tarn. Sa défense reposera désormais sur Pierre Debuisson et son père Guy Debuisson, figure du barreau toulousain.</summary>
+    <category term="news"/>
+    <published>2026-07-01T12:38:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:250c52fc-e7de-4af7-a794-bf12c2a5c457</id>
+    <title>Deux chiens de gendarmerie saisissent 19 armes et 11 kg de drogue</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Lors du démantèlement d&amp;#x27;un important trafic d&amp;#x27;armes et de stupéfiants sur un terrain de 3 hectares, les chiens Rick et Tik du groupe d&amp;#x27;investigation cynophile (GIC) de Haute-Garonne ont joué un rôle décisif. Les deux chiens ont permis de localiser 19 armes de guerre et de poing — dont des fusils d&amp;#x27;assaut AK47 et M16 —, plus de 1 000 munitions, 11 kg de stupéfiants variés (cocaïne, héroïne, kétamine, ecstasy, MDMA, amphétamines) et 26 000 euros en liquide. L&amp;#x27;opération, qualifiée de « saisie historique » par la gendarmerie, a été menée conjointement par la section de recherches de Toulouse et la brigade de recherches de Gourdon (Lot). La gendarmerie souligne que la technologie et les moyens humains classiques auraient atteint leurs limites face à l&amp;#x27;étendue du terrain et aux cachettes sophistiquées des suspects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ils-s-appellent-rick-et-tik-deux-chiens-de-la-gendarmerie-de-haute-garonne-decouvrent-19-armes-et-11-kg-de-drogue_64481280.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ils-s-appellent-rick-et-tik-deux-chiens-de-la-gendarmerie-de-haute-garonne-decouvrent-19-armes-et-11-kg-de-drogue_64481280.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Lors du démantèlement d'un important trafic d'armes et de stupéfiants sur un terrain de 3 hectares, les chiens Rick et Tik du groupe d'investigation cynophile (GIC) de Haute-Garonne ont joué un rôle décisif. Les deux chiens ont permis de localiser 19 armes de guerre et de poing — dont des fusils d'assaut AK47 et M16 —, plus de 1 000 munitions, 11 kg de stupéfiants variés (cocaïne, héroïne, kétamine, ecstasy, MDMA, amphétamines) et 26 000 euros en liquide. L'opération, qualifiée de « saisie historique » par la gendarmerie, a été menée conjointement par la section de recherches de Toulouse et la brigade de recherches de Gourdon (Lot). La gendarmerie souligne que la technologie et les moyens humains classiques auraient atteint leurs limites face à l'étendue du terrain et aux cachettes sophistiquées des suspects.</summary>
+    <category term="news"/>
+    <published>2026-07-01T13:21:33+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1bee81a6-af5f-494e-bce2-212d8cd6b586</id>
+    <title>Violences sexuelles sur une enfant : six ans d'inertie judiciaire à Toulouse</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Depuis 2020, la mère d&amp;#x27;Elisa, une fillette aujourd&amp;#x27;hui âgée de dix ans, a déposé plainte contre le grand-père paternel pour violences sexuelles — une plainte classée sans suite à deux reprises, sans que le mis en cause n&amp;#x27;ait jamais été entendu par les enquêteurs, selon son avocat Me Ismaël Meziti. Six ans après les premières démarches, la famille dénonce une « inertie institutionnelle » face à l&amp;#x27;absence d&amp;#x27;actes d&amp;#x27;enquête approfondis. La situation devient urgente : d&amp;#x27;ici la mi-juillet, la fillette risque d&amp;#x27;être placée chez son père et ainsi d&amp;#x27;être en contact direct avec l&amp;#x27;accusé. Le mis en cause est par ailleurs soupçonné d&amp;#x27;avoir fait au moins deux autres victimes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Témoignage de la mère et éclairage juridique par l&amp;#x27;avocat de la famille&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/je-ne-dors-plus-la-nuit-a-toulouse-elle-denonce-des-violences-sexuelles-sur-sa-fille-depuis-6-ans-et-rien-ne-bouge_64471599.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/je-ne-dors-plus-la-nuit-a-toulouse-elle-denonce-des-violences-sexuelles-sur-sa-fille-depuis-6-ans-et-rien-ne-bouge_64471599.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis 2020, la mère d'Elisa, une fillette aujourd'hui âgée de dix ans, a déposé plainte contre le grand-père paternel pour violences sexuelles — une plainte classée sans suite à deux reprises, sans que le mis en cause n'ait jamais été entendu par les enquêteurs, selon son avocat Me Ismaël Meziti. Six ans après les premières démarches, la famille dénonce une « inertie institutionnelle » face à l'absence d'actes d'enquête approfondis. La situation devient urgente : d'ici la mi-juillet, la fillette risque d'être placée chez son père et ainsi d'être en contact direct avec l'accusé. Le mis en cause est par ailleurs soupçonné d'avoir fait au moins deux autres victimes.</summary>
+    <category term="news"/>
+    <published>2026-07-01T16:28:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:428dc770-1148-4bb5-8420-4f937bc51f0c</id>
+    <title>Iris Mittenaere lance un club Lagree Fitness à Toulouse</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;ancienne Miss France et Miss Univers Iris Mittenaere a participé au lancement d&amp;#x27;un « Lagree Club » à l&amp;#x27;Happyness Studio, place Occitane, le 23 juin 2026. Le Lagree Fitness est une méthode sportive venue des États-Unis, inspirée du pilates mais plus musculaire, qui commence à se développer à Toulouse après avoir percé à Paris. Mittenaere, en couple avec Antoine Dupont du Stade Toulousain, a annoncé vouloir dupliquer ce concept de club communautaire dans d&amp;#x27;autres villes de France. Le gérant de l&amp;#x27;Happyness Studio, Xavier Verbeke, a lancé l&amp;#x27;établissement en septembre 2025 et défend une méthode qu&amp;#x27;il décrit comme physiquement exigeante.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-ancienne-miss-france-iris-mittenaere-lance-un-projet-a-toulouse-qu-elle-compte-dupliquer-partout-en-france_64483052.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/l-ancienne-miss-france-iris-mittenaere-lance-un-projet-a-toulouse-qu-elle-compte-dupliquer-partout-en-france_64483052.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'ancienne Miss France et Miss Univers Iris Mittenaere a participé au lancement d'un « Lagree Club » à l'Happyness Studio, place Occitane, le 23 juin 2026. Le Lagree Fitness est une méthode sportive venue des États-Unis, inspirée du pilates mais plus musculaire, qui commence à se développer à Toulouse après avoir percé à Paris. Mittenaere, en couple avec Antoine Dupont du Stade Toulousain, a annoncé vouloir dupliquer ce concept de club communautaire dans d'autres villes de France. Le gérant de l'Happyness Studio, Xavier Verbeke, a lancé l'établissement en septembre 2025 et défend une méthode qu'il décrit comme physiquement exigeante.</summary>
+    <category term="place"/>
+    <published>2026-07-01T17:51:54+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c03b65b3-9050-4ac9-a86b-9619384890f7</id>
+    <title>Deux corps découverts à Toulouse, un féminicide suivi d'un suicide suspecté</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le mardi 30 juin 2026, vers 19h30, des pompiers ont découvert deux cadavres au domicile d&amp;#x27;un couple chemin des Étroits, dans le quartier Pech-David au sud de Toulouse, après qu&amp;#x27;un proche a signalé ne plus avoir de nouvelles depuis le 23 juin. Les décès remonteraient à plusieurs jours : la femme de 56 ans présentait une large plaie à l&amp;#x27;abdomen, tandis que l&amp;#x27;homme de 67 ans gisait avec un impact de balle à la tête et un fusil à ses côtés. Le parquet de Toulouse a confirmé l&amp;#x27;ouverture d&amp;#x27;une enquête préliminaire pour homicide conjugal, confiée à la brigade criminelle. Les enquêteurs privilégient la piste d&amp;#x27;un féminicide suivi d&amp;#x27;un suicide ; le couple était en instance de séparation, la femme souhaitant quitter son compagnon.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article (actu_toulouse, première dépêche) s&amp;#x27;appuie sur des sources proches du couple et avance l&amp;#x27;hypothèse du féminicide-suicide. Le second article reprend la déclaration officielle du parquet de Toulouse et précise que l&amp;#x27;identité formelle des victimes n&amp;#x27;est pas encore établie avec certitude — nuance absente du premier article.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Contexte relationnel du couple, témoignages de proches, hypothèse enquêteurs&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Communiqué officiel du parquet, détails médico-légaux et précisions sur l&amp;#x27;identification des victimes&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/les-pompiers-tombent-sur-deux-cadavres-dans-une-maison-a-toulouse-il-s-agirait-d-un-feminicide-suivi-d-un-suicide_64482787.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-homme-et-une-femme-retrouves-morts-dans-une-maison-le-parquet-de-toulouse-detaille-les-faits_64484989.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/les-pompiers-tombent-sur-deux-cadavres-dans-une-maison-a-toulouse-il-s-agirait-d-un-feminicide-suivi-d-un-suicide_64482787.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le mardi 30 juin 2026, vers 19h30, des pompiers ont découvert deux cadavres au domicile d'un couple chemin des Étroits, dans le quartier Pech-David au sud de Toulouse, après qu'un proche a signalé ne plus avoir de nouvelles depuis le 23 juin. Les décès remonteraient à plusieurs jours : la femme de 56 ans présentait une large plaie à l'abdomen, tandis que l'homme de 67 ans gisait avec un impact de balle à la tête et un fusil à ses côtés. Le parquet de Toulouse a confirmé l'ouverture d'une enquête préliminaire pour homicide conjugal, confiée à la brigade criminelle. Les enquêteurs privilégient la piste d'un féminicide suivi d'un suicide ; le couple était en instance de séparation, la femme souhaitant quitter son compagnon.</summary>
+    <category term="news"/>
+    <published>2026-07-01T15:47:51+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5c9b4f1f-bd13-4e59-bd9d-1f4162a7f7e1</id>
+    <title>Grands travaux de démolition en cours près de la gare Matabiau</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Dans le quartier Grand Matabiau quais d&amp;#x27;Oc, d&amp;#x27;importants travaux de démolition sont en cours depuis le 22 juin 2026 : les équipes de l&amp;#x27;EPFL du Grand Toulouse s&amp;#x27;affairent à raser un îlot d&amp;#x27;anciennes habitations délimité par les rues du Faubourg Bonnefoy, des Cheminots et Saint-Laurent. Ces démolitions, qui doivent s&amp;#x27;achever le 30 juillet 2026, font suite à une première vague de destructions menée en juin 2025 aux numéros 5 et 6 de la rue des Cheminots. Le chantier s&amp;#x27;inscrit dans une transformation plus large du secteur, qui comprend également l&amp;#x27;installation d&amp;#x27;un réseau de chaleur et la métamorphose de l&amp;#x27;avenue Olivier Guichard (ex-avenue de Lyon). Une fois les bâtiments rasés, un vaste projet immobilier doit prendre place sur le site.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail des travaux en cours, calendrier et contexte du projet immobilier à venir&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/demolition-deviation-a-quoi-vont-servir-ces-importants-travaux-en-cours-pres-de-la-gare-de-toulouse_64483415.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/demolition-deviation-a-quoi-vont-servir-ces-importants-travaux-en-cours-pres-de-la-gare-de-toulouse_64483415.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Dans le quartier Grand Matabiau quais d'Oc, d'importants travaux de démolition sont en cours depuis le 22 juin 2026 : les équipes de l'EPFL du Grand Toulouse s'affairent à raser un îlot d'anciennes habitations délimité par les rues du Faubourg Bonnefoy, des Cheminots et Saint-Laurent. Ces démolitions, qui doivent s'achever le 30 juillet 2026, font suite à une première vague de destructions menée en juin 2025 aux numéros 5 et 6 de la rue des Cheminots. Le chantier s'inscrit dans une transformation plus large du secteur, qui comprend également l'installation d'un réseau de chaleur et la métamorphose de l'avenue Olivier Guichard (ex-avenue de Lyon). Une fois les bâtiments rasés, un vaste projet immobilier doit prendre place sur le site.</summary>
+    <category term="news"/>
+    <published>2026-07-02T06:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b4162a99-68ec-418f-9905-fb3749177c96</id>
+    <title>La Halle des Mobilités, « Concorde du rail », bientôt en chantier à Matabiau</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La Région Occitanie s&amp;#x27;apprête à lancer les travaux de la Halle des Mobilités dans le quartier Matabiau, sur l&amp;#x27;emplacement de l&amp;#x27;ancienne Tour d&amp;#x27;Argent (ex-siège SNCF) démolies en début d&amp;#x27;année. Ce bâtiment de 12 400 m², dont l&amp;#x27;architecture s&amp;#x27;inspire du Concorde, est conçu pour accueillir jusqu&amp;#x27;à 150 000 voyageurs par jour à l&amp;#x27;horizon 2032, soit trois fois la fréquentation actuelle de la gare. Il centralisera métro, bus, trains régionaux (RER toulousain) et la future LGV Bordeaux-Toulouse, faisant de Matabiau le principal nœud de transport de l&amp;#x27;aire urbaine. Le projet inclut également une vélostation de 1 600 m² pour 1 000 vélos, portée par Toulouse Métropole, ainsi que des espaces de bureaux.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails architecturaux, calendrier des travaux, superficie et équipements prévus&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-sera-le-concorde-du-rail-a-toulouse-quand-vont-debuter-les-travaux-de-la-halle-des-mobilites_64475904.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ce-sera-le-concorde-du-rail-a-toulouse-quand-vont-debuter-les-travaux-de-la-halle-des-mobilites_64475904.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Région Occitanie s'apprête à lancer les travaux de la Halle des Mobilités dans le quartier Matabiau, sur l'emplacement de l'ancienne Tour d'Argent (ex-siège SNCF) démolies en début d'année. Ce bâtiment de 12 400 m², dont l'architecture s'inspire du Concorde, est conçu pour accueillir jusqu'à 150 000 voyageurs par jour à l'horizon 2032, soit trois fois la fréquentation actuelle de la gare. Il centralisera métro, bus, trains régionaux (RER toulousain) et la future LGV Bordeaux-Toulouse, faisant de Matabiau le principal nœud de transport de l'aire urbaine. Le projet inclut également une vélostation de 1 600 m² pour 1 000 vélos, portée par Toulouse Métropole, ainsi que des espaces de bureaux.</summary>
+    <category term="news"/>
+    <published>2026-07-02T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c7c6a1e1-da98-46fa-bcf2-2f472f6c025f</id>
+    <title>Coupe du monde : couvre-feu et fan zone prévus à Toulouse</title>
+    <updated>2026-07-02T06:20:52.062121+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Pour le 16e de finale France-Suède du mardi 30 juin, la mairie de Toulouse a instauré un couvre-feu de 22h à 5h pour les moins de 16 ans non accompagnés d&amp;#x27;un responsable légal, dans un périmètre couvrant l&amp;#x27;hypercentre, les allées Jean-Jaurès et les quartiers Bonnefoy et Marengo. Ce dispositif, justifié par l&amp;#x27;horaire tardif du match (23h), fait suite aux débordements observés après la victoire du PSG en Ligue des Champions. La France ayant éliminé la Suède (3-0), la mairie confirme l&amp;#x27;ouverture d&amp;#x27;une fan zone à partir du quart de finale — conditionnée à la qualification des Bleus —, avec trois dates potentielles : le 9 juillet, le 14 juillet et le 19 juillet. Contrairement aux éditions précédentes, la fan zone ne sera pas installée à la Prairie des Filtres, et sa capacité d&amp;#x27;accueil reste à préciser.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article se concentre sur le couvre-feu avant le match France-Suède ; le second, publié au lendemain de la victoire, élargit la perspective avec les détails de la fan zone et le calendrier des prochains matchs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Détails du couvre-feu pour le 16e de finale et justification de la mairie&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Organisation de la fan zone et calendrier complet des prochains matchs de la France&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/a-toulouse-le-couvre-feu-pour-les-mineurs-sera-applique-lors-du-match-de-coupe-du-monde-entre-la-france-et-la-suede_64476660.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-fan-zone-couvre-feu-ce-qui-est-prevu-a-toulouse-pour-les-prochains-matchs-de-la-france_64483375.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/a-toulouse-le-couvre-feu-pour-les-mineurs-sera-applique-lors-du-match-de-coupe-du-monde-entre-la-france-et-la-suede_64476660.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Pour le 16e de finale France-Suède du mardi 30 juin, la mairie de Toulouse a instauré un couvre-feu de 22h à 5h pour les moins de 16 ans non accompagnés d'un responsable légal, dans un périmètre couvrant l'hypercentre, les allées Jean-Jaurès et les quartiers Bonnefoy et Marengo. Ce dispositif, justifié par l'horaire tardif du match (23h), fait suite aux débordements observés après la victoire du PSG en Ligue des Champions. La France ayant éliminé la Suède (3-0), la mairie confirme l'ouverture d'une fan zone à partir du quart de finale — conditionnée à la qualification des Bleus —, avec trois dates potentielles : le 9 juillet, le 14 juillet et le 19 juillet. Contrairement aux éditions précédentes, la fan zone ne sera pas installée à la Prairie des Filtres, et sa capacité d'accueil reste à préciser.</summary>
+    <category term="news"/>
+    <published>2026-06-30T16:27:57+02:00</published>
   </entry>
 </feed>
