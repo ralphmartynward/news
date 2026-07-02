@@ -8,7 +8,7 @@ from typing import Any
 from anthropic import Anthropic
 
 MODEL = "claude-sonnet-4-6"
-MAX_TOKENS = 1024
+MAX_TOKENS = 1500
 EXCERPT_CHARS = 1500
 PROMPT_PATH = Path("prompts/synthesise.md")
 
@@ -100,6 +100,7 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
     ig_caption = (data.get("ig_caption") or None)
     ig_hashtags_raw = data.get("ig_hashtags")
     ig_hashtags = json.dumps(ig_hashtags_raw, ensure_ascii=False) if ig_hashtags_raw else None
+    ig_mention_raw = (data.get("ig_mention") or "").strip().lstrip("@") or None
 
     return {
         "title": title,
@@ -112,6 +113,7 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
         "event_name": event_name,
         "ig_caption": ig_caption,
         "ig_hashtags": ig_hashtags,
+        "ig_mention": ig_mention_raw,
     }
 
 

@@ -114,28 +114,49 @@ def _build_weekend_caption(events: list[dict[str, Any]], sat_str: str, sun_str: 
     return "\n".join(lines)
 
 
+_BASE_TAGS = ["toulouse", "lavillerose", "toulouse2026", "actutoulouse", "sortiraToulouse"]
+
+
 def _build_caption(cluster: dict[str, Any]) -> str:
     import json as _json
     title      = cluster.get("title", "")
     ig_caption = cluster.get("ig_caption") or ""
+    ig_mention = (cluster.get("ig_mention") or "").strip().lstrip("@")
+    venue      = (cluster.get("venue") or "").strip()
+
     if not ig_caption:
         summary = cluster.get("summary", "")
         ig_caption = (summary.split(". ")[0].rstrip(".") + ".") if summary else ""
 
-    # Hashtags: use Claude-generated ones, fall back to generic
+    # Hashtags: Claude-generated first, then base tags — deduped, capped at 30
     raw = cluster.get("ig_hashtags")
     try:
-        tags = _json.loads(raw) if isinstance(raw, str) else (raw or [])
+        claude_tags = _json.loads(raw) if isinstance(raw, str) else (raw or [])
     except Exception:
-        tags = []
-    if not tags:
-        tags = ["toulouse", "lavillerose", "actutoulouse"]
-    hashtag_str = " ".join(f"#{t.lstrip('#')}" for t in tags[:8])
+        claude_tags = []
+    seen: set[str] = set()
+    all_tags: list[str] = []
+    for t in claude_tags + _BASE_TAGS:
+        t = t.lstrip("#").strip()
+        if t and t.lower() not in seen:
+            seen.add(t.lower())
+            all_tags.append(t)
+        if len(all_tags) >= 30:
+            break
+    if not all_tags:
+        all_tags = _BASE_TAGS[:]
+    hashtag_str = " ".join(f"#{t}" for t in all_tags)
+
+    # Location line: specific venue when known
+    location_str = (f"📍 {venue} · Toulouse · news.lavillerose.com"
+                    if venue else "📍 Toulouse · news.lavillerose.com")
 
     lines = [title]
     if ig_caption and ig_caption != title:
         lines += ["", ig_caption]
-    lines += ["", "📍 Toulouse · news.lavillerose.com", "", hashtag_str]
+    if ig_mention:
+        lines += ["", f"@{ig_mention}"]
+    lines += ["", location_str, "", hashtag_str]
     return "\n".join(lines)
 
 

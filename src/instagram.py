@@ -770,6 +770,10 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
                 "cluster_id": cid, "format": "post", "source": source,
                 "category": cl.get("category"), "title": cl.get("title"),
                 "image_url": cl.get("image_url"), "file": filename,
+                "ig_caption":  cl.get("ig_caption"),
+                "ig_hashtags": cl.get("ig_hashtags"),
+                "ig_mention":  cl.get("ig_mention"),
+                "venue": _venue_from_caption(cl.get("ig_caption") or "") or _extract_venue(cl.get("summary") or ""),
             })
         except Exception as e:
             print(f"  instagram: FAILED {cid} — {type(e).__name__}: {e}")
