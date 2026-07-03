@@ -4,7 +4,8 @@ Run AFTER the daily digest has been committed and GitHub Pages has deployed,
 so that the image URLs are publicly accessible when Instagram fetches them.
 
 Usage:
-    python -m src.instagram_post
+    python -m src.instagram_post                  # post everything for today
+    IG_CAROUSEL_ONLY=1 python -m src.instagram_post  # weekend carousel only
 """
 from __future__ import annotations
 
@@ -22,6 +23,7 @@ SITE_BASE = "https://news.lavillerose.com"
 def main() -> None:
     ig_token   = os.environ.get("IG_ACCESS_TOKEN", "").strip()
     ig_user_id = os.environ.get("IG_USER_ID", "").strip()
+    carousel_only = os.environ.get("IG_CAROUSEL_ONLY", "").strip() == "1"
 
     if not (ig_token and ig_user_id):
         print("instagram_post: skipped (IG_ACCESS_TOKEN / IG_USER_ID not set)")
@@ -55,19 +57,20 @@ def main() -> None:
     today_weekday = now.weekday()  # 4=Fri, 5=Sat
     ig_dir        = INSTAGRAM_DIR / today_slug
 
-    manifest = ig_dir / "manifest.json"
-    if manifest.exists():
-        ig_post(manifest, ig_user_id, ig_token, base_url=SITE_BASE)
-    else:
-        print(f"instagram_post: no manifest at {manifest}")
+    if not carousel_only:
+        manifest = ig_dir / "manifest.json"
+        if manifest.exists():
+            ig_post(manifest, ig_user_id, ig_token, base_url=SITE_BASE)
+        else:
+            print(f"instagram_post: no manifest at {manifest}")
 
-    today_events_manifest = ig_dir / "today_events_manifest.json"
-    if today_events_manifest.exists():
-        ig_post(today_events_manifest, ig_user_id, ig_token, base_url=SITE_BASE)
-    else:
-        print(f"instagram_post: no today_events_manifest at {today_events_manifest}")
+        today_events_manifest = ig_dir / "today_events_manifest.json"
+        if today_events_manifest.exists():
+            ig_post(today_events_manifest, ig_user_id, ig_token, base_url=SITE_BASE)
+        else:
+            print(f"instagram_post: no today_events_manifest at {today_events_manifest}")
 
-    if today_weekday in (4, 5):
+    if today_weekday in (4, 5) or carousel_only:
         weekend_manifest = ig_dir / "weekend_manifest.json"
         if weekend_manifest.exists():
             ig_weekend(weekend_manifest, ig_user_id, ig_token, base_url=SITE_BASE)
