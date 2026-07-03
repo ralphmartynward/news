@@ -3605,27 +3605,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/depart-des-joueurs-diffusion-s
  .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Festival de Toulouse\, finale Top 14\, vide-greniers : le guide du 
- week-end
-DESCRIPTION:Ce week-end à Toulouse est particulièrement chargé : la 5e 
- édition du Festival de Toulouse démarre avec une programmation mêlant c
- lassique et variété (Calogero\, Axelle Red\, Pomme\, Michel Plasson) à 
- la Halle aux Grains et à l'Auditorium Saint-Pierre-des-Cuisines\, du 30 j
- uin au 11 juillet 2026. La finale du Top 14 opposant le Stade Toulousain 
- à Montpellier sera retransmise sur écran géant place du Capitole samedi
-  soir dès 19h\, avec un dispositif de sécurité renforcé et la place fe
- rmée dès 16h. Les\n\nSource\: https://www.toulouscope.fr/2026/06/25/le-t
- op-10-des-festivals-de-lete-a-ne-pas-manquer-a-toulouse-et-alentours-13433
- 060.php
-LOCATION:Halle aux Grains\, Toulouse
-URL:https://www.toulouscope.fr/2026/06/25/le-top-10-des-festivals-de-lete-a
- -ne-pas-manquer-a-toulouse-et-alentours-13433060.php?utm_source=ical&utm_m
- edium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:05c05bad-2a85-4a2e-b236-52fa34e1097a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
@@ -3783,6 +3762,27 @@ DESCRIPTION:Actu Toulouse propose une sélection de sept expositions à dé
 URL:https://actu.fr/occitanie/toulouse_31555/mister-freeze-joaquin-sorolla-
  les-expositions-a-ne-pas-manquer-cet-ete-a-toulouse_64454404.html?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260712
+SUMMARY:Festival de Toulouse
+DESCRIPTION:Le Festival de Toulouse lance sa cinquième édition du 30 juin
+  au 11 juillet 2026\, avec une programmation mêlant musique classique et 
+ pop à la Halle aux Grains (première fois) et à l'Auditorium Saint-Pierr
+ e-des-Cuisines. Les temps forts incluent le retour de Michel Plasson à la
+  tête de l'Orchestre national du Capitole (Berlioz\, Debussy\, Ravel)\, C
+ alogero le 3 juillet\, Axelle Red le 4 et Pomme le 5 — plusieurs concert
+ s sont déjà complets. Nouveauté de cette édition : la création d'un O
+ rchestre du F\n\nSource\: https://actu.fr/occitanie/toulouse_31555/petits-
+ prix-et-bonnes-affaires-voici-notre-selection-des-vide-greniers-a-toulouse
+ -et-aux-alentours-pour-le-week-end_64461072.html
+LOCATION:Halle aux Grains (première fois)\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/petits-prix-et-bonnes-affaires
+ -voici-notre-selection-des-vide-greniers-a-toulouse-et-aux-alentours-pour-
+ le-week-end_64461072.html?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:72614cde-00a3-4623-9c02-a067dcb63290@news.lavillerose.com
@@ -3966,6 +3966,23 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-02#45389?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d310c9e5-f446-46a9-b49c-e95b68333023@news.lavillerose.com
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260706
+SUMMARY:Eden Park WateRugby
+DESCRIPTION:Du 2 au 5 juillet 2026\, le WateRugby investit le port de la Da
+ urade à Toulouse pour sa huitième édition\, sur le thème des années 8
+ 0. Le principe : du rugby à toucher sur des terrains flottants\, où l'on
+  marque en plongeant dans la Garonne — sans touche ni en-but. Plus de 1 
+ 500 joueurs et joueuses sont attendus\, répartis sur quatre jours de comp
+ étition allant des tournois étudiants et entreprises aux rencontres gran
+ d public. Temps fort du week-end\, le tournoi « Eau'll Star » réunira u
+ ne cinquantai\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+ 26-07-02#45386
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-02#45386?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:da3fe171-5128-4c59-a39b-31487b1ea6f8@news.lavillerose.com
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260830
@@ -3982,6 +3999,40 @@ DESCRIPTION:La base nautique et de loisirs du lac de la Reynerie est ouvert
 LOCATION:lac de la Reynerie est ouverte gratuitement du 2 juil\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-02#45387?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1132a4c8-5694-4a58-997b-118a8e702bce@news.lavillerose.com
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Worakls
+DESCRIPTION:Le producteur et compositeur Worakls se produira au Poney Club\
+ , situé à l'aéroport de Toulouse-Blagnac\, le jeudi 2 juillet à partir
+  de 18h. La soirée s'inscrit dans le registre électro\, un genre pour le
+ quel Worakls est reconnu à l'échelle internationale. L'entrée est fixé
+ e à 29\,50 €. L'événement s'adresse aux amateurs de musique électron
+ ique de la région toulousaine.\n\nSource\: https://www.clutchmag.fr/evene
+ ments#2026-07-02-jeudi-2-juillet-0
+URL:https://www.clutchmag.fr/evenements#2026-07-02-jeudi-2-juillet-0?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f5274cb9-3f65-4336-9d44-79949808ed4d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260712
+SUMMARY:Festival de Toulouse
+DESCRIPTION:Le Festival de Toulouse propose 12 soirées d'exception jusqu'a
+ u 11 juillet\, ouvertes aussi bien aux familles qu'aux groupes d'amis. La 
+ programmation éclectique mêle musique classique\, pop\, jazz et musiques
+  de films\, offrant une diversité de genres rare en un seul événement. 
+ Le festival se présente comme un rendez-vous estival incontournable pour 
+ les mélomanes toulousains. Les détails sur les lieux précis\, les horai
+ res et la billetterie ne sont pas précisés dans l'extrait disponible.\n\
+ nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?
+ email_id=aa170484-9248-4940-b092-43997f3944b3&url_id=95c8d401-630e-411f-b0
+ fd-116f2b8b3aed
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=aa170484-9248-4940-b092-43997f3944b3&url_id=95c8d401-630e-411f-b0fd-116f
+ 2b8b3aed?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:bfcbe71a-40c5-4d54-9b98-0445eb177125@news.lavillerose.com
@@ -4075,6 +4126,91 @@ URL:https://www.toulouscope.fr/2026/06/30/harry-potter-ce-week-end-un-spect
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:29f70633-9100-4b0e-9d02-969e585d6d1f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261101
+SUMMARY:Survivre à Auschwitz
+DESCRIPTION:L'exposition temporaire « Survivre à Auschwitz » est présen
+ tée au musée départemental de la Résistance et de la Déportation de T
+ oulouse jusqu'au 31 octobre. Elle retrace le parcours de 16 rescapés fran
+ çais du camp d'extermination nazi\, à partir d'une photographie prise pe
+ u après la libération du camp en février 1945. Ce cliché\, conservé a
+ u Mémorial de la Shoah\, montrait onze femmes et cinq hommes jusqu'alors 
+ anonymes\, réunis sous la bannière du Parti communiste français. Après
+  quatre ans d'enquê\n\nSource\: https://www.lessentiel.fr/newsletter/toul
+ ouse/2026-07-03#45520
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-03#45520?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4768c922-20c4-4e89-b375-065acc2584d0@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Convivencia
+DESCRIPTION:Le festival Convivencia propose une soirée gratuite le vendred
+ i 3 juillet au Port de l'Embouchure à Toulouse. Mouss et Hakim\, duo embl
+ ématique des Motivés issu de Zebda\, seront à l'affiche avec des guests
+  encore non précisés. Le concert commence à 19h et l'entrée est gratui
+ te\, ce qui en fait un événement accessible à tous. L'information est s
+ uccincte et ne détaille pas le programme complet ni les artistes invités
+ .\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-02-vendredi-3-ju
+ illet-1
+URL:https://www.clutchmag.fr/evenements#2026-07-02-vendredi-3-juillet-1?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:91ccb069-da96-4468-b894-e75c1f844844@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:MÎRKUT
+DESCRIPTION:Le groupe MÎRKUT se produit au Centre culturel Bonnefoy le ven
+ dredi 3 juillet à 21h\, pour un concert de rock psychédélique kurde. L'
+ entrée est gratuite\, ce qui en fait une soirée accessible à tous les c
+ urieux. Ce style musical rare mêle les sonorités et traditions kurdes à
+  l'énergie du rock psychédélique. Un rendez-vous à noter pour les amat
+ eurs de musiques du monde et de rock alternatif.\n\nSource\: https://www.c
+ lutchmag.fr/evenements#2026-07-02-vendredi-3-juillet-2
+URL:https://www.clutchmag.fr/evenements#2026-07-02-vendredi-3-juillet-2?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a6d9e7bf-8e26-4513-997a-f6b9a273114b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Flash Back 2.0
+DESCRIPTION:La Voile Blanche\, complexe festif de la zone de Sesquières à
+  Toulouse\, inaugure pour l'été 2026 un nouveau concept de soirées à t
+ hème intitulé Flash Back 2.0\, centré sur les hits des années 1990 et 
+ 2000. L'ambition affichée est de mêler nostalgie et modernité\, en réu
+ nissant toutes les générations autour de la pop\, du R&B\, du rap\, de l
+ a dance et des musiques caribéennes. Quatre dates sont prévues sur l'ens
+ emble de la saison estivale\, avec une première soirée programmée le ve
+ ndredi 3 juillet 2026 \n\nSource\: https://actu.fr/occitanie/toulouse_3155
+ 5/annees-90-et-2000-cet-etablissement-culte-de-toulouse-va-vous-faire-remo
+ nter-le-temps-cet-ete_64486588.html
+URL:https://actu.fr/occitanie/toulouse_31555/annees-90-et-2000-cet-etabliss
+ ement-culte-de-toulouse-va-vous-faire-remonter-le-temps-cet-ete_64486588.h
+ tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:dcb77ad7-5f73-4d47-8839-3dd2b3b19dce@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260705
+SUMMARY:Faites de l'Image
+DESCRIPTION:Le festival Faites de l'Image\, porté par l'association Les Vi
+ déophages\, revient pour sa 25e édition les 3 et 4 juillet au Parc de la
+  Poudrerie sur l'Île du Ramier. Sous le thème « Quand mon cœur fait bo
+ um ! »\, plus de 40 projets portés par 56 artistes sont au programme : i
+ nstallations audiovisuelles\, ciné-concerts\, expositions\, ateliers et p
+ erformances graphiques\, le tout en plein air et sous les étoiles. Les jo
+ urnées débutent dès 16h-18h avec des ateliers tout public et familles (
+ collages\, tech\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-02
+ -vendredi-3-juillet-0
+LOCATION:Parc de la Poudrerie sur l'Île du Ramier\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-07-02-vendredi-3-juillet-0?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:148f61ad-4cc9-4205-817a-f17e1a2b6e1d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260719
@@ -4134,6 +4270,138 @@ URL:https://actu.fr/occitanie/toulouse_31555/a-quoi-ressemblent-les-station
  s-de-la-ligne-c-du-metro-de-toulouse-decouvrez-le-grace-a-une-visite-excep
  tionnelle_64440238.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
  oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:153097ed-9340-442b-99fe-bf2575616a50@news.lavillerose.com
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Les Arts'Scenics
+DESCRIPTION:Le festival Les Arts'Scenics se tient le samedi 4 juillet à Li
+ sle-sur-Tarn\, à proximité de Toulouse. La programmation affiche deux ar
+ tistes de renom : le rappeur Youssoupha et la chanteuse algérienne Souad 
+ Massi. Les portes ouvrent à 17h pour une soirée musicale aux influences 
+ variées\, entre rap francophone et folk méditerranéen. Le billet est ta
+ rifé à 45 €.\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-0
+ 2-samedi-4-juillet-0
+URL:https://www.clutchmag.fr/evenements#2026-07-02-samedi-4-juillet-0?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:66ea8cfb-bde1-4e89-b2e5-7dd8326cf968@news.lavillerose.com
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Festival TangoPostale
+DESCRIPTION:Le Festival TangoPostale propose une soirée intitulée « Quan
+ d Barbara rencontre Carlos Gardel »\, mêlant tango et poésie. L'événe
+ ment se tient à la Salle du Sénéchal le samedi 4 juillet à 18h30. L'en
+ trée est fixée à 12 €. Le programme laisse entrevoir une rencontre ar
+ tistique entre l'univers de la chanteuse française Barbara et celui du gr
+ and maître argentin du tango Carlos Gardel\, bien que le détail des arti
+ stes ou interprètes ne soit pas précisé dans la source.\n\nSource\: htt
+ ps://www.clutchmag.fr/evenements#2026-07-02-samedi-4-juillet-2
+LOCATION:Salle du Sénéchal le samedi 4 juillet\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-07-02-samedi-4-juillet-2?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:965d540a-0f88-47a8-beff-ca55efb1326e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260706
+SUMMARY:Faites de l'image
+DESCRIPTION:Le festival Faites de l'image investit un écrin de verdure tou
+ lousain les samedi 4 et dimanche 5 juillet 2026. Au programme : installati
+ ons\, performances\, expositions et ciné-concerts en plein air\, pour pet
+ its et grands. L'événement mise sur une programmation foisonnante et imm
+ ersive\, conçue aussi bien pour une sortie en famille qu'entre amis. Aucu
+ ne précision supplémentaire sur les horaires ou le lieu exact n'est four
+ nie dans l'extrait disponible.\n\nSource\: https://cdt31.tourinsoft.com/Ma
+ ilingElectroniqueUrlTracker.ashx?email_id=aa170484-9248-4940-b092-43997f39
+ 44b3&url_id=3e9b0476-749d-4594-94c3-4c417713ef14
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=aa170484-9248-4940-b092-43997f3944b3&url_id=3e9b0476-749d-4594-94c3-4c41
+ 7713ef14?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b4fd0da8-a63a-4f3e-b71a-81b4ac421f7e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Grand Bal Hip Hop LDanse
+DESCRIPTION:La compagnie LDanse fête ses 20 ans avec un grand bal hip-hop 
+ à la Salle des Fêtes de Ramonville-Saint-Agne\, le samedi 4 juillet à p
+ artir de 16h30. L'événement est ouvert à tous\, avec une entrée entre 
+ 10 et 15 euros. Il s'agit d'une soirée festive et participative autour de
+  la culture hip-hop\, marquant deux décennies d'activité pour la structu
+ re. Les amateurs de danse et de hip-hop de Toulouse et de sa périphérie 
+ sud sont particulièrement concernés.\n\nSource\: https://www.clutchmag.f
+ r/evenements#2026-07-02-samedi-4-juillet-1
+LOCATION:Salle des Fêtes de Ramonville-Saint-Agne\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-07-02-samedi-4-juillet-1?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d1b8576b-35a4-4919-8407-df175fb74e2b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260713
+SUMMARY:La ligne T1 du tramway à l'arrêt complet pendant neuf jours
+DESCRIPTION:Tisséo annonce l'interruption totale de la ligne T1 du tramway
+  toulousain du samedi 4 au dimanche 12 juillet 2026 inclus. Un bus relais 
+ baptisé T1' desservira l'ensemble des arrêts entre Palais de Justice et 
+ MEETT (sauf l'Hippodrome)\, avec une fréquence de 15 minutes en semaine e
+ t 20 minutes le dimanche. La ligne 31' sera prolongée jusqu'aux Arènes p
+ our assurer la connexion vers l'Aéroport toutes les 10 minutes\, tandis q
+ ue les lignes desservant Blagnac et la Navette Aéroport circulent normale
+ men\n\nSource\: https://actu.fr/occitanie/toulouse_31555/toulouse-pourquoi
+ -le-tramway-va-etre-completement-a-l-arret-pendant-neuf-jours_64481900.htm
+ l
+LOCATION:Palais de Justice\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/toulouse-pourquoi-le-tramway-v
+ a-etre-completement-a-l-arret-pendant-neuf-jours_64481900.html?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2f414461-2f0f-4e17-a2b9-8cbd3f569244@news.lavillerose.com
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Bosio DJ Set
+DESCRIPTION:Le Mama Shelter Toulouse accueille Bosio pour un DJ set le dima
+ nche 5 juillet à partir de 21h. L'entrée est gratuite. L'information pro
+ vient d'une courte annonce sans détails supplémentaires sur le style mus
+ ical ou le profil de l'artiste. L'événement s'adresse à tous ceux qui s
+ ouhaitent sortir en début de semaine sans frais.\n\nSource\: https://www.
+ clutchmag.fr/evenements#2026-07-02-dimanche-5-juillet-2
+URL:https://www.clutchmag.fr/evenements#2026-07-02-dimanche-5-juillet-2?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7a059ce8-ad7a-421f-b5b9-cc8f4a91a8da@news.lavillerose.com
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Markus et Mathis
+DESCRIPTION:Le duo Markus et Mathis se produit à L'Ephémère Guinguette 
+ à Lacroix-Falgarde le dimanche 5 juillet à partir de 18h30. Le concert e
+ st gratuit et s'inscrit dans le registre de la chanson. L'Ephémère Guing
+ uette est un lieu festif en bord de rivière au sud de Toulouse\, prisé p
+ our ses événements estivaux en plein air. Un rendez-vous accessible à t
+ ous pour profiter d'une soirée musicale conviviale.\n\nSource\: https://w
+ ww.clutchmag.fr/evenements#2026-07-02-dimanche-5-juillet-1
+URL:https://www.clutchmag.fr/evenements#2026-07-02-dimanche-5-juillet-1?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ea9d4e57-e756-4f4e-885d-9e51d8457dca@news.lavillerose.com
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Pomme – Festival de Toulouse
+DESCRIPTION:La chanteuse Pomme se produira à la Halle aux Grains de Toulou
+ se le dimanche 5 juillet dans le cadre du Festival de Toulouse. Le concert
+ \, classé chanson et pop\, débutera à 18h. Les billets sont disponibles
+  entre 34\,7 et 69\,7 €. L'événement s'adresse aux amateurs de pop fra
+ nçaise intimiste dans l'une des salles de concerts les plus emblématique
+ s de la ville.\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-02-
+ dimanche-5-juillet-0
+LOCATION:Halle aux Grains de Toulouse le dimanche 5 juillet d\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-07-02-dimanche-5-juillet-0?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed@news.lavillerose.com
@@ -4326,6 +4594,25 @@ DESCRIPTION:Le festival Mister Freeze propose une exposition immersive à T
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=92bb2683-ec5e-46fe-b516-4f0f91d3eef9&url_id=65d738f3-73c7-4108-a290-37ed
  1fff0a1a?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:224e4315-6b5a-4ffd-9913-62a990477fb2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260803
+SUMMARY:Tempo Latino 2026
+DESCRIPTION:Du 30 juillet au 2 août 2026\, le festival Tempo Latino invest
+ it Vic-Fezensac pour sa 31e édition sous le thème « Kaléidoscopic' 202
+ 6 »\, axé sur des rencontres musicales inattendues et des collaborations
+  improvisées. La programmation mêle figures de la cumbia\, du jazz latin
+  et de la salsa : La Yegros ouvre les festivités le jeudi\, tandis que To
+ ny Succar clôture avec un projet hommage à Michael Jackson en exclusivit
+ é européenne. Entre ces têtes d'affiche\, Matt Bianco\, Rogê\, Alfredo
+  Rodriguez\, Maït\n\nSource\: https://www.toulouscope.fr/2026/07/02/tempo
+ -latino-la-musique-des-caraibes-fait-vibrer-vic-fezensac-pendant-4-jours-1
+ 3313846.php
+URL:https://www.toulouscope.fr/2026/07/02/tempo-latino-la-musique-des-carai
+ bes-fait-vibrer-vic-fezensac-pendant-4-jours-13313846.php?utm_source=ical&
+ utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:559c6ef3-447a-42f7-b07c-ef6c0ad60cac@news.lavillerose.com
