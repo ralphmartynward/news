@@ -188,16 +188,19 @@ _VENUE_RE = re.compile(
     r"bibliothèques?|maisons?|musées?|cinémas?|théâtres?|chapelles?)"
     # Optional article/preposition before proper name
     r"(?:\s+(?i:de\s+la|de\s+l\w*|d'\w*|du|de)\s*)?"
-    # Proper name: 1+ capitalized words (case-sensitive), connectors allowed between
-    r"\s*[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][a-zàâéèêëîïôùûç]+(?:\s+(?:[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][a-zàâéèêëîïôùûç]+|de|du|la|le|les|l'))*",
+    # Proper name: capitalized words with optional hyphens (Saint-Pierre, Lacroix-Falgarde)
+    r"\s*[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][a-zàâéèêëîïôùûç]+(?:-[A-ZÀ-ÿa-zà-ÿ][a-zàâéèêëîïôùûç]*)?"
+    r"(?:\s+(?:[A-ZÀÂÉÈÊËÎÏÔÙÛÇ][a-zàâéèêëîïôùûç]+(?:-[A-Za-zÀ-ÿ][a-zàâéèêëîïôùûç]*)?|de|du|la|le|les|l'))*",
     re.UNICODE,
 )
 
-# Locative prepositions in French — used to extract venue from AI-generated ig_caption
+# Locative prepositions — case-sensitive so 'dans le ciel' (lowercase) doesn't match.
+# 'dans la/le' removed: too ambiguous ('dans le ciel', 'dans la ville').
+# Stop-word lookahead trims trailing 'pour les fans', 'avec entrée libre', etc.
 _CAPTION_VENUE_RE = re.compile(
-    r"\b(?:au|chez|à\s+la|à\s+l[''e]\s*|dans\s+la|dans\s+le|dans\s+l[''e]\s*)\s+"
-    r"(.+?)(?:\s*[,!?]|$)",
-    re.IGNORECASE | re.MULTILINE | re.UNICODE,
+    r"\b(?:au|chez|à\s+la|à\s+l[''e]\s*)\s+"
+    r"([A-ZÀÂÉÈÊËÎÏÔÙÛÇ][^,\.\n!?]*?)(?=\s+(?:pour|avec|lors|où|dont|afin|qui\s+[a-z])|[,\.\n!?]|$)",
+    re.MULTILINE | re.UNICODE,
 )
 
 
@@ -210,17 +213,18 @@ def _extract_venue(summary: str) -> str:
 
 
 def _venue_from_caption(ig_caption: str) -> str:
-    """Extract venue from the AI-generated ig_caption via locative prepositions.
+    """Extract venue from the AI-generated ig_caption.
 
-    Claude writes the venue naturally into ig_caption ('au Mama Shelter',
-    'à la médiathèque d'Empalot', 'à la Cité de l'espace'), so parsing
-    the locative phrase gives a more accurate result than regex on the summary.
+    Priority:
+    1. Locative preposition + uppercase proper name ('au Stadium', 'à la Halle aux Grains')
+    2. Venue-type keyword anywhere in the caption ('médiathèque d'Empalot', 'place Saint-Pierre')
     """
     for line in (ig_caption or "").split("\n"):
         m = _CAPTION_VENUE_RE.search(line.strip())
         if m:
             return m.group(1).strip()[:55]
-    return ""
+    # Try venue-keyword regex on the full caption text
+    return _extract_venue(ig_caption or "")
 
 def _segment_title(title: str, event_name: str | None = None) -> list[tuple[str, tuple]]:
     """Assign colours to words.
@@ -850,11 +854,13 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
         print(f"instagram weekend: no events found for {sat} - {sun}")
         return []
 
-    # Prioritize events that have a usable image so imageless slides don't displace them
-    events_with_img = [e for e in events if _good_image_url(e.get("image_url"))]
-    events_no_img   = [e for e in events if not _good_image_url(e.get("image_url"))]
-    events = events_with_img + events_no_img
-    print(f"instagram weekend: {len(events_with_img)} with image, {len(events_no_img)} without")
+    # Only include events that have a usable image — no blank slides
+    all_count = len(events)
+    events = [e for e in events if _good_image_url(e.get("image_url"))]
+    print(f"instagram weekend: {len(events)}/{all_count} events have images")
+    if not events:
+        print(f"instagram weekend: no events with images for {sat} - {sun}, skipping carousel")
+        return []
 
     out_dir.mkdir(parents=True, exist_ok=True)
     slides: list[dict[str, Any]] = []
