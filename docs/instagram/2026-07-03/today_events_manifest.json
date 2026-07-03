@@ -1,11 +1,38 @@
 [
   {
-    "cluster_id": "cluster:bd6fbd62-b03e-4e5b-9a09-ae302597e5b2",
+    "cluster_id": "cluster:123d56b4-316d-4578-b8b5-4f44261b2514",
     "format": "story",
-    "source": "toulouscope",
+    "source": "office_tourisme",
     "category": "event",
-    "title": "La Halle de la Machine dévoile un programme estival riche et varié",
-    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a429a9134847ad6e60b7be8/hd/image.jpg?v=1",
-    "file": "cluster_bd6fbd62-b03e-4e5b-9a09-ae302597e5b2_event_story.jpg"
+    "title": "Tangopostale : 10 jours de tango argentin à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-TANGO-POSTALE.jpg",
+    "file": "cluster_123d56b4-316d-4578-b8b5-4f44261b2514_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:2d3b10fb-830d-42d7-9cbd-428dc10418dd",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Halle day long : un été de machines et merveilles jusqu'au 30 août",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-HALLE-DAY-LONG.jpg",
+    "file": "cluster_2d3b10fb-830d-42d7-9cbd-428dc10418dd_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:6311fc33-4a2e-4fa8-9099-0f48db36a5bf",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Grand Fénétra célèbre danses et musiques du monde à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-FETES-DU-FENETRA.jpg",
+    "file": "cluster_6311fc33-4a2e-4fa8-9099-0f48db36a5bf_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:8604e0eb-2eda-413d-bc94-7b82877a3fca",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Bal des Pompiers à Toulouse Atlanta le 3 juillet",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-BAL-DES-POMPIERS.jpg",
+    "file": "cluster_8604e0eb-2eda-413d-bc94-7b82877a3fca_event_story.jpg"
   }
 ]
