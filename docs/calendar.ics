@@ -4128,7 +4128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:29f70633-9100-4b0e-9d02-969e585d6d1f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20260704
 SUMMARY:Survivre à Auschwitz
 DESCRIPTION:L'exposition temporaire « Survivre à Auschwitz » est présen
  tée au musée départemental de la Résistance et de la Déportation de T
@@ -4209,6 +4209,28 @@ DESCRIPTION:Le festival Faites de l'Image\, porté par l'association Les Vi
 LOCATION:Parc de la Poudrerie sur l'Île du Ramier\, Toulouse
 URL:https://www.clutchmag.fr/evenements#2026-07-02-vendredi-3-juillet-0?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:bd6fbd62-b03e-4e5b-9a09-ae302597e5b2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260901
+SUMMARY:Programme été Halle de la Machine
+DESCRIPTION:La Halle de la Machine propose un programme chargé jusqu'à fi
+ n août 2026\, avec des concerts gratuits\, des soirées guinguette\, des 
+ contes pour enfants et des voyages à dos de Minotaure sur la Piste des G
+ éants. Clou du programme\, l'Aéroflorale II — une serre volante de 15 
+ mètres de haut — est installée sur le site pour toute l'année 2026 et
+  accueille une exposition immersive autour de botanistes explorateurs fict
+ ifs. Les Véritables Machinistes y narrent les aventures de chercheurs à 
+ la quête de vé\n\nSource\: https://www.toulouscope.fr/2026/07/03/concert
+ s-gratuits-guinguette-contes-exposition-immersive-la-halle-de-la-machine-d
+ evoile-son-programme-de-lete-13443468.php
+LOCATION:Halle de la Machine propose un programme chargé jusqu'à\, Toulou
+ se
+URL:https://www.toulouscope.fr/2026/07/03/concerts-gratuits-guinguette-cont
+ es-exposition-immersive-la-halle-de-la-machine-devoile-son-programme-de-le
+ te-13443468.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:148f61ad-4cc9-4205-817a-f17e1a2b6e1d@news.lavillerose.com
@@ -4342,17 +4364,17 @@ BEGIN:VEVENT
 UID:cluster:d1b8576b-35a4-4919-8407-df175fb74e2b@news.lavillerose.com
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260713
-SUMMARY:La ligne T1 du tramway à l'arrêt complet pendant neuf jours
-DESCRIPTION:Tisséo annonce l'interruption totale de la ligne T1 du tramway
-  toulousain du samedi 4 au dimanche 12 juillet 2026 inclus. Un bus relais 
- baptisé T1' desservira l'ensemble des arrêts entre Palais de Justice et 
- MEETT (sauf l'Hippodrome)\, avec une fréquence de 15 minutes en semaine e
- t 20 minutes le dimanche. La ligne 31' sera prolongée jusqu'aux Arènes p
- our assurer la connexion vers l'Aéroport toutes les 10 minutes\, tandis q
- ue les lignes desservant Blagnac et la Navette Aéroport circulent normale
- men\n\nSource\: https://actu.fr/occitanie/toulouse_31555/toulouse-pourquoi
- -le-tramway-va-etre-completement-a-l-arret-pendant-neuf-jours_64481900.htm
- l
+SUMMARY:Ligne T1 à l'arrêt total neuf jours pour travaux à Toulouse
+DESCRIPTION:La ligne T1 du tramway de Toulouse sera entièrement interrompu
+ e du samedi 4 au dimanche 12 juillet 2026\, soit neuf jours consécutifs. 
+ Tisséo déploie un bus relais T1' desservant tous les arrêts entre Palai
+ s de Justice et MEETT (sauf l'Hippodrome)\, toutes les 15 minutes en semai
+ ne et toutes les 20 minutes le dimanche. La ligne 31' sera prolongée jusq
+ u'aux Arènes pour assurer la liaison vers l'aéroport toutes les 10 minut
+ es\, tandis que les lignes desservant Blagnac et la navette aéroport circ
+ ulent\n\nSource\: https://actu.fr/occitanie/toulouse_31555/toulouse-pourqu
+ oi-le-tramway-va-etre-completement-a-l-arret-pendant-neuf-jours_64481900.h
+ tml
 LOCATION:Palais de Justice\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/toulouse-pourquoi-le-tramway-v
  a-etre-completement-a-l-arret-pendant-neuf-jours_64481900.html?utm_source=

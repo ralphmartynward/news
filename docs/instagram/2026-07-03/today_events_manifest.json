@@ -1,101 +1,11 @@
 [
   {
-    "cluster_id": "cluster:0591310b-a6ce-4c0a-9147-79fd71e32692",
-    "format": "story",
-    "source": "actu_toulouse",
-    "category": "event",
-    "title": "Festival de Toulouse : 5e édition du 30 juin au 11 juillet",
-    "image_url": "https://static.actu.fr/uploads/2026/06/6fbbca0c1468643cbca0c146817cbcv.jpg",
-    "file": "cluster_0591310b-a6ce-4c0a-9147-79fd71e32692_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:39da6a99-01d7-4755-a98b-f8e061185038",
-    "format": "story",
-    "source": "actu_toulouse",
-    "category": "event",
-    "title": "Le festival Convivencia fête ses 30 ans à Toulouse, concerts gratuits",
-    "image_url": "https://static.actu.fr/uploads/2026/06/toulouse-convivencia-cmichelmahandran.jpg",
-    "file": "cluster_39da6a99-01d7-4755-a98b-f8e061185038_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:d310c9e5-f446-46a9-b49c-e95b68333023",
-    "format": "story",
-    "source": "lessentiel",
-    "category": "event",
-    "title": "L'Eden Park WateRugby revient pour sa 8e édition à la Daurade",
-    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/eden-park-waterugby1---kevin-carriere.jpg?h=cc7b5b71&itok=5f3gjPZm",
-    "file": "cluster_d310c9e5-f446-46a9-b49c-e95b68333023_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:f5274cb9-3f65-4336-9d44-79949808ed4d",
-    "format": "story",
-    "source": "office_tourisme",
-    "category": "event",
-    "title": "Le Festival de Toulouse : 12 soirées mêlant classique, jazz et pop",
-    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-FESTIVAL-DE-TOULOUSE.jpg",
-    "file": "cluster_f5274cb9-3f65-4336-9d44-79949808ed4d_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:7b7f6ae5-7ffa-419c-b835-091a85332493",
-    "format": "story",
-    "source": "lessentiel",
-    "category": "event",
-    "title": "Tangopostale : 10 jours de tango argentin à Toulouse",
-    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/expo--c-marie-hyvernaud---1.jpg?itok=R-87riG7",
-    "file": "cluster_7b7f6ae5-7ffa-419c-b835-091a85332493_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:8554de1a-85c5-4741-9090-3f0ea92dee0c",
+    "cluster_id": "cluster:bd6fbd62-b03e-4e5b-9a09-ae302597e5b2",
     "format": "story",
     "source": "toulouscope",
     "category": "event",
-    "title": "1 200 drones Harry Potter illuminent le ciel du Stadium",
-    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a436f419f0be47dbf02a790/hd/image.png?v=2",
-    "file": "cluster_8554de1a-85c5-4741-9090-3f0ea92dee0c_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:0b031bd2-1941-4788-92cc-1a13d1873c2e",
-    "format": "story",
-    "source": "lessentiel",
-    "category": "event",
-    "title": "L'Aria de Cornebarrieu présente sa saison culturelle 2025-2026",
-    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/touchee-par-les-fees--c-louie-salto.jpg?h=c209b716&itok=0nbG-AMO",
-    "file": "cluster_0b031bd2-1941-4788-92cc-1a13d1873c2e_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:29f70633-9100-4b0e-9d02-969e585d6d1f",
-    "format": "story",
-    "source": "lessentiel",
-    "category": "event",
-    "title": "Exposition : 16 rescapés d'Auschwitz enfin identifiés au musée",
-    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/les-deportes-du-groupe-francais-d-auschwitz-credit-memorial-de-la-shoah---mathieu-arnal.webp?itok=mQLiqNg9",
-    "file": "cluster_29f70633-9100-4b0e-9d02-969e585d6d1f_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:93698786-9225-4d85-a153-1ec7d6f19d30",
-    "format": "story",
-    "source": "lessentiel",
-    "category": "event",
-    "title": "La Corrida pédestre fête ses 25 ans avec un record d'inscrits",
-    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/lacorridapedestre2025-heleneressayres_13-1-scaled.jpg?h=2c69a7ac&itok=TpyX_Ces",
-    "file": "cluster_93698786-9225-4d85-a153-1ec7d6f19d30_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:a6d9e7bf-8e26-4513-997a-f6b9a273114b",
-    "format": "story",
-    "source": "actu_toulouse",
-    "category": "event",
-    "title": "La Voile Blanche lance les soirées Flash Back 2.0 cet été",
-    "image_url": "https://static.actu.fr/uploads/2026/07/soiree-la-voile-blanche-toulouse.jpg",
-    "file": "cluster_a6d9e7bf-8e26-4513-997a-f6b9a273114b_event_story.jpg"
-  },
-  {
-    "cluster_id": "cluster:dcb77ad7-5f73-4d47-8839-3dd2b3b19dce",
-    "format": "story",
-    "source": "clutch",
-    "category": "event",
-    "title": "Faites de l'Image fête sa 25e édition à l'Île du Ramier",
-    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/faitesdelimage2021-creditgeraldinevillemain--13-.jpg?h=86746b78&itok=2pd6Y7IT",
-    "file": "cluster_dcb77ad7-5f73-4d47-8839-3dd2b3b19dce_event_story.jpg"
+    "title": "La Halle de la Machine dévoile un programme estival riche et varié",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a429a9134847ad6e60b7be8/hd/image.jpg?v=1",
+    "file": "cluster_bd6fbd62-b03e-4e5b-9a09-ae302597e5b2_event_story.jpg"
   }
 ]
