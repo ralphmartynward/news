@@ -399,7 +399,11 @@ def load_calendar_events(conn: sqlite3.Connection) -> list[dict[str, Any]]:
 
 
 def load_weekend_events(conn: sqlite3.Connection, date_from: str, date_to: str) -> list[dict[str, Any]]:
-    """Event clusters with event_start between date_from and date_to (ISO dates)."""
+    """Event clusters that overlap with the weekend [date_from, date_to].
+
+    Includes multi-day events that started before the weekend but are still
+    running (e.g. a festival from July 2-11 appears in the July 4-5 carousel).
+    """
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_name,
                   c.ig_caption,
@@ -412,9 +416,14 @@ def load_weekend_events(conn: sqlite3.Connection, date_from: str, date_to: str) 
                    ORDER BY published_at LIMIT 1) AS image_url
            FROM clusters c
            WHERE c.category = 'event'
-             AND c.event_start >= ? AND c.event_start <= ?
+             AND c.event_start <= ?
+             AND (
+               (c.event_end IS NULL     AND c.event_start >= ?)
+               OR
+               (c.event_end IS NOT NULL AND c.event_end   >= ?)
+             )
            ORDER BY c.event_start""",
-        (date_from, date_to),
+        (date_to, date_from, date_from),
     ).fetchall()
     return [dict(r) for r in rows]
 

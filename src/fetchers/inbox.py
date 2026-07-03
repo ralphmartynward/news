@@ -305,7 +305,7 @@ _OT_SKIP_RE = re.compile(
     r"|/\*|\*/)",
     re.IGNORECASE,
 )
-_OT_MIN_DESC_LINES = 2  # skip events with fewer desc lines (section headers, stubs)
+_OT_MIN_DESC_LINES = 1  # skip events with no description lines (section headers)
 
 
 def _extract_officetourisme(
