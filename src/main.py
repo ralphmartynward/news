@@ -221,6 +221,7 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                     primary_url=primary["url"],
                     ig_caption=result.get("ig_caption"),
                     ig_hashtags=result.get("ig_hashtags"),
+                    venue=result.get("venue"),
                     ig_mention=result.get("ig_mention"),
                 )
                 cat_label = f"[{result['category']}] " if result["category"] else ""

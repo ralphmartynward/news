@@ -52,6 +52,7 @@ MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN ig_caption TEXT",
     "ALTER TABLE clusters ADD COLUMN ig_hashtags TEXT",
     "ALTER TABLE clusters ADD COLUMN ig_mention TEXT",
+    "ALTER TABLE clusters ADD COLUMN venue TEXT",
 ]
 
 
@@ -176,6 +177,7 @@ def upsert_cluster(
     primary_url: str | None = None,
     ig_caption: str | None = None,
     ig_hashtags: str | None = None,
+    venue: str | None = None,
     ig_mention: str | None = None,
 ) -> None:
     import json as _json
@@ -185,8 +187,8 @@ def upsert_cluster(
         """INSERT INTO clusters
            (cluster_id, title, summary, framing_note, read_for, category,
             event_start, event_end, event_name, primary_url, last_synthesised_at,
-            ig_caption, ig_hashtags, ig_mention)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ig_caption, ig_hashtags, venue, ig_mention)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
            ON CONFLICT(cluster_id) DO UPDATE SET
              title               = excluded.title,
              summary             = excluded.summary,
@@ -200,6 +202,7 @@ def upsert_cluster(
              last_synthesised_at = excluded.last_synthesised_at,
              ig_caption          = COALESCE(excluded.ig_caption, clusters.ig_caption),
              ig_hashtags         = COALESCE(excluded.ig_hashtags, clusters.ig_hashtags),
+             venue               = COALESCE(excluded.venue, clusters.venue),
              ig_mention          = COALESCE(excluded.ig_mention, clusters.ig_mention)""",
         (
             cluster_id,
@@ -215,6 +218,7 @@ def upsert_cluster(
             now,
             ig_caption,
             ig_hashtags,
+            venue,
             ig_mention,
         ),
     )
@@ -431,10 +435,10 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
     # leaves as NULL rather than guessing.
     rows = conn.execute(
         """SELECT cluster_id, title, summary, category, event_start, event_end,
-                  event_name, ig_caption, ig_hashtags, ig_mention, url, source, image_url
+                  event_name, ig_caption, ig_hashtags, venue, ig_mention, url, source, image_url
            FROM (
              SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_end,
-                    c.event_name, c.ig_caption, c.ig_hashtags, c.ig_mention, c.ig_story_at,
+                    c.event_name, c.ig_caption, c.ig_hashtags, c.venue, c.ig_mention, c.ig_story_at,
                     COALESCE(c.primary_url,
                       (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                     ) AS url,
@@ -485,7 +489,7 @@ def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[di
     """
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.category,
-                  c.ig_caption, c.ig_hashtags, c.ig_mention,
+                  c.ig_caption, c.ig_hashtags, c.venue, c.ig_mention,
                   COALESCE(c.primary_url,
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,

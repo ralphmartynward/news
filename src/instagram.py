@@ -369,7 +369,7 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     title      = cluster.get("title", "")
     event_name = cluster.get("event_name") or None
     ig_caption = cluster.get("ig_caption") or ""
-    venue      = _venue_from_caption(cluster.get("ig_caption") or "") or _extract_venue(cluster.get("summary") or "")
+    venue      = (cluster.get("venue") or "").strip() or _venue_from_caption(cluster.get("ig_caption") or "") or _extract_venue(cluster.get("summary") or "")
 
     # Headline: event_name if available, otherwise full title
     headline    = event_name if event_name else title
@@ -777,7 +777,7 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
                 "ig_caption":  cl.get("ig_caption"),
                 "ig_hashtags": cl.get("ig_hashtags"),
                 "ig_mention":  cl.get("ig_mention"),
-                "venue": _venue_from_caption(cl.get("ig_caption") or "") or _extract_venue(cl.get("summary") or ""),
+                "venue": (cl.get("venue") or "").strip() or _venue_from_caption(cl.get("ig_caption") or "") or _extract_venue(cl.get("summary") or ""),
             })
         except Exception as e:
             print(f"  instagram: FAILED {cid} — {type(e).__name__}: {e}")

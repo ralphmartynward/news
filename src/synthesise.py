@@ -100,6 +100,7 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
     ig_caption = (data.get("ig_caption") or None)
     ig_hashtags_raw = data.get("ig_hashtags")
     ig_hashtags = json.dumps(ig_hashtags_raw, ensure_ascii=False) if ig_hashtags_raw else None
+    venue      = (data.get("venue") or "").strip() or None
     ig_mention_raw = (data.get("ig_mention") or "").strip().lstrip("@") or None
 
     return {
@@ -113,6 +114,7 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
         "event_name": event_name,
         "ig_caption": ig_caption,
         "ig_hashtags": ig_hashtags,
+        "venue": venue,
         "ig_mention": ig_mention_raw,
     }
 

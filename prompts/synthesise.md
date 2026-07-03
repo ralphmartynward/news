@@ -17,8 +17,9 @@ Generate:
    "Festival de musique gratuit en plein air\nDJ sets ambient, rock, hip-hop, électro\n4 jours de concerts au vert"
    "Guinguette associative au bord du lac\nPlage de sable, concerts et pétanque\nOuvert tous les week-ends jusqu'en août"
 7. Generate 20–25 Instagram hashtags (ig_hashtags): start with high-volume discovery tags (toulouse, sortiraToulouse, toulouse2026), then add specific tags for the venue, neighbourhood, event type, and topic (#theatresorano #capitole #carmes #spectacle #été2026 #gastronomie etc.). All in French or topic-specific. No filler. Return as a JSON array of strings without the # prefix.
-8. Instagram @mention (ig_mention): the most likely Instagram handle of the main venue or organiser. Use the known handle for well-known Toulouse institutions (e.g. theatresorano, orchestreducapitole, citedelespace, toulouse_tourisme, frenchtechtoulouse, tangopostale). For others, construct the most plausible handle from the venue name (e.g. mediatheque_cabanis, cafejoyeuxtoulouse). Return null only for generic news with no specific venue or organiser.
-9. Pick exactly one category for the cluster:
+8. Venue (venue): the specific place where this event or thing takes place — just the name, no prepositions (e.g. "place de la Daurade", "Mama Shelter", "Halle aux Grains", "Médiathèque d'Empalot", "Stadium de Toulouse"). For multi-venue events use the most prominent. Return null for generic news or events with no fixed venue.
+9. Instagram @mention (ig_mention): the most likely Instagram handle of the main venue or organiser. Use the known handle for well-known Toulouse institutions (e.g. theatresorano, orchestreducapitole, citedelespace, toulouse_tourisme, frenchtechtoulouse, tangopostale). For others, construct the most plausible handle from the venue name (e.g. mediatheque_cabanis, cafejoyeuxtoulouse). Return null only for generic news with no specific venue or organiser.
+10. Pick exactly one category for the cluster:
    - "news": hard news, civic announcements, weather alerts, sports results, politics, public-safety updates, current events.
    - "event": dedicated event listings with specific attendance details (venue, date, time) — concert listings, festival programmes, exhibition schedules, market dates. The content should be primarily an invitation to attend, not a news article that mentions an event in passing. A news story about an artist performing, a review of an event, or an article that reports on something happening is "news", not "event".
    - "place": places, openings, closures — restaurants, bars, shops, hotels, neighbourhood spots, hospitality. Things to visit or eat at.
@@ -51,5 +52,6 @@ Return ONLY a JSON object, no preamble or code fences. Schema:
   "event_name": "..." or null,
   "ig_caption": "..." or null,
   "ig_hashtags": ["toulouse", "sortiraToulouse", ...] or null,
+  "venue": "place de la Daurade" or null,
   "ig_mention": "theatresorano" or null
 }
