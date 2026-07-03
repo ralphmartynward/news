@@ -862,6 +862,24 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
         print(f"instagram weekend: no events with images for {sat} - {sun}, skipping carousel")
         return []
 
+    # Smart sort: most timely events first so the cover uses the best image.
+    #   Tier 0 — starts on sat or sun (this weekend specifically)
+    #   Tier 1 — started ≤6 days ago (current week, still fresh)
+    #   Tier 2 — older ongoing events
+    # Within each tier: OfficeTourisme first (best promo images), then L'Essentiel, then others.
+    _SOURCE_RANK = {"office_tourisme": 0, "lessentiel": 1}
+
+    def _event_sort_key(ev: dict) -> tuple:
+        try:
+            days_before = (sat - date.fromisoformat((ev.get("event_start") or sat.isoformat())[:10])).days
+        except Exception:
+            days_before = 0
+        tier = 0 if days_before <= 0 else (1 if days_before <= 6 else 2)
+        src_rank = _SOURCE_RANK.get(ev.get("source") or "", 2)
+        return (tier, src_rank, days_before)
+
+    events.sort(key=_event_sort_key)
+
     out_dir.mkdir(parents=True, exist_ok=True)
     slides: list[dict[str, Any]] = []
 
