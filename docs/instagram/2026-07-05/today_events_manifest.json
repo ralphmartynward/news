@@ -1,0 +1,74 @@
+[
+  {
+    "cluster_id": "cluster:0591310b-a6ce-4c0a-9147-79fd71e32692",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Festival de Toulouse : 5e édition du 30 juin au 11 juillet",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a3d2071d915aede7900d6c3/hd/image.jpg?v=1",
+    "file": "cluster_0591310b-a6ce-4c0a-9147-79fd71e32692_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d310c9e5-f446-46a9-b49c-e95b68333023",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "L'Eden Park WateRugby revient pour sa 8e édition à la Daurade",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/eden-park-waterugby1---kevin-carriere.jpg?h=cc7b5b71&itok=5f3gjPZm",
+    "file": "cluster_d310c9e5-f446-46a9-b49c-e95b68333023_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f5274cb9-3f65-4336-9d44-79949808ed4d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Festival de Toulouse : 12 soirées mêlant classique, jazz et pop",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-FESTIVAL-DE-TOULOUSE.jpg",
+    "file": "cluster_f5274cb9-3f65-4336-9d44-79949808ed4d_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:123d56b4-316d-4578-b8b5-4f44261b2514",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Tangopostale : 10 jours de tango argentin à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-TANGO-POSTALE.jpg",
+    "file": "cluster_123d56b4-316d-4578-b8b5-4f44261b2514_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:6311fc33-4a2e-4fa8-9099-0f48db36a5bf",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Grand Fénétra célèbre danses et musiques du monde à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-FETES-DU-FENETRA.jpg",
+    "file": "cluster_6311fc33-4a2e-4fa8-9099-0f48db36a5bf_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:7b7f6ae5-7ffa-419c-b835-091a85332493",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Tangopostale : 10 jours de tango argentin à Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-06/expo--c-marie-hyvernaud---1.jpg?itok=R-87riG7",
+    "file": "cluster_7b7f6ae5-7ffa-419c-b835-091a85332493_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:965d540a-0f88-47a8-beff-ca55efb1326e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Faites de l'image : festival arts visuels au cœur de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-FAITES-DE-L-IMAGE.jpg",
+    "file": "cluster_965d540a-0f88-47a8-beff-ca55efb1326e_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:4caf0294-7df9-49c4-b962-be61461cee0c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Tous audacieux : une journée d'expériences insolites le 5 juillet",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-TOUS-AUDACIEUX.jpg",
+    "file": "cluster_4caf0294-7df9-49c4-b962-be61461cee0c_event_story.jpg"
+  }
+]
