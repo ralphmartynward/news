@@ -61,11 +61,23 @@ jobs:
           echo "push still failing after 3 attempts" >&2
           exit 1
 
+      - name: Wait for GitHub Pages deployment
+        run: |
+          # Poll until the digest index page returns 200, up to 10 minutes.
+          # Pages typically deploys in 2-5 minutes; 90s was not enough.
+          echo "Waiting for GitHub Pages to go live..."
+          for i in $(seq 1 20); do
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://news.lavillerose.com/index.html)
+            echo "Attempt $i: HTTP $STATUS"
+            if [ "$STATUS" = "200" ]; then
+              echo "Pages is live."
+              break
+            fi
+            sleep 30
+          done
+
       - name: Post to Instagram
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: |
-          echo "Waiting 90s for GitHub Pages to deploy images..."
-          sleep 90
-          python -m src.instagram_post
+        run: python -m src.instagram_post
