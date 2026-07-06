@@ -3727,26 +3727,6 @@ URL:https://www.clutchmag.fr/evenements#2026-06-25-dimanche-28-juin-1?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20270101
-SUMMARY:Travaux Vinci : perturbations sur le périphérique et avenue Eisen
- hower cet été
-DESCRIPTION:Vinci Autoroutes multiplie les chantiers autour de Toulouse ent
- re fin juin et fin 2026. Du 29 juin au 2 juillet\, plusieurs tronçons du 
- périphérique est seront fermés nuitamment (21h–6h) pour travaux de ma
- intenance\, avec des déviations prévues. Du 6 au 9 juillet\, de nouvelle
- s fermetures nocturnes sont programmées pour la rénovation du marquage a
- u sol sur la partie est du périphérique. Par ailleurs\, un chantier de r
- enforcement du pont de l'échangeur Le Chapitre entraîne la fermeture tot
- ale de l'av\n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-periph
- erique-de-toulouse-ferme-pendant-plusieurs-nuits-voici-les-troncons-concer
- nes_64459759.html
-URL:https://actu.fr/occitanie/toulouse_31555/le-peripherique-de-toulouse-fe
- rme-pendant-plusieurs-nuits-voici-les-troncons-concernes_64459759.html?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:c926dd63-3cb5-4c7a-862e-a7fcad47de56@news.lavillerose.com
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260727
@@ -3764,27 +3744,6 @@ DESCRIPTION:Actu Toulouse propose une sélection de sept expositions à dé
 URL:https://actu.fr/occitanie/toulouse_31555/mister-freeze-joaquin-sorolla-
  les-expositions-a-ne-pas-manquer-cet-ete-a-toulouse_64454404.html?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260712
-SUMMARY:Festival de Toulouse
-DESCRIPTION:Le Festival de Toulouse lance sa cinquième édition du 30 juin
-  au 11 juillet 2026\, avec une programmation mêlant musique classique et 
- pop à la Halle aux Grains (première fois) et à l'Auditorium Saint-Pierr
- e-des-Cuisines. Les temps forts incluent le retour de Michel Plasson à la
-  tête de l'Orchestre national du Capitole (Berlioz\, Debussy\, Ravel)\, C
- alogero le 3 juillet\, Axelle Red le 4 et Pomme le 5 — plusieurs concert
- s sont déjà complets. Nouveauté de cette édition : la création d'un O
- rchestre du F\n\nSource\: https://actu.fr/occitanie/toulouse_31555/petits-
- prix-et-bonnes-affaires-voici-notre-selection-des-vide-greniers-a-toulouse
- -et-aux-alentours-pour-le-week-end_64461072.html
-LOCATION:Halle aux Grains (première fois)\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/petits-prix-et-bonnes-affaires
- -voici-notre-selection-des-vide-greniers-a-toulouse-et-aux-alentours-pour-
- le-week-end_64461072.html?utm_source=ical&utm_medium=calendar&utm_campaign
- =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:72614cde-00a3-4623-9c02-a067dcb63290@news.lavillerose.com
@@ -4081,16 +4040,16 @@ UID:cluster:6311fc33-4a2e-4fa8-9099-0f48db36a5bf@news.lavillerose.com
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260707
 SUMMARY:Grand Fénétra
-DESCRIPTION:Le Grand Fénétra est un événement populaire de trois jours 
- consacré aux danses\, musiques et festivités traditionnelles\, issues d'
- ici et d'ailleurs\, au cœur de Toulouse. La manifestation met à l'honneu
- r les cultures populaires dans un esprit de partage et de convivialité. L
- 'office de tourisme signale que l'événement se tient jusqu'au 6 juillet 
- 2026\, ce qui en fait un rendez-vous incontournable pour les amateurs de t
- raditions vivantes. Le grand public\, familles et curieux de toutes origin
- es\, est i\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrl
- Tracker.ashx?email_id=aa170484-9248-4940-b092-43997f3944b3&url_id=94212393
- -1cd0-4de5-9860-87aeb7f359bb
+DESCRIPTION:Le Grand Fénétra\, festival de danses et musiques traditionne
+ lles\, anime Toulouse avec plusieurs jours de festivités gratuites au cœ
+ ur de la ville. Créé en 1963\, il puiserait ses origines dans des tradit
+ ions remonant à la période gallo-romaine. Des groupes folkloriques locau
+ x et étrangers — dont le Quadrille Occitan\, la Bourrée de l'Aubrac et
+  As Violetas (culture du nord du Portugal) — se produisent au Capitole\,
+  aux Halles de la Cartoucherie et au jardin des Plantes. Le festival se cl
+ ôture par un\n\nSource\: https://cdt31.tourinsoft.com/MailingElectronique
+ UrlTracker.ashx?email_id=aa170484-9248-4940-b092-43997f3944b3&url_id=94212
+ 393-1cd0-4de5-9860-87aeb7f359bb
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=aa170484-9248-4940-b092-43997f3944b3&url_id=94212393-1cd0-4de5-9860-87ae
  b7f359bb?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -4113,6 +4072,23 @@ DESCRIPTION:Le vendredi 3 juillet 2026\, le Château Arton à Lectoure (Ger
 URL:https://www.toulouscope.fr/2026/06/03/ce-chateau-du-gers-prime-pour-son
  -armagnac-organise-une-soiree-inedite-avec-theatre-dj-set-et-cocktails-133
  80150.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260712
+SUMMARY:Festival de Toulouse
+DESCRIPTION:La cinquième édition du Festival de Toulouse est lancée et s
+ e tient jusqu'au 11 juillet\, avec une programmation exceptionnelle mêlan
+ t musique classique\, variété et création. Temps fort absolu : le retou
+ r de Michel Plasson à la tête de l'Orchestre national du Capitole\, 23 a
+ ns après leur dernier concert commun\, avec au programme Berlioz\, Debuss
+ y et Ravel à la Halle aux Grains. Le festival innove cette année en cré
+ ant un Orchestre du Festival inédit\, réunissant le Conservatoire\, l'Or
+ chestre de cham\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-06-30#45122
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-30#45122?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7aacf1d7-fc96-4547-954d-068e371d830a@news.lavillerose.com
@@ -4440,18 +4416,17 @@ BEGIN:VEVENT
 UID:cluster:d1b8576b-35a4-4919-8407-df175fb74e2b@news.lavillerose.com
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260713
-SUMMARY:Ligne T1 à l'arrêt total neuf jours pour travaux à Toulouse
-DESCRIPTION:La ligne T1 du tramway de Toulouse sera entièrement interrompu
- e du samedi 4 au dimanche 12 juillet 2026\, soit neuf jours consécutifs. 
- Tisséo déploie un bus relais T1' desservant tous les arrêts entre Palai
- s de Justice et MEETT (sauf l'Hippodrome)\, toutes les 15 minutes en semai
- ne et toutes les 20 minutes le dimanche. La ligne 31' sera prolongée jusq
- u'aux Arènes pour assurer la liaison vers l'aéroport toutes les 10 minut
- es\, tandis que les lignes desservant Blagnac et la navette aéroport circ
- ulent\n\nSource\: https://actu.fr/occitanie/toulouse_31555/toulouse-pourqu
- oi-le-tramway-va-etre-completement-a-l-arret-pendant-neuf-jours_64481900.h
- tml
-LOCATION:Palais de Justice\, Toulouse
+SUMMARY:Tram T1 à l'arrêt neuf jours pour travaux estivaux à Toulouse
+DESCRIPTION:La ligne T1 du tramway de Toulouse est interrompue du 4 au 12 j
+ uillet 2026 inclus\, afin de permettre des travaux préparatoires à la fu
+ ture Ligne Aéroport — une liaison express en tramway attendue fin 2026 
+ — ainsi que des opérations de maintenance courante. Un bus relais bapti
+ sé T1' desservira l'ensemble des arrêts du parcours (sauf l'Hippodrome) 
+ entre Palais de Justice et MEETT\, avec une fréquence de 15 minutes en se
+ maine et 20 minutes le dimanche. La ligne 31 sera prolongée jusqu'aux Ar
+ ènes pou\n\nSource\: https://actu.fr/occitanie/toulouse_31555/toulouse-po
+ urquoi-le-tramway-va-etre-completement-a-l-arret-pendant-neuf-jours_644819
+ 00.html
 URL:https://actu.fr/occitanie/toulouse_31555/toulouse-pourquoi-le-tramway-v
  a-etre-completement-a-l-arret-pendant-neuf-jours_64481900.html?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -4517,19 +4492,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6c3b4a52-1817-4dce-a0b3-9e2afd698694@news.lavillerose.com
 DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260824
 SUMMARY:Plage de la Ramée
-DESCRIPTION:La plage surveillée du lac de la Ramée\, à Toulouse\, rouvre
-  officiellement à la baignade à partir du samedi 4 juillet 2026. Des ma
- îtres-nageurs sont présents tous les jours de 10h à 19h (jusqu'à 20h e
- n cas de canicule) pour encadrer une zone de baignade délimitée\, en deh
- ors de laquelle la baignade reste interdite. L'accès est gratuit depuis l
- 'entrée principale côté sud-ouest (chemin Larramet)\, avec des équipem
- ents adaptés aux personnes en situation de handicap\, dont un tapis d'acc
- ès à l'eau et un\n\nSource\: https://actu.fr/occitanie/toulouse_31555/sa
- ble-fin-et-baignade-surveillee-cette-plage-tres-prisee-rouvre-a-toulouse-c
- e-qu-il-faut-savoir-pour-en-profiter_64497003.html
-LOCATION:lac de la Ramée\, Toulouse
+DESCRIPTION:La plage surveillée du lac de la Ramée est officiellement ouv
+ erte depuis le samedi 4 juillet 2026\, jusqu'au 23 août. Des maîtres-nag
+ eurs assurent la surveillance chaque jour de 10h à 19h\, avec une extensi
+ on jusqu'à 20h en cas de canicule. L'accès est gratuit\, mais la fréque
+ ntation est limitée à 400 personnes simultanément \; la baignade reste 
+ interdite en dehors de la zone délimitée. Au-delà de la plage\, le site
+  de 243 hectares propose planche à voile\, kayak\, basket\, ping-pong\, a
+ ccrobranche et pi\n\nSource\: https://actu.fr/occitanie/toulouse_31555/sab
+ le-fin-et-baignade-surveillee-cette-plage-tres-prisee-rouvre-a-toulouse-ce
+ -qu-il-faut-savoir-pour-en-profiter_64497003.html
+LOCATION:lac de la Ramée est officiellement ouverte depuis le\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/sable-fin-et-baignade-surveill
  ee-cette-plage-tres-prisee-rouvre-a-toulouse-ce-qu-il-faut-savoir-pour-en-
  profiter_64497003.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
@@ -4599,6 +4574,28 @@ URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  551f73e3?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20270101
+SUMMARY:Travaux VINCI : fermetures sur l'avenue Eisenhower et le périphér
+ ique
+DESCRIPTION:VINCI Autoroutes lance deux chantiers distincts autour de Toulo
+ use à partir du 6 juillet 2026. Le premier\, et le plus impactant\, conce
+ rne le renforcement du pont de l'échangeur du Chapitre (n°38) sur l'A64 
+ : l'avenue du Général Eisenhower sera fermée dans les deux sens du 6 ju
+ illet au 28 août\, avec également la bretelle d'entrée A64 direction To
+ ulouse coupée \; des fermetures nocturnes de l'A64 elle-même sont prévu
+ es à partir de septembre\, jusqu'à fin décembre. Le second chantier\, p
+ lus ponctuel\, \n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-tou
+ louse-une-partie-de-cette-grande-avenue-sera-fermee-pendant-pres-de-deux-m
+ ois_64498357.html
+LOCATION:avenue du Général Eisenhower sera fermée dans les deux s\, Toul
+ ouse
+URL:https://actu.fr/occitanie/toulouse_31555/a-toulouse-une-partie-de-cette
+ -grande-avenue-sera-fermee-pendant-pres-de-deux-mois_64498357.html?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
@@ -4641,20 +4638,20 @@ UID:cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed@news.lavillerose.com
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260830
 SUMMARY:Cinéma en plein air
-DESCRIPTION:L'été 2026 s'annonce riche pour les amateurs de cinéma en pl
- ein air dans l'agglomération toulousaine\, avec deux rendez-vous distinct
- s. Du 8 juillet au 28 août\, les Toiles du Château investissent la cour 
- du Château de Pinsaguel (à 20 minutes de Toulouse) pour leur 8e édition
- \, proposant blockbusters et films familiaux — Toy Story 5\, Spider-Man\
- , L'Odyssée de Nolan — avec une soirée d'ouverture le 8 juillet autour
-  du film Michael et un concert funk-soul du groupe Upright. En parallèle\
- , la Cinémathèq\n\nSource\: https://www.toulouscope.fr/2026/06/24/dans-c
- e-lieu-de-patrimoine-cine-en-plein-air-tout-lete-les-toiles-du-chateau-rev
- iennent-pour-leur-8-edition-13427872.php
-URL:https://www.toulouscope.fr/2026/06/24/dans-ce-lieu-de-patrimoine-cine-e
- n-plein-air-tout-lete-les-toiles-du-chateau-reviennent-pour-leur-8-edition
- -13427872.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
- enda
+DESCRIPTION:La Cinémathèque de Toulouse relance son festival annuel de ci
+ néma en plein air du 8 juillet au 29 août 2026\, pour une 22e édition\,
+  dans sa cour historique fraîchement rénovée rue du Taur. Quarante-quat
+ re films de tous genres et époques seront projetés en version originale 
+ sous-titrée en français\, à raison de séances à 22h jusqu'au 9 août\
+ , puis à 21h30 à partir du 11 août. La programmation ouvre avec « Lost
+  in Translation » de Sofia Coppola et enchaîne avec des classiques comme
+  « E.T. »\, « À bout\n\nSource\: https://www.toulouscope.fr/2026/06/30
+ /a-partir-du-8-juillet-le-cinema-en-plein-air-est-de-retour-a-la-cinemathe
+ que-de-toulouse-13422045.php
+LOCATION:rue du Taur\, Toulouse
+URL:https://www.toulouscope.fr/2026/06/30/a-partir-du-8-juillet-le-cinema-e
+ n-plein-air-est-de-retour-a-la-cinematheque-de-toulouse-13422045.php?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0763d3a2-6cf6-4d62-a855-e5ab8ee0da09@news.lavillerose.com
@@ -4678,19 +4675,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c7c6a1e1-da98-46fa-bcf2-2f472f6c025f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260720
-SUMMARY:Fan Zone Toulouse
-DESCRIPTION:Pour le 16e de finale France-Suède du mardi 30 juin\, la mairi
- e de Toulouse a instauré un couvre-feu de 22h à 5h pour les moins de 16 
- ans non accompagnés d'un responsable légal\, dans un périmètre couvran
- t l'hypercentre\, les allées Jean-Jaurès et les quartiers Bonnefoy et Ma
- rengo. Ce dispositif\, justifié par l'horaire tardif du match (23h)\, fai
- t suite aux débordements observés après la victoire du PSG en Ligue des
-  Champions. La France ayant éliminé la Suède (3-0)\, la mairie confirme
-  l'ouverture d'\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-tou
- louse-le-couvre-feu-pour-les-mineurs-sera-applique-lors-du-match-de-coupe-
- du-monde-entre-la-france-et-la-suede_64476660.html
-LOCATION:allées Jean-Jaurès\, Toulouse
+DTEND;VALUE=DATE:20260710
+SUMMARY:Fan zone France-Maroc
+DESCRIPTION:Toulouse accompagne le parcours de l'équipe de France à la Co
+ upe du monde 2026 avec un dispositif progressif. Un couvre-feu pour les mi
+ neurs de moins de 16 ans non accompagnés a été instauré dans l'hyperce
+ ntre et les quartiers Bonnefoy\, Marengo et les allées Jean-Jaurès lors 
+ du 16e de finale France-Suède (victoire 3-0 le 30 juin)\, en réponse aux
+  débordements survenus lors de la victoire du PSG en Ligue des Champions.
+  La mairie avait conditionné l'ouverture d'une fan zone à la qualificati
+ on des B\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-toulouse-l
+ e-couvre-feu-pour-les-mineurs-sera-applique-lors-du-match-de-coupe-du-mond
+ e-entre-la-france-et-la-suede_64476660.html
+LOCATION:allées Jean-Jaurès lors du 16e de finale France-\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/a-toulouse-le-couvre-feu-pour-
  les-mineurs-sera-applique-lors-du-match-de-coupe-du-monde-entre-la-france-
  et-la-suede_64476660.html?utm_source=ical&utm_medium=calendar&utm_campaign
