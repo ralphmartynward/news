@@ -63,14 +63,18 @@ jobs:
 
       - name: Wait for GitHub Pages deployment
         run: |
-          # Poll until the digest index page returns 200, up to 10 minutes.
-          # Pages typically deploys in 2-5 minutes; 90s was not enough.
-          echo "Waiting for GitHub Pages to go live..."
-          for i in $(seq 1 20); do
-            STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://news.lavillerose.com/index.html)
-            echo "Attempt $i: HTTP $STATUS"
+          # Poll for today's manifest.json — only live once the NEW build deploys.
+          # Checking index.html is useless (always 200 from the previous build).
+          # Max wait: 60s initial + 14×30s = 8 minutes total.
+          DATE_SLUG=$(date -u +%Y-%m-%d)
+          PROBE="https://news.lavillerose.com/instagram/${DATE_SLUG}/manifest.json"
+          echo "Waiting for Pages to deploy today's content (${DATE_SLUG})..."
+          sleep 60
+          for i in $(seq 1 14); do
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$PROBE")
+            echo "Attempt $i: manifest.json → HTTP $STATUS"
             if [ "$STATUS" = "200" ]; then
-              echo "Pages is live."
+              echo "Today's content is live."
               break
             fi
             sleep 30
