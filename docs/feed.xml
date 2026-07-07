@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-07-07T06:48:21.134917+00:00</updated>
+  <updated>2026-07-07T08:26:48.166116+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,20 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:6dcafdd0-07fd-4bef-b83f-d8c6a57c6c27</id>
-    <title>Accident grave rue de Soupetard : la police cherche des témoins</title>
-    <updated>2026-06-30T07:50:46.819562+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Un accident de la circulation grave a eu lieu le vendredi 19 juin 2026 entre 11h et 12h au 46, rue de Soupetard, à Toulouse, impliquant un cycliste roulant sur un vélo rouge. Les circonstances exactes de l&amp;#x27;accident restent floues, ce qui a conduit la police nationale de la Haute-Garonne à lancer un appel à témoins le 29 juin. Les autorités recherchent toute personne ayant assisté aux faits ou détenant des informations utiles à l&amp;#x27;enquête. Les témoins sont invités à contacter le commissariat de Toulouse au 05 61 12 80 92.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/apres-un-grave-accident-dont-a-ete-victime-un-cycliste-a-toulouse-la-police-lance-un-appel-a-temoins_64474420.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/apres-un-grave-accident-dont-a-ete-victime-un-cycliste-a-toulouse-la-police-lance-un-appel-a-temoins_64474420.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Un accident de la circulation grave a eu lieu le vendredi 19 juin 2026 entre 11h et 12h au 46, rue de Soupetard, à Toulouse, impliquant un cycliste roulant sur un vélo rouge. Les circonstances exactes de l'accident restent floues, ce qui a conduit la police nationale de la Haute-Garonne à lancer un appel à témoins le 29 juin. Les autorités recherchent toute personne ayant assisté aux faits ou détenant des informations utiles à l'enquête. Les témoins sont invités à contacter le commissariat de Toulouse au 05 61 12 80 92.</summary>
-    <category term="news"/>
-    <published>2026-06-30T08:51:11+02:00</published>
-  </entry>
   <entry>
     <id>cluster:bd99d867-ff9e-443a-9589-18929079031b</id>
     <title>Les Halles de la Transition lèvent 1 M€ pour se franchiser</title>
@@ -1161,6 +1147,22 @@
     <published>2026-07-05T12:26:01+02:00</published>
   </entry>
   <entry>
+    <id>cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed</id>
+    <title>Le cinéma en plein air revient à la Cinémathèque de Toulouse cet été</title>
+    <updated>2026-07-06T06:57:57.772841+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La Cinémathèque de Toulouse lance la 22e édition de son festival Cinéma en plein air du 8 juillet au 29 août 2026, dans sa cour historique fraîchement rénovée, rue du Taur. Au programme, 44 films projetés en version originale sous-titrée en français, couvrant toutes les époques et tous les genres : classiques comme « Lost in Translation », « À bout de souffle » ou « E.T. », films cultes et cinéma contemporain. Les séances débutent à 22h jusqu&amp;#x27;au 9 août, puis à 21h30 à partir du 11 août, avec un Ciné-Bar ouvert dès 17h du mardi au dimanche. Chaque projection en plein air est suivie le lendemain d&amp;#x27;une rediffusion en salle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse fournit la programmation complète film par film, ce qui en fait la source de référence pour les détails pratiques. Toulouscope met davantage en avant la rénovation du lieu et l&amp;#x27;ambiance estivale. L&amp;#x27;Essentiel, en format court, mentionne également le festival parallèle Ciné sous les étoiles dans la métropole — un contexte absent des deux autres sources.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Programmation détaillée film par film avec dates exactes&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Présentation du lieu rénové et de l&amp;#x27;atmosphère du festival&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Aperçu rapide + mention du Ciné sous les étoiles en métropole&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-en-plein-air-la-cinematheque-de-toulouse-projettera-44-films-dans-sa-cour-pendant-l-ete_64407325.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cinema-en-plein-air-la-cinematheque-de-toulouse-projettera-44-films-dans-sa-cour-pendant-l-ete_64407325.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Cinémathèque de Toulouse lance la 22e édition de son festival Cinéma en plein air du 8 juillet au 29 août 2026, dans sa cour historique fraîchement rénovée, rue du Taur. Au programme, 44 films projetés en version originale sous-titrée en français, couvrant toutes les époques et tous les genres : classiques comme « Lost in Translation », « À bout de souffle » ou « E.T. », films cultes et cinéma contemporain. Les séances débutent à 22h jusqu'au 9 août, puis à 21h30 à partir du 11 août, avec un Ciné-Bar ouvert dès 17h du mardi au dimanche. Chaque projection en plein air est suivie le lendemain d'une rediffusion en salle.</summary>
+    <category term="event"/>
+    <published>2026-07-05T14:53:31+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:05c0ce56-7758-4264-8a6a-e1e51d8c8d6f</id>
     <title>Adolphe Niel, figure toulousaine méconnue du Second Empire</title>
     <updated>2026-07-06T06:57:57.772841+00:00</updated>
@@ -1284,25 +1286,6 @@
     <published>2026-06-30T16:46:01+02:00</published>
   </entry>
   <entry>
-    <id>cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed</id>
-    <title>Le cinéma en plein air revient à la Cinémathèque de Toulouse cet été</title>
-    <updated>2026-07-06T06:57:57.772841+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La Cinémathèque de Toulouse lance la 22e édition de son festival Cinéma en plein air du 8 juillet au 29 août 2026, dans sa cour historique fraîchement rénovée, rue du Taur. Au programme, 44 films projetés en version originale sous-titrée en français, couvrant toutes les époques et tous les genres : classiques comme « Lost in Translation », « À bout de souffle » ou « E.T. », films cultes et cinéma contemporain. Les séances débutent à 22h jusqu&amp;#x27;au 9 août, puis à 21h30 à partir du 11 août, avec un Ciné-Bar ouvert dès 17h du mardi au dimanche. Chaque projection en plein air est suivie le lendemain d&amp;#x27;une rediffusion en salle.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse fournit la programmation complète film par film, ce qui en fait la source de référence pour les détails pratiques. Toulouscope met davantage en avant la rénovation du lieu et l&amp;#x27;ambiance estivale. L&amp;#x27;Essentiel, en format court, mentionne également le festival parallèle Ciné sous les étoiles dans la métropole — un contexte absent des deux autres sources.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Programmation détaillée film par film avec dates exactes&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Présentation du lieu rénové et de l&amp;#x27;atmosphère du festival&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Aperçu rapide + mention du Ciné sous les étoiles en métropole&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/06/30/a-partir-du-8-juillet-le-cinema-en-plein-air-est-de-retour-a-la-cinematheque-de-toulouse-13422045.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-en-plein-air-la-cinematheque-de-toulouse-projettera-44-films-dans-sa-cour-pendant-l-ete_64407325.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/06/30/a-partir-du-8-juillet-le-cinema-en-plein-air-est-de-retour-a-la-cinematheque-de-toulouse-13422045.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Cinémathèque de Toulouse lance la 22e édition de son festival Cinéma en plein air du 8 juillet au 29 août 2026, dans sa cour historique fraîchement rénovée, rue du Taur. Au programme, 44 films projetés en version originale sous-titrée en français, couvrant toutes les époques et tous les genres : classiques comme « Lost in Translation », « À bout de souffle » ou « E.T. », films cultes et cinéma contemporain. Les séances débutent à 22h jusqu'au 9 août, puis à 21h30 à partir du 11 août, avec un Ciné-Bar ouvert dès 17h du mardi au dimanche. Chaque projection en plein air est suivie le lendemain d'une rediffusion en salle.</summary>
-    <category term="event"/>
-    <published>2026-06-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:e3a3c2bd-5123-4490-9cb9-73e4962b7e4f</id>
     <title>À Purpan, une école de danse familiale avec guinguette le dimanche</title>
     <updated>2026-07-06T07:50:19.396914+00:00</updated>
@@ -1329,20 +1312,6 @@
     <summary>Dans la nuit du 5 au 6 juillet 2026, un violent incendie s'est déclaré vers 2h30 du matin dans un duplex situé au dernier étage d'une résidence rue Jeanne Chauvin, dans le quartier des Ramassiers à l'ouest de Toulouse. L'ensemble des habitants de l'immeuble ont été évacués en urgence par mesure de précaution face au risque de propagation. Le SDIS 31 a mobilisé des moyens importants — 42 sapeurs-pompiers et 11 engins, dont une grande échelle et une équipe de drones — pour circonscrire le feu. Grâce à l'intervention rapide et coordonnée des secours, l'incendie a été contenu au seul appartement touché et les résidents ont pu réintégrer leurs logements.</summary>
     <category term="news"/>
     <published>2026-07-06T08:17:10+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:67bfa876-28d0-4914-9e92-5facb046ed7f</id>
-    <title>Cet été, direction Toulouse pour les vacances !</title>
-    <updated>2026-07-07T06:48:21.134917+00:00</updated>
-    <author>
-      <name>tourinsoft</name>
-    </author>
-    <content type="html">&lt;p&gt;Voir le contenu de ce mail en ligne Et si votre plus beau souvenir de l&amp;#x27;été commençait ici ? À Toulouse, chaque journée a son rythme : une balade dans les ruelles du centre historique, une exposition étonnante, un déjeuner en terrasse, une parenthèse au bord de la Garonne, un concert en plein air ou une visite insolite au coucher du soleil. Laissez-vous surprendre par une ville vivante, créative et chaleureuse.​ Les tops de l&amp;#x27;été Au fil de l&amp;#x27;eau, à l&amp;#x27;ombre des arbres ou en terrasse, Toulouse invite à ralentir le rythme. Croisières, kayak, guinguettes, Toulouse Plages, jardins, piscines ou lacs : inspirez-vous de nos meilleures idées pour profiter pleinement de la saison. Découvrir nos coups de cœur Faites le plein de culture Poussez la porte des musées pour découvrir des expositions qui séduiront les curieux comme les passionnés. Une belle façon de prolonger la découverte de Toulouse. Découvrir les expositions L&amp;#x27;été a sa bande-son À Toulouse, l&amp;#x27;été se danse, se chante et se célèbre. Concerts en plein air, DJ sets, spectacles, littérature ou arts visuels : laissez-vous porter par une programmation qui fait vibrer toute la ville. Voir les festivals Toulouse à l&amp;#x27;aube du soir À l&amp;#x27;heure où le soleil descend sur la Garonne, Toulouse révèle toute sa magie. Laissez-vous guider à travers les plus beaux points de vue. Réserver La balade du patrimoine Le Capitole, la basilique Saint-Sernin, la Garonne… Suivez votre guide à travers les lieux les plus emblématiques de la Ville rose. Réser&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="http://cdt31.tourinsoft.com/view.ashx?email=535a3373-90ce-47aa-99f7-0ec9b436cd53&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;tourinsoft&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="http://cdt31.tourinsoft.com/view.ashx?email=535a3373-90ce-47aa-99f7-0ec9b436cd53&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Voir le contenu de ce mail en ligne Et si votre plus beau souvenir de l'été commençait ici ? À Toulouse, chaque journée a son rythme : une balade dans les ruelles du centre historique, une exposition étonnante, un déjeuner en terrasse, une parenthèse au bord de la Garonne, un concert en plein air ou une visite insolite au coucher du soleil. Laissez-vous surprendre par une ville vivante, créative et chaleureuse.​ Les tops de l'été Au fil de l'eau, à l'ombre des arbres ou en terrasse, Toulouse invite à ralentir le rythme. Croisières, kayak, guinguettes, Toulouse Plages, jardins, piscines ou lacs : inspirez-vous de nos meilleures idées pour profiter pleinement de la saison. Découvrir nos coups de cœur Faites le plein de culture Poussez la porte des musées pour découvrir des expositions qui séduiront les curieux comme les passionnés. Une belle façon de prolonger la découverte de Toulouse. Découvrir les expositions L'été a sa bande-son À Toulouse, l'été se danse, se chante et se célèbre. Concerts en plein air, DJ sets, spectacles, littérature ou arts visuels : laissez-vous porter par une programmation qui fait vibrer toute la ville. Voir les festivals Toulouse à l'aube du soir À l'heure où le soleil descend sur la Garonne, Toulouse révèle toute sa magie. Laissez-vous guider à travers les plus beaux points de vue. Réserver La balade du patrimoine Le Capitole, la basilique Saint-Sernin, la Garonne… Suivez votre guide à travers les lieux les plus emblématiques de la Ville rose. Réser</summary>
-    <category term="news"/>
-    <published>2026-07-06T07:32:11.904000+00:00</published>
   </entry>
   <entry>
     <id>cluster:ad6116f9-d894-4888-a3cc-ddbe3fe38c2c</id>
@@ -1415,34 +1384,6 @@
     <published>2026-07-07T04:11:07.884000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:8eae1965-008b-4553-bdae-943442ee8795</id>
-    <title>« La Guerre des sexes » de retour à la Comédie de la Roseraie</title>
-    <updated>2026-07-07T06:48:21.134917+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;La pièce comique « La Guerre des sexes aura-t-elle lieu ? » est reprogrammée à la Comédie de la Roseraie à Toulouse. Cette comédie avait remporté Le Printemps du rire de Toulouse en 2013, une distinction qui lui vaut d&amp;#x27;être rejouée aujourd&amp;#x27;hui. L&amp;#x27;intrigue met en scène deux collègues de travail qui décident d&amp;#x27;entamer une grève du sexe avec leur conjoint respectif pour obtenir enfin leur écoute. Les représentations ont lieu ce soir et jeudi soir, sans que les dates exactes ne soient précisées dans les sources.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiND0kMU&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiND0kMU&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiND0kMU&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La pièce comique « La Guerre des sexes aura-t-elle lieu ? » est reprogrammée à la Comédie de la Roseraie à Toulouse. Cette comédie avait remporté Le Printemps du rire de Toulouse en 2013, une distinction qui lui vaut d'être rejouée aujourd'hui. L'intrigue met en scène deux collègues de travail qui décident d'entamer une grève du sexe avec leur conjoint respectif pour obtenir enfin leur écoute. Les représentations ont lieu ce soir et jeudi soir, sans que les dates exactes ne soient précisées dans les sources.</summary>
-    <category term="event"/>
-    <published>2026-07-07T04:05:58.884000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:aec81401-0a9a-4f13-a7a0-45b5bec9eba8</id>
-    <title>Étape de travail pour un spectacle clown-marionnette à Pibrac</title>
-    <updated>2026-07-07T06:48:21.134917+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Après deux semaines de résidence au Petit Théâtre Musical de Pibrac, Christelle Reynaud présente ce soir une étape de travail de son prochain spectacle, *Il était une plus belle fois*. La pièce mêle clown et marionnette pour aborder la thématique des violences sexuelles. La création est destinée à être présentée en bonne et due forme lors du festival Marionnettissimo 2027. Cette sortie de résidence constitue une présentation de travail en cours, non une première officielle.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiNDylug&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiNDylug&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiNDylug&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Après deux semaines de résidence au Petit Théâtre Musical de Pibrac, Christelle Reynaud présente ce soir une étape de travail de son prochain spectacle, *Il était une plus belle fois*. La pièce mêle clown et marionnette pour aborder la thématique des violences sexuelles. La création est destinée à être présentée en bonne et due forme lors du festival Marionnettissimo 2027. Cette sortie de résidence constitue une présentation de travail en cours, non une première officielle.</summary>
-    <category term="event"/>
-    <published>2026-07-07T04:05:58.884000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:a599654d-2c0f-4b63-910e-a32efa24d1b9</id>
     <title>Travaux d'été 2026 : les chantiers qui perturbent la circulation à Toulouse</title>
     <updated>2026-07-07T06:48:21.134917+00:00</updated>
@@ -1459,33 +1400,15 @@
   </entry>
   <entry>
     <id>cluster:a4607102-b96f-4c94-b0ab-f6c4fda078b8</id>
-    <title>Un nouveau collège doit voir le jour à Toulouse, et remplacer une friche : ces chèvres rendent le projet plus concret</title>
+    <title>Un nouveau collège de 600 élèves prévu quartier Malepère en 2031</title>
     <updated>2026-07-07T06:48:21.134917+00:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;De nouveaux collèges vont être construits en Haute-Garonne. Il y a quelques semaines, Actu Toulouse évoquait la construction d’un collège à Mondonville. Ce collège qui doit ouvrir à la rentrée 2029. L’établissement pourra accueillir 600 élèves, et sera situé à l’ouest de cette commune de 6 000 habitants, à proximité de la forêt de Bouconne. Le début de chantier aurait lieu en juillet 2027. Le projet doit coûter 15,6 millions d’euros.
-Dans le même temps, un deuxième projet est en train de se concrétiser. Les premiers marchés publics ont, en effet, été passés pour la construction d’un nouveau collège à Toulouse. Ce collège verra le jour en 2031 selon le calendrier du conseil départemental. On vous en dit plus.
-Un nouveau collège quartier Malepère
-Ce nouveau collège verra le jour au sud-est de Toulouse, quartier Malepère. Les premiers marchés publics ont été lancés il y a quelques jours.
-Prévu route de Labège, ce nouveau collège pourra accueillir 600 élèves sur la ZAC de Malepère, et pourra même monter 720 élèves.
-Il comprendra également plateau sportif mutualisable, un parking, un parvis. Pour être réalisé, il va nécessiter le désamiantage, puis la démolition d’un bâtiment au 11, chemin Malepère.
-Ouverture : septembre 2031
-Le budget prévisionnel s’élève à 18 millions d’euros. L’établissement doit ouvrir au public en septembre 2031.
-D’ici le début des travaux dans un an, la friche d’1,7 hectares de l’ancienne scierie désaffectée doit être entretenue.
-Vingt moutons et six chèvres&lt;/p&gt;
+    <content type="html">&lt;p&gt;Le conseil départemental de Haute-Garonne a lancé les premiers marchés publics pour la construction d&amp;#x27;un nouveau collège dans le quartier Malepère, au sud-est de Toulouse. L&amp;#x27;établissement, prévu route de Labège sur la ZAC de Malepère, pourra accueillir entre 600 et 720 élèves et devrait ouvrir en septembre 2031. Le budget prévisionnel s&amp;#x27;élève à 18 millions d&amp;#x27;euros. Le projet implique au préalable le désamiantage et la démolition d&amp;#x27;un ancien bâtiment sur une friche de 1,7 hectare issue d&amp;#x27;une ancienne scierie désaffectée, dont l&amp;#x27;entretien est assuré d&amp;#x27;ici le début des travaux par des moutons et des chèvres.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-nouveau-college-doit-voir-le-jour-a-toulouse-des-chevres-rendent-le-projet-plus-concret-ces-derniers-jours_64502384.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/un-nouveau-college-doit-voir-le-jour-a-toulouse-des-chevres-rendent-le-projet-plus-concret-ces-derniers-jours_64502384.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>De nouveaux collèges vont être construits en Haute-Garonne. Il y a quelques semaines, Actu Toulouse évoquait la construction d’un collège à Mondonville. Ce collège qui doit ouvrir à la rentrée 2029. L’établissement pourra accueillir 600 élèves, et sera situé à l’ouest de cette commune de 6 000 habitants, à proximité de la forêt de Bouconne. Le début de chantier aurait lieu en juillet 2027. Le projet doit coûter 15,6 millions d’euros.
-Dans le même temps, un deuxième projet est en train de se concrétiser. Les premiers marchés publics ont, en effet, été passés pour la construction d’un nouveau collège à Toulouse. Ce collège verra le jour en 2031 selon le calendrier du conseil départemental. On vous en dit plus.
-Un nouveau collège quartier Malepère
-Ce nouveau collège verra le jour au sud-est de Toulouse, quartier Malepère. Les premiers marchés publics ont été lancés il y a quelques jours.
-Prévu route de Labège, ce nouveau collège pourra accueillir 600 élèves sur la ZAC de Malepère, et pourra même monter 720 élèves.
-Il comprendra également plateau sportif mutualisable, un parking, un parvis. Pour être réalisé, il va nécessiter le désamiantage, puis la démolition d’un bâtiment au 11, chemin Malepère.
-Ouverture : septembre 2031
-Le budget prévisionnel s’élève à 18 millions d’euros. L’établissement doit ouvrir au public en septembre 2031.
-D’ici le début des travaux dans un an, la friche d’1,7 hectares de l’ancienne scierie désaffectée doit être entretenue.
-Vingt moutons et six chèvres</summary>
+    <summary>Le conseil départemental de Haute-Garonne a lancé les premiers marchés publics pour la construction d'un nouveau collège dans le quartier Malepère, au sud-est de Toulouse. L'établissement, prévu route de Labège sur la ZAC de Malepère, pourra accueillir entre 600 et 720 élèves et devrait ouvrir en septembre 2031. Le budget prévisionnel s'élève à 18 millions d'euros. Le projet implique au préalable le désamiantage et la démolition d'un ancien bâtiment sur une friche de 1,7 hectare issue d'une ancienne scierie désaffectée, dont l'entretien est assuré d'ici le début des travaux par des moutons et des chèvres.</summary>
     <category term="news"/>
     <published>2026-07-07T06:14:02+02:00</published>
   </entry>
@@ -1564,5 +1487,33 @@ Vingt moutons et six chèvres</summary>
     <summary>À Toulouse, la mairie a mis en place un couvre-feu pour les mineurs de moins de 16 ans non accompagnés lors du match France-Suède (30 juin, 23h), limité à l'hypercentre et aux quartiers Bonnefoy et Marengo. Après la qualification des Bleus pour les quarts de finale, une fan zone de 15 000 places a été officiellement confirmée sur le parvis du Stadium de l'île du Ramier — une première pour Toulouse, qui abandonne la Prairie des Filtres. Le quart de finale France-Maroc est prévu le jeudi 9 juillet à 22h, avec ouverture de la fan zone dès 19h ; écran géant, foodtrucks, buvette et dispositifs de prévention (éthylotests, lutte contre les violences sexuelles et sexistes) seront au rendez-vous. Les ponts Pierre-de-Coubertin et du Garigliano seront fermés à la circulation, les parkings alentour fermés, et la mairie incite fortement aux transports en commun. Le dispositif (couvre-feu et fan zone) est prévu pour se prolonger en demi-finale (14 juillet) et en finale (19 juillet), sous réserve de qualification des Bleus.</summary>
     <category term="news"/>
     <published>2026-06-30T16:27:57+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:28020655-5931-4a11-a604-9a70ea074d9d</id>
+    <title>« La Guerre des sexes aura-t-elle lieu ? » de retour à la Roseraie</title>
+    <updated>2026-07-07T08:26:48.166116+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;La pièce « La Guerre des sexes aura-t-elle lieu ? », lauréate du Printemps du rire de Toulouse en 2013, est reprogrammée à la Comédie de la Roseraie pour deux représentations. L&amp;#x27;intrigue met en scène deux collègues qui décident de faire la grève du sexe avec leur conjoint pour se faire enfin entendre. Cette comédie, déjà récompensée par le public toulousain, bénéficie ainsi d&amp;#x27;un retour sur scène plus d&amp;#x27;une décennie après son succès initial. Les amateurs de théâtre comique sont les premiers concernés par ces deux soirées.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiND0kMU&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiND0kMU&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiND0kMU&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La pièce « La Guerre des sexes aura-t-elle lieu ? », lauréate du Printemps du rire de Toulouse en 2013, est reprogrammée à la Comédie de la Roseraie pour deux représentations. L'intrigue met en scène deux collègues qui décident de faire la grève du sexe avec leur conjoint pour se faire enfin entendre. Cette comédie, déjà récompensée par le public toulousain, bénéficie ainsi d'un retour sur scène plus d'une décennie après son succès initial. Les amateurs de théâtre comique sont les premiers concernés par ces deux soirées.</summary>
+    <category term="event"/>
+    <published>2026-07-07T04:05:58.884000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9dcf5dbb-e030-4e26-b151-a25069fc27a1</id>
+    <title>Étape de travail : clown et marionnette contre les violences sexuelles</title>
+    <updated>2026-07-07T08:26:48.166116+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Christelle Reynaud présente ce soir une étape de travail de son spectacle *Il était une plus belle fois* au petit théâtre musical de Pibrac, après deux semaines de résidence sur place. Ce projet mêle clown et marionnette pour aborder la thématique des violences sexuelles. La création est destinée à une sortie officielle lors du festival Marionnettissimo 2027. Les deux sources sont identiques et ne fournissent pas d&amp;#x27;informations supplémentaires sur les horaires ou les conditions d&amp;#x27;accès.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiNDylug&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiNDylug&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2H6kjEA0_ueglPXEI3Cg5636zttGVvFs1o2kiNDylug&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Christelle Reynaud présente ce soir une étape de travail de son spectacle *Il était une plus belle fois* au petit théâtre musical de Pibrac, après deux semaines de résidence sur place. Ce projet mêle clown et marionnette pour aborder la thématique des violences sexuelles. La création est destinée à une sortie officielle lors du festival Marionnettissimo 2027. Les deux sources sont identiques et ne fournissent pas d'informations supplémentaires sur les horaires ou les conditions d'accès.</summary>
+    <category term="event"/>
+    <published>2026-07-07T04:05:58.884000+00:00</published>
   </entry>
 </feed>
