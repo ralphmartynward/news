@@ -162,8 +162,10 @@ def _french_date_range(start_iso: str, end_iso: str | None) -> str:
 
     if s == e:
         return f"{s.day} {sm} {s.year}"
-    if s < today:
-        # Event already started — show end only
+    if s <= today:
+        # Event already started or starts today — show end only.
+        # Avoids "du 7 au 12" when the event began days ago but event_start
+        # was set to today via the published_at fallback.
         return f"jusqu'au {e.day} {em} {e.year}"
     if s.month == e.month and s.year == e.year:
         return f"du {s.day} au {e.day} {em} {s.year}"
