@@ -4703,24 +4703,62 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-07#45835?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:cbf2112c-8502-4b90-b8ac-0574de0b2afa@news.lavillerose.com
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260709
+SUMMARY:La Métropole ferme un accès de la base de loisirs de la Ramée
+DESCRIPTION:Depuis le lundi 6 juillet 2026\, Toulouse Métropole a fermé l
+ 'accès voitures côté Guilhermy de la base de loisirs de la Ramée\, à 
+ Tournefeuille\, en concertation avec la municipalité. Cette décision pr
+ éventive vise à éviter une installation illicite de gens du voyage\, ap
+ rès plusieurs occupations non autorisées dans l'agglomération depuis le
+  mois de mai\, dont une importante aux Argoulets. Une nouvelle communauté
+  s'est encore installée au nord de Toulouse le dimanche 5 juillet\, illus
+ trant la vigilanc\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pou
+ r-eviter-une-intrusion-des-gens-du-voyage-toulouse-metropole-ferme-un-acce
+ s-d-une-base-de-loisirs_64509809.html
+URL:https://actu.fr/occitanie/toulouse_31555/pour-eviter-une-intrusion-des-
+ gens-du-voyage-toulouse-metropole-ferme-un-acces-d-une-base-de-loisirs_645
+ 09809.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed@news.lavillerose.com
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260830
 SUMMARY:Cinéma en plein air
-DESCRIPTION:La Cinémathèque de Toulouse lance la 22e édition de son fest
- ival Cinéma en plein air du 8 juillet au 29 août 2026\, dans sa cour his
- torique fraîchement rénovée\, rue du Taur. Au programme\, 44 films proj
- etés en version originale sous-titrée en français\, couvrant toutes les
-  époques et tous les genres : classiques comme « Lost in Translation »\
- , « À bout de souffle » ou « E.T. »\, films cultes et cinéma contemp
- orain. Les séances débutent à 22h jusqu'au 9 août\, puis à 21h30 à p
- artir du 11 août\, avec un \n\nSource\: https://www.toulouscope.fr/2026/0
- 6/30/a-partir-du-8-juillet-le-cinema-en-plein-air-est-de-retour-a-la-cinem
- atheque-de-toulouse-13422045.php
+DESCRIPTION:Pour sa 22e édition\, le festival Cinéma en plein air revient
+  dans la cour rénovée de la Cinémathèque de Toulouse\, au 69 rue du Ta
+ ur\, du 8 juillet au 29 août 2026. Pendant 8 semaines\, 44 films de genre
+ s et d'époques variés seront projetés exclusivement en version original
+ e sous-titrée en français (VOSTF)\, à 22h jusqu'au 9 août puis à 21h3
+ 0 à partir du 11 août. Le coup d'envoi est donné avec « Lost in Transl
+ ation » de Sofia Coppola\, suivi de classiques comme « À bout de souffl
+ e »\, « E.T. » ou « 12\n\nSource\: https://actu.fr/occitanie/toulouse_
+ 31555/cinema-en-plein-air-la-cinematheque-de-toulouse-projettera-44-films-
+ dans-sa-cour-pendant-l-ete_64407325.html
 LOCATION:rue du Taur\, Toulouse
-URL:https://www.toulouscope.fr/2026/06/30/a-partir-du-8-juillet-le-cinema-e
- n-plein-air-est-de-retour-a-la-cinematheque-de-toulouse-13422045.php?utm_s
- ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+URL:https://actu.fr/occitanie/toulouse_31555/cinema-en-plein-air-la-cinemat
+ heque-de-toulouse-projettera-44-films-dans-sa-cour-pendant-l-ete_64407325.
+ html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8f200c8c-b302-4c52-a49a-14943fd6fa62@news.lavillerose.com
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260914
+SUMMARY:Recycler ses fournitures scolaires contre un bon d'achat à Toulous
+ e
+DESCRIPTION:À l'approche de la rentrée\, deux enseignes proposent de recy
+ cler les fournitures scolaires usagées contre un bon d'achat de 10 €. M
+ idica organise une collecte jusqu'au 18 juillet 2026 : cahiers\, stylos\, 
+ calculatrices et autres fournitures en bon état sont acceptés\, puis red
+ istribués aux familles dans le besoin via la Caisse des écoles de Toulou
+ se. Cultura mène de son côté une opération nationale de reprise de car
+ tables et sacs à dos\, valable jusqu'au 13 septembre 2026\, également co
+ ntre un bon de\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2
+ 026-07-08#45970
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-08#45970?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0763d3a2-6cf6-4d62-a855-e5ab8ee0da09@news.lavillerose.com
@@ -4836,6 +4874,24 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-29#44871?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:08d1efe7-fd06-43ad-afd1-87176325ca9d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260723
+SUMMARY:Quartiers d'été Balma
+DESCRIPTION:La ville de Balma organise cet été trois journées d'animatio
+ ns de quartier\, à Lasbordes\, Vidailhan et Cyprié\, dans le cadre de l'
+ opération « Quartiers d'été ». La première journée se tient à Lasb
+ ordes sur le thème du camping\, avec transformation de la place Monet\, s
+ tructures gonflables et jeux d'eau\, de 14h à 20h. L'événement est grat
+ uit et ouvert à tous\, petits et grands\, avec l'objectif d'animer le quo
+ tidien des habitants qui ne partent pas en vacances. En complément\, la m
+ édiathèque propose ch\n\nSource\: https://www.lessentiel.fr/newsletter/t
+ oulouse/2026-07-08#45972
+LOCATION:place Monet\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-08#45972?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e940f68e-8fd9-4b9d-96e9-5008d4a74864@news.lavillerose.com
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
@@ -4875,6 +4931,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/quatorze-heures-de-musique-sur
  -un-pont-qui-enjambe-le-peripherique-cet-open-air-gratuit-va-faire-danser-
  toulouse_64470845.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ab60ba31-e048-463c-9723-119714fce35d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Ciné'scopia
+DESCRIPTION:Pour sa 2e édition\, Ciné'scopia revient au musée aeroscopia
+  de Blagnac avec quatre soirées de cinéma en plein air organisées sur l
+ e tarmac\, entourées d'appareils emblématiques comme le Concorde\, la Ca
+ ravelle et le Falcon. Un écran géant est installé au pied de ces avions
+  de légende\, en partenariat avec le CGR de Blagnac\, pour une programmat
+ ion grand public : Top Gun (17 juillet)\, Boîte noire (24 juillet)\, Mamm
+ a Mia! (7 août) et Dragons (21 août). Avant chaque projection\, un espac
+ e guinguette ave\n\nSource\: https://www.toulouscope.fr/2026/07/08/ce-cine
+ ma-en-plein-air-pres-de-toulouse-se-deroule-au-milieu-des-avions-13456012.
+ php
+URL:https://www.toulouscope.fr/2026/07/08/ce-cinema-en-plein-air-pres-de-to
+ ulouse-se-deroule-au-milieu-des-avions-13456012.php?utm_source=ical&utm_me
+ dium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9979bf59-50da-423e-b260-6ed8e7ec63fc@news.lavillerose.com
@@ -5010,6 +5085,27 @@ DESCRIPTION:Le Rose Festival\, créé par Bigflo et Oli et désormais rende
 URL:https://actu.fr/occitanie/toulouse_31555/rose-festival-bekar-medine-mer
  yl-sept-nouveaux-artistes-rejoignent-la-programmation_64455885.html?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5aea2371-d34d-46a9-a27f-77a9fc1e28a7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Le Linéo 1\, ligne de bus la plus fréquentée\, étend son servic
+ e en soirée
+DESCRIPTION:À partir du 31 août 2026\, la ligne Linéo 1 de Tisséo — l
+ a plus fréquentée de Toulouse avec jusqu'à 22 000 voyageurs par jour 
+ — verra son service de soirée étendu à l'ensemble de son itinéraire.
+  Actuellement\, les dessertes de soirée s'arrêtent au Gymnase de l'Hers\
+ , laissant les communes de Balma et Quint-Fonsegrives sans couverture dire
+ cte après une certaine heure. Dès la rentrée\, le Linéo 1 ira jusqu'au
+  terminus Fonsegrives – Entiore\, intégrant cinq arrêts jusque-là des
+ servis par le TAD 106 depu\n\nSource\: https://actu.fr/occitanie/toulouse_
+ 31555/la-plus-frequentee-des-lignes-de-bus-de-toulouse-va-connaitre-un-gro
+ s-changement-les-consequences-a-venir_64449067.html
+URL:https://actu.fr/occitanie/toulouse_31555/la-plus-frequentee-des-lignes-
+ de-bus-de-toulouse-va-connaitre-un-gros-changement-les-consequences-a-veni
+ r_64449067.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:fea5ff65-fc94-4e40-b0ea-e29b8924efc8@news.lavillerose.com
