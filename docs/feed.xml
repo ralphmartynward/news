@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-07-08T07:31:32.844784+00:00</updated>
+  <updated>2026-07-09T08:41:46.395807+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,207 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:79c68c52-d92a-47ca-8268-b6f3b01a832d</id>
-    <title>Le théâtre Sorano mise sur le politique pour sa nouvelle saison</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le théâtre Sorano de Toulouse entame une saison très dense avec 40 spectacles, dont une majorité de créations, placée sous le signe du politique en lien avec l&amp;#x27;année présidentielle. La directrice en place depuis janvier 2025 poursuit ses axes artistiques avec des créations de Romane Nicolas et Hugues Duchêne, ce dernier signant une dystopie politique projetée jusqu&amp;#x27;en 2077. Parmi les temps forts, « Thérapie Macron » imagine un Emmanuel Macron octogénaire hésitant à se représenter en 2058, tandis que « Nelvar - Le royaume sans peuple » aborde la lutte pour le pouvoir sur un registre de fantasy héroïque. La programmation cherche également à prendre du recul via le répertoire classique, mêlant engagement contemporain et distance critique.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45390"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45390"/>
-    <summary>Le théâtre Sorano de Toulouse entame une saison très dense avec 40 spectacles, dont une majorité de créations, placée sous le signe du politique en lien avec l'année présidentielle. La directrice en place depuis janvier 2025 poursuit ses axes artistiques avec des créations de Romane Nicolas et Hugues Duchêne, ce dernier signant une dystopie politique projetée jusqu'en 2077. Parmi les temps forts, « Thérapie Macron » imagine un Emmanuel Macron octogénaire hésitant à se représenter en 2058, tandis que « Nelvar - Le royaume sans peuple » aborde la lutte pour le pouvoir sur un registre de fantasy héroïque. La programmation cherche également à prendre du recul via le répertoire classique, mêlant engagement contemporain et distance critique.</summary>
-    <category term="culture"/>
-    <published>2026-07-02T04:10:13.243000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:83ee57d1-09b5-4cb3-8e3e-214bcd53f940</id>
-    <title>Le Comex 40 du Medef 31 fête l'été au Canal du Midi</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Comex 40 du Medef Haute-Garonne, qui réunit 150 dirigeants d&amp;#x27;entreprise de moins de 45 ans, organise sa summer party aux Cales de Radoub, 65 allée des Demoiselles à Toulouse. Ouverte à tous, cette 5e édition reverse 15 € par entrée à la Mission mécénat de Voies Navigables de France pour financer la replantation du Canal du Midi, menacé par le chancre coloré qui ravage ses platanes emblématiques. L&amp;#x27;événement coïncide avec le festival Convivencia, qui se tient au même endroit. Des packs partenaires sont également proposés aux entreprises souhaitant rejoindre le Club des mécènes du canal.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45388"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45388"/>
-    <summary>Le Comex 40 du Medef Haute-Garonne, qui réunit 150 dirigeants d'entreprise de moins de 45 ans, organise sa summer party aux Cales de Radoub, 65 allée des Demoiselles à Toulouse. Ouverte à tous, cette 5e édition reverse 15 € par entrée à la Mission mécénat de Voies Navigables de France pour financer la replantation du Canal du Midi, menacé par le chancre coloré qui ravage ses platanes emblématiques. L'événement coïncide avec le festival Convivencia, qui se tient au même endroit. Des packs partenaires sont également proposés aux entreprises souhaitant rejoindre le Club des mécènes du canal.</summary>
-    <category term="event"/>
-    <published>2026-07-02T04:10:13.243000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:1c0fa16d-74e1-4566-96f7-5c50f7ca9017</id>
-    <title>Exposition collective sur La Grave aux Halles de la Cartoucherie</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Les Halles de la Cartoucherie accueillent tout l&amp;#x27;été l&amp;#x27;exposition collective « Mais Grave », réunissant 10 artistes toulousains autour d&amp;#x27;un même sujet : le dôme de La Grave, souvent présenté comme le monument le plus photographié de Toulouse. Chaque artiste — photographe, illustrateur, céramiste — propose sa propre interprétation dans un format imposé de 50 × 70 cm, créant une diversité de regards à partir d&amp;#x27;une contrainte commune. L&amp;#x27;exposition se tient dans la Grande Rue des Halles jusqu&amp;#x27;à fin août. En parallèle, l&amp;#x27;artiste Guillaumit a réalisé des fresques au sol dans le Préau, et les Halles lancent des brunchs dominicaux de 10h à 12h à partir de dimanche.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45389"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45389"/>
-    <summary>Les Halles de la Cartoucherie accueillent tout l'été l'exposition collective « Mais Grave », réunissant 10 artistes toulousains autour d'un même sujet : le dôme de La Grave, souvent présenté comme le monument le plus photographié de Toulouse. Chaque artiste — photographe, illustrateur, céramiste — propose sa propre interprétation dans un format imposé de 50 × 70 cm, créant une diversité de regards à partir d'une contrainte commune. L'exposition se tient dans la Grande Rue des Halles jusqu'à fin août. En parallèle, l'artiste Guillaumit a réalisé des fresques au sol dans le Préau, et les Halles lancent des brunchs dominicaux de 10h à 12h à partir de dimanche.</summary>
-    <category term="event"/>
-    <published>2026-07-02T04:10:13.243000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:da3fe171-5128-4c59-a39b-31487b1ea6f8</id>
-    <title>La base nautique du lac de la Reynerie ouvre pour l'été</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;La base nautique et de loisirs du lac de la Reynerie est ouverte gratuitement du 2 juillet au 29 août, du mardi au samedi de 16h30 à 18h. Enfants et adultes peuvent y pratiquer canoë-kayak, paddle ou aquabike, avec matériel mis à disposition pendant 30 minutes et inscriptions sur place. Les mineurs doivent au préalable passer un test ou obtenir un pass nautique gratuit dans les piscines toulousaines. Le Club de Kayak toulousain assure des initiations au kayak-polo tout l&amp;#x27;été, et les berges accueillent également fontaines, jeux d&amp;#x27;eau, parkour, street workout et aires de jeux.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45387"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45387"/>
-    <summary>La base nautique et de loisirs du lac de la Reynerie est ouverte gratuitement du 2 juillet au 29 août, du mardi au samedi de 16h30 à 18h. Enfants et adultes peuvent y pratiquer canoë-kayak, paddle ou aquabike, avec matériel mis à disposition pendant 30 minutes et inscriptions sur place. Les mineurs doivent au préalable passer un test ou obtenir un pass nautique gratuit dans les piscines toulousaines. Le Club de Kayak toulousain assure des initiations au kayak-polo tout l'été, et les berges accueillent également fontaines, jeux d'eau, parkour, street workout et aires de jeux.</summary>
-    <category term="event"/>
-    <published>2026-07-02T04:10:13.243000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c86c74cd-9c81-48ac-8da7-c572beaebc58</id>
-    <title>Jazz à Foix fête ses 25 ans, six jours de concerts en plein air</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Du 20 au 25 juillet 2026, le festival Jazz à Foix célèbre son 25e anniversaire dans les cours de l&amp;#x27;école Lucien-Goron, en plein cœur de la cité ariégeoise, à moins d&amp;#x27;1h30 de Toulouse. Pour l&amp;#x27;occasion, les organisateurs annoncent une programmation éclectique mêlant grands noms du jazz et découvertes, avec concerts gratuits dès 18h dans le Village Jazz et soirées payantes jusqu&amp;#x27;en jam-session tardive. Le festival peut accueillir jusqu&amp;#x27;à 8 500 spectateurs sur l&amp;#x27;ensemble des soirées, dans une ambiance conviviale avec buvette, restaurant associatif et food trucks. L&amp;#x27;extrait s&amp;#x27;interrompt avant que la programmation complète des 25 ans ne soit dévoilée.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/01/le-festival-jazz-a-foix-fete-ses-25-ans-avec-une-programmation-eclectique-13425991.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/07/01/le-festival-jazz-a-foix-fete-ses-25-ans-avec-une-programmation-eclectique-13425991.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Du 20 au 25 juillet 2026, le festival Jazz à Foix célèbre son 25e anniversaire dans les cours de l'école Lucien-Goron, en plein cœur de la cité ariégeoise, à moins d'1h30 de Toulouse. Pour l'occasion, les organisateurs annoncent une programmation éclectique mêlant grands noms du jazz et découvertes, avec concerts gratuits dès 18h dans le Village Jazz et soirées payantes jusqu'en jam-session tardive. Le festival peut accueillir jusqu'à 8 500 spectateurs sur l'ensemble des soirées, dans une ambiance conviviale avec buvette, restaurant associatif et food trucks. L'extrait s'interrompt avant que la programmation complète des 25 ans ne soit dévoilée.</summary>
-    <category term="event"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:bda3fd09-23a8-439a-b04d-111c6a19fd39</id>
-    <title>Milan Presse à Toulouse : une trentaine de postes menacés, les salariés débrayent</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Une centaine de salariés de Milan Presse ont débrayé mardi matin à Toulouse pour protester contre un plan de sauvegarde de l&amp;#x27;emploi (PSE) initié par la maison mère Bayard, qui prévoit la suppression d&amp;#x27;environ 28 CDI et 3 CDD. Les suppressions de postes sont prévues pour être effectives en 2027, mais les salariés réclament des délais plus longs pour permettre de véritables négociations. Parmi les mesures contestées, la disparition du magazine Yam Yam (ex-Géo Ado), jugée précipitée par la déléguée syndicale CGT Aude Le Breton, qui souligne que le titre n&amp;#x27;était en vente que depuis septembre. Milan Presse, rachetée par Bayard en 2004, édite des publications jeunesse bien connues comme Toboggan, Wapiti et 1jour1actu, et les salariés s&amp;#x27;inquiètent d&amp;#x27;une dilution progressive de l&amp;#x27;identité de la marque.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-trentaine-de-postes-doivent-etre-supprimes-a-toulouse-le-groupe-milan-presse-dans-la-tourmente_64480589.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/une-trentaine-de-postes-doivent-etre-supprimes-a-toulouse-le-groupe-milan-presse-dans-la-tourmente_64480589.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Une centaine de salariés de Milan Presse ont débrayé mardi matin à Toulouse pour protester contre un plan de sauvegarde de l'emploi (PSE) initié par la maison mère Bayard, qui prévoit la suppression d'environ 28 CDI et 3 CDD. Les suppressions de postes sont prévues pour être effectives en 2027, mais les salariés réclament des délais plus longs pour permettre de véritables négociations. Parmi les mesures contestées, la disparition du magazine Yam Yam (ex-Géo Ado), jugée précipitée par la déléguée syndicale CGT Aude Le Breton, qui souligne que le titre n'était en vente que depuis septembre. Milan Presse, rachetée par Bayard en 2004, édite des publications jeunesse bien connues comme Toboggan, Wapiti et 1jour1actu, et les salariés s'inquiètent d'une dilution progressive de l'identité de la marque.</summary>
-    <category term="news"/>
-    <published>2026-07-01T10:18:22+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a4f5b556-18d4-4539-b8b8-fd4eccfebff6</id>
-    <title>Panne d'électricité : 5 000 foyers touchés à Toulouse ce mercredi</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Ce mercredi 1er juillet 2026 vers 9h, une panne d&amp;#x27;électricité a privé plus de 5 000 foyers et commerces toulousains de courant, affectant le centre-ville, les Carmes et Lardenne. L&amp;#x27;origine de l&amp;#x27;incident ne vient pas de la chaleur — les températures étaient clémentes ce matin-là — mais de travaux menés sur un poste source à Colomiers. Enedis a expliqué qu&amp;#x27;un nouveau transformateur était en cours d&amp;#x27;installation pour augmenter la puissance du réseau, et que quelques « départs » haute tension ont été coupés durant l&amp;#x27;opération. Ces travaux s&amp;#x27;inscrivent dans un effort de renforcement du réseau face à la croissance démographique continue de l&amp;#x27;agglomération toulousaine.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-panne-d-electricite-touche-5-000-foyers-et-commerces-a-toulouse-ce-qu-il-s-est-passe_64481299.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/une-panne-d-electricite-touche-5-000-foyers-et-commerces-a-toulouse-ce-qu-il-s-est-passe_64481299.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce mercredi 1er juillet 2026 vers 9h, une panne d'électricité a privé plus de 5 000 foyers et commerces toulousains de courant, affectant le centre-ville, les Carmes et Lardenne. L'origine de l'incident ne vient pas de la chaleur — les températures étaient clémentes ce matin-là — mais de travaux menés sur un poste source à Colomiers. Enedis a expliqué qu'un nouveau transformateur était en cours d'installation pour augmenter la puissance du réseau, et que quelques « départs » haute tension ont été coupés durant l'opération. Ces travaux s'inscrivent dans un effort de renforcement du réseau face à la croissance démographique continue de l'agglomération toulousaine.</summary>
-    <category term="news"/>
-    <published>2026-07-01T12:02:43+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c0a8df04-60d1-466d-9a11-a94c44b1db23</id>
-    <title>Affaire Jubillar : Frank Berton se retire avant le procès en appel</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;avocat Frank Berton, inscrit au barreau de Lille et spécialiste des grands procès, ne défendra finalement pas Cédric Jubillar lors de son procès en appel prévu à Toulouse à partir du 21 septembre 2026. C&amp;#x27;est Jubillar lui-même qui a mis fin à cette collaboration, craignant que Berton ne puisse être présent pendant toute la durée du procès, estimée à quatre semaines. Condamné le 17 octobre 2025 à 30 ans de réclusion pour le meurtre de sa femme Delphine, disparue dans la nuit du 15 au 16 décembre 2020, Jubillar avait déjà changé d&amp;#x27;équipe juridique après le premier procès aux Assises du Tarn. Sa défense reposera désormais sur Pierre Debuisson et son père Guy Debuisson, figure du barreau toulousain.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-la-defense-change-de-tete-l-un-des-nouveaux-avocats-se-retire-avant-le-nouveau-proces_64480505.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-la-defense-change-de-tete-l-un-des-nouveaux-avocats-se-retire-avant-le-nouveau-proces_64480505.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'avocat Frank Berton, inscrit au barreau de Lille et spécialiste des grands procès, ne défendra finalement pas Cédric Jubillar lors de son procès en appel prévu à Toulouse à partir du 21 septembre 2026. C'est Jubillar lui-même qui a mis fin à cette collaboration, craignant que Berton ne puisse être présent pendant toute la durée du procès, estimée à quatre semaines. Condamné le 17 octobre 2025 à 30 ans de réclusion pour le meurtre de sa femme Delphine, disparue dans la nuit du 15 au 16 décembre 2020, Jubillar avait déjà changé d'équipe juridique après le premier procès aux Assises du Tarn. Sa défense reposera désormais sur Pierre Debuisson et son père Guy Debuisson, figure du barreau toulousain.</summary>
-    <category term="news"/>
-    <published>2026-07-01T12:38:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:250c52fc-e7de-4af7-a794-bf12c2a5c457</id>
-    <title>Deux chiens de gendarmerie saisissent 19 armes et 11 kg de drogue</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Lors du démantèlement d&amp;#x27;un important trafic d&amp;#x27;armes et de stupéfiants sur un terrain de 3 hectares, les chiens Rick et Tik du groupe d&amp;#x27;investigation cynophile (GIC) de Haute-Garonne ont joué un rôle décisif. Les deux chiens ont permis de localiser 19 armes de guerre et de poing — dont des fusils d&amp;#x27;assaut AK47 et M16 —, plus de 1 000 munitions, 11 kg de stupéfiants variés (cocaïne, héroïne, kétamine, ecstasy, MDMA, amphétamines) et 26 000 euros en liquide. L&amp;#x27;opération, qualifiée de « saisie historique » par la gendarmerie, a été menée conjointement par la section de recherches de Toulouse et la brigade de recherches de Gourdon (Lot). La gendarmerie souligne que la technologie et les moyens humains classiques auraient atteint leurs limites face à l&amp;#x27;étendue du terrain et aux cachettes sophistiquées des suspects.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ils-s-appellent-rick-et-tik-deux-chiens-de-la-gendarmerie-de-haute-garonne-decouvrent-19-armes-et-11-kg-de-drogue_64481280.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/ils-s-appellent-rick-et-tik-deux-chiens-de-la-gendarmerie-de-haute-garonne-decouvrent-19-armes-et-11-kg-de-drogue_64481280.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Lors du démantèlement d'un important trafic d'armes et de stupéfiants sur un terrain de 3 hectares, les chiens Rick et Tik du groupe d'investigation cynophile (GIC) de Haute-Garonne ont joué un rôle décisif. Les deux chiens ont permis de localiser 19 armes de guerre et de poing — dont des fusils d'assaut AK47 et M16 —, plus de 1 000 munitions, 11 kg de stupéfiants variés (cocaïne, héroïne, kétamine, ecstasy, MDMA, amphétamines) et 26 000 euros en liquide. L'opération, qualifiée de « saisie historique » par la gendarmerie, a été menée conjointement par la section de recherches de Toulouse et la brigade de recherches de Gourdon (Lot). La gendarmerie souligne que la technologie et les moyens humains classiques auraient atteint leurs limites face à l'étendue du terrain et aux cachettes sophistiquées des suspects.</summary>
-    <category term="news"/>
-    <published>2026-07-01T13:21:33+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:1bee81a6-af5f-494e-bce2-212d8cd6b586</id>
-    <title>Violences sexuelles sur une enfant : six ans d'inertie judiciaire à Toulouse</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Depuis 2020, la mère d&amp;#x27;Elisa, une fillette aujourd&amp;#x27;hui âgée de dix ans, a déposé plainte contre le grand-père paternel pour violences sexuelles — une plainte classée sans suite à deux reprises, sans que le mis en cause n&amp;#x27;ait jamais été entendu par les enquêteurs, selon son avocat Me Ismaël Meziti. Six ans après les premières démarches, la famille dénonce une « inertie institutionnelle » face à l&amp;#x27;absence d&amp;#x27;actes d&amp;#x27;enquête approfondis. La situation devient urgente : d&amp;#x27;ici la mi-juillet, la fillette risque d&amp;#x27;être placée chez son père et ainsi d&amp;#x27;être en contact direct avec l&amp;#x27;accusé. Le mis en cause est par ailleurs soupçonné d&amp;#x27;avoir fait au moins deux autres victimes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Témoignage de la mère et éclairage juridique par l&amp;#x27;avocat de la famille&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/je-ne-dors-plus-la-nuit-a-toulouse-elle-denonce-des-violences-sexuelles-sur-sa-fille-depuis-6-ans-et-rien-ne-bouge_64471599.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/je-ne-dors-plus-la-nuit-a-toulouse-elle-denonce-des-violences-sexuelles-sur-sa-fille-depuis-6-ans-et-rien-ne-bouge_64471599.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Depuis 2020, la mère d'Elisa, une fillette aujourd'hui âgée de dix ans, a déposé plainte contre le grand-père paternel pour violences sexuelles — une plainte classée sans suite à deux reprises, sans que le mis en cause n'ait jamais été entendu par les enquêteurs, selon son avocat Me Ismaël Meziti. Six ans après les premières démarches, la famille dénonce une « inertie institutionnelle » face à l'absence d'actes d'enquête approfondis. La situation devient urgente : d'ici la mi-juillet, la fillette risque d'être placée chez son père et ainsi d'être en contact direct avec l'accusé. Le mis en cause est par ailleurs soupçonné d'avoir fait au moins deux autres victimes.</summary>
-    <category term="news"/>
-    <published>2026-07-01T16:28:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:428dc770-1148-4bb5-8420-4f937bc51f0c</id>
-    <title>Iris Mittenaere lance un club Lagree Fitness à Toulouse</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;ancienne Miss France et Miss Univers Iris Mittenaere a participé au lancement d&amp;#x27;un « Lagree Club » à l&amp;#x27;Happyness Studio, place Occitane, le 23 juin 2026. Le Lagree Fitness est une méthode sportive venue des États-Unis, inspirée du pilates mais plus musculaire, qui commence à se développer à Toulouse après avoir percé à Paris. Mittenaere, en couple avec Antoine Dupont du Stade Toulousain, a annoncé vouloir dupliquer ce concept de club communautaire dans d&amp;#x27;autres villes de France. Le gérant de l&amp;#x27;Happyness Studio, Xavier Verbeke, a lancé l&amp;#x27;établissement en septembre 2025 et défend une méthode qu&amp;#x27;il décrit comme physiquement exigeante.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-ancienne-miss-france-iris-mittenaere-lance-un-projet-a-toulouse-qu-elle-compte-dupliquer-partout-en-france_64483052.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/l-ancienne-miss-france-iris-mittenaere-lance-un-projet-a-toulouse-qu-elle-compte-dupliquer-partout-en-france_64483052.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'ancienne Miss France et Miss Univers Iris Mittenaere a participé au lancement d'un « Lagree Club » à l'Happyness Studio, place Occitane, le 23 juin 2026. Le Lagree Fitness est une méthode sportive venue des États-Unis, inspirée du pilates mais plus musculaire, qui commence à se développer à Toulouse après avoir percé à Paris. Mittenaere, en couple avec Antoine Dupont du Stade Toulousain, a annoncé vouloir dupliquer ce concept de club communautaire dans d'autres villes de France. Le gérant de l'Happyness Studio, Xavier Verbeke, a lancé l'établissement en septembre 2025 et défend une méthode qu'il décrit comme physiquement exigeante.</summary>
-    <category term="place"/>
-    <published>2026-07-01T17:51:54+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c03b65b3-9050-4ac9-a86b-9619384890f7</id>
-    <title>Deux corps découverts à Toulouse, un féminicide suivi d'un suicide suspecté</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le mardi 30 juin 2026, vers 19h30, des pompiers ont découvert deux cadavres au domicile d&amp;#x27;un couple chemin des Étroits, dans le quartier Pech-David au sud de Toulouse, après qu&amp;#x27;un proche a signalé ne plus avoir de nouvelles depuis le 23 juin. Les décès remonteraient à plusieurs jours : la femme de 56 ans présentait une large plaie à l&amp;#x27;abdomen, tandis que l&amp;#x27;homme de 67 ans gisait avec un impact de balle à la tête et un fusil à ses côtés. Le parquet de Toulouse a confirmé l&amp;#x27;ouverture d&amp;#x27;une enquête préliminaire pour homicide conjugal, confiée à la brigade criminelle. Les enquêteurs privilégient la piste d&amp;#x27;un féminicide suivi d&amp;#x27;un suicide ; le couple était en instance de séparation, la femme souhaitant quitter son compagnon.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article (actu_toulouse, première dépêche) s&amp;#x27;appuie sur des sources proches du couple et avance l&amp;#x27;hypothèse du féminicide-suicide. Le second article reprend la déclaration officielle du parquet de Toulouse et précise que l&amp;#x27;identité formelle des victimes n&amp;#x27;est pas encore établie avec certitude — nuance absente du premier article.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Contexte relationnel du couple, témoignages de proches, hypothèse enquêteurs&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Communiqué officiel du parquet, détails médico-légaux et précisions sur l&amp;#x27;identification des victimes&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/les-pompiers-tombent-sur-deux-cadavres-dans-une-maison-a-toulouse-il-s-agirait-d-un-feminicide-suivi-d-un-suicide_64482787.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-homme-et-une-femme-retrouves-morts-dans-une-maison-le-parquet-de-toulouse-detaille-les-faits_64484989.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/les-pompiers-tombent-sur-deux-cadavres-dans-une-maison-a-toulouse-il-s-agirait-d-un-feminicide-suivi-d-un-suicide_64482787.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le mardi 30 juin 2026, vers 19h30, des pompiers ont découvert deux cadavres au domicile d'un couple chemin des Étroits, dans le quartier Pech-David au sud de Toulouse, après qu'un proche a signalé ne plus avoir de nouvelles depuis le 23 juin. Les décès remonteraient à plusieurs jours : la femme de 56 ans présentait une large plaie à l'abdomen, tandis que l'homme de 67 ans gisait avec un impact de balle à la tête et un fusil à ses côtés. Le parquet de Toulouse a confirmé l'ouverture d'une enquête préliminaire pour homicide conjugal, confiée à la brigade criminelle. Les enquêteurs privilégient la piste d'un féminicide suivi d'un suicide ; le couple était en instance de séparation, la femme souhaitant quitter son compagnon.</summary>
-    <category term="news"/>
-    <published>2026-07-01T15:47:51+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5c9b4f1f-bd13-4e59-bd9d-1f4162a7f7e1</id>
-    <title>Grands travaux de démolition en cours près de la gare Matabiau</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Dans le quartier Grand Matabiau quais d&amp;#x27;Oc, d&amp;#x27;importants travaux de démolition sont en cours depuis le 22 juin 2026 : les équipes de l&amp;#x27;EPFL du Grand Toulouse s&amp;#x27;affairent à raser un îlot d&amp;#x27;anciennes habitations délimité par les rues du Faubourg Bonnefoy, des Cheminots et Saint-Laurent. Ces démolitions, qui doivent s&amp;#x27;achever le 30 juillet 2026, font suite à une première vague de destructions menée en juin 2025 aux numéros 5 et 6 de la rue des Cheminots. Le chantier s&amp;#x27;inscrit dans une transformation plus large du secteur, qui comprend également l&amp;#x27;installation d&amp;#x27;un réseau de chaleur et la métamorphose de l&amp;#x27;avenue Olivier Guichard (ex-avenue de Lyon). Une fois les bâtiments rasés, un vaste projet immobilier doit prendre place sur le site.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail des travaux en cours, calendrier et contexte du projet immobilier à venir&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/demolition-deviation-a-quoi-vont-servir-ces-importants-travaux-en-cours-pres-de-la-gare-de-toulouse_64483415.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/demolition-deviation-a-quoi-vont-servir-ces-importants-travaux-en-cours-pres-de-la-gare-de-toulouse_64483415.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Dans le quartier Grand Matabiau quais d'Oc, d'importants travaux de démolition sont en cours depuis le 22 juin 2026 : les équipes de l'EPFL du Grand Toulouse s'affairent à raser un îlot d'anciennes habitations délimité par les rues du Faubourg Bonnefoy, des Cheminots et Saint-Laurent. Ces démolitions, qui doivent s'achever le 30 juillet 2026, font suite à une première vague de destructions menée en juin 2025 aux numéros 5 et 6 de la rue des Cheminots. Le chantier s'inscrit dans une transformation plus large du secteur, qui comprend également l'installation d'un réseau de chaleur et la métamorphose de l'avenue Olivier Guichard (ex-avenue de Lyon). Une fois les bâtiments rasés, un vaste projet immobilier doit prendre place sur le site.</summary>
-    <category term="news"/>
-    <published>2026-07-02T06:12:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b4162a99-68ec-418f-9905-fb3749177c96</id>
-    <title>La Halle des Mobilités, « Concorde du rail », bientôt en chantier à Matabiau</title>
-    <updated>2026-07-02T06:20:52.062121+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La Région Occitanie s&amp;#x27;apprête à lancer les travaux de la Halle des Mobilités dans le quartier Matabiau, sur l&amp;#x27;emplacement de l&amp;#x27;ancienne Tour d&amp;#x27;Argent (ex-siège SNCF) démolies en début d&amp;#x27;année. Ce bâtiment de 12 400 m², dont l&amp;#x27;architecture s&amp;#x27;inspire du Concorde, est conçu pour accueillir jusqu&amp;#x27;à 150 000 voyageurs par jour à l&amp;#x27;horizon 2032, soit trois fois la fréquentation actuelle de la gare. Il centralisera métro, bus, trains régionaux (RER toulousain) et la future LGV Bordeaux-Toulouse, faisant de Matabiau le principal nœud de transport de l&amp;#x27;aire urbaine. Le projet inclut également une vélostation de 1 600 m² pour 1 000 vélos, portée par Toulouse Métropole, ainsi que des espaces de bureaux.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails architecturaux, calendrier des travaux, superficie et équipements prévus&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-sera-le-concorde-du-rail-a-toulouse-quand-vont-debuter-les-travaux-de-la-halle-des-mobilites_64475904.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/ce-sera-le-concorde-du-rail-a-toulouse-quand-vont-debuter-les-travaux-de-la-halle-des-mobilites_64475904.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Région Occitanie s'apprête à lancer les travaux de la Halle des Mobilités dans le quartier Matabiau, sur l'emplacement de l'ancienne Tour d'Argent (ex-siège SNCF) démolies en début d'année. Ce bâtiment de 12 400 m², dont l'architecture s'inspire du Concorde, est conçu pour accueillir jusqu'à 150 000 voyageurs par jour à l'horizon 2032, soit trois fois la fréquentation actuelle de la gare. Il centralisera métro, bus, trains régionaux (RER toulousain) et la future LGV Bordeaux-Toulouse, faisant de Matabiau le principal nœud de transport de l'aire urbaine. Le projet inclut également une vélostation de 1 600 m² pour 1 000 vélos, portée par Toulouse Métropole, ainsi que des espaces de bureaux.</summary>
-    <category term="news"/>
-    <published>2026-07-02T07:12:01+02:00</published>
-  </entry>
   <entry>
     <id>cluster:f5274cb9-3f65-4336-9d44-79949808ed4d</id>
     <title>Le Festival de Toulouse : 12 soirées mêlant classique, jazz et pop</title>
@@ -376,20 +175,6 @@
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-03?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45521"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-03?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45521"/>
     <summary>L'Aria, salle de spectacle de Cornebarrieu, dévoile ce soir sa programmation annuelle lors d'une soirée de présentation à 18h30 à la Maison du lien social, ouverte à tous sur inscription. La saison mise fortement sur l'axe familial, avec des spectacles jeune public accessibles à tous les âges, selon la directrice Julia Ansola. Au programme figurent notamment « Juste Irena », un spectacle de marionnettes sur Irena Sendler qui sauva 2 500 enfants du ghetto de Varsovie, ainsi que la venue d'Ariane Ascaride pour « Touchée par les fées », récit autobiographique écrit avec Marie Desplechin. D'autres temps forts sont annoncés : « Le Petit Prince » en magie augmentée avec la voix de Philippe Torreton, des spectacles estampillés Odyssud, et une adaptation de « La disparition de Josef Mengele » (prix Renaudot).</summary>
-    <category term="event"/>
-    <published>2026-07-03T04:09:36.663000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:29f70633-9100-4b0e-9d02-969e585d6d1f</id>
-    <title>Exposition : 16 rescapés d'Auschwitz enfin identifiés au musée</title>
-    <updated>2026-07-03T07:01:14.418641+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;exposition temporaire « Survivre à Auschwitz » est présentée au musée départemental de la Résistance et de la Déportation de Toulouse jusqu&amp;#x27;au 31 octobre. Elle retrace le parcours de 16 rescapés français du camp d&amp;#x27;extermination nazi, à partir d&amp;#x27;une photographie prise peu après la libération du camp en février 1945. Ce cliché, conservé au Mémorial de la Shoah, montrait onze femmes et cinq hommes jusqu&amp;#x27;alors anonymes, réunis sous la bannière du Parti communiste français. Après quatre ans d&amp;#x27;enquête menée par Claire Léger, l&amp;#x27;historien Tal Bruttmann et l&amp;#x27;archiviste Karen Taieb, chacun de ces visages a pu être identifié et nommé.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-03?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45520"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-03?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45520"/>
-    <summary>L'exposition temporaire « Survivre à Auschwitz » est présentée au musée départemental de la Résistance et de la Déportation de Toulouse jusqu'au 31 octobre. Elle retrace le parcours de 16 rescapés français du camp d'extermination nazi, à partir d'une photographie prise peu après la libération du camp en février 1945. Ce cliché, conservé au Mémorial de la Shoah, montrait onze femmes et cinq hommes jusqu'alors anonymes, réunis sous la bannière du Parti communiste français. Après quatre ans d'enquête menée par Claire Léger, l'historien Tal Bruttmann et l'archiviste Karen Taieb, chacun de ces visages a pu être identifié et nommé.</summary>
     <category term="event"/>
     <published>2026-07-03T04:09:36.663000+00:00</published>
   </entry>
@@ -705,22 +490,19 @@
     <title>L'Eden Park WateRugby revient pour sa 8e édition à la Daurade</title>
     <updated>2026-07-03T09:23:56.598191+00:00</updated>
     <author>
-      <name>lessentiel</name>
+      <name>office_tourisme</name>
     </author>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <author>
-      <name>office_tourisme</name>
-    </author>
     <content type="html">&lt;p&gt;Du 2 au 5 juillet 2026, la 8e édition de l&amp;#x27;Eden Park WateRugby se tient au port de la Daurade, sur la Garonne. Le concept, imaginé par l&amp;#x27;ancien international Yann Delaigue, consiste à jouer au rugby à toucher sur des terrains flottants, avec une règle unique : pour marquer, il faut plonger dans la Garonne. Quelque 1 500 joueurs et joueuses sont attendus sur quatre jours, répartis en tournois étudiants, entreprises et grand public. Le temps fort reste l&amp;#x27;« Eau&amp;#x27;ll Star », avec plus de 50 légendes du rugby — Vincent Clerc, Fabien Pelous, Joe Tekori ou encore Romane Ménager — attendues samedi et dimanche. L&amp;#x27;événement, qui a attiré 40 000 visiteurs en 2025, est gratuit et comprend également un village, des food-trucks, des concerts et des DJ sets en soirée.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Les sources s&amp;#x27;accordent sur l&amp;#x27;essentiel mais divergent légèrement sur les dimensions des terrains flottants (lessentiel indique 50m×40m, actu_toulouse indique 40m×35m). L&amp;#x27;office du tourisme se limite à une présentation synthétique sans détails de programme.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Programme détaillé, noms des légendes présentes et animations&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Contexte et citations du fondateur Yann Delaigue&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Résumé pratique pour visiteurs&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45386"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=aa170484-9248-4940-b092-43997f3944b3&amp;amp;url_id=4ecdc581-f97b-4c0e-8514-e11043ccd17a&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/1500-joueurs-et-des-legendes-du-rugby-l-eden-park-waterugby-est-de-retour-sur-la-garonne-a-toulouse_64487189.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45386"/>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=aa170484-9248-4940-b092-43997f3944b3&amp;amp;url_id=4ecdc581-f97b-4c0e-8514-e11043ccd17a&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/1500-joueurs-et-des-legendes-du-rugby-l-eden-park-waterugby-est-de-retour-sur-la-garonne-a-toulouse_64487189.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=aa170484-9248-4940-b092-43997f3944b3&amp;url_id=4ecdc581-f97b-4c0e-8514-e11043ccd17a&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>Du 2 au 5 juillet 2026, la 8e édition de l'Eden Park WateRugby se tient au port de la Daurade, sur la Garonne. Le concept, imaginé par l'ancien international Yann Delaigue, consiste à jouer au rugby à toucher sur des terrains flottants, avec une règle unique : pour marquer, il faut plonger dans la Garonne. Quelque 1 500 joueurs et joueuses sont attendus sur quatre jours, répartis en tournois étudiants, entreprises et grand public. Le temps fort reste l'« Eau'll Star », avec plus de 50 légendes du rugby — Vincent Clerc, Fabien Pelous, Joe Tekori ou encore Romane Ménager — attendues samedi et dimanche. L'événement, qui a attiré 40 000 visiteurs en 2025, est gratuit et comprend également un village, des food-trucks, des concerts et des DJ sets en soirée.</summary>
     <category term="event"/>
-    <published>2026-07-02T04:10:13.243000+00:00</published>
+    <published>2026-07-02T10:40:00.091000+00:00</published>
   </entry>
   <entry>
     <id>cluster:edaeb8db-864d-4a2f-b2af-3ca73d529a55</id>
@@ -850,20 +632,6 @@
     <summary>Un article de L'Essentiel rappelle que le ticket de transport urbain à 2 euros ne couvre que 17 % du coût réel d'un trajet, estimé à 3,58 euros en moyenne selon la Cour des comptes. Le financement repose principalement sur les employeurs via le « versement mobilité » (47 %), puis sur les collectivités locales (34 %), l'État ne contribuant qu'à hauteur de 2 %. Ce mécanisme, largement méconnu des voyageurs, est présenté comme structurant mais déjà saturé dans les grandes métropoles, ce qui complique le financement de nouveaux développements de réseau. L'article replace cette réalité dans une perspective historique, depuis les premières concessions privées du XIXe siècle jusqu'à la création de la RATP en 1949.</summary>
     <category term="news"/>
     <published>2026-07-04T14:34:39.662000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:72bee54b-6541-437e-a611-aa6bcbb2d9cc</id>
-    <title>Sécheresse : les feux d'artifice interdits en Haute-Garonne</title>
-    <updated>2026-07-05T07:32:20.727751+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Face à la sécheresse persistante et aux fortes chaleurs annoncées, le préfet de Haute-Garonne a signé un arrêté interdisant l&amp;#x27;usage des feux d&amp;#x27;artifice sur l&amp;#x27;ensemble du département. L&amp;#x27;interdiction couvre l&amp;#x27;achat, la vente, la possession, le transport et l&amp;#x27;utilisation des artifices de catégorie F2 et F3 — pétards, fusées, chandelles romaines, batteries, etc. Elle est en vigueur depuis le jeudi 2 juillet jusqu&amp;#x27;au mercredi 8 juillet à 8 heures. La préfecture motive également cette mesure par la Coupe du monde de football, craignant que des supporters n&amp;#x27;utilisent des artifices pour célébrer les victoires de leurs équipes, ce qui risquerait de surcharger les services de secours.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/petards-fusees-chandelles-romaines-du-fait-de-la-secheresse-la-prefecture-interdit-les-feux-d-artifice_64495559.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/petards-fusees-chandelles-romaines-du-fait-de-la-secheresse-la-prefecture-interdit-les-feux-d-artifice_64495559.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Face à la sécheresse persistante et aux fortes chaleurs annoncées, le préfet de Haute-Garonne a signé un arrêté interdisant l'usage des feux d'artifice sur l'ensemble du département. L'interdiction couvre l'achat, la vente, la possession, le transport et l'utilisation des artifices de catégorie F2 et F3 — pétards, fusées, chandelles romaines, batteries, etc. Elle est en vigueur depuis le jeudi 2 juillet jusqu'au mercredi 8 juillet à 8 heures. La préfecture motive également cette mesure par la Coupe du monde de football, craignant que des supporters n'utilisent des artifices pour célébrer les victoires de leurs équipes, ce qui risquerait de surcharger les services de secours.</summary>
-    <category term="news"/>
-    <published>2026-07-04T11:46:01+02:00</published>
   </entry>
   <entry>
     <id>cluster:3a593f81-ad62-4ca3-962c-91ce940332e3</id>
@@ -1085,25 +853,6 @@
     <published>2026-07-02T10:40:00.091000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:0591310b-a6ce-4c0a-9147-79fd71e32692</id>
-    <title>Le Festival de Toulouse revient pour sa 5e édition</title>
-    <updated>2026-07-06T06:57:57.772841+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;La cinquième édition du Festival de Toulouse est lancée et se tient jusqu&amp;#x27;au 11 juillet, avec une programmation exceptionnelle mêlant musique classique, variété et création. Temps fort absolu : le retour de Michel Plasson à la tête de l&amp;#x27;Orchestre national du Capitole, 23 ans après leur dernier concert commun, avec au programme Berlioz, Debussy et Ravel à la Halle aux Grains. Le festival innove cette année en créant un Orchestre du Festival inédit, réunissant le Conservatoire, l&amp;#x27;Orchestre de chambre, l&amp;#x27;isdaT et l&amp;#x27;ONCT sous la direction de Christophe Millet, avec un concert dédié à John Williams accompagné d&amp;#x27;images créées par TAT Productions. Côté variété, Calogero, Axelle Red et Pomme se succèdent à la Halle aux Grains les 3, 4 et 5 juillet, première fois que le festival investit cette salle emblématique.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Lessentiel adopte un format synthétique en bullet points mettant en avant les rendez-vous immédiats, tandis qu&amp;#x27;Actu Toulouse développe davantage le contexte artistique et la nouveauté de l&amp;#x27;Orchestre du Festival, avec la citation du directeur artistique Julien Martineau.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail de la programmation, contexte artistique et présentation de l&amp;#x27;Orchestre du Festival&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble rapide et agenda immédiat du festival&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/concert-festivals-spectacles-voici-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine_64480689.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-03?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45522"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/festivals-vtt-randonnees-les-stations-de-ski-pres-de-toulouse-se-mettent-a-l-heure-d-ete_64228018.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/concert-festivals-spectacles-voici-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine_64480689.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La cinquième édition du Festival de Toulouse est lancée et se tient jusqu'au 11 juillet, avec une programmation exceptionnelle mêlant musique classique, variété et création. Temps fort absolu : le retour de Michel Plasson à la tête de l'Orchestre national du Capitole, 23 ans après leur dernier concert commun, avec au programme Berlioz, Debussy et Ravel à la Halle aux Grains. Le festival innove cette année en créant un Orchestre du Festival inédit, réunissant le Conservatoire, l'Orchestre de chambre, l'isdaT et l'ONCT sous la direction de Christophe Millet, avec un concert dédié à John Williams accompagné d'images créées par TAT Productions. Côté variété, Calogero, Axelle Red et Pomme se succèdent à la Halle aux Grains les 3, 4 et 5 juillet, première fois que le festival investit cette salle emblématique.</summary>
-    <category term="event"/>
-    <published>2026-07-02T18:46:01+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:d1b8576b-35a4-4919-8407-df175fb74e2b</id>
     <title>Tram T1 à l'arrêt neuf jours pour travaux estivaux à Toulouse</title>
     <updated>2026-07-06T06:57:57.772841+00:00</updated>
@@ -1263,52 +1012,6 @@
     <published>2026-07-07T07:43:12+02:00</published>
   </entry>
   <entry>
-    <id>cluster:53081bb8-e7b8-4e90-9383-942f598bdc3f</id>
-    <title>Canicule à Toulouse : jusqu'à 39–40 °C attendus, vigilance orange déclenchée</title>
-    <updated>2026-07-07T06:48:21.134917+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Un troisième épisode caniculaire s&amp;#x27;installe sur Toulouse et le sud-ouest depuis le début de la semaine du 6 juillet 2026, avec des températures maximales attendues entre 38 et 40 °C en plaine toulousaine. La Haute-Garonne, d&amp;#x27;abord en vigilance jaune, est passée en vigilance orange canicule le mardi 7 juillet, rejoignant la quasi-totalité des départements d&amp;#x27;Occitanie. Météo France qualifie cet épisode de « sévère et durable », avec des nuits tropicales autour de 22 °C dans l&amp;#x27;agglomération, et des pics de chaleur se maintenant jusqu&amp;#x27;à jeudi au moins. Face à cette situation, la mairie de Toulouse a activé dès lundi son plan canicule pour accompagner les personnes sensibles et exposées.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les quatre articles couvrent la même vague de chaleur à des moments successifs (3, 4, 6 et 7 juillet), reflétant une montée progressive de l&amp;#x27;alerte : le premier dresse des prévisions générales, le deuxième acte la vigilance orange pour certains départements voisins, le troisième annonce l&amp;#x27;épisode « durable », et le quatrième confirme le passage en orange de la Haute-Garonne avec les mesures municipales d&amp;#x27;urgence.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 1&lt;/strong&gt;: Prévisions détaillées jour par jour jusqu&amp;#x27;au 14 juillet&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 2&lt;/strong&gt;: Carte des vigilances Météo France en Occitanie (4 juillet)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 3&lt;/strong&gt;: Caractérisation de l&amp;#x27;épisode comme « durable » par Météo France&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 4&lt;/strong&gt;: Passage en orange de la Haute-Garonne et mesures d&amp;#x27;urgence de la mairie&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-canicule-de-retour-a-toulouse-les-temperatures-vont-serieusement-grimper-ce-qui-nous-attend-d-ici-le-14-juillet_64494238.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-meteo-france-place-quatre-departements-d-occitanie-en-vigilance-orange-la-haute-garonne-en-vigilance-jaune_64498777.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-jusqu-a-39-c-toulouse-s-apprete-a-vivre-une-semaine-de-tres-fortes-chaleurs_64500337.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-haute-garonne-passe-en-vigilance-orange-a-la-canicule-39-a-toulouse-qui-prend-des-mesures_64504066.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/la-canicule-de-retour-a-toulouse-les-temperatures-vont-serieusement-grimper-ce-qui-nous-attend-d-ici-le-14-juillet_64494238.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Un troisième épisode caniculaire s'installe sur Toulouse et le sud-ouest depuis le début de la semaine du 6 juillet 2026, avec des températures maximales attendues entre 38 et 40 °C en plaine toulousaine. La Haute-Garonne, d'abord en vigilance jaune, est passée en vigilance orange canicule le mardi 7 juillet, rejoignant la quasi-totalité des départements d'Occitanie. Météo France qualifie cet épisode de « sévère et durable », avec des nuits tropicales autour de 22 °C dans l'agglomération, et des pics de chaleur se maintenant jusqu'à jeudi au moins. Face à cette situation, la mairie de Toulouse a activé dès lundi son plan canicule pour accompagner les personnes sensibles et exposées.</summary>
-    <category term="news"/>
-    <published>2026-07-03T13:53:33+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c7c6a1e1-da98-46fa-bcf2-2f472f6c025f</id>
-    <title>Fan zone, couvre-feu : Toulouse se prépare pour les Bleus en Coupe du monde</title>
-    <updated>2026-07-07T06:48:21.134917+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;À Toulouse, la mairie a mis en place un couvre-feu pour les mineurs de moins de 16 ans non accompagnés lors du match France-Suède (30 juin, 23h), limité à l&amp;#x27;hypercentre et aux quartiers Bonnefoy et Marengo. Après la qualification des Bleus pour les quarts de finale, une fan zone de 15 000 places a été officiellement confirmée sur le parvis du Stadium de l&amp;#x27;île du Ramier — une première pour Toulouse, qui abandonne la Prairie des Filtres. Le quart de finale France-Maroc est prévu le jeudi 9 juillet à 22h, avec ouverture de la fan zone dès 19h ; écran géant, foodtrucks, buvette et dispositifs de prévention (éthylotests, lutte contre les violences sexuelles et sexistes) seront au rendez-vous. Les ponts Pierre-de-Coubertin et du Garigliano seront fermés à la circulation, les parkings alentour fermés, et la mairie incite fortement aux transports en commun. Le dispositif (couvre-feu et fan zone) est prévu pour se prolonger en demi-finale (14 juillet) et en finale (19 juillet), sous réserve de qualification des Bleus.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les quatre articles suivent la progression chronologique de l&amp;#x27;événement : le premier porte sur le couvre-feu avant France-Suède, le deuxième anticipe les dispositifs post-victoire, le troisième confirme la fan zone pour le quart, et le quatrième détaille la logistique pratique d&amp;#x27;accès. Aucune contradiction majeure, mais les informations s&amp;#x27;accumulent d&amp;#x27;un article à l&amp;#x27;autre.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails du couvre-feu pour les mineurs et périmètre concerné&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Vue d&amp;#x27;ensemble des dispositifs (fan zone, couvre-feu) pour les prochains matchs&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Confirmation officielle et capacité de la fan zone pour le quart France-Maroc&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Infos pratiques : accès, parkings, transports, horaires d&amp;#x27;ouverture de la fan zone&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-fan-zone-couvre-feu-ce-qui-est-prevu-a-toulouse-pour-les-prochains-matchs-de-la-france_64483375.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-une-fan-zone-de-15-000-places-installee-a-toulouse-pour-le-quart-de-finale-france-maroc_64500099.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-rues-bloquees-controles-tout-savoir-sur-l-acces-a-la-fan-zone-sur-le-parvis-du-stadium-pour-france-maroc_64504612.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-fan-zone-couvre-feu-ce-qui-est-prevu-a-toulouse-pour-les-prochains-matchs-de-la-france_64483375.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>À Toulouse, la mairie a mis en place un couvre-feu pour les mineurs de moins de 16 ans non accompagnés lors du match France-Suède (30 juin, 23h), limité à l'hypercentre et aux quartiers Bonnefoy et Marengo. Après la qualification des Bleus pour les quarts de finale, une fan zone de 15 000 places a été officiellement confirmée sur le parvis du Stadium de l'île du Ramier — une première pour Toulouse, qui abandonne la Prairie des Filtres. Le quart de finale France-Maroc est prévu le jeudi 9 juillet à 22h, avec ouverture de la fan zone dès 19h ; écran géant, foodtrucks, buvette et dispositifs de prévention (éthylotests, lutte contre les violences sexuelles et sexistes) seront au rendez-vous. Les ponts Pierre-de-Coubertin et du Garigliano seront fermés à la circulation, les parkings alentour fermés, et la mairie incite fortement aux transports en commun. Le dispositif (couvre-feu et fan zone) est prévu pour se prolonger en demi-finale (14 juillet) et en finale (19 juillet), sous réserve de qualification des Bleus.</summary>
-    <category term="news"/>
-    <published>2026-07-02T06:42:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:7b82013e-461e-42b7-ac3b-52d8db26ee8d</id>
-    <title>Le Chapoto, cirque d'objets pour jeune public à Pibrac</title>
-    <updated>2026-07-08T07:31:32.844784+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Chapoto est un spectacle de cirque d&amp;#x27;objets d&amp;#x27;une trentaine de minutes destiné au jeune public, mettant en scène des accessoires du quotidien comme des balais, serpillières et papier toilette. La représentation se tient dans l&amp;#x27;ancienne cour de l&amp;#x27;école Maurice Fonvieille, à l&amp;#x27;esplanade Sainte-Germaine à Pibrac. Les places sont à réserver par e-mail à mediatheque@mairie-pibrac.fr ou par téléphone au 05 61 86 09 69. Aucune date précise n&amp;#x27;est mentionnée dans l&amp;#x27;article.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-07-08-0?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-07-08-0?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Chapoto est un spectacle de cirque d'objets d'une trentaine de minutes destiné au jeune public, mettant en scène des accessoires du quotidien comme des balais, serpillières et papier toilette. La représentation se tient dans l'ancienne cour de l'école Maurice Fonvieille, à l'esplanade Sainte-Germaine à Pibrac. Les places sont à réserver par e-mail à mediatheque@mairie-pibrac.fr ou par téléphone au 05 61 86 09 69. Aucune date précise n'est mentionnée dans l'article.</summary>
-    <category term="event"/>
-    <published>2026-07-08T04:11:01.354000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:554e339c-9eb6-4479-87f7-b4aaef0a2f9b</id>
     <title>Sébastien Langloÿs, le sculpteur incontournable de Toulouse</title>
     <updated>2026-07-08T07:31:32.844784+00:00</updated>
@@ -1364,20 +1067,6 @@
     <summary>À l'approche de la rentrée, deux enseignes proposent de recycler les fournitures scolaires usagées contre un bon d'achat de 10 €. Midica organise une collecte jusqu'au 18 juillet 2026 : cahiers, stylos, calculatrices et autres fournitures en bon état sont acceptés, puis redistribués aux familles dans le besoin via la Caisse des écoles de Toulouse. Cultura mène de son côté une opération nationale de reprise de cartables et sacs à dos, valable jusqu'au 13 septembre 2026, également contre un bon de 10 €. Ces initiatives s'inscrivent dans une logique d'économie circulaire et bénéficient directement aux familles toulousaines à faibles ressources.</summary>
     <category term="news"/>
     <published>2026-07-08T04:11:01.354000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8f30ee37-fd65-4262-9fd3-0b8179789d5b</id>
-    <title>La cabane à histoires pour les tout-petits à Rangueil</title>
-    <updated>2026-07-08T07:31:32.844784+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;La médiathèque de Rangueil propose une séance « cabane à histoires » destinée aux enfants de 0 à 3 ans. Le principe : des histoires chuchotées dans une cabane, pour une expérience intimiste et sensorielle adaptée aux tout-petits. L&amp;#x27;événement se tient le matin même, sur inscription au 05 61 22 24 50. Parents et jeunes enfants du quartier Rangueil sont les premiers concernés.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2XApkUA0_ueglPXEI3Ci6q36zttKV~Fs1o2kiNHvjuw&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNz2XApkUA0_ueglPXEI3Ci6q36zttKV~Fs1o2kiNHvjuw&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2XApkUA0_ueglPXEI3Ci6q36zttKV~Fs1o2kiNHvjuw&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La médiathèque de Rangueil propose une séance « cabane à histoires » destinée aux enfants de 0 à 3 ans. Le principe : des histoires chuchotées dans une cabane, pour une expérience intimiste et sensorielle adaptée aux tout-petits. L'événement se tient le matin même, sur inscription au 05 61 22 24 50. Parents et jeunes enfants du quartier Rangueil sont les premiers concernés.</summary>
-    <category term="event"/>
-    <published>2026-07-08T04:06:26.510000+00:00</published>
   </entry>
   <entry>
     <id>cluster:0bc22809-5fd3-4a5f-a72a-e0185be45f6e</id>
@@ -1525,22 +1214,6 @@
     <published>2026-07-06T14:42:21+02:00</published>
   </entry>
   <entry>
-    <id>cluster:738619ff-6656-4ea8-b184-0dec05dc9fe0</id>
-    <title>Cédric Jubillar avoue le meurtre de Delphine deux mois avant son procès en appel</title>
-    <updated>2026-07-08T07:31:32.844784+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le 6 juillet 2026, Cédric Jubillar a reconnu par écrit être à l&amp;#x27;origine de la disparition et de la mort de son épouse Delphine, survenue dans la nuit du 15 au 16 décembre 2020 à Cagnac-les-Mines (Tarn). Ces aveux, consignés dans une lettre adressée à ses nouveaux avocats Mes Pierre et Guy Debuisson, ont été rendus publics d&amp;#x27;abord via La Dépêche du Midi puis lors d&amp;#x27;une conférence de presse au cabinet toulousain rue Alsace-Lorraine — et non par voie judiciaire, ce qui soulève des questions procédurales. La présidente de la Cour d&amp;#x27;appel de Toulouse a confirmé qu&amp;#x27;aucun document n&amp;#x27;avait encore été transmis à la cour d&amp;#x27;assises, dont le procès en appel est prévu à partir du 21 septembre 2026. Les avocats des enfants du couple dénoncent qu&amp;#x27;aucune précaution n&amp;#x27;a été prise pour les protéger avant la publication médiatique, tandis que le corps de Delphine n&amp;#x27;a toujours pas été retrouvé.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les articles couvrent des angles complémentaires : les circonstances des aveux et le rôle de l&amp;#x27;avocat Debuisson, le contenu détaillé de la lettre (dispute, déplacement du corps), les conséquences juridiques sur le procès en appel, les motivations supposées de Jubillar, et la réaction des enfants et de leurs avocats. Une tension notable apparaît entre la version de la défense (aveux spontanés, besoin de soulager sa conscience) et la critique des avocats des enfants sur l&amp;#x27;absence de précautions prises à leur égard.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Comment les aveux ont eu lieu et le rôle de l&amp;#x27;avocat Debuisson&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Contenu précis des aveux et ce que Jubillar a révélé sur la mort de Delphine&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Conséquences juridiques sur le procès en appel et la peine&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Réaction des enfants et critique des avocats des parties civiles&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Pourquoi avouer maintenant : motivations et analyse&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-a-reconnu-sa-participation-avec-soulagement-comment-cedric-jubillar-a-avoue-le-meurtre-de-son-epouse_64501153.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-cedric-jubillar-avoue-le-meurtre-de-delphine-des-reactions-en-chaine-son-avocat-va-prendre-la-parole_64501725.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/aveux-de-cedric-jubillar-les-choses-ont-mal-tourne-voici-ce-qu-il-a-revele-sur-la-mort-de-son-epouse-delphine_64502942.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/aucune-precaution-n-a-ete-prise-comment-les-enfants-jubillar-ont-appris-les-aveux-de-leur-pere_64503469.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/aveux-de-cedric-jubillar-investigations-date-du-proces-peine-ce-que-ce-coup-de-theatre-change-pour-la-suite_64506803.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pourquoi-cedric-jubillar-a-t-il-avoue-maintenant-plus-de-cinq-ans-apres-la-disparition-de-sa-femme-delphine_64508891.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/il-a-reconnu-sa-participation-avec-soulagement-comment-cedric-jubillar-a-avoue-le-meurtre-de-son-epouse_64501153.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le 6 juillet 2026, Cédric Jubillar a reconnu par écrit être à l'origine de la disparition et de la mort de son épouse Delphine, survenue dans la nuit du 15 au 16 décembre 2020 à Cagnac-les-Mines (Tarn). Ces aveux, consignés dans une lettre adressée à ses nouveaux avocats Mes Pierre et Guy Debuisson, ont été rendus publics d'abord via La Dépêche du Midi puis lors d'une conférence de presse au cabinet toulousain rue Alsace-Lorraine — et non par voie judiciaire, ce qui soulève des questions procédurales. La présidente de la Cour d'appel de Toulouse a confirmé qu'aucun document n'avait encore été transmis à la cour d'assises, dont le procès en appel est prévu à partir du 21 septembre 2026. Les avocats des enfants du couple dénoncent qu'aucune précaution n'a été prise pour les protéger avant la publication médiatique, tandis que le corps de Delphine n'a toujours pas été retrouvé.</summary>
-    <category term="news"/>
-    <published>2026-07-06T09:44:20+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed</id>
     <title>Cinéma en plein air : 44 films cet été à la Cinémathèque de Toulouse</title>
     <updated>2026-07-08T07:31:32.844784+00:00</updated>
@@ -1558,5 +1231,304 @@
     <summary>Pour sa 22e édition, le festival Cinéma en plein air revient dans la cour rénovée de la Cinémathèque de Toulouse, au 69 rue du Taur, du 8 juillet au 29 août 2026. Pendant 8 semaines, 44 films de genres et d'époques variés seront projetés exclusivement en version originale sous-titrée en français (VOSTF), à 22h jusqu'au 9 août puis à 21h30 à partir du 11 août. Le coup d'envoi est donné avec « Lost in Translation » de Sofia Coppola, suivi de classiques comme « À bout de souffle », « E.T. » ou « 12 hommes en colère ». Les billets sont disponibles en ligne ou sur place du mardi au dimanche de 14h à 22h : 9 € plein tarif, 7,50 € réduit et 5 € tarif jeune.</summary>
     <category term="event"/>
     <published>2026-07-05T14:53:31+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:de9c1d94-c5d1-4421-81b6-c8eebb916fa0</id>
+    <title>Une plateforme pour signaler les violences sexistes dans les bars pendant la Coupe du monde</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;association Her Game Too a développé une plateforme en ligne permettant aux victimes et témoins de violences sexistes et sexuelles de signaler des incidents via QR code ou site web. Initialement conçu pour les enceintes sportives, le dispositif s&amp;#x27;étend désormais à 43 bars partenaires en France pendant la Coupe du monde de football, dont deux à Bordeaux. Les personnes qui le souhaitent peuvent être recontactées par l&amp;#x27;association pour un suivi personnalisé, avec orientation possible vers France Victimes, et un partenariat avec Rogervoice assure l&amp;#x27;accessibilité en langue des signes. Depuis son lancement en France en 2023, la plateforme a enregistré 147 signalements, un chiffre en hausse selon la coprésidente Maëva Lagarde.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-09?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46146"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-09?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46146"/>
+    <summary>L'association Her Game Too a développé une plateforme en ligne permettant aux victimes et témoins de violences sexistes et sexuelles de signaler des incidents via QR code ou site web. Initialement conçu pour les enceintes sportives, le dispositif s'étend désormais à 43 bars partenaires en France pendant la Coupe du monde de football, dont deux à Bordeaux. Les personnes qui le souhaitent peuvent être recontactées par l'association pour un suivi personnalisé, avec orientation possible vers France Victimes, et un partenariat avec Rogervoice assure l'accessibilité en langue des signes. Depuis son lancement en France en 2023, la plateforme a enregistré 147 signalements, un chiffre en hausse selon la coprésidente Maëva Lagarde.</summary>
+    <category term="news"/>
+    <published>2026-07-09T04:10:37.199000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:54758bd0-4ca5-412b-90d5-b831886de850</id>
+    <title>L'été Caouec revient gratuitement au parc du Ritouret à Blagnac</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Le festival estival Caouec s&amp;#x27;installe jusqu&amp;#x27;au 18 juillet au parc du Ritouret à Blagnac, proposant une programmation gratuite et sans réservation pour toute la famille. Le village du parc offre structures gonflables, toboggans géants, accrobranche, mini-golf et sports variés en journée. Les soirées culturelles, de 20h à 23h, mêlent concerts, théâtre, cirque et spectacles sous les étoiles. Chaque journée-type comprend du sport le matin, des ateliers découverte l&amp;#x27;après-midi (graffiti, bijoux, arts du cirque) et des performances en soirée, comme la compagnie Superfluu qui décortique les contes traditionnels.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-09?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46144"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-09?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46144"/>
+    <summary>Le festival estival Caouec s'installe jusqu'au 18 juillet au parc du Ritouret à Blagnac, proposant une programmation gratuite et sans réservation pour toute la famille. Le village du parc offre structures gonflables, toboggans géants, accrobranche, mini-golf et sports variés en journée. Les soirées culturelles, de 20h à 23h, mêlent concerts, théâtre, cirque et spectacles sous les étoiles. Chaque journée-type comprend du sport le matin, des ateliers découverte l'après-midi (graffiti, bijoux, arts du cirque) et des performances en soirée, comme la compagnie Superfluu qui décortique les contes traditionnels.</summary>
+    <category term="event"/>
+    <published>2026-07-09T04:10:37.199000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ef280610-97d0-498f-9bd6-5de87c3be343</id>
+    <title>Le festival polynésien de Toulouse revient pour quatre jours île du Ramier</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Pour sa 4e édition, le festival polynésien de Toulouse s&amp;#x27;installe jusqu&amp;#x27;à dimanche soir au hall 8 de l&amp;#x27;île du Ramier, allée Fernand Jourdant. Organisé par Ori Heitiare Tahiti, école de danse et musique polynésiennes d&amp;#x27;Occitanie, l&amp;#x27;événement propose ateliers, marché artisanal, tatoueurs, jeux traditionnels, démonstrations de danse et de chant, ainsi qu&amp;#x27;un petit-déjeuner des îles vendredi matin. Cette édition est placée sous le signe de la préservation de la biodiversité marine, en partenariat avec l&amp;#x27;association Project Rescue Ocean, avec une opération de ramassage de déchets sur l&amp;#x27;île du Ramier dimanche à partir de 10h (inscription requise). L&amp;#x27;entrée est libre pour l&amp;#x27;ensemble des activités.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-09?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46143"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-09?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46143"/>
+    <summary>Pour sa 4e édition, le festival polynésien de Toulouse s'installe jusqu'à dimanche soir au hall 8 de l'île du Ramier, allée Fernand Jourdant. Organisé par Ori Heitiare Tahiti, école de danse et musique polynésiennes d'Occitanie, l'événement propose ateliers, marché artisanal, tatoueurs, jeux traditionnels, démonstrations de danse et de chant, ainsi qu'un petit-déjeuner des îles vendredi matin. Cette édition est placée sous le signe de la préservation de la biodiversité marine, en partenariat avec l'association Project Rescue Ocean, avec une opération de ramassage de déchets sur l'île du Ramier dimanche à partir de 10h (inscription requise). L'entrée est libre pour l'ensemble des activités.</summary>
+    <category term="event"/>
+    <published>2026-07-09T04:10:37.199000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:073617ea-cd64-4e7e-878d-ffbd4c818f4a</id>
+    <title>Yazid Assoumani au théâtre des 3T avec son spectacle éponyme</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Ce soir, Yazid Assoumani se produit sur la scène du théâtre des 3T à Toulouse avec son spectacle intitulé « Yazid Assoumani », un titre éponyme qui annonce une démarche autobiographique. Sur scène, il évoque sa vie personnelle : son couple, son enfance et son rapport à lui-même. Le spectacle s&amp;#x27;inscrit dans un registre intime et introspectif. Les deux sources sont identiques et ne fournissent pas d&amp;#x27;autres détails sur la durée ou le tarif.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2nQnikA0_ueglPXEI3Ga5q36zttOUfFs1o2kiNH0jek&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNz2nQnikA0_ueglPXEI3Ga5q36zttOUfFs1o2kiNH0jek&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2nQnikA0_ueglPXEI3Ga5q36zttOUfFs1o2kiNH0jek&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Ce soir, Yazid Assoumani se produit sur la scène du théâtre des 3T à Toulouse avec son spectacle intitulé « Yazid Assoumani », un titre éponyme qui annonce une démarche autobiographique. Sur scène, il évoque sa vie personnelle : son couple, son enfance et son rapport à lui-même. Le spectacle s'inscrit dans un registre intime et introspectif. Les deux sources sont identiques et ne fournissent pas d'autres détails sur la durée ou le tarif.</summary>
+    <category term="event"/>
+    <published>2026-07-09T04:07:01.347000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:519d2643-b93a-477b-9e13-e6546732ea60</id>
+    <title>Pascal Contet rencontre le public au centre culturel Saint-Cyprien</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;accordéoniste Pascal Contet, lauréat des Victoires de la musique dans les catégories jazz et classique, sera ce soir en rencontre publique au centre culturel Saint-Cyprien. Il échangera avec le public sur son parcours artistique et présentera son programme tango qu&amp;#x27;il jouera prochainement au Festival de Toulouse. Cette soirée de rencontre est l&amp;#x27;occasion pour les amateurs de musique de découvrir l&amp;#x27;univers de l&amp;#x27;artiste avant son concert avec l&amp;#x27;Orchestre de Chambre de Toulouse. Les deux sources sont identiques et ne permettent pas de dater précisément la soirée ni le concert du vendredi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2nQnikA0_ueglPXEI3Ga5q36zttOUfFs1o2kiNH0kMs&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeNz2nQnikA0_ueglPXEI3Ga5q36zttOUfFs1o2kiNH0kMs&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNz2nQnikA0_ueglPXEI3Ga5q36zttOUfFs1o2kiNH0kMs&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'accordéoniste Pascal Contet, lauréat des Victoires de la musique dans les catégories jazz et classique, sera ce soir en rencontre publique au centre culturel Saint-Cyprien. Il échangera avec le public sur son parcours artistique et présentera son programme tango qu'il jouera prochainement au Festival de Toulouse. Cette soirée de rencontre est l'occasion pour les amateurs de musique de découvrir l'univers de l'artiste avant son concert avec l'Orchestre de Chambre de Toulouse. Les deux sources sont identiques et ne permettent pas de dater précisément la soirée ni le concert du vendredi.</summary>
+    <category term="event"/>
+    <published>2026-07-09T04:07:01.347000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ff7b0fbb-6686-4d3d-ba28-88ba9d9fadc8</id>
+    <title>10 sorties incontournables dans le Sud-Est Toulousain cet été</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Toulouscope propose une sélection de dix expériences estivales à moins de 15 minutes de Toulouse, dans le Sud-Est Toulousain. Au programme : guinguettes en bord d&amp;#x27;eau (L&amp;#x27;Éphémère à Lacroix-Falgarde, La Besalada à Ayguesvives, Le Petit Bikini à Ramonville), villages de caractère à explorer, balades nature et bonnes tables. La sélection cible aussi bien les familles que les amateurs de concerts en plein air ou de soirées DJ. Un guide pratique pour profiter de la belle saison sans quitter l&amp;#x27;agglomération toulousaine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/09/10-sorties-et-rendez-vous-a-ne-pas-manquer-dans-le-sud-est-toulousain-cet-ete-13457050.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/07/09/10-sorties-et-rendez-vous-a-ne-pas-manquer-dans-le-sud-est-toulousain-cet-ete-13457050.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouscope propose une sélection de dix expériences estivales à moins de 15 minutes de Toulouse, dans le Sud-Est Toulousain. Au programme : guinguettes en bord d'eau (L'Éphémère à Lacroix-Falgarde, La Besalada à Ayguesvives, Le Petit Bikini à Ramonville), villages de caractère à explorer, balades nature et bonnes tables. La sélection cible aussi bien les familles que les amateurs de concerts en plein air ou de soirées DJ. Un guide pratique pour profiter de la belle saison sans quitter l'agglomération toulousaine.</summary>
+    <category term="culture"/>
+    <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:240d5807-7e1c-4e51-a92f-40b5bdd335ed</id>
+    <title>Épisode de pollution à l'ozone en cours en Haute-Garonne</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La Haute-Garonne est touchée par un épisode de pollution de l&amp;#x27;air ce mercredi 8 juillet 2026, selon les données d&amp;#x27;Atmo Occitanie. Les conditions météorologiques — fort ensoleillement, températures élevées et vent faible — favorisent une hausse des concentrations en ozone. La situation est aggravée par les récents incendies qui ont engendré des hausses de particules en suspension, sans toutefois dépasser le seuil d&amp;#x27;information pour ce polluant. Les conditions similaires attendues le jeudi 9 juillet devraient faire passer le département en procédure d&amp;#x27;alerte (rouge) ; Atmo Occitanie recommande de réduire les activités physiques intenses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/fortes-chaleurs-et-incendie-un-episode-de-pollution-de-l-air-est-en-cours-en-haute-garonne-et-il-va-durer_64512412.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/fortes-chaleurs-et-incendie-un-episode-de-pollution-de-l-air-est-en-cours-en-haute-garonne-et-il-va-durer_64512412.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Haute-Garonne est touchée par un épisode de pollution de l'air ce mercredi 8 juillet 2026, selon les données d'Atmo Occitanie. Les conditions météorologiques — fort ensoleillement, températures élevées et vent faible — favorisent une hausse des concentrations en ozone. La situation est aggravée par les récents incendies qui ont engendré des hausses de particules en suspension, sans toutefois dépasser le seuil d'information pour ce polluant. Les conditions similaires attendues le jeudi 9 juillet devraient faire passer le département en procédure d'alerte (rouge) ; Atmo Occitanie recommande de réduire les activités physiques intenses.</summary>
+    <category term="news"/>
+    <published>2026-07-08T11:31:50+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:08256903-d6ee-44a1-b2cf-49f3690a5909</id>
+    <title>Toulouse relance l'opération Zéro mégot avec 62 500 cendriers de poche</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La Toulouse Métropole renouvelle son opération « Zéro mégot » en distribuant gratuitement 62 500 cendriers de poche via 124 buralistes du territoire. L&amp;#x27;initiative répond à un constat préoccupant : un mégot sur deux fumé dans l&amp;#x27;espace public finit dans la rue, les égouts ou les espaces verts, et un seul mégot peut polluer jusqu&amp;#x27;à 500 litres d&amp;#x27;eau. En période de sécheresse et de canicule, le risque incendie s&amp;#x27;ajoute à l&amp;#x27;enjeu environnemental, sachant que neuf feux sur dix déclarés en France sont d&amp;#x27;origine humaine. Les contrevenants s&amp;#x27;exposent à une amende pouvant aller jusqu&amp;#x27;à 450 euros.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-pollution-incendies-pourquoi-toulouse-distribue-des-milliers-de-cendriers-de-poche_64512870.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-pollution-incendies-pourquoi-toulouse-distribue-des-milliers-de-cendriers-de-poche_64512870.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Toulouse Métropole renouvelle son opération « Zéro mégot » en distribuant gratuitement 62 500 cendriers de poche via 124 buralistes du territoire. L'initiative répond à un constat préoccupant : un mégot sur deux fumé dans l'espace public finit dans la rue, les égouts ou les espaces verts, et un seul mégot peut polluer jusqu'à 500 litres d'eau. En période de sécheresse et de canicule, le risque incendie s'ajoute à l'enjeu environnemental, sachant que neuf feux sur dix déclarés en France sont d'origine humaine. Les contrevenants s'exposent à une amende pouvant aller jusqu'à 450 euros.</summary>
+    <category term="news"/>
+    <published>2026-07-08T12:32:37+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:191d2497-eb3c-4042-8f4f-49b66f2adb37</id>
+    <title>Deux jeunes femmes visées par des tirs rue Teboul à Toulouse</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Dans la nuit du 7 au 8 juillet, deux jeunes femmes de 22 ans ont été prises pour cible par un tireur rue Teboul, derrière les allées de Bellefontaine, vers 3h30 du matin. Selon leur témoignage, elles se rendaient acheter du protoxyde d&amp;#x27;azote pour un anniversaire lorsqu&amp;#x27;un homme circulant à pied sur le trottoir a ouvert le feu sur leur véhicule. Deux balles auraient été tirées ; aucune des deux occupantes n&amp;#x27;a été grièvement blessée, bien que l&amp;#x27;une présente une légère blessure possiblement causée par le choc des impacts sur la carrosserie. Le mobile reste totalement flou : les enquêteurs cherchent à déterminer si les victimes, inconnues des services de police, ont été ciblées par erreur ou pour des raisons qu&amp;#x27;elles n&amp;#x27;auraient pas révélées.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/elles-partaient-acheter-du-protoxyde-d-azote-deux-jeunes-filles-visees-par-des-tirs-a-toulouse-cette-nuit_64514132.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/elles-partaient-acheter-du-protoxyde-d-azote-deux-jeunes-filles-visees-par-des-tirs-a-toulouse-cette-nuit_64514132.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Dans la nuit du 7 au 8 juillet, deux jeunes femmes de 22 ans ont été prises pour cible par un tireur rue Teboul, derrière les allées de Bellefontaine, vers 3h30 du matin. Selon leur témoignage, elles se rendaient acheter du protoxyde d'azote pour un anniversaire lorsqu'un homme circulant à pied sur le trottoir a ouvert le feu sur leur véhicule. Deux balles auraient été tirées ; aucune des deux occupantes n'a été grièvement blessée, bien que l'une présente une légère blessure possiblement causée par le choc des impacts sur la carrosserie. Le mobile reste totalement flou : les enquêteurs cherchent à déterminer si les victimes, inconnues des services de police, ont été ciblées par erreur ou pour des raisons qu'elles n'auraient pas révélées.</summary>
+    <category term="news"/>
+    <published>2026-07-08T15:07:21+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3c169881-897a-46a5-b446-cbafc717f531</id>
+    <title>Emersonn vendu à Ipswich Town : record historique pour le TFC</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Toulouse FC réalise le plus grand transfert de son histoire en vendant l&amp;#x27;attaquant brésilien Emersonn à Ipswich Town, fraîchement promu en Premier League, pour 28 millions d&amp;#x27;euros (plus 3 millions de bonus potentiels selon Sky Sports). La signature a été officialisée par le club anglais le mercredi 7 juillet 2026 ; Emersonn, 21 ans, s&amp;#x27;est engagé pour cinq ans jusqu&amp;#x27;en 2031. Le montant n&amp;#x27;a pas été communiqué officiellement par les clubs, mais Sky Sports avance le chiffre de 28 M€. Ce record dépasse la vente d&amp;#x27;Issa Diop à West Ham en 2018 pour 25 millions d&amp;#x27;euros, confirmant la tendance du TFC à tirer profit de la puissance financière du football anglais face à la crise des droits TV en Ligue 1.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-bresilien-emersonn-rejoint-l-angleterre-le-toulouse-fc-signe-le-plus-gros-transfert-de-son-histoire_64511381.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-bresilien-emersonn-rejoint-l-angleterre-le-toulouse-fc-signe-le-plus-gros-transfert-de-son-histoire_64511381.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Toulouse FC réalise le plus grand transfert de son histoire en vendant l'attaquant brésilien Emersonn à Ipswich Town, fraîchement promu en Premier League, pour 28 millions d'euros (plus 3 millions de bonus potentiels selon Sky Sports). La signature a été officialisée par le club anglais le mercredi 7 juillet 2026 ; Emersonn, 21 ans, s'est engagé pour cinq ans jusqu'en 2031. Le montant n'a pas été communiqué officiellement par les clubs, mais Sky Sports avance le chiffre de 28 M€. Ce record dépasse la vente d'Issa Diop à West Ham en 2018 pour 25 millions d'euros, confirmant la tendance du TFC à tirer profit de la puissance financière du football anglais face à la crise des droits TV en Ligue 1.</summary>
+    <category term="news"/>
+    <published>2026-07-08T16:58:34+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:27c51101-d98c-4706-ad8e-8a13e549fb52</id>
+    <title>Rixe près du Stadium : suspect mis en examen après homme plongé dans le coma</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Un homme de 36 ans, originaire de Nouvelle-Calédonie, a été grièvement blessé lors d&amp;#x27;une bagarre générale survenue allée Gabriel Biénès, derrière le Stadium de Toulouse, dans la nuit du samedi 4 juillet. Pris en charge par les pompiers avec la mâchoire fracturée et une plaie crânienne importante, il a été placé dans le coma, son pronostic vital ayant été engagé. La rixe aurait impliqué une quinzaine d&amp;#x27;hommes très alcoolisés originaires des mêmes îles, qui ont également résisté aux forces de l&amp;#x27;ordre. Le suspect principal, âgé de 27 ans, a été interpellé le lendemain matin — selon La Dépêche du Midi, il se serait présenté de lui-même au commissariat — et a été mis en examen ce mercredi 8 juillet après l&amp;#x27;ouverture d&amp;#x27;une information judiciaire ; les circonstances exactes de la rixe restent floues en raison du degré d&amp;#x27;alcoolisation des protagonistes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-homme-de-36-ans-plonge-dans-le-coma-apres-une-bagarre-generale-a-toulouse-le-suspect-principal-mis-en-examen_64515024.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/un-homme-de-36-ans-plonge-dans-le-coma-apres-une-bagarre-generale-a-toulouse-le-suspect-principal-mis-en-examen_64515024.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un homme de 36 ans, originaire de Nouvelle-Calédonie, a été grièvement blessé lors d'une bagarre générale survenue allée Gabriel Biénès, derrière le Stadium de Toulouse, dans la nuit du samedi 4 juillet. Pris en charge par les pompiers avec la mâchoire fracturée et une plaie crânienne importante, il a été placé dans le coma, son pronostic vital ayant été engagé. La rixe aurait impliqué une quinzaine d'hommes très alcoolisés originaires des mêmes îles, qui ont également résisté aux forces de l'ordre. Le suspect principal, âgé de 27 ans, a été interpellé le lendemain matin — selon La Dépêche du Midi, il se serait présenté de lui-même au commissariat — et a été mis en examen ce mercredi 8 juillet après l'ouverture d'une information judiciaire ; les circonstances exactes de la rixe restent floues en raison du degré d'alcoolisation des protagonistes.</summary>
+    <category term="news"/>
+    <published>2026-07-08T18:30:45+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:fb50127b-e81d-4553-a60b-1b1f048fba0e</id>
+    <title>Lac de Sesquières : baignade interdite en raison des cyanobactéries</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La base de loisirs du lac de Sesquières, à Toulouse, est contrainte de fermer temporairement ses activités aquatiques suite à un taux de cyanobactéries trop élevé, constaté lors de la vague de chaleur de la semaine du 8 juillet. Les températures atteignant 39°C et la baisse du niveau du lac d&amp;#x27;environ 40 cm ont favorisé la prolifération de ces bactéries, dont la toxine est dangereuse notamment pour les enfants et les animaux. Toutes les activités impliquant une immersion — jeux gonflables, wakeboard, ski nautique — sont désormais interdites jusqu&amp;#x27;à ce qu&amp;#x27;un contrôle de l&amp;#x27;ARS confirme un retour sous le seuil autorisé. Le lac fait l&amp;#x27;objet d&amp;#x27;une surveillance hebdomadaire, et la réouverture dépendra directement des résultats des prochains prélèvements.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/a-cause-d-un-taux-de-cyanobacteries-trop-eleve-cette-base-de-loisirs-a-toulouse-contrainte-de-fermer-temporairement_64514740.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/a-cause-d-un-taux-de-cyanobacteries-trop-eleve-cette-base-de-loisirs-a-toulouse-contrainte-de-fermer-temporairement_64514740.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La base de loisirs du lac de Sesquières, à Toulouse, est contrainte de fermer temporairement ses activités aquatiques suite à un taux de cyanobactéries trop élevé, constaté lors de la vague de chaleur de la semaine du 8 juillet. Les températures atteignant 39°C et la baisse du niveau du lac d'environ 40 cm ont favorisé la prolifération de ces bactéries, dont la toxine est dangereuse notamment pour les enfants et les animaux. Toutes les activités impliquant une immersion — jeux gonflables, wakeboard, ski nautique — sont désormais interdites jusqu'à ce qu'un contrôle de l'ARS confirme un retour sous le seuil autorisé. Le lac fait l'objet d'une surveillance hebdomadaire, et la réouverture dépendra directement des résultats des prochains prélèvements.</summary>
+    <category term="news"/>
+    <published>2026-07-08T19:02:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:51315b0b-9723-4268-813d-a4108bc8e2cf</id>
+    <title>Jens Berthel Askou, nouveau coach du TFC, promet spectacle et ambition</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Danois Jens Berthel Askou, 43 ans, a été officiellement présenté comme nouvel entraîneur du Toulouse FC lors d&amp;#x27;une conférence de presse tenue au salon des Augustins le mercredi 8 juillet 2026. Il succède à l&amp;#x27;Espagnol Carles Martinez Novell, parti au Bayer Leverkusen après une saison qui a vu le TFC terminer 9e de Ligue 1. Askou, qui ne connaissait pas Toulouse avant sa signature, arrive auréolé d&amp;#x27;une excellente saison avec Motherwell, 4e du championnat d&amp;#x27;Écosse. Le président Olivier Cloarec a affiché des ambitions claires : plus de spectacle, plus de victoires à domicile et une progression continue du club, raisons pour lesquelles le technicien danois a été désigné candidat prioritaire par le directeur sportif Viktor Bezhani.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/du-spectacle-et-de-la-prise-de-risque-jens-berthel-askou-le-nouvel-entraineur-du-tfc-annonce-la-couleur_64517178.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/du-spectacle-et-de-la-prise-de-risque-jens-berthel-askou-le-nouvel-entraineur-du-tfc-annonce-la-couleur_64517178.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Danois Jens Berthel Askou, 43 ans, a été officiellement présenté comme nouvel entraîneur du Toulouse FC lors d'une conférence de presse tenue au salon des Augustins le mercredi 8 juillet 2026. Il succède à l'Espagnol Carles Martinez Novell, parti au Bayer Leverkusen après une saison qui a vu le TFC terminer 9e de Ligue 1. Askou, qui ne connaissait pas Toulouse avant sa signature, arrive auréolé d'une excellente saison avec Motherwell, 4e du championnat d'Écosse. Le président Olivier Cloarec a affiché des ambitions claires : plus de spectacle, plus de victoires à domicile et une progression continue du club, raisons pour lesquelles le technicien danois a été désigné candidat prioritaire par le directeur sportif Viktor Bezhani.</summary>
+    <category term="news"/>
+    <published>2026-07-08T20:01:45+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c5331e5f-e74d-4191-9c31-1a1ae378f8f4</id>
+    <title>Cachou Lajaunie : quel avenir pour la confiserie emblématique de Toulouse ?</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Cachou Lajaunie, la célèbre pastille de réglisse créée en 1880 par le pharmacien toulousain Léon Lajaunie, a vu sa production définitivement arrêtée en 2024 après 144 ans d&amp;#x27;existence, en raison d&amp;#x27;une baisse des ventes. Véritable symbole de Toulouse — avec sa boîte métallique jaune, ses pubs télévisées et jusqu&amp;#x27;au maillot du TFC de la saison 91-92 — la friandise reste profondément ancrée dans la mémoire collective. Une pétition lancée par Quentin Rech, étudiant à Besançon, a recueilli 54 000 signatures pour réclamer la relance de la production, signe d&amp;#x27;un attachement populaire intact. L&amp;#x27;article d&amp;#x27;actu_toulouse explore la question : la marque est-elle définitivement morte ou existe-t-il des chances de voir le Cachou revenir sur les étals ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Bilan historique et état des lieux sur l&amp;#x27;avenir incertain de la marque, avec la pétition en cours&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cachou-lajaunie-marque-morte-ou-production-relancee-quel-avenir-pour-la-mythique-confiserie-de-toulouse_64512164.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cachou-lajaunie-marque-morte-ou-production-relancee-quel-avenir-pour-la-mythique-confiserie-de-toulouse_64512164.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Cachou Lajaunie, la célèbre pastille de réglisse créée en 1880 par le pharmacien toulousain Léon Lajaunie, a vu sa production définitivement arrêtée en 2024 après 144 ans d'existence, en raison d'une baisse des ventes. Véritable symbole de Toulouse — avec sa boîte métallique jaune, ses pubs télévisées et jusqu'au maillot du TFC de la saison 91-92 — la friandise reste profondément ancrée dans la mémoire collective. Une pétition lancée par Quentin Rech, étudiant à Besançon, a recueilli 54 000 signatures pour réclamer la relance de la production, signe d'un attachement populaire intact. L'article d'actu_toulouse explore la question : la marque est-elle définitivement morte ou existe-t-il des chances de voir le Cachou revenir sur les étals ?</summary>
+    <category term="news"/>
+    <published>2026-07-09T06:04:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:738619ff-6656-4ea8-b184-0dec05dc9fe0</id>
+    <title>Cédric Jubillar avoue le meurtre de Delphine, deux mois avant son procès en appel</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le 6 juillet 2026, Cédric Jubillar a reconnu par écrit être à l&amp;#x27;origine de la disparition de son épouse Delphine, survenue dans la nuit du 15 au 16 décembre 2020 à Cagnac-les-Mines. Ces aveux, consignés dans une lettre adressée à ses nouveaux avocats Mes Pierre et Guy Debuisson, ont été rendus publics via La Dépêche du Midi puis lors d&amp;#x27;une conférence de presse à leur cabinet toulousain — et non par voie judiciaire, ce qui a conduit la présidente de la cour d&amp;#x27;appel de Toulouse, Chantal Ferreira, à annoncer que la justice comptait « agir rapidement ». Condamné à 30 ans de réclusion criminelle en première instance sans avoir jamais avoué, Jubillar évoque une dispute et indique vouloir permettre une sépulture pour la mère de ses enfants, mais n&amp;#x27;a pas encore précisé les circonstances exactes du décès ni l&amp;#x27;emplacement du corps. Les avocats des enfants du couple ont dénoncé l&amp;#x27;absence de précautions prises pour les prévenir avant la publication dans la presse, tandis que des questions demeurent sur l&amp;#x27;impact de ces aveux sur le procès en appel prévu à partir du 21 septembre 2026 à Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les articles couvrent des angles distincts : le récit des aveux eux-mêmes et la conférence de presse (articles 1 et 2), le contenu détaillé des révélations (article 3), la manière dont les enfants ont appris la nouvelle et la réaction de leurs avocats (article 4), les conséquences juridiques et procédurales (article 5), les motivations de Jubillar (article 6), et la réaction officielle de la cour d&amp;#x27;appel (article 7).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;quot;Il a reconnu sa participation&amp;quot;&lt;/strong&gt;: Contexte et rôle de l&amp;#x27;avocat Debuisson dans l&amp;#x27;obtention des aveux&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;quot;Direct. Cédric Jubillar avoue&amp;quot;&lt;/strong&gt;: Suivi en temps réel de la conférence de presse et premières réactions&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;quot;Les choses ont mal tourné&amp;quot;&lt;/strong&gt;: Contenu précis des révélations sur la mort de Delphine&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;quot;Aucune précaution n&amp;#x27;a été prise&amp;quot;&lt;/strong&gt;: Réaction des avocats des enfants et conditions dans lesquelles ils ont appris la nouvelle&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;quot;Investigations, date du procès, peine&amp;quot;&lt;/strong&gt;: Analyse des conséquences juridiques et impact sur le procès en appel&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;quot;Pourquoi Cédric Jubillar a-t-il avoué maintenant&amp;quot;&lt;/strong&gt;: Analyse des motivations : soulagement, stratégie, médicaments&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;quot;La justice déclare qu&amp;#x27;elle compte agir rapidement&amp;quot;&lt;/strong&gt;: Réponse officielle de la cour d&amp;#x27;appel de Toulouse&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-a-reconnu-sa-participation-avec-soulagement-comment-cedric-jubillar-a-avoue-le-meurtre-de-son-epouse_64501153.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-cedric-jubillar-avoue-le-meurtre-de-delphine-des-reactions-en-chaine-son-avocat-va-prendre-la-parole_64501725.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/aveux-de-cedric-jubillar-les-choses-ont-mal-tourne-voici-ce-qu-il-a-revele-sur-la-mort-de-son-epouse-delphine_64502942.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/aucune-precaution-n-a-ete-prise-comment-les-enfants-jubillar-ont-appris-les-aveux-de-leur-pere_64503469.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/aveux-de-cedric-jubillar-investigations-date-du-proces-peine-ce-que-ce-coup-de-theatre-change-pour-la-suite_64506803.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pourquoi-cedric-jubillar-a-t-il-avoue-maintenant-plus-de-cinq-ans-apres-la-disparition-de-sa-femme-delphine_64508891.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/aveux-de-cedric-jubillar-la-justice-declare-qu-elle-compte-agir-rapidement-qu-est-ce-que-ca-signifie_64516223.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/il-a-reconnu-sa-participation-avec-soulagement-comment-cedric-jubillar-a-avoue-le-meurtre-de-son-epouse_64501153.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le 6 juillet 2026, Cédric Jubillar a reconnu par écrit être à l'origine de la disparition de son épouse Delphine, survenue dans la nuit du 15 au 16 décembre 2020 à Cagnac-les-Mines. Ces aveux, consignés dans une lettre adressée à ses nouveaux avocats Mes Pierre et Guy Debuisson, ont été rendus publics via La Dépêche du Midi puis lors d'une conférence de presse à leur cabinet toulousain — et non par voie judiciaire, ce qui a conduit la présidente de la cour d'appel de Toulouse, Chantal Ferreira, à annoncer que la justice comptait « agir rapidement ». Condamné à 30 ans de réclusion criminelle en première instance sans avoir jamais avoué, Jubillar évoque une dispute et indique vouloir permettre une sépulture pour la mère de ses enfants, mais n'a pas encore précisé les circonstances exactes du décès ni l'emplacement du corps. Les avocats des enfants du couple ont dénoncé l'absence de précautions prises pour les prévenir avant la publication dans la presse, tandis que des questions demeurent sur l'impact de ces aveux sur le procès en appel prévu à partir du 21 septembre 2026 à Toulouse.</summary>
+    <category term="news"/>
+    <published>2026-07-06T09:44:20+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c7c6a1e1-da98-46fa-bcf2-2f472f6c025f</id>
+    <title>Fan zone de 15 000 places au Stadium pour France-Maroc</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;La qualification des Bleus pour les quarts de finale de la Coupe du monde 2026 a déclenché l&amp;#x27;ouverture d&amp;#x27;une fan zone à Toulouse, installée pour la première fois sur le parvis du Stadium, sur l&amp;#x27;île du Ramier. Le coup d&amp;#x27;envoi de France-Maroc est prévu le jeudi 9 juillet à 22h, avec une ouverture de la fan zone dès 19h. La capacité annoncée varie légèrement selon les sources : 15 000 personnes selon actu_toulouse (chiffre confirmé par la mairie), 18 000 selon lessentiel. Le site sera accessible uniquement à pied ou en transports en commun, les ponts Pierre-de-Coubertin et du Garigliano étant fermés à la circulation et les parkings environnants condamnés. Sur place : écran géant, foodtrucks, buvette, dispositifs de prévention alcool et contre les violences sexistes, et un espace PMR ; la fan zone est également exemptée du couvre-feu imposé aux moins de 16 ans dans le centre-ville.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;actu_toulouse donne la capacité à 15 000 personnes (chiffre officiel de la mairie), tandis que lessentiel avance 18 000. lessentiel propose en plus deux alternatives à la fan zone (les Halles de la Cartoucherie et le Biergarten), enrichissant le guide pratique au-delà du seul dispositif municipal.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails pratiques sur l&amp;#x27;accès, les rues bloquées et les parkings fermés&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Tour d&amp;#x27;horizon de trois lieux pour regarder le match, dont des alternatives à la fan zone officielle&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-une-fan-zone-de-15-000-places-installee-a-toulouse-pour-le-quart-de-finale-france-maroc_64500099.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-rues-bloquees-controles-tout-savoir-sur-l-acces-a-la-fan-zone-sur-le-parvis-du-stadium-pour-france-maroc_64504612.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-09?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46142"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-une-fan-zone-de-15-000-places-installee-a-toulouse-pour-le-quart-de-finale-france-maroc_64500099.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La qualification des Bleus pour les quarts de finale de la Coupe du monde 2026 a déclenché l'ouverture d'une fan zone à Toulouse, installée pour la première fois sur le parvis du Stadium, sur l'île du Ramier. Le coup d'envoi de France-Maroc est prévu le jeudi 9 juillet à 22h, avec une ouverture de la fan zone dès 19h. La capacité annoncée varie légèrement selon les sources : 15 000 personnes selon actu_toulouse (chiffre confirmé par la mairie), 18 000 selon lessentiel. Le site sera accessible uniquement à pied ou en transports en commun, les ponts Pierre-de-Coubertin et du Garigliano étant fermés à la circulation et les parkings environnants condamnés. Sur place : écran géant, foodtrucks, buvette, dispositifs de prévention alcool et contre les violences sexistes, et un espace PMR ; la fan zone est également exemptée du couvre-feu imposé aux moins de 16 ans dans le centre-ville.</summary>
+    <category term="event"/>
+    <published>2026-07-05T16:09:03+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:72bee54b-6541-437e-a611-aa6bcbb2d9cc</id>
+    <title>Sécheresse : feux d'artifice interdits, fêtes du 14-Juillet annulées en Haute-Garonne</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Face à la sécheresse et aux fortes chaleurs qui touchent la Haute-Garonne, le préfet a signé un arrêté interdisant l&amp;#x27;achat, la vente, la possession et l&amp;#x27;utilisation de feux d&amp;#x27;artifice de catégories F2 et F3 sur tout le département, du 2 juillet au 8 juillet à 8h. La préfecture craint notamment que des supporters de la Coupe du monde ne fassent usage d&amp;#x27;artifices pour célébrer les victoires de leurs équipes. En parallèle, plusieurs communes de l&amp;#x27;agglomération toulousaine ont d&amp;#x27;ores et déjà annulé leurs célébrations du 14-Juillet : bal populaire aux Sept Deniers, feux d&amp;#x27;artifice à Grenade-sur-Garonne, Pibrac, Launaguet et Merville, ainsi que les festivités du 13 juillet à Seilh. Les risques d&amp;#x27;incendie et la canicule sont invoqués comme principales raisons, les organisateurs soulignant la nécessité de ne pas surcharger les services de secours.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article se concentre sur l&amp;#x27;arrêté préfectoral et son cadre réglementaire ; le second recense concrètement les annulations commune par commune autour de Toulouse.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Pétard, fusées...)&lt;/strong&gt;: Le détail juridique de l&amp;#x27;arrêté préfectoral et la liste des artifices concernés&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Canicule et risque...)&lt;/strong&gt;: La liste des événements et feux d&amp;#x27;artifice annulés dans les communes de l&amp;#x27;agglomération&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/petards-fusees-chandelles-romaines-du-fait-de-la-secheresse-la-prefecture-interdit-les-feux-d-artifice_64495559.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-et-risque-d-incendie-des-feux-d-artifice-du-14-juillet-deja-annules-a-toulouse-et-aux-alentours_64514669.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/petards-fusees-chandelles-romaines-du-fait-de-la-secheresse-la-prefecture-interdit-les-feux-d-artifice_64495559.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Face à la sécheresse et aux fortes chaleurs qui touchent la Haute-Garonne, le préfet a signé un arrêté interdisant l'achat, la vente, la possession et l'utilisation de feux d'artifice de catégories F2 et F3 sur tout le département, du 2 juillet au 8 juillet à 8h. La préfecture craint notamment que des supporters de la Coupe du monde ne fassent usage d'artifices pour célébrer les victoires de leurs équipes. En parallèle, plusieurs communes de l'agglomération toulousaine ont d'ores et déjà annulé leurs célébrations du 14-Juillet : bal populaire aux Sept Deniers, feux d'artifice à Grenade-sur-Garonne, Pibrac, Launaguet et Merville, ainsi que les festivités du 13 juillet à Seilh. Les risques d'incendie et la canicule sont invoqués comme principales raisons, les organisateurs soulignant la nécessité de ne pas surcharger les services de secours.</summary>
+    <category term="news"/>
+    <published>2026-07-04T11:46:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:53081bb8-e7b8-4e90-9383-942f598bdc3f</id>
+    <title>Troisième canicule en six semaines à Toulouse, jusqu'à 45°C possibles</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Un troisième épisode caniculaire frappe Toulouse début juillet 2026, avec des températures maximales atteignant 38 à 39°C dès le début de semaine. La Haute-Garonne est passée en vigilance orange canicule le mardi 7 juillet, après plusieurs jours en vigilance jaune, et tous les départements d&amp;#x27;Occitanie sont désormais concernés sauf la Lozère. La mairie de Toulouse a activé son plan canicule dès le lundi sans attendre l&amp;#x27;alerte officielle de l&amp;#x27;État, prenant des mesures d&amp;#x27;urgence pour accompagner les habitants, notamment les plus vulnérables. Un scénario encore plus extrême se profile : selon un ancien prévisionniste de Météo France, une nouvelle intrusion d&amp;#x27;air saharien pourrait faire frôler les 44 à 45°C autour du 13 juillet, ce qui pulvériserait le record absolu de 42,4°C enregistré le 23 août 2023 à Toulouse-Blagnac.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les articles suivent une chronologie d&amp;#x27;escalade : le premier (3 juillet) annonce la montée des températures, le deuxième et troisième précisent les niveaux de vigilance département par département, le quatrième acte le passage en orange de la Haute-Garonne avec les mesures municipales, et le dernier introduit le scénario extrême des 44-45°C avec une source experte nommée — ce dernier angle est absent des articles précédents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 4 - Haute-Garonne orange)&lt;/strong&gt;: Mesures concrètes prises par la mairie de Toulouse&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 5 - 44-45°C)&lt;/strong&gt;: Risque de record absolu de température autour du 13 juillet&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-canicule-de-retour-a-toulouse-les-temperatures-vont-serieusement-grimper-ce-qui-nous-attend-d-ici-le-14-juillet_64494238.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-meteo-france-place-quatre-departements-d-occitanie-en-vigilance-orange-la-haute-garonne-en-vigilance-jaune_64498777.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-jusqu-a-39-c-toulouse-s-apprete-a-vivre-une-semaine-de-tres-fortes-chaleurs_64500337.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-haute-garonne-passe-en-vigilance-orange-a-la-canicule-39-a-toulouse-qui-prend-des-mesures_64504066.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-des-temperatures-entre-44-et-45-a-toulouse-selon-un-modele-meteo-cela-pourrait-arriver-d-ici-quelques-jours_64514343.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/la-canicule-de-retour-a-toulouse-les-temperatures-vont-serieusement-grimper-ce-qui-nous-attend-d-ici-le-14-juillet_64494238.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un troisième épisode caniculaire frappe Toulouse début juillet 2026, avec des températures maximales atteignant 38 à 39°C dès le début de semaine. La Haute-Garonne est passée en vigilance orange canicule le mardi 7 juillet, après plusieurs jours en vigilance jaune, et tous les départements d'Occitanie sont désormais concernés sauf la Lozère. La mairie de Toulouse a activé son plan canicule dès le lundi sans attendre l'alerte officielle de l'État, prenant des mesures d'urgence pour accompagner les habitants, notamment les plus vulnérables. Un scénario encore plus extrême se profile : selon un ancien prévisionniste de Météo France, une nouvelle intrusion d'air saharien pourrait faire frôler les 44 à 45°C autour du 13 juillet, ce qui pulvériserait le record absolu de 42,4°C enregistré le 23 août 2023 à Toulouse-Blagnac.</summary>
+    <category term="news"/>
+    <published>2026-07-03T13:53:33+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:29f70633-9100-4b0e-9d02-969e585d6d1f</id>
+    <title>« Survivre à Auschwitz » : exposition et programmation au musée de la Résistance</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;exposition temporaire « Survivre à Auschwitz », présentée au musée départemental de la Résistance et de la Déportation jusqu&amp;#x27;au 31 octobre, retrace le parcours de 16 rescapés français du camp d&amp;#x27;extermination nazi. Après quatre ans d&amp;#x27;enquête, trois chercheurs — dont l&amp;#x27;historien Tal Bruttmann et l&amp;#x27;archiviste Karen Taieb du Mémorial de la Shoah — ont réussi à identifier chacun des visages d&amp;#x27;une photographie prise peu après la libération du camp en février 1945. L&amp;#x27;exposition est entièrement accessible : visites guidées en langue des signes, retranscriptions audio pour déficients visuels, kits pour déficients auditifs et un visioguide gratuit disponible 24h/24 en plusieurs langues. Une programmation culturelle accompagne l&amp;#x27;exposition jusqu&amp;#x27;en octobre, avec notamment des ateliers familiaux sur les codes de la Résistance et l&amp;#x27;exposition itinérante #StolenMemory des Archives Arolsen du 1er septembre au 12 novembre.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article présente le fond historique et le travail d&amp;#x27;identification des rescapés ; le second détaille la programmation culturelle et les dispositifs d&amp;#x27;accessibilité autour de l&amp;#x27;exposition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;lessentiel (Survivre au camp de la mort)&lt;/strong&gt;: Le travail historique d&amp;#x27;identification des 16 rescapés et le contexte de la photo&lt;/li&gt;&lt;li&gt;&lt;strong&gt;lessentiel (Autour de l&amp;#x27;exposition)&lt;/strong&gt;: Les événements, ateliers et dispositifs d&amp;#x27;accessibilité proposés en parallèle&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-03?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45520"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-09?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46145"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-03?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#45520"/>
+    <summary>L'exposition temporaire « Survivre à Auschwitz », présentée au musée départemental de la Résistance et de la Déportation jusqu'au 31 octobre, retrace le parcours de 16 rescapés français du camp d'extermination nazi. Après quatre ans d'enquête, trois chercheurs — dont l'historien Tal Bruttmann et l'archiviste Karen Taieb du Mémorial de la Shoah — ont réussi à identifier chacun des visages d'une photographie prise peu après la libération du camp en février 1945. L'exposition est entièrement accessible : visites guidées en langue des signes, retranscriptions audio pour déficients visuels, kits pour déficients auditifs et un visioguide gratuit disponible 24h/24 en plusieurs langues. Une programmation culturelle accompagne l'exposition jusqu'en octobre, avec notamment des ateliers familiaux sur les codes de la Résistance et l'exposition itinérante #StolenMemory des Archives Arolsen du 1er septembre au 12 novembre.</summary>
+    <category term="event"/>
+    <published>2026-07-03T04:09:36.663000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:0591310b-a6ce-4c0a-9147-79fd71e32692</id>
+    <title>Sélection de sorties à Toulouse : festivals, concerts et événements</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Le premier week-end de juillet à Toulouse est particulièrement chargé, avec la 5e édition du Festival de Toulouse (jusqu&amp;#x27;au 11 juillet) proposant Calogero, Axelle Red et Pomme à la Halle aux grains, et la 17e édition de TangoPostale (3–12 juillet) mêlant concerts, bals et ateliers. Les Fêtes du Grand Fénétra animent le week-end avec danses et musiques traditionnelles place du Capitole et au Jardin des plantes, tandis que L&amp;#x27;Envol des Pionniers accueille l&amp;#x27;événement « Tous Audacieux ! » avec une vingtaine d&amp;#x27;animations pour tous les âges. Le week-end du 10–12 juillet prolonge la programmation : bal des pompiers, culture polynésienne avec Fenia no te heiva, soirées musicales à la Halle de la Machine, et projections sur l&amp;#x27;eau pour les 30 ans du canal du Midi. Par ailleurs, les stations de montagne proches de Toulouse (Luchon-Superbagnères, Le Mourtis) proposent tout l&amp;#x27;été VTT, randonnées et événements culturels dont le CosmoJazz Festival.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse couvre les deux week-ends séparément (3–5 juillet et 10–12 juillet) avec un article supplémentaire sur les stations de montagne. Lessentiel adopte un format digest plus synthétique pour le premier week-end, ajoutant des détails sur WaterRugby, Kayak &amp;amp; Run, l&amp;#x27;été Caouec à Blagnac et les Nuits étoilées que les articles Actu Toulouse ne mentionnent pas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail des concerts du Festival de Toulouse et programme du week-end du 10–12 juillet, plus escapades en montagne&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble condensée du premier week-end, avec sport (WaterRugby, Kayak &amp;amp; Run) et événements hors-centre (Blagnac, Nuits étoilées)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/concert-festivals-spectacles-voici-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine_64480689.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-03?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#45522"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/festivals-vtt-randonnees-les-stations-de-ski-pres-de-toulouse-se-mettent-a-l-heure-d-ete_64228018.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/concerts-expos-bal-voici-notre-selection-de-sorties-pour-cette-fin-de-semaine-a-toulouse_64511720.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/concert-festivals-spectacles-voici-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine_64480689.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le premier week-end de juillet à Toulouse est particulièrement chargé, avec la 5e édition du Festival de Toulouse (jusqu'au 11 juillet) proposant Calogero, Axelle Red et Pomme à la Halle aux grains, et la 17e édition de TangoPostale (3–12 juillet) mêlant concerts, bals et ateliers. Les Fêtes du Grand Fénétra animent le week-end avec danses et musiques traditionnelles place du Capitole et au Jardin des plantes, tandis que L'Envol des Pionniers accueille l'événement « Tous Audacieux ! » avec une vingtaine d'animations pour tous les âges. Le week-end du 10–12 juillet prolonge la programmation : bal des pompiers, culture polynésienne avec Fenia no te heiva, soirées musicales à la Halle de la Machine, et projections sur l'eau pour les 30 ans du canal du Midi. Par ailleurs, les stations de montagne proches de Toulouse (Luchon-Superbagnères, Le Mourtis) proposent tout l'été VTT, randonnées et événements culturels dont le CosmoJazz Festival.</summary>
+    <category term="event"/>
+    <published>2026-07-02T18:46:01+02:00</published>
   </entry>
 </feed>

@@ -4076,19 +4076,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
 DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
 SUMMARY:Festival de Toulouse
-DESCRIPTION:La cinquième édition du Festival de Toulouse est lancée et s
- e tient jusqu'au 11 juillet\, avec une programmation exceptionnelle mêlan
- t musique classique\, variété et création. Temps fort absolu : le retou
- r de Michel Plasson à la tête de l'Orchestre national du Capitole\, 23 a
- ns après leur dernier concert commun\, avec au programme Berlioz\, Debuss
- y et Ravel à la Halle aux Grains. Le festival innove cette année en cré
- ant un Orchestre du Festival inédit\, réunissant le Conservatoire\, l'Or
- chestre de cham\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
- 2026-06-30#45122
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-30#45122?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Le premier week-end de juillet à Toulouse est particulièremen
+ t chargé\, avec la 5e édition du Festival de Toulouse (jusqu'au 11 juill
+ et) proposant Calogero\, Axelle Red et Pomme à la Halle aux grains\, et l
+ a 17e édition de TangoPostale (3–12 juillet) mêlant concerts\, bals et
+  ateliers. Les Fêtes du Grand Fénétra animent le week-end avec danses e
+ t musiques traditionnelles place du Capitole et au Jardin des plantes\, ta
+ ndis que L'Envol des Pionniers accueille l'événement « Tous Audacieux !
+  » avec une v\n\nSource\: https://actu.fr/occitanie/toulouse_31555/concer
+ t-festivals-spectacles-voici-notre-selection-de-sorties-a-faire-a-toulouse
+ -en-cette-fin-de-semaine_64480689.html
+LOCATION:Halle aux grains\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/concert-festivals-spectacles-v
+ oici-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine
+ _64480689.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7aacf1d7-fc96-4547-954d-068e371d830a@news.lavillerose.com
@@ -4165,17 +4169,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:29f70633-9100-4b0e-9d02-969e585d6d1f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20261101
 SUMMARY:Survivre à Auschwitz
-DESCRIPTION:L'exposition temporaire « Survivre à Auschwitz » est présen
- tée au musée départemental de la Résistance et de la Déportation de T
- oulouse jusqu'au 31 octobre. Elle retrace le parcours de 16 rescapés fran
- çais du camp d'extermination nazi\, à partir d'une photographie prise pe
- u après la libération du camp en février 1945. Ce cliché\, conservé a
- u Mémorial de la Shoah\, montrait onze femmes et cinq hommes jusqu'alors 
- anonymes\, réunis sous la bannière du Parti communiste français. Après
-  quatre ans d'enquê\n\nSource\: https://www.lessentiel.fr/newsletter/toul
- ouse/2026-07-03#45520
+DESCRIPTION:L'exposition temporaire « Survivre à Auschwitz »\, présent
+ ée au musée départemental de la Résistance et de la Déportation jusqu
+ 'au 31 octobre\, retrace le parcours de 16 rescapés français du camp d'e
+ xtermination nazi. Après quatre ans d'enquête\, trois chercheurs — don
+ t l'historien Tal Bruttmann et l'archiviste Karen Taieb du Mémorial de la
+  Shoah — ont réussi à identifier chacun des visages d'une photographie
+  prise peu après la libération du camp en février 1945. L'exposition es
+ t entièrement access\n\nSource\: https://www.lessentiel.fr/newsletter/tou
+ louse/2026-07-03#45520
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-03#45520?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -4783,22 +4787,40 @@ BEGIN:VEVENT
 UID:cluster:c7c6a1e1-da98-46fa-bcf2-2f472f6c025f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-SUMMARY:Fan zone France-Maroc
-DESCRIPTION:À Toulouse\, la mairie a mis en place un couvre-feu pour les m
- ineurs de moins de 16 ans non accompagnés lors du match France-Suède (30
-  juin\, 23h)\, limité à l'hypercentre et aux quartiers Bonnefoy et Maren
- go. Après la qualification des Bleus pour les quarts de finale\, une fan 
- zone de 15 000 places a été officiellement confirmée sur le parvis du S
- tadium de l'île du Ramier — une première pour Toulouse\, qui abandonne
-  la Prairie des Filtres. Le quart de finale France-Maroc est prévu le jeu
- di 9 juillet\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-toulou
- se-le-couvre-feu-pour-les-mineurs-sera-applique-lors-du-match-de-coupe-du-
- monde-entre-la-france-et-la-suede_64476660.html
-LOCATION:place un couvre-feu\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/a-toulouse-le-couvre-feu-pour-
- les-mineurs-sera-applique-lors-du-match-de-coupe-du-monde-entre-la-france-
- et-la-suede_64476660.html?utm_source=ical&utm_medium=calendar&utm_campaign
- =toulouse-agenda
+SUMMARY:Fan Zone France-Maroc
+DESCRIPTION:La qualification des Bleus pour les quarts de finale de la Coup
+ e du monde 2026 a déclenché l'ouverture d'une fan zone à Toulouse\, ins
+ tallée pour la première fois sur le parvis du Stadium\, sur l'île du Ra
+ mier. Le coup d'envoi de France-Maroc est prévu le jeudi 9 juillet à 22h
+ \, avec une ouverture de la fan zone dès 19h. La capacité annoncée vari
+ e légèrement selon les sources : 15 000 personnes selon actu_toulouse (c
+ hiffre confirmé par la mairie)\, 18 000 selon lessentiel. Le site sera ac
+ cessible un\n\nSource\: https://actu.fr/occitanie/toulouse_31555/coupe-du-
+ monde-une-fan-zone-de-15-000-places-installee-a-toulouse-pour-le-quart-de-
+ finale-france-maroc_64500099.html
+LOCATION:allée\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-une-fan-zone-de
+ -15-000-places-installee-a-toulouse-pour-le-quart-de-finale-france-maroc_6
+ 4500099.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:54758bd0-4ca5-412b-90d5-b831886de850@news.lavillerose.com
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260719
+SUMMARY:Été Caouec
+DESCRIPTION:Le festival estival Caouec s'installe jusqu'au 18 juillet au pa
+ rc du Ritouret à Blagnac\, proposant une programmation gratuite et sans r
+ éservation pour toute la famille. Le village du parc offre structures gon
+ flables\, toboggans géants\, accrobranche\, mini-golf et sports variés e
+ n journée. Les soirées culturelles\, de 20h à 23h\, mêlent concerts\, 
+ théâtre\, cirque et spectacles sous les étoiles. Chaque journée-type c
+ omprend du sport le matin\, des ateliers découverte l'après-midi (graffi
+ ti\, bijoux\, arts\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-07-09#46144
+LOCATION:parc du Ritouret\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-09#46144?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e3d0481a-c5ba-4add-9953-3a08735f7557@news.lavillerose.com
