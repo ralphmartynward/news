@@ -4074,27 +4074,6 @@ URL:https://www.toulouscope.fr/2026/06/03/ce-chateau-du-gers-prime-pour-son
  80150.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260713
-SUMMARY:Festival de Toulouse
-DESCRIPTION:Le premier week-end de juillet à Toulouse est particulièremen
- t chargé\, avec la 5e édition du Festival de Toulouse (jusqu'au 11 juill
- et) proposant Calogero\, Axelle Red et Pomme à la Halle aux grains\, et l
- a 17e édition de TangoPostale (3–12 juillet) mêlant concerts\, bals et
-  ateliers. Les Fêtes du Grand Fénétra animent le week-end avec danses e
- t musiques traditionnelles place du Capitole et au Jardin des plantes\, ta
- ndis que L'Envol des Pionniers accueille l'événement « Tous Audacieux !
-  » avec une v\n\nSource\: https://actu.fr/occitanie/toulouse_31555/concer
- t-festivals-spectacles-voici-notre-selection-de-sorties-a-faire-a-toulouse
- -en-cette-fin-de-semaine_64480689.html
-LOCATION:Halle aux grains\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/concert-festivals-spectacles-v
- oici-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine
- _64480689.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
- genda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:7aacf1d7-fc96-4547-954d-068e371d830a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260705
@@ -4169,7 +4148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:29f70633-9100-4b0e-9d02-969e585d6d1f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20260704
 SUMMARY:Survivre à Auschwitz
 DESCRIPTION:L'exposition temporaire « Survivre à Auschwitz »\, présent
  ée au musée départemental de la Résistance et de la Déportation jusqu
@@ -4439,22 +4418,21 @@ BEGIN:VEVENT
 UID:cluster:bd6fbd62-b03e-4e5b-9a09-ae302597e5b2@news.lavillerose.com
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260831
-SUMMARY:Programme estival Halle de la Machine
-DESCRIPTION:De début juillet à fin août 2026\, la Halle de la Machine à
-  Toulouse propose un programme estival varié : concerts gratuits\, soiré
- es guinguette\, contes pour enfants et repas-spectacles. L'Aéroflorale II
- \, gigantesque vaisseau botanique de 15 mètres de haut imaginé par la Ci
- e La Machine\, est à découvrir tout l'été — et au-delà — à l'int
- érieur du site. Les enfants de 5 à 10 ans peuvent profiter des « Contes
-  Halle à Folie »\, lectures fantastiques animées par les Véritables Ma
- chinistes\, chaque vendred\n\nSource\: https://www.toulouscope.fr/2026/07/
- 03/concerts-gratuits-guinguette-contes-exposition-immersive-la-halle-de-la
- -machine-devoile-son-programme-de-lete-13443468.php
-LOCATION:Halle de la Machine\, Toulouse
-URL:https://www.toulouscope.fr/2026/07/03/concerts-gratuits-guinguette-cont
- es-exposition-immersive-la-halle-de-la-machine-devoile-son-programme-de-le
- te-13443468.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
- agenda
+SUMMARY:Halle Night Long
+DESCRIPTION:La Halle de La Machine propose un programme riche du 4 juillet 
+ au 30 août 2026\, articulé autour de plusieurs temps forts. Le festival 
+ Halle Night Long\, qui en est à sa 8e édition\, offre des concerts gratu
+ its en plein air sur le parvis tous les vendredis et samedis soirs de 19h 
+ à 22h\, du 10 juillet au 29 août\, avec des styles variés — rock\, é
+ lectro\, rap\, pop\, funky\, latino. Au-delà des concerts\, la Halle accu
+ eille l'Aéroflorale II\, un vaisseau géant de 15 mètres imaginé par la
+  Cie La Machine\, des\n\nSource\: https://actu.fr/occitanie/toulouse_31555
+ /voici-les-5-temps-forts-a-ne-pas-manquer-a-la-halle-de-la-machine-cet-ete
+ -a-toulouse_64494841.html
+LOCATION:Halle de La Machine propose un programme riche du 4 jui\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/voici-les-5-temps-forts-a-ne-p
+ as-manquer-a-la-halle-de-la-machine-cet-ete-a-toulouse_64494841.html?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:418af5c5-46be-410f-910a-e88c6b49f43b@news.lavillerose.com
@@ -4603,20 +4581,38 @@ BEGIN:VEVENT
 UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
-SUMMARY:Toulouse + Fraîche
-DESCRIPTION:Face à un nouvel épisode caniculaire avec des températures a
- ttendues jusqu'à 38°C\, la mairie de Toulouse active son plan « Toulous
- e + fraîche » à partir du lundi 6 juillet 2026\, sans attendre le décl
- enchement officiel de l'alerte par l'État. Dès lundi\, l'entrée dans l'
- ensemble des piscines municipales ouvertes passe à 1 € (au lieu de 3\,4
- 0 €) pour la journée entière. Les horaires de plusieurs piscines sont 
- également étendus\, avec des fermetures repoussées jusqu'à 21h pour ce
- rtains établissements \n\nSource\: https://actu.fr/occitanie/toulouse_315
- 55/canicule-a-toulouse-piscines-a-1-horaires-elargis-tout-ce-qui-change-de
- s-lundi_64498659.html
+SUMMARY:Toulouse + fraîche
+DESCRIPTION:Face à des températures pouvant atteindre 38 à 45°C\, la ma
+ irie de Toulouse a activé son plan « Toulouse + fraîche » sans attendr
+ e le déclenchement officiel de l'alerte canicule par l'État. Dès le lun
+ di 6 juillet\, l'entrée dans toutes les piscines municipales est ramenée
+  à 1 € (au lieu de 3\,40 €) et les horaires de sept piscines sont pro
+ longés jusqu'à 20h ou 21h. La Ramée Plage\, la base de loisirs de la Re
+ ynerie\, 14 parcs et jardins (ouverts jusqu'à 23h) ainsi que la médiath
+ èque Cabanis (jusqu'à \n\nSource\: https://actu.fr/occitanie/toulouse_31
+ 555/canicule-a-toulouse-piscines-a-1-horaires-elargis-tout-ce-qui-change-d
+ es-lundi_64498659.html
 URL:https://actu.fr/occitanie/toulouse_31555/canicule-a-toulouse-piscines-a
  -1-horaires-elargis-tout-ce-qui-change-des-lundi_64498659.html?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f0c2eff4-c647-416b-9649-9b72d986aa2b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260720
+SUMMARY:Pop Up Collectif Papaye
+DESCRIPTION:Le Collectif Papaye organise sa 17e édition de pop-up shop dé
+ dié aux créateurs et artisans locaux\, du 6 au 19 juillet à la Maison O
+ LPE\, au 22 rue de la Bourse à Toulouse. L'événement est entièrement g
+ ratuit et propose une programmation variée : vernissage le lundi 6 juille
+ t avec DJ\, nocturnes chaque vendredi et samedi\, ainsi que des ateliers d
+ e céramique\, tufting et macramé. Ce rendez-vous mensuel est désormais 
+ bien installé dans le paysage créatif toulousain\, en réunissant artisa
+ ns et public au\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-09
+ -vendredi-10-juillet-0
+LOCATION:rue de la Bourse\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-07-09-vendredi-10-juillet-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6836011b-bda5-45dc-bab0-8ca029e1e1a3@news.lavillerose.com
@@ -4731,16 +4727,16 @@ UID:cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed@news.lavillerose.com
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260830
 SUMMARY:Cinéma en plein air
-DESCRIPTION:Pour sa 22e édition\, le festival Cinéma en plein air revient
-  dans la cour rénovée de la Cinémathèque de Toulouse\, au 69 rue du Ta
- ur\, du 8 juillet au 29 août 2026. Pendant 8 semaines\, 44 films de genre
- s et d'époques variés seront projetés exclusivement en version original
- e sous-titrée en français (VOSTF)\, à 22h jusqu'au 9 août puis à 21h3
- 0 à partir du 11 août. Le coup d'envoi est donné avec « Lost in Transl
- ation » de Sofia Coppola\, suivi de classiques comme « À bout de souffl
- e »\, « E.T. » ou « 12\n\nSource\: https://actu.fr/occitanie/toulouse_
- 31555/cinema-en-plein-air-la-cinematheque-de-toulouse-projettera-44-films-
- dans-sa-cour-pendant-l-ete_64407325.html
+DESCRIPTION:La Cinémathèque de Toulouse lance la 22e édition de son fest
+ ival Cinéma en plein air du 8 juillet au 29 août 2026 dans sa cour réno
+ vée au 69 rue du Taur. Au programme : 44 films en version originale sous-
+ titrée (VOSTF)\, couvrant tous genres et toutes époques\, avec des proje
+ ctions à 22h jusqu'au 9 août puis à 21h30 à partir du 11 août. Le fes
+ tival s'ouvre avec « Lost in Translation » de Sofia Coppola\, suivi de c
+ lassiques comme « À bout de souffle »\, « E.T. » ou « 12 hommes en c
+ olère ». Les billet\n\nSource\: https://actu.fr/occitanie/toulouse_31555
+ /cinema-en-plein-air-la-cinematheque-de-toulouse-projettera-44-films-dans-
+ sa-cour-pendant-l-ete_64407325.html
 LOCATION:rue du Taur\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/cinema-en-plein-air-la-cinemat
  heque-de-toulouse-projettera-44-films-dans-sa-cour-pendant-l-ete_64407325.
@@ -4765,6 +4761,23 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-08#45970?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d961b7ab-9634-406b-acae-2fb01b722de5@news.lavillerose.com
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260714
+SUMMARY:Festival Pause Guitare
+DESCRIPTION:Le Festival Pause Guitare célèbre son 30e anniversaire du 8 a
+ u 13 juillet à Albi\, soit six jours de concerts dans une édition qualif
+ iée d'exceptionnelle. La programmation mêle rap\, rock et électro avec 
+ des têtes d'affiche comme Orelsan\, Ben Harper & The Innocent Criminals\,
+  The Kooks et Rilès. Les billets sont proposés entre 12 et 63 €\, et l
+ e festival est accessible en moins d'une heure depuis Toulouse. Une sortie
+  idéale pour les festivaliers de la région cherchant un événement d'en
+ vergure cet ét\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-09
+ -jeudi-9-juillet-0
+URL:https://www.clutchmag.fr/evenements#2026-07-09-jeudi-9-juillet-0?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:0763d3a2-6cf6-4d62-a855-e5ab8ee0da09@news.lavillerose.com
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260713
@@ -4787,18 +4800,17 @@ BEGIN:VEVENT
 UID:cluster:c7c6a1e1-da98-46fa-bcf2-2f472f6c025f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-SUMMARY:Fan Zone France-Maroc
-DESCRIPTION:La qualification des Bleus pour les quarts de finale de la Coup
- e du monde 2026 a déclenché l'ouverture d'une fan zone à Toulouse\, ins
- tallée pour la première fois sur le parvis du Stadium\, sur l'île du Ra
- mier. Le coup d'envoi de France-Maroc est prévu le jeudi 9 juillet à 22h
- \, avec une ouverture de la fan zone dès 19h. La capacité annoncée vari
- e légèrement selon les sources : 15 000 personnes selon actu_toulouse (c
- hiffre confirmé par la mairie)\, 18 000 selon lessentiel. Le site sera ac
- cessible un\n\nSource\: https://actu.fr/occitanie/toulouse_31555/coupe-du-
- monde-une-fan-zone-de-15-000-places-installee-a-toulouse-pour-le-quart-de-
- finale-france-maroc_64500099.html
-LOCATION:allée\, Toulouse
+SUMMARY:Fan zone France-Maroc
+DESCRIPTION:La France s'est qualifiée pour les demi-finales de la Coupe du
+  monde 2026 en battant le Maroc 2-0\, grâce à des buts de Mbappé et Dem
+ bélé. Pour l'occasion\, la mairie de Toulouse a déployé pour la premi
+ ère fois du Mondial une fan zone sur le parvis du Stadium (île du Ramier
+ )\, ouverte dès 19h et capable d'accueillir jusqu'à 15 000 personnes. En
+ viron 5 000 supporters ont finalement fait le déplacement\, l'ambiance é
+ tant décrite comme festive et la soirée globalement calme\, malgré quel
+ ques feux de pou\n\nSource\: https://actu.fr/occitanie/toulouse_31555/coup
+ e-du-monde-une-fan-zone-de-15-000-places-installee-a-toulouse-pour-le-quar
+ t-de-finale-france-maroc_64500099.html
 URL:https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-une-fan-zone-de
  -15-000-places-installee-a-toulouse-pour-le-quart-de-finale-france-maroc_6
  4500099.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
@@ -4823,6 +4835,83 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-09#46144?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ab80d963-8134-4f6f-9290-845bc2f0ebb6@news.lavillerose.com
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260824
+SUMMARY:La Ramée Plage
+DESCRIPTION:Le lac de la Ramée ouvre sa plage surveillée jusqu'au 23 aoû
+ t\, offrant aux Toulousains un espace de baignade en plein air à deux pas
+  du centre-ville. C'est le point de baignade surveillée le plus proche du
+  Capitole\, ce qui en fait une option pratique pour se rafraîchir sans qu
+ itter la ville. En plus de la baignade\, des activités de plein air sont 
+ proposées tout au long de la saison estivale. Le site s'adresse à tous c
+ eux qui cherchent à profiter de l'été sans partir loin.\n\nSource\: htt
+ ps://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=6a7a
+ 20aa-6c7c-430f-b606-e5b7341d8216&url_id=cf227a5b-65ba-4f98-a609-b488fcd81c
+ 0f
+LOCATION:lac de la Ramée ouvre sa plage surveillée jusqu'au 23\, Toulouse
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=cf227a5b-65ba-4f98-a609-b488
+ fcd81c0f?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d95869f3-9216-4a56-b348-3696aea7a27d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260727
+SUMMARY:L'art en suspension
+DESCRIPTION:L'exposition « L'art en suspension » investit l'espace aérie
+ n de la gare Matabiau avec 300 m² d'œuvres d'art urbain accrochées au-d
+ essus des rails. Quatorze artistes participent à cette installation colle
+ ctive qui réinvente le rapport à l'espace public ferroviaire. Le disposi
+ tif suspendu\, spectaculaire par son ampleur\, invite les voyageurs et vis
+ iteurs à lever les yeux sur un lieu habituellement traversé sans s'arrê
+ ter. L'exposition est visible jusqu'au 26 juillet 2026.\n\nSource\: https:
+ //cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=6a7a20a
+ a-6c7c-430f-b606-e5b7341d8216&url_id=7135e233-50c6-49c5-899f-b26724c9d901
+LOCATION:espace aérien de la gare Matabiau\, Toulouse
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=7135e233-50c6-49c5-899f-b267
+ 24c9d901?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fbab643c-adf3-484d-b40b-486a0a30438d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260713
+SUMMARY:Fenua No Te Heiva
+DESCRIPTION:Le festival Fenua No Te Heiva propose une immersion en Polynés
+ ie française à travers un programme mêlant danses traditionnelles\, mus
+ ique\, artisanat et gastronomie. L'événement se tient jusqu'au 12 juille
+ t 2026 et met également en avant la préservation de la biodiversité mar
+ ine. C'est une occasion rare à Toulouse de découvrir la culture polynés
+ ienne dans toute sa richesse et ses couleurs. Le festival s'adresse à un 
+ large public\, des amateurs de cultures du monde aux familles et aux curie
+ ux.\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker
+ .ashx?email_id=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=fd9ff75d-7f58-4
+ 87d-9dac-8042fd7f6199
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=fd9ff75d-7f58-487d-9dac-8042
+ fd7f6199?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0591310b-a6ce-4c0a-9147-79fd71e32692@news.lavillerose.com
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+SUMMARY:Sorties du week-end à Toulouse et escapades en montagne cet été
+DESCRIPTION:Ce week-end du 10 au 12 juillet à Toulouse\, la programmation 
+ reste riche malgré le cœur de l'été : cinéma en plein air sur les voi
+ les d'un bateau au port de l'Embouchure pour les 30 ans du Canal du Midi a
+ u patrimoine Unesco\, concerts du Festival de Toulouse à Saint-Pierre-des
+ -Cuisines\, bal des pompiers de la caserne Lougnon et guinguette au cloît
+ re des Jacobins. Tangopostale 2026 vit son dernier week-end avec milongas\
+ , master class et un concert de l'Orchestre national du Capitole. En paral
+ lèle\,\n\nSource\: https://actu.fr/occitanie/toulouse_31555/festivals-vtt
+ -randonnees-les-stations-de-ski-pres-de-toulouse-se-mettent-a-l-heure-d-et
+ e_64228018.html
+URL:https://actu.fr/occitanie/toulouse_31555/festivals-vtt-randonnees-les-s
+ tations-de-ski-pres-de-toulouse-se-mettent-a-l-heure-d-ete_64228018.html?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e3d0481a-c5ba-4add-9953-3a08735f7557@news.lavillerose.com
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
@@ -4842,21 +4931,183 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:edaeb8db-864d-4a2f-b2af-3ca73d529a55@news.lavillerose.com
 DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20261116
 SUMMARY:Layup Saison 6
-DESCRIPTION:Le festival d'art urbain Layup entame sa sixième saison à Tou
- louse avec une programmation en deux temps\, entièrement gratuite. Du 10 
- au 26 juillet 2026\, le Hall M de la gare Toulouse Matabiau — suspendu a
- u-dessus des voies — accueillera une exposition collective autour du th
- ème des trajectoires\, réunissant 14 artistes entre figures établies et
-  jeunes talents. À partir du 24 septembre et jusqu'au 15 novembre 2026\, 
- c'est un bâtiment de 5 000 m² sur six niveaux dans le quartier Compans-C
- affarelli q\n\nSource\: https://www.toulouscope.fr/2026/07/03/layup-revien
- t-a-toulouse-avec-deux-expositions-gratuites-a-la-gare-matabiau-puis-a-com
- pans-caffarelli-13451214.php
+DESCRIPTION:Pour sa sixième saison\, le collectif toulousain Layup propose
+  deux expositions gratuites d'art urbain à Toulouse. Du 10 au 26 juillet 
+ 2026\, le Hall M de la gare Matabiau — perché au-dessus des voies — a
+ ccueillera une exposition collective autour du thème des trajectoires\, a
+ vec des œuvres inédites de 11 à 14 artistes selon les sources (peinture
+ s\, sculptures\, vidéos et réalité augmentée). À l'automne\, du 24 se
+ ptembre au 15 novembre\, Layup investira un ancien immeuble Enedis de 5 00
+ 0 m² sur cinq à \n\nSource\: https://www.toulouscope.fr/2026/07/03/layup
+ -revient-a-toulouse-avec-deux-expositions-gratuites-a-la-gare-matabiau-pui
+ s-a-compans-caffarelli-13451214.php
 URL:https://www.toulouscope.fr/2026/07/03/layup-revient-a-toulouse-avec-deu
  x-expositions-gratuites-a-la-gare-matabiau-puis-a-compans-caffarelli-13451
  214.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0a614105-f4af-4d74-a72a-ee5ce7ec0e76@news.lavillerose.com
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Halle Night Long
+DESCRIPTION:La Halle de La Machine accueille une soirée Halle Night Long a
+ vec le collectif Ultragama le vendredi 10 juillet. Au programme : nu disco
+  et techno\, à partir de 19h. L'entrée est gratuite. Un rendez-vous ouve
+ rt à tous les amateurs de musiques électroniques dans ce lieu emblémati
+ que de Toulouse.\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-0
+ 9-vendredi-10-juillet-1
+LOCATION:Halle de La Machine accueille une soirée Halle Night Lo\, Toulous
+ e
+URL:https://www.clutchmag.fr/evenements#2026-07-09-vendredi-10-juillet-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f35a3b39-82bf-454d-9df5-1c9207101359@news.lavillerose.com
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Kalangata
+DESCRIPTION:La Maison de la Terre accueille un bal afro-latino le vendredi 
+ 10 juillet à partir de 21h. L'événement\, organisé sous le nom Kalanga
+ ta\, est ouvert à tous avec une participation libre. Ce type de bal mêle
+  musiques et danses d'Afrique et d'Amérique latine dans une ambiance fest
+ ive et accessible. Une soirée idéale pour les amateurs de rythmes afro-l
+ atins à Toulouse.\n\nSource\: https://www.clutchmag.fr/evenements#2026-07
+ -09-vendredi-10-juillet-2
+URL:https://www.clutchmag.fr/evenements#2026-07-09-vendredi-10-juillet-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:02a9fe43-9e66-48eb-bd56-73f8bc48cec2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Afro Social Club
+DESCRIPTION:L'Afro Social Club investit L'Éphémère Guinguette à Lacroix
+ -Falgarde le samedi 11 juillet pour une soirée placée sous le signe de l
+ 'afrobeat psychédélique. L'événement débute à 21h et l'entrée est g
+ ratuite. Ce type de rendez-vous en guinguette\, en bord de rivière aux po
+ rtes de Toulouse\, attire les amateurs de musiques du monde et de sorties 
+ estivales conviviales. Aucune information supplémentaire sur les artistes
+  ou le programme n'est disponible dans la source.\n\nSource\: https://www.
+ clutchmag.fr/evenements#2026-07-09-samedi-11-juillet-0
+URL:https://www.clutchmag.fr/evenements#2026-07-09-samedi-11-juillet-0?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:153786f2-3be5-488d-b4de-c2d3ff0aab5d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Concertos Bach et Vivaldi
+DESCRIPTION:Un concert de musique baroque est programmé le samedi 11 juill
+ et à l'Auditorium Saint-Pierre des Cuisines\, à partir de 21h. Au progra
+ mme\, des concertos de Bach et Vivaldi\, deux piliers du répertoire baroq
+ ue européen. Les places sont proposées entre 18 et 29\,50 €\, ce qui e
+ n fait une soirée accessible pour les amateurs de musique classique. L'Au
+ ditorium Saint-Pierre des Cuisines\, ancienne église du centre historique
+  de Toulouse\, offre un cadre particulièrement adapté à ce type de rép
+ ertoire.\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-09-samedi
+ -11-juillet-1
+LOCATION:places sont proposées entre 18\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-07-09-samedi-11-juillet-1?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7bd0bb8a-78e1-4b45-9a12-f516fc29f747@news.lavillerose.com
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Maxiboum de la Vadrouille
+DESCRIPTION:Le Café Ginette accueille la soirée Maxiboum de la Vadrouille
+  le samedi 11 juillet à partir de 22h. L'entrée est gratuite\, ce qui en
+  fait une sortie accessible à tous. L'événement est annoncé comme une 
+ soirée\, sans précision sur le style musical ou les artistes au programm
+ e. Les informations disponibles restent très succinctes\, limitées à la
+  date\, l'heure et le lieu.\n\nSource\: https://www.clutchmag.fr/evenement
+ s#2026-07-09-samedi-11-juillet-2
+URL:https://www.clutchmag.fr/evenements#2026-07-09-samedi-11-juillet-2?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c5415e27-e36d-408f-b977-06c202c89081@news.lavillerose.com
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Bien manger à Saint-Cyp
+DESCRIPTION:L'Office de tourisme de Toulouse propose une balade gourmande d
+ ans le quartier Saint-Cyprien le samedi 11 juillet. Les participants déco
+ uvriront l'histoire du quartier à travers ses saveurs et la rencontre d'a
+ rtisans passionnés. La promenade inclut une dégustation de produits loca
+ ux d'exception. Un rendez-vous destiné aux amateurs de gastronomie locale
+  et aux curieux de l'histoire toulousaine.\n\nSource\: https://cdt31.touri
+ nsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=6a7a20aa-6c7c-430f-b
+ 606-e5b7341d8216&url_id=e0580c85-4b0e-459b-82ca-d73d11cd14df
+LOCATION:quartier Saint-Cyprien le samedi 11 juillet\, Toulouse
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=e0580c85-4b0e-459b-82ca-d73d
+ 11cd14df?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e8bd5707-fe91-4d58-b6bc-2eb09c83386e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Cinéma en plein air
+DESCRIPTION:L'Office du tourisme de Toulouse propose une séance de cinéma
+  en plein air autour du classique culte d'E.T. l'extra-terrestre de Steven
+  Spielberg\, programmée le samedi 11 juillet. L'événement mise sur la m
+ agie des projections nocturnes sous les étoiles\, dans une atmosphère em
+ preinte de nostalgie et d'émotion. Ce type de séance en plein air s'adre
+ sse à un large public\, familles comme cinéphiles\, souhaitant (re)déco
+ uvrir ce chef-d'œuvre dans un cadre insolite. Les détails pratiques (lie
+ u exact\, he\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueU
+ rlTracker.ashx?email_id=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=ca0bd9
+ 8c-aeff-48bc-b9fa-beb97a25fdbb
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=ca0bd98c-aeff-48bc-b9fa-beb9
+ 7a25fdbb?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8660de72-be97-4f16-a7e3-59196b02e2d7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Festival Terre Polynésienne
+DESCRIPTION:Le Festival Terre Polynésienne propose une soirée de musiques
+  polynésiennes le dimanche 12 juillet à partir de 17h30. L'événement s
+ e tient au Hall 8\, une salle de spectacle toulousaine. Le prix d'entrée 
+ n'est pas précisé dans la source. L'information disponible reste succinc
+ te\, limitant les détails sur le programme exact ou les artistes présent
+ s.\n\nSource\: https://www.clutchmag.fr/evenements#2026-07-09-dimanche-12-
+ juillet-0
+LOCATION:salle de spectacle toulousaine\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-07-09-dimanche-12-juillet-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a6a8a24f-18de-49cd-9bd9-41e0b75787ac@news.lavillerose.com
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Baboucan & The Fine Asses
+DESCRIPTION:Le duo Baboucan et The Fine Asses se produit le dimanche 12 jui
+ llet au Café Plùm à Lautrec\, dans le Tarn\, à partir de 20h. Le conce
+ rt est proposé à participation libre\, ce qui le rend accessible à tous
+  les budgets. Le genre annoncé est le groove-pop. Aucune autre informatio
+ n n'est disponible sur les artistes ou le programme de la soirée.\n\nSour
+ ce\: https://www.clutchmag.fr/evenements#2026-07-09-dimanche-12-juillet-1
+URL:https://www.clutchmag.fr/evenements#2026-07-09-dimanche-12-juillet-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c94c3e15-0887-4420-aa9f-711396fbd637@news.lavillerose.com
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:JLN DJ Set
+DESCRIPTION:Le Mama Shelter Toulouse propose un DJ set gratuit le dimanche 
+ 12 juillet à partir de 21h. L'événement est ouvert à tous sans entrée
+  payante. Peu de détails supplémentaires sont disponibles dans la source
+ \, qui se limite à une annonce concise. Ceux qui cherchent une sortie noc
+ turne décontractée en plein cœur de la ville y trouveront leur compte.\
+ n\nSource\: https://www.clutchmag.fr/evenements#2026-07-09-dimanche-12-jui
+ llet-2
+URL:https://www.clutchmag.fr/evenements#2026-07-09-dimanche-12-juillet-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c48c24b5-1db6-47a8-a12f-d3b19d4ccfde@news.lavillerose.com
@@ -4894,6 +5145,24 @@ DESCRIPTION:Antes & Madzes\, duo de rap originaire de Rodez et désormais i
  6-06-29#44871
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-29#44871?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5c75f2b4-54a6-4953-b509-87f9bd0b8b78@news.lavillerose.com
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260715
+SUMMARY:Fête nationale Toulouse
+DESCRIPTION:Toulouse célèbre la Fête nationale les lundi 13 et mardi 14 
+ juillet avec des concerts en plein air et des feux d'artifice dans la vill
+ e rose. Les festivités sont entièrement gratuites et ouvertes à tous\, 
+ que ce soit entre amis ou en famille. L'événement promet une ambiance fe
+ stive illuminant les quartiers toulousains sur deux soirées consécutives
+ . Aucun détail sur les lieux précis ou la programmation musicale n'est f
+ ourni dans la source.\n\nSource\: https://cdt31.tourinsoft.com/MailingElec
+ troniqueUrlTracker.ashx?email_id=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_
+ id=5e7d02eb-5761-4f39-8f2e-763700edf7e8
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=5e7d02eb-5761-4f39-8f2e-7637
+ 00edf7e8?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:08d1efe7-fd06-43ad-afd1-87176325ca9d@news.lavillerose.com

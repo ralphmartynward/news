@@ -1,0 +1,101 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-07-11",
+  "sunday": "2026-07-12",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c5415e27-e36d-408f-b977-06c202c89081",
+      "title": "Balade gourmande dans le quartier Saint-Cyprien le 11 juillet"
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e8bd5707-fe91-4d58-b6bc-2eb09c83386e",
+      "title": "Cinéma en plein air : E.T. l'extra-terrestre le 11 juillet"
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ab80d963-8134-4f6f-9290-845bc2f0ebb6",
+      "title": "La Ramée plage : baignade surveillée tout l'été près du Capitole"
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d95869f3-9216-4a56-b348-3696aea7a27d",
+      "title": "300 m² d'art urbain suspendu au-dessus de la gare Matabiau"
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:fbab643c-adf3-484d-b40b-486a0a30438d",
+      "title": "Festival Fenua No Te Heiva : la Polynésie s'invite à Toulouse"
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:54758bd0-4ca5-412b-90d5-b831886de850",
+      "title": "L'été Caouec revient gratuitement au parc du Ritouret à Blagnac"
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:81d5bcaf-c9a0-485e-9b33-7dc33d4f3bc5",
+      "title": "La Forêt Magique rouvre à Cornebarrieu avec de nouveaux parcours"
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:dad7f000-298c-4596-a0e9-466d2fb21715",
+      "title": "Initiations gratuites au tango argentin place Saint-Pierre"
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:0591310b-a6ce-4c0a-9147-79fd71e32692",
+      "title": "Sorties du week-end à Toulouse et escapades en montagne cet été"
+    },
+    {
+      "file": "weekend_event_10.jpg",
+      "type": "event",
+      "cluster_id": "cluster:edaeb8db-864d-4a2f-b2af-3ca73d529a55",
+      "title": "Layup revient à Toulouse avec deux expositions d'art urbain gratuites"
+    },
+    {
+      "file": "weekend_event_11.jpg",
+      "type": "event",
+      "cluster_id": "cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed",
+      "title": "Cinéma en plein air à la Cinémathèque : 44 films cet été"
+    },
+    {
+      "file": "weekend_event_12.jpg",
+      "type": "event",
+      "cluster_id": "cluster:123d56b4-316d-4578-b8b5-4f44261b2514",
+      "title": "Tangopostale : 10 jours de tango argentin à Toulouse"
+    },
+    {
+      "file": "weekend_event_13.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2d3b10fb-830d-42d7-9cbd-428dc10418dd",
+      "title": "Halle day long : un été de machines et merveilles jusqu'au 30 août"
+    },
+    {
+      "file": "weekend_event_14.jpg",
+      "type": "event",
+      "cluster_id": "cluster:bd6fbd62-b03e-4e5b-9a09-ae302597e5b2",
+      "title": "Programme estival complet à la Halle de La Machine cet été"
+    },
+    {
+      "file": "weekend_event_15.jpg",
+      "type": "event",
+      "cluster_id": "cluster:6c3b4a52-1817-4dce-a0b3-9e2afd698694",
+      "title": "La plage du lac de la Ramée rouvre pour l'été à Toulouse"
+    }
+  ]
+}

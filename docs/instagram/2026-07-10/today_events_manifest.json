@@ -1,0 +1,83 @@
+[
+  {
+    "cluster_id": "cluster:123d56b4-316d-4578-b8b5-4f44261b2514",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Tangopostale : 10 jours de tango argentin à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-TANGO-POSTALE.jpg",
+    "file": "cluster_123d56b4-316d-4578-b8b5-4f44261b2514_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:dad7f000-298c-4596-a0e9-466d2fb21715",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Initiations gratuites au tango argentin place Saint-Pierre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/festival-tangopostale-----c-christine-remiot.JPG?itok=KMnItd91",
+    "file": "cluster_dad7f000-298c-4596-a0e9-466d2fb21715_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:54758bd0-4ca5-412b-90d5-b831886de850",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "L'été Caouec revient gratuitement au parc du Ritouret à Blagnac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/ete-caouc-blagnac.jpg?itok=GJe-rTwJ",
+    "file": "cluster_54758bd0-4ca5-412b-90d5-b831886de850_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:ab80d963-8134-4f6f-9290-845bc2f0ebb6",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Ramée plage : baignade surveillée tout l'été près du Capitole",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-LA-RAMEE-PLAGE.jpg",
+    "file": "cluster_ab80d963-8134-4f6f-9290-845bc2f0ebb6_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d95869f3-9216-4a56-b348-3696aea7a27d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "300 m² d'art urbain suspendu au-dessus de la gare Matabiau",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-L-ART-EN-SUSPENSION.jpg",
+    "file": "cluster_d95869f3-9216-4a56-b348-3696aea7a27d_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:fbab643c-adf3-484d-b40b-486a0a30438d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Fenua No Te Heiva : la Polynésie s'invite à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-FENUA-NO-TE-HEIVA.jpg",
+    "file": "cluster_fbab643c-adf3-484d-b40b-486a0a30438d_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:0591310b-a6ce-4c0a-9147-79fd71e32692",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Sorties du week-end à Toulouse et escapades en montagne cet été",
+    "image_url": "https://static.actu.fr/uploads/2026/05/ski-electrique-c-x-daure.jpg",
+    "file": "cluster_0591310b-a6ce-4c0a-9147-79fd71e32692_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:edaeb8db-864d-4a2f-b2af-3ca73d529a55",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Layup revient à Toulouse avec deux expositions d'art urbain gratuites",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a4783cde1eb4024dc0e5670/hd/image.png?v=1",
+    "file": "cluster_edaeb8db-864d-4a2f-b2af-3ca73d529a55_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:57b17cfb-76f8-4ad8-9b58-202d9bb63781",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Miroir Miroir ferme ses portes à Barrière de Paris",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/miroir-miroir---charline-poullain.jpg?h=e0d2f1d3&itok=hIohisWr",
+    "file": "cluster_57b17cfb-76f8-4ad8-9b58-202d9bb63781_event_story.jpg"
+  }
+]
