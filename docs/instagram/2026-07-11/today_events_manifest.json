@@ -1,0 +1,65 @@
+[
+  {
+    "cluster_id": "cluster:bd6fbd62-b03e-4e5b-9a09-ae302597e5b2",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Programme estival complet à la Halle de La Machine cet été",
+    "image_url": "https://static.actu.fr/uploads/2026/07/halle-machine-toulouse.jpg",
+    "file": "cluster_bd6fbd62-b03e-4e5b-9a09-ae302597e5b2_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:dad7f000-298c-4596-a0e9-466d2fb21715",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Initiations gratuites au tango argentin place Saint-Pierre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/festival-tangopostale-----c-christine-remiot.JPG?itok=KMnItd91",
+    "file": "cluster_dad7f000-298c-4596-a0e9-466d2fb21715_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:54758bd0-4ca5-412b-90d5-b831886de850",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "L'été Caouec revient gratuitement au parc du Ritouret à Blagnac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/ete-caouc-blagnac.jpg?itok=GJe-rTwJ",
+    "file": "cluster_54758bd0-4ca5-412b-90d5-b831886de850_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:fbab643c-adf3-484d-b40b-486a0a30438d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Fenua No Te Heiva : la Polynésie s'invite à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-FENUA-NO-TE-HEIVA.jpg",
+    "file": "cluster_fbab643c-adf3-484d-b40b-486a0a30438d_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:0591310b-a6ce-4c0a-9147-79fd71e32692",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Sorties du week-end à Toulouse et escapades en montagne cet été",
+    "image_url": "https://static.actu.fr/uploads/2026/05/ski-electrique-c-x-daure.jpg",
+    "file": "cluster_0591310b-a6ce-4c0a-9147-79fd71e32692_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:c5415e27-e36d-408f-b977-06c202c89081",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Balade gourmande dans le quartier Saint-Cyprien le 11 juillet",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-BIEN-MANGER-A-ST-CYP.jpg",
+    "file": "cluster_c5415e27-e36d-408f-b977-06c202c89081_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:e8bd5707-fe91-4d58-b6bc-2eb09c83386e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Cinéma en plein air : E.T. l'extra-terrestre le 11 juillet",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-E.T-2.jpg",
+    "file": "cluster_e8bd5707-fe91-4d58-b6bc-2eb09c83386e_event_story.jpg"
+  }
+]

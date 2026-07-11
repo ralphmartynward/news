@@ -4931,7 +4931,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:edaeb8db-864d-4a2f-b2af-3ca73d529a55@news.lavillerose.com
 DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20260711
 SUMMARY:Layup Saison 6
 DESCRIPTION:Pour sa sixième saison\, le collectif toulousain Layup propose
   deux expositions gratuites d'art urbain à Toulouse. Du 10 au 26 juillet 
@@ -5336,6 +5336,26 @@ URL:https://www.toulouscope.fr/2026/06/26/festival-dastronomie-de-fleurance
  -le-plus-grand-festival-de-culture-scientifique-en-europe-revient-pour-une
  -36e-edition-13413248.php?utm_source=ical&utm_medium=calendar&utm_campaign
  =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e7a6d01c-4891-4a88-869c-5f17a4eb858a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Feux de Gascogne
+DESCRIPTION:Le samedi 1er août\, le château de L'Isle-de-Noé\, situé à
+  une vingtaine de kilomètres d'Auch et à proximité de Toulouse\, accuei
+ lle la 6e édition des Feux de Gascogne. Dès 16h\, le parc ouvre ses port
+ es avec un village gourmand\, des animations pour enfants et une expositio
+ n dans le château. En soirée\, les Aigles de Gascogne proposeront une d
+ émonstration de volerie\, suivie d'un concert de la chanteuse gersoise C
+ éline Aviani. Le clou de la soirée sera le grand spectacle pyrotechnique
+  signé FC Pyro\, s\n\nSource\: https://www.toulouscope.fr/2026/07/11/pres
+ -de-toulouse-ce-chateau-accueille-lun-des-plus-grands-spectacles-pyrotechn
+ iques-du-gers-13457145.php
+LOCATION:parc ouvre ses portes\, Toulouse
+URL:https://www.toulouscope.fr/2026/07/11/pres-de-toulouse-ce-chateau-accue
+ ille-lun-des-plus-grands-spectacles-pyrotechniques-du-gers-13457145.php?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:10957db0-2cf4-41ff-a518-2d6cb9f397e2@news.lavillerose.com
