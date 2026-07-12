@@ -4559,20 +4559,20 @@ BEGIN:VEVENT
 UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20270101
-SUMMARY:Travaux VINCI : fermetures sur l'avenue Eisenhower et le périphér
- ique
-DESCRIPTION:VINCI Autoroutes lance deux chantiers distincts autour de Toulo
- use à partir du 6 juillet 2026. Le premier\, et le plus impactant\, conce
- rne le renforcement du pont de l'échangeur du Chapitre (n°38) sur l'A64 
- : l'avenue du Général Eisenhower sera fermée dans les deux sens du 6 ju
- illet au 28 août\, avec également la bretelle d'entrée A64 direction To
- ulouse coupée \; des fermetures nocturnes de l'A64 elle-même sont prévu
- es à partir de septembre\, jusqu'à fin décembre. Le second chantier\, p
- lus ponctuel\, \n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-tou
- louse-une-partie-de-cette-grande-avenue-sera-fermee-pendant-pres-de-deux-m
- ois_64498357.html
-LOCATION:avenue du Général Eisenhower sera fermée dans les deux s\, Toul
- ouse
+SUMMARY:Travaux VINCI : perturbations sur le périphérique et avenue Eisen
+ hower cet été
+DESCRIPTION:VINCI Autoroutes lance deux chantiers simultanés affectant la 
+ circulation à Toulouse à partir du 6 juillet 2026. L'avenue du Général
+  Eisenhower (M120A) sera totalement fermée dans les deux sens au niveau d
+ u pont de l'échangeur du Chapitre\, sur l'A64\, du 6 juillet au 28 août\
+ , avec fermeture de la bretelle d'entrée vers Toulouse — des déviation
+ s balisées en jaune seront mises en place. En parallèle\, des travaux de
+  rénovation du marquage au sol entraînent des fermetures nocturnes (21h
+ –6h) de plusie\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-to
+ ulouse-une-partie-de-cette-grande-avenue-sera-fermee-pendant-pres-de-deux-
+ mois_64498357.html
+LOCATION:avenue du Général Eisenhower (M120A) sera totalement fer\, Toulo
+ use
 URL:https://actu.fr/occitanie/toulouse_31555/a-toulouse-une-partie-de-cette
  -grande-avenue-sera-fermee-pendant-pres-de-deux-mois_64498357.html?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -5163,6 +5163,86 @@ DESCRIPTION:Toulouse célèbre la Fête nationale les lundi 13 et mardi 14
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=6a7a20aa-6c7c-430f-b606-e5b7341d8216&url_id=5e7d02eb-5761-4f39-8f2e-7637
  00edf7e8?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c3450846-a264-4f14-9226-a153db8ba7e4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260715
+SUMMARY:Fête nationale Toulouse
+DESCRIPTION:Le week-end du 14 juillet s'annonce très chargé sur les autor
+ outes au départ de Toulouse : Bison Futé a placé la Haute-Garonne en ro
+ uge vendredi 10 et samedi 11 juillet\, avec des bouchons importants notamm
+ ent sur l'A61 vers Narbonne\, aggravés par un accident à Labastide-d'Anj
+ ou en soirée du vendredi. Vinci Autoroutes recommande de partir avant 9 h
+  ou après 18 h le samedi\, tandis que le dimanche s'annonce fluide. Côt
+ é festivités\, Toulouse maintient son programme de Fête nationale malgr
+ é les annul\n\nSource\: https://actu.fr/occitanie/toulouse_31555/depart-e
+ n-vacances-depuis-toulouse-voici-les-horaires-a-connaitre-pour-eviter-les-
+ bouchons-sur-les-autoroutes_64523216.html
+URL:https://actu.fr/occitanie/toulouse_31555/depart-en-vacances-depuis-toul
+ ouse-voici-les-horaires-a-connaitre-pour-eviter-les-bouchons-sur-les-autor
+ outes_64523216.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0e1706a9-8d89-4505-9fe5-5315f40b997e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260715
+SUMMARY:14-Juillet à Toulouse : commerces et administrations fermés ou ou
+ verts
+DESCRIPTION:À l'occasion du 14-Juillet\, de nombreux services publics et c
+ ommerces toulousains seront fermés les 13 et 14 juillet\, en raison du po
+ nt du week-end prolongé. Du côté des administrations\, la préfecture d
+ 'Occitanie\, les sous-préfectures de Muret et Saint-Gaudens\, ainsi que p
+ lusieurs directions régionales et départementales n'assureront pas d'acc
+ ueil au public ces deux jours. La mairie de Toulouse ferme également plus
+ ieurs de ses services : urbanisme\, formalités administratives\, Maisons 
+ Toulouse Se\n\nSource\: https://actu.fr/occitanie/toulouse_31555/commerces
+ -services-administration-ce-qui-ouvre-et-ce-qui-ferme-en-ce-long-week-end-
+ du-14-juillet-a-toulouse_64526613.html
+URL:https://actu.fr/occitanie/toulouse_31555/commerces-services-administrat
+ ion-ce-qui-ouvre-et-ce-qui-ferme-en-ce-long-week-end-du-14-juillet-a-toulo
+ use_64526613.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9c360349-e8ff-4d5c-82ae-dbe592ca48d6@news.lavillerose.com
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Theodora & Gims Showcases
+DESCRIPTION:La discothèque toulousaine La Terrazza accueille deux showcase
+ s de taille cet été : Gims le 13 juillet (veille de fête nationale) et 
+ Theodora le 18 juillet 2026. Theodora\, 22 ans\, est l'artiste francophone
+  la plus écoutée en France en 2025 et a été sacrée artiste féminine 
+ de l'année — le club annonce la date comme « exclusive ». Elle sera a
+ ccompagnée de JAJA\, DJ Tay et DJ William NC. Des billets restent disponi
+ bles à 18\,90 € pour Theodora\, 22\,90 € pour Gims\, ou 30\,90 € po
+ ur les deux en offre com\n\nSource\: https://actu.fr/occitanie/toulouse_31
+ 555/theodora-bientot-en-showcase-dans-cette-boite-de-nuit-a-toulouse-tout-
+ comme-gims_64525205.html
+URL:https://actu.fr/occitanie/toulouse_31555/theodora-bientot-en-showcase-d
+ ans-cette-boite-de-nuit-a-toulouse-tout-comme-gims_64525205.html?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:abec0087-8f3a-4d4f-8b5e-1bd7d3df1538@news.lavillerose.com
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Défilé du 14 juillet
+DESCRIPTION:Pour la première fois depuis la création du défilé militair
+ e du 14 juillet en 1880\, des membres d'entreprises privées participeront
+  à la parade sur les Champs-Élysées à Paris. Parmi eux figureront des 
+ réservistes toulousains d'Airbus\, regroupés au sein du Greads (Groupeme
+ nt des réservistes des entités de l'aéronautique\, de la défense et du
+  spatial)\, qui fête cette année ses 25 ans. Cette entité transversale 
+ rassemble les réservistes opérationnels d'Airbus et de ses coentreprises
+  comme MBDA et Ar\n\nSource\: https://actu.fr/occitanie/toulouse_31555/c-e
+ st-une-grande-premiere-pourquoi-des-employes-toulousains-d-airbus-vont-def
+ iler-le-14-juillet-sur-les-champs-elysees_64515719.html
+URL:https://actu.fr/occitanie/toulouse_31555/c-est-une-grande-premiere-pour
+ quoi-des-employes-toulousains-d-airbus-vont-defiler-le-14-juillet-sur-les-
+ champs-elysees_64515719.html?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:08d1efe7-fd06-43ad-afd1-87176325ca9d@news.lavillerose.com
