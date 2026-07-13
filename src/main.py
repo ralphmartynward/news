@@ -223,6 +223,7 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                     ig_hashtags=result.get("ig_hashtags"),
                     venue=result.get("venue"),
                     ig_mention=result.get("ig_mention"),
+                    listicle_items=result.get("listicle_items"),
                 )
                 cat_label = f"[{result['category']}] " if result["category"] else ""
                 print(f"  {cid}: {cat_label}'{result['title'][:60]}…'")
@@ -309,13 +310,14 @@ def main() -> None:
                 print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
             # Generate Instagram images (Graph API posting happens after git push)
             try:
-                from src.instagram import run as instagram_run, render_weekend_carousel, render_today_events
+                from src.instagram import run as instagram_run, render_weekend_carousel, render_today_events, render_listicle_carousels
                 today_slug    = datetime.now(PARIS).date().isoformat()
                 today_weekday = datetime.now(PARIS).weekday()  # 4=Fri, 5=Sat
                 ig_dir        = INSTAGRAM_DIR / today_slug
 
                 instagram_run(conn, ig_dir)
                 render_today_events(conn, ig_dir)
+                render_listicle_carousels(conn, ig_dir)
 
                 if today_weekday == 4:  # Friday only — after Clutch+OfficeTourisme newsletters
                     render_weekend_carousel(conn, ig_dir)

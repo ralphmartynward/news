@@ -160,6 +160,27 @@ def _build_caption(cluster: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
+def post_listicle_carousel_from_manifest(manifest_path: Path, ig_user_id: str, token: str,
+                                          base_url: str = "https://news.lavillerose.com") -> str | None:
+    """Post a listicle carousel from a *_listicle_manifest.json file."""
+    if not manifest_path.exists():
+        print(f"instagram_graph: listicle manifest not found at {manifest_path}")
+        return None
+
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    date_slug  = manifest_path.parent.name
+    slides     = manifest.get("slides", [])
+    image_urls = [f"{base_url}/instagram/{date_slug}/{s['file']}" for s in slides]
+
+    caption = _build_caption(manifest)
+    print(f"instagram_graph: posting listicle carousel ({len(image_urls)} slides) — {manifest.get('title','')[:50]}")
+    try:
+        return post_carousel(ig_user_id, token, image_urls, caption)
+    except InstagramAPIError as e:
+        print(f"  ig listicle: FAILED — {e}")
+        return None
+
+
 def run_from_manifest(manifest_path: Path, ig_user_id: str, token: str,
                       base_url: str = "https://news.lavillerose.com") -> list[dict[str, Any]]:
     """Post all images listed in a manifest.json.

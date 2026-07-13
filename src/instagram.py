@@ -752,8 +752,10 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
 
     today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT00:00:00")
     clusters  = cache_mod.load_instagram_clusters(conn, today_iso)
-    # Only place/culture with a real image → square post. Events have dedicated renderers.
-    clusters  = [c for c in clusters if c.get("category") in ("place", "culture") and _good_image_url(c.get("image_url"))]
+    # Only place/culture with a real image → square post. Events and listicles have dedicated renderers.
+    clusters  = [c for c in clusters if c.get("category") in ("place", "culture")
+                 and _good_image_url(c.get("image_url"))
+                 and not c.get("listicle_items")]
 
     if not clusters:
         print("instagram: no place/culture clusters for today")
@@ -843,6 +845,227 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
         cache_mod.mark_ig_story_posted(conn, posted_ids, today)
     print(f"instagram today events: {len(manifest)} story(ies) written to {out_dir}")
     return manifest
+
+
+# ---------------------------------------------------------------------------
+# Format 4 — Listicle carousel (top-N articles)
+# ---------------------------------------------------------------------------
+
+def _fetch_listicle_images(url: str, n: int) -> list[str | None]:
+    """Scrape an article page and return up to n content images in document order."""
+    try:
+        r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
+        r.raise_for_status()
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(r.text, "html.parser")
+        for tag in soup.find_all(["nav", "header", "footer", "aside", "script", "style"]):
+            tag.decompose()
+        imgs: list[str] = []
+        for img in soup.find_all("img"):
+            src = (img.get("src") or img.get("data-src") or img.get("data-lazy-src") or "").strip()
+            if not src.startswith("http"):
+                continue
+            try:
+                w = int(img.get("width") or 0)
+                h = int(img.get("height") or 0)
+                if (0 < w < 200) or (0 < h < 150):
+                    continue
+            except Exception:
+                pass
+            if any(s in src.lower() for s in ("logo", "icon", "favicon", "sprite", "pixel", "tracking")):
+                continue
+            imgs.append(src)
+            if len(imgs) >= n:
+                break
+        return imgs + [None] * max(0, n - len(imgs))
+    except Exception as exc:
+        import sys as _sys
+        print(f"listicle image fetch failed for {url}: {exc}", file=_sys.stderr)
+        return [None] * n
+
+
+def _render_listicle_cover(cluster: dict[str, Any], n_items: int) -> "Image":
+    """Cover slide for a listicle carousel — main article image + title + count badge."""
+    from PIL import Image, ImageDraw
+
+    W, H = POST_W, POST_H
+    PAD  = 52
+
+    base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
+    photo = _download_image(cluster.get("image_url"))
+    if photo:
+        base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
+    base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
+
+    draw = ImageDraw.Draw(base)
+
+    FSIZE = 60
+    _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
+
+    f_badge = _load_font(26, bold=True)
+    f_title = _load_font(52, bold=True)
+    f_sub   = _load_font(24)
+    f_tiny  = _load_font(17)
+
+    ig_caption = cluster.get("ig_caption") or ""
+    caption_lines = [l.strip() for l in ig_caption.split("\n") if l.strip()][:2]
+
+    title      = cluster.get("title", "")
+    title_segs = _segment_title(title)
+
+    lh_t   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
+    lh_s   = draw.textbbox((0, 0), "A", font=f_sub)[3]
+    lh_b   = draw.textbbox((0, 0), "A", font=f_badge)[3]
+    site_h = draw.textbbox((0, 0), "A", font=f_tiny)[3]
+    badge_h = lh_b + 20
+
+    title_lines = _wrap_text(title, f_title, W - PAD * 2, draw)[:3]
+    total_h = (badge_h + 16
+               + len(title_lines) * (lh_t + 10) + 10
+               + len(caption_lines) * (lh_s + 6)
+               + site_h + 8)
+    y = H - 120 - total_h
+
+    # Count badge
+    badge_text = f"{n_items} sélections"
+    bw = draw.textbbox((0, 0), badge_text, font=f_badge)[2] + 40
+    bx = (W - bw) // 2
+    draw.rounded_rectangle([bx, y, bx + bw, y + badge_h], radius=badge_h // 2, fill=COL_GREEN)
+    draw.text((bx + 20, y + 10), badge_text, font=f_badge, fill=COL_DARK)
+    y += badge_h + 16
+
+    y, _ = _draw_multicolor_lines(draw, PAD, y, title_segs, f_title, W - PAD * 2, line_bonus=10)
+    y += 10
+
+    for line in caption_lines:
+        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 180))
+        y += lh_s + 6
+
+    draw.text((PAD, y + 4), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+
+    return base.convert("RGB")
+
+
+def _render_listicle_item_slide(item: dict[str, Any], n: int, total: int, img_url: str | None) -> "Image":
+    """One item slide for a listicle carousel."""
+    from PIL import Image, ImageDraw
+
+    W, H = POST_W, POST_H
+    PAD  = 52
+
+    base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
+    photo = _download_image(img_url) if img_url else None
+    if photo:
+        base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
+    base = _apply_gradient(base, int(H * 0.42), H, start_alpha=0, end_alpha=255)
+
+    draw = ImageDraw.Draw(base)
+
+    FSIZE = 56
+    _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
+
+    f_num   = _load_font(26, bold=True)
+    f_title = _load_font(56, bold=True)
+    f_desc  = _load_font(28)
+    f_tiny  = _load_font(17)
+
+    # Number pill top-left
+    num_str = f"{n} / {total}"
+    nb  = draw.textbbox((0, 0), num_str, font=f_num)
+    nw  = nb[2] - nb[0] + 28
+    nh  = nb[3] - nb[1] + 16
+    draw.rounded_rectangle([PAD, 44, PAD + nw, 44 + nh], radius=nh // 2, fill=(15, 23, 42, 200))
+    draw.text((PAD + 14, 44 + 8), num_str, font=f_num, fill=COL_WHITE)
+
+    item_title = item.get("title", "")
+    item_desc  = item.get("description", "")
+
+    title_lines = _wrap_text(item_title, f_title, W - PAD * 2, draw)[:2]
+    desc_lines  = _wrap_text(item_desc,  f_desc,  W - PAD * 2, draw)[:2]
+
+    lh_t   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
+    lh_d   = draw.textbbox((0, 0), "A",  font=f_desc)[3]
+    site_h = draw.textbbox((0, 0), "A",  font=f_tiny)[3]
+
+    total_h = (len(title_lines) * (lh_t + 8) + 12
+               + len(desc_lines) * (lh_d + 6)
+               + site_h + 8)
+    y = H - PAD - total_h
+
+    segs = [(w, COL_PINK) for w in item_title.split()]
+    y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, W - PAD * 2, line_bonus=8)
+    y += 12
+
+    for line in desc_lines:
+        draw.text((PAD, y), line, font=f_desc, fill=(255, 255, 255, 200))
+        y += lh_d + 6
+
+    draw.text((PAD, y + 4), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+
+    return base.convert("RGB")
+
+
+def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
+    """Generate listicle carousel images for top-N articles synthesised today."""
+    from src import cache as cache_mod
+
+    today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT00:00:00")
+    clusters  = cache_mod.load_instagram_clusters(conn, today_iso)
+    listicles = [c for c in clusters if c.get("listicle_items") and _good_image_url(c.get("image_url"))]
+
+    if not listicles:
+        print("instagram listicles: none today")
+        return []
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    manifest_files: list[str] = []
+
+    for cl in listicles:
+        cid = cl["cluster_id"]
+        try:
+            raw = cl.get("listicle_items")
+            items = json.loads(raw) if isinstance(raw, str) else raw
+            if not items or len(items) < 3:
+                continue
+            items = items[:10]
+            safe_cid = cid.replace(":", "_")
+
+            # Scrape individual images from the article page
+            item_imgs = _fetch_listicle_images(cl.get("url") or "", len(items))
+
+            slides: list[dict[str, Any]] = []
+
+            # Cover slide
+            cover = _render_listicle_cover(cl, len(items))
+            cover_file = f"{safe_cid}_listicle_cover.jpg"
+            cover.save(str(out_dir / cover_file), "JPEG", quality=92)
+            slides.append({"file": cover_file, "type": "cover"})
+
+            # Item slides
+            for i, (item, img_url) in enumerate(zip(items, item_imgs), 1):
+                effective_img = img_url or cl.get("image_url")
+                slide = _render_listicle_item_slide(item, i, len(items), effective_img)
+                slide_file = f"{safe_cid}_listicle_{i:02d}.jpg"
+                slide.save(str(out_dir / slide_file), "JPEG", quality=92)
+                slides.append({"file": slide_file, "type": "item", "title": item.get("title", "")})
+                print(f"  instagram listicle: slide {i}/{len(items)} — {item.get('title','')[:40]}")
+
+            manifest = {
+                "type": "listicle_carousel", "cluster_id": cid,
+                "title": cl.get("title", ""), "ig_caption": cl.get("ig_caption"),
+                "ig_hashtags": cl.get("ig_hashtags"), "ig_mention": cl.get("ig_mention"),
+                "venue": cl.get("venue") or "", "slides": slides,
+            }
+            mfile = f"{safe_cid}_listicle_manifest.json"
+            (out_dir / mfile).write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+            manifest_files.append(mfile)
+            print(f"instagram listicle: {len(slides)} slides for '{cl.get('title','')[:50]}'")
+
+        except Exception as exc:
+            import sys as _sys
+            print(f"instagram listicle FAILED {cid} — {type(exc).__name__}: {exc}", file=_sys.stderr)
+
+    return manifest_files
 
 
 def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:

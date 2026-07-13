@@ -102,6 +102,8 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
     ig_hashtags = json.dumps(ig_hashtags_raw, ensure_ascii=False) if ig_hashtags_raw else None
     venue      = (data.get("venue") or "").strip() or None
     ig_mention_raw = (data.get("ig_mention") or "").strip().lstrip("@") or None
+    listicle_raw = data.get("listicle_items")
+    listicle_items = json.dumps(listicle_raw, ensure_ascii=False) if listicle_raw else None
 
     return {
         "title": title,
@@ -116,6 +118,7 @@ def synthesise(items: list[dict[str, Any]]) -> dict[str, Any] | None:
         "ig_hashtags": ig_hashtags,
         "venue": venue,
         "ig_mention": ig_mention_raw,
+        "listicle_items": listicle_items,
     }
 
 

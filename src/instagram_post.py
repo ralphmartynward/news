@@ -34,6 +34,7 @@ def main() -> None:
         API_BASE,
         run_from_manifest as ig_post,
         post_weekend_carousel_from_manifest as ig_weekend,
+        post_listicle_carousel_from_manifest as ig_listicle,
     )
 
     # System User tokens need the IG account resolved via the connected Facebook Page.
@@ -69,6 +70,10 @@ def main() -> None:
             ig_post(today_events_manifest, ig_user_id, ig_token, base_url=SITE_BASE)
         else:
             print(f"instagram_post: no today_events_manifest at {today_events_manifest}")
+
+    if not carousel_only:
+        for listicle_manifest in sorted(ig_dir.glob("*_listicle_manifest.json")):
+            ig_listicle(listicle_manifest, ig_user_id, ig_token, base_url=SITE_BASE)
 
     if today_weekday in (4, 5) or carousel_only:
         weekend_manifest = ig_dir / "weekend_manifest.json"
