@@ -4556,28 +4556,6 @@ URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  551f73e3?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20270101
-SUMMARY:Travaux VINCI : perturbations sur le périphérique et avenue Eisen
- hower cet été
-DESCRIPTION:VINCI Autoroutes lance deux chantiers simultanés affectant la 
- circulation à Toulouse à partir du 6 juillet 2026. L'avenue du Général
-  Eisenhower (M120A) sera totalement fermée dans les deux sens au niveau d
- u pont de l'échangeur du Chapitre\, sur l'A64\, du 6 juillet au 28 août\
- , avec fermeture de la bretelle d'entrée vers Toulouse — des déviation
- s balisées en jaune seront mises en place. En parallèle\, des travaux de
-  rénovation du marquage au sol entraînent des fermetures nocturnes (21h
- –6h) de plusie\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-to
- ulouse-une-partie-de-cette-grande-avenue-sera-fermee-pendant-pres-de-deux-
- mois_64498357.html
-LOCATION:avenue du Général Eisenhower (M120A) sera totalement fer\, Toulo
- use
-URL:https://actu.fr/occitanie/toulouse_31555/a-toulouse-une-partie-de-cette
- -grande-avenue-sera-fermee-pendant-pres-de-deux-mois_64498357.html?utm_sou
- rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
@@ -5282,6 +5260,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/video-a-toulouse-un-feu-d-arti
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d2bb7df7-3d4e-43d4-bce9-3fd8cd8e19f5@news.lavillerose.com
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20261001
+SUMMARY:Hush Hush
+DESCRIPTION:Cet été\, le rooftop de la médiathèque José-Cabanis accuei
+ lle Hush Hush\, un concept éphémère mêlant DJ sets\, cuisine raffinée
+  et cocktails dans une ambiance inspirée des beach clubs de Tulum\, Ibiza
+  ou Mykonos. Le projet est porté par Raphaël Khalifa\, producteur et dir
+ ecteur artistique fort de vingt ans dans la nuit parisienne\, qui a déjà
+  lancé le concept Bandidos sur le rooftop d'Interference l'an dernier. La
+  restauration est assurée par Léopold et Maxime du Bistrot August\, avec
+  un brunch dominic\n\nSource\: https://actu.fr/occitanie/toulouse_31555/un
+ -nouveau-concept-ephemere-ouvre-ses-portes-sur-le-rooftop-de-la-mediathequ
+ e-jose-cabanis-a-toulouse_64533676.html
+URL:https://actu.fr/occitanie/toulouse_31555/un-nouveau-concept-ephemere-ou
+ vre-ses-portes-sur-le-rooftop-de-la-mediatheque-jose-cabanis-a-toulouse_64
+ 533676.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:abec0087-8f3a-4d4f-8b5e-1bd7d3df1538@news.lavillerose.com
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
@@ -5317,6 +5315,47 @@ DESCRIPTION:Élias\, 21 ans\, originaire de Toulouse et élève en premièr
  louse/2026-07-13#46382
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-13#46382?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4bf1d057-b287-4e0e-90df-eb7d01742329@news.lavillerose.com
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Toulouse FC dévoile son nouveau maillot domicile 2026-2027
+DESCRIPTION:Le Toulouse FC a présenté son nouveau maillot domicile pour l
+ a saison 2026-2027 le 14 juillet\, marquant « le retour des rayures iconi
+ ques » du club. Les bandes historiques font leur retour dans un design mo
+ dernisé\, en hommage à l'histoire du TFC. Le maillot était disponible d
+ ès le soir du 14 juillet à la boutique officielle du Stadium\, à l'occa
+ sion d'une Fan Zone organisée pour la demi-finale de Coupe du Monde Franc
+ e-Espagne. Il est également en vente sur la boutique en ligne du club et 
+ chez les\n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-retour-de
+ s-rayures-iconiques-ou-trouver-le-nouveau-maillot-domicile-du-toulouse-fc-
+ devoile-ce-14-juillet_64539176.html
+URL:https://actu.fr/occitanie/toulouse_31555/le-retour-des-rayures-iconique
+ s-ou-trouver-le-nouveau-maillot-domicile-du-toulouse-fc-devoile-ce-14-juil
+ let_64539176.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260722
+SUMMARY:Travaux nocturnes sur le périphérique toulousain du 15 au 21 juil
+ let
+DESCRIPTION:Vinci Autoroutes effectue des travaux de rénovation du marquag
+ e au sol sur le périphérique de Toulouse entre le 15 et le 21 juillet 20
+ 26\, avec des fermetures partielles chaque nuit en semaine de 21h à 6h. L
+ es sections concernées varient selon les nuits : les échangeurs Soupetar
+ d (n°16) et Montaudran (n°18) sont touchés en début de semaine\, puis 
+ les fermetures s'étendent vers la barrière de Toulouse-sud et le périph
+ érique ouest les nuits du 20 et 21 juillet. Les week-ends sont épargnés
+  et des iti\n\nSource\: https://actu.fr/occitanie/toulouse_31555/travaux-s
+ ur-le-peripherique-de-toulouse-plusieurs-nuits-ces-sections-vont-etre-inac
+ cessibles-ce-qu-il-faut-savoir_64527642.html
+URL:https://actu.fr/occitanie/toulouse_31555/travaux-sur-le-peripherique-de
+ -toulouse-plusieurs-nuits-ces-sections-vont-etre-inaccessibles-ce-qu-il-fa
+ ut-savoir_64527642.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:08d1efe7-fd06-43ad-afd1-87176325ca9d@news.lavillerose.com
@@ -5356,6 +5395,23 @@ URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:471d651b-f2c6-44d2-8b2c-71d4077bfdd0@news.lavillerose.com
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260920
+SUMMARY:Quartiers d'été Toulouse les Orgues
+DESCRIPTION:Les Quartiers d'été de Toulouse les Orgues débutent et se po
+ ursuivront jusqu'au 19 septembre\, avec des concerts\, récitals\, lecture
+ s musicales et visites dans plusieurs lieux emblématiques de la ville. Ce
+ tte déclinaison estivale du festival international — organisé depuis 1
+ 996 et proposée sous ce format depuis 2018 — s'adresse aux mélomanes c
+ omme aux amateurs de patrimoine. Les premières propositions incluent un c
+ oncert ce soir au Temple du Salin (billets 10–15 €)\, une sortie de r
+ ésidence gratuit\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
+ e/2026-07-15#46517
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-15#46517?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e940f68e-8fd9-4b9d-96e9-5008d4a74864@news.lavillerose.com
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
@@ -5374,6 +5430,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/jean-michel-jarre-de-retour-a-
  toulouse-apres-17-ans-d-absence-le-poney-club-est-devenu-la-reference-elec
  tro_64378351.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
  e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:24d2fa7a-387e-4d9e-9ab4-320eb309d6bf@news.lavillerose.com
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Rétrospective Jacques Tati
+DESCRIPTION:Le cinéma toulousain ABC propose cet été une rétrospective 
+ consacrée à Jacques Tati\, diffusant ses films dans des versions restaur
+ ées 4K. La programmation commence par *Jour de fête*\, suivi de *Les Vac
+ ances de Monsieur Hulot* le 16 juillet dans le cadre d'un ciné-goûter\, 
+ puis *Mon Oncle*\, *Playtime*\, *Trafic* et *Parade*. L'ABC met en avant l
+ 'humour visuel universel de Tati\, sa satire de la modernité et sa mise e
+ n scène révolutionnaire — notamment ses fameux plans larges — comme 
+ autant de raison\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-07-15#46518
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-15#46518?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:f9629181-db79-41b6-a52b-2c159b2d07b0@news.lavillerose.com
@@ -5589,6 +5662,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/une-eclipse-solaire-presque-to
  tale-bientot-visible-depuis-toulouse-tout-ce-qu-il-faut-savoir-pour-en-pro
  fiter_64410320.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fc3b4dcb-9863-491b-9a3b-11e0cc069891@news.lavillerose.com
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Visite nocturne Bonrepos-Riquet
+DESCRIPTION:Le domaine de Bonrepos-Riquet\, lié à l'inventeur du Canal du
+  Midi Pierre-Paul Riquet\, propose des visites nocturnes théâtralisées 
+ à la lampe torche. La prochaine date annoncée est le 19 août. Tout au l
+ ong de l'été\, des visites guidées sans réservation sont également di
+ sponibles sur le domaine. Ces animations s'adressent à tous les curieux d
+ 'histoire locale et du patrimoine régional.\n\nSource\: https://newslette
+ r.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-z
+ Uy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL3j-g
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL3j-g?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d18dae09-5e37-42cb-a613-01969306e063@news.lavillerose.com

@@ -1,0 +1,41 @@
+[
+  {
+    "cluster_id": "cluster:d2bb7df7-3d4e-43d4-bce9-3fd8cd8e19f5",
+    "format": "post",
+    "source": "actu_toulouse",
+    "category": "place",
+    "title": "Hush Hush : rooftop de la médiathèque José-Cabanis transformé en beach club",
+    "image_url": "https://static.actu.fr/uploads/2026/07/dsc3031.jpg",
+    "file": "cluster_d2bb7df7-3d4e-43d4-bce9-3fd8cd8e19f5_post.jpg",
+    "ig_caption": "Beach club urbain sur un rooftop inattendu\nDJ sets, cocktails et cuisine raffinée\nOuvert vendredi, samedi et dimanche jusqu'en septembre",
+    "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"rooftop\", \"rooftoptoulouse\", \"hushhush\", \"beachclub\", \"mediathequecabanis\", \"djset\", \"gastronomie\", \"brunch\", \"brunchtoulouse\", \"cocktails\", \"terrassetoulouse\", \"eteaToulouse\", \"villerose\", \"soireeToulouse\", \"bistrotaugust\", \"conceptevent\", \"toulouse_foodie\", \"nuitstoulousaines\", \"evenementToulouse\", \"sortiraToulouse2026\", \"musicToulouse\", \"artdevivretoulouse\"]",
+    "ig_mention": "mediatheque_cabanis",
+    "venue": "Médiathèque José-Cabanis"
+  },
+  {
+    "cluster_id": "cluster:5193f894-0648-43f5-9940-4b979b8b63e5",
+    "format": "post",
+    "source": "toulouscope",
+    "category": "place",
+    "title": "Mika Lecumbery ouvre Ramones, bistrot père-fille quartier des Chalets",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a4fb43bf8dabda6aa099c28/hd/image.jpg?v=2",
+    "file": "cluster_5193f894-0648-43f5-9940-4b979b8b63e5_post.jpg",
+    "ig_caption": "Cuisine ouverte, carte qui change chaque jour\nFormule déjeuner à 23€, saisons et arrivages\nAmbiance punk rock, duo père et fille",
+    "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"ramonestoulouse\", \"quartierdeschalets\", \"bistrot\", \"nouveaurestaurant\", \"cheftoulouse\", \"cuisineouverte\", \"dejeuner\", \"restauranttoulouse\", \"bistronomie\", \"cuisinesaisonniere\", \"punkrock\", \"ruedelaconcorde\", \"toulousegastronomie\", \"bonneadresse\", \"ouverture\", \"tablestoulouse\", \"gastronomie\", \"vinsnaturels\", \"mikalecumbery\"]",
+    "ig_mention": null,
+    "venue": "Ramones, rue de la Concorde"
+  },
+  {
+    "cluster_id": "cluster:15695f9b-28bf-4227-a248-21e9980a0243",
+    "format": "post",
+    "source": "lessentiel",
+    "category": "culture",
+    "title": "Les Amidonniers : histoire et origine du nom du quartier",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/embouchure-amidonniers---charline-poullain.jpg?itok=02HBxlcm",
+    "file": "cluster_15695f9b-28bf-4227-a248-21e9980a0243_post.jpg",
+    "ig_caption": "Le nom « Amidonniers » vient des fabricants de farine\nQuartier ouvrier surnommé « Del chagrin » au XIXe siècle\nUne histoire toulousaine entre industrie et misère",
+    "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"amidonniers\", \"histoiredetoulouse\", \"quartierdetoulouse\", \"patrimoinetoulousain\", \"canaldebrienne\", \"garonne\", \"moulindubazacle\", \"toulousehistorique\", \"occitan\", \"culturetoulousaine\", \"memoiredequartier\", \"industrietoulousaine\", \"toulousemaville\", \"vieilletoulouse\", \"patrimoineindustriel\", \"histoirelocale\", \"toulousecentre\", \"quartiersouvriers\", \"joyauxcaches\", \"exploretoulouse\"]",
+    "ig_mention": null,
+    "venue": "XIXe siècle"
+  }
+]
