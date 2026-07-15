@@ -2,8 +2,10 @@ name: Daily Toulouse Digest
 
 on:
   schedule:
-    # 06:30 UTC = 08:30 Paris (CEST, summer) / 07:30 Paris (CET, winter)
-    - cron: "30 6 * * *"
+    # 05:00 UTC = 07:00 Paris (CEST, summer) / 06:00 Paris (CET, winter)
+    # GitHub cron can delay 1-2h at peak times; use cron-job.org to trigger
+    # workflow_dispatch at 06:30 UTC for reliable 08:30 delivery.
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 permissions:
