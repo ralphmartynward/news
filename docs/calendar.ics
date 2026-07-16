@@ -4556,23 +4556,26 @@ URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  551f73e3?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
+UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
 DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
-SUMMARY:Toulouse + fraîche
-DESCRIPTION:Face à des températures pouvant atteindre 38 à 45°C\, la ma
- irie de Toulouse a activé son plan « Toulouse + fraîche » sans attendr
- e le déclenchement officiel de l'alerte canicule par l'État. Dès le lun
- di 6 juillet\, l'entrée dans toutes les piscines municipales est ramenée
-  à 1 € (au lieu de 3\,40 €) et les horaires de sept piscines sont pro
- longés jusqu'à 20h ou 21h. La Ramée Plage\, la base de loisirs de la Re
- ynerie\, 14 parcs et jardins (ouverts jusqu'à 23h) ainsi que la médiath
- èque Cabanis (jusqu'à \n\nSource\: https://actu.fr/occitanie/toulouse_31
- 555/canicule-a-toulouse-piscines-a-1-horaires-elargis-tout-ce-qui-change-d
- es-lundi_64498659.html
-URL:https://actu.fr/occitanie/toulouse_31555/canicule-a-toulouse-piscines-a
- -1-horaires-elargis-tout-ce-qui-change-des-lundi_64498659.html?utm_source=
- ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DTEND;VALUE=DATE:20270101
+SUMMARY:Travaux VINCI : perturbations sur le périphérique et avenue Eisen
+ hower cet été
+DESCRIPTION:VINCI Autoroutes lance deux chantiers simultanés affectant la 
+ circulation à Toulouse à partir du 6 juillet 2026. L'avenue du Général
+  Eisenhower (M120A) sera totalement fermée dans les deux sens au niveau d
+ u pont de l'échangeur du Chapitre\, sur l'A64\, du 6 juillet au 28 août\
+ , avec fermeture de la bretelle d'entrée vers Toulouse — des déviation
+ s balisées en jaune seront mises en place. En parallèle\, des travaux de
+  rénovation du marquage au sol entraînent des fermetures nocturnes (21h
+ –6h) de plusie\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-to
+ ulouse-une-partie-de-cette-grande-avenue-sera-fermee-pendant-pres-de-deux-
+ mois_64498357.html
+LOCATION:avenue du Général Eisenhower (M120A) sera totalement fer\, Toulo
+ use
+URL:https://actu.fr/occitanie/toulouse_31555/a-toulouse-une-partie-de-cette
+ -grande-avenue-sera-fermee-pendant-pres-de-deux-mois_64498357.html?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:f0c2eff4-c647-416b-9649-9b72d986aa2b@news.lavillerose.com
@@ -4793,6 +4796,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-une-fan-zone-de
  -15-000-places-installee-a-toulouse-pour-le-quart-de-finale-france-maroc_6
  4500099.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
  nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260715
+SUMMARY:Toulouse + fraîche
+DESCRIPTION:Face à une nouvelle vague de canicule avec des températures p
+ ouvant atteindre 44 à 45°C en début de semaine prochaine\, la mairie de
+  Toulouse a activé son plan « Toulouse + fraîche ». Plusieurs espaces 
+ climatisés sont ouverts au public jusqu'à 20h\, dont des restaurants sen
+ iors\, la Maison Toulouse Service\, l'espace seniors La Terrasse et le cen
+ tre culturel Henri-Desbals — accessibles à tous de 14h à 20h jusqu'au 
+ 14 juillet. Les piscines municipales prolongent leurs horaires et proposen
+ t un tarif r\n\nSource\: https://actu.fr/occitanie/toulouse_31555/canicule
+ -face-aux-pics-de-chaleur-la-mairie-renforce-son-offre-d-espaces-fraicheur
+ -dans-toulouse_64517484.html
+URL:https://actu.fr/occitanie/toulouse_31555/canicule-face-aux-pics-de-chal
+ eur-la-mairie-renforce-son-offre-d-espaces-fraicheur-dans-toulouse_6451748
+ 4.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54758bd0-4ca5-412b-90d5-b831886de850@news.lavillerose.com
@@ -5125,27 +5147,6 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-29#44871?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:72bee54b-6541-437e-a611-aa6bcbb2d9cc@news.lavillerose.com
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:Canicule : nombreux feux d'artifice du 14-Juillet annulés en Haute
- -Garonne
-DESCRIPTION:Face à la vague de chaleur et aux risques élevés d'incendie\
- , une vingtaine de communes de Haute-Garonne ont annulé ou reporté leurs
-  feux d'artifice et festivités du 14-Juillet. Parmi elles\, Blagnac\, Mur
- et\, Cugnaux\, Plaisance-du-Touch\, Grenade-sur-Garonne ou encore Launague
- t. Certains feux sont simplement reportés — Rieumes au 22 août\, Martr
- es-Tolosane au 12 septembre — tandis que d'autres communes maintiennent 
- leur tir dans un cadre très strict. Le Département a également annulé 
- le « Dîner en té\n\nSource\: https://actu.fr/occitanie/toulouse_31555/c
- anicule-et-risque-d-incendie-des-feux-d-artifice-du-14-juillet-deja-annule
- s-a-toulouse-et-aux-alentours_64514669.html
-URL:https://actu.fr/occitanie/toulouse_31555/canicule-et-risque-d-incendie-
- des-feux-d-artifice-du-14-juillet-deja-annules-a-toulouse-et-aux-alentours
- _64514669.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
- genda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:5c75f2b4-54a6-4953-b509-87f9bd0b8b78@news.lavillerose.com
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260715
@@ -5168,16 +5169,16 @@ UID:cluster:c3450846-a264-4f14-9226-a153db8ba7e4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260715
 SUMMARY:Fête nationale Toulouse
-DESCRIPTION:Toulouse célèbre le 14 juillet sur deux jours avec un grand c
- oncert gratuit à la prairie des Filtres le lundi 13 juillet (NRJ Music To
- ur avec Bigflo & Oli\, Gims\, Amir\, Disiz…) suivi d'un feu d'artifice s
- ur la Garonne à 22h30\, puis un défilé militaire matinal le 14 juillet 
- (dès 9h30\, avancé en raison de la canicule et d'une vigilance orange) e
- t un second feu d'artifice au lac de la Reynerie. Plusieurs communes de Ha
- ute-Garonne (Blagnac\, Colomiers\, Plaisance-du-Touch) ont annulé leurs s
- pectacles p\n\nSource\: https://actu.fr/occitanie/toulouse_31555/depart-en
- -vacances-depuis-toulouse-voici-les-horaires-a-connaitre-pour-eviter-les-b
- ouchons-sur-les-autoroutes_64523216.html
+DESCRIPTION:Le week-end du 14 juillet s'annonce très chargé sur les autor
+ outes au départ de Toulouse : Bison Futé a placé la Haute-Garonne en ro
+ uge vendredi 10 et samedi 11 juillet\, avec des bouchons importants notamm
+ ent sur l'A61 vers Narbonne\, aggravés par un accident à Labastide-d'Anj
+ ou en soirée du vendredi. Vinci Autoroutes recommande de partir avant 9 h
+  ou après 18 h le samedi\, tandis que le dimanche s'annonce fluide. Côt
+ é festivités\, Toulouse maintient son programme de Fête nationale malgr
+ é les annul\n\nSource\: https://actu.fr/occitanie/toulouse_31555/depart-e
+ n-vacances-depuis-toulouse-voici-les-horaires-a-connaitre-pour-eviter-les-
+ bouchons-sur-les-autoroutes_64523216.html
 URL:https://actu.fr/occitanie/toulouse_31555/depart-en-vacances-depuis-toul
  ouse-voici-les-horaires-a-connaitre-pour-eviter-les-bouchons-sur-les-autor
  outes_64523216.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
@@ -5224,62 +5225,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/theodora-bientot-en-showcase-d
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:fa2d77fa-d5ed-4915-b409-e9c4f00e03a5@news.lavillerose.com
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260901
-SUMMARY:Ligne B fermée cet été pour raccordement au futur prolongement
-DESCRIPTION:Du 13 juillet au 31 août\, la ligne B du métro toulousain ser
- a interrompue entre Ramonville et Saint-Michel afin de permettre la connex
- ion physique avec le futur prolongement vers Labège – Gare. Les travaux
-  consistent notamment à percer le mur du terminus actuel de Ramonville\, 
- dans la zone d'arrière-gare\, pour créer le point de jonction. Pendant t
- oute la durée du chantier\, une navette de substitution reliera Ramonvill
- e à Palais de Justice en 20 minutes\, desservant Université Paul Sabatie
- r\, Saint-\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-
- 07-13#46379
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-13#46379?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:44e3db61-49f8-4c4e-9787-e4f68c373985@news.lavillerose.com
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:Feu d'artifice 14-juillet
-DESCRIPTION:Alors que de nombreux feux d'artifice ont été annulés en Hau
- te-Garonne en raison de la sécheresse et des risques d'incendie\, celui d
- e Toulouse a bien eu lieu\, tiré depuis la Garonne au niveau de la prairi
- e des Filtres dans la nuit du 13 juillet 2026. Le spectacle a démarré à
-  22h30 et a duré 20 minutes\, soit plus longtemps que d'habitude. Cette d
- urée exceptionnelle constituait un hommage à un artificier récemment di
- sparu. L'événement tranche avec les annulations en série observées dan
- s le reste d\n\nSource\: https://actu.fr/occitanie/toulouse_31555/video-a-
- toulouse-un-feu-d-artifice-du-14-juillet-exceptionnel-qui-a-dure-20-minute
- s_64538000.html
-URL:https://actu.fr/occitanie/toulouse_31555/video-a-toulouse-un-feu-d-arti
- fice-du-14-juillet-exceptionnel-qui-a-dure-20-minutes_64538000.html?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:d2bb7df7-3d4e-43d4-bce9-3fd8cd8e19f5@news.lavillerose.com
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20261001
-SUMMARY:Hush Hush
-DESCRIPTION:Cet été\, le rooftop de la médiathèque José-Cabanis accuei
- lle Hush Hush\, un concept éphémère mêlant DJ sets\, cuisine raffinée
-  et cocktails dans une ambiance inspirée des beach clubs de Tulum\, Ibiza
-  ou Mykonos. Le projet est porté par Raphaël Khalifa\, producteur et dir
- ecteur artistique fort de vingt ans dans la nuit parisienne\, qui a déjà
-  lancé le concept Bandidos sur le rooftop d'Interference l'an dernier. La
-  restauration est assurée par Léopold et Maxime du Bistrot August\, avec
-  un brunch dominic\n\nSource\: https://actu.fr/occitanie/toulouse_31555/un
- -nouveau-concept-ephemere-ouvre-ses-portes-sur-le-rooftop-de-la-mediathequ
- e-jose-cabanis-a-toulouse_64533676.html
-URL:https://actu.fr/occitanie/toulouse_31555/un-nouveau-concept-ephemere-ou
- vre-ses-portes-sur-le-rooftop-de-la-mediatheque-jose-cabanis-a-toulouse_64
- 533676.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
- da
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:abec0087-8f3a-4d4f-8b5e-1bd7d3df1538@news.lavillerose.com
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
@@ -5300,82 +5245,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/c-est-une-grande-premiere-pour
  ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:ea8a29c5-2a3e-42c2-8e54-978c38905a2e@news.lavillerose.com
+UID:cluster:a4f96179-a335-4e4d-9bd6-070ea3acd918@news.lavillerose.com
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-SUMMARY:Défilé du 14 Juillet
-DESCRIPTION:Élias\, 21 ans\, originaire de Toulouse et élève en premièr
- e année à l'École Polytechnique\, fera partie des quelque 8 500 partici
- pants au défilé militaire du 14 juillet sur les Champs-Élysées. Après
-  un parcours scolaire entièrement toulousain jusqu'au bac au lycée Pierr
- e-de-Fermat\, il a rejoint Paris pour une prépa puis Polytechnique. La pr
- éparation au défilé mobilise les élèves depuis une dizaine de jours\,
-  avec des levers très matinaux et des entraînements intensifs dans un ca
- mp militaire\, notamm\n\nSource\: https://www.lessentiel.fr/newsletter/tou
- louse/2026-07-13#46382
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-13#46382?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:4bf1d057-b287-4e0e-90df-eb7d01742329@news.lavillerose.com
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:Toulouse FC dévoile son nouveau maillot domicile 2026-2027
-DESCRIPTION:Le Toulouse FC a présenté son nouveau maillot domicile pour l
- a saison 2026-2027 le 14 juillet\, marquant « le retour des rayures iconi
- ques » du club. Les bandes historiques font leur retour dans un design mo
- dernisé\, en hommage à l'histoire du TFC. Le maillot était disponible d
- ès le soir du 14 juillet à la boutique officielle du Stadium\, à l'occa
- sion d'une Fan Zone organisée pour la demi-finale de Coupe du Monde Franc
- e-Espagne. Il est également en vente sur la boutique en ligne du club et 
- chez les\n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-retour-de
- s-rayures-iconiques-ou-trouver-le-nouveau-maillot-domicile-du-toulouse-fc-
- devoile-ce-14-juillet_64539176.html
-URL:https://actu.fr/occitanie/toulouse_31555/le-retour-des-rayures-iconique
- s-ou-trouver-le-nouveau-maillot-domicile-du-toulouse-fc-devoile-ce-14-juil
- let_64539176.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
- e-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:28a5f55c-8ab7-44c2-ada7-41fc38ce39dc@news.lavillerose.com
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:Défaite des Bleus en demi-finale : la déception à Toulouse
-DESCRIPTION:Plus de 10 000 supporters s'étaient réunis sur la fan zone du
-  parvis du Stadium de Toulouse pour suivre France-Espagne\, demi-finale de
-  la Coupe du Monde 2026. L'ambiance était électrique avant le coup d'env
- oi\, avec chants de la Marseillaise et pronostics optimistes. Mais l'Espag
- ne a rapidement douché les espoirs en marquant deux buts\, s'imposant 2-0
-  et se qualifiant pour la finale. Le parvis s'est vidé dans le calme apr
- ès la rencontre \; les Bleus joueront le match pour la troisième place c
- e same\n\nSource\: https://actu.fr/occitanie/toulouse_31555/coupe-du-monde
- -2026-en-images-la-deception-a-toulouse-apres-la-defaite-des-bleus-en-demi
- -finale_64540283.html
+SUMMARY:Défaite des Bleus en demi-finale : la déception sur la fan zone t
+ oulousaine
+DESCRIPTION:Plus de 10 000 supporters s'étaient rassemblés sur le parvis 
+ du Stadium de Toulouse pour suivre la demi-finale de la Coupe du Monde opp
+ osant la France à l'Espagne\, le mardi 14 juillet 2026. L'ambiance était
+  électrique avant le coup d'envoi\, avec chants\, olas et clappings géan
+ ts\, mais un premier but espagnol a rapidement refroidi l'enthousiasme. La
+  Roja s'est finalement imposée 2-0 et décroche son billet pour la finale
+ \, laissant les supporters dans la déception. Le parvis s'est vidé dans 
+ le calme\n\nSource\: https://actu.fr/occitanie/toulouse_31555/coupe-du-mon
+ de-2026-en-images-la-deception-a-toulouse-apres-la-defaite-des-bleus-en-de
+ mi-finale_64540283.html
 LOCATION:Stadium de Toulouse\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-en-images-
  la-deception-a-toulouse-apres-la-defaite-des-bleus-en-demi-finale_64540283
  .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260722
-SUMMARY:Travaux nocturnes sur le périphérique toulousain du 15 au 21 juil
- let
-DESCRIPTION:Vinci Autoroutes effectue des travaux de rénovation du marquag
- e au sol sur le périphérique de Toulouse entre le 15 et le 21 juillet 20
- 26\, avec des fermetures partielles chaque nuit en semaine de 21h à 6h. L
- es sections concernées varient selon les nuits : les échangeurs Soupetar
- d (n°16) et Montaudran (n°18) sont touchés en début de semaine\, puis 
- les fermetures s'étendent vers la barrière de Toulouse-sud et le périph
- érique ouest les nuits du 20 et 21 juillet. Les week-ends sont épargnés
-  et des iti\n\nSource\: https://actu.fr/occitanie/toulouse_31555/travaux-s
- ur-le-peripherique-de-toulouse-plusieurs-nuits-ces-sections-vont-etre-inac
- cessibles-ce-qu-il-faut-savoir_64527642.html
-URL:https://actu.fr/occitanie/toulouse_31555/travaux-sur-le-peripherique-de
- -toulouse-plusieurs-nuits-ces-sections-vont-etre-inaccessibles-ce-qu-il-fa
- ut-savoir_64527642.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
- oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:08d1efe7-fd06-43ad-afd1-87176325ca9d@news.lavillerose.com
@@ -5396,40 +5284,45 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-08#45972?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:6a4dcb75-a884-4c06-9c9b-510b6dd7886b@news.lavillerose.com
+UID:cluster:97b1e81d-5763-46a3-9d6e-3e2464bb55f6@news.lavillerose.com
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:Quartiers d'été Toulouse les Orgues
-DESCRIPTION:Les Quartiers d'été de Toulouse les Orgues commencent le 15 j
- uillet pour environ un mois\, dans plusieurs lieux emblématiques de la vi
- lle. Au programme : concerts\, récitals\, lectures musicales\, sorties de
-  résidence et visites en musique. La programmation s'adresse à un large 
- public et permet de découvrir la musique d'orgue dans des cadres variés 
- à travers Toulouse. Cette édition estivale fait office de rendez-vous de
-  préfiguration avant le grand festival de Toulouse les Orgues prévu en o
- ctobre.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM
- 7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN01XIpj0A0_ueglPXEI3Gc5636ztxHVf
- Fs1o2kiNLzjeg
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
- wIfwxdkZHjLIXbM7pB-zUy7xeN01XIpj0A0_ueglPXEI3Gc5636ztxHVfFs1o2kiNLzjeg?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Le restaurant Le Point d'Ogre rouvre après deux mois de fermeture 
+ administrative
+DESCRIPTION:Le restaurant Le Point d'Ogre\, institution toulousaine du cent
+ re-ville ouverte depuis 1994\, rouvre ses portes le mercredi 15 juillet 20
+ 26 lors du service du soir. L'établissement avait été contraint de ferm
+ er administrativement en mai 2026 en raison d'une fragilité structurelle 
+ détectée sur un mur de cuisine. Des travaux de consolidation menés par 
+ la copropriété ont permis de lever cette contrainte. Franck Couso\, gér
+ ant depuis dix ans\, se dit soulagé et évoque une cuisine de « grand-m
+ ère » de qu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/sa-ferm
+ eture-soudaine-avait-ete-un-choc-ce-restaurant-incontournable-de-toulouse-
+ rouvre-apres-des-travaux-d-urgence_64541449.html
+URL:https://actu.fr/occitanie/toulouse_31555/sa-fermeture-soudaine-avait-et
+ e-un-choc-ce-restaurant-incontournable-de-toulouse-rouvre-apres-des-travau
+ x-d-urgence_64541449.html?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:471d651b-f2c6-44d2-8b2c-71d4077bfdd0@news.lavillerose.com
+UID:cluster:cf07bcad-dc80-4d77-a349-ff8211df6f4b@news.lavillerose.com
 DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260920
-SUMMARY:Quartiers d'été Toulouse les Orgues
-DESCRIPTION:Les Quartiers d'été de Toulouse les Orgues débutent et se po
- ursuivront jusqu'au 19 septembre\, avec des concerts\, récitals\, lecture
- s musicales et visites dans plusieurs lieux emblématiques de la ville. Ce
- tte déclinaison estivale du festival international — organisé depuis 1
- 996 et proposée sous ce format depuis 2018 — s'adresse aux mélomanes c
- omme aux amateurs de patrimoine. Les premières propositions incluent un c
- oncert ce soir au Temple du Salin (billets 10–15 €)\, une sortie de r
- ésidence gratuit\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
- e/2026-07-15#46517
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-15#46517?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DTEND;VALUE=DATE:20260719
+SUMMARY:Urban Sketchers Toulouse
+DESCRIPTION:Du 15 au 18 juillet 2026\, quelque 900 Urban Sketchers venus de
+ s quatre coins du monde investiront les rues de Toulouse pour dessiner la 
+ ville sur le vif. C'est la première fois que cet événement internationa
+ l fait escale en France\, et Toulouse a été choisie pour accueillir cett
+ e 14e édition\, après des villes comme Buenos Aires\, Chicago ou Oakland
+ . Professionnels et amateurs se retrouveront dans les quartiers pittoresqu
+ es et touristiques de la Ville rose pour croquer rues\, bâtiments\, la Ga
+ ronne e\n\nSource\: https://actu.fr/occitanie/toulouse_31555/des-centaines
+ -d-artistes-venus-du-monde-entier-vont-dessiner-toulouse-sous-les-yeux-du-
+ public_64534680.html
+LOCATION:rues de Toulouse\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/des-centaines-d-artistes-venus
+ -du-monde-entier-vont-dessiner-toulouse-sous-les-yeux-du-public_64534680.h
+ tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e940f68e-8fd9-4b9d-96e9-5008d4a74864@news.lavillerose.com
@@ -5452,20 +5345,37 @@ URL:https://actu.fr/occitanie/toulouse_31555/jean-michel-jarre-de-retour-a-
  e-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:24d2fa7a-387e-4d9e-9ab4-320eb309d6bf@news.lavillerose.com
+UID:cluster:4b8fa7d6-ac99-415e-8d0f-5b8a221f2dbb@news.lavillerose.com
 DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:Rétrospective Jacques Tati
-DESCRIPTION:Le cinéma toulousain ABC propose cet été une rétrospective 
- consacrée à Jacques Tati\, diffusant ses films dans des versions restaur
- ées 4K. La programmation commence par *Jour de fête*\, suivi de *Les Vac
- ances de Monsieur Hulot* le 16 juillet dans le cadre d'un ciné-goûter\, 
- puis *Mon Oncle*\, *Playtime*\, *Trafic* et *Parade*. L'ABC met en avant l
- 'humour visuel universel de Tati\, sa satire de la modernité et sa mise e
- n scène révolutionnaire — notamment ses fameux plans larges — comme 
- autant de raison\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
- /2026-07-15#46518
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-15#46518?utm_sour
+DTEND;VALUE=DATE:20260801
+SUMMARY:Exposition Valérie Prats
+DESCRIPTION:La communauté municipale de santé de Toulouse clôture sa sai
+ son avec une exposition consacrée aux toiles de Valérie Prats\, peintre 
+ inscrite dans la tradition impressionniste. Son travail\, centré sur la l
+ umière\, les couleurs et les jeux d'ombres\, vise à inviter le regard à
+  dépasser les apparences pour laisser place à l'émotion\, selon le char
+ gé d'exposition Stéphane Mainville. L'exposition est caritative : les b
+ énéfices iront à Diabalade\, une association toulousaine de personnes d
+ iabétiques qui or\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-07-16#46728
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-16#46728?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f3e8e412-2cc9-4016-8050-1fd4fca87907@news.lavillerose.com
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260914
+SUMMARY:Sorolla\, maître de la lumière
+DESCRIPTION:La Fondation Bemberg propose tout l'été des visites guidées 
+ de l'exposition « Sorolla\, maître de la lumière »\, consacrée au pei
+ ntre espagnol Joaquín Sorolla. L'exposition\, fruit d'un partenariat avec
+  le ministère de la Culture espagnol et le Museo Sorolla\, présente ses 
+ œuvres les plus emblématiques : scènes de plage\, portraits et jardins 
+ baignés de lumière. En juillet et août\, des visites d'une heure sont o
+ rganisées plusieurs fois par semaine — mardi\, mercredi et vendredi à 
+ 14h\, jeudi à 11h\, sam\n\nSource\: https://www.lessentiel.fr/newsletter/
+ toulouse/2026-07-16#46739
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-16#46739?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
@@ -5509,25 +5419,6 @@ URL:https://www.toulouscope.fr/2026/07/08/ce-cinema-en-plein-air-pres-de-to
  dium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:debf4227-5d6b-473d-8023-6dd3cef3d8e7@news.lavillerose.com
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:Ciné'Scopia
-DESCRIPTION:Plusieurs rendez-vous cinéma sont au programme à Toulouse pou
- r profiter du grand écran en intérieur climatisé ou en plein air. Le ci
- néma ABC lance une rétrospective Jacques Tati à partir de mercredi\, av
- ec « Jour de fête » en film d'ouverture. La Cinémathèque propose quan
- t à elle des séances en plein air du mardi au dimanche à 22h dans sa co
- ur de la rue du Taur (puis à 21h30 à partir du 11 août)\, tandis que l'
- opération « Ciné sous les étoiles » itinère dans l'agglomération to
- ulousaine. À noter ég\n\nSource\: https://newsletter.lessentiel.fr/lt.ph
- p?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN01XIpj0A0_ueglP
- XEI3Gc5636ztxHVfFs1o2kiNLzjek
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
- wIfwxdkZHjLIXbM7pB-zUy7xeN01XIpj0A0_ueglPXEI3Gc5636ztxHVfFs1o2kiNLzjek?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:9979bf59-50da-423e-b260-6ed8e7ec63fc@news.lavillerose.com
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260720
@@ -5545,6 +5436,27 @@ DESCRIPTION:Les 18 et 19 juillet 2026\, la ville d'Eauze\, dans le Gers\, a
 URL:https://www.toulouscope.fr/2026/07/04/cette-fete-historique-transforme-
  une-ville-du-gers-en-veritable-cite-romaine-13449018.php?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:de19386d-fdc7-424c-8e15-6d69ff47be19@news.lavillerose.com
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Pas de fan zone à Toulouse pour la petite finale des Bleus
+DESCRIPTION:Battue par l'Espagne (0-2) en demi-finale de la Coupe du monde 
+ ce mardi soir\, l'équipe de France jouera la petite finale samedi 18 juil
+ let 2026 à 23h contre l'Argentine ou l'Angleterre. Les 10 000 supporters 
+ qui s'étaient rassemblés au Stadium de Toulouse pour le match des demi-f
+ inales ne pourront pas se retrouver au même endroit pour cette rencontre.
+  La Ville de Toulouse confirme à Actu Toulouse qu'il n'y aura pas de fan 
+ zone pour la petite finale : l'infrastructure a été démontée dès mard
+ i soi\n\nSource\: https://actu.fr/occitanie/toulouse_31555/petite-finale-d
+ e-la-france-a-la-coupe-du-monde-a-toulouse-la-fan-zone-sera-t-elle-encore-
+ ouverte-au-stadium_64541838.html
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/petite-finale-de-la-france-a-l
+ a-coupe-du-monde-a-toulouse-la-fan-zone-sera-t-elle-encore-ouverte-au-stad
+ ium_64541838.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c86c74cd-9c81-48ac-8da7-c572beaebc58@news.lavillerose.com
@@ -5623,26 +5535,6 @@ URL:https://www.toulouscope.fr/2026/06/26/festival-dastronomie-de-fleurance
  =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:d5cd0f27-0f0d-426e-9aa7-94808ab7b817@news.lavillerose.com
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260803
-SUMMARY:Fête des Vins de Gaillac
-DESCRIPTION:Pour sa 47e édition\, la Fête des Vins de Gaillac se tient du
-  31 juillet au 2 août 2026 au parc de Foucaud\, au bord du Tarn\, à moin
- s d'une heure de Toulouse. L'événement réunit près de 50 vignerons et 
- domaines viticoles autour de dégustations\, d'échanges directs avec les 
- producteurs et d'un village gourmand mettant à l'honneur les saveurs du T
- arn (charcuteries de Lacaune\, fromages\, food trucks). Chaque soir\, le D
- J Poppy\, membre du collectif La Fine Équipe\, anime les allées avant de
- s concerts\, et \n\nSource\: https://www.toulouscope.fr/2026/07/13/a-moins
- -dune-heure-de-toulouse-une-grande-fete-du-vin-avec-concerts-degustations-
- et-feu-dartifice-13457617.php
-LOCATION:lac se tient du 31 juillet au 2 août 2026 au parc\, Toulouse
-URL:https://www.toulouscope.fr/2026/07/13/a-moins-dune-heure-de-toulouse-un
- e-grande-fete-du-vin-avec-concerts-degustations-et-feu-dartifice-13457617.
- php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:e7a6d01c-4891-4a88-869c-5f17a4eb858a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
@@ -5682,42 +5574,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/une-eclipse-solaire-presque-to
  tale-bientot-visible-depuis-toulouse-tout-ce-qu-il-faut-savoir-pour-en-pro
  fiter_64410320.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:fc3b4dcb-9863-491b-9a3b-11e0cc069891@news.lavillerose.com
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:Visite nocturne Bonrepos-Riquet
-DESCRIPTION:Le domaine de Bonrepos-Riquet\, lié à l'inventeur du Canal du
-  Midi Pierre-Paul Riquet\, propose des visites nocturnes théâtralisées 
- à la lampe torche. La prochaine date annoncée est le 19 août. Tout au l
- ong de l'été\, des visites guidées sans réservation sont également di
- sponibles sur le domaine. Ces animations s'adressent à tous les curieux d
- 'histoire locale et du patrimoine régional.\n\nSource\: https://newslette
- r.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-z
- Uy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL3j-g
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
- wIfwxdkZHjLIXbM7pB-zUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL3j-g?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:4eafdc25-3035-4c89-9262-dd7f8df790f2@news.lavillerose.com
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:Visite nocturne Bonrepos-Riquet
-DESCRIPTION:Le domaine de Bonrepos-Riquet\, propriété de Pierre-Paul Riqu
- et\, inventeur du Canal du Midi\, propose des visites théâtralisées à 
- la lampe torche. Une session est organisée ce soir même\, et la prochain
- e date confirmée est le 19 août. Des visites guidées sans réservation 
- sont également disponibles tout l'été pour les curieux qui souhaitent d
- écouvrir le site à leur rythme. Ces animations s'adressent à tous ceux 
- qui souhaitent en apprendre davantage sur l'histoire du Canal du Midi et s
- on créateur.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~G
- DKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02HyjjUA0_ueglPXEI3Ge5I36
- ztxLVfFs1o2kiNL3j-g
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
- wIfwxdkZHjLIXbM7pB-zUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL3j-g?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d18dae09-5e37-42cb-a613-01969306e063@news.lavillerose.com
@@ -5838,6 +5694,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-la-defense-ch
  nda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ac31f798-a756-4d4f-a2d3-99195bafb120@news.lavillerose.com
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Le marché des Carmes étend ses horaires dès le 25 septembre
+DESCRIPTION:Après six semaines de test entre juin et juillet\, le marché 
+ couvert des Carmes à Toulouse a décidé d'élargir ses horaires de faço
+ n permanente à partir du 25 septembre. Les jeudis et vendredis\, le march
+ é restera désormais ouvert jusqu'en soirée\, et non plus seulement le m
+ atin. L'initiative répond à une évolution des modes de vie : selon Clé
+ ment Authié\, vice-président de l'association des marchés\, l'inflation
+  pousse de nombreuses personnes à cumuler plusieurs emplois\, les empêch
+ ant de faire leurs \n\nSource\: https://actu.fr/occitanie/toulouse_31555/a
+ pres-six-semaines-de-test-le-marche-des-carmes-a-toulouse-modifie-ses-hora
+ ires-voici-ce-qui-va-changer-en-septembre_64533495.html
+URL:https://actu.fr/occitanie/toulouse_31555/apres-six-semaines-de-test-le-
+ marche-des-carmes-a-toulouse-modifie-ses-horaires-voici-ce-qui-va-changer-
+ en-septembre_64533495.html?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261115
@@ -5856,6 +5732,27 @@ URL:https://actu.fr/occitanie/toulouse_31555/l-aligofest-bientot-de-retour-
  a-toulouse-la-billetterie-vient-d-ouvrir-un-nouveau-record-du-monde-a-la-c
  le_64344060.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
  -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261228
+SUMMARY:Marché de Noël de Toulouse
+DESCRIPTION:Le nouvel organisateur du marché de Noël de Toulouse\, 2A Org
+ anisation\, a dévoilé les grandes lignes de l'édition 2026\, annoncées
+  dès juillet. L'événement se tiendra du 26 novembre au 27 décembre 202
+ 6 sur plusieurs sites emblématiques : place du Capitole\, cour Henri IV\,
+  square Charles-de-Gaulle et allées Jean-Jaurès. La patinoire de la plac
+ e du Capitole est maintenue et même prolongée jusqu'au 3 janvier 2027 po
+ ur offrir une expérience hivernale plus longue aux visiteurs. Une nouvell
+ e scénographie\n\nSource\: https://actu.fr/occitanie/toulouse_31555/march
+ e-de-noel-de-toulouse-scenographie-retravaillee-patinoire-le-nouvel-organi
+ sateur-devoile-ce-qui-va-changer_64542177.html
+LOCATION:place du Capitole\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/marche-de-noel-de-toulouse-sce
+ nographie-retravaillee-patinoire-le-nouvel-organisateur-devoile-ce-qui-va-
+ changer_64542177.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:f7073989-f6ec-486b-8973-9995b5cc33a5@news.lavillerose.com

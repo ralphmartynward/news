@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-07-15T08:41:32.574137+00:00</updated>
+  <updated>2026-07-16T07:23:11.379887+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -81,6 +81,20 @@
     <summary>Toulouscope propose une sélection de dix expériences estivales à moins de 15 minutes de Toulouse, dans le Sud-Est Toulousain. Au programme : guinguettes en bord d'eau (L'Éphémère à Lacroix-Falgarde, La Besalada à Ayguesvives, Le Petit Bikini à Ramonville), villages de caractère à explorer, balades nature et bonnes tables. La sélection cible aussi bien les familles que les amateurs de concerts en plein air ou de soirées DJ. Un guide pratique pour profiter de la belle saison sans quitter l'agglomération toulousaine.</summary>
     <category term="culture"/>
     <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:240d5807-7e1c-4e51-a92f-40b5bdd335ed</id>
+    <title>Épisode de pollution à l'ozone en cours en Haute-Garonne</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La Haute-Garonne est touchée par un épisode de pollution de l&amp;#x27;air ce mercredi 8 juillet 2026, selon les données d&amp;#x27;Atmo Occitanie. Les conditions météorologiques — fort ensoleillement, températures élevées et vent faible — favorisent une hausse des concentrations en ozone. La situation est aggravée par les récents incendies qui ont engendré des hausses de particules en suspension, sans toutefois dépasser le seuil d&amp;#x27;information pour ce polluant. Les conditions similaires attendues le jeudi 9 juillet devraient faire passer le département en procédure d&amp;#x27;alerte (rouge) ; Atmo Occitanie recommande de réduire les activités physiques intenses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/fortes-chaleurs-et-incendie-un-episode-de-pollution-de-l-air-est-en-cours-en-haute-garonne-et-il-va-durer_64512412.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/fortes-chaleurs-et-incendie-un-episode-de-pollution-de-l-air-est-en-cours-en-haute-garonne-et-il-va-durer_64512412.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Haute-Garonne est touchée par un épisode de pollution de l'air ce mercredi 8 juillet 2026, selon les données d'Atmo Occitanie. Les conditions météorologiques — fort ensoleillement, températures élevées et vent faible — favorisent une hausse des concentrations en ozone. La situation est aggravée par les récents incendies qui ont engendré des hausses de particules en suspension, sans toutefois dépasser le seuil d'information pour ce polluant. Les conditions similaires attendues le jeudi 9 juillet devraient faire passer le département en procédure d'alerte (rouge) ; Atmo Occitanie recommande de réduire les activités physiques intenses.</summary>
+    <category term="news"/>
+    <published>2026-07-08T11:31:50+02:00</published>
   </entry>
   <entry>
     <id>cluster:08256903-d6ee-44a1-b2cf-49f3690a5909</id>
@@ -182,6 +196,22 @@
     <summary>Le Cachou Lajaunie, la célèbre pastille de réglisse créée en 1880 par le pharmacien toulousain Léon Lajaunie, a vu sa production définitivement arrêtée en 2024 après 144 ans d'existence, en raison d'une baisse des ventes. Véritable symbole de Toulouse — avec sa boîte métallique jaune, ses pubs télévisées et jusqu'au maillot du TFC de la saison 91-92 — la friandise reste profondément ancrée dans la mémoire collective. Une pétition lancée par Quentin Rech, étudiant à Besançon, a recueilli 54 000 signatures pour réclamer la relance de la production, signe d'un attachement populaire intact. L'article d'actu_toulouse explore la question : la marque est-elle définitivement morte ou existe-t-il des chances de voir le Cachou revenir sur les étals ?</summary>
     <category term="news"/>
     <published>2026-07-09T06:04:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:72bee54b-6541-437e-a611-aa6bcbb2d9cc</id>
+    <title>Sécheresse : feux d'artifice interdits, fêtes du 14-Juillet annulées en Haute-Garonne</title>
+    <updated>2026-07-09T08:41:46.395807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Face à la sécheresse et aux fortes chaleurs qui touchent la Haute-Garonne, le préfet a signé un arrêté interdisant l&amp;#x27;achat, la vente, la possession et l&amp;#x27;utilisation de feux d&amp;#x27;artifice de catégories F2 et F3 sur tout le département, du 2 juillet au 8 juillet à 8h. La préfecture craint notamment que des supporters de la Coupe du monde ne fassent usage d&amp;#x27;artifices pour célébrer les victoires de leurs équipes. En parallèle, plusieurs communes de l&amp;#x27;agglomération toulousaine ont d&amp;#x27;ores et déjà annulé leurs célébrations du 14-Juillet : bal populaire aux Sept Deniers, feux d&amp;#x27;artifice à Grenade-sur-Garonne, Pibrac, Launaguet et Merville, ainsi que les festivités du 13 juillet à Seilh. Les risques d&amp;#x27;incendie et la canicule sont invoqués comme principales raisons, les organisateurs soulignant la nécessité de ne pas surcharger les services de secours.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article se concentre sur l&amp;#x27;arrêté préfectoral et son cadre réglementaire ; le second recense concrètement les annulations commune par commune autour de Toulouse.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Pétard, fusées...)&lt;/strong&gt;: Le détail juridique de l&amp;#x27;arrêté préfectoral et la liste des artifices concernés&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Canicule et risque...)&lt;/strong&gt;: La liste des événements et feux d&amp;#x27;artifice annulés dans les communes de l&amp;#x27;agglomération&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-et-risque-d-incendie-des-feux-d-artifice-du-14-juillet-deja-annules-a-toulouse-et-aux-alentours_64514669.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-et-risque-d-incendie-des-feux-d-artifice-du-14-juillet-deja-annules-a-toulouse-et-aux-alentours_64514669.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Face à la sécheresse et aux fortes chaleurs qui touchent la Haute-Garonne, le préfet a signé un arrêté interdisant l'achat, la vente, la possession et l'utilisation de feux d'artifice de catégories F2 et F3 sur tout le département, du 2 juillet au 8 juillet à 8h. La préfecture craint notamment que des supporters de la Coupe du monde ne fassent usage d'artifices pour célébrer les victoires de leurs équipes. En parallèle, plusieurs communes de l'agglomération toulousaine ont d'ores et déjà annulé leurs célébrations du 14-Juillet : bal populaire aux Sept Deniers, feux d'artifice à Grenade-sur-Garonne, Pibrac, Launaguet et Merville, ainsi que les festivités du 13 juillet à Seilh. Les risques d'incendie et la canicule sont invoqués comme principales raisons, les organisateurs soulignant la nécessité de ne pas surcharger les services de secours.</summary>
+    <category term="news"/>
+    <published>2026-07-08T16:09:44+02:00</published>
   </entry>
   <entry>
     <id>cluster:ab80d963-8134-4f6f-9290-845bc2f0ebb6</id>
@@ -457,25 +487,6 @@
     <published>2026-07-09T11:52:08.619000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:86acfd63-6aff-4c69-a52a-96661e4b692a</id>
-    <title>Canicule à Toulouse : piscines à 1 €, espaces fraîcheur élargis</title>
-    <updated>2026-07-10T08:26:59.283538+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Face à des températures pouvant atteindre 38 à 45°C, la mairie de Toulouse a activé son plan « Toulouse + fraîche » sans attendre le déclenchement officiel de l&amp;#x27;alerte canicule par l&amp;#x27;État. Dès le lundi 6 juillet, l&amp;#x27;entrée dans toutes les piscines municipales est ramenée à 1 € (au lieu de 3,40 €) et les horaires de sept piscines sont prolongés jusqu&amp;#x27;à 20h ou 21h. La Ramée Plage, la base de loisirs de la Reynerie, 14 parcs et jardins (ouverts jusqu&amp;#x27;à 23h) ainsi que la médiathèque Cabanis (jusqu&amp;#x27;à 21h du mardi au samedi) complètent le dispositif. Des espaces seniors climatisés, la salle du Sénéchal et plusieurs restaurants seniors sont également accessibles jusqu&amp;#x27;à 20h, y compris les 13 et 14 juillet, pour protéger les publics les plus vulnérables.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux articles d&amp;#x27;actu_toulouse couvrent deux vagues successives d&amp;#x27;annonces (6 juillet puis 9 juillet), tandis que lessentiel propose une synthèse plus complète incluant les centres de loisirs et la médiathèque Cabanis, absents des articles précédents.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article du 6 juillet)&lt;/strong&gt;: Détails des horaires de piscines et tarif à 1 € dès le lundi&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article du 9 juillet)&lt;/strong&gt;: Renforcement du plan avec ouverture des espaces seniors en soirée&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble la plus complète : parcs, médiathèque, centres de loisirs, agents municipaux&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-face-aux-pics-de-chaleur-la-mairie-renforce-son-offre-d-espaces-fraicheur-dans-toulouse_64517484.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-10?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46258"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-face-aux-pics-de-chaleur-la-mairie-renforce-son-offre-d-espaces-fraicheur-dans-toulouse_64517484.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Face à des températures pouvant atteindre 38 à 45°C, la mairie de Toulouse a activé son plan « Toulouse + fraîche » sans attendre le déclenchement officiel de l'alerte canicule par l'État. Dès le lundi 6 juillet, l'entrée dans toutes les piscines municipales est ramenée à 1 € (au lieu de 3,40 €) et les horaires de sept piscines sont prolongés jusqu'à 20h ou 21h. La Ramée Plage, la base de loisirs de la Reynerie, 14 parcs et jardins (ouverts jusqu'à 23h) ainsi que la médiathèque Cabanis (jusqu'à 21h du mardi au samedi) complètent le dispositif. Des espaces seniors climatisés, la salle du Sénéchal et plusieurs restaurants seniors sont également accessibles jusqu'à 20h, y compris les 13 et 14 juillet, pour protéger les publics les plus vulnérables.</summary>
-    <category term="news"/>
-    <published>2026-07-09T12:17:39+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:ffb405fb-1adb-4646-b26f-3d766dd133f9</id>
     <title>Deux incendies d'immeubles en une journée à Toulouse</title>
     <updated>2026-07-10T08:26:59.283538+00:00</updated>
@@ -650,6 +661,34 @@
     <published>2026-07-10T12:53:29+02:00</published>
   </entry>
   <entry>
+    <id>cluster:9d663b1b-8e1d-4757-b50d-aa27a29f7aae</id>
+    <title>Ligne C du métro : deux tunneliers ont repris le creusement sous Toulouse</title>
+    <updated>2026-07-11T07:13:48.078864+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Depuis le 6 juillet 2026, deux tunneliers supplémentaires ont repris leur progression sous Toulouse pour le chantier de la future ligne C du métro, qui reliera Colomiers à Labège. Sur les cinq engins au total, le n° 2 (Lise Enjalbert) repart de Blagnac vers le puits Laporte (52 % effectués), tandis que le n° 3 (Berthe de Puybusque) est reparti depuis La Vache en direction de Toulouse-Lautrec (54 %). Le tunnelier n° 5 a déjà achevé son tronçon de 4,2 km, le n° 4 est à 90 % de son parcours, mais le n° 1 n&amp;#x27;a réalisé que 43 % de son trajet. La livraison de la ligne est prévue fin 2028, sous réserve du respect du calendrier prévisionnel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/deux-tunneliers-creusent-de-nouveau-le-sous-sol-de-toulouse-ou-en-est-le-chantier-de-la-ligne-c-du-metro_64523759.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/deux-tunneliers-creusent-de-nouveau-le-sous-sol-de-toulouse-ou-en-est-le-chantier-de-la-ligne-c-du-metro_64523759.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis le 6 juillet 2026, deux tunneliers supplémentaires ont repris leur progression sous Toulouse pour le chantier de la future ligne C du métro, qui reliera Colomiers à Labège. Sur les cinq engins au total, le n° 2 (Lise Enjalbert) repart de Blagnac vers le puits Laporte (52 % effectués), tandis que le n° 3 (Berthe de Puybusque) est reparti depuis La Vache en direction de Toulouse-Lautrec (54 %). Le tunnelier n° 5 a déjà achevé son tronçon de 4,2 km, le n° 4 est à 90 % de son parcours, mais le n° 1 n'a réalisé que 43 % de son trajet. La livraison de la ligne est prévue fin 2028, sous réserve du respect du calendrier prévisionnel.</summary>
+    <category term="news"/>
+    <published>2026-07-10T17:02:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d4993b0c-568e-46df-a4ac-db8bb8841414</id>
+    <title>Corps d'un jeune homme repêché dans la Garonne quai de la Daurade</title>
+    <updated>2026-07-11T07:13:48.078864+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le corps d&amp;#x27;un jeune homme d&amp;#x27;une vingtaine d&amp;#x27;années a été découvert dans la Garonne, au niveau du Pont-Neuf, quai de la Daurade à Toulouse, dans la nuit du jeudi 9 juillet 2026, peu après 1h du matin. La découverte a été faite par des passants qui ont croisé par hasard des secours rentrant d&amp;#x27;une intervention, lesquels ont alerté une équipe nautique pour sortir le corps de l&amp;#x27;eau. Les circonstances du décès restent inconnues : le parquet a ouvert une enquête pour recherche des causes de la mort et une autopsie doit être réalisée dans les prochains jours. Le drame survient dans la nuit de liesse toulousaine qui a suivi la victoire de la France face au Maroc, sans que tout lien de causalité soit établi à ce stade.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-corps-d-un-jeune-d-une-vingtaine-d-annees-repeche-quai-de-la-daurade-a-toulouse-apres-le-match-france-maroc_64528188.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-corps-d-un-jeune-d-une-vingtaine-d-annees-repeche-quai-de-la-daurade-a-toulouse-apres-le-match-france-maroc_64528188.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le corps d'un jeune homme d'une vingtaine d'années a été découvert dans la Garonne, au niveau du Pont-Neuf, quai de la Daurade à Toulouse, dans la nuit du jeudi 9 juillet 2026, peu après 1h du matin. La découverte a été faite par des passants qui ont croisé par hasard des secours rentrant d'une intervention, lesquels ont alerté une équipe nautique pour sortir le corps de l'eau. Les circonstances du décès restent inconnues : le parquet a ouvert une enquête pour recherche des causes de la mort et une autopsie doit être réalisée dans les prochains jours. Le drame survient dans la nuit de liesse toulousaine qui a suivi la victoire de la France face au Maroc, sans que tout lien de causalité soit établi à ce stade.</summary>
+    <category term="news"/>
+    <published>2026-07-10T18:29:13+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:b6ba5bef-1b47-4d66-9ad4-edcdc2edcea8</id>
     <title>Le CHU de Toulouse innove dans le traitement de l'endométriose digestive</title>
     <updated>2026-07-11T07:13:48.078864+00:00</updated>
@@ -750,6 +789,22 @@
     <published>2026-07-12T06:04:02+02:00</published>
   </entry>
   <entry>
+    <id>cluster:15b015fa-b714-4845-9f92-b1f79b066947</id>
+    <title>Travaux VINCI : perturbations sur le périphérique et avenue Eisenhower cet été</title>
+    <updated>2026-07-12T07:30:25.981450+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;VINCI Autoroutes lance deux chantiers simultanés affectant la circulation à Toulouse à partir du 6 juillet 2026. L&amp;#x27;avenue du Général Eisenhower (M120A) sera totalement fermée dans les deux sens au niveau du pont de l&amp;#x27;échangeur du Chapitre, sur l&amp;#x27;A64, du 6 juillet au 28 août, avec fermeture de la bretelle d&amp;#x27;entrée vers Toulouse — des déviations balisées en jaune seront mises en place. En parallèle, des travaux de rénovation du marquage au sol entraînent des fermetures nocturnes (21h–6h) de plusieurs sections du périphérique toulousain : du 6 au 9 juillet entre Sesquières et Croix Daurade, puis du 15 au 21 juillet entre Soupetard, Montaudran et la barrière de Toulouse-Sud. Les travaux de renforcement du pont du Chapitre se poursuivront jusqu&amp;#x27;à fin décembre, avec des fermetures ponctuelles nocturnes de l&amp;#x27;A64 prévues à partir de septembre.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les sources actu_toulouse détaillent les fermetures nuit par nuit avec les échangeurs précis, tandis que lessentiel regroupe les deux chantiers en un seul point de synthèse plus accessible, sans détailler le calendrier complet de juillet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail nuit par nuit des sections fermées sur le périphérique (6–9 juillet et 15–21 juillet)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble rapide des deux chantiers et impacts immédiats&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/travaux-sur-le-peripherique-de-toulouse-plusieurs-nuits-ces-sections-vont-etre-inaccessibles-ce-qu-il-faut-savoir_64527642.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/travaux-sur-le-peripherique-de-toulouse-plusieurs-nuits-ces-sections-vont-etre-inaccessibles-ce-qu-il-faut-savoir_64527642.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>VINCI Autoroutes lance deux chantiers simultanés affectant la circulation à Toulouse à partir du 6 juillet 2026. L'avenue du Général Eisenhower (M120A) sera totalement fermée dans les deux sens au niveau du pont de l'échangeur du Chapitre, sur l'A64, du 6 juillet au 28 août, avec fermeture de la bretelle d'entrée vers Toulouse — des déviations balisées en jaune seront mises en place. En parallèle, des travaux de rénovation du marquage au sol entraînent des fermetures nocturnes (21h–6h) de plusieurs sections du périphérique toulousain : du 6 au 9 juillet entre Sesquières et Croix Daurade, puis du 15 au 21 juillet entre Soupetard, Montaudran et la barrière de Toulouse-Sud. Les travaux de renforcement du pont du Chapitre se poursuivront jusqu'à fin décembre, avec des fermetures ponctuelles nocturnes de l'A64 prévues à partir de septembre.</summary>
+    <category term="news"/>
+    <published>2026-07-12T06:42:02+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:abec0087-8f3a-4d4f-8b5e-1bd7d3df1538</id>
     <title>Des employés toulousains d'Airbus défileront pour la première fois le 14 juillet</title>
     <updated>2026-07-12T07:30:25.981450+00:00</updated>
@@ -764,427 +819,297 @@
     <published>2026-07-12T07:12:02+02:00</published>
   </entry>
   <entry>
-    <id>cluster:53081bb8-e7b8-4e90-9383-942f598bdc3f</id>
-    <title>Vague de chaleur extrême à Toulouse : jusqu'à 45°C possibles</title>
+    <id>cluster:c3450846-a264-4f14-9226-a153db8ba7e4</id>
+    <title>Pont du 14 juillet à Toulouse : trafic, feux d'artifice et programme</title>
     <updated>2026-07-12T07:30:25.981450+00:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Toulouse et la Haute-Garonne traversent un troisième épisode caniculaire en un mois et demi, avec des températures atteignant 38 à 39°C début juillet et des pointes à 40°C attendues dimanche 12 juillet. La Haute-Garonne est passée en vigilance orange canicule dès le mardi 7 juillet, tandis que quatre départements d&amp;#x27;Occitanie (Lot, Tarn-et-Garonne, Aveyron, Tarn) ont basculé en vigilance rouge le 12 juillet. Un prévisionniste cite des modèles évoquant 44-45°C autour du 13 juillet, ce qui pourrait pulvériser le record absolu de 42,4°C enregistré à Toulouse en août 2023. En parallèle, des orages ont frappé le département les 10 et 11 juillet sans apporter de vrai répit — la chaleur ne devrait pas descendre sous les 35°C avant le 15 ou 16 juillet — et la fermeture des parcs et jardins le 10 juillet pour risque de vent a suscité des critiques, les habitants se retrouvant privés d&amp;#x27;îlots de fraîcheur en plein pic de chaleur.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les articles couvrent une montée en puissance progressive : des premières alertes orange début juillet aux projections extrêmes de 44-45°C pour le 13 juillet, en passant par la controverse locale sur la fermeture des parcs. L&amp;#x27;article sur les 44-45°C repose sur un seul prévisionniste externe à Météo France et présente ces chiffres comme une projection de modèle, non une prévision officielle.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Canicule. Des températures entre 44 et 45°)&lt;/strong&gt;: Projection extrême de 44-45°C pour le 13 juillet et contexte climatique long terme&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (parcs fermés vendredi)&lt;/strong&gt;: Réaction citoyenne et controverse sur la fermeture des parcs en pleine canicule&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (vigilance rouge)&lt;/strong&gt;: Point le plus récent sur les niveaux d&amp;#x27;alerte en Occitanie et prévisions du 12 juillet&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-des-temperatures-entre-44-et-45-a-toulouse-selon-un-modele-meteo-cela-pourrait-arriver-d-ici-quelques-jours_64514343.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-orages-annonces-sur-toulouse-et-la-haute-garonne-a-quoi-faut-il-s-attendre_64520014.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-canicule-ecrase-toulouse-et-la-haute-garonne-voici-quand-les-temperatures-vont-enfin-baisser_64521939.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pas-un-brin-d-air-et-les-grilles-sont-fermees-pourquoi-en-pleine-canicule-les-parcs-sont-fermes-vendredi-a-toulouse_64525792.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/risque-d-orages-pour-plusieurs-departements-d-occitanie-ou-cela-pourrait-tomber-apres-debut-de-journee-electrique_64529156.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/quatre-departements-d-occitanie-basculent-en-vigilance-rouge-canicule-voici-les-secteurs-ou-il-va-faire-le-plus-chaud_64530483.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-des-temperatures-entre-44-et-45-a-toulouse-selon-un-modele-meteo-cela-pourrait-arriver-d-ici-quelques-jours_64514343.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse et la Haute-Garonne traversent un troisième épisode caniculaire en un mois et demi, avec des températures atteignant 38 à 39°C début juillet et des pointes à 40°C attendues dimanche 12 juillet. La Haute-Garonne est passée en vigilance orange canicule dès le mardi 7 juillet, tandis que quatre départements d'Occitanie (Lot, Tarn-et-Garonne, Aveyron, Tarn) ont basculé en vigilance rouge le 12 juillet. Un prévisionniste cite des modèles évoquant 44-45°C autour du 13 juillet, ce qui pourrait pulvériser le record absolu de 42,4°C enregistré à Toulouse en août 2023. En parallèle, des orages ont frappé le département les 10 et 11 juillet sans apporter de vrai répit — la chaleur ne devrait pas descendre sous les 35°C avant le 15 ou 16 juillet — et la fermeture des parcs et jardins le 10 juillet pour risque de vent a suscité des critiques, les habitants se retrouvant privés d'îlots de fraîcheur en plein pic de chaleur.</summary>
-    <category term="news"/>
-    <published>2026-07-08T16:40:41+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:fc864f94-7586-47ba-9bb3-fede293d60cf</id>
-    <title>Un lycéen toulousain aux olympiades internationales de biologie à Vilnius</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Quatre lycéens français participent cette semaine aux olympiades internationales de biologie à Vilnius, en Lituanie, face à des jeunes de 80 pays. Parmi eux, Thibault Persouyre, élève de terminale au lycée Berthelot de Toulouse, qui s&amp;#x27;était déjà distingué l&amp;#x27;an dernier avec un projet sur le biomimétisme entre les faucons pèlerins et l&amp;#x27;aéronautique. Les candidats passeront deux journées d&amp;#x27;épreuves — l&amp;#x27;une pratique, l&amp;#x27;autre théorique — après une phase d&amp;#x27;acclimatation pour laisser le temps aux enseignants de traduire les sujets. La délégation française est encadrée par Gaëtan Jougla, professeur au lycée Saint-Joseph de Toulouse et président des olympiades françaises de biologie, accompagné de chercheurs de l&amp;#x27;université Toulouse 3 et de l&amp;#x27;École d&amp;#x27;ingénieurs de Purpan.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46381"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46381"/>
-    <summary>Quatre lycéens français participent cette semaine aux olympiades internationales de biologie à Vilnius, en Lituanie, face à des jeunes de 80 pays. Parmi eux, Thibault Persouyre, élève de terminale au lycée Berthelot de Toulouse, qui s'était déjà distingué l'an dernier avec un projet sur le biomimétisme entre les faucons pèlerins et l'aéronautique. Les candidats passeront deux journées d'épreuves — l'une pratique, l'autre théorique — après une phase d'acclimatation pour laisser le temps aux enseignants de traduire les sujets. La délégation française est encadrée par Gaëtan Jougla, professeur au lycée Saint-Joseph de Toulouse et président des olympiades françaises de biologie, accompagné de chercheurs de l'université Toulouse 3 et de l'École d'ingénieurs de Purpan.</summary>
-    <category term="news"/>
-    <published>2026-07-13T04:11:17.166000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:0180ead2-252f-48c9-9231-b037ace11a54</id>
-    <title>Marguerite Dilhan, première avocate à exercer en France, était toulousaine</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le 13 juillet 1903, Marguerite Dilhan prêtait serment au barreau de Toulouse, devenant la première femme à exercer pleinement la profession d&amp;#x27;avocate en France. Née en 1876 à Miélan dans le Gers, elle avait fait ses études de droit à Toulouse, où elle côtoyait notamment Vincent Auriol, futur président de la République. Si deux Parisiennes l&amp;#x27;avaient précédée dans la prestation de serment, elles n&amp;#x27;avaient jamais plaidé ; Dilhan, elle, ouvre un cabinet dans le quartier Arnaud-Bernard et défend dès novembre 1903 une femme accusée de meurtre aux assises. Sa carrière durera plus de cinquante ans, et une biographie lui a été consacrée par l&amp;#x27;ancienne avocate Anne Sireyjol.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46380"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46380"/>
-    <summary>Le 13 juillet 1903, Marguerite Dilhan prêtait serment au barreau de Toulouse, devenant la première femme à exercer pleinement la profession d'avocate en France. Née en 1876 à Miélan dans le Gers, elle avait fait ses études de droit à Toulouse, où elle côtoyait notamment Vincent Auriol, futur président de la République. Si deux Parisiennes l'avaient précédée dans la prestation de serment, elles n'avaient jamais plaidé ; Dilhan, elle, ouvre un cabinet dans le quartier Arnaud-Bernard et défend dès novembre 1903 une femme accusée de meurtre aux assises. Sa carrière durera plus de cinquante ans, et une biographie lui a été consacrée par l'ancienne avocate Anne Sireyjol.</summary>
-    <category term="culture"/>
-    <published>2026-07-13T04:11:17.166000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:fa2d77fa-d5ed-4915-b409-e9c4f00e03a5</id>
-    <title>Ligne B fermée cet été pour raccordement au futur prolongement</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Du 13 juillet au 31 août, la ligne B du métro toulousain sera interrompue entre Ramonville et Saint-Michel afin de permettre la connexion physique avec le futur prolongement vers Labège – Gare. Les travaux consistent notamment à percer le mur du terminus actuel de Ramonville, dans la zone d&amp;#x27;arrière-gare, pour créer le point de jonction. Pendant toute la durée du chantier, une navette de substitution reliera Ramonville à Palais de Justice en 20 minutes, desservant Université Paul Sabatier, Saint-Agne SNCF et Saint-Michel Marcel Langer, avec des fréquences allant de 5 à 15 minutes selon les horaires. La ligne de bus 44 est également prolongée jusqu&amp;#x27;à Ramonville pour desservir les arrêts Saouzelong, Rangueil et Faculté de pharmacie, comptez environ 30 minutes jusqu&amp;#x27;aux Carmes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46379"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46379"/>
-    <summary>Du 13 juillet au 31 août, la ligne B du métro toulousain sera interrompue entre Ramonville et Saint-Michel afin de permettre la connexion physique avec le futur prolongement vers Labège – Gare. Les travaux consistent notamment à percer le mur du terminus actuel de Ramonville, dans la zone d'arrière-gare, pour créer le point de jonction. Pendant toute la durée du chantier, une navette de substitution reliera Ramonville à Palais de Justice en 20 minutes, desservant Université Paul Sabatier, Saint-Agne SNCF et Saint-Michel Marcel Langer, avec des fréquences allant de 5 à 15 minutes selon les horaires. La ligne de bus 44 est également prolongée jusqu'à Ramonville pour desservir les arrêts Saouzelong, Rangueil et Faculté de pharmacie, comptez environ 30 minutes jusqu'aux Carmes.</summary>
-    <category term="news"/>
-    <published>2026-07-13T04:11:17.166000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d5cd0f27-0f0d-426e-9aa7-94808ab7b817</id>
-    <title>Fête des Vins de Gaillac : concerts, dégustations et feu d'artifice fin juillet</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Pour sa 47e édition, la Fête des Vins de Gaillac se tient du 31 juillet au 2 août 2026 au parc de Foucaud, au bord du Tarn, à moins d&amp;#x27;une heure de Toulouse. L&amp;#x27;événement réunit près de 50 vignerons et domaines viticoles autour de dégustations, d&amp;#x27;échanges directs avec les producteurs et d&amp;#x27;un village gourmand mettant à l&amp;#x27;honneur les saveurs du Tarn (charcuteries de Lacaune, fromages, food trucks). Chaque soir, le DJ Poppy, membre du collectif La Fine Équipe, anime les allées avant des concerts, et un feu d&amp;#x27;artifice clôture la fête. Une escapade estivale accessible pour les Toulousains cherchant à découvrir l&amp;#x27;un des plus anciens vignobles de France.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/13/a-moins-dune-heure-de-toulouse-une-grande-fete-du-vin-avec-concerts-degustations-et-feu-dartifice-13457617.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/07/13/a-moins-dune-heure-de-toulouse-une-grande-fete-du-vin-avec-concerts-degustations-et-feu-dartifice-13457617.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Pour sa 47e édition, la Fête des Vins de Gaillac se tient du 31 juillet au 2 août 2026 au parc de Foucaud, au bord du Tarn, à moins d'une heure de Toulouse. L'événement réunit près de 50 vignerons et domaines viticoles autour de dégustations, d'échanges directs avec les producteurs et d'un village gourmand mettant à l'honneur les saveurs du Tarn (charcuteries de Lacaune, fromages, food trucks). Chaque soir, le DJ Poppy, membre du collectif La Fine Équipe, anime les allées avant des concerts, et un feu d'artifice clôture la fête. Une escapade estivale accessible pour les Toulousains cherchant à découvrir l'un des plus anciens vignobles de France.</summary>
-    <category term="event"/>
-    <published>2026-07-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:451530b6-b97b-4bed-a452-96932c55c628</id>
-    <title>Le CHU de Toulouse recrute des femmes pour étude sur l'obésité</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le CHU de Toulouse recherche des femmes volontaires pour participer à une étude clinique portant sur les effets du jeûne intermittent associé à une activité physique adaptée chez les personnes en situation d&amp;#x27;obésité. L&amp;#x27;étude est menée conjointement par le centre d&amp;#x27;investigation clinique et l&amp;#x27;Institut de médecine et de physiologie spatiales. Les participantes suivront un programme de douze semaines encadré par un coach sportif et une diététicienne, avec indemnisation et prise en charge des frais de déplacement. Pour être éligibles, les femmes doivent être âgées de 45 à 70 ans, ménopausées, atteintes d&amp;#x27;un diabète de type 2 et présenter un IMC compris entre 30 et 45. Les candidates peuvent contacter le CHU du lundi au vendredi de 8h30 à 16h30 aux numéros indiqués.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-chu-de-toulouse-recherche-des-femmes-pour-une-etude-sur-l-obesite-voici-les-criteres-pour-y-participer_64506194.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/le-chu-de-toulouse-recherche-des-femmes-pour-une-etude-sur-l-obesite-voici-les-criteres-pour-y-participer_64506194.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le CHU de Toulouse recherche des femmes volontaires pour participer à une étude clinique portant sur les effets du jeûne intermittent associé à une activité physique adaptée chez les personnes en situation d'obésité. L'étude est menée conjointement par le centre d'investigation clinique et l'Institut de médecine et de physiologie spatiales. Les participantes suivront un programme de douze semaines encadré par un coach sportif et une diététicienne, avec indemnisation et prise en charge des frais de déplacement. Pour être éligibles, les femmes doivent être âgées de 45 à 70 ans, ménopausées, atteintes d'un diabète de type 2 et présenter un IMC compris entre 30 et 45. Les candidates peuvent contacter le CHU du lundi au vendredi de 8h30 à 16h30 aux numéros indiqués.</summary>
-    <category term="news"/>
-    <published>2026-07-13T06:42:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:ea8a29c5-2a3e-42c2-8e54-978c38905a2e</id>
-    <title>Un étudiant toulousain défilera sur les Champs-Élysées le 14 juillet</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Élias, 21 ans, originaire de Toulouse et élève en première année à l&amp;#x27;École Polytechnique, fera partie des quelque 8 500 participants au défilé militaire du 14 juillet sur les Champs-Élysées. Après un parcours scolaire entièrement toulousain jusqu&amp;#x27;au bac au lycée Pierre-de-Fermat, il a rejoint Paris pour une prépa puis Polytechnique. La préparation au défilé mobilise les élèves depuis une dizaine de jours, avec des levers très matinaux et des entraînements intensifs dans un camp militaire, notamment pour maîtriser l&amp;#x27;« ordre serré » — marcher au pas, alignés, épées en main. Pour Élias, défiler représente à la fois une fierté personnelle, un hommage à sa famille, et le signe d&amp;#x27;un engagement ; il évoque aussi un attrait pour le domaine spatial, clin d&amp;#x27;œil à ses racines toulousaines.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux sources partagent l&amp;#x27;essentiel du même portrait, mais actu_toulouse apporte un détail concret supplémentaire (les épées et le risque de se piquer) ainsi que la chaleur caniculaire comme difficulté principale, tandis que lessentiel insiste davantage sur l&amp;#x27;émotion familiale et l&amp;#x27;aspiration au spatial.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails pratiques de l&amp;#x27;entraînement, anecdotes sur les épées et le défi de la chaleur&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Dimension humaine et émotionnelle, ambitions futures dans le spatial&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46382"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/je-suis-tres-fier-de-participer-a-cet-evenement-ce-jeune-toulousain-en-premiere-ligne-du-defile-du-14-juillet_64533318.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46382"/>
-    <summary>Élias, 21 ans, originaire de Toulouse et élève en première année à l'École Polytechnique, fera partie des quelque 8 500 participants au défilé militaire du 14 juillet sur les Champs-Élysées. Après un parcours scolaire entièrement toulousain jusqu'au bac au lycée Pierre-de-Fermat, il a rejoint Paris pour une prépa puis Polytechnique. La préparation au défilé mobilise les élèves depuis une dizaine de jours, avec des levers très matinaux et des entraînements intensifs dans un camp militaire, notamment pour maîtriser l'« ordre serré » — marcher au pas, alignés, épées en main. Pour Élias, défiler représente à la fois une fierté personnelle, un hommage à sa famille, et le signe d'un engagement ; il évoque aussi un attrait pour le domaine spatial, clin d'œil à ses racines toulousaines.</summary>
-    <category term="news"/>
-    <published>2026-07-13T04:11:17.166000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d4993b0c-568e-46df-a4ac-db8bb8841414</id>
-    <title>Deux corps repêchés dans les eaux toulousaines en moins d'une semaine</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;En l&amp;#x27;espace de quelques jours, deux corps ont été découverts dans les eaux toulousaines. Le 9 juillet 2026, tard dans la nuit, un jeune homme d&amp;#x27;une vingtaine d&amp;#x27;années a été repêché dans la Garonne au niveau du quai de la Daurade, alors que des Toulousains célébraient la victoire de la France face au Maroc en Coupe du monde. Le 13 juillet au matin, un second corps — non identifié à ce stade — a été retrouvé dans le canal du Midi, boulevard Bonrepos, près de la gare Matabiau. Dans les deux cas, le parquet de Toulouse a ouvert une enquête pour recherche des causes de la mort, et une autopsie doit être réalisée pour chacune des victimes.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article se concentre uniquement sur la découverte quai de la Daurade. Le second, publié après la découverte du canal du Midi, replace les deux affaires en parallèle, offrant ainsi un aperçu d&amp;#x27;ensemble.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (9 juillet)&lt;/strong&gt;: Détails sur le corps repêché dans la Garonne quai de la Daurade&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (13 juillet)&lt;/strong&gt;: Vue d&amp;#x27;ensemble des deux découvertes et informations sur le canal du Midi&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-corps-d-un-jeune-d-une-vingtaine-d-annees-repeche-quai-de-la-daurade-a-toulouse-apres-le-match-france-maroc_64528188.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/macabre-decouverte-a-toulouse-le-corps-d-un-homme-retrouve-dans-le-canal-du-midi_64534886.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/le-corps-d-un-jeune-d-une-vingtaine-d-annees-repeche-quai-de-la-daurade-a-toulouse-apres-le-match-france-maroc_64528188.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>En l'espace de quelques jours, deux corps ont été découverts dans les eaux toulousaines. Le 9 juillet 2026, tard dans la nuit, un jeune homme d'une vingtaine d'années a été repêché dans la Garonne au niveau du quai de la Daurade, alors que des Toulousains célébraient la victoire de la France face au Maroc en Coupe du monde. Le 13 juillet au matin, un second corps — non identifié à ce stade — a été retrouvé dans le canal du Midi, boulevard Bonrepos, près de la gare Matabiau. Dans les deux cas, le parquet de Toulouse a ouvert une enquête pour recherche des causes de la mort, et une autopsie doit être réalisée pour chacune des victimes.</summary>
-    <category term="news"/>
-    <published>2026-07-10T18:29:13+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c3450846-a264-4f14-9226-a153db8ba7e4</id>
-    <title>Fête nationale à Toulouse : programme, trafic et infos pratiques</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Toulouse célèbre le 14 juillet sur deux jours avec un grand concert gratuit à la prairie des Filtres le lundi 13 juillet (NRJ Music Tour avec Bigflo &amp;amp; Oli, Gims, Amir, Disiz…) suivi d&amp;#x27;un feu d&amp;#x27;artifice sur la Garonne à 22h30, puis un défilé militaire matinal le 14 juillet (dès 9h30, avancé en raison de la canicule et d&amp;#x27;une vigilance orange) et un second feu d&amp;#x27;artifice au lac de la Reynerie. Plusieurs communes de Haute-Garonne (Blagnac, Colomiers, Plaisance-du-Touch) ont annulé leurs spectacles pyrotechniques en raison de la canicule et de la sécheresse, mais Toulouse maintient l&amp;#x27;ensemble de son programme. La circulation est fortement perturbée dès le dimanche 12 juillet et jusqu&amp;#x27;au mardi 14 à 2h du matin dans un large périmètre autour de la prairie des Filtres, Saint-Cyprien et les quais de la Garonne ; Tisséo adapte également son offre. Par ailleurs, les départs en vacances ce week-end du pont du 14 juillet provoquent de fortes perturbations sur l&amp;#x27;A61 (classée rouge par Bison Futé), l&amp;#x27;A62, l&amp;#x27;A64 et l&amp;#x27;A68.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse détaille précisément les horaires de trafic autoroutier, les rues fermées et le programme du défilé, tandis que L&amp;#x27;Essentiel adopte un format bulletin synthétique avec les points clés de la soirée festive, incluant une carte des meilleurs spots pour le feu d&amp;#x27;artifice.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail complet des rues fermées, modifications Tisséo, programme du défilé militaire et prévisions trafic autoroutier heure par heure&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Résumé rapide du programme festif et bon à savoir pour la soirée du 13 juillet&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/depart-en-vacances-depuis-toulouse-voici-les-horaires-a-connaitre-pour-eviter-les-bouchons-sur-les-autoroutes_64523216.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/bouchons-deja-17-kilometres-de-galere-entre-toulouse-et-narbonne-vos-conditions-de-circulation-en-direct_64526197.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/feux-d-artifice-du-13-et-14-juillet-a-toulouse-programme-circulation-stationnement-toutes-les-infos-a-connaitre_64523115.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-13?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46378"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/feu-d-artifice-du-14-juillet-circulation-metro-ce-qu-il-faut-savoir-pour-se-deplacer-en-centre-ville-de-toulouse_64534075.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/defile-militaire-du-14-juillet-a-toulouse-programme-circulation-toutes-les-infos-pratiques-a-connaitre_64534505.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Le week-end du 14 juillet s&amp;#x27;annonce très chargé sur les autoroutes au départ de Toulouse : Bison Futé a placé la Haute-Garonne en rouge vendredi 10 et samedi 11 juillet, avec des bouchons importants notamment sur l&amp;#x27;A61 vers Narbonne, aggravés par un accident à Labastide-d&amp;#x27;Anjou en soirée du vendredi. Vinci Autoroutes recommande de partir avant 9 h ou après 18 h le samedi, tandis que le dimanche s&amp;#x27;annonce fluide. Côté festivités, Toulouse maintient son programme de Fête nationale malgré les annulations de plusieurs communes voisines liées à la canicule et à la sécheresse : lundi 13 juillet, une grande soirée gratuite à la prairie des Filtres réunira artistes locaux et nationaux (Bigflo et Oli, Gims, Amir…) avant le feu d&amp;#x27;artifice sur la Garonne à 22 h 30. Le mardi 14 juillet, un défilé militaire en centre-ville et un second feu d&amp;#x27;artifice au lac de la Reynerie complèteront les festivités.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Deux articles traitent du trafic sous des angles complémentaires : l&amp;#x27;un propose des prévisions pratiques par axe et par jour, l&amp;#x27;autre suit la situation en direct avec des mises à jour horaires. Le troisième article couvre exclusivement le programme festif du 13-14 juillet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Prévisions de trafic détaillées par autoroute et par créneau horaire&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Suivi en direct des bouchons et incidents sur l&amp;#x27;A61/A9&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Programme complet, circulation et stationnement pour les feux d&amp;#x27;artifice&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/depart-en-vacances-depuis-toulouse-voici-les-horaires-a-connaitre-pour-eviter-les-bouchons-sur-les-autoroutes_64523216.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/bouchons-deja-17-kilometres-de-galere-entre-toulouse-et-narbonne-vos-conditions-de-circulation-en-direct_64526197.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/feux-d-artifice-du-13-et-14-juillet-a-toulouse-programme-circulation-stationnement-toutes-les-infos-a-connaitre_64523115.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/depart-en-vacances-depuis-toulouse-voici-les-horaires-a-connaitre-pour-eviter-les-bouchons-sur-les-autoroutes_64523216.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse célèbre le 14 juillet sur deux jours avec un grand concert gratuit à la prairie des Filtres le lundi 13 juillet (NRJ Music Tour avec Bigflo &amp; Oli, Gims, Amir, Disiz…) suivi d'un feu d'artifice sur la Garonne à 22h30, puis un défilé militaire matinal le 14 juillet (dès 9h30, avancé en raison de la canicule et d'une vigilance orange) et un second feu d'artifice au lac de la Reynerie. Plusieurs communes de Haute-Garonne (Blagnac, Colomiers, Plaisance-du-Touch) ont annulé leurs spectacles pyrotechniques en raison de la canicule et de la sécheresse, mais Toulouse maintient l'ensemble de son programme. La circulation est fortement perturbée dès le dimanche 12 juillet et jusqu'au mardi 14 à 2h du matin dans un large périmètre autour de la prairie des Filtres, Saint-Cyprien et les quais de la Garonne ; Tisséo adapte également son offre. Par ailleurs, les départs en vacances ce week-end du pont du 14 juillet provoquent de fortes perturbations sur l'A61 (classée rouge par Bison Futé), l'A62, l'A64 et l'A68.</summary>
-    <category term="event"/>
+    <summary>Le week-end du 14 juillet s'annonce très chargé sur les autoroutes au départ de Toulouse : Bison Futé a placé la Haute-Garonne en rouge vendredi 10 et samedi 11 juillet, avec des bouchons importants notamment sur l'A61 vers Narbonne, aggravés par un accident à Labastide-d'Anjou en soirée du vendredi. Vinci Autoroutes recommande de partir avant 9 h ou après 18 h le samedi, tandis que le dimanche s'annonce fluide. Côté festivités, Toulouse maintient son programme de Fête nationale malgré les annulations de plusieurs communes voisines liées à la canicule et à la sécheresse : lundi 13 juillet, une grande soirée gratuite à la prairie des Filtres réunira artistes locaux et nationaux (Bigflo et Oli, Gims, Amir…) avant le feu d'artifice sur la Garonne à 22 h 30. Le mardi 14 juillet, un défilé militaire en centre-ville et un second feu d'artifice au lac de la Reynerie complèteront les festivités.</summary>
+    <category term="news"/>
     <published>2026-07-10T12:28:02+02:00</published>
   </entry>
   <entry>
-    <id>cluster:240d5807-7e1c-4e51-a92f-40b5bdd335ed</id>
-    <title>Pollution de l'air persistante en Haute-Garonne : ozone et sable saharien</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La Haute-Garonne traverse plusieurs épisodes de pollution atmosphérique courant juillet 2026, signalés par Atmo Occitanie. Un premier épisode autour du 8 juillet est lié aux fortes chaleurs et au faible vent, favorisant la hausse des concentrations en ozone, aggravée par les incendies récents dans la région. Un second épisode, relevé le 13 juillet, est dû à des remontées de poussières sahariennes en pleine canicule, provoquant une hausse des particules en suspension (PM10) et un ciel laiteux caractéristique. Le département devrait passer en procédure d&amp;#x27;alerte (rouge) avec des indices de qualité de l&amp;#x27;air « mauvais », et Atmo Occitanie recommande de réduire les activités physiques intenses.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article (8 juillet) se concentre sur l&amp;#x27;ozone lié aux conditions météo et aux incendies ; le second (13 juillet) porte sur un épisode distinct de particules sahariennes PM10 en contexte de canicule. Les deux signalent une alerte Atmo Occitanie mais pour des polluants et des causes différentes.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (8 juillet)&lt;/strong&gt;: Épisode ozone lié aux incendies et à la chaleur&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (13 juillet)&lt;/strong&gt;: Invasion de poussières sahariennes et pollution aux PM10&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/fortes-chaleurs-et-incendie-un-episode-de-pollution-de-l-air-est-en-cours-en-haute-garonne-et-il-va-durer_64512412.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-sable-du-desert-du-sahara-va-retomber-sur-la-haute-garonne-une-alerte-a-la-pollution-est-lancee_64534394.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/fortes-chaleurs-et-incendie-un-episode-de-pollution-de-l-air-est-en-cours-en-haute-garonne-et-il-va-durer_64512412.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Haute-Garonne traverse plusieurs épisodes de pollution atmosphérique courant juillet 2026, signalés par Atmo Occitanie. Un premier épisode autour du 8 juillet est lié aux fortes chaleurs et au faible vent, favorisant la hausse des concentrations en ozone, aggravée par les incendies récents dans la région. Un second épisode, relevé le 13 juillet, est dû à des remontées de poussières sahariennes en pleine canicule, provoquant une hausse des particules en suspension (PM10) et un ciel laiteux caractéristique. Le département devrait passer en procédure d'alerte (rouge) avec des indices de qualité de l'air « mauvais », et Atmo Occitanie recommande de réduire les activités physiques intenses.</summary>
-    <category term="news"/>
-    <published>2026-07-08T11:31:50+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:72bee54b-6541-437e-a611-aa6bcbb2d9cc</id>
-    <title>Canicule : nombreux feux d'artifice du 14-Juillet annulés en Haute-Garonne</title>
-    <updated>2026-07-13T16:19:10.033851+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Face à la vague de chaleur et aux risques élevés d&amp;#x27;incendie, une vingtaine de communes de Haute-Garonne ont annulé ou reporté leurs feux d&amp;#x27;artifice et festivités du 14-Juillet. Parmi elles, Blagnac, Muret, Cugnaux, Plaisance-du-Touch, Grenade-sur-Garonne ou encore Launaguet. Certains feux sont simplement reportés — Rieumes au 22 août, Martres-Tolosane au 12 septembre — tandis que d&amp;#x27;autres communes maintiennent leur tir dans un cadre très strict. Le Département a également annulé le « Dîner en télécabine » prévu le 14 juillet, et le bal populaire des Sept Deniers à Toulouse n&amp;#x27;aura pas lieu non plus.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article (actu_toulouse) dresse un premier état des lieux des annulations autour de Toulouse, tandis que le second, daté du 13 juillet 2026, propose un bilan plus complet avec la liste exhaustive des communes annulant leurs feux et précise que certaines communes maintiennent tout de même leur tir selon des règles strictes.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 1&lt;/strong&gt;: Premières annulations signalées : Sept Deniers, Seilh, Grenade, Pibrac, Launaguet&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 2&lt;/strong&gt;: Liste complète et à jour des communes annulant ou maintenant leurs feux d&amp;#x27;artifice&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-et-risque-d-incendie-des-feux-d-artifice-du-14-juillet-deja-annules-a-toulouse-et-aux-alentours_64514669.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/feux-d-artifice-du-14-juillet-des-annulations-mais-certains-seront-bien-tires-en-haute-garonne-voici-lesquels_64533335.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-et-risque-d-incendie-des-feux-d-artifice-du-14-juillet-deja-annules-a-toulouse-et-aux-alentours_64514669.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Face à la vague de chaleur et aux risques élevés d'incendie, une vingtaine de communes de Haute-Garonne ont annulé ou reporté leurs feux d'artifice et festivités du 14-Juillet. Parmi elles, Blagnac, Muret, Cugnaux, Plaisance-du-Touch, Grenade-sur-Garonne ou encore Launaguet. Certains feux sont simplement reportés — Rieumes au 22 août, Martres-Tolosane au 12 septembre — tandis que d'autres communes maintiennent leur tir dans un cadre très strict. Le Département a également annulé le « Dîner en télécabine » prévu le 14 juillet, et le bal populaire des Sept Deniers à Toulouse n'aura pas lieu non plus.</summary>
-    <category term="news"/>
-    <published>2026-07-08T16:09:44+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:44e3db61-49f8-4c4e-9787-e4f68c373985</id>
-    <title>Le feu d'artifice du 14-juillet à Toulouse a duré 20 minutes</title>
-    <updated>2026-07-14T08:34:11.966217+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Alors que de nombreux feux d&amp;#x27;artifice ont été annulés en Haute-Garonne en raison de la sécheresse et des risques d&amp;#x27;incendie, celui de Toulouse a bien eu lieu, tiré depuis la Garonne au niveau de la prairie des Filtres dans la nuit du 13 juillet 2026. Le spectacle a démarré à 22h30 et a duré 20 minutes, soit plus longtemps que d&amp;#x27;habitude. Cette durée exceptionnelle constituait un hommage à un artificier récemment disparu. L&amp;#x27;événement tranche avec les annulations en série observées dans le reste du département.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/video-a-toulouse-un-feu-d-artifice-du-14-juillet-exceptionnel-qui-a-dure-20-minutes_64538000.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/video-a-toulouse-un-feu-d-artifice-du-14-juillet-exceptionnel-qui-a-dure-20-minutes_64538000.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Alors que de nombreux feux d'artifice ont été annulés en Haute-Garonne en raison de la sécheresse et des risques d'incendie, celui de Toulouse a bien eu lieu, tiré depuis la Garonne au niveau de la prairie des Filtres dans la nuit du 13 juillet 2026. Le spectacle a démarré à 22h30 et a duré 20 minutes, soit plus longtemps que d'habitude. Cette durée exceptionnelle constituait un hommage à un artificier récemment disparu. L'événement tranche avec les annulations en série observées dans le reste du département.</summary>
-    <category term="news"/>
-    <published>2026-07-14T07:20:09+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:15695f9b-28bf-4227-a248-21e9980a0243</id>
-    <title>Les Amidonniers : histoire et origine du nom du quartier</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
+    <id>cluster:42052a2f-8074-4c1c-8f1b-3a4806b494c5</id>
+    <title>Tommy's Diner : 30 ans de burgers rétro à la sauce toulousaine</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
       <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;Le quartier des Amidonniers, situé à l&amp;#x27;ouest du centre-ville entre le canal de Brienne et la Garonne, doit son nom aux producteurs d&amp;#x27;amidon installés là dès la fin du XVIIIe siècle, chassés des quartiers centraux. Au XIXe siècle, le secteur s&amp;#x27;industrialise avec une manufacture de tabac, des filatures et teintureries, tandis que le moulin du Bazacle est reconverti en centrale hydroélectrique. Surnommé « Del chagrin », ce quartier ouvrier était marqué par des logements insalubres et une grande précarité, évoquée dans une chanson occitane de l&amp;#x27;époque. Une curiosité historique : en 1897, un projet d&amp;#x27;arènes en bois de 8 000 places y fut conçu, inaugurées en mai 1898 pour les Jeux Floraux.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46522"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46522"/>
-    <summary>Le quartier des Amidonniers, situé à l'ouest du centre-ville entre le canal de Brienne et la Garonne, doit son nom aux producteurs d'amidon installés là dès la fin du XVIIIe siècle, chassés des quartiers centraux. Au XIXe siècle, le secteur s'industrialise avec une manufacture de tabac, des filatures et teintureries, tandis que le moulin du Bazacle est reconverti en centrale hydroélectrique. Surnommé « Del chagrin », ce quartier ouvrier était marqué par des logements insalubres et une grande précarité, évoquée dans une chanson occitane de l'époque. Une curiosité historique : en 1897, un projet d'arènes en bois de 8 000 places y fut conçu, inaugurées en mai 1898 pour les Jeux Floraux.</summary>
-    <category term="culture"/>
-    <published>2026-07-15T04:12:50.635000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:64472f66-b34a-49d2-8e9f-ecdc8629ca43</id>
-    <title>Trois animations antiquité et Harry Potter au musée Saint-Raymond</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le musée Saint-Raymond propose aujourd&amp;#x27;hui trois animations autour de l&amp;#x27;antiquité. La matinée s&amp;#x27;ouvre avec une visite insolite mêlant Harry Potter et mythologie antique : le sortilège de Revelio sert de fil conducteur pour explorer les mythes qui ont inspiré statues et créatures du musée, des serpents mythiques aux dragons en passant par les noms d&amp;#x27;Argus ou Minerva. L&amp;#x27;après-midi, deux visites sont consacrées à l&amp;#x27;exposition « Gaulois mais Romains ! », avec des pièces prêtées par le musée d&amp;#x27;Archéologie nationale : une visite guidée de 14h à 15h15 retrace la vie en Gaule après la conquête de César, tandis qu&amp;#x27;une visite flash de 30 minutes à 15h se concentre sur le tissage et le vêtement romain. Les animations s&amp;#x27;adressent à tous les publics — potterheads inclus — avec obligation pour les moins de 18 ans d&amp;#x27;être accompagnés d&amp;#x27;un adulte muni d&amp;#x27;un billet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46523"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46523"/>
-    <summary>Le musée Saint-Raymond propose aujourd'hui trois animations autour de l'antiquité. La matinée s'ouvre avec une visite insolite mêlant Harry Potter et mythologie antique : le sortilège de Revelio sert de fil conducteur pour explorer les mythes qui ont inspiré statues et créatures du musée, des serpents mythiques aux dragons en passant par les noms d'Argus ou Minerva. L'après-midi, deux visites sont consacrées à l'exposition « Gaulois mais Romains ! », avec des pièces prêtées par le musée d'Archéologie nationale : une visite guidée de 14h à 15h15 retrace la vie en Gaule après la conquête de César, tandis qu'une visite flash de 30 minutes à 15h se concentre sur le tissage et le vêtement romain. Les animations s'adressent à tous les publics — potterheads inclus — avec obligation pour les moins de 18 ans d'être accompagnés d'un adulte muni d'un billet.</summary>
-    <category term="event"/>
-    <published>2026-07-15T04:12:50.635000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:24d2fa7a-387e-4d9e-9ab4-320eb309d6bf</id>
-    <title>Rétrospective Jacques Tati en 4K au cinéma ABC</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le cinéma toulousain ABC propose cet été une rétrospective consacrée à Jacques Tati, diffusant ses films dans des versions restaurées 4K. La programmation commence par *Jour de fête*, suivi de *Les Vacances de Monsieur Hulot* le 16 juillet dans le cadre d&amp;#x27;un ciné-goûter, puis *Mon Oncle*, *Playtime*, *Trafic* et *Parade*. L&amp;#x27;ABC met en avant l&amp;#x27;humour visuel universel de Tati, sa satire de la modernité et sa mise en scène révolutionnaire — notamment ses fameux plans larges — comme autant de raisons de (re)découvrir cette œuvre. À noter : la salle fermera du lundi 27 juillet au samedi 1er août pour travaux de maintenance.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46518"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46518"/>
-    <summary>Le cinéma toulousain ABC propose cet été une rétrospective consacrée à Jacques Tati, diffusant ses films dans des versions restaurées 4K. La programmation commence par *Jour de fête*, suivi de *Les Vacances de Monsieur Hulot* le 16 juillet dans le cadre d'un ciné-goûter, puis *Mon Oncle*, *Playtime*, *Trafic* et *Parade*. L'ABC met en avant l'humour visuel universel de Tati, sa satire de la modernité et sa mise en scène révolutionnaire — notamment ses fameux plans larges — comme autant de raisons de (re)découvrir cette œuvre. À noter : la salle fermera du lundi 27 juillet au samedi 1er août pour travaux de maintenance.</summary>
-    <category term="event"/>
-    <published>2026-07-15T04:12:50.635000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:471d651b-f2c6-44d2-8b2c-71d4077bfdd0</id>
-    <title>Les Quartiers d'été de Toulouse les Orgues lancent leur saison musicale</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Les Quartiers d&amp;#x27;été de Toulouse les Orgues débutent et se poursuivront jusqu&amp;#x27;au 19 septembre, avec des concerts, récitals, lectures musicales et visites dans plusieurs lieux emblématiques de la ville. Cette déclinaison estivale du festival international — organisé depuis 1996 et proposée sous ce format depuis 2018 — s&amp;#x27;adresse aux mélomanes comme aux amateurs de patrimoine. Les premières propositions incluent un concert ce soir au Temple du Salin (billets 10–15 €), une sortie de résidence gratuite du collectif Sound Rebellion à l&amp;#x27;église du Gesù, et des visites concertantes à Saint-Nicolas sur réservation. En perspective, le 31e Festival international Toulouse les Orgues se tiendra du 7 au 18 octobre, avec une billetterie déjà ouverte.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46517"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46517"/>
-    <summary>Les Quartiers d'été de Toulouse les Orgues débutent et se poursuivront jusqu'au 19 septembre, avec des concerts, récitals, lectures musicales et visites dans plusieurs lieux emblématiques de la ville. Cette déclinaison estivale du festival international — organisé depuis 1996 et proposée sous ce format depuis 2018 — s'adresse aux mélomanes comme aux amateurs de patrimoine. Les premières propositions incluent un concert ce soir au Temple du Salin (billets 10–15 €), une sortie de résidence gratuite du collectif Sound Rebellion à l'église du Gesù, et des visites concertantes à Saint-Nicolas sur réservation. En perspective, le 31e Festival international Toulouse les Orgues se tiendra du 7 au 18 octobre, avec une billetterie déjà ouverte.</summary>
-    <category term="event"/>
-    <published>2026-07-15T04:12:50.635000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5193f894-0648-43f5-9940-4b979b8b63e5</id>
-    <title>Mika Lecumbery ouvre Ramones, bistrot père-fille quartier des Chalets</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Le chef Mika Lecumbery, figure connue du Rocher de la Vierge, revient aux fourneaux à Toulouse en ouvrant Ramones, rue de la Concorde dans le quartier des Chalets. Il y officie en cuisine ouverte aux côtés de sa fille Maïder, qui assure l&amp;#x27;accueil et le service des vins. Le restaurant, une vingtaine de couverts, propose une carte du déjeuner renouvelée chaque jour au fil des saisons, avec une formule entrée-plat-dessert à 23 euros. Le nom s&amp;#x27;inspire du groupe punk rock américain, dont la musique accompagne les services — un détail qui donne le ton de l&amp;#x27;ambiance revendiquée.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/14/le-chef-mika-lecumbery-retrouve-les-fourneaux-dans-le-quartier-des-chalets-avec-ramones-13461428.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/07/14/le-chef-mika-lecumbery-retrouve-les-fourneaux-dans-le-quartier-des-chalets-avec-ramones-13461428.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le chef Mika Lecumbery, figure connue du Rocher de la Vierge, revient aux fourneaux à Toulouse en ouvrant Ramones, rue de la Concorde dans le quartier des Chalets. Il y officie en cuisine ouverte aux côtés de sa fille Maïder, qui assure l'accueil et le service des vins. Le restaurant, une vingtaine de couverts, propose une carte du déjeuner renouvelée chaque jour au fil des saisons, avec une formule entrée-plat-dessert à 23 euros. Le nom s'inspire du groupe punk rock américain, dont la musique accompagne les services — un détail qui donne le ton de l'ambiance revendiquée.</summary>
+    <content type="html">&lt;p&gt;Fondé en 1993 par Patrick Soula, ancien joueur du Stade Toulousain, Tommy&amp;#x27;s Diner est né d&amp;#x27;une passion pour les diners américains découverts lors de voyages aux États-Unis. L&amp;#x27;enseigne s&amp;#x27;est installée à Labège en 2002 dans un lieu pensé pour incarner pleinement l&amp;#x27;univers rétro et rock&amp;#x27;n&amp;#x27;roll. Après une expansion jusqu&amp;#x27;à 14 établissements, la crise du Covid a conduit à un recentrage : le Groupe Tommy&amp;#x27;s gère aujourd&amp;#x27;hui six restaurants en propre et deux franchises. La transmission familiale est au cœur de l&amp;#x27;histoire, le fils Tommy Soula ayant repris les rênes de l&amp;#x27;entreprise qui porte désormais son prénom.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46740"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46740"/>
+    <summary>Fondé en 1993 par Patrick Soula, ancien joueur du Stade Toulousain, Tommy's Diner est né d'une passion pour les diners américains découverts lors de voyages aux États-Unis. L'enseigne s'est installée à Labège en 2002 dans un lieu pensé pour incarner pleinement l'univers rétro et rock'n'roll. Après une expansion jusqu'à 14 établissements, la crise du Covid a conduit à un recentrage : le Groupe Tommy's gère aujourd'hui six restaurants en propre et deux franchises. La transmission familiale est au cœur de l'histoire, le fils Tommy Soula ayant repris les rênes de l'entreprise qui porte désormais son prénom.</summary>
     <category term="place"/>
-    <published>2026-07-14T00:00:00+00:00</published>
+    <published>2026-07-16T04:09:10.112000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:20561f8f-c1ee-4a60-b558-6add515c28bb</id>
-    <title>Squat rue Plana : évacuation ordonnée, recours déposé au tribunal</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
+    <id>cluster:f3e8e412-2cc9-4016-8050-1fd4fca87907</id>
+    <title>Visites guidées de l'exposition Sorolla à la Fondation Bemberg cet été</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
-      <name>actu_toulouse</name>
+      <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;Par arrêté du 8 juillet 2026, le maire de Toulouse Jean-Luc Moudenc a ordonné l&amp;#x27;évacuation d&amp;#x27;un immeuble de six étages situé au 126 rue Plana, dans l&amp;#x27;est de la ville, occupé illégalement depuis plusieurs mois par une centaine de mineurs isolés étrangers. Deux incendies y ont nécessité l&amp;#x27;intervention des pompiers de Haute-Garonne les 18 et 27 mai 2026, conduisant la mairie à invoquer un « grave danger » pour les occupants. La Cour d&amp;#x27;appel de Toulouse avait déjà prononcé l&amp;#x27;expulsion des occupants le 16 avril 2026, leur accordant quatre mois pour quitter les lieux — délai expirant le 16 août prochain. L&amp;#x27;arrêté municipal a immédiatement fait l&amp;#x27;objet d&amp;#x27;un recours devant le tribunal administratif de Toulouse, dont la décision était attendue au plus tard mercredi 15 juillet, selon France 3 Occitanie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/de-multiples-dangers-apres-un-incendie-le-maire-de-toulouse-demande-l-evacuation-d-un-squat-un-recours-depose_64538384.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/de-multiples-dangers-apres-un-incendie-le-maire-de-toulouse-demande-l-evacuation-d-un-squat-un-recours-depose_64538384.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Par arrêté du 8 juillet 2026, le maire de Toulouse Jean-Luc Moudenc a ordonné l'évacuation d'un immeuble de six étages situé au 126 rue Plana, dans l'est de la ville, occupé illégalement depuis plusieurs mois par une centaine de mineurs isolés étrangers. Deux incendies y ont nécessité l'intervention des pompiers de Haute-Garonne les 18 et 27 mai 2026, conduisant la mairie à invoquer un « grave danger » pour les occupants. La Cour d'appel de Toulouse avait déjà prononcé l'expulsion des occupants le 16 avril 2026, leur accordant quatre mois pour quitter les lieux — délai expirant le 16 août prochain. L'arrêté municipal a immédiatement fait l'objet d'un recours devant le tribunal administratif de Toulouse, dont la décision était attendue au plus tard mercredi 15 juillet, selon France 3 Occitanie.</summary>
-    <category term="news"/>
-    <published>2026-07-14T10:51:50+02:00</published>
+    <content type="html">&lt;p&gt;La Fondation Bemberg propose tout l&amp;#x27;été des visites guidées de l&amp;#x27;exposition « Sorolla, maître de la lumière », consacrée au peintre espagnol Joaquín Sorolla. L&amp;#x27;exposition, fruit d&amp;#x27;un partenariat avec le ministère de la Culture espagnol et le Museo Sorolla, présente ses œuvres les plus emblématiques : scènes de plage, portraits et jardins baignés de lumière. En juillet et août, des visites d&amp;#x27;une heure sont organisées plusieurs fois par semaine — mardi, mercredi et vendredi à 14h, jeudi à 11h, samedi à 11h30 — pour un supplément de 5 € au billet d&amp;#x27;entrée. L&amp;#x27;exposition est accessible jusqu&amp;#x27;au 13 septembre 2026, et le musée souligne qu&amp;#x27;en période de fortes chaleurs, il constitue un refuge agréable et inspirant.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46739"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46739"/>
+    <summary>La Fondation Bemberg propose tout l'été des visites guidées de l'exposition « Sorolla, maître de la lumière », consacrée au peintre espagnol Joaquín Sorolla. L'exposition, fruit d'un partenariat avec le ministère de la Culture espagnol et le Museo Sorolla, présente ses œuvres les plus emblématiques : scènes de plage, portraits et jardins baignés de lumière. En juillet et août, des visites d'une heure sont organisées plusieurs fois par semaine — mardi, mercredi et vendredi à 14h, jeudi à 11h, samedi à 11h30 — pour un supplément de 5 € au billet d'entrée. L'exposition est accessible jusqu'au 13 septembre 2026, et le musée souligne qu'en période de fortes chaleurs, il constitue un refuge agréable et inspirant.</summary>
+    <category term="event"/>
+    <published>2026-07-16T04:09:10.112000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:4bf1d057-b287-4e0e-90df-eb7d01742329</id>
-    <title>Toulouse FC dévoile son nouveau maillot domicile 2026-2027</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
+    <id>cluster:852bd5c6-88e1-44ee-871c-19b04a890058</id>
+    <title>Une boum gratuite au lac de la Reynerie pour clore la saison</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
-      <name>actu_toulouse</name>
+      <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;Le Toulouse FC a présenté son nouveau maillot domicile pour la saison 2026-2027 le 14 juillet, marquant « le retour des rayures iconiques » du club. Les bandes historiques font leur retour dans un design modernisé, en hommage à l&amp;#x27;histoire du TFC. Le maillot était disponible dès le soir du 14 juillet à la boutique officielle du Stadium, à l&amp;#x27;occasion d&amp;#x27;une Fan Zone organisée pour la demi-finale de Coupe du Monde France-Espagne. Il est également en vente sur la boutique en ligne du club et chez les revendeurs officiels à partir du mercredi suivant.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-retour-des-rayures-iconiques-ou-trouver-le-nouveau-maillot-domicile-du-toulouse-fc-devoile-ce-14-juillet_64539176.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/le-retour-des-rayures-iconiques-ou-trouver-le-nouveau-maillot-domicile-du-toulouse-fc-devoile-ce-14-juillet_64539176.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Toulouse FC a présenté son nouveau maillot domicile pour la saison 2026-2027 le 14 juillet, marquant « le retour des rayures iconiques » du club. Les bandes historiques font leur retour dans un design modernisé, en hommage à l'histoire du TFC. Le maillot était disponible dès le soir du 14 juillet à la boutique officielle du Stadium, à l'occasion d'une Fan Zone organisée pour la demi-finale de Coupe du Monde France-Espagne. Il est également en vente sur la boutique en ligne du club et chez les revendeurs officiels à partir du mercredi suivant.</summary>
-    <category term="news"/>
-    <published>2026-07-14T15:35:27+02:00</published>
+    <content type="html">&lt;p&gt;Ce soir à 20h, La Place de la Danse organise une boum d&amp;#x27;une heure au lac de la Reynerie, ouverte gratuitement à tout public à partir de 4 ans. Un musicien, un professeur de boum et une danseuse animeront des jeux de danse collectifs — pogos-polis, slows, danses de grenouille et même un défilé de mode. L&amp;#x27;événement s&amp;#x27;inscrit dans un partenariat entre le centre culturel Alban-Minville et le Centre de développement chorégraphique national, dans le cadre de la programmation « Un été au bord du Lac ». Ce sera aussi l&amp;#x27;occasion de découvrir la saison 2026-2027 de La Place de la Danse, institution qui intégrera la future Cité de la Danse de La Reynerie en 2028.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46738"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46738"/>
+    <summary>Ce soir à 20h, La Place de la Danse organise une boum d'une heure au lac de la Reynerie, ouverte gratuitement à tout public à partir de 4 ans. Un musicien, un professeur de boum et une danseuse animeront des jeux de danse collectifs — pogos-polis, slows, danses de grenouille et même un défilé de mode. L'événement s'inscrit dans un partenariat entre le centre culturel Alban-Minville et le Centre de développement chorégraphique national, dans le cadre de la programmation « Un été au bord du Lac ». Ce sera aussi l'occasion de découvrir la saison 2026-2027 de La Place de la Danse, institution qui intégrera la future Cité de la Danse de La Reynerie en 2028.</summary>
+    <category term="event"/>
+    <published>2026-07-16T04:09:10.112000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:cc6c4df5-4cc1-4a8e-a105-454c538b9510</id>
-    <title>Tisséo envisage d'armer ses agents après une agression à Colomiers</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
+    <id>cluster:258f880d-e55a-4253-99c9-6ba40282f5cb</id>
+    <title>Racé ouvre une poissonnerie grand public place Arnaud Bernard</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
-      <name>actu_toulouse</name>
+      <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;Le 12 juin 2026, un jeune de 17 ans sous protoxyde d&amp;#x27;azote est monté dans un bus Linéo à Colomiers, y a versé de l&amp;#x27;essence et menacé d&amp;#x27;y mettre le feu. L&amp;#x27;intervention des équipes de prévention Tisséo a dégénéré : le père du jeune homme s&amp;#x27;en est pris au personnel, et des individus armés d&amp;#x27;un cric ont blessé deux agents, hospitalisés à Purpan avec des blessures à la paupière et aux doigts. En réaction, Emilion Esnault, adjoint au maire de Toulouse chargé de la sécurité et président de Tisséo Voyageurs, a proposé en conseil d&amp;#x27;administration de lancer un « processus d&amp;#x27;armement » réservé aux seuls agents de prévention de Tisséo. Cette initiative, encore au stade de proposition, vise selon l&amp;#x27;élu à permettre aux agents de se protéger, sans que les modalités concrètes ne soient encore arrêtées.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails de l&amp;#x27;agression et déclarations d&amp;#x27;Emilion Esnault sur la proposition d&amp;#x27;armement&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-agents-tisseo-bientot-armes-a-toulouse-cet-elu-en-fait-la-proposition-apres-une-nouvelle-agression-dans-un-bus_64532269.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/des-agents-tisseo-bientot-armes-a-toulouse-cet-elu-en-fait-la-proposition-apres-une-nouvelle-agression-dans-un-bus_64532269.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le 12 juin 2026, un jeune de 17 ans sous protoxyde d'azote est monté dans un bus Linéo à Colomiers, y a versé de l'essence et menacé d'y mettre le feu. L'intervention des équipes de prévention Tisséo a dégénéré : le père du jeune homme s'en est pris au personnel, et des individus armés d'un cric ont blessé deux agents, hospitalisés à Purpan avec des blessures à la paupière et aux doigts. En réaction, Emilion Esnault, adjoint au maire de Toulouse chargé de la sécurité et président de Tisséo Voyageurs, a proposé en conseil d'administration de lancer un « processus d'armement » réservé aux seuls agents de prévention de Tisséo. Cette initiative, encore au stade de proposition, vise selon l'élu à permettre aux agents de se protéger, sans que les modalités concrètes ne soient encore arrêtées.</summary>
-    <category term="news"/>
-    <published>2026-07-15T06:42:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d2bb7df7-3d4e-43d4-bce9-3fd8cd8e19f5</id>
-    <title>Hush Hush : rooftop de la médiathèque José-Cabanis transformé en beach club</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Cet été, le rooftop de la médiathèque José-Cabanis accueille Hush Hush, un concept éphémère mêlant DJ sets, cuisine raffinée et cocktails dans une ambiance inspirée des beach clubs de Tulum, Ibiza ou Mykonos. Le projet est porté par Raphaël Khalifa, producteur et directeur artistique fort de vingt ans dans la nuit parisienne, qui a déjà lancé le concept Bandidos sur le rooftop d&amp;#x27;Interference l&amp;#x27;an dernier. La restauration est assurée par Léopold et Maxime du Bistrot August, avec un brunch dominical proposé à 34 €, et des collaborations ponctuelles avec d&amp;#x27;autres chefs sont envisagées. L&amp;#x27;événement se tient chaque vendredi, samedi et dimanche depuis début juillet et jusqu&amp;#x27;en septembre.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse insiste sur le profil du fondateur et les détails de la restauration ; Toulouscope met davantage l&amp;#x27;accent sur l&amp;#x27;ambiance et l&amp;#x27;esthétique beach club, avec des références aux destinations internationales.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails sur la restauration, le brunch et le parcours du fondateur&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Ambiance, décor et esprit du lieu, vision du concept&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-nouveau-concept-ephemere-ouvre-ses-portes-sur-le-rooftop-de-la-mediatheque-jose-cabanis-a-toulouse_64533676.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.toulouscope.fr/2026/07/14/sur-le-rooftop-de-la-mediatheque-ambiance-beach-club-avec-hush-hush-13459264.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/un-nouveau-concept-ephemere-ouvre-ses-portes-sur-le-rooftop-de-la-mediatheque-jose-cabanis-a-toulouse_64533676.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Cet été, le rooftop de la médiathèque José-Cabanis accueille Hush Hush, un concept éphémère mêlant DJ sets, cuisine raffinée et cocktails dans une ambiance inspirée des beach clubs de Tulum, Ibiza ou Mykonos. Le projet est porté par Raphaël Khalifa, producteur et directeur artistique fort de vingt ans dans la nuit parisienne, qui a déjà lancé le concept Bandidos sur le rooftop d'Interference l'an dernier. La restauration est assurée par Léopold et Maxime du Bistrot August, avec un brunch dominical proposé à 34 €, et des collaborations ponctuelles avec d'autres chefs sont envisagées. L'événement se tient chaque vendredi, samedi et dimanche depuis début juillet et jusqu'en septembre.</summary>
+    <content type="html">&lt;p&gt;Après huit ans à fournir restaurants et épiceries en produits de la mer d&amp;#x27;exception, l&amp;#x27;entreprise toulousaine Racé franchit une nouvelle étape en ouvrant sa première poissonnerie ouverte au grand public, au 12-13 place Arnaud Bernard. L&amp;#x27;objectif affiché est de démocratiser l&amp;#x27;accès à des poissons de qualité professionnelle, dans un contexte où les poissonneries de quartier se font rares à Toulouse. Le banc sur glace propose des espèces fraîches issues principalement de l&amp;#x27;Atlantique — merlu, thon blanc, bar, dorade de ligne, maigre ou aile de raie — selon les arrivages des criées bretonnes et vendéennes. La boutique complète son offre avec des poissons fumés, des huîtres et des conserves artisanales.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46729"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46729"/>
+    <summary>Après huit ans à fournir restaurants et épiceries en produits de la mer d'exception, l'entreprise toulousaine Racé franchit une nouvelle étape en ouvrant sa première poissonnerie ouverte au grand public, au 12-13 place Arnaud Bernard. L'objectif affiché est de démocratiser l'accès à des poissons de qualité professionnelle, dans un contexte où les poissonneries de quartier se font rares à Toulouse. Le banc sur glace propose des espèces fraîches issues principalement de l'Atlantique — merlu, thon blanc, bar, dorade de ligne, maigre ou aile de raie — selon les arrivages des criées bretonnes et vendéennes. La boutique complète son offre avec des poissons fumés, des huîtres et des conserves artisanales.</summary>
     <category term="place"/>
-    <published>2026-07-13T18:02:01+02:00</published>
+    <published>2026-07-16T04:09:10.112000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:15b015fa-b714-4845-9f92-b1f79b066947</id>
-    <title>Travaux nocturnes sur le périphérique toulousain du 15 au 21 juillet</title>
-    <updated>2026-07-15T05:10:06.899479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
+    <id>cluster:4b8fa7d6-ac99-415e-8d0f-5b8a221f2dbb</id>
+    <title>Exposition impressionniste gratuite au profit de l'association Diabalade</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
       <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;Vinci Autoroutes effectue des travaux de rénovation du marquage au sol sur le périphérique de Toulouse entre le 15 et le 21 juillet 2026, avec des fermetures partielles chaque nuit en semaine de 21h à 6h. Les sections concernées varient selon les nuits : les échangeurs Soupetard (n°16) et Montaudran (n°18) sont touchés en début de semaine, puis les fermetures s&amp;#x27;étendent vers la barrière de Toulouse-sud et le périphérique ouest les nuits du 20 et 21 juillet. Les week-ends sont épargnés et des itinéraires de déviation sont mis en place. Les usagers empruntant le périphérique intérieur (direction Montpellier) ou extérieur (direction Bordeaux/Blagnac/Tarbes) sont principalement affectés.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse détaille précisément chaque nuit de fermeture avec les sections et échangeurs concernés. L&amp;#x27;Essentiel précise que ces travaux font suite à une première phase entamée quinze jours plus tôt, apportant un contexte supplémentaire sur l&amp;#x27;avancement du chantier.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail complet nuit par nuit des sections fermées et des échangeurs concernés&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Contexte de la première phase de travaux et vue d&amp;#x27;ensemble rapide&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/travaux-sur-le-peripherique-de-toulouse-plusieurs-nuits-ces-sections-vont-etre-inaccessibles-ce-qu-il-faut-savoir_64527642.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-15?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46519"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/travaux-sur-le-peripherique-de-toulouse-plusieurs-nuits-ces-sections-vont-etre-inaccessibles-ce-qu-il-faut-savoir_64527642.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Vinci Autoroutes effectue des travaux de rénovation du marquage au sol sur le périphérique de Toulouse entre le 15 et le 21 juillet 2026, avec des fermetures partielles chaque nuit en semaine de 21h à 6h. Les sections concernées varient selon les nuits : les échangeurs Soupetard (n°16) et Montaudran (n°18) sont touchés en début de semaine, puis les fermetures s'étendent vers la barrière de Toulouse-sud et le périphérique ouest les nuits du 20 et 21 juillet. Les week-ends sont épargnés et des itinéraires de déviation sont mis en place. Les usagers empruntant le périphérique intérieur (direction Montpellier) ou extérieur (direction Bordeaux/Blagnac/Tarbes) sont principalement affectés.</summary>
-    <category term="news"/>
-    <published>2026-07-12T06:42:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:08e29a2e-a0d0-49ff-acbb-cc793c642f81</id>
-    <title>Après-midi jeux de société à la bibliothèque de Balma</title>
-    <updated>2026-07-15T08:41:32.574137+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;La bibliothèque de Balma propose des animations jeux de société chaque mercredi après-midi pendant les vacances d&amp;#x27;été. L&amp;#x27;activité est ouverte à tous les publics, sans inscription préalable. Il s&amp;#x27;agit d&amp;#x27;un rendez-vous régulier et accessible, idéal pour les familles et enfants en quête d&amp;#x27;activités pendant les congés. Aucune information sur les horaires précis n&amp;#x27;est précisée dans les sources.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL0ke4&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL0ke4&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL0ke4&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La bibliothèque de Balma propose des animations jeux de société chaque mercredi après-midi pendant les vacances d'été. L'activité est ouverte à tous les publics, sans inscription préalable. Il s'agit d'un rendez-vous régulier et accessible, idéal pour les familles et enfants en quête d'activités pendant les congés. Aucune information sur les horaires précis n'est précisée dans les sources.</summary>
+    <content type="html">&lt;p&gt;La communauté municipale de santé de Toulouse clôture sa saison avec une exposition consacrée aux toiles de Valérie Prats, peintre inscrite dans la tradition impressionniste. Son travail, centré sur la lumière, les couleurs et les jeux d&amp;#x27;ombres, vise à inviter le regard à dépasser les apparences pour laisser place à l&amp;#x27;émotion, selon le chargé d&amp;#x27;exposition Stéphane Mainville. L&amp;#x27;exposition est caritative : les bénéfices iront à Diabalade, une association toulousaine de personnes diabétiques qui organise balades, randonnées et activités sociales pour favoriser l&amp;#x27;entraide et un mode de vie actif. L&amp;#x27;entrée est gratuite et l&amp;#x27;exposition est visible du 16 au 31 juillet au 2 rue Malbec.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46728"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#46728"/>
+    <summary>La communauté municipale de santé de Toulouse clôture sa saison avec une exposition consacrée aux toiles de Valérie Prats, peintre inscrite dans la tradition impressionniste. Son travail, centré sur la lumière, les couleurs et les jeux d'ombres, vise à inviter le regard à dépasser les apparences pour laisser place à l'émotion, selon le chargé d'exposition Stéphane Mainville. L'exposition est caritative : les bénéfices iront à Diabalade, une association toulousaine de personnes diabétiques qui organise balades, randonnées et activités sociales pour favoriser l'entraide et un mode de vie actif. L'entrée est gratuite et l'exposition est visible du 16 au 31 juillet au 2 rue Malbec.</summary>
     <category term="event"/>
-    <published>2026-07-15T04:08:12.825000+00:00</published>
+    <published>2026-07-16T04:09:10.112000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:4eafdc25-3035-4c89-9262-dd7f8df790f2</id>
-    <title>Visite nocturne théâtralisée au domaine de Bonrepos-Riquet</title>
-    <updated>2026-07-15T08:41:32.574137+00:00</updated>
+    <id>cluster:10404d64-de35-4584-a774-8cd0e2ce0701</id>
+    <title>Une bonne soirée</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
       <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;Le domaine de Bonrepos-Riquet, propriété de Pierre-Paul Riquet, inventeur du Canal du Midi, propose des visites théâtralisées à la lampe torche. Une session est organisée ce soir même, et la prochaine date confirmée est le 19 août. Des visites guidées sans réservation sont également disponibles tout l&amp;#x27;été pour les curieux qui souhaitent découvrir le site à leur rythme. Ces animations s&amp;#x27;adressent à tous ceux qui souhaitent en apprendre davantage sur l&amp;#x27;histoire du Canal du Midi et son créateur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL3j-g&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL3j-g&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02HyjjUA0_ueglPXEI3Ge5I36ztxLVfFs1o2kiNL3j-g&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le domaine de Bonrepos-Riquet, propriété de Pierre-Paul Riquet, inventeur du Canal du Midi, propose des visites théâtralisées à la lampe torche. Une session est organisée ce soir même, et la prochaine date confirmée est le 19 août. Des visites guidées sans réservation sont également disponibles tout l'été pour les curieux qui souhaitent découvrir le site à leur rythme. Ces animations s'adressent à tous ceux qui souhaitent en apprendre davantage sur l'histoire du Canal du Midi et son créateur.</summary>
+    <content type="html">&lt;p&gt;Pour ce soir, laissez-vous guider par les propositions de 3T : on commence avec un apéro dinatoire dans la cour , à faire suivre d&amp;#x27;une comédie comme J&amp;#x27;aime beaucoup ce que vous faites .&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02X6nkUA0_ueglPXEI3Gg7636zt1KU~Fs1o2kiNPxj-Y&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeN02X6nkUA0_ueglPXEI3Gg7636zt1KU~Fs1o2kiNPxj-Y&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02X6nkUA0_ueglPXEI3Gg7636zt1KU~Fs1o2kiNPxj-Y&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Pour ce soir, laissez-vous guider par les propositions de 3T : on commence avec un apéro dinatoire dans la cour , à faire suivre d'une comédie comme J'aime beaucoup ce que vous faites .</summary>
     <category term="event"/>
-    <published>2026-07-15T04:08:12.825000+00:00</published>
+    <published>2026-07-16T04:06:05.508000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:2a27045c-bf65-4f20-9d74-526f5c23380d</id>
+    <id>cluster:7434d703-e127-4564-814f-e5830c77a659</id>
+    <title>Avant-première de courts-métrages sur les différences à l'ABC</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Le cinéma ABC accueille ce matin la projection en avant-première du court-métrage « Le monde à l&amp;#x27;envers », inclus dans une programmation de six courts-métrages rassemblés sous le titre « Vous et vos différences ». Cette sélection explore la thématique des différences à travers plusieurs œuvres distinctes. Les réalisateurs du court-métrage « En décalé » seront présents lors de la séance, offrant une occasion d&amp;#x27;échange avec le public. L&amp;#x27;événement s&amp;#x27;adresse aux cinéphiles et à toute personne sensible aux questions d&amp;#x27;inclusion et de diversité.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02X6nkUA0_ueglPXEI3Gg7636zt1KU~Fs1o2kiNPxj-U&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeN02X6nkUA0_ueglPXEI3Gg7636zt1KU~Fs1o2kiNPxj-U&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeN02X6nkUA0_ueglPXEI3Gg7636zt1KU~Fs1o2kiNPxj-U&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le cinéma ABC accueille ce matin la projection en avant-première du court-métrage « Le monde à l'envers », inclus dans une programmation de six courts-métrages rassemblés sous le titre « Vous et vos différences ». Cette sélection explore la thématique des différences à travers plusieurs œuvres distinctes. Les réalisateurs du court-métrage « En décalé » seront présents lors de la séance, offrant une occasion d'échange avec le public. L'événement s'adresse aux cinéphiles et à toute personne sensible aux questions d'inclusion et de diversité.</summary>
+    <category term="event"/>
+    <published>2026-07-16T04:06:05.508000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1ea036f8-8149-46eb-a70e-08f44b26c15b</id>
     <title>15 sorties culturelles incontournables à découvrir à Toulouse</title>
-    <updated>2026-07-15T08:41:32.574137+00:00</updated>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
-    <content type="html">&lt;p&gt;La rédaction de Toulouscope a compilé une sélection de 15 sorties culturelles emblématiques pour explorer Toulouse, qu&amp;#x27;on soit touriste, nouveau résident ou habitant curieux. La liste couvre musique, art, patrimoine et histoire, en insistant sur le fait qu&amp;#x27;il ne s&amp;#x27;agit que d&amp;#x27;un échantillon des richesses de la ville. Parmi les incontournables mis en avant figurent le Muséum d&amp;#x27;histoire naturelle, niché dans le Jardin des Plantes avec plus de deux millions de pièces, et le Quai des Savoirs, dédié aux sciences et à l&amp;#x27;innovation. Le Muséum prépare notamment l&amp;#x27;exposition « Minéraux » du 2 octobre 2026 au 4 juillet 2027, et propose ateliers familles, soirées à thème et un café-restaurant sur place.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Liste complète des 15 sorties culturelles avec adresses et conseils pratiques&lt;/li&gt;&lt;/ul&gt;
+    <content type="html">&lt;p&gt;La rédaction de Toulouscope propose une sélection de 15 sorties culturelles emblématiques à Toulouse, destinée aussi bien aux visiteurs de passage qu&amp;#x27;aux habitants souhaitant redécouvrir leur ville. La liste couvre des domaines variés : musique, art, patrimoine et histoire. Parmi les lieux mis en avant figurent le Muséum d&amp;#x27;histoire naturelle, niché dans le Jardin des Plantes avec plus de deux millions de pièces en collection, et le Quai des Savoirs, centre dédié aux sciences et à l&amp;#x27;innovation. La sélection se veut un échantillon représentatif, non exhaustif, des richesses culturelles que recèle la Ville Rose.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/15/15-sorties-culturelles-emblematiques-a-toulouse-13462928.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/07/15/15-sorties-culturelles-emblematiques-a-toulouse-13462928.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La rédaction de Toulouscope a compilé une sélection de 15 sorties culturelles emblématiques pour explorer Toulouse, qu'on soit touriste, nouveau résident ou habitant curieux. La liste couvre musique, art, patrimoine et histoire, en insistant sur le fait qu'il ne s'agit que d'un échantillon des richesses de la ville. Parmi les incontournables mis en avant figurent le Muséum d'histoire naturelle, niché dans le Jardin des Plantes avec plus de deux millions de pièces, et le Quai des Savoirs, dédié aux sciences et à l'innovation. Le Muséum prépare notamment l'exposition « Minéraux » du 2 octobre 2026 au 4 juillet 2027, et propose ateliers familles, soirées à thème et un café-restaurant sur place.</summary>
+    <summary>La rédaction de Toulouscope propose une sélection de 15 sorties culturelles emblématiques à Toulouse, destinée aussi bien aux visiteurs de passage qu'aux habitants souhaitant redécouvrir leur ville. La liste couvre des domaines variés : musique, art, patrimoine et histoire. Parmi les lieux mis en avant figurent le Muséum d'histoire naturelle, niché dans le Jardin des Plantes avec plus de deux millions de pièces en collection, et le Quai des Savoirs, centre dédié aux sciences et à l'innovation. La sélection se veut un échantillon représentatif, non exhaustif, des richesses culturelles que recèle la Ville Rose.</summary>
     <category term="culture"/>
     <published>2026-07-15T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>cluster:45366ffb-57d3-4109-9e44-ccb46f31852a</id>
-    <title>Une femme de 23 ans grièvement blessée après une chute à Montaudran</title>
-    <updated>2026-07-15T08:41:32.574137+00:00</updated>
+    <id>cluster:a4f96179-a335-4e4d-9bd6-070ea3acd918</id>
+    <title>Défaite des Bleus en demi-finale : la déception sur la fan zone toulousaine</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Dans la soirée du 14 juillet 2026, une femme de 23 ans a chuté du quatrième étage d&amp;#x27;un immeuble chemin des Tuileries, dans le quartier de Montaudran, à la limite de Saint-Orens-de-Gameville. Les pompiers, alertés peu avant 23h, l&amp;#x27;ont retrouvée consciente au sol dans un jardin intérieur. Grièvement blessée et avec un pronostic vital engagé, elle a été transportée par le SMUR à l&amp;#x27;hôpital Purpan. Une enquête a été ouverte pour déterminer les circonstances exactes de la chute ; la piste d&amp;#x27;une tentative de suicide est privilégiée, des témoins ayant déclaré l&amp;#x27;avoir vue sauter.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-personne-chute-du-4e-etage-d-un-immeuble-a-toulouse-la-victime-gravement-blessee_64540141.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/une-personne-chute-du-4e-etage-d-un-immeuble-a-toulouse-la-victime-gravement-blessee_64540141.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Dans la soirée du 14 juillet 2026, une femme de 23 ans a chuté du quatrième étage d'un immeuble chemin des Tuileries, dans le quartier de Montaudran, à la limite de Saint-Orens-de-Gameville. Les pompiers, alertés peu avant 23h, l'ont retrouvée consciente au sol dans un jardin intérieur. Grièvement blessée et avec un pronostic vital engagé, elle a été transportée par le SMUR à l'hôpital Purpan. Une enquête a été ouverte pour déterminer les circonstances exactes de la chute ; la piste d'une tentative de suicide est privilégiée, des témoins ayant déclaré l'avoir vue sauter.</summary>
-    <category term="news"/>
-    <published>2026-07-15T07:47:29+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:28a5f55c-8ab7-44c2-ada7-41fc38ce39dc</id>
-    <title>Défaite des Bleus en demi-finale : la déception à Toulouse</title>
-    <updated>2026-07-15T08:41:32.574137+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Plus de 10 000 supporters s&amp;#x27;étaient réunis sur la fan zone du parvis du Stadium de Toulouse pour suivre France-Espagne, demi-finale de la Coupe du Monde 2026. L&amp;#x27;ambiance était électrique avant le coup d&amp;#x27;envoi, avec chants de la Marseillaise et pronostics optimistes. Mais l&amp;#x27;Espagne a rapidement douché les espoirs en marquant deux buts, s&amp;#x27;imposant 2-0 et se qualifiant pour la finale. Le parvis s&amp;#x27;est vidé dans le calme après la rencontre ; les Bleus joueront le match pour la troisième place ce samedi 18 juillet à 23h.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Plus de 10 000 supporters s&amp;#x27;étaient rassemblés sur le parvis du Stadium de Toulouse pour suivre la demi-finale de la Coupe du Monde opposant la France à l&amp;#x27;Espagne, le mardi 14 juillet 2026. L&amp;#x27;ambiance était électrique avant le coup d&amp;#x27;envoi, avec chants, olas et clappings géants, mais un premier but espagnol a rapidement refroidi l&amp;#x27;enthousiasme. La Roja s&amp;#x27;est finalement imposée 2-0 et décroche son billet pour la finale, laissant les supporters dans la déception. Le parvis s&amp;#x27;est vidé dans le calme et sans incident ; les Bleus joueront la troisième place ce samedi 18 juillet à 23h.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Reportage photo et ambiance de la fan zone toulousaine lors de la défaite des Bleus&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-en-images-la-deception-a-toulouse-apres-la-defaite-des-bleus-en-demi-finale_64540283.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-en-images-la-deception-a-toulouse-apres-la-defaite-des-bleus-en-demi-finale_64540283.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Plus de 10 000 supporters s'étaient réunis sur la fan zone du parvis du Stadium de Toulouse pour suivre France-Espagne, demi-finale de la Coupe du Monde 2026. L'ambiance était électrique avant le coup d'envoi, avec chants de la Marseillaise et pronostics optimistes. Mais l'Espagne a rapidement douché les espoirs en marquant deux buts, s'imposant 2-0 et se qualifiant pour la finale. Le parvis s'est vidé dans le calme après la rencontre ; les Bleus joueront le match pour la troisième place ce samedi 18 juillet à 23h.</summary>
+    <summary>Plus de 10 000 supporters s'étaient rassemblés sur le parvis du Stadium de Toulouse pour suivre la demi-finale de la Coupe du Monde opposant la France à l'Espagne, le mardi 14 juillet 2026. L'ambiance était électrique avant le coup d'envoi, avec chants, olas et clappings géants, mais un premier but espagnol a rapidement refroidi l'enthousiasme. La Roja s'est finalement imposée 2-0 et décroche son billet pour la finale, laissant les supporters dans la déception. Le parvis s'est vidé dans le calme et sans incident ; les Bleus joueront la troisième place ce samedi 18 juillet à 23h.</summary>
     <category term="news"/>
     <published>2026-07-15T09:44:12+02:00</published>
   </entry>
   <entry>
-    <id>cluster:9d663b1b-8e1d-4757-b50d-aa27a29f7aae</id>
-    <title>Ligne C du métro : tunneliers en action, circulation modifiée dès juillet</title>
-    <updated>2026-07-15T08:41:32.574137+00:00</updated>
+    <id>cluster:cf07bcad-dc80-4d77-a349-ff8211df6f4b</id>
+    <title>900 dessinateurs du monde entier croquent Toulouse en juillet</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;p&gt;Deux tunneliers — Lise Enjalbert (n°2) et Berthe de Puybusque (n°3) — ont repris leurs creusements respectivement le 6 et le 8 juillet 2026, portant à cinq le nombre de machines engagées sur le chantier de la future ligne C reliant Colomiers à Labège. L&amp;#x27;avancement global reste inégal : si le tunnelier n°5 a achevé ses 4,2 km et le n°4 approche de la fin, le n°1 n&amp;#x27;en est qu&amp;#x27;à 43 % de son parcours, avec une livraison prévue fin 2028 sous réserve du calendrier. En parallèle, le chantier va avoir des répercussions directes en centre-ville : à partir du 22 juillet 2026, des modifications de circulation importantes sont prévues autour du carrefour rue des Frères-Lion / allées François-Verdier, pour la création d&amp;#x27;un ouvrage souterrain connectant les lignes B et C. La rue des Frères-Lion sera mise en impasse depuis la place Dupuy, et la circulation sur les boulevards côté rue de Metz sera déviée allée François-Verdier pour une durée d&amp;#x27;environ un an.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article (Tisséo, 10 juillet) dresse un bilan technique de l&amp;#x27;avancement des cinq tunneliers. Le second (Toulouse Métropole, avant le 22 juillet) se concentre sur les impacts concrets pour les automobilistes et riverains du centre-ville.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (tunneliers)&lt;/strong&gt;: Bilan détaillé de l&amp;#x27;avancement des cinq tunneliers et des kilomètres parcourus&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (circulation)&lt;/strong&gt;: Modifications de circulation au centre-ville à partir du 22 juillet, itinéraires impactés&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/deux-tunneliers-creusent-de-nouveau-le-sous-sol-de-toulouse-ou-en-est-le-chantier-de-la-ligne-c-du-metro_64523759.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/chantier-de-la-ligne-c-du-metro-au-centre-ville-de-toulouse-des-modifications-de-circulation-importantes-a-venir_64539348.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/deux-tunneliers-creusent-de-nouveau-le-sous-sol-de-toulouse-ou-en-est-le-chantier-de-la-ligne-c-du-metro_64523759.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Deux tunneliers — Lise Enjalbert (n°2) et Berthe de Puybusque (n°3) — ont repris leurs creusements respectivement le 6 et le 8 juillet 2026, portant à cinq le nombre de machines engagées sur le chantier de la future ligne C reliant Colomiers à Labège. L'avancement global reste inégal : si le tunnelier n°5 a achevé ses 4,2 km et le n°4 approche de la fin, le n°1 n'en est qu'à 43 % de son parcours, avec une livraison prévue fin 2028 sous réserve du calendrier. En parallèle, le chantier va avoir des répercussions directes en centre-ville : à partir du 22 juillet 2026, des modifications de circulation importantes sont prévues autour du carrefour rue des Frères-Lion / allées François-Verdier, pour la création d'un ouvrage souterrain connectant les lignes B et C. La rue des Frères-Lion sera mise en impasse depuis la place Dupuy, et la circulation sur les boulevards côté rue de Metz sera déviée allée François-Verdier pour une durée d'environ un an.</summary>
+    <content type="html">&lt;p&gt;Du 15 au 18 juillet 2026, quelque 900 Urban Sketchers venus des quatre coins du monde investiront les rues de Toulouse pour dessiner la ville sur le vif. C&amp;#x27;est la première fois que cet événement international fait escale en France, et Toulouse a été choisie pour accueillir cette 14e édition, après des villes comme Buenos Aires, Chicago ou Oakland. Professionnels et amateurs se retrouveront dans les quartiers pittoresques et touristiques de la Ville rose pour croquer rues, bâtiments, la Garonne et des instants de vie, à l&amp;#x27;aquarelle, au stylo, à la gouache ou à l&amp;#x27;acrylique. L&amp;#x27;événement, porté localement par l&amp;#x27;association « Dessiner sur le vif », mise sur la rencontre, la pédagogie et le dessin comme témoignage visuel du lieu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-centaines-d-artistes-venus-du-monde-entier-vont-dessiner-toulouse-sous-les-yeux-du-public_64534680.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/des-centaines-d-artistes-venus-du-monde-entier-vont-dessiner-toulouse-sous-les-yeux-du-public_64534680.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Du 15 au 18 juillet 2026, quelque 900 Urban Sketchers venus des quatre coins du monde investiront les rues de Toulouse pour dessiner la ville sur le vif. C'est la première fois que cet événement international fait escale en France, et Toulouse a été choisie pour accueillir cette 14e édition, après des villes comme Buenos Aires, Chicago ou Oakland. Professionnels et amateurs se retrouveront dans les quartiers pittoresques et touristiques de la Ville rose pour croquer rues, bâtiments, la Garonne et des instants de vie, à l'aquarelle, au stylo, à la gouache ou à l'acrylique. L'événement, porté localement par l'association « Dessiner sur le vif », mise sur la rencontre, la pédagogie et le dessin comme témoignage visuel du lieu.</summary>
+    <category term="event"/>
+    <published>2026-07-15T11:18:32+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:de19386d-fdc7-424c-8e15-6d69ff47be19</id>
+    <title>Pas de fan zone à Toulouse pour la petite finale des Bleus</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Battue par l&amp;#x27;Espagne (0-2) en demi-finale de la Coupe du monde ce mardi soir, l&amp;#x27;équipe de France jouera la petite finale samedi 18 juillet 2026 à 23h contre l&amp;#x27;Argentine ou l&amp;#x27;Angleterre. Les 10 000 supporters qui s&amp;#x27;étaient rassemblés au Stadium de Toulouse pour le match des demi-finales ne pourront pas se retrouver au même endroit pour cette rencontre. La Ville de Toulouse confirme à Actu Toulouse qu&amp;#x27;il n&amp;#x27;y aura pas de fan zone pour la petite finale : l&amp;#x27;infrastructure a été démontée dès mardi soir. La mairie avait conditionné dès le départ l&amp;#x27;organisation de la fan zone à une qualification en quart, en demi puis en finale — la petite finale n&amp;#x27;étant pas concernée, l&amp;#x27;enjeu limité et l&amp;#x27;horaire tardif ont scellé la décision.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/petite-finale-de-la-france-a-la-coupe-du-monde-a-toulouse-la-fan-zone-sera-t-elle-encore-ouverte-au-stadium_64541838.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/petite-finale-de-la-france-a-la-coupe-du-monde-a-toulouse-la-fan-zone-sera-t-elle-encore-ouverte-au-stadium_64541838.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Battue par l'Espagne (0-2) en demi-finale de la Coupe du monde ce mardi soir, l'équipe de France jouera la petite finale samedi 18 juillet 2026 à 23h contre l'Argentine ou l'Angleterre. Les 10 000 supporters qui s'étaient rassemblés au Stadium de Toulouse pour le match des demi-finales ne pourront pas se retrouver au même endroit pour cette rencontre. La Ville de Toulouse confirme à Actu Toulouse qu'il n'y aura pas de fan zone pour la petite finale : l'infrastructure a été démontée dès mardi soir. La mairie avait conditionné dès le départ l'organisation de la fan zone à une qualification en quart, en demi puis en finale — la petite finale n'étant pas concernée, l'enjeu limité et l'horaire tardif ont scellé la décision.</summary>
     <category term="news"/>
-    <published>2026-07-10T17:02:01+02:00</published>
+    <published>2026-07-15T13:00:25+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:97b1e81d-5763-46a3-9d6e-3e2464bb55f6</id>
+    <title>Le restaurant Le Point d'Ogre rouvre après deux mois de fermeture administrative</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le restaurant Le Point d&amp;#x27;Ogre, institution toulousaine du centre-ville ouverte depuis 1994, rouvre ses portes le mercredi 15 juillet 2026 lors du service du soir. L&amp;#x27;établissement avait été contraint de fermer administrativement en mai 2026 en raison d&amp;#x27;une fragilité structurelle détectée sur un mur de cuisine. Des travaux de consolidation menés par la copropriété ont permis de lever cette contrainte. Franck Couso, gérant depuis dix ans, se dit soulagé et évoque une cuisine de « grand-mère » de qualité, servie par une équipe de sept personnes qui retrouve enfin son cadre de travail.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/sa-fermeture-soudaine-avait-ete-un-choc-ce-restaurant-incontournable-de-toulouse-rouvre-apres-des-travaux-d-urgence_64541449.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/sa-fermeture-soudaine-avait-ete-un-choc-ce-restaurant-incontournable-de-toulouse-rouvre-apres-des-travaux-d-urgence_64541449.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le restaurant Le Point d'Ogre, institution toulousaine du centre-ville ouverte depuis 1994, rouvre ses portes le mercredi 15 juillet 2026 lors du service du soir. L'établissement avait été contraint de fermer administrativement en mai 2026 en raison d'une fragilité structurelle détectée sur un mur de cuisine. Des travaux de consolidation menés par la copropriété ont permis de lever cette contrainte. Franck Couso, gérant depuis dix ans, se dit soulagé et évoque une cuisine de « grand-mère » de qualité, servie par une équipe de sept personnes qui retrouve enfin son cadre de travail.</summary>
+    <category term="news"/>
+    <published>2026-07-15T16:04:14+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a</id>
+    <title>Marché de Noël 2026 : nouveau organisateur, patinoire étendue et nouvelle scénographie</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le nouvel organisateur du marché de Noël de Toulouse, 2A Organisation, a dévoilé les grandes lignes de l&amp;#x27;édition 2026, annoncées dès juillet. L&amp;#x27;événement se tiendra du 26 novembre au 27 décembre 2026 sur plusieurs sites emblématiques : place du Capitole, cour Henri IV, square Charles-de-Gaulle et allées Jean-Jaurès. La patinoire de la place du Capitole est maintenue et même prolongée jusqu&amp;#x27;au 3 janvier 2027 pour offrir une expérience hivernale plus longue aux visiteurs. Une nouvelle scénographie est également prévue pour créer une atmosphère cohérente et féerique sur l&amp;#x27;ensemble des sites, avec pour objectif de renforcer l&amp;#x27;identité de l&amp;#x27;événement et de fluidifier la circulation du public.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/marche-de-noel-de-toulouse-scenographie-retravaillee-patinoire-le-nouvel-organisateur-devoile-ce-qui-va-changer_64542177.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/marche-de-noel-de-toulouse-scenographie-retravaillee-patinoire-le-nouvel-organisateur-devoile-ce-qui-va-changer_64542177.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le nouvel organisateur du marché de Noël de Toulouse, 2A Organisation, a dévoilé les grandes lignes de l'édition 2026, annoncées dès juillet. L'événement se tiendra du 26 novembre au 27 décembre 2026 sur plusieurs sites emblématiques : place du Capitole, cour Henri IV, square Charles-de-Gaulle et allées Jean-Jaurès. La patinoire de la place du Capitole est maintenue et même prolongée jusqu'au 3 janvier 2027 pour offrir une expérience hivernale plus longue aux visiteurs. Une nouvelle scénographie est également prévue pour créer une atmosphère cohérente et féerique sur l'ensemble des sites, avec pour objectif de renforcer l'identité de l'événement et de fluidifier la circulation du public.</summary>
+    <category term="event"/>
+    <published>2026-07-15T17:04:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9ce50e61-1c0e-4a58-91f4-044de1e78580</id>
+    <title>Canicule : hausse de 10 % de l'activité aux urgences du CHU Toulouse</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Depuis le samedi 11 juillet 2026, le Samu 31 reçoit environ 1 200 appels par jour et les urgences du CHU de Toulouse enregistrent quelque 390 passages quotidiens, soit une hausse d&amp;#x27;environ 10 % par rapport à la même période l&amp;#x27;an dernier. La canicule en est la principale cause : le Dr Pierre Roucolle, directeur adjoint du pôle urgences-Samu 31, signale une nette augmentation des cas d&amp;#x27;hyperthermie maligne, notamment chez des patients âgés souffrant de pathologies chroniques, dont certains ont dû être hospitalisés en urgence vitale. Les plus jeunes ne sont pas épargnés : des malaises ont été constatés chez des personnes sans antécédents, fragilisées par la fatigue accumulée et les nuits difficiles, ainsi qu&amp;#x27;autour des fan zones où le public restait longuement exposé à la chaleur. Les soignants insistent sur les risques graves liés à l&amp;#x27;hyperthermie — coma, atteinte rénale — et la nécessité de se refroidir rapidement dès les premiers symptômes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-a-toulouse-pourquoi-le-samu-et-les-urgences-du-chu-de-toulouse-enregistrent-une-hausse-de-leur-activite_64543187.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-a-toulouse-pourquoi-le-samu-et-les-urgences-du-chu-de-toulouse-enregistrent-une-hausse-de-leur-activite_64543187.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis le samedi 11 juillet 2026, le Samu 31 reçoit environ 1 200 appels par jour et les urgences du CHU de Toulouse enregistrent quelque 390 passages quotidiens, soit une hausse d'environ 10 % par rapport à la même période l'an dernier. La canicule en est la principale cause : le Dr Pierre Roucolle, directeur adjoint du pôle urgences-Samu 31, signale une nette augmentation des cas d'hyperthermie maligne, notamment chez des patients âgés souffrant de pathologies chroniques, dont certains ont dû être hospitalisés en urgence vitale. Les plus jeunes ne sont pas épargnés : des malaises ont été constatés chez des personnes sans antécédents, fragilisées par la fatigue accumulée et les nuits difficiles, ainsi qu'autour des fan zones où le public restait longuement exposé à la chaleur. Les soignants insistent sur les risques graves liés à l'hyperthermie — coma, atteinte rénale — et la nécessité de se refroidir rapidement dès les premiers symptômes.</summary>
+    <category term="news"/>
+    <published>2026-07-15T17:32:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c8d934e0-c967-495e-9a78-e1538b679a7c</id>
+    <title>La canicule fait exploser les ventes dans les commerces toulousains</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Face à l&amp;#x27;épisode de canicule qui frappe la France en juillet 2026, les commerces toulousains spécialisés dans les produits rafraîchissants connaissent une demande exceptionnelle. Ventilateurs, piscines gonflables et climatiseurs mobiles sont pris d&amp;#x27;assaut, au point que plusieurs enseignes ont épuisé leurs stocks bien avant la fin de l&amp;#x27;été. Midica, enseigne du centre-ville, a vu ses rayons se vider en quelques jours, tandis que le Bricomarché de Compans-Cafferelli est en rupture de ventilateurs depuis un mois. Si ces ventes record semblent profitables en apparence, l&amp;#x27;article soulève une réalité plus nuancée : les commerçants peinent à se réapprovisionner et ont déjà vendu en trois semaines ce qui était prévu pour tout l&amp;#x27;été.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/en-trois-semaines-on-a-vendu-ce-qu-on-avait-prevu-pour-l-ete-ces-commerces-de-toulouse-qui-profitent-de-la-canicule_64541421.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/en-trois-semaines-on-a-vendu-ce-qu-on-avait-prevu-pour-l-ete-ces-commerces-de-toulouse-qui-profitent-de-la-canicule_64541421.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Face à l'épisode de canicule qui frappe la France en juillet 2026, les commerces toulousains spécialisés dans les produits rafraîchissants connaissent une demande exceptionnelle. Ventilateurs, piscines gonflables et climatiseurs mobiles sont pris d'assaut, au point que plusieurs enseignes ont épuisé leurs stocks bien avant la fin de l'été. Midica, enseigne du centre-ville, a vu ses rayons se vider en quelques jours, tandis que le Bricomarché de Compans-Cafferelli est en rupture de ventilateurs depuis un mois. Si ces ventes record semblent profitables en apparence, l'article soulève une réalité plus nuancée : les commerçants peinent à se réapprovisionner et ont déjà vendu en trois semaines ce qui était prévu pour tout l'été.</summary>
+    <category term="news"/>
+    <published>2026-07-16T06:02:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:015a276a-8042-4bbe-ba1d-01796a7593d6</id>
+    <title>Cambriolages : Toulouse renforce son dispositif de sécurité cet été</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Avec le début des vacances d&amp;#x27;été le 4 juillet 2026, la mairie de Toulouse a activé un plan renforcé contre les cambriolages. La Police municipale déploie des patrouilles dédiées dans les zones pavillonnaires et résidentielles, en coordination étroite avec la Police nationale et la vidéosurveillance. Le dispositif s&amp;#x27;appuie également sur le réseau des « Voisins référents », lancé en 2017 et officialisé en 2019 avec la Préfecture, qui monte en puissance cet été. Les habitants qui quittent Toulouse pour les vacances sont les premiers concernés par ces mesures de prévention.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail des mesures opérationnelles : patrouilles, vidéosurveillance et réseau citoyen&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/patrouilles-de-police-renforcees-voisins-referents-comment-s-organise-la-lutte-contre-les-cambriolages-a-toulouse_64536062.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/patrouilles-de-police-renforcees-voisins-referents-comment-s-organise-la-lutte-contre-les-cambriolages-a-toulouse_64536062.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Avec le début des vacances d'été le 4 juillet 2026, la mairie de Toulouse a activé un plan renforcé contre les cambriolages. La Police municipale déploie des patrouilles dédiées dans les zones pavillonnaires et résidentielles, en coordination étroite avec la Police nationale et la vidéosurveillance. Le dispositif s'appuie également sur le réseau des « Voisins référents », lancé en 2017 et officialisé en 2019 avec la Préfecture, qui monte en puissance cet été. Les habitants qui quittent Toulouse pour les vacances sont les premiers concernés par ces mesures de prévention.</summary>
+    <category term="news"/>
+    <published>2026-07-16T06:42:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ac31f798-a756-4d4f-a2d3-99195bafb120</id>
+    <title>Le marché des Carmes étend ses horaires dès le 25 septembre</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Après six semaines de test entre juin et juillet, le marché couvert des Carmes à Toulouse a décidé d&amp;#x27;élargir ses horaires de façon permanente à partir du 25 septembre. Les jeudis et vendredis, le marché restera désormais ouvert jusqu&amp;#x27;en soirée, et non plus seulement le matin. L&amp;#x27;initiative répond à une évolution des modes de vie : selon Clément Authié, vice-président de l&amp;#x27;association des marchés, l&amp;#x27;inflation pousse de nombreuses personnes à cumuler plusieurs emplois, les empêchant de faire leurs courses le matin. Le bilan du test a surpris les organisateurs, qui ont attiré une clientèle de touristes et de nouveaux habitués plutôt que de simples habitués du matin décalant leur visite.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/apres-six-semaines-de-test-le-marche-des-carmes-a-toulouse-modifie-ses-horaires-voici-ce-qui-va-changer-en-septembre_64533495.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/apres-six-semaines-de-test-le-marche-des-carmes-a-toulouse-modifie-ses-horaires-voici-ce-qui-va-changer-en-septembre_64533495.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Après six semaines de test entre juin et juillet, le marché couvert des Carmes à Toulouse a décidé d'élargir ses horaires de façon permanente à partir du 25 septembre. Les jeudis et vendredis, le marché restera désormais ouvert jusqu'en soirée, et non plus seulement le matin. L'initiative répond à une évolution des modes de vie : selon Clément Authié, vice-président de l'association des marchés, l'inflation pousse de nombreuses personnes à cumuler plusieurs emplois, les empêchant de faire leurs courses le matin. Le bilan du test a surpris les organisateurs, qui ont attiré une clientèle de touristes et de nouveaux habitués plutôt que de simples habitués du matin décalant leur visite.</summary>
+    <category term="news"/>
+    <published>2026-07-16T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:86acfd63-6aff-4c69-a52a-96661e4b692a</id>
+    <title>Canicule à Toulouse : la mairie renforce les espaces fraîcheur</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Face à une nouvelle vague de canicule avec des températures pouvant atteindre 44 à 45°C en début de semaine prochaine, la mairie de Toulouse a activé son plan « Toulouse + fraîche ». Plusieurs espaces climatisés sont ouverts au public jusqu&amp;#x27;à 20h, dont des restaurants seniors, la Maison Toulouse Service, l&amp;#x27;espace seniors La Terrasse et le centre culturel Henri-Desbals — accessibles à tous de 14h à 20h jusqu&amp;#x27;au 14 juillet. Les piscines municipales prolongent leurs horaires et proposent un tarif réduit à 1€ (au lieu de 3,40€), tandis que 14 parcs et jardins restent ouverts jusqu&amp;#x27;à 23h. La médiathèque Cabanis accueille également le public au frais jusqu&amp;#x27;à 21h du mardi au samedi, et la base de loisirs de la Reynerie ainsi que la Ramée Plage sont accessibles jusqu&amp;#x27;à 20h.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse et L&amp;#x27;Essentiel se concentrent sur les mesures officielles de la mairie avec les horaires précis. Toulouscope adopte un angle pratique et guide, en ajoutant des spots de baignade hors Toulouse (Aqualudia à Muret, Colomiers, lacs alentour) pour les Toulousains qui souhaitent s&amp;#x27;éloigner de la ville.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail des horaires des piscines et des espaces fraîcheur officiels&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble synthétique incluant centres de loisirs et médiathèque Cabanis&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Guide pratique avec spots de baignade dans et autour de Toulouse&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-face-aux-pics-de-chaleur-la-mairie-renforce-son-offre-d-espaces-fraicheur-dans-toulouse_64517484.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-10?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#46258"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.toulouscope.fr/2026/07/15/la-canicule-est-de-retour-ou-se-rafraichir-a-toulouse-13455260.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-face-aux-pics-de-chaleur-la-mairie-renforce-son-offre-d-espaces-fraicheur-dans-toulouse_64517484.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Face à une nouvelle vague de canicule avec des températures pouvant atteindre 44 à 45°C en début de semaine prochaine, la mairie de Toulouse a activé son plan « Toulouse + fraîche ». Plusieurs espaces climatisés sont ouverts au public jusqu'à 20h, dont des restaurants seniors, la Maison Toulouse Service, l'espace seniors La Terrasse et le centre culturel Henri-Desbals — accessibles à tous de 14h à 20h jusqu'au 14 juillet. Les piscines municipales prolongent leurs horaires et proposent un tarif réduit à 1€ (au lieu de 3,40€), tandis que 14 parcs et jardins restent ouverts jusqu'à 23h. La médiathèque Cabanis accueille également le public au frais jusqu'à 21h du mardi au samedi, et la base de loisirs de la Reynerie ainsi que la Ramée Plage sont accessibles jusqu'à 20h.</summary>
+    <category term="news"/>
+    <published>2026-07-09T12:17:39+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:53081bb8-e7b8-4e90-9383-942f598bdc3f</id>
+    <title>Canicule et orages sur Toulouse : un épisode historique en cours</title>
+    <updated>2026-07-16T07:23:11.379887+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Toulouse traverse depuis mi-juin un troisième épisode caniculaire en l&amp;#x27;espace d&amp;#x27;un mois et demi, avec des températures record attendues autour de 44-45°C le lundi 13 juillet 2026, selon un ancien prévisionniste de Météo France — un seuil jamais atteint dans la vallée de la Garonne, où le record absolu est de 42,4°C (août 2023). La Haute-Garonne a été placée successivement en vigilance orange puis rouge canicule, tandis que des orages ponctuels ont traversé la région les 10, 11 et 15 juillet, sans apporter de véritable fraîcheur — les températures nocturnes restant entre 21 et 23°C. Un épisode notable de friction citoyenne a émergé le vendredi 10 juillet : la mairie a fermé tous les parcs et jardins pour risque de vents violents (rafales jusqu&amp;#x27;à 80 km/h), suscitant des critiques sur les réseaux sociaux alors que les habitants cherchaient des îlots de fraîcheur. La baisse significative des températures n&amp;#x27;est attendue qu&amp;#x27;à partir du vendredi 18 juillet, avec un retour sous les 30°C prévu à Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les articles couvrent la même vague de chaleur mais adoptent des angles différents : alertes météo en temps réel, projections à long terme (44-45°C possibles), gestion municipale contestée (fermeture des parcs), et suivi jour par jour des vigilances départementales. L&amp;#x27;article sur les 44-45°C repose sur un modèle unique et un seul expert, ce qui lui confère un caractère plus spéculatif que les autres.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – canicule 44-45°&lt;/strong&gt;: Projections extrêmes et contexte climatique à long terme&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – parcs fermés&lt;/strong&gt;: Réaction citoyenne et gestion municipale de la canicule&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – vigilance rouge&lt;/strong&gt;: État des vigilances par département en Occitanie&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – baisse des températures 15 juillet&lt;/strong&gt;: Quand la chaleur va-t-elle enfin baisser ?&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-des-temperatures-entre-44-et-45-a-toulouse-selon-un-modele-meteo-cela-pourrait-arriver-d-ici-quelques-jours_64514343.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-orages-annonces-sur-toulouse-et-la-haute-garonne-a-quoi-faut-il-s-attendre_64520014.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-canicule-ecrase-toulouse-et-la-haute-garonne-voici-quand-les-temperatures-vont-enfin-baisser_64521939.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pas-un-brin-d-air-et-les-grilles-sont-fermees-pourquoi-en-pleine-canicule-les-parcs-sont-fermes-vendredi-a-toulouse_64525792.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/risque-d-orages-pour-plusieurs-departements-d-occitanie-ou-cela-pourrait-tomber-apres-debut-de-journee-electrique_64529156.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/quatre-departements-d-occitanie-basculent-en-vigilance-rouge-canicule-voici-les-secteurs-ou-il-va-faire-le-plus-chaud_64530483.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/risque-d-orages-en-haute-garonne-plusieurs-secteurs-concernes-la-baisse-des-temperatures-se-profile-enfin_64540844.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-des-temperatures-entre-44-et-45-a-toulouse-selon-un-modele-meteo-cela-pourrait-arriver-d-ici-quelques-jours_64514343.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse traverse depuis mi-juin un troisième épisode caniculaire en l'espace d'un mois et demi, avec des températures record attendues autour de 44-45°C le lundi 13 juillet 2026, selon un ancien prévisionniste de Météo France — un seuil jamais atteint dans la vallée de la Garonne, où le record absolu est de 42,4°C (août 2023). La Haute-Garonne a été placée successivement en vigilance orange puis rouge canicule, tandis que des orages ponctuels ont traversé la région les 10, 11 et 15 juillet, sans apporter de véritable fraîcheur — les températures nocturnes restant entre 21 et 23°C. Un épisode notable de friction citoyenne a émergé le vendredi 10 juillet : la mairie a fermé tous les parcs et jardins pour risque de vents violents (rafales jusqu'à 80 km/h), suscitant des critiques sur les réseaux sociaux alors que les habitants cherchaient des îlots de fraîcheur. La baisse significative des températures n'est attendue qu'à partir du vendredi 18 juillet, avec un retour sous les 30°C prévu à Toulouse.</summary>
+    <category term="news"/>
+    <published>2026-07-08T16:40:41+02:00</published>
   </entry>
 </feed>

@@ -1,0 +1,65 @@
+[
+  {
+    "cluster_id": "cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Cinéma en plein air à la Cinémathèque : 44 films cet été",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-CINEMA-PLEIN-AIR.jpg",
+    "file": "cluster_b051345f-2bd7-46c6-9e1b-92f7c6b253ed_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:54758bd0-4ca5-412b-90d5-b831886de850",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "L'été Caouec revient gratuitement au parc du Ritouret à Blagnac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/ete-caouc-blagnac.jpg?itok=GJe-rTwJ",
+    "file": "cluster_54758bd0-4ca5-412b-90d5-b831886de850_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cf07bcad-dc80-4d77-a349-ff8211df6f4b",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "900 dessinateurs du monde entier croquent Toulouse en juillet",
+    "image_url": "https://static.actu.fr/uploads/2026/07/dessinateurs.jpg",
+    "file": "cluster_cf07bcad-dc80-4d77-a349-ff8211df6f4b_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:4b8fa7d6-ac99-415e-8d0f-5b8a221f2dbb",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition impressionniste gratuite au profit de l'association Diabalade",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/valerie-prats.jpg?h=4861ac59&itok=r0zAkscV",
+    "file": "cluster_4b8fa7d6-ac99-415e-8d0f-5b8a221f2dbb_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:7434d703-e127-4564-814f-e5830c77a659",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Avant-première de courts-métrages sur les différences à l'ABC",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-07/le-monde-aff-site.jpg?itok=gY1nyLS7",
+    "file": "cluster_7434d703-e127-4564-814f-e5830c77a659_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:852bd5c6-88e1-44ee-871c-19b04a890058",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Une boum gratuite au lac de la Reynerie pour clore la saison",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/jeunes-danse-adobestock_327586933.jpg?itok=3TQ23piP",
+    "file": "cluster_852bd5c6-88e1-44ee-871c-19b04a890058_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f3e8e412-2cc9-4016-8050-1fd4fca87907",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Visites guidées de l'exposition Sorolla à la Fondation Bemberg cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/sorolla---chp.jpg?h=e795887c&itok=kKnyCypr",
+    "file": "cluster_f3e8e412-2cc9-4016-8050-1fd4fca87907_event_story.jpg"
+  }
+]
