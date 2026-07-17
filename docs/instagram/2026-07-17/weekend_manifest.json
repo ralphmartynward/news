@@ -1,0 +1,107 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-07-18",
+  "sunday": "2026-07-19",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:3d80046d-7e08-4787-ac5a-279aaf2f12b7",
+      "title": "Sophrovisite : bien-être et patrimoine dans un jardin japonais"
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:60f40c38-972c-4cc7-8e1c-eaf343e5de35",
+      "title": "Concert intimiste flûte, piano et saxophone au Musée des Augustins"
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d5d388b2-c079-422a-ae7a-d6c54a33b658",
+      "title": "Concerts et découvertes musicales dans les lieux patrimoniaux cet été"
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:481cfbbe-eb95-408c-94e2-12717ccb61ae",
+      "title": "Pain Bénit : open air festif au-dessus du périphérique"
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:12827b6b-1d93-4d63-90c7-6d447a907e84",
+      "title": "Une expérience gourmande avec des machines ingénieuses jusqu'au 30 août"
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:24209d7f-df70-453c-ba91-c0af0a4bfb44",
+      "title": "La Grande Roue du Quai Viguerie ouverte jusqu'au 6 septembre"
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:6c7c4369-8446-4480-88e0-15e513457b38",
+      "title": "Activités gratuites et cinéma en plein air au lac de la Reynerie"
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:88670875-9526-45f0-a662-38e3df92da17",
+      "title": "Contes fantastiques gratuits pour enfants chaque week-end d'été"
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2b205cd9-c3ce-4d81-aaf8-015d661c79f5",
+      "title": "Le musée du Vieux Toulouse expose le peintre André-Pierre Lupiac"
+    },
+    {
+      "file": "weekend_event_10.jpg",
+      "type": "event",
+      "cluster_id": "cluster:4b8fa7d6-ac99-415e-8d0f-5b8a221f2dbb",
+      "title": "Exposition impressionniste gratuite au profit de l'association Diabalade"
+    },
+    {
+      "file": "weekend_event_11.jpg",
+      "type": "event",
+      "cluster_id": "cluster:f3e8e412-2cc9-4016-8050-1fd4fca87907",
+      "title": "Visites guidées de l'exposition Sorolla à la Fondation Bemberg cet été"
+    },
+    {
+      "file": "weekend_event_12.jpg",
+      "type": "event",
+      "cluster_id": "cluster:cf07bcad-dc80-4d77-a349-ff8211df6f4b",
+      "title": "900 dessinateurs du monde entier croquent Toulouse en juillet"
+    },
+    {
+      "file": "weekend_event_13.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ab80d963-8134-4f6f-9290-845bc2f0ebb6",
+      "title": "La Ramée plage : baignade surveillée tout l'été près du Capitole"
+    },
+    {
+      "file": "weekend_event_14.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d95869f3-9216-4a56-b348-3696aea7a27d",
+      "title": "300 m² d'art urbain suspendu au-dessus de la gare Matabiau"
+    },
+    {
+      "file": "weekend_event_15.jpg",
+      "type": "event",
+      "cluster_id": "cluster:b051345f-2bd7-46c6-9e1b-92f7c6b253ed",
+      "title": "Cinéma en plein air à la Cinémathèque : 44 films cet été"
+    },
+    {
+      "file": "weekend_event_16.jpg",
+      "type": "event",
+      "cluster_id": "cluster:bd6fbd62-b03e-4e5b-9a09-ae302597e5b2",
+      "title": "Programme estival complet à la Halle de La Machine cet été"
+    }
+  ]
+}
