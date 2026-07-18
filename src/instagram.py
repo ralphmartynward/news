@@ -255,11 +255,17 @@ def _venue_from_caption(ig_caption: str) -> str:
     # Try venue-keyword regex on the full caption text
     return _extract_venue(ig_caption or "")
 
-def _segment_title(title: str, event_name: str | None = None) -> list[tuple[str, tuple]]:
+def _segment_title(title: str, event_name: str | None = None, highlight: str | None = None) -> list[tuple[str, tuple]]:
     """Assign colours to words.
 
     With event_name: words that appear in the event name → pink, rest → white.
-    Without: Toulouse → pink, first other proper noun → green.
+    Without: Toulouse → pink; the AI-provided `highlight` span (the specific
+    business/subject name, e.g. "Racé", "Hush Hush") → green when it's an
+    exact word-sequence match in the title. Falls back to a positional
+    heuristic (first capitalized word after index 0) for clusters that
+    predate this field or where it didn't match — a regex guess, not
+    semantic understanding, so it can pick the wrong word (e.g. a street
+    name instead of the actual subject).
     """
     words = title.split()
     result: list[tuple[str, tuple]] = []
@@ -268,17 +274,40 @@ def _segment_title(title: str, event_name: str | None = None) -> list[tuple[str,
         for word in words:
             clean = word.lower().strip(".,!?:;«»\"'")
             result.append((word, COL_PINK if clean in event_words else COL_WHITE))
-    else:
-        green_used = False
+        return result
+
+    highlight_span: tuple[int, int] | None = None
+    if highlight:
+        clean_words = [w.lower().strip(".,!?:;«»\"'") for w in words]
+        h_words = [w.lower().strip(".,!?:;«»\"'") for w in highlight.split()]
+        if h_words:
+            for i in range(len(clean_words) - len(h_words) + 1):
+                if clean_words[i:i + len(h_words)] == h_words:
+                    highlight_span = (i, i + len(h_words))
+                    break
+
+    if highlight_span:
+        start, end = highlight_span
         for i, word in enumerate(words):
             clean = word.strip(".,!?:;«»\"'")
             if clean.lower() == "toulouse":
                 result.append((word, COL_PINK))
-            elif not green_used and i > 0 and clean and clean[0].isupper() and len(clean) > 3:
+            elif start <= i < end:
                 result.append((word, COL_GREEN))
-                green_used = True
             else:
                 result.append((word, COL_WHITE))
+        return result
+
+    green_used = False
+    for i, word in enumerate(words):
+        clean = word.strip(".,!?:;«»\"'")
+        if clean.lower() == "toulouse":
+            result.append((word, COL_PINK))
+        elif not green_used and i > 0 and clean and clean[0].isupper() and len(clean) > 3:
+            result.append((word, COL_GREEN))
+            green_used = True
+        else:
+            result.append((word, COL_WHITE))
     return result
 
 
@@ -403,7 +432,7 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     # Headline: event_name if available, otherwise full title
     headline    = event_name if event_name else title
     headline_segs = [(w, COL_PINK) for w in headline.split()] if event_name else \
-                    _segment_title(title)
+                    _segment_title(title, highlight=cluster.get("highlight"))
 
     # Description: ig_caption split into lines (Claude generates \n-separated lines)
     caption_lines_raw = [l.strip() for l in ig_caption.split("\n") if l.strip()][:3]
@@ -501,7 +530,6 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
     title      = cluster.get("title", "")
-    event_name = cluster.get("event_name") or None
     # Use Claude-generated ig_caption if available; fall back to truncated summary
     ig_caption = cluster.get("ig_caption") or ""
     if not ig_caption:
@@ -512,7 +540,11 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     context  = ig_caption
     context2 = ""
 
-    segs = _segment_title(title, event_name=event_name)
+    # _render_post only ever handles place/culture clusters (never event —
+    # those go through _render_story/weekend renderers), so event_name is
+    # irrelevant here: always use the AI-provided highlight (green), not the
+    # pink event-name path, even if a stray event_name is set on the row.
+    segs = _segment_title(title, highlight=cluster.get("highlight"))
     lh   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
     sub_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
     ctx_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
@@ -719,7 +751,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     # Headline: event_name in pink, or full title with colour logic
     headline      = event_name if event_name else event.get("title", "")
     headline_segs = [(w, COL_PINK) for w in headline.split()] if event_name else \
-                    _segment_title(event.get("title", ""))
+                    _segment_title(event.get("title", ""), highlight=event.get("highlight"))
     headline_lines = _wrap_text(headline, f_headline, W - PAD*2, draw)[:2]
 
     # Description from ig_caption
@@ -1055,7 +1087,7 @@ def _render_listicle_cover(cluster: dict[str, Any], n_items: int) -> "Image":
     caption_lines = [l.strip() for l in ig_caption.split("\n") if l.strip()][:2]
 
     title      = cluster.get("title", "")
-    title_segs = _segment_title(title)
+    title_segs = _segment_title(title, highlight=cluster.get("highlight"))
 
     lh_t   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
     lh_s   = draw.textbbox((0, 0), "A", font=f_sub)[3]

@@ -224,6 +224,7 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                     venue=result.get("venue"),
                     ig_mention=result.get("ig_mention"),
                     listicle_items=result.get("listicle_items"),
+                    highlight=result.get("highlight"),
                 )
                 cat_label = f"[{result['category']}] " if result["category"] else ""
                 print(f"  {cid}: {cat_label}'{result['title'][:60]}…'")
