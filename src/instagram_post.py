@@ -6,6 +6,10 @@ so that the image URLs are publicly accessible when Instagram fetches them.
 Usage:
     python -m src.instagram_post                  # post everything for today
     IG_CAROUSEL_ONLY=1 python -m src.instagram_post  # weekend carousel only
+    IG_LISTICLE_ONLY=1 python -m src.instagram_post  # listicle carousel(s) only —
+                                                      # skips regular/story posts and the
+                                                      # weekend carousel, so re-running this
+                                                      # doesn't duplicate-post today's content
 """
 from __future__ import annotations
 
@@ -24,6 +28,7 @@ def main() -> None:
     ig_token   = os.environ.get("IG_ACCESS_TOKEN", "").strip()
     ig_user_id = os.environ.get("IG_USER_ID", "").strip()
     carousel_only = os.environ.get("IG_CAROUSEL_ONLY", "").strip() == "1"
+    listicle_only = os.environ.get("IG_LISTICLE_ONLY", "").strip() == "1"
 
     if not (ig_token and ig_user_id):
         print("instagram_post: skipped (IG_ACCESS_TOKEN / IG_USER_ID not set)")
@@ -58,7 +63,7 @@ def main() -> None:
     today_weekday = now.weekday()  # 4=Fri, 5=Sat
     ig_dir        = INSTAGRAM_DIR / today_slug
 
-    if not carousel_only:
+    if not carousel_only and not listicle_only:
         manifest = ig_dir / "manifest.json"
         if manifest.exists():
             ig_post(manifest, ig_user_id, ig_token, base_url=SITE_BASE)
@@ -75,7 +80,7 @@ def main() -> None:
         for listicle_manifest in sorted(ig_dir.glob("*_listicle_manifest.json")):
             ig_listicle(listicle_manifest, ig_user_id, ig_token, base_url=SITE_BASE)
 
-    if today_weekday in (4, 5) or carousel_only:
+    if (today_weekday in (4, 5) or carousel_only) and not listicle_only:
         weekend_manifest = ig_dir / "weekend_manifest.json"
         if weekend_manifest.exists():
             ig_weekend(weekend_manifest, ig_user_id, ig_token, base_url=SITE_BASE)

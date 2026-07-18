@@ -7,6 +7,10 @@ on:
         description: 'Post weekend carousel only (skip daily posts/stories)'
         type: boolean
         default: false
+      listicle_only:
+        description: 'Post listicle carousel(s) only (skip daily posts/stories/weekend)'
+        type: boolean
+        default: false
 
 jobs:
   post:
@@ -29,4 +33,5 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_CAROUSEL_ONLY: ${{ inputs.carousel_only && '1' || '0' }}
+          IG_LISTICLE_ONLY: ${{ inputs.listicle_only && '1' || '0' }}
         run: python -m src.instagram_post
