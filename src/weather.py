@@ -28,6 +28,23 @@ def _emoji(code: int) -> str:
     return _WMO_EMOJI.get(code, "🌡️")
 
 
+_WMO_BUCKET = {
+    0: "sunny", 1: "sunny",
+    2: "cloudy", 3: "cloudy", 45: "cloudy", 48: "cloudy",
+    51: "rainy", 53: "rainy", 55: "rainy",
+    61: "rainy", 63: "rainy", 65: "rainy",
+    71: "snowy", 73: "snowy", 75: "snowy", 77: "snowy",
+    80: "rainy", 81: "rainy", 82: "rainy",
+    85: "snowy", 86: "snowy",
+    95: "rainy", 96: "rainy", 99: "rainy",
+}
+
+
+def weather_bucket(code: int) -> str:
+    """Collapse a WMO weather code into one of: sunny, cloudy, rainy, snowy."""
+    return _WMO_BUCKET.get(code, "cloudy")
+
+
 def fetch(days: int = 7) -> list[dict[str, Any]] | None:
     """Return a list of daily forecasts (up to `days`), or None on error.
 
@@ -50,6 +67,7 @@ def fetch(days: int = 7) -> list[dict[str, Any]] | None:
         return [
             {
                 "date":  date.fromisoformat(d),
+                "code":  int(c),
                 "emoji": _emoji(int(c)),
                 "max":   round(mx),
                 "min":   round(mn),

@@ -76,7 +76,34 @@ _FONT_REGULAR_PATHS = [
 
 REQUEST_TIMEOUT_S = 10
 _FAVICON_PATH = Path(__file__).parent.parent / "assets" / "favicon.png"
+_ASSETS_DIR = Path(__file__).parent.parent / "assets"
 _favicon_cache: dict = {}
+
+_SEASON_BY_MONTH = {
+    12: "winter", 1: "winter", 2: "winter",
+    3: "spring", 4: "spring", 5: "spring",
+    6: "summer", 7: "summer", 8: "summer",
+    9: "autumn", 10: "autumn", 11: "autumn",
+}
+
+
+def _story_background_path(today: date, weather_code: int | None) -> Path | None:
+    """Pick the season/weather-matched backdrop, falling back sensibly.
+
+    Only "winter" has a "snowy" variant; every other season falls back to
+    "cloudy" if the weather bucket for that season doesn't exist as a file.
+    """
+    from src.weather import weather_bucket
+
+    season = _SEASON_BY_MONTH[today.month]
+    bucket = weather_bucket(weather_code) if weather_code is not None else "sunny"
+
+    for candidate in (bucket, "cloudy", "sunny"):
+        for ext in ("jpg", "png"):
+            p = _ASSETS_DIR / f"toulouse_1080x1920_{season}_{candidate}.{ext}"
+            if p.exists():
+                return p
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -801,6 +828,93 @@ def _good_image_url(url: str | None) -> bool:
     return not any(p in url for p in _BAD_IMAGE_PATTERNS)
 
 
+def _render_today_intro(today: date) -> "Image":
+    """Cover slide posted first in the daily story sequence.
+
+    Backdrop is a static branded photo picked by season + today's weather
+    (not the event photos, and no event count in the text: a manually
+    deleted story later in the day would otherwise leave a stale number here).
+    """
+    from PIL import Image, ImageDraw
+
+    W, H = STORY_W, STORY_H
+    PAD  = 60
+
+    # One weather fetch feeds both the backdrop choice and the temperature line.
+    weather_code: int | None = None
+    weather_str = ""
+    try:
+        from src.weather import fetch as _fetch_weather
+        forecasts = _fetch_weather(days=1)
+        if forecasts:
+            f = forecasts[0]
+            weather_code = f["code"]
+            # No emoji here — the PIL font has no emoji glyphs (same reason
+            # weekend_lines() omits it), so render just the temperatures.
+            weather_str = f"{f['max']}° max · {f['min']}° min"
+    except Exception:
+        pass
+
+    base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
+    bg_path = _story_background_path(today, weather_code)
+    if bg_path:
+        try:
+            photo = Image.open(bg_path).convert("RGB")
+            base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
+        except Exception:
+            pass
+    base = _apply_gradient(base, int(H * 0.45), H, start_alpha=0, end_alpha=235)
+
+    draw = ImageDraw.Draw(base)
+
+    FSIZE = 68
+    _paste_favicon(base, W - 52 - FSIZE, 52, size=FSIZE)
+
+    f_title   = _load_font(64, bold=True)
+    f_date    = _load_font(38, bold=True)
+    f_weather = _load_font(32, bold=True)
+    f_tiny    = _load_font(18)
+
+    title_lines = ["Aujourd'hui à", "Toulouse"]
+    lh = draw.textbbox((0, 0), "A", font=f_title)[3]
+    title_total_h = len(title_lines) * (lh + 8)
+
+    date_str = f"{FRENCH_DAYS[today.weekday()].capitalize()} {today.day} {FRENCH_MONTHS[today.month-1]}"
+    date_h   = draw.textbbox((0, 0), "A", font=f_date)[3]
+    weather_h = draw.textbbox((0, 0), "A", font=f_weather)[3] + 8 if weather_str else 0
+
+    total = title_total_h + 20 + date_h + 16 + weather_h
+    y = H - PAD - total
+
+    for line in title_lines:
+        lw = draw.textbbox((0, 0), line, font=f_title)[2]
+        if "Toulouse" in line:
+            before, _after = line.split("Toulouse", 1)
+            x = (W - lw) // 2
+            if before:
+                draw.text((x, y), before, font=f_title, fill=COL_WHITE)
+                x += draw.textbbox((0, 0), before, font=f_title)[2]
+            draw.text((x, y), "Toulouse", font=f_title, fill=COL_PINK)
+        else:
+            draw.text(((W - lw) // 2, y), line, font=f_title, fill=COL_WHITE)
+        y += lh + 8
+    y += 12
+
+    dw = draw.textbbox((0, 0), date_str, font=f_date)[2]
+    draw.text(((W - dw) // 2, y), date_str, font=f_date, fill=COL_GREEN)
+    y += date_h + 16
+
+    if weather_str:
+        ww = draw.textbbox((0, 0), weather_str, font=f_weather)[2]
+        draw.text(((W - ww) // 2, y), weather_str, font=f_weather, fill=(255, 255, 255, 220))
+        y += weather_h
+
+    tw = draw.textbbox((0, 0), SITE_LABEL, font=f_tiny)[2]
+    draw.text(((W - tw) // 2, H - 34), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+
+    return base.convert("RGB")
+
+
 def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
     """Generate Format 1 (story) images for events happening today (including multi-day).
 
@@ -819,6 +933,19 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
     out_dir.mkdir(parents=True, exist_ok=True)
     manifest: list[dict[str, Any]] = []
     posted_ids: list[str] = []
+
+    # Intro slide always first, so it's the first Story viewers see.
+    try:
+        intro_file = "intro_story.jpg"
+        _render_today_intro(date.fromisoformat(today)).save(str(out_dir / intro_file), "JPEG", quality=90)
+        manifest.append({
+            "cluster_id": None, "format": "story", "source": "brand",
+            "category": "intro", "title": "Aujourd'hui à Toulouse",
+            "image_url": None, "file": intro_file,
+        })
+        print(f"  instagram today: {intro_file} (intro)")
+    except Exception as e:
+        print(f"  instagram today: intro FAILED — {type(e).__name__}: {e}")
 
     for ev in events:
         cid      = ev["cluster_id"]
