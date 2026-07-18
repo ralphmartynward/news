@@ -1121,18 +1121,23 @@ def _render_listicle_item_slide(item: dict[str, Any], n: int, total: int, img_ur
     draw.rounded_rectangle([PAD, 44, PAD + nw, 44 + nh], radius=nh // 2, fill=(15, 23, 42, 200))
     draw.text((PAD + 14, 44 + 8), num_str, font=f_num, fill=COL_WHITE)
 
-    item_title = item.get("title", "")
-    item_desc  = item.get("description", "")
+    item_title    = item.get("title", "")
+    item_desc     = item.get("description", "")
+    item_location = (item.get("location") or "").strip()
+
+    f_loc = _load_font(26, bold=True)
 
     title_lines = _wrap_text(item_title, f_title, W - PAD * 2, draw)[:2]
     desc_lines  = _wrap_text(item_desc,  f_desc,  W - PAD * 2, draw)[:2]
 
     lh_t   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
     lh_d   = draw.textbbox((0, 0), "A",  font=f_desc)[3]
+    lh_l   = draw.textbbox((0, 0), "A",  font=f_loc)[3] + 6 if item_location else 0
     site_h = draw.textbbox((0, 0), "A",  font=f_tiny)[3]
 
     total_h = (len(title_lines) * (lh_t + 8) + 12
                + len(desc_lines) * (lh_d + 6)
+               + lh_l
                + site_h + 8)
     y = H - PAD - total_h
 
@@ -1143,6 +1148,10 @@ def _render_listicle_item_slide(item: dict[str, Any], n: int, total: int, img_ur
     for line in desc_lines:
         draw.text((PAD, y), line, font=f_desc, fill=(255, 255, 255, 200))
         y += lh_d + 6
+
+    if item_location:
+        draw.text((PAD, y), item_location, font=f_loc, fill=COL_GREEN)
+        y += lh_l
 
     draw.text((PAD, y + 4), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
 
@@ -1191,7 +1200,8 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
                 slide = _render_listicle_item_slide(item, i, len(items), effective_img)
                 slide_file = f"{safe_cid}_listicle_{i:02d}.jpg"
                 slide.save(str(out_dir / slide_file), "JPEG", quality=92)
-                slides.append({"file": slide_file, "type": "item", "title": item.get("title", "")})
+                slides.append({"file": slide_file, "type": "item", "title": item.get("title", ""),
+                                "location": item.get("location", "")})
                 print(f"  instagram listicle: slide {i}/{len(items)} — {item.get('title','')[:40]}")
 
             manifest = {

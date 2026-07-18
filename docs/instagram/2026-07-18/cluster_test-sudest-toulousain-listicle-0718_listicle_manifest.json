@@ -14,47 +14,56 @@
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_01.jpg",
       "type": "item",
-      "title": "Soirée guinguette"
+      "title": "Soirée guinguette",
+      "location": "L'Éphémère, Lacroix-Falgarde"
     },
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_02.jpg",
       "type": "item",
-      "title": "Villages de caractère"
+      "title": "Villages de caractère",
+      "location": "Vieille-Toulouse et Clermont-le-Fort"
     },
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_03.jpg",
       "type": "item",
-      "title": "Sorties en famille"
+      "title": "Sorties en famille",
+      "location": "Museum du Pastel, Labège"
     },
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_04.jpg",
       "type": "item",
-      "title": "Balades nature"
+      "title": "Balades nature",
+      "location": "Ramier de Lacroix-Falgarde"
     },
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_05.jpg",
       "type": "item",
-      "title": "Marchés nocturnes"
+      "title": "Marchés nocturnes",
+      "location": "Goyrans, tous les mardis"
     },
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_06.jpg",
       "type": "item",
-      "title": "Montbrun-Lauragais Live Challenge"
+      "title": "Montbrun-Lauragais Live Challenge",
+      "location": "Montbrun-Lauragais"
     },
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_07.jpg",
       "type": "item",
-      "title": "Canoë sur l'Ariège"
+      "title": "Canoë sur l'Ariège",
+      "location": "Granhéta, Grépiac"
     },
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_08.jpg",
       "type": "item",
-      "title": "Bonnes tables locales"
+      "title": "Bonnes tables locales",
+      "location": "En Marge, Aureville"
     },
     {
       "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_09.jpg",
       "type": "item",
-      "title": "Nuits sur place"
+      "title": "Nuits sur place",
+      "location": "En Marge, Aureville"
     }
   ]
 }
