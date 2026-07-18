@@ -999,8 +999,25 @@ def _fetch_listicle_images(url: str, n: int) -> list[str | None]:
                     continue
             except Exception:
                 pass
-            if any(s in src.lower() for s in ("logo", "icon", "favicon", "sprite", "pixel", "tracking")):
+            if any(s in src.lower() for s in ("logo", "icon", "favicon", "sprite", "pixel", "tracking", "redac")):
                 continue
+            # Skip author/byline avatars ("Article rédigé par X" boxes) — these
+            # sit in document order alongside real content images and would
+            # otherwise be picked up like any other photo. Check the image's
+            # own class/alt and its ancestors' classes for byline markers.
+            alt_text = (img.get("alt") or "").lower()
+            ancestor_classes = " ".join(
+                " ".join(node.get("class") or []) for node in [img, *img.parents]
+            ).lower()
+            if any(k in ancestor_classes for k in ("author", "byline", "auteur", "avatar")):
+                continue
+            if "rédig" in alt_text or "auteur" in alt_text:
+                continue
+            # toulouscope's image CMS serves multiple size variants per image
+            # (small/full/hd) — whichever the page markup happens to request.
+            # Always upgrade to the largest to avoid inconsistent quality.
+            if "images.toulouscope.fr" in src:
+                src = re.sub(r"/(small|full)/image\.", "/hd/image.", src)
             imgs.append(src)
             if len(imgs) >= n:
                 break

@@ -1,0 +1,60 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:test-sudest-toulousain-listicle-0718",
+  "title": "10 sorties à ne pas manquer dans le Sud-Est Toulousain cet été",
+  "ig_caption": "10 idées sorties à 15 minutes de Toulouse\nGuinguettes, villages, randos et bonnes tables\nParfait pour prolonger l'été sans partir loin",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"sudesttoulousain\", \"guinguette\", \"randonnee\", \"canaldumidi\", \"ramonville\", \"castanettolosan\", \"ayguesvives\", \"labege\", \"lacroixfalgarde\", \"montbrunlauragais\", \"gastronomie\", \"restaurant\", \"famille\", \"nature\", \"ete2026\", \"marchelocal\", \"festival\", \"tourisme\", \"escapade\", \"patrimoine\"]",
+  "ig_mention": null,
+  "venue": "",
+  "slides": [
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_01.jpg",
+      "type": "item",
+      "title": "Soirée guinguette"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_02.jpg",
+      "type": "item",
+      "title": "Villages de caractère"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_03.jpg",
+      "type": "item",
+      "title": "Sorties en famille"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_04.jpg",
+      "type": "item",
+      "title": "Balades nature"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_05.jpg",
+      "type": "item",
+      "title": "Marchés nocturnes"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_06.jpg",
+      "type": "item",
+      "title": "Montbrun-Lauragais Live Challenge"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_07.jpg",
+      "type": "item",
+      "title": "Canoë sur l'Ariège"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_08.jpg",
+      "type": "item",
+      "title": "Bonnes tables locales"
+    },
+    {
+      "file": "cluster_test-sudest-toulousain-listicle-0718_listicle_09.jpg",
+      "type": "item",
+      "title": "Nuits sur place"
+    }
+  ]
+}

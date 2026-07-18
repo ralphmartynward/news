@@ -160,6 +160,47 @@ def _build_caption(cluster: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
+def _build_listicle_caption(manifest: dict[str, Any]) -> str:
+    import json as _json
+    title      = manifest.get("title", "")
+    ig_caption = manifest.get("ig_caption") or ""
+    ig_mention = (manifest.get("ig_mention") or "").strip().lstrip("@")
+    venue      = (manifest.get("venue") or "").strip()
+    items      = [s for s in manifest.get("slides", []) if s.get("type") == "item"]
+
+    raw = manifest.get("ig_hashtags")
+    try:
+        claude_tags = _json.loads(raw) if isinstance(raw, str) else (raw or [])
+    except Exception:
+        claude_tags = []
+    seen: set[str] = set()
+    all_tags: list[str] = []
+    for t in claude_tags + _BASE_TAGS:
+        t = t.lstrip("#").strip()
+        if t and t.lower() not in seen:
+            seen.add(t.lower())
+            all_tags.append(t)
+        if len(all_tags) >= 30:
+            break
+    if not all_tags:
+        all_tags = _BASE_TAGS[:]
+    hashtag_str = " ".join(f"#{t}" for t in all_tags)
+
+    location_str = (f"📍 {venue} · Toulouse · news.lavillerose.com"
+                    if venue else "📍 Toulouse · news.lavillerose.com")
+
+    lines = [title]
+    if ig_caption and ig_caption != title:
+        lines += ["", ig_caption]
+    lines.append("")
+    for i, item in enumerate(items, 1):
+        lines.append(f"{i}. {item.get('title', '')}")
+    if ig_mention:
+        lines += ["", f"@{ig_mention}"]
+    lines += ["", location_str, "", hashtag_str]
+    return "\n".join(lines)
+
+
 def post_listicle_carousel_from_manifest(manifest_path: Path, ig_user_id: str, token: str,
                                           base_url: str = "https://news.lavillerose.com") -> str | None:
     """Post a listicle carousel from a *_listicle_manifest.json file."""
@@ -172,7 +213,7 @@ def post_listicle_carousel_from_manifest(manifest_path: Path, ig_user_id: str, t
     slides     = manifest.get("slides", [])
     image_urls = [f"{base_url}/instagram/{date_slug}/{s['file']}" for s in slides]
 
-    caption = _build_caption(manifest)
+    caption = _build_listicle_caption(manifest)
     print(f"instagram_graph: posting listicle carousel ({len(image_urls)} slides) — {manifest.get('title','')[:50]}")
     try:
         return post_carousel(ig_user_id, token, image_urls, caption)
