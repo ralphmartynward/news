@@ -109,8 +109,8 @@ def _download_image(url: str):
 
 
 def _cover_crop(img, w: int, h: int):
-    from PIL import ImageOps
-    return ImageOps.fit(img, (w, h), method=0)
+    from PIL import Image, ImageOps
+    return ImageOps.fit(img, (w, h), method=Image.Resampling.LANCZOS)
 
 
 def _apply_gradient(base, from_y: int, to_y: int, start_alpha: int = 0, end_alpha: int = 220):
@@ -1027,7 +1027,7 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
             items = json.loads(raw) if isinstance(raw, str) else raw
             if not items or len(items) < 3:
                 continue
-            items = items[:10]
+            items = items[:9]  # + 1 cover slide = 10 max (Instagram carousel limit)
             safe_cid = cid.replace(":", "_")
 
             # Scrape individual images from the article page
@@ -1087,6 +1087,12 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
         print(f"instagram weekend: no events with images for {sat} - {sun}, skipping carousel")
         return []
 
+    # Clutch events are excluded from the weekend carousel (curation choice)
+    events = [e for e in events if e.get("source") != "clutch"]
+    if not events:
+        print(f"instagram weekend: no non-Clutch events with images for {sat} - {sun}, skipping carousel")
+        return []
+
     # Smart sort: most timely events first so the cover uses the best image.
     #   Tier 0 — starts on sat or sun (this weekend specifically)
     #   Tier 1 — started ≤6 days ago (current week, still fresh)
@@ -1108,7 +1114,7 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
     out_dir.mkdir(parents=True, exist_ok=True)
     slides: list[dict[str, Any]] = []
 
-    # Cover slide (1) + up to 19 event slides = 20 max (Instagram carousel limit)
+    # Cover slide (1) + up to 9 event slides = 10 max (Instagram carousel limit)
     cover = _render_weekend_cover(events, sat, sun)
     cover_file = "weekend_cover.jpg"
     cover.save(str(out_dir / cover_file), "JPEG", quality=92)
@@ -1116,7 +1122,7 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
     print(f"  instagram weekend: cover slide ({sat} - {sun})")
 
     # Event slides
-    for i, ev in enumerate(events[:19], start=1):
+    for i, ev in enumerate(events[:9], start=1):
         slide = _render_weekend_event_slide(ev, i)
         fname = f"weekend_event_{i:02d}.jpg"
         slide.save(str(out_dir / fname), "JPEG", quality=92)
