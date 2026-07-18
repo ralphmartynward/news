@@ -5769,6 +5769,22 @@ URL:https://www.clutchmag.fr/evenements#2026-07-16-dimanche-19-juillet-1?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:9f117209-6890-46bc-8e28-f1b42f8057aa@news.lavillerose.com
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Tourisme Imaginaire
+DESCRIPTION:Le « Tourisme Imaginaire » propose un circuit culturel atypiq
+ ue à Aussillon (Tarn)\, le dimanche 19 juillet à partir de 13h30. L'év
+ énement est présenté comme un parcours hors norme\, dont le contenu exa
+ ct reste peu détaillé dans la source disponible. L'entrée est accessibl
+ e de 8 à 13 euros selon la formule ou le public. L'événement s'adresse 
+ à un public curieux de sorties culturelles originales aux portes de la r
+ égion toulousaine.\n\nSource\: https://www.clutchmag.fr/evenements#2026-0
+ 7-16-dimanche-19-juillet-0
+URL:https://www.clutchmag.fr/evenements#2026-07-16-dimanche-19-juillet-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c86c74cd-9c81-48ac-8da7-c572beaebc58@news.lavillerose.com
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260726

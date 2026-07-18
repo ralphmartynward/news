@@ -1,0 +1,47 @@
+[
+  {
+    "cluster_id": "cluster:cf07bcad-dc80-4d77-a349-ff8211df6f4b",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "900 dessinateurs du monde entier croquent Toulouse en juillet",
+    "image_url": "https://static.actu.fr/uploads/2026/07/dessinateurs.jpg",
+    "file": "cluster_cf07bcad-dc80-4d77-a349-ff8211df6f4b_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:481cfbbe-eb95-408c-94e2-12717ccb61ae",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Pain Bénit : open air festif au-dessus du périphérique",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-OPENAIR.jpg",
+    "file": "cluster_481cfbbe-eb95-408c-94e2-12717ccb61ae_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:3d80046d-7e08-4787-ac5a-279aaf2f12b7",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Sophrovisite : bien-être et patrimoine dans un jardin japonais",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-SOPHROVISITE-2.jpg",
+    "file": "cluster_3d80046d-7e08-4787-ac5a-279aaf2f12b7_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:60f40c38-972c-4cc7-8e1c-eaf343e5de35",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Concert intimiste flûte, piano et saxophone au Musée des Augustins",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-PAUSE-MUSICALE-AUX-AUGUSTINS.jpg",
+    "file": "cluster_60f40c38-972c-4cc7-8e1c-eaf343e5de35_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d5d388b2-c079-422a-ae7a-d6c54a33b658",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Concerts et découvertes musicales dans les lieux patrimoniaux cet été",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-TOULOUSE-LES-ORGUES-QUARTIER-D-ETE.jpg",
+    "file": "cluster_d5d388b2-c079-422a-ae7a-d6c54a33b658_event_story.jpg"
+  }
+]
