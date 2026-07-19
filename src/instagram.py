@@ -1259,7 +1259,8 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
     from src import cache as cache_mod
 
     sat, sun = _next_weekend()
-    events   = cache_mod.load_weekend_events(conn, sat.isoformat(), sun.isoformat())
+    thursday = sat - timedelta(days=2)
+    events   = cache_mod.load_weekend_events(conn, thursday.isoformat(), sun.isoformat())
 
     if not events:
         print(f"instagram weekend: no events found for {sat} - {sun}")
