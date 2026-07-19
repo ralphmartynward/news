@@ -207,6 +207,16 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                 # so the event spans from when it was published to the end date.
                 if event_end and not event_start:
                     event_start = primary["published_at"][:10]
+                # Earliest item that actually has an image (not necessarily
+                # `primary`, which may itself lack one) — persisted onto the
+                # cluster row so it survives item pruning (RETENTION_DAYS),
+                # since a still-running/future event can otherwise silently
+                # lose its only image before the event date even arrives.
+                image_candidates = sorted(
+                    (i for i in items if i.get("image_url")),
+                    key=lambda i: i["published_at"],
+                )
+                image_url = image_candidates[0]["image_url"] if image_candidates else None
                 cache_mod.upsert_cluster(
                     conn,
                     cid,
@@ -225,6 +235,7 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                     ig_mention=result.get("ig_mention"),
                     listicle_items=result.get("listicle_items"),
                     highlight=result.get("highlight"),
+                    image_url=image_url,
                 )
                 cat_label = f"[{result['category']}] " if result["category"] else ""
                 print(f"  {cid}: {cat_label}'{result['title'][:60]}…'")

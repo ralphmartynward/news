@@ -55,6 +55,7 @@ MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN venue TEXT",
     "ALTER TABLE clusters ADD COLUMN listicle_items TEXT",
     "ALTER TABLE clusters ADD COLUMN highlight TEXT",
+    "ALTER TABLE clusters ADD COLUMN image_url TEXT",
 ]
 
 
@@ -183,6 +184,7 @@ def upsert_cluster(
     ig_mention: str | None = None,
     listicle_items: str | None = None,
     highlight: str | None = None,
+    image_url: str | None = None,
 ) -> None:
     import json as _json
 
@@ -191,8 +193,8 @@ def upsert_cluster(
         """INSERT INTO clusters
            (cluster_id, title, summary, framing_note, read_for, category,
             event_start, event_end, event_name, primary_url, last_synthesised_at,
-            ig_caption, ig_hashtags, venue, ig_mention, listicle_items, highlight)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ig_caption, ig_hashtags, venue, ig_mention, listicle_items, highlight, image_url)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
            ON CONFLICT(cluster_id) DO UPDATE SET
              title               = excluded.title,
              summary             = excluded.summary,
@@ -209,7 +211,8 @@ def upsert_cluster(
              venue               = COALESCE(excluded.venue, clusters.venue),
              ig_mention          = COALESCE(excluded.ig_mention, clusters.ig_mention),
              listicle_items      = COALESCE(excluded.listicle_items, clusters.listicle_items),
-             highlight           = COALESCE(excluded.highlight, clusters.highlight)""",
+             highlight           = COALESCE(excluded.highlight, clusters.highlight),
+             image_url           = COALESCE(excluded.image_url, clusters.image_url)""",
         (
             cluster_id,
             title,
@@ -228,6 +231,7 @@ def upsert_cluster(
             ig_mention,
             listicle_items,
             highlight,
+            image_url,
         ),
     )
     conn.commit()
@@ -419,9 +423,11 @@ def load_weekend_events(conn: sqlite3.Connection, date_from: str, date_to: str) 
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,
                   (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source,
-                  (SELECT image_url FROM items
-                   WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
-                   ORDER BY published_at LIMIT 1) AS image_url
+                  COALESCE(c.image_url,
+                    (SELECT image_url FROM items
+                     WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
+                     ORDER BY published_at LIMIT 1)
+                  ) AS image_url
            FROM clusters c
            WHERE c.category = 'event'
              AND c.event_start <= ?
@@ -460,9 +466,11 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
                       (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                     ) AS url,
                     (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source,
-                    (SELECT image_url FROM items
-                     WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
-                     ORDER BY published_at LIMIT 1) AS image_url,
+                    COALESCE(c.image_url,
+                      (SELECT image_url FROM items
+                       WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
+                       ORDER BY published_at LIMIT 1)
+                    ) AS image_url,
                     COALESCE(c.event_start,
                       DATE((SELECT published_at FROM items
                             WHERE cluster_id = c.cluster_id
@@ -511,9 +519,11 @@ def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[di
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,
                   (SELECT source FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1) AS source,
-                  (SELECT image_url FROM items
-                   WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
-                   ORDER BY published_at LIMIT 1) AS image_url
+                  COALESCE(c.image_url,
+                    (SELECT image_url FROM items
+                     WHERE cluster_id = c.cluster_id AND image_url IS NOT NULL
+                     ORDER BY published_at LIMIT 1)
+                  ) AS image_url
            FROM clusters c
            WHERE c.category != 'news'
              AND c.category IS NOT NULL
