@@ -194,7 +194,7 @@ def upsert_cluster(
            (cluster_id, title, summary, framing_note, read_for, category,
             event_start, event_end, event_name, primary_url, last_synthesised_at,
             ig_caption, ig_hashtags, venue, ig_mention, listicle_items, highlight, image_url)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
            ON CONFLICT(cluster_id) DO UPDATE SET
              title               = excluded.title,
              summary             = excluded.summary,
