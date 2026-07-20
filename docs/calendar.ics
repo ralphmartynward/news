@@ -5804,6 +5804,23 @@ URL:https://www.toulouscope.fr/2026/07/01/le-festival-jazz-a-foix-fete-ses-
  medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1907a6f7-822b-4f49-a6d9-8477a4a31e7a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260824
+SUMMARY:Toulouse Plages
+DESCRIPTION:La saison 2026 de Toulouse Plages démarre aujourd'hui à la pr
+ airie des Filtres\, pour six semaines d'animations gratuites jusqu'au 23 a
+ oût. Organisé depuis plus de 20 ans en partenariat avec une quarantaine 
+ d'associations locales\, l'événement propose des activités de 9h30 à 2
+ 1h : sports de plage\, activités nautiques\, danse\, escalade\, pétanque
+ \, jeux aquatiques et structures gonflables. Du matériel est prêté grat
+ uitement sur place\, avec transats et parasols\, et des food trucks assure
+ nt la restaurat\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-07-20#46999
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-20#46999?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d2437ab1-7ee1-4c7c-9f8a-d864ed0b86fe@news.lavillerose.com
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723

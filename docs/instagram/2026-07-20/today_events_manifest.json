@@ -1,0 +1,38 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:1907a6f7-822b-4f49-a6d9-8477a4a31e7a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Toulouse Plages 2026 ouvre six semaines à la prairie des Filtres",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/toulouse-plage--toulouse-metropole.jpg?itok=Y-dmWCeV",
+    "file": "cluster_1907a6f7-822b-4f49-a6d9-8477a4a31e7a_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:42e07361-1301-486a-b21b-f4ba909af63a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Dernière chance pour l'art urbain : Mister Freeze et Lay Up",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/mister-freeze---charline-p.jpg?h=b6b4073d&itok=3McWzAqu",
+    "file": "cluster_42e07361-1301-486a-b21b-f4ba909af63a_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:837f7fe1-7280-4447-a12e-466898a23407",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Cave Poésie et Cinémathèque : soirées dansantes et cinéma tout l'été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/danse-adobestock_942210114.jpg?itok=ovEy6-p-",
+    "file": "cluster_837f7fe1-7280-4447-a12e-466898a23407_event_story.jpg"
+  }
+]
