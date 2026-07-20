@@ -84,6 +84,32 @@ def fetch(days: int = 7) -> list[dict[str, Any]] | None:
         return None
 
 
+def current_code() -> int | None:
+    """WMO weather code for right now, not the day's aggregate.
+
+    The daily code represents the day's single most significant condition —
+    a brief predicted shower can mark the whole day "rainy" even when it's
+    sunny the rest of the time. For picking a backdrop image at generation
+    time (posted the same morning), current conditions are the better signal.
+    """
+    try:
+        r = requests.get(
+            "https://api.open-meteo.com/v1/forecast",
+            params={
+                "latitude": LAT,
+                "longitude": LON,
+                "current": "weather_code",
+                "timezone": "Europe/Paris",
+            },
+            timeout=TIMEOUT,
+        )
+        r.raise_for_status()
+        return int(r.json()["current"]["weather_code"])
+    except Exception as exc:
+        print(f"weather: current_code fetch failed — {exc}")
+        return None
+
+
 def today_line() -> str:
     """Single-line summary for the newsletter: '☀️ 33° / 19° min'"""
     forecasts = fetch(days=1)

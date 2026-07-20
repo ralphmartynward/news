@@ -872,15 +872,22 @@ def _render_today_intro(today: date) -> "Image":
     W, H = STORY_W, STORY_H
     PAD  = 60
 
-    # One weather fetch feeds both the backdrop choice and the temperature line.
+    # Backdrop uses the CURRENT weather code (what it actually looks like when
+    # this posts), not the day's aggregate code — a daily code represents the
+    # single most significant condition, so a brief predicted shower can mark
+    # the whole day "rainy" even when it's sunny the rest of the time.
+    # Temperature text still uses the daily max/min, which is legitimately a
+    # whole-day range.
     weather_code: int | None = None
     weather_str = ""
     try:
-        from src.weather import fetch as _fetch_weather
+        from src.weather import current_code as _current_code, fetch as _fetch_weather
+        weather_code = _current_code()
         forecasts = _fetch_weather(days=1)
         if forecasts:
             f = forecasts[0]
-            weather_code = f["code"]
+            if weather_code is None:
+                weather_code = f["code"]
             # No emoji here — the PIL font has no emoji glyphs (same reason
             # weekend_lines() omits it), so render just the temperatures.
             weather_str = f"{f['max']}° max · {f['min']}° min"
@@ -914,8 +921,9 @@ def _render_today_intro(today: date) -> "Image":
     date_str = f"{FRENCH_DAYS[today.weekday()].capitalize()} {today.day} {FRENCH_MONTHS[today.month-1]}"
     date_h   = draw.textbbox((0, 0), "A", font=f_date)[3]
     weather_h = draw.textbbox((0, 0), "A", font=f_weather)[3] + 8 if weather_str else 0
+    arrow_h = 44  # hints that swiping continues into today's stories
 
-    total = title_total_h + 20 + date_h + 16 + weather_h
+    total = title_total_h + 20 + date_h + 16 + weather_h + arrow_h
     y = H - PAD - total
 
     for line in title_lines:
@@ -940,6 +948,15 @@ def _render_today_intro(today: date) -> "Image":
         ww = draw.textbbox((0, 0), weather_str, font=f_weather)[2]
         draw.text(((W - ww) // 2, y), weather_str, font=f_weather, fill=(255, 255, 255, 220))
         y += weather_h
+
+    # Swipe-right arrow — hints that the following stories are today's events.
+    arr_y = y + 14
+    arr_cx = W // 2
+    draw.line([(arr_cx - 22, arr_y), (arr_cx + 10, arr_y)], fill=COL_WHITE, width=4)
+    draw.polygon(
+        [(arr_cx + 10, arr_y - 12), (arr_cx + 26, arr_y), (arr_cx + 10, arr_y + 12)],
+        fill=COL_WHITE,
+    )
 
     tw = draw.textbbox((0, 0), SITE_LABEL, font=f_tiny)[2]
     draw.text(((W - tw) // 2, H - 34), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
