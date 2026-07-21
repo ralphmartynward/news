@@ -30,7 +30,8 @@ def _emoji(code: int) -> str:
 
 _WMO_BUCKET = {
     0: "sunny", 1: "sunny",
-    2: "cloudy", 3: "cloudy", 45: "cloudy", 48: "cloudy",
+    2: "partlycloudy",
+    3: "cloudy", 45: "cloudy", 48: "cloudy",
     51: "rainy", 53: "rainy", 55: "rainy",
     61: "rainy", 63: "rainy", 65: "rainy",
     71: "snowy", 73: "snowy", 75: "snowy", 77: "snowy",
@@ -41,7 +42,12 @@ _WMO_BUCKET = {
 
 
 def weather_bucket(code: int) -> str:
-    """Collapse a WMO weather code into one of: sunny, cloudy, rainy, snowy."""
+    """Collapse a WMO weather code into one of: sunny, partlycloudy, cloudy, rainy, snowy.
+
+    code 2 ("partly cloudy" — sun still visible) is kept distinct from
+    code 3/45/48 ("overcast"/fog — sky fully grey), since they look quite
+    different in a static backdrop photo.
+    """
     return _WMO_BUCKET.get(code, "cloudy")
 
 
