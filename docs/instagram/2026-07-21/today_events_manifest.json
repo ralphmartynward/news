@@ -1,0 +1,38 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:158b3e63-c1b1-455d-a98e-1b7a8a34166e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Afterwork en canoë-kayak sur la Garonne cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/afterwork-kayak.jpg?h=df3c6bf4&itok=X0HT9dYy",
+    "file": "cluster_158b3e63-c1b1-455d-a98e-1b7a8a34166e_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:74bf19bc-96c1-49e2-aa6b-61582ea4af05",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La comédie « Tinder Surprise ! » à la Roseraie",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-07/unnamed--7-.jpg?itok=03zDlwzw",
+    "file": "cluster_74bf19bc-96c1-49e2-aa6b-61582ea4af05_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:8393ce63-26cc-4a9a-8738-5029db38b465",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier fusée à eau à La Bulle de Mondonville avec Planète Sciences",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-07/schema-fusee-a-eau-sur-rail-150px.jpg?itok=LZ9jVeCf",
+    "file": "cluster_8393ce63-26cc-4a9a-8738-5029db38b465_event_story.jpg"
+  }
+]
