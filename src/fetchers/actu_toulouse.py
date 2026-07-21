@@ -9,8 +9,12 @@ import requests
 import trafilatura
 
 LISTING_URL = "https://actu.fr/occitanie/toulouse_31555/"
+# actu.fr's listing page currently emits a malformed doubled-domain prefix
+# on some links (href="https://actu.fr/https:/actu.fr/occitanie/...") — a
+# bug on their end. Match the path regardless and always rebuild a clean
+# URL, so we don't store the malformed form as our primary key.
 ARTICLE_RE = re.compile(
-    r'href="(https?://actu\.fr/occitanie/toulouse_31555/[^"#?]+\.html)"'
+    r'href="https?://actu\.fr(?:/https:/actu\.fr)?(/occitanie/toulouse_31555/[^"#?]+\.html)"'
 )
 TIME_TAG_RE = re.compile(r'<time[^>]*datetime="([^"]+)"')
 USER_AGENT = (
@@ -49,8 +53,8 @@ def _parse_published_at(html: str) -> datetime | None:
 
 def _article_urls(listing_html: str) -> list[str]:
     seen: dict[str, None] = {}
-    for url in ARTICLE_RE.findall(listing_html):
-        seen.setdefault(url, None)
+    for path in ARTICLE_RE.findall(listing_html):
+        seen.setdefault(f"https://actu.fr{path}", None)
     return list(seen)
 
 
