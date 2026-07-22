@@ -4798,25 +4798,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-une-fan-zone-de
  nda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260715
-SUMMARY:Toulouse + fraîche
-DESCRIPTION:Face à une nouvelle vague de canicule avec des températures p
- ouvant atteindre 44 à 45°C en début de semaine prochaine\, la mairie de
-  Toulouse a activé son plan « Toulouse + fraîche ». Plusieurs espaces 
- climatisés sont ouverts au public jusqu'à 20h\, dont des restaurants sen
- iors\, la Maison Toulouse Service\, l'espace seniors La Terrasse et le cen
- tre culturel Henri-Desbals — accessibles à tous de 14h à 20h jusqu'au 
- 14 juillet. Les piscines municipales prolongent leurs horaires et proposen
- t un tarif r\n\nSource\: https://actu.fr/occitanie/toulouse_31555/canicule
- -face-aux-pics-de-chaleur-la-mairie-renforce-son-offre-d-espaces-fraicheur
- -dans-toulouse_64517484.html
-URL:https://actu.fr/occitanie/toulouse_31555/canicule-face-aux-pics-de-chal
- eur-la-mairie-renforce-son-offre-d-espaces-fraicheur-dans-toulouse_6451748
- 4.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:54758bd0-4ca5-412b-90d5-b831886de850@news.lavillerose.com
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260719
@@ -4927,6 +4908,24 @@ DESCRIPTION:Pour sa sixième saison\, le collectif toulousain Layup propose
 URL:https://www.toulouscope.fr/2026/07/03/layup-revient-a-toulouse-avec-deu
  x-expositions-gratuites-a-la-gare-matabiau-puis-a-compans-caffarelli-13451
  214.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260830
+SUMMARY:Halle Night Long
+DESCRIPTION:Une nouvelle vague de canicule frappe Toulouse cette semaine\, 
+ poussant la mairie à réactiver son plan « Toulouse + fraîche » : l'en
+ trée dans les piscines municipales passe à 1 € (au lieu de 3\,40 €) 
+ et certains bassins prolongent leurs horaires jusqu'à 20h30-21h. Les Toul
+ ousains peuvent aussi rejoindre des spots de baignade en plein air comme L
+ a Ramée plage à Tournefeuille ou les lacs aux alentours. En parallèle\,
+  l'été culturel s'annonce chargé : les soirées gratuites Halle Night L
+ ong reprennent \n\nSource\: https://www.toulouscope.fr/2026/07/15/la-canic
+ ule-est-de-retour-ou-se-rafraichir-a-toulouse-13455260.php
+URL:https://www.toulouscope.fr/2026/07/15/la-canicule-est-de-retour-ou-se-r
+ afraichir-a-toulouse-13455260.php?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0a614105-f4af-4d74-a72a-ee5ce7ec0e76@news.lavillerose.com
@@ -5808,15 +5807,16 @@ UID:cluster:1907a6f7-822b-4f49-a6d9-8477a4a31e7a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260824
 SUMMARY:Toulouse Plages
-DESCRIPTION:La saison 2026 de Toulouse Plages démarre aujourd'hui à la pr
- airie des Filtres\, pour six semaines d'animations gratuites jusqu'au 23 a
- oût. Organisé depuis plus de 20 ans en partenariat avec une quarantaine 
- d'associations locales\, l'événement propose des activités de 9h30 à 2
- 1h : sports de plage\, activités nautiques\, danse\, escalade\, pétanque
- \, jeux aquatiques et structures gonflables. Du matériel est prêté grat
- uitement sur place\, avec transats et parasols\, et des food trucks assure
- nt la restaurat\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
- 2026-07-20#46999
+DESCRIPTION:Toulouse Plages ouvre ses portes du 20 juillet au 23 août à l
+ a Prairie des Filtres\, transformant les bords de Garonne en espace de loi
+ sirs estival gratuit. Organisé depuis plus de vingt ans par la Ville de T
+ oulouse avec le soutien d'une quarantaine d'associations locales\, l'évé
+ nement propose des animations non-stop de 9h30 à 21h30 chaque jour. Le pr
+ ogramme est particulièrement varié : beach-volley\, canoë-kayak\, yoga\
+ , danse\, structures gonflables\, jeux aquatiques\, biblioplage et bien d'
+ autres act\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-
+ 07-20#46999
+LOCATION:espace de loisirs estival gratuit\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-20#46999?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT

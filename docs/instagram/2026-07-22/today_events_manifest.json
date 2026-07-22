@@ -1,0 +1,56 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:09e10491-d336-490e-bfd1-cd4f9a736430",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La médiathèque invite à buller au parc de la Tuilerie",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-07/parc-h---freepik.jpg?itok=Gk3s4Cqv",
+    "file": "cluster_09e10491-d336-490e-bfd1-cd4f9a736430_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:416776dd-5d0d-4aba-b9fc-b72ce460423a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Ateliers consommation responsable à Colomiers, Cugnaux et Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/consommation-responsable-adobestock_2082222979.jpg?itok=-CAJ6yEh",
+    "file": "cluster_416776dd-5d0d-4aba-b9fc-b72ce460423a_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:6f50f7a2-b943-4862-9d0e-3f00e3c7fdef",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Cloche Occitanie sensibilise à la précarité aux Halles de la Transition",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/sdf-adobestock_321381510.jpg?h=3066fd39&itok=Viezr1Cp",
+    "file": "cluster_6f50f7a2-b943-4862-9d0e-3f00e3c7fdef_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9e9b6a9d-ecc0-4d9d-b16e-bdafc14a022a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Cité de l'espace en direct avec Sophie Adenot depuis l'ISS",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/20260204_141519---marina-paris.jpg?h=b1378269&itok=90GNZ8og",
+    "file": "cluster_9e9b6a9d-ecc0-4d9d-b16e-bdafc14a022a_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:e452c164-c472-46b0-a89f-5931b07ebb27",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Ciné sous les étoiles : deux films en plein air ce soir",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-07/cine-camera-h-adobestock_239244529.jpg?itok=thc7E4xO",
+    "file": "cluster_e452c164-c472-46b0-a89f-5931b07ebb27_event_story.jpg"
+  }
+]
