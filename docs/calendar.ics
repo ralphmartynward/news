@@ -4914,18 +4914,20 @@ UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260830
 SUMMARY:Halle Night Long
-DESCRIPTION:Une nouvelle vague de canicule frappe Toulouse cette semaine\, 
- poussant la mairie à réactiver son plan « Toulouse + fraîche » : l'en
- trée dans les piscines municipales passe à 1 € (au lieu de 3\,40 €) 
- et certains bassins prolongent leurs horaires jusqu'à 20h30-21h. Les Toul
- ousains peuvent aussi rejoindre des spots de baignade en plein air comme L
- a Ramée plage à Tournefeuille ou les lacs aux alentours. En parallèle\,
-  l'été culturel s'annonce chargé : les soirées gratuites Halle Night L
- ong reprennent \n\nSource\: https://www.toulouscope.fr/2026/07/15/la-canic
- ule-est-de-retour-ou-se-rafraichir-a-toulouse-13455260.php
-URL:https://www.toulouscope.fr/2026/07/15/la-canicule-est-de-retour-ou-se-r
- afraichir-a-toulouse-13455260.php?utm_source=ical&utm_medium=calendar&utm_
- campaign=toulouse-agenda
+DESCRIPTION:Les deux sources proposent des sélections de sorties culturell
+ es pour l'été 2026 à Toulouse et alentours. Le festival Halle Night Lon
+ g\, à la Halle de la Machine\, est mis en avant dans les deux articles : 
+ concerts gratuits tous les vendredis et samedis soir de 19h à 22h\, du 10
+  juillet au 29 août\, avec une programmation éclectique (funk\, rock\, a
+ frobeat\, électro\, musiques du monde). Actu Toulouse se concentre spéci
+ fiquement sur le week-end du 24-26 juillet et propose une sélection de 10
+  activités d\n\nSource\: https://www.toulouscope.fr/2026/07/22/7-evenemen
+ ts-culturels-a-ne-pas-manquer-cet-ete-a-toulouse-et-aux-alentours-13477248
+ .php
+LOCATION:Halle Night Long\, Toulouse
+URL:https://www.toulouscope.fr/2026/07/22/7-evenements-culturels-a-ne-pas-m
+ anquer-cet-ete-a-toulouse-et-aux-alentours-13477248.php?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0a614105-f4af-4d74-a72a-ee5ce7ec0e76@news.lavillerose.com
@@ -5807,18 +5809,37 @@ UID:cluster:1907a6f7-822b-4f49-a6d9-8477a4a31e7a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260824
 SUMMARY:Toulouse Plages
-DESCRIPTION:Toulouse Plages ouvre ses portes du 20 juillet au 23 août à l
- a Prairie des Filtres\, transformant les bords de Garonne en espace de loi
- sirs estival gratuit. Organisé depuis plus de vingt ans par la Ville de T
- oulouse avec le soutien d'une quarantaine d'associations locales\, l'évé
- nement propose des animations non-stop de 9h30 à 21h30 chaque jour. Le pr
- ogramme est particulièrement varié : beach-volley\, canoë-kayak\, yoga\
- , danse\, structures gonflables\, jeux aquatiques\, biblioplage et bien d'
- autres act\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-
- 07-20#46999
-LOCATION:espace de loisirs estival gratuit\, Toulouse
+DESCRIPTION:Toulouse Plages a ouvert le 20 juillet pour six semaines d'anim
+ ations gratuites jusqu'au 23 août\, principalement à la prairie des Filt
+ res au bord de la Garonne. Organisé depuis plus de vingt ans par la Ville
+  de Toulouse avec le soutien d'une quarantaine d'associations locales\, l'
+ événement propose chaque jour de 9h30 à 21h30 des activités sportives 
+ (beach-volley\, basket\, rugby à 7\, beach soccer…)\, nautiques (aviron
+ \, canoë-kayak)\, des jeux d'eau\, des espaces bien-être et une bibliopl
+ age. Le matéri\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-07-20#46999
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-20#46999?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1ca9f9f1-c334-4b3b-9286-b3d897fbc312@news.lavillerose.com
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Salon de Farnborough
+DESCRIPTION:Airbus réalise une solide moisson de commandes lors du salon a
+ éronautique de Farnborough\, qui se tient au Royaume-Uni du 21 au 22 juil
+ let 2026. Lors des deux premiers jours couverts en direct\, l'avionneur eu
+ ropéen a décroché des ordres pour plus de 150 avions et 10 hélicoptèr
+ es\, émanant de compagnies aussi variées que Philippine Airlines\, Flyna
+ s\, BermudAir ou Riyadh Air. Parmi les commandes notables figurent 100 app
+ areils pour SMBC Aviation Capital\, 25 avions pour Flynas et un drone mili
+ taire U0\n\nSource\: https://actu.fr/occitanie/toulouse_31555/direct-salon
+ -aeronautique-de-farnborough-apres-un-depart-en-fanfare-pour-airbus-suivez
+ -les-annonces-du-deuxieme-jour_64563483.html
+URL:https://actu.fr/occitanie/toulouse_31555/direct-salon-aeronautique-de-f
+ arnborough-apres-un-depart-en-fanfare-pour-airbus-suivez-les-annonces-du-d
+ euxieme-jour_64563483.html?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d2437ab1-7ee1-4c7c-9f8a-d864ed0b86fe@news.lavillerose.com
@@ -5880,6 +5901,23 @@ URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  1fff0a1a?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1053900a-bdd4-4839-96cf-965ae98b4f71@news.lavillerose.com
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260817
+SUMMARY:Travaux estivaux Tisséo : métro\, escaliers et Téléo concernés
+DESCRIPTION:Pendant la fermeture de la ligne B entre Saint-Michel Marcel La
+ nger et Ramonville — nécessaire pour les travaux de jonction avec la fu
+ ture ligne C — Tisséo en profite pour remplacer six escaliers mécaniqu
+ es dans les stations Empalot et Université Paul Sabatier\, évitant ainsi
+  trois semaines supplémentaires de fermeture pour chacune. Ce remplacemen
+ t s'inscrit dans un programme plus large entamé en 2020 portant sur 77 es
+ caliers de la ligne B et 120 au total avec la ligne A\, avec une fin de ch
+ antier\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-07-2
+ 3#47447
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-23#47447?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:224e4315-6b5a-4ffd-9913-62a990477fb2@news.lavillerose.com
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260803
@@ -5937,6 +5975,24 @@ LOCATION:parc ouvre ses portes\, Toulouse
 URL:https://www.toulouscope.fr/2026/07/11/pres-de-toulouse-ce-chateau-accue
  ille-lun-des-plus-grands-spectacles-pyrotechniques-du-gers-13457145.php?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:edd0dd5d-a3bf-4e33-b0de-54012bc53414@news.lavillerose.com
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260828
+SUMMARY:Palais de justice ou la ville enfouie
+DESCRIPTION:L'office de tourisme de Toulouse propose des visites guidées i
+ ntitulées « Palais de justice ou la ville enfouie »\, permettant de dé
+ couvrir une crypte archéologique de 600 m² cachée sous les salles d'aud
+ ience. Ce site abrite les vestiges de la porte Narbonnaise et du Château 
+ narbonnais\, ancienne résidence des comtes de Toulouse\, remontant au Ier
+  siècle. Considérée comme l'une des plus grandes découvertes archéolo
+ giques de la ville\, la crypte retrace 2 000 ans d'histoire toulousaine\, 
+ de l'entrée s\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2
+ 026-07-23#47450
+LOCATION:Palais de justice ou la ville enfouie »\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-23#47450?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:10957db0-2cf4-41ff-a518-2d6cb9f397e2@news.lavillerose.com

@@ -1,0 +1,47 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:86acfd63-6aff-4c69-a52a-96661e4b692a",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Sorties estivales à Toulouse : concerts, cinéma et festivals cet été",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a5f2b0b408923aa3100b850/hd/image.jpg?v=2",
+    "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:62e02128-1c01-459d-a228-5b4fdaa63052",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier pyrogravure sur bois à la Maison du lien social de Cornebarrieu",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-07/pyrogravure---magnific.jpg?itok=OERENEVd",
+    "file": "cluster_62e02128-1c01-459d-a228-5b4fdaa63052_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:aad7e63a-ac14-43a2-b62f-2116c7cf0c18",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier de création de cartes postales à la médiathèque de Rangueil",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-07/decoupage---magnific.jpg?itok=cmzGKpGH",
+    "file": "cluster_aad7e63a-ac14-43a2-b62f-2116c7cf0c18_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:bdec88fe-074f-4c1a-bb36-b005feff358e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le festival Mister Freeze investit la caserne Vion pour son closing",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/mister-freeze.jpg?itok=I6ddrLTm",
+    "file": "cluster_bdec88fe-074f-4c1a-bb36-b005feff358e_event_story.jpg"
+  }
+]

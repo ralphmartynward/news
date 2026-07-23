@@ -1,0 +1,45 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:86acfd63-6aff-4c69-a52a-96661e4b692a",
+  "title": "Sorties estivales à Toulouse : concerts, cinéma et festivals cet été",
+  "ig_caption": "Concerts gratuits tous les vendredis et samedis soir\nFunk, afrobeat, électro, rock en plein air\nJusqu'au 29 août à la Halle de la Machine",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"hallenight\", \"hallenightlong\", \"halledelamachine\", \"concertsgratuits\", \"festivaltoulouse\", \"eteAToulouse\", \"soireeestivale\", \"concertenplenair\", \"funk\", \"afrobeat\", \"electrotoulouse\", \"occitanie\", \"toulouscope\", \"actutoulouse\", \"sortiestoulouse\", \"weekendtoulouse\", \"festivalete\", \"musiquetoulouse\", \"toulouseculture\", \"cinemaenplenair\", \"toulousesortir\", \"ete2026\"]",
+  "ig_mention": "halledelamachine",
+  "venue": "Halle de la Machine",
+  "slides": [
+    {
+      "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_listicle_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_listicle_01.jpg",
+      "type": "item",
+      "title": "Halle Night Long",
+      "location": "Halle de la Machine, Toulouse"
+    },
+    {
+      "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_listicle_02.jpg",
+      "type": "item",
+      "title": "Afterworks Château de la Garrigue",
+      "location": "Château de la Garrigue"
+    },
+    {
+      "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_listicle_03.jpg",
+      "type": "item",
+      "title": "Cinéma en plein air",
+      "location": "Cinémathèque de Toulouse"
+    },
+    {
+      "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_listicle_04.jpg",
+      "type": "item",
+      "title": "Cinéma gratuit Jardin Niel",
+      "location": "Jardin Niel, Empalot, Toulouse"
+    },
+    {
+      "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_listicle_05.jpg",
+      "type": "item",
+      "title": "Cinéma sur tarmac Aeroscopia",
+      "location": "Aeroscopia, Toulouse"
+    }
+  ]
+}
