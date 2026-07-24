@@ -1,0 +1,92 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:4b8fa7d6-ac99-415e-8d0f-5b8a221f2dbb",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Exposition impressionniste gratuite au profit de l'association Diabalade",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/valerie-prats.jpg?h=4861ac59&itok=r0zAkscV",
+    "file": "cluster_4b8fa7d6-ac99-415e-8d0f-5b8a221f2dbb_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f3e8e412-2cc9-4016-8050-1fd4fca87907",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visites guidées de l'exposition Sorolla à la Fondation Bemberg cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/sorolla---chp.jpg?h=e795887c&itok=kKnyCypr",
+    "file": "cluster_f3e8e412-2cc9-4016-8050-1fd4fca87907_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:099d84f3-0239-4db7-b6b5-8d45de7833bf",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Exposition photo de Pierre Elie de Pibrac sur le Japon contemporain",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DE-L-ETE-PIERRE-ELIE-DE-PIBRAC.jpg",
+    "file": "cluster_099d84f3-0239-4db7-b6b5-8d45de7833bf_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:4c2b171a-4620-4d53-bd1c-b99c4636582b",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Exposition Sorolla : maître de la lumière jusqu'au 13 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DE-L-ETE-SOROLLA.jpg",
+    "file": "cluster_4c2b171a-4620-4d53-bd1c-b99c4636582b_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9c278fb7-ae7a-4dc9-a517-b74b9312f170",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Exposition immersive Castelbajac à Toulouse jusqu'au 23 août",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DE-L-ETE-CASTELBAJAC.jpg",
+    "file": "cluster_9c278fb7-ae7a-4dc9-a517-b74b9312f170_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:a9fd5f35-bfc3-4cbf-95f8-2ad2afca75c0",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Exposition Disenos Habitados : Almeida et Madoz jusqu'au 23 août",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DE-L-ETE-CHEMA-MADOZ.jpg",
+    "file": "cluster_a9fd5f35-bfc3-4cbf-95f8-2ad2afca75c0_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:86acfd63-6aff-4c69-a52a-96661e4b692a",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Sélection de sorties culturelles à Toulouse ce week-end d'été",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a5f2b0b408923aa3100b850/hd/image.jpg?v=2",
+    "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d65c11e6-b727-47e8-bf4b-bbb251eda585",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Cours de yoga entre les œuvres au musée des Augustins",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/yoga-geraldine.jpg?itok=9Is1LkiT",
+    "file": "cluster_d65c11e6-b727-47e8-bf4b-bbb251eda585_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:dd70e236-0b24-42d0-b1ec-95f66e685b4c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Fête du rugby à XIII ce samedi au stade Ernest-Wallon",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/2026-dragons-catalans-vs-toulouse-olympique---magic-weekend-46---kevin-carriere.jpg?itok=CjcupAaN",
+    "file": "cluster_dd70e236-0b24-42d0-b1ec-95f66e685b4c_event_story.jpg"
+  }
+]
