@@ -5941,19 +5941,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260727
-SUMMARY:Sélection de sorties culturelles à Toulouse ce week-end d'été
-DESCRIPTION:Pour ce dernier week-end de juillet 2026\, plusieurs sources pr
- oposent leurs sélections de sorties toulousaines. La Halle Night Long rev
- ient pour sa 8e édition à la Halle de la Machine\, avec des concerts gra
- tuits tous les vendredis et samedis jusqu'au 29 août (funk\, rock\, afrob
- eat\, électro…). Le Muséum de Toulouse a rouvert après une panne de c
- limatisation et reprend sa programmation estivale\, tandis que la maison B
- abayaga du collectif Salade Suprême ferme définitivement ses portes ce w
- eek-end. C\n\nSource\: https://www.toulouscope.fr/2026/07/22/7-evenements-
- culturels-a-ne-pas-manquer-cet-ete-a-toulouse-et-aux-alentours-13477248.ph
- p
-LOCATION:Halle Night Long revient\, Toulouse
+DTEND;VALUE=DATE:20260830
+SUMMARY:Halle Night Long
+DESCRIPTION:Pour ce dernier week-end de juillet 2026\, Toulouse et ses envi
+ rons proposent une programmation estivale dense. Le festival Halle Night L
+ ong (8e édition) continue ses concerts gratuits tous les vendredis et sam
+ edis à la Halle de la Machine jusqu'au 29 août\, avec des artistes aussi
+  variés que Dowdelin\, Madalitso Band ou Culte Funk. Le cinéma en plein 
+ air se décline sur plusieurs sites : la Cinémathèque de Toulouse\, le J
+ ardin Niel (entrée gratuite) et Aeroscopia. En dehors de Toulouse\, le fe
+ stival \n\nSource\: https://www.toulouscope.fr/2026/07/22/7-evenements-cul
+ turels-a-ne-pas-manquer-cet-ete-a-toulouse-et-aux-alentours-13477248.php
+LOCATION:Halle Night Long (8e édition) continue ses concerts\, Toulouse
 URL:https://www.toulouscope.fr/2026/07/22/7-evenements-culturels-a-ne-pas-m
  anquer-cet-ete-a-toulouse-et-aux-alentours-13477248.php?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
@@ -5974,6 +5973,25 @@ DESCRIPTION:Le Château d'Eau accueille actuellement deux expositions photo
  026-07-24#47521
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-24#47521?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1a73d94e-0969-4c9d-9848-380e5a8f57fb@news.lavillerose.com
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20261101
+SUMMARY:Survivre à Auschwitz
+DESCRIPTION:L'exposition « Survivre à Auschwitz » vient d'ouvrir au Mus
+ ée départemental de la Résistance & de la Déportation de Toulouse et s
+ era visible jusqu'au 31 octobre. Elle prend pour point de départ une phot
+ ographie prise peu après la libération d'Auschwitz\, sur laquelle figure
+ nt seize survivants français devant le portail du camp — dont les ident
+ ités étaient restées inconnues pendant des décennies. Après quatre an
+ s d'enquête\, la chargée des collections Claire Léger et l'historien Ta
+ l Bruttmann ont r\n\nSource\: https://www.toulouscope.fr/2026/07/24/cette-
+ nouvelle-exposition-a-toulouse-devoile-une-incroyable-enquete-sur-les-surv
+ ivants-dauschwitz-13463020.php
+URL:https://www.toulouscope.fr/2026/07/24/cette-nouvelle-exposition-a-toulo
+ use-devoile-une-incroyable-enquete-sur-les-survivants-dauschwitz-13463020.
+ php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:79a3faeb-fe83-49b3-97db-3e62b38454ed@news.lavillerose.com

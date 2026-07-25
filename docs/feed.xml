@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-07-24T07:31:04.842858+00:00</updated>
+  <updated>2026-07-25T07:17:00.040369+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,20 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:c121e155-3028-4db8-8206-d0ae9f83d4bb</id>
-    <title>370 points de fraîcheur recensés sur une carte interactive en Haute-Garonne</title>
-    <updated>2026-07-18T07:00:51.132989+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Face à la multiplication des épisodes de fortes chaleurs, le Conseil départemental de la Haute-Garonne lance une carte numérique interactive recensant 370 points de fraîcheur sur l&amp;#x27;ensemble du territoire. L&amp;#x27;outil est accessible en ligne et s&amp;#x27;adresse aussi bien aux habitants qu&amp;#x27;aux touristes. Parmi les lieux référencés figurent des espaces extérieurs comme les stations pyrénéennes ouvertes l&amp;#x27;été, plusieurs lacs et bases de loisirs, la forêt de Buzet, le massif de Bouconne ou encore le Canal du Midi — qui fête cette année ses 30 ans d&amp;#x27;inscription au patrimoine mondial de l&amp;#x27;Unesco. Des espaces culturels et historiques climatisés, comme musées et châteaux, sont également répertoriés pour se rafraîchir durant les heures les plus chaudes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/17/plus-de-300-points-de-fraicheur-recenses-sur-une-carte-interactive-en-haute-garonne-13469951.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/07/17/plus-de-300-points-de-fraicheur-recenses-sur-une-carte-interactive-en-haute-garonne-13469951.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Face à la multiplication des épisodes de fortes chaleurs, le Conseil départemental de la Haute-Garonne lance une carte numérique interactive recensant 370 points de fraîcheur sur l'ensemble du territoire. L'outil est accessible en ligne et s'adresse aussi bien aux habitants qu'aux touristes. Parmi les lieux référencés figurent des espaces extérieurs comme les stations pyrénéennes ouvertes l'été, plusieurs lacs et bases de loisirs, la forêt de Buzet, le massif de Bouconne ou encore le Canal du Midi — qui fête cette année ses 30 ans d'inscription au patrimoine mondial de l'Unesco. Des espaces culturels et historiques climatisés, comme musées et châteaux, sont également répertoriés pour se rafraîchir durant les heures les plus chaudes.</summary>
-    <category term="news"/>
-    <published>2026-07-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>cluster:test-sudest-toulousain-listicle-0718</id>
     <title>10 sorties à ne pas manquer dans le Sud-Est Toulousain cet été</title>
@@ -672,30 +658,6 @@ Une sortie culturelle incontournable cet été
     <published>2026-07-23T09:27:19.806000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:f5e227db-e739-405e-92c0-e34da7b863dd</id>
-    <title>Partir en Vadrouille</title>
-    <updated>2026-07-24T07:31:04.842858+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-07-24-1?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-07-24-1?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-07-24T04:10:05.017000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:384d8d2a-c7b9-4d87-9dd4-2bb93c841f98</id>
-    <title>100% toulousain</title>
-    <updated>2026-07-24T07:31:04.842858+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-07-24-0?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-07-24-0?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-07-24T04:10:05.017000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:dd70e236-0b24-42d0-b1ec-95f66e685b4c</id>
     <title>Fête du rugby à XIII ce samedi au stade Ernest-Wallon</title>
     <updated>2026-07-24T07:31:04.842858+00:00</updated>
@@ -764,20 +726,6 @@ Une sortie culturelle incontournable cet été
     <summary>Depuis cet été, une grue installée en plein milieu de la Garonne attire l'attention des Toulousains et des touristes longeant le quai ou le pont Saint-Pierre. Ces travaux sont menés par EDF Hydro Sud-Ouest, premier producteur d'énergie renouvelable d'Occitanie et gestionnaire du site du Bazacle. L'objectif est double : assurer la maintenance de la centrale hydroélectrique et rénover la chaussée du barrage, un chantier entamé dès 2024. Les travaux ont nécessité une coupure d'eau sur le barrage et se poursuivent cet été après un démarrage au mois dernier.</summary>
     <category term="news"/>
     <published>2026-07-23T12:00:35+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:eef3b749-30ad-422c-9fed-d302aec6f2b2</id>
-    <title>Canicule vendredi puis orages violents samedi à Toulouse</title>
-    <updated>2026-07-24T07:31:04.842858+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Toulouse et l&amp;#x27;Occitanie s&amp;#x27;apprêtent à vivre un épisode météorologique contrasté les vendredi 24 et samedi 25 juillet 2026. Vendredi sera la journée la plus chaude de la semaine, avec des températures attendues entre 38 et 39°C — La Chaîne Météo anticipant même 39,6°C, ce qui ferait de Toulouse la ville la plus chaude de France ce jour-là. Dès vendredi soir, les premiers orages éclateront au pied des Pyrénées avant de s&amp;#x27;étendre à toute la région samedi. Météo France évoque un risque de vigilance orange « orages » avec des phénomènes violents possibles : fortes pluies, grêle et vents forts. La dégradation devrait apporter un net rafraîchissement dès dimanche.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-pic-de-chaleur-puis-un-risque-d-orages-violents-avec-de-la-grele-un-veritable-yoyo-meteo-a-toulouse-et-en-occitanie_64575385.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/un-pic-de-chaleur-puis-un-risque-d-orages-violents-avec-de-la-grele-un-veritable-yoyo-meteo-a-toulouse-et-en-occitanie_64575385.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse et l'Occitanie s'apprêtent à vivre un épisode météorologique contrasté les vendredi 24 et samedi 25 juillet 2026. Vendredi sera la journée la plus chaude de la semaine, avec des températures attendues entre 38 et 39°C — La Chaîne Météo anticipant même 39,6°C, ce qui ferait de Toulouse la ville la plus chaude de France ce jour-là. Dès vendredi soir, les premiers orages éclateront au pied des Pyrénées avant de s'étendre à toute la région samedi. Météo France évoque un risque de vigilance orange « orages » avec des phénomènes violents possibles : fortes pluies, grêle et vents forts. La dégradation devrait apporter un net rafraîchissement dès dimanche.</summary>
-    <category term="news"/>
-    <published>2026-07-23T11:52:01+02:00</published>
   </entry>
   <entry>
     <id>cluster:358709ea-ec2d-4b5a-816c-ad9f83f1ff92</id>
@@ -906,9 +854,141 @@ Une sortie culturelle incontournable cet été
     <published>2026-07-24T08:05:17+02:00</published>
   </entry>
   <entry>
+    <id>cluster:1a73d94e-0969-4c9d-9848-380e5a8f57fb</id>
+    <title>Exposition « Survivre à Auschwitz » au Musée de la Résistance jusqu'en octobre</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;exposition « Survivre à Auschwitz » vient d&amp;#x27;ouvrir au Musée départemental de la Résistance &amp;amp; de la Déportation de Toulouse et sera visible jusqu&amp;#x27;au 31 octobre. Elle prend pour point de départ une photographie prise peu après la libération d&amp;#x27;Auschwitz, sur laquelle figurent seize survivants français devant le portail du camp — dont les identités étaient restées inconnues pendant des décennies. Après quatre ans d&amp;#x27;enquête, la chargée des collections Claire Léger et l&amp;#x27;historien Tal Bruttmann ont réussi à identifier chacun d&amp;#x27;eux en croisant l&amp;#x27;image avec les fonds d&amp;#x27;archives du musée et ceux du Mémorial de la Shoah à Paris. Une centaine de pièces — lettres, dessins, objets personnels, témoignages inédits — retracent le parcours de ces femmes et de ces hommes, de leur déportation à leur survie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/24/cette-nouvelle-exposition-a-toulouse-devoile-une-incroyable-enquete-sur-les-survivants-dauschwitz-13463020.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/07/24/cette-nouvelle-exposition-a-toulouse-devoile-une-incroyable-enquete-sur-les-survivants-dauschwitz-13463020.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'exposition « Survivre à Auschwitz » vient d'ouvrir au Musée départemental de la Résistance &amp; de la Déportation de Toulouse et sera visible jusqu'au 31 octobre. Elle prend pour point de départ une photographie prise peu après la libération d'Auschwitz, sur laquelle figurent seize survivants français devant le portail du camp — dont les identités étaient restées inconnues pendant des décennies. Après quatre ans d'enquête, la chargée des collections Claire Léger et l'historien Tal Bruttmann ont réussi à identifier chacun d'eux en croisant l'image avec les fonds d'archives du musée et ceux du Mémorial de la Shoah à Paris. Une centaine de pièces — lettres, dessins, objets personnels, témoignages inédits — retracent le parcours de ces femmes et de ces hommes, de leur déportation à leur survie.</summary>
+    <category term="event"/>
+    <published>2026-07-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:8cc3c21e-3a93-4f4b-92b5-c43aeeda6653</id>
+    <title>Arrêté de sécurité pour un immeuble du centre de Toulouse</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Un immeuble situé au 13 rue des Changes, dans le centre de Toulouse, a reçu un arrêté de mise en sécurité le 22 juillet de la mairie. Le bâtiment de trois étages présente des problèmes d&amp;#x27;étanchéité, des fissures et une toiture endommagée, qualifiés de « désordres structurels ». La mairie avait déjà transmis au propriétaire une liste de travaux à réaliser, mais ceux-ci n&amp;#x27;ont pas été effectués, ce qui a conduit à cette procédure formelle. Le bâtiment, qui abrite un commerce de boissons taïwanaises en rez-de-chaussée et un bar en sous-sol, est désormais sous surveillance, sans toutefois menacer de s&amp;#x27;effondrer dans l&amp;#x27;immédiat. L&amp;#x27;arrêté intervient dans un contexte sensible, à proximité de la rue Saint-Rome où un immeuble s&amp;#x27;était effondré le 9 mars 2024.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails de l&amp;#x27;arrêté municipal, nature des désordres et contexte de l&amp;#x27;effondrement rue Saint-Rome&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/probleme-d-etancheite-fissures-toiture-endommagee-un-immeuble-du-centre-de-toulouse-vise-par-un-arrete-de-securite_64578850.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/probleme-d-etancheite-fissures-toiture-endommagee-un-immeuble-du-centre-de-toulouse-vise-par-un-arrete-de-securite_64578850.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un immeuble situé au 13 rue des Changes, dans le centre de Toulouse, a reçu un arrêté de mise en sécurité le 22 juillet de la mairie. Le bâtiment de trois étages présente des problèmes d'étanchéité, des fissures et une toiture endommagée, qualifiés de « désordres structurels ». La mairie avait déjà transmis au propriétaire une liste de travaux à réaliser, mais ceux-ci n'ont pas été effectués, ce qui a conduit à cette procédure formelle. Le bâtiment, qui abrite un commerce de boissons taïwanaises en rez-de-chaussée et un bar en sous-sol, est désormais sous surveillance, sans toutefois menacer de s'effondrer dans l'immédiat. L'arrêté intervient dans un contexte sensible, à proximité de la rue Saint-Rome où un immeuble s'était effondré le 9 mars 2024.</summary>
+    <category term="news"/>
+    <published>2026-07-24T10:59:12+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:92e9bc45-6c5e-4e76-b2e9-a0c36ce6448d</id>
+    <title>Orages, grêle et foudre attendus à Toulouse et en Occitanie</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Une forte chaleur règne sur Toulouse ce vendredi, mais Météo France prévient que la situation devrait basculer en fin de journée avec des orages violents et localisés. L&amp;#x27;activité orageuse est attendue principalement en deuxième partie d&amp;#x27;après-midi et en soirée, concentrée sur le Volvestre, le Comminges et le piémont pyrénéen. Des phénomènes de grêle et une forte activité électrique sont possibles, bien que les modèles météo restent incertains quant à l&amp;#x27;évolution spatiale des perturbations. Samedi, après une accalmie matinale, une perturbation orageuse plus généralisée concernera Toulouse et la majeure partie des départements d&amp;#x27;Occitanie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-orages-avec-grele-et-foudre-annonces-a-toulouse-et-en-occitanie-notre-carte-des-eclairs-en-temps-reel_64582173.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/des-orages-avec-grele-et-foudre-annonces-a-toulouse-et-en-occitanie-notre-carte-des-eclairs-en-temps-reel_64582173.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Une forte chaleur règne sur Toulouse ce vendredi, mais Météo France prévient que la situation devrait basculer en fin de journée avec des orages violents et localisés. L'activité orageuse est attendue principalement en deuxième partie d'après-midi et en soirée, concentrée sur le Volvestre, le Comminges et le piémont pyrénéen. Des phénomènes de grêle et une forte activité électrique sont possibles, bien que les modèles météo restent incertains quant à l'évolution spatiale des perturbations. Samedi, après une accalmie matinale, une perturbation orageuse plus généralisée concernera Toulouse et la majeure partie des départements d'Occitanie.</summary>
+    <category term="news"/>
+    <published>2026-07-24T16:16:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:96445278-633b-4867-b4eb-1635fc0bb8b8</id>
+    <title>Un braqueur en série de supérettes toulousaines arrêté grâce à son ADN</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Un homme né en 1995 a été interpellé à Toulouse après avoir commis six braquages dans des supérettes de la ville entre juin et juillet 2026, toujours armé et le visage dissimulé sous une cagoule. Les enquêteurs de la Division de la criminalité territoriale ont rapidement repéré des similitudes dans le mode opératoire et identifié le suspect via les caméras de vidéosurveillance. C&amp;#x27;est la découverte d&amp;#x27;une cagoule abandonnée près d&amp;#x27;une des supérettes — sur laquelle des traces d&amp;#x27;ADN ont été relevées — qui a permis de confirmer l&amp;#x27;identité du mis en cause. Interpellé à son domicile le 21 juillet, il a finalement reconnu l&amp;#x27;ensemble des faits, indiquant qu&amp;#x27;il utilisait l&amp;#x27;argent dérobé (environ 300 € à chaque fois) pour acheter de la drogue.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-avait-multiplie-les-braquages-dans-les-superettes-de-toulouse-le-recidiviste-piege-par-une-cagoule-et-son-adn_64583222.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/il-avait-multiplie-les-braquages-dans-les-superettes-de-toulouse-le-recidiviste-piege-par-une-cagoule-et-son-adn_64583222.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un homme né en 1995 a été interpellé à Toulouse après avoir commis six braquages dans des supérettes de la ville entre juin et juillet 2026, toujours armé et le visage dissimulé sous une cagoule. Les enquêteurs de la Division de la criminalité territoriale ont rapidement repéré des similitudes dans le mode opératoire et identifié le suspect via les caméras de vidéosurveillance. C'est la découverte d'une cagoule abandonnée près d'une des supérettes — sur laquelle des traces d'ADN ont été relevées — qui a permis de confirmer l'identité du mis en cause. Interpellé à son domicile le 21 juillet, il a finalement reconnu l'ensemble des faits, indiquant qu'il utilisait l'argent dérobé (environ 300 € à chaque fois) pour acheter de la drogue.</summary>
+    <category term="news"/>
+    <published>2026-07-24T16:17:24+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:e4a3a31a-9547-49f8-a2d0-48cd7c73fbd5</id>
+    <title>Limatech, pionnière des batteries aéronautiques, placée en liquidation judiciaire</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;entreprise toulousaine Limatech, premier fabricant européen de batteries au lithium certifié pour l&amp;#x27;aéronautique, a été placée en liquidation judiciaire par le tribunal de commerce de Toulouse le 11 juin 2026. Spécialisée dans les batteries lithium fer phosphate (LFP) pour avions et hélicoptères, la société était installée chemin de la Crabe à Toulouse. La liquidation intervient après l&amp;#x27;échec d&amp;#x27;une procédure de redressement judiciaire ouverte le 9 avril 2026 : la justice a conclu qu&amp;#x27;aucun redressement ni reprise n&amp;#x27;était envisageable. Un liquidateur a été nommé pour céder les actifs et tenter de désintéresser les créanciers, mettant fin à l&amp;#x27;activité d&amp;#x27;un acteur jugé pionnier à l&amp;#x27;échelle européenne.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Explication pédagogique de la procédure judiciaire et du parcours de Limatech&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-entreprise-de-batteries-revolutionnaires-limatech-placee-en-liquidation-judiciaire-a-toulouse-on-vous-explique_64577779.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/l-entreprise-de-batteries-revolutionnaires-limatech-placee-en-liquidation-judiciaire-a-toulouse-on-vous-explique_64577779.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'entreprise toulousaine Limatech, premier fabricant européen de batteries au lithium certifié pour l'aéronautique, a été placée en liquidation judiciaire par le tribunal de commerce de Toulouse le 11 juin 2026. Spécialisée dans les batteries lithium fer phosphate (LFP) pour avions et hélicoptères, la société était installée chemin de la Crabe à Toulouse. La liquidation intervient après l'échec d'une procédure de redressement judiciaire ouverte le 9 avril 2026 : la justice a conclu qu'aucun redressement ni reprise n'était envisageable. Un liquidateur a été nommé pour céder les actifs et tenter de désintéresser les créanciers, mettant fin à l'activité d'un acteur jugé pionnier à l'échelle européenne.</summary>
+    <category term="news"/>
+    <published>2026-07-24T18:16:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3534f1bc-e64e-4a78-b257-35f7cdcf7089</id>
+    <title>Critique : "Supergirl", aventure spatiale décomplexée et divertissante</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le réalisateur australien Craig Gillespie (Cruella) signe avec Supergirl un film de divertissement assumé mêlant aventure spatiale, western cosmique et humour. L&amp;#x27;héroïne Kara Zor-El, interprétée par Milly Alcock, part sauver son chien Krypto empoisonné par le cruel Krem (Matthias Schoenaerts), un pirate spatial qui détient le seul antidote. Le film multiplie les effets spéciaux, les batailles chorégraphiées et les clins d&amp;#x27;œil à Mad Max, tout en offrant des flashbacks sur la jeunesse de Kara sur Krypton. Malgré des avis mitigés, la critique d&amp;#x27;actu_toulouse le défend comme un moment de détente efficace qui ne prend pas son public de haut.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Critique enthousiaste et détaillée du film, avec synopsis et contexte&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-supergirl-un-film-entre-aventure-spatiale-drame-et-western-cosmique-faut-il-aller-le-voir_64566775.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cinema-supergirl-un-film-entre-aventure-spatiale-drame-et-western-cosmique-faut-il-aller-le-voir_64566775.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le réalisateur australien Craig Gillespie (Cruella) signe avec Supergirl un film de divertissement assumé mêlant aventure spatiale, western cosmique et humour. L'héroïne Kara Zor-El, interprétée par Milly Alcock, part sauver son chien Krypto empoisonné par le cruel Krem (Matthias Schoenaerts), un pirate spatial qui détient le seul antidote. Le film multiplie les effets spéciaux, les batailles chorégraphiées et les clins d'œil à Mad Max, tout en offrant des flashbacks sur la jeunesse de Kara sur Krypton. Malgré des avis mitigés, la critique d'actu_toulouse le défend comme un moment de détente efficace qui ne prend pas son public de haut.</summary>
+    <category term="culture"/>
+    <published>2026-07-24T19:19:55+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:596648b5-f658-4c38-843d-9df806a33632</id>
+    <title>Toulouse bat un record de nuits tropicales consécutives depuis 1947</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Entre le 8 et le 21 juillet 2026, Toulouse a enregistré un nombre record de nuits tropicales consécutives, passé presque inaperçu au milieu des alertes canicule diurnes. La température nocturne moyenne a atteint 21,7°C sur cette période, surpassant le précédent record de 20,2°C établi en juillet 2006. Valéry Mourot, météorologiste conseil chez Météo France pour la région Midi-Pyrénées, affirme qu&amp;#x27;une période nocturne aussi chaude n&amp;#x27;avait pas été observée depuis 1947. Ces nuits trop chaudes perturbent le sommeil des Toulousains, et d&amp;#x27;autres records mensuels en Haute-Garonne pourraient encore tomber avant la fin juillet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/jamais-connu-une-periode-aussi-chaude-depuis-1947-en-toute-discretion-toulouse-a-battu-un-nouveau-record_64577349.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/jamais-connu-une-periode-aussi-chaude-depuis-1947-en-toute-discretion-toulouse-a-battu-un-nouveau-record_64577349.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Entre le 8 et le 21 juillet 2026, Toulouse a enregistré un nombre record de nuits tropicales consécutives, passé presque inaperçu au milieu des alertes canicule diurnes. La température nocturne moyenne a atteint 21,7°C sur cette période, surpassant le précédent record de 20,2°C établi en juillet 2006. Valéry Mourot, météorologiste conseil chez Météo France pour la région Midi-Pyrénées, affirme qu'une période nocturne aussi chaude n'avait pas été observée depuis 1947. Ces nuits trop chaudes perturbent le sommeil des Toulousains, et d'autres records mensuels en Haute-Garonne pourraient encore tomber avant la fin juillet.</summary>
+    <category term="news"/>
+    <published>2026-07-24T19:26:48+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f9cadf76-8d9c-4c3d-a243-da2f5a0c9820</id>
+    <title>La Jonction Est, échangeur controversé à 95 M€, en suspens budgétaire</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le projet de nouvel échangeur autoroutier « La Jonction Est », prévu face à la Cité de l&amp;#x27;Espace sur le périphérique toulousain, reste incertain malgré un soutien affiché du maire de Toulouse Jean-Luc Moudenc et des élus de l&amp;#x27;Est toulousain. Le coût estimé à 95 millions d&amp;#x27;euros — susceptible d&amp;#x27;augmenter avec l&amp;#x27;inflation — pèse sur les arbitrages budgétaires estivaux de Toulouse Métropole. Un collectif d&amp;#x27;associations a adressé un courrier solennel au président de la Métropole pour demander le report du démarrage des travaux, jugeant le projet prématuré au regard des aménagements déjà réalisés ou prévus à proximité. Des opposants écologistes ont par ailleurs déposé un recours juridique il y a quelques mois, tandis qu&amp;#x27;en coulisses, le projet continuerait néanmoins d&amp;#x27;avancer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Décryptage des tensions politiques et budgétaires autour du projet, avec les arguments des partisans et des opposants&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-projet-de-nouvel-echangeur-sur-le-peripherique-de-toulouse-peut-il-etre-annule-ce-qu-il-se-passe-en-coulisses_64582393.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-projet-de-nouvel-echangeur-sur-le-peripherique-de-toulouse-peut-il-etre-annule-ce-qu-il-se-passe-en-coulisses_64582393.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le projet de nouvel échangeur autoroutier « La Jonction Est », prévu face à la Cité de l'Espace sur le périphérique toulousain, reste incertain malgré un soutien affiché du maire de Toulouse Jean-Luc Moudenc et des élus de l'Est toulousain. Le coût estimé à 95 millions d'euros — susceptible d'augmenter avec l'inflation — pèse sur les arbitrages budgétaires estivaux de Toulouse Métropole. Un collectif d'associations a adressé un courrier solennel au président de la Métropole pour demander le report du démarrage des travaux, jugeant le projet prématuré au regard des aménagements déjà réalisés ou prévus à proximité. Des opposants écologistes ont par ailleurs déposé un recours juridique il y a quelques mois, tandis qu'en coulisses, le projet continuerait néanmoins d'avancer.</summary>
+    <category term="news"/>
+    <published>2026-07-25T06:36:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:eef3b749-30ad-422c-9fed-d302aec6f2b2</id>
+    <title>Pic de chaleur puis orages violents avec grêle attendus à Toulouse</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Toulouse et l&amp;#x27;Occitanie traversent un épisode météorologique en dents de scie les 24 et 25 juillet 2026. Vendredi sera la journée la plus chaude de la semaine, avec des températures attendues entre 38°C et 39,6°C — Toulouse pourrait être la ville la plus chaude de France selon La Chaîne Météo. Dès vendredi soir et surtout samedi, une dégradation orageuse généralisée est prévue sur toute la région, avec un risque de vigilance orange sur les zones de reliefs et le pourtour méditerranéen. Les orages pourraient être violents, accompagnés de fortes pluies, de grêle et de vents forts, voire supercellulaires selon un météorologiste de Météo France. Un retour à des températures plus fraîches est attendu dès dimanche.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article donne une vue d&amp;#x27;ensemble du week-end (vendredi–dimanche) avec les prévisions régionales. Le second se concentre davantage sur la parole d&amp;#x27;un expert de Météo France (Valéry Mourot) qui détaille les risques locaux, notamment les orages supercellulaires et la concentration des phénomènes sur le piémont pyrénéen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Vue d&amp;#x27;ensemble du yoyo météo vendredi–dimanche, prévisions températures et vigilance orange&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Analyse experte de Météo France sur les orages supercellulaires et les zones à risque localisées&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-pic-de-chaleur-puis-un-risque-d-orages-violents-avec-de-la-grele-un-veritable-yoyo-meteo-a-toulouse-et-en-occitanie_64575385.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-orages-supercellulaires-localises-et-violents-sont-possibles-ce-qui-attend-toulouse-et-l-occitanie_64581045.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/un-pic-de-chaleur-puis-un-risque-d-orages-violents-avec-de-la-grele-un-veritable-yoyo-meteo-a-toulouse-et-en-occitanie_64575385.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse et l'Occitanie traversent un épisode météorologique en dents de scie les 24 et 25 juillet 2026. Vendredi sera la journée la plus chaude de la semaine, avec des températures attendues entre 38°C et 39,6°C — Toulouse pourrait être la ville la plus chaude de France selon La Chaîne Météo. Dès vendredi soir et surtout samedi, une dégradation orageuse généralisée est prévue sur toute la région, avec un risque de vigilance orange sur les zones de reliefs et le pourtour méditerranéen. Les orages pourraient être violents, accompagnés de fortes pluies, de grêle et de vents forts, voire supercellulaires selon un météorologiste de Météo France. Un retour à des températures plus fraîches est attendu dès dimanche.</summary>
+    <category term="news"/>
+    <published>2026-07-23T11:52:01+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:86acfd63-6aff-4c69-a52a-96661e4b692a</id>
-    <title>Sélection de sorties culturelles à Toulouse ce week-end d'été</title>
-    <updated>2026-07-24T07:31:04.842858+00:00</updated>
+    <title>Sorties estivales à Toulouse : concerts, festivals et cinéma en plein air</title>
+    <updated>2026-07-25T07:17:00.040369+00:00</updated>
     <author>
       <name>toulouscope</name>
     </author>
@@ -918,12 +998,12 @@ Une sortie culturelle incontournable cet été
     <author>
       <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;Pour ce dernier week-end de juillet 2026, plusieurs sources proposent leurs sélections de sorties toulousaines. La Halle Night Long revient pour sa 8e édition à la Halle de la Machine, avec des concerts gratuits tous les vendredis et samedis jusqu&amp;#x27;au 29 août (funk, rock, afrobeat, électro…). Le Muséum de Toulouse a rouvert après une panne de climatisation et reprend sa programmation estivale, tandis que la maison Babayaga du collectif Salade Suprême ferme définitivement ses portes ce week-end. Cinéma en plein air, expositions et plages urbaines (prairie des Filtres, lac de Sesquière, lac de La Ramée) complètent le tableau pour les Toulousains en quête d&amp;#x27;activités estivales.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Toulouscope propose une sélection orientée événements récurrents et programmation estivale large (jusqu&amp;#x27;en août). Actu Toulouse se concentre sur le week-end précis du 24–26 juillet avec des horaires et tarifs détaillés. L&amp;#x27;Essentiel mêle actus de réouverture (Muséum), dernières chances (Babayaga) et suggestions de vadrouilles régionales.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails pratiques (horaires, tarifs, réservations) pour le week-end du 24–26 juillet&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Vue d&amp;#x27;ensemble des événements estivaux récurrents à Toulouse et en Occitanie&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Actus de dernière minute (réouverture du Muséum, fermeture de Babayaga) et idées de vadrouilles régionales&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/22/7-evenements-culturels-a-ne-pas-manquer-cet-ete-a-toulouse-et-aux-alentours-13477248.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-concert-expositions-notre-selection-des-10-sorties-a-ne-pas-manquer-pour-ce-dernier-week-end-de-juillet_64561075.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-24?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47523"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Pour ce dernier week-end de juillet 2026, Toulouse et ses environs proposent une programmation estivale dense. Le festival Halle Night Long (8e édition) continue ses concerts gratuits tous les vendredis et samedis à la Halle de la Machine jusqu&amp;#x27;au 29 août, avec des artistes aussi variés que Dowdelin, Madalitso Band ou Culte Funk. Le cinéma en plein air se décline sur plusieurs sites : la Cinémathèque de Toulouse, le Jardin Niel (entrée gratuite) et Aeroscopia. En dehors de Toulouse, le festival Vadrouille tient sa 11e édition les 24 et 25 juillet à Poucharramet, et le Manouch&amp;#x27; Muzik Festival anime Mazères en Ariège du 13 au 16 août avec 47 concerts gratuits autour du jazz manouche, du flamenco et des musiques gitanes. Le Muséum de Toulouse, fermé temporairement pour panne de climatisation, a également rouvert avec sa programmation estivale.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse propose une sélection structurée en 10 sorties précises pour le week-end du 24-26 juillet. Toulouscope adopte une vue plus large sur l&amp;#x27;été entier avec deux articles distincts (Halle Night Long + Manouch&amp;#x27; Muzik Festival). L&amp;#x27;Essentiel mêle agenda du week-end et brèves locales (réouverture du Muséum, Babayaga, plages).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail pratique des 10 sorties du week-end 24-26 juillet (horaires, tarifs, réservations)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Focus sur Halle Night Long et sur le Manouch&amp;#x27; Muzik Festival en Ariège&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Tour d&amp;#x27;horizon rapide des activités toulousaines + suggestions de vadrouilles en région&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/22/7-evenements-culturels-a-ne-pas-manquer-cet-ete-a-toulouse-et-aux-alentours-13477248.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-concert-expositions-notre-selection-des-10-sorties-a-ne-pas-manquer-pour-ce-dernier-week-end-de-juillet_64561075.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-24?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47523"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.toulouscope.fr/2026/07/25/a-30min-de-toulouse-ce-festival-fait-vibrer-lariege-au-rythme-du-jazz-manouche-13445154.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.toulouscope.fr/2026/07/22/7-evenements-culturels-a-ne-pas-manquer-cet-ete-a-toulouse-et-aux-alentours-13477248.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Pour ce dernier week-end de juillet 2026, plusieurs sources proposent leurs sélections de sorties toulousaines. La Halle Night Long revient pour sa 8e édition à la Halle de la Machine, avec des concerts gratuits tous les vendredis et samedis jusqu'au 29 août (funk, rock, afrobeat, électro…). Le Muséum de Toulouse a rouvert après une panne de climatisation et reprend sa programmation estivale, tandis que la maison Babayaga du collectif Salade Suprême ferme définitivement ses portes ce week-end. Cinéma en plein air, expositions et plages urbaines (prairie des Filtres, lac de Sesquière, lac de La Ramée) complètent le tableau pour les Toulousains en quête d'activités estivales.</summary>
+    <summary>Pour ce dernier week-end de juillet 2026, Toulouse et ses environs proposent une programmation estivale dense. Le festival Halle Night Long (8e édition) continue ses concerts gratuits tous les vendredis et samedis à la Halle de la Machine jusqu'au 29 août, avec des artistes aussi variés que Dowdelin, Madalitso Band ou Culte Funk. Le cinéma en plein air se décline sur plusieurs sites : la Cinémathèque de Toulouse, le Jardin Niel (entrée gratuite) et Aeroscopia. En dehors de Toulouse, le festival Vadrouille tient sa 11e édition les 24 et 25 juillet à Poucharramet, et le Manouch' Muzik Festival anime Mazères en Ariège du 13 au 16 août avec 47 concerts gratuits autour du jazz manouche, du flamenco et des musiques gitanes. Le Muséum de Toulouse, fermé temporairement pour panne de climatisation, a également rouvert avec sa programmation estivale.</summary>
     <category term="event"/>
     <published>2026-07-22T00:00:00+00:00</published>
   </entry>
