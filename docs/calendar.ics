@@ -5803,19 +5803,19 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-20#46999?utm_sour
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1ca9f9f1-c334-4b3b-9286-b3d897fbc312@news.lavillerose.com
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
 SUMMARY:Salon de Farnborough
-DESCRIPTION:Airbus réalise une solide moisson de commandes lors du salon a
- éronautique de Farnborough\, qui se tient au Royaume-Uni du 21 au 22 juil
- let 2026. Lors des deux premiers jours couverts en direct\, l'avionneur eu
- ropéen a décroché des ordres pour plus de 150 avions et 10 hélicoptèr
- es\, émanant de compagnies aussi variées que Philippine Airlines\, Flyna
- s\, BermudAir ou Riyadh Air. Parmi les commandes notables figurent 100 app
- areils pour SMBC Aviation Capital\, 25 avions pour Flynas et un drone mili
- taire U0\n\nSource\: https://actu.fr/occitanie/toulouse_31555/direct-salon
- -aeronautique-de-farnborough-apres-un-depart-en-fanfare-pour-airbus-suivez
- -les-annonces-du-deuxieme-jour_64563483.html
+DESCRIPTION:Le salon aéronautique de Farnborough\, tenu du 20 au 24 juille
+ t 2026 au Royaume-Uni\, s'est conclu sur un duel serré entre Airbus et Bo
+ eing. L'avionneur toulousain a enregistré 154 commandes fermes et options
+  exercées — dont 100 appareils pour SMBC Aviation Capital\, des A350-10
+ 00 pour Philippine Airlines et Riyadh Air\, et des A220-300 pour BermudAir
+  — contre 173 pour Boeing. Si Airbus repart avec un bilan solide\, c'est
+  son rival américain qui prend la tête du match des commandes commercial
+ es\, sign\n\nSource\: https://actu.fr/occitanie/toulouse_31555/direct-salo
+ n-aeronautique-de-farnborough-apres-un-depart-en-fanfare-pour-airbus-suive
+ z-les-annonces-du-deuxieme-jour_64563483.html
 URL:https://actu.fr/occitanie/toulouse_31555/direct-salon-aeronautique-de-f
  arnborough-apres-un-depart-en-fanfare-pour-airbus-suivez-les-annonces-du-d
  euxieme-jour_64563483.html?utm_source=ical&utm_medium=calendar&utm_campaig
@@ -5977,7 +5977,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1a73d94e-0969-4c9d-9848-380e5a8f57fb@news.lavillerose.com
 DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20260725
 SUMMARY:Survivre à Auschwitz
 DESCRIPTION:L'exposition « Survivre à Auschwitz » vient d'ouvrir au Mus
  ée départemental de la Résistance & de la Déportation de Toulouse et s

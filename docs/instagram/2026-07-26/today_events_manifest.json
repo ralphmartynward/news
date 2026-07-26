@@ -1,0 +1,20 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:79a3faeb-fe83-49b3-97db-3e62b38454ed",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Gaulois et Romains s'installent au Village Gaulois de Rieux-Volvestre",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a50ae88d1b2a67d84059aae/hd/image.jpg?v=1",
+    "file": "cluster_79a3faeb-fe83-49b3-97db-3e62b38454ed_event_story.jpg"
+  }
+]
