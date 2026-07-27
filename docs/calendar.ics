@@ -6034,17 +6034,36 @@ BEGIN:VEVENT
 UID:cluster:1053900a-bdd4-4839-96cf-965ae98b4f71@news.lavillerose.com
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260817
-SUMMARY:Travaux estivaux Tisséo : métro\, escaliers et Téléo concernés
-DESCRIPTION:Pendant la fermeture de la ligne B entre Saint-Michel Marcel La
- nger et Ramonville — nécessaire pour les travaux de jonction avec la fu
- ture ligne C — Tisséo en profite pour remplacer six escaliers mécaniqu
- es dans les stations Empalot et Université Paul Sabatier\, évitant ainsi
-  trois semaines supplémentaires de fermeture pour chacune. Ce remplacemen
- t s'inscrit dans un programme plus large entamé en 2020 portant sur 77 es
- caliers de la ligne B et 120 au total avec la ligne A\, avec une fin de ch
- antier\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-07-2
- 3#47447
+SUMMARY:Travaux d'été Tisséo : rames raccourcies sur la ligne A dès lun
+ di
+DESCRIPTION:Du lundi 27 juillet au dimanche 16 août 2026\, Tisséo réduit
+  la longueur des rames de la ligne A du métro toulousain à 26 mètres au
+  lieu de 52 mètres\, en raison d'une fréquentation divisée par deux pen
+ dant l'été (100 000 voyageurs/jour contre 200 000 à 230 000 le reste de
+  l'année). Pour compenser\, la fréquence de passage est augmentée : tou
+ tes les 1min50 en heure de pointe au lieu de 2min30. En parallèle\, la li
+ gne B reste interrompue entre Saint-Michel Marcel Langer et Ramonville pou
+ r les travaux\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+ 26-07-23#47447
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-23#47447?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8c646942-2c07-482d-a5d2-63cfb91565cf@news.lavillerose.com
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260824
+SUMMARY:Le Héron Glouton
+DESCRIPTION:La guinguette Le Héron Glouton s'installe chaque été depuis 
+ 2023 au parc du Ramier de Portet-sur-Garonne\, sur les rives de la Garonne
+ . Ouverte jusqu'au 23 août\, elle accueille le public du lundi au jeudi d
+ e 16h30 à 22h30\, et du vendredi au dimanche dès 11h30. Le lieu propose 
+ tapas\, planches\, fritures et boissons artisanales issues de producteurs 
+ locaux\, dans un cadre en plein air avec tables en bois\, chaises longues 
+ et vue sur l'eau. Tout au long de la saison\, des animations rythment la p
+ rogramm\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-07-
+ 27#47721
+LOCATION:parc du Ramier de Portet-sur-Garonne\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-27#47721?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
@@ -6062,6 +6081,25 @@ DESCRIPTION:L'African Safari de Plaisance-du-Touch entre dans sa saison est
  léphants (12 août)\n\nSource\: https://www.lessentiel.fr/newsletter/toul
  ouse/2026-07-24#47520
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-24#47520?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c8e3d5fb-8cf2-498a-b175-49108fbc3fb7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Secrets de bastide
+DESCRIPTION:L'office de tourisme des Hauts-Tolosans propose des visites gui
+ dées de Grenade-sur-Garonne\, bastide fondée au XIIIe siècle au conflue
+ nt de la Garonne et de la Save. La ville\, conçue selon un plan en damier
+  caractéristique des bastides médiévales\, s'organise autour d'une plac
+ e rectangulaire et d'une halle monumentale qui témoignent de son passé c
+ ommercial florissant. Fortifiée au XIVe siècle\, Grenade a également pr
+ ofité de l'essor du commerce du pastel aux XVe et XVIe siècles. Une guid
+ e conférenc\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-07-27#47722
+LOCATION:bastide fondée au XIIIe siècle au confluent de la Garo\, Toulous
+ e
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-27#47722?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
@@ -6122,6 +6160,23 @@ LOCATION:parc ouvre ses portes\, Toulouse
 URL:https://www.toulouscope.fr/2026/07/11/pres-de-toulouse-ce-chateau-accue
  ille-lun-des-plus-grands-spectacles-pyrotechniques-du-gers-13457145.php?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:69f65298-14ad-495d-9965-6913a433a0b3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260830
+SUMMARY:Notes d'été 31
+DESCRIPTION:La 28e édition du festival Notes d'été 31 se déroule du 1er
+  au 29 août en Haute-Garonne\, avec plus de 200 événements entièrement
+  gratuits. Au programme : 40 spectacles\, 14 expositions\, plus de 100 vis
+ ites patrimoniales\, des rencontres avec des producteurs locaux\, des guin
+ guettes et des concerts en soirée. La programmation mêle musique\, cirqu
+ e\, théâtre\, danse et arts croisés\, composée à 95 % de structures a
+ rtistiques de Haute-Garonne. Parmi les temps forts\, l'Orchestre de chambr
+ e de Toulouse prop\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-07-27#47719
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-27#47719?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:edd0dd5d-a3bf-4e33-b0de-54012bc53414@news.lavillerose.com
