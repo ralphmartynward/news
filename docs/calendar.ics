@@ -5961,16 +5961,17 @@ BEGIN:VEVENT
 UID:cluster:f3459cad-bc3a-4f1e-b742-26df11c9c270@news.lavillerose.com
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260831
-SUMMARY:Hakanai Sonzai
-DESCRIPTION:Le Château d'Eau accueille actuellement deux expositions photo
- graphiques à ne pas manquer. Sous la pile du pont\, les photos grand form
- at de Pierre-Elie de Pibrac plongent dans le Japon de la pandémie : hikik
- omori\, yakuzas\, rescapés de Fukushima\, paysages en noir et blanc aux a
- llures d'estampes — une série intitulée Hakanai Sonzai\, visible jusqu
- 'au 30 août. Dans l'ancien réservoir\, l'exposition Diseños habitados r
- éunit les œuvres d'Elena Almeida\, qui utilise son propre corps comme ma
- tière artisti\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2
- 026-07-24#47521
+SUMMARY:Expositions Château d'Eau
+DESCRIPTION:La Galerie Le Château d'Eau propose actuellement deux expositi
+ ons photographiques à voir jusqu'à la fin de l'été. Dans l'espace sous
+  la pile du pont\, Pierre-Elie de Pibrac présente « Hakanai Sonzai » (
+ « Je me sens moi-même une créature éphémère »)\, un voyage contempl
+ atif au Japon réalisé en pleine pandémie\, avec des portraits intimes d
+ e hikikomori\, de yakuzas et de rescapés de Fukushima\, visibles jusqu'au
+  30 août. Dans l'ancien réservoir\, l'exposition « Diseños habitados 
+ » (Dessins habités) réun\n\nSource\: https://www.lessentiel.fr/newslett
+ er/toulouse/2026-07-24#47521
+LOCATION:espace sous la pile du pont\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-24#47521?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT

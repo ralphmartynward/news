@@ -1,0 +1,29 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:1907a6f7-822b-4f49-a6d9-8477a4a31e7a",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Toulouse Plages 2026 : six semaines d'animations gratuites à la prairie des Filtres",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/toulouse-plage--toulouse-metropole.jpg?itok=Y-dmWCeV",
+    "file": "cluster_1907a6f7-822b-4f49-a6d9-8477a4a31e7a_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f3459cad-bc3a-4f1e-b742-26df11c9c270",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Deux expositions photo à découvrir au Château d'Eau cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/-c--pierre-elie-de-pibrac-hakanai-sonzai--4--2019-20.jpg?h=2cf125f8&itok=jNcgDaZy",
+    "file": "cluster_f3459cad-bc3a-4f1e-b742-26df11c9c270_event_story.jpg"
+  }
+]
