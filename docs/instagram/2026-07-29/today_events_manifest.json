@@ -1,0 +1,20 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:c8e3d5fb-8cf2-498a-b175-49108fbc3fb7",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Visite guidée des secrets médiévaux de Grenade-sur-Garonne",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/visite_guidee_grenade_secrets_de_bastide_-c-tourisme_hauts_tolosans--24--2.jpg?itok=yu3CUEWs",
+    "file": "cluster_c8e3d5fb-8cf2-498a-b175-49108fbc3fb7_event_story.jpg"
+  }
+]

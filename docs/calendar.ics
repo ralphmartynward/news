@@ -6035,16 +6035,15 @@ BEGIN:VEVENT
 UID:cluster:1053900a-bdd4-4839-96cf-965ae98b4f71@news.lavillerose.com
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260817
-SUMMARY:Travaux d'été Tisséo : rames raccourcies sur la ligne A dès lun
- di
+SUMMARY:Rames de la ligne A réduites de moitié du 27 juillet au 16 août
 DESCRIPTION:Du lundi 27 juillet au dimanche 16 août 2026\, Tisséo réduit
-  la longueur des rames de la ligne A du métro toulousain à 26 mètres au
-  lieu de 52 mètres\, en raison d'une fréquentation divisée par deux pen
- dant l'été (100 000 voyageurs/jour contre 200 000 à 230 000 le reste de
-  l'année). Pour compenser\, la fréquence de passage est augmentée : tou
- tes les 1min50 en heure de pointe au lieu de 2min30. En parallèle\, la li
- gne B reste interrompue entre Saint-Michel Marcel Langer et Ramonville pou
- r les travaux\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+  la longueur des rames de la ligne A du métro toulousain : elles passent 
+ de 52 à 26 mètres\, soit une capacité divisée par deux. Cette mesure a
+ nnuelle s'explique par une fréquentation estivale réduite de moitié\, a
+ vec environ 100 000 voyageurs par jour contre 200 000 à 230 000 le reste 
+ de l'année. En contrepartie\, la fréquence de passage est augmentée : l
+ es rames circuleront toutes les 1min50 en heure de pointe\, contre 2min30 
+ habituellemen\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
  26-07-23#47447
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-23#47447?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -6066,6 +6065,26 @@ DESCRIPTION:La guinguette Le Héron Glouton s'installe chaque été depuis
 LOCATION:parc du Ramier de Portet-sur-Garonne\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-27#47721?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:61236fb2-561d-4324-97a7-7bdd4768d075@news.lavillerose.com
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260807
+SUMMARY:Toulouse cherche un opérateur pour un projet immersif à Saint-Ser
+ nin
+DESCRIPTION:La mairie de Toulouse a lancé un appel à manifestation d'int
+ érêt pour concevoir et réaliser un projet artistique immersif au sein d
+ e la basilique Saint-Sernin\, classée au patrimoine mondial de l'Unesco. 
+ La démarche fait suite à la proposition d'un producteur artistique souha
+ itant associer créations visuelles et musicales au monument. Les projets 
+ envisagés pourraient notamment s'appuyer sur du mapping vidéo\, de la di
+ ffusion musicale et d'autres dispositifs de mise en valeur patrimoniale. L
+ a consu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pourquoi-la-m
+ airie-de-toulouse-lance-t-elle-un-appel-pour-la-basilique-saint-sernin_645
+ 94024.html
+URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-la-mairie-de-toulouse
+ -lance-t-elle-un-appel-pour-la-basilique-saint-sernin_64594024.html?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:24290359-5774-4dc0-830f-1f268a48648e@news.lavillerose.com
@@ -6217,6 +6236,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/une-eclipse-solaire-presque-to
  tale-bientot-visible-depuis-toulouse-tout-ce-qu-il-faut-savoir-pour-en-pro
  fiter_64410320.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260823
+SUMMARY:Barques en Scène
+DESCRIPTION:Du 20 au 22 août 2026\, Narbonne accueille une nouvelle éditi
+ on de Barques en Scène\, festival estival gratuit en plein air dans l'Aud
+ e. Au programme : concerts avec Amir\, Superbus et des artistes des année
+ s 80\, mais aussi des déambulations artistiques\, spectacles de rue\, DJ 
+ sets et bodegas dès 19h30 chaque soir. Chaque soirée est lancée par une
+  déambulation thématique différente — « The Pop Phone Machine »\, 
+ « Ulysse\, au-delà des Dieux » et « Océania » — impliquant des per
+ sonnages géants dans le c\n\nSource\: https://www.toulouscope.fr/2026/07/
+ 28/trois-soirs-de-concerts-gratuits-a-narbonne-amir-superbus-et-les-stars-
+ des-annees-80-au-programme-de-barques-en-scene-13435466.php
+URL:https://www.toulouscope.fr/2026/07/28/trois-soirs-de-concerts-gratuits-
+ a-narbonne-amir-superbus-et-les-stars-des-annees-80-au-programme-de-barque
+ s-en-scene-13435466.php?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d18dae09-5e37-42cb-a613-01969306e063@news.lavillerose.com

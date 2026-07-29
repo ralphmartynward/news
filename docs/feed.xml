@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-07-28T07:38:43.508170+00:00</updated>
+  <updated>2026-07-29T07:42:56.016300+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,163 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:18f3cd58-0d17-4750-aff9-6dcae08de746</id>
-    <title>Toulouse Pioneers fédère les entreprises qui verdissent l'aviation</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Créé à l&amp;#x27;initiative du musée L&amp;#x27;Envol des Pionniers, le collectif Toulouse Pioneers réunit des entreprises innovantes engagées dans la décarbonation de l&amp;#x27;aéronautique. Fondé en 2022 avec quatre membres fondateurs — Latecoère, OpenAirlines, Aura Aero et Delair —, le collectif vient d&amp;#x27;accueillir une cinquième société, Ascendance. Chaque membre contribue à sa manière à une aviation plus verte : aérostructures, éco-pilotage numérique, avions électriques ou hybrides, drones à hydrogène. En contrepartie de leur visibilité au sein du collectif, les entreprises s&amp;#x27;engagent à soutenir le rayonnement du musée et à participer à sa programmation culturelle.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47352"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#47352"/>
-    <summary>Créé à l'initiative du musée L'Envol des Pionniers, le collectif Toulouse Pioneers réunit des entreprises innovantes engagées dans la décarbonation de l'aéronautique. Fondé en 2022 avec quatre membres fondateurs — Latecoère, OpenAirlines, Aura Aero et Delair —, le collectif vient d'accueillir une cinquième société, Ascendance. Chaque membre contribue à sa manière à une aviation plus verte : aérostructures, éco-pilotage numérique, avions électriques ou hybrides, drones à hydrogène. En contrepartie de leur visibilité au sein du collectif, les entreprises s'engagent à soutenir le rayonnement du musée et à participer à sa programmation culturelle.</summary>
-    <category term="news"/>
-    <published>2026-07-22T04:08:52.392000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:416776dd-5d0d-4aba-b9fc-b72ce460423a</id>
-    <title>Ateliers consommation responsable à Colomiers, Cugnaux et Toulouse</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Plusieurs initiatives locales proposent de repenser sa façon de consommer à travers des ateliers pratiques et des espaces d&amp;#x27;échange. À Colomiers, la Maison des transitions écologiques organise un atelier DIY gratuit pour fabriquer sa lessive, sa crème à récurer et des éponges lavables tawashi — il suffit d&amp;#x27;apporter des contenants. À Cugnaux, le relais mobile installe un espace de gratuité au Parc du manoir pour échanger des fournitures scolaires en bon état. À Toulouse, la Pépinière au 192 route de Launaguet accueille chaque mercredi des chantiers collectifs animés par l&amp;#x27;association Pousses Ô Abris : récolte de graines, bouture, semis et jardinage.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47351"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#47351"/>
-    <summary>Plusieurs initiatives locales proposent de repenser sa façon de consommer à travers des ateliers pratiques et des espaces d'échange. À Colomiers, la Maison des transitions écologiques organise un atelier DIY gratuit pour fabriquer sa lessive, sa crème à récurer et des éponges lavables tawashi — il suffit d'apporter des contenants. À Cugnaux, le relais mobile installe un espace de gratuité au Parc du manoir pour échanger des fournitures scolaires en bon état. À Toulouse, la Pépinière au 192 route de Launaguet accueille chaque mercredi des chantiers collectifs animés par l'association Pousses Ô Abris : récolte de graines, bouture, semis et jardinage.</summary>
-    <category term="event"/>
-    <published>2026-07-22T04:08:52.392000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6f50f7a2-b943-4862-9d0e-3f00e3c7fdef</id>
-    <title>La Cloche Occitanie sensibilise à la précarité aux Halles de la Transition</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Les Mercredis Asso des Halles de la Transition accueillent ce soir l&amp;#x27;association La Cloche Occitanie pour une soirée de sensibilisation à la grande précarité et au sans-abrisme. L&amp;#x27;événement propose stands et animations participatives pour déconstruire les idées reçues sur les personnes sans domicile et explorer des façons concrètes de recréer du lien social. L&amp;#x27;inscription est à prix libre, rendant la soirée accessible à tous. La Cloche est une association nationale reconnue d&amp;#x27;intérêt général, présente dans dix régions, avec une antenne toulousaine active notamment à Saint-Cyprien et Bonnefoy.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47350"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#47350"/>
-    <summary>Les Mercredis Asso des Halles de la Transition accueillent ce soir l'association La Cloche Occitanie pour une soirée de sensibilisation à la grande précarité et au sans-abrisme. L'événement propose stands et animations participatives pour déconstruire les idées reçues sur les personnes sans domicile et explorer des façons concrètes de recréer du lien social. L'inscription est à prix libre, rendant la soirée accessible à tous. La Cloche est une association nationale reconnue d'intérêt général, présente dans dix régions, avec une antenne toulousaine active notamment à Saint-Cyprien et Bonnefoy.</summary>
-    <category term="event"/>
-    <published>2026-07-22T04:08:52.392000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6ada11b0-3fc3-4009-bd15-83a09f7ecb63</id>
-    <title>Misto, le delicatessen brésilo-new-yorkais ouvre rue des Filatiers</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le chef Bruno Marques, déjà à la tête du restaurant Fogo, ouvre Misto au 31 rue des Filatiers, une adresse street food inspirée du sandwich brésilien de son enfance et des delicatessens new-yorkais. La carte propose six recettes à l&amp;#x27;identité forte : Pastrami Bomb, Tuna Melt, Nordic Crunch à la truite fumée, The French jambon truffé emmental, Grilled Cheese et NY Hot Dog. Le pastrami vient d&amp;#x27;un artisan parisien reconnu, William Benitah, tandis que légumes, herbes et pickles sont sourcés au maximum auprès de producteurs locaux, déjà partenaires de Fogo. Misto prolonge ainsi la philosophie du chef : un bon sourcing, des recettes maison et une identité visuelle qui mêle Sao Paulo et Manhattan.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47349"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#47349"/>
-    <summary>Le chef Bruno Marques, déjà à la tête du restaurant Fogo, ouvre Misto au 31 rue des Filatiers, une adresse street food inspirée du sandwich brésilien de son enfance et des delicatessens new-yorkais. La carte propose six recettes à l'identité forte : Pastrami Bomb, Tuna Melt, Nordic Crunch à la truite fumée, The French jambon truffé emmental, Grilled Cheese et NY Hot Dog. Le pastrami vient d'un artisan parisien reconnu, William Benitah, tandis que légumes, herbes et pickles sont sourcés au maximum auprès de producteurs locaux, déjà partenaires de Fogo. Misto prolonge ainsi la philosophie du chef : un bon sourcing, des recettes maison et une identité visuelle qui mêle Sao Paulo et Manhattan.</summary>
-    <category term="place"/>
-    <published>2026-07-22T04:08:52.392000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:9e9b6a9d-ecc0-4d9d-b16e-bdafc14a022a</id>
-    <title>La Cité de l'espace en direct avec Sophie Adenot depuis l'ISS</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Ce mercredi à partir de 14h15, la Cité de l&amp;#x27;espace propose à ses visiteurs d&amp;#x27;assister à une liaison directe avec l&amp;#x27;astronaute française Sophie Adenot, actuellement à bord de la Station spatiale internationale (ISS). L&amp;#x27;échange durera 20 minutes, en anglais avec traduction simultanée, et sera retransmis sur tous les écrans du site, y compris l&amp;#x27;Imax et le Planétarium. L&amp;#x27;événement est également diffusé en simultané dans trois autres centres de culture scientifique européens, à Helsinki, Brême et Lisbonne. Les questions posées à Sophie Adenot ont été collectées auprès du public de la Cité de l&amp;#x27;espace, majoritairement des enfants, et validées par l&amp;#x27;ESA — l&amp;#x27;entrée est comprise dans le billet habituel.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47348"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-22?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#47348"/>
-    <summary>Ce mercredi à partir de 14h15, la Cité de l'espace propose à ses visiteurs d'assister à une liaison directe avec l'astronaute française Sophie Adenot, actuellement à bord de la Station spatiale internationale (ISS). L'échange durera 20 minutes, en anglais avec traduction simultanée, et sera retransmis sur tous les écrans du site, y compris l'Imax et le Planétarium. L'événement est également diffusé en simultané dans trois autres centres de culture scientifique européens, à Helsinki, Brême et Lisbonne. Les questions posées à Sophie Adenot ont été collectées auprès du public de la Cité de l'espace, majoritairement des enfants, et validées par l'ESA — l'entrée est comprise dans le billet habituel.</summary>
-    <category term="event"/>
-    <published>2026-07-22T04:08:52.392000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5023971b-b601-4b38-b997-976334331cb9</id>
-    <title>Bilan du couvre-feu à Toulouse : 55 mineurs interpellés pendant la Coupe du monde</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Deux jours après la clôture de la Coupe du monde, le maire de Toulouse Jean-Luc Moudenc a dressé le bilan du dispositif de couvre-feu mis en place pour les mineurs non accompagnés lors des matchs jugés sensibles. Au total, 55 mineurs ont été interpellés, verbalisés et remis à leurs parents tout au long de la compétition. Plus de 12 000 supporters ont fréquenté les deux soirées de la Fan-Zone dans une ambiance jugée festive et sans incident majeur. Moudenc considère que le couvre-feu « a pleinement joué son rôle », réfutant à la fois les critiques sur son inapplicabilité et les craintes d&amp;#x27;une ville paralysée.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-a-pleinement-rempli-son-role-55-mineurs-interpelles-lors-du-couvre-feu-a-toulouse-pendant-la-coupe-du-monde_64564802.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/il-a-pleinement-rempli-son-role-55-mineurs-interpelles-lors-du-couvre-feu-a-toulouse-pendant-la-coupe-du-monde_64564802.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Deux jours après la clôture de la Coupe du monde, le maire de Toulouse Jean-Luc Moudenc a dressé le bilan du dispositif de couvre-feu mis en place pour les mineurs non accompagnés lors des matchs jugés sensibles. Au total, 55 mineurs ont été interpellés, verbalisés et remis à leurs parents tout au long de la compétition. Plus de 12 000 supporters ont fréquenté les deux soirées de la Fan-Zone dans une ambiance jugée festive et sans incident majeur. Moudenc considère que le couvre-feu « a pleinement joué son rôle », réfutant à la fois les critiques sur son inapplicabilité et les craintes d'une ville paralysée.</summary>
-    <category term="news"/>
-    <published>2026-07-21T11:35:46+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a84243c5-af68-4334-b91e-9646ba490927</id>
-    <title>La guinguette Les Terrasses de l'Atelier menacée par le stationnement</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Les Terrasses de l&amp;#x27;Atelier, guinguette emblématique de Toulouse située près d&amp;#x27;Empalot, font face à une crise de fréquentation en raison d&amp;#x27;un problème de stationnement qui s&amp;#x27;aggrave en cette saison estivale 2026. Le parking du stade Robert-Barran, qui servait de point de départ aux navettes gratuites mises en place par l&amp;#x27;établissement, est occupé depuis plusieurs mois par des gens du voyage, contraignant la guinguette à déplacer le départ de ses navettes. Ce changement a entraîné jusqu&amp;#x27;à 100 annulations par soirée, une baisse de fréquentation notable et une situation que les gérants qualifient de « fois de trop ». La gérante Sarah Rodriguez affirme solliciter la mairie de Toulouse depuis huit ans pour trouver une solution de stationnement, sans succès — la mairie rappelant de son côté que le lieu n&amp;#x27;a jamais disposé d&amp;#x27;une place attribuée.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-la-fois-de-trop-le-casse-tete-du-stationnement-menace-cette-celebre-guinguette-de-toulouse_64559962.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-la-fois-de-trop-le-casse-tete-du-stationnement-menace-cette-celebre-guinguette-de-toulouse_64559962.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les Terrasses de l'Atelier, guinguette emblématique de Toulouse située près d'Empalot, font face à une crise de fréquentation en raison d'un problème de stationnement qui s'aggrave en cette saison estivale 2026. Le parking du stade Robert-Barran, qui servait de point de départ aux navettes gratuites mises en place par l'établissement, est occupé depuis plusieurs mois par des gens du voyage, contraignant la guinguette à déplacer le départ de ses navettes. Ce changement a entraîné jusqu'à 100 annulations par soirée, une baisse de fréquentation notable et une situation que les gérants qualifient de « fois de trop ». La gérante Sarah Rodriguez affirme solliciter la mairie de Toulouse depuis huit ans pour trouver une solution de stationnement, sans succès — la mairie rappelant de son côté que le lieu n'a jamais disposé d'une place attribuée.</summary>
-    <category term="news"/>
-    <published>2026-07-21T18:16:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:66f007f9-5012-4a2a-ba70-ca16cc634b3b</id>
-    <title>L'Odyssée de Nolan : une adaptation épique et sombre d'Homère</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Christopher Nolan signe une adaptation cinématographique de L&amp;#x27;Odyssée d&amp;#x27;Homère, avec Matt Damon dans le rôle d&amp;#x27;Ulysse et Anne Hathaway. Le film suit le périple du héros après la guerre de Troie, de l&amp;#x27;épisode du cyclope Polyphème aux sortilèges de Circé, dans une veine sombre et violente déconseillée aux moins de 12 ans. Selon actu_toulouse, le film est présenté avec enthousiasme comme une œuvre majeure dans la carrière de Nolan, saluée pour sa profondeur thématique autour de l&amp;#x27;éternel retour et de la quête d&amp;#x27;identité. Le personnage d&amp;#x27;Ulysse y est dépeint sous un jour ambigu, prêt à tout sacrifier pour rejoindre Ithaque.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Critique enthousiaste avec résumé de l&amp;#x27;intrigue et analyse thématique&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-faut-il-aller-voir-l-odyssee-le-dernier-film-de-christopher-nolan-avec-matt-damon-et-anne-hathaway_64566581.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cinema-faut-il-aller-voir-l-odyssee-le-dernier-film-de-christopher-nolan-avec-matt-damon-et-anne-hathaway_64566581.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Christopher Nolan signe une adaptation cinématographique de L'Odyssée d'Homère, avec Matt Damon dans le rôle d'Ulysse et Anne Hathaway. Le film suit le périple du héros après la guerre de Troie, de l'épisode du cyclope Polyphème aux sortilèges de Circé, dans une veine sombre et violente déconseillée aux moins de 12 ans. Selon actu_toulouse, le film est présenté avec enthousiasme comme une œuvre majeure dans la carrière de Nolan, saluée pour sa profondeur thématique autour de l'éternel retour et de la quête d'identité. Le personnage d'Ulysse y est dépeint sous un jour ambigu, prêt à tout sacrifier pour rejoindre Ithaque.</summary>
-    <category term="culture"/>
-    <published>2026-07-21T19:12:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6eed7019-fd6e-4e0a-95ec-0777ab4c828e</id>
-    <title>Affaire Jubillar : procès en appel reporté au premier semestre 2027</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Après avoir avoué le 15 juillet 2026 être « à l&amp;#x27;origine de la mort » de son épouse Delphine, Cédric Jubillar a précisé devant la justice l&amp;#x27;avoir étranglée lors d&amp;#x27;une dispute avant de dissimuler son corps dans un champ de Mailhoc (Tarn), à 11 km de leur domicile. La Cour d&amp;#x27;appel de Toulouse a annoncé ce mardi 21 juillet le report du procès en appel, initialement prévu le 21 septembre 2026, au premier semestre 2027 — au plus tard le 19 avril selon un avocat des parties civiles. Ce report est motivé par la nécessité de réaliser de nouvelles fouilles, des expertises psychologiques et psychiatriques, et une reconstitution des faits pour garantir le respect du contradictoire. La détention provisoire de Jubillar, condamné à 30 ans en première instance, arrive à échéance le 20 octobre 2026 et pourra être prolongée de six mois, renouvelable une fois.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les quatre articles couvrent des étapes successives du même dossier : l&amp;#x27;anticipation du report (article 1), l&amp;#x27;annonce officielle (article 2), les suites judiciaires concrètes (article 3) et le contenu des aveux (article 4). Aucune contradiction entre les sources, mais des niveaux de détail différents.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Le procès en appel de Cédric Jubillar sera-t-il reporté&amp;#x27;&lt;/strong&gt;: Contexte et position de la défense avant la décision&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Le procès en appel de Cédric Jubillar reporté : voici quand&amp;#x27;&lt;/strong&gt;: Annonce officielle et nouvelle date&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Nouvelles fouilles, reconstitution...&amp;#x27;&lt;/strong&gt;: Actes d&amp;#x27;enquête à venir après le report&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;&amp;quot;Je l&amp;#x27;ai attrapée par le cou&amp;quot;&amp;#x27;&lt;/strong&gt;: Contenu détaillé des aveux de Jubillar&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-proces-en-appel-de-cedric-jubillar-sera-t-il-reporte-a-toulouse-avocats-et-magistrats-se-reunissent-ce-mardi_64565585.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-le-proces-en-appel-reporte-a-toulouse-voici-quand-cedric-jubillar-sera-juge_64565024.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-nouvelles-fouilles-reconstitution-ce-qui-va-se-passer-maintenant-que-le-proces-est-reporte_64567133.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-glacants-de-cedric-jubillar-devant-la-justice_64568962.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/le-proces-en-appel-de-cedric-jubillar-sera-t-il-reporte-a-toulouse-avocats-et-magistrats-se-reunissent-ce-mardi_64565585.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Après avoir avoué le 15 juillet 2026 être « à l'origine de la mort » de son épouse Delphine, Cédric Jubillar a précisé devant la justice l'avoir étranglée lors d'une dispute avant de dissimuler son corps dans un champ de Mailhoc (Tarn), à 11 km de leur domicile. La Cour d'appel de Toulouse a annoncé ce mardi 21 juillet le report du procès en appel, initialement prévu le 21 septembre 2026, au premier semestre 2027 — au plus tard le 19 avril selon un avocat des parties civiles. Ce report est motivé par la nécessité de réaliser de nouvelles fouilles, des expertises psychologiques et psychiatriques, et une reconstitution des faits pour garantir le respect du contradictoire. La détention provisoire de Jubillar, condamné à 30 ans en première instance, arrive à échéance le 20 octobre 2026 et pourra être prolongée de six mois, renouvelable une fois.</summary>
-    <category term="news"/>
-    <published>2026-07-21T14:38:56+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:2c0a3ee3-813b-4dad-943a-5806251e2ea6</id>
-    <title>Canicule : un vétérinaire alerte sur les risques pour les animaux</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Avec l&amp;#x27;épisode de canicule qui touche Toulouse et la Haute-Garonne, le Dr Erik Van Beek, vétérinaire à la Clinique vétérinaire de l&amp;#x27;Autan, tire la sonnette d&amp;#x27;alarme sur les dangers du coup de chaleur pour les animaux de compagnie. Les chiens sont particulièrement vulnérables car ils dépendent de leurs maîtres pour réguler leur activité, contrairement aux chats qui cherchent naturellement la fraîcheur. Les symptômes à surveiller incluent halètement intense, hypersalivation, vomissements, troubles de la marche et, dans les cas graves, coma ou décès par œdème cérébral. Le vétérinaire pointe des erreurs fréquentes des propriétaires, comme forcer l&amp;#x27;animal à sortir malgré la chaleur, et prodigue des conseils concrets pour protéger les compagnons à quatre pattes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/canicule-en-haute-garonne-attention-au-coup-de-chaleur-chez-les-animaux-un-veterinaire-alerte-sur-les-gestes-a-eviter_64549589.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/canicule-en-haute-garonne-attention-au-coup-de-chaleur-chez-les-animaux-un-veterinaire-alerte-sur-les-gestes-a-eviter_64549589.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Avec l'épisode de canicule qui touche Toulouse et la Haute-Garonne, le Dr Erik Van Beek, vétérinaire à la Clinique vétérinaire de l'Autan, tire la sonnette d'alarme sur les dangers du coup de chaleur pour les animaux de compagnie. Les chiens sont particulièrement vulnérables car ils dépendent de leurs maîtres pour réguler leur activité, contrairement aux chats qui cherchent naturellement la fraîcheur. Les symptômes à surveiller incluent halètement intense, hypersalivation, vomissements, troubles de la marche et, dans les cas graves, coma ou décès par œdème cérébral. Le vétérinaire pointe des erreurs fréquentes des propriétaires, comme forcer l'animal à sortir malgré la chaleur, et prodigue des conseils concrets pour protéger les compagnons à quatre pattes.</summary>
-    <category term="news"/>
-    <published>2026-07-22T06:06:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:66e5c537-780e-46d3-ad17-b45a776d9e5c</id>
-    <title>Affaire Lyhanna : 22 personnes placées en détention après réexamen des dossiers</title>
-    <updated>2026-07-22T07:34:47.835791+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;À la suite du viol et du meurtre de la jeune Lyhanna dans le Gers début juin 2026, le ministre de la Justice Gérald Darmanin avait exigé le réexamen de l&amp;#x27;ensemble des plaintes concernant des enfants en France, avec une échéance fixée au 14 juillet 2026. Les six parquets du ressort de la cour d&amp;#x27;appel de Toulouse — Toulouse, Saint-Gaudens, Montauban, Albi, Castres et Foix — se sont mobilisés en réponse à cette directive. Au total, 2 976 procédures de violences sexuelles sur mineurs ont été recensées et réévaluées dans leur priorisation, impliquant magistrats, équipes de parquet, police et gendarmerie. Ce travail a abouti au placement en détention de 22 personnes, révélant des failles dans le traitement antérieur de dossiers similaires, notamment concernant le principal suspect Jérôme Barella, qui avait déjà fait l&amp;#x27;objet de plaintes sans jamais avoir été entendu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/suite-a-l-affaire-lyhanna-22-personnes-en-detention-apres-le-reexamen-des-dossiers-par-la-cour-d-appel-de-toulouse_64561411.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/suite-a-l-affaire-lyhanna-22-personnes-en-detention-apres-le-reexamen-des-dossiers-par-la-cour-d-appel-de-toulouse_64561411.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>À la suite du viol et du meurtre de la jeune Lyhanna dans le Gers début juin 2026, le ministre de la Justice Gérald Darmanin avait exigé le réexamen de l'ensemble des plaintes concernant des enfants en France, avec une échéance fixée au 14 juillet 2026. Les six parquets du ressort de la cour d'appel de Toulouse — Toulouse, Saint-Gaudens, Montauban, Albi, Castres et Foix — se sont mobilisés en réponse à cette directive. Au total, 2 976 procédures de violences sexuelles sur mineurs ont été recensées et réévaluées dans leur priorisation, impliquant magistrats, équipes de parquet, police et gendarmerie. Ce travail a abouti au placement en détention de 22 personnes, révélant des failles dans le traitement antérieur de dossiers similaires, notamment concernant le principal suspect Jérôme Barella, qui avait déjà fait l'objet de plaintes sans jamais avoir été entendu.</summary>
-    <category term="news"/>
-    <published>2026-07-22T06:46:02+02:00</published>
-  </entry>
   <entry>
     <id>cluster:090d9dea-8f27-4429-8e2e-c39a646ec3d5</id>
     <title>La Grainerie esquisse sa prochaine saison, pilier du cirque toulousain</title>
@@ -280,6 +123,22 @@ Une sortie culturelle incontournable cet été
     <published>2026-07-22T11:34:54+02:00</published>
   </entry>
   <entry>
+    <id>cluster:1907a6f7-822b-4f49-a6d9-8477a4a31e7a</id>
+    <title>Toulouse Plages 2026 : six semaines d'animations gratuites à la prairie des Filtres</title>
+    <updated>2026-07-23T07:33:29.332314+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Toulouse Plages a ouvert le 20 juillet pour six semaines d&amp;#x27;animations gratuites jusqu&amp;#x27;au 23 août, principalement à la prairie des Filtres au bord de la Garonne. Organisé depuis plus de vingt ans par la Ville de Toulouse avec le soutien d&amp;#x27;une quarantaine d&amp;#x27;associations locales, l&amp;#x27;événement propose chaque jour de 9h30 à 21h30 des activités sportives (beach-volley, basket, rugby à 7, beach soccer…), nautiques (aviron, canoë-kayak), des jeux d&amp;#x27;eau, des espaces bien-être et une biblioplage. Le matériel, les transats et les parasols sont prêtés gratuitement, et des food trucks assurent la restauration sur place. L&amp;#x27;événement s&amp;#x27;étend aussi aux sites de la Ramée et du lac de Reynerie, tandis qu&amp;#x27;au Port Viguerie se trouvent la Grande Roue et la guinguette Racine ; actu_toulouse signale toutefois que ce dernier site était déserté lors de la canicule du lundi 20 juillet.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lessentiel et toulouscope livrent un programme synthétique de l&amp;#x27;édition 2026 ; actu_toulouse propose un reportage terrain du 21 juillet, avec témoignages de visiteurs et le constat contrasté entre une prairie des Filtres bondée et un Port Viguerie déserté à cause de la canicule.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Programme complet et détail de toutes les activités par site&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Reportage ambiance sur place, témoignages de familles et retour sur l&amp;#x27;ouverture&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Résumé rapide en bullets avec les bons-à-savoir pratiques&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-mieux-que-les-annees-precedentes-entre-jeux-d-eau-activites-et-transat-on-a-fait-le-tour-de-toulouse-plages_64567057.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-mieux-que-les-annees-precedentes-entre-jeux-d-eau-activites-et-transat-on-a-fait-le-tour-de-toulouse-plages_64567057.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse Plages a ouvert le 20 juillet pour six semaines d'animations gratuites jusqu'au 23 août, principalement à la prairie des Filtres au bord de la Garonne. Organisé depuis plus de vingt ans par la Ville de Toulouse avec le soutien d'une quarantaine d'associations locales, l'événement propose chaque jour de 9h30 à 21h30 des activités sportives (beach-volley, basket, rugby à 7, beach soccer…), nautiques (aviron, canoë-kayak), des jeux d'eau, des espaces bien-être et une biblioplage. Le matériel, les transats et les parasols sont prêtés gratuitement, et des food trucks assurent la restauration sur place. L'événement s'étend aussi aux sites de la Ramée et du lac de Reynerie, tandis qu'au Port Viguerie se trouvent la Grande Roue et la guinguette Racine ; actu_toulouse signale toutefois que ce dernier site était déserté lors de la canicule du lundi 20 juillet.</summary>
+    <category term="event"/>
+    <published>2026-07-22T12:35:30+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:20c75dc4-f707-4feb-91ae-b35ec2993b73</id>
     <title>Incendie à Lardenne : un jeune homme retrouvé inconscient dans un local</title>
     <updated>2026-07-23T07:33:29.332314+00:00</updated>
@@ -336,25 +195,6 @@ Une sortie culturelle incontournable cet été
     <summary>Le mercredi 22 juillet 2026, vers 13h40, un poids lourd a pris feu sur le périphérique de Toulouse entre les échangeurs de Montaudran (sortie 18) et du Palays (sortie 19), en direction de Narbonne, à proximité du péage de Toulouse-Sud. L'incendie, qui s'est également propagé à la végétation environnante, a entraîné la fermeture du périphérique intérieur et la formation d'un bouchon de 5 kilomètres. La circulation n'a été rétablie qu'à partir de 22h05, après près de neuf heures d'intervention mobilisant pompiers, dépanneuse et agents Vinci Autoroutes pour éteindre le feu, évacuer la remorque calcinée et nettoyer la chaussée. Il s'agit de la plus longue coupure en journée du périphérique toulousain recensée pour l'année 2026.</summary>
     <category term="news"/>
     <published>2026-07-22T14:55:07+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:1907a6f7-822b-4f49-a6d9-8477a4a31e7a</id>
-    <title>Toulouse Plages 2026 : six semaines d'animations gratuites à la prairie des Filtres</title>
-    <updated>2026-07-23T07:33:29.332314+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Toulouse Plages a ouvert le 20 juillet pour six semaines d&amp;#x27;animations gratuites jusqu&amp;#x27;au 23 août, principalement à la prairie des Filtres au bord de la Garonne. Organisé depuis plus de vingt ans par la Ville de Toulouse avec le soutien d&amp;#x27;une quarantaine d&amp;#x27;associations locales, l&amp;#x27;événement propose chaque jour de 9h30 à 21h30 des activités sportives (beach-volley, basket, rugby à 7, beach soccer…), nautiques (aviron, canoë-kayak), des jeux d&amp;#x27;eau, des espaces bien-être et une biblioplage. Le matériel, les transats et les parasols sont prêtés gratuitement, et des food trucks assurent la restauration sur place. L&amp;#x27;événement s&amp;#x27;étend aussi aux sites de la Ramée et du lac de Reynerie, tandis qu&amp;#x27;au Port Viguerie se trouvent la Grande Roue et la guinguette Racine ; actu_toulouse signale toutefois que ce dernier site était déserté lors de la canicule du lundi 20 juillet.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;lessentiel et toulouscope livrent un programme synthétique de l&amp;#x27;édition 2026 ; actu_toulouse propose un reportage terrain du 21 juillet, avec témoignages de visiteurs et le constat contrasté entre une prairie des Filtres bondée et un Port Viguerie déserté à cause de la canicule.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Programme complet et détail de toutes les activités par site&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Reportage ambiance sur place, témoignages de familles et retour sur l&amp;#x27;ouverture&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Résumé rapide en bullets avec les bons-à-savoir pratiques&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/21/toulouse-plages-rouvre-du-20-juillet-au-23-aout-voici-tout-le-programme-de-lete-13473093.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-mieux-que-les-annees-precedentes-entre-jeux-d-eau-activites-et-transat-on-a-fait-le-tour-de-toulouse-plages_64567057.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/07/21/toulouse-plages-rouvre-du-20-juillet-au-23-aout-voici-tout-le-programme-de-lete-13473093.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse Plages a ouvert le 20 juillet pour six semaines d'animations gratuites jusqu'au 23 août, principalement à la prairie des Filtres au bord de la Garonne. Organisé depuis plus de vingt ans par la Ville de Toulouse avec le soutien d'une quarantaine d'associations locales, l'événement propose chaque jour de 9h30 à 21h30 des activités sportives (beach-volley, basket, rugby à 7, beach soccer…), nautiques (aviron, canoë-kayak), des jeux d'eau, des espaces bien-être et une biblioplage. Le matériel, les transats et les parasols sont prêtés gratuitement, et des food trucks assurent la restauration sur place. L'événement s'étend aussi aux sites de la Ramée et du lac de Reynerie, tandis qu'au Port Viguerie se trouvent la Grande Roue et la guinguette Racine ; actu_toulouse signale toutefois que ce dernier site était déserté lors de la canicule du lundi 20 juillet.</summary>
-    <category term="event"/>
-    <published>2026-07-21T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>cluster:4c2b171a-4620-4d53-bd1c-b99c4636582b</id>
@@ -701,22 +541,22 @@ Une sortie culturelle incontournable cet été
     <title>Sorties estivales à Toulouse : concerts, festivals et cinéma en plein air</title>
     <updated>2026-07-25T07:17:00.040369+00:00</updated>
     <author>
-      <name>toulouscope</name>
-    </author>
-    <author>
       <name>actu_toulouse</name>
     </author>
     <author>
       <name>lessentiel</name>
     </author>
+    <author>
+      <name>toulouscope</name>
+    </author>
     <content type="html">&lt;p&gt;Pour ce dernier week-end de juillet 2026, Toulouse et ses environs proposent une programmation estivale dense. Le festival Halle Night Long (8e édition) continue ses concerts gratuits tous les vendredis et samedis à la Halle de la Machine jusqu&amp;#x27;au 29 août, avec des artistes aussi variés que Dowdelin, Madalitso Band ou Culte Funk. Le cinéma en plein air se décline sur plusieurs sites : la Cinémathèque de Toulouse, le Jardin Niel (entrée gratuite) et Aeroscopia. En dehors de Toulouse, le festival Vadrouille tient sa 11e édition les 24 et 25 juillet à Poucharramet, et le Manouch&amp;#x27; Muzik Festival anime Mazères en Ariège du 13 au 16 août avec 47 concerts gratuits autour du jazz manouche, du flamenco et des musiques gitanes. Le Muséum de Toulouse, fermé temporairement pour panne de climatisation, a également rouvert avec sa programmation estivale.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Actu Toulouse propose une sélection structurée en 10 sorties précises pour le week-end du 24-26 juillet. Toulouscope adopte une vue plus large sur l&amp;#x27;été entier avec deux articles distincts (Halle Night Long + Manouch&amp;#x27; Muzik Festival). L&amp;#x27;Essentiel mêle agenda du week-end et brèves locales (réouverture du Muséum, Babayaga, plages).&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détail pratique des 10 sorties du week-end 24-26 juillet (horaires, tarifs, réservations)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Focus sur Halle Night Long et sur le Manouch&amp;#x27; Muzik Festival en Ariège&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Tour d&amp;#x27;horizon rapide des activités toulousaines + suggestions de vadrouilles en région&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/22/7-evenements-culturels-a-ne-pas-manquer-cet-ete-a-toulouse-et-aux-alentours-13477248.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-concert-expositions-notre-selection-des-10-sorties-a-ne-pas-manquer-pour-ce-dernier-week-end-de-juillet_64561075.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-24?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47523"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.toulouscope.fr/2026/07/25/a-30min-de-toulouse-ce-festival-fait-vibrer-lariege-au-rythme-du-jazz-manouche-13445154.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/07/22/7-evenements-culturels-a-ne-pas-manquer-cet-ete-a-toulouse-et-aux-alentours-13477248.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-concert-expositions-notre-selection-des-10-sorties-a-ne-pas-manquer-pour-ce-dernier-week-end-de-juillet_64561075.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-24?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47523"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.toulouscope.fr/2026/07/25/a-30min-de-toulouse-ce-festival-fait-vibrer-lariege-au-rythme-du-jazz-manouche-13445154.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cinema-concert-expositions-notre-selection-des-10-sorties-a-ne-pas-manquer-pour-ce-dernier-week-end-de-juillet_64561075.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>Pour ce dernier week-end de juillet 2026, Toulouse et ses environs proposent une programmation estivale dense. Le festival Halle Night Long (8e édition) continue ses concerts gratuits tous les vendredis et samedis à la Halle de la Machine jusqu'au 29 août, avec des artistes aussi variés que Dowdelin, Madalitso Band ou Culte Funk. Le cinéma en plein air se décline sur plusieurs sites : la Cinémathèque de Toulouse, le Jardin Niel (entrée gratuite) et Aeroscopia. En dehors de Toulouse, le festival Vadrouille tient sa 11e édition les 24 et 25 juillet à Poucharramet, et le Manouch' Muzik Festival anime Mazères en Ariège du 13 au 16 août avec 47 concerts gratuits autour du jazz manouche, du flamenco et des musiques gitanes. Le Muséum de Toulouse, fermé temporairement pour panne de climatisation, a également rouvert avec sa programmation estivale.</summary>
     <category term="event"/>
-    <published>2026-07-22T00:00:00+00:00</published>
+    <published>2026-07-22T18:46:01+02:00</published>
   </entry>
   <entry>
     <id>cluster:c4a9bcd3-7b36-4987-94af-1a5975be908c</id>
@@ -731,20 +571,6 @@ Une sortie culturelle incontournable cet été
     <summary>La Ville de Toulouse déploie le programme « Grandir Curieux », qui vise à inscrire la culture dans le quotidien des enfants toulousains dès le plus jeune âge. Le dispositif est en cours de déploiement dans les écoles, et devrait prochainement s'étendre aux centres de loisirs et aux crèches. Parmi les outils phares mis en avant figurent le Passeport pour l'Art, qui propose aux classes des parcours gratuits d'initiation construits avec musées, salles de spectacle et associations locales, et la Micro-Folie Ernest Renan. Ce programme repose sur une coopération entre la Mairie, Toulouse Métropole, la préfecture de la Haute-Garonne et l'Éducation nationale, les enseignants jouant un rôle central dans sa mise en œuvre.</summary>
     <category term="news"/>
     <published>2026-07-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:82577478-8357-49ba-9d87-ddc8d8363dbc</id>
-    <title>Odeurs de fumée à Toulouse : les incendies de Gironde et des Landes en cause</title>
-    <updated>2026-07-26T07:36:02.060666+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Ce samedi 25 juillet 2026, de nombreux habitants de Toulouse et de Haute-Garonne signalent des odeurs de fumée inhabituelles, provoquant un vent de panique et une avalanche d&amp;#x27;appels aux pompiers. Le SDIS de la Haute-Garonne a été submergé par les signalements sur l&amp;#x27;ensemble du département. Les autorités ont rapidement précisé que ces odeurs proviennent des importants incendies en cours en Gironde et dans les Landes, et non d&amp;#x27;un sinistre local. Le SDIS lance un appel au calme et invite les habitants à ne pas mobiliser inutilement les secours.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/odeurs-de-brule-autour-de-toulouse-ce-sont-les-incendies-de-gironde-et-des-landes-les-pompiers-appellent-au-calme_64585634.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/odeurs-de-brule-autour-de-toulouse-ce-sont-les-incendies-de-gironde-et-des-landes-les-pompiers-appellent-au-calme_64585634.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce samedi 25 juillet 2026, de nombreux habitants de Toulouse et de Haute-Garonne signalent des odeurs de fumée inhabituelles, provoquant un vent de panique et une avalanche d'appels aux pompiers. Le SDIS de la Haute-Garonne a été submergé par les signalements sur l'ensemble du département. Les autorités ont rapidement précisé que ces odeurs proviennent des importants incendies en cours en Gironde et dans les Landes, et non d'un sinistre local. Le SDIS lance un appel au calme et invite les habitants à ne pas mobiliser inutilement les secours.</summary>
-    <category term="news"/>
-    <published>2026-07-25T10:41:20+02:00</published>
   </entry>
   <entry>
     <id>cluster:a7dac9f6-f592-4d18-a79f-34fca57eb424</id>
@@ -826,11 +652,11 @@ Une sortie culturelle incontournable cet été
     <content type="html">&lt;p&gt;Le salon aéronautique de Farnborough, tenu du 20 au 24 juillet 2026 au Royaume-Uni, s&amp;#x27;est conclu sur un duel serré entre Airbus et Boeing. L&amp;#x27;avionneur toulousain a enregistré 154 commandes fermes et options exercées — dont 100 appareils pour SMBC Aviation Capital, des A350-1000 pour Philippine Airlines et Riyadh Air, et des A220-300 pour BermudAir — contre 173 pour Boeing. Si Airbus repart avec un bilan solide, c&amp;#x27;est son rival américain qui prend la tête du match des commandes commerciales, signant son « grand retour » après plusieurs années difficiles. Les résultats concernent directement l&amp;#x27;avionneur basé à Toulouse, premier employeur industriel de la région.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Les deux premiers articles (directs du mardi 21 et mercredi 22 juillet) couvrent l&amp;#x27;événement au fil de l&amp;#x27;eau, commande par commande. Le troisième article tire le bilan final et met en avant la victoire de Boeing, un angle absent des directs qui présentaient Airbus sous un jour plus favorable.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (direct mardi)&lt;/strong&gt;: Détail des commandes du deuxième jour, dont Philippine Airlines et Shohin Airlines&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (direct mercredi)&lt;/strong&gt;: Commandes du troisième jour, dont Flynas et BermudAir&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (bilan)&lt;/strong&gt;: Récapitulatif complet et comparaison finale Airbus vs Boeing&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-salon-aeronautique-de-farnborough-apres-un-depart-en-fanfare-pour-airbus-suivez-les-annonces-du-deuxieme-jour_64563483.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-airbus-la-moisson-de-commandes-se-poursuit-au-salon-aeronautique-de-farnborough_64569366.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pluie-de-commandes-au-salon-de-farnborough-airbus-brille-mais-boeing-lui-vole-la-vedette_64585855.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/direct-salon-aeronautique-de-farnborough-apres-un-depart-en-fanfare-pour-airbus-suivez-les-annonces-du-deuxieme-jour_64563483.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-airbus-la-moisson-de-commandes-se-poursuit-au-salon-aeronautique-de-farnborough_64569366.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pluie-de-commandes-au-salon-de-farnborough-airbus-brille-mais-boeing-lui-vole-la-vedette_64585855.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/direct-airbus-la-moisson-de-commandes-se-poursuit-au-salon-aeronautique-de-farnborough_64569366.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>Le salon aéronautique de Farnborough, tenu du 20 au 24 juillet 2026 au Royaume-Uni, s'est conclu sur un duel serré entre Airbus et Boeing. L'avionneur toulousain a enregistré 154 commandes fermes et options exercées — dont 100 appareils pour SMBC Aviation Capital, des A350-1000 pour Philippine Airlines et Riyadh Air, et des A220-300 pour BermudAir — contre 173 pour Boeing. Si Airbus repart avec un bilan solide, c'est son rival américain qui prend la tête du match des commandes commerciales, signant son « grand retour » après plusieurs années difficiles. Les résultats concernent directement l'avionneur basé à Toulouse, premier employeur industriel de la région.</summary>
     <category term="news"/>
-    <published>2026-07-21T12:59:14+02:00</published>
+    <published>2026-07-22T15:16:05+02:00</published>
   </entry>
   <entry>
     <id>cluster:a36e64f9-13e5-4379-b185-31d1a3010960</id>
@@ -931,20 +757,6 @@ Une sortie culturelle incontournable cet été
     <published>2026-07-26T17:02:02+02:00</published>
   </entry>
   <entry>
-    <id>cluster:6b1e328a-2a45-4e68-ac4c-9c1ab46d40ab</id>
-    <title>Toulouse accueille des résidents d'Ehpad évacués des incendies de Gironde</title>
-    <updated>2026-07-27T08:31:03.682949+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Face aux incendies qui frappent la Gironde, la ville de Toulouse a annoncé ce dimanche l&amp;#x27;accueil de résidents d&amp;#x27;Ehpad évacués de la région bordelaise. Le maire Jean-Luc Moudenc, qui s&amp;#x27;est entretenu avec son homologue de Bordeaux Thomas Cazenave, a indiqué que trois premiers résidents — dont un couple — étaient en cours de transfert vers deux établissements gérés par le CCAS, l&amp;#x27;un situé dans le quartier Saint-Michel, l&amp;#x27;autre dans l&amp;#x27;ouest toulousain. Sept places supplémentaires restaient disponibles dès ce dimanche pour de nouveaux transferts éventuels. La mairie indique également travailler en lien avec la préfecture pour étendre l&amp;#x27;accueil à d&amp;#x27;autres sinistrés.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/incendies-en-gironde-des-residents-d-ehpad-evacues-arrivent-a-toulouse_64587781.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/incendies-en-gironde-des-residents-d-ehpad-evacues-arrivent-a-toulouse_64587781.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Face aux incendies qui frappent la Gironde, la ville de Toulouse a annoncé ce dimanche l'accueil de résidents d'Ehpad évacués de la région bordelaise. Le maire Jean-Luc Moudenc, qui s'est entretenu avec son homologue de Bordeaux Thomas Cazenave, a indiqué que trois premiers résidents — dont un couple — étaient en cours de transfert vers deux établissements gérés par le CCAS, l'un situé dans le quartier Saint-Michel, l'autre dans l'ouest toulousain. Sept places supplémentaires restaient disponibles dès ce dimanche pour de nouveaux transferts éventuels. La mairie indique également travailler en lien avec la préfecture pour étendre l'accueil à d'autres sinistrés.</summary>
-    <category term="news"/>
-    <published>2026-07-26T17:06:01+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:ccd3e821-b92f-4280-83a1-26e9af203639</id>
     <title>Airbus lance des essais en vol pour ses nouvelles ailes à Toulouse</title>
     <updated>2026-07-27T08:31:03.682949+00:00</updated>
@@ -987,25 +799,6 @@ Une sortie culturelle incontournable cet été
     <summary>Le ministère de l'Intérieur et le ministère des Armées ont signé le 23 juillet 2026 une convention avec Airbus pour mobiliser un A400M équipé d'un kit de largage contre les incendies, alors qu'un méga-feu ravage la Gironde et que le record d'hectares brûlés vient d'être battu. L'appareil, capable de larguer 20 tonnes de retardant — l'équivalent de deux avions Dash — a déjà effectué ses premiers largages opérationnels au-dessus de Lacanau et du Cap Ferret. Jean-Brice Dumont, directeur de l'aviation militaire chez Airbus, précise que cet A400M est à ce jour le seul au monde équipé d'un tel kit, conçu en lien avec la sécurité civile espagnole, et que son déploiement opérationnel est inédit. Des voix politiques, dont Jordan Bardella et Jean-Luc Mélenchon, ont critiqué cette mise en service, ce dernier affirmant à tort que l'appareil aurait déjà été utilisé en Espagne.</summary>
     <category term="news"/>
     <published>2026-07-23T16:01:57+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:1053900a-bdd4-4839-96cf-965ae98b4f71</id>
-    <title>Travaux d'été Tisséo : rames raccourcies sur la ligne A dès lundi</title>
-    <updated>2026-07-27T08:31:03.682949+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Du lundi 27 juillet au dimanche 16 août 2026, Tisséo réduit la longueur des rames de la ligne A du métro toulousain à 26 mètres au lieu de 52 mètres, en raison d&amp;#x27;une fréquentation divisée par deux pendant l&amp;#x27;été (100 000 voyageurs/jour contre 200 000 à 230 000 le reste de l&amp;#x27;année). Pour compenser, la fréquence de passage est augmentée : toutes les 1min50 en heure de pointe au lieu de 2min30. En parallèle, la ligne B reste interrompue entre Saint-Michel Marcel Langer et Ramonville pour les travaux de jonction avec la future ligne C, période mise à profit pour remplacer six escaliers mécaniques dans les stations Empalot et Université Paul Sabatier. Ce remplacement progressif de 77 escaliers mécaniques sur la ligne B, lancé en 2020, doit s&amp;#x27;achever d&amp;#x27;ici 2030 avec 120 nouveaux modèles au total sur les lignes A et B.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse met davantage l&amp;#x27;accent sur l&amp;#x27;inconfort potentiel pour les voyageurs contraints d&amp;#x27;utiliser le métro cet été, avec un ton plus orienté usager. L&amp;#x27;Essentiel adopte une approche plus institutionnelle et exhaustive, détaillant également les travaux d&amp;#x27;escaliers et la maintenance du Téléo.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Impact concret sur les voyageurs et détails pratiques sur les rames raccourcies&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble des chantiers Tisséo cet été (escaliers, ligne B, Téléo)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47447"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-ce-lundi-les-voyageurs-seront-plus-a-l-etroit-dans-le-metro-a-toulouse-voici-ce-qui-change_64580697.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-23?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#47447"/>
-    <summary>Du lundi 27 juillet au dimanche 16 août 2026, Tisséo réduit la longueur des rames de la ligne A du métro toulousain à 26 mètres au lieu de 52 mètres, en raison d'une fréquentation divisée par deux pendant l'été (100 000 voyageurs/jour contre 200 000 à 230 000 le reste de l'année). Pour compenser, la fréquence de passage est augmentée : toutes les 1min50 en heure de pointe au lieu de 2min30. En parallèle, la ligne B reste interrompue entre Saint-Michel Marcel Langer et Ramonville pour les travaux de jonction avec la future ligne C, période mise à profit pour remplacer six escaliers mécaniques dans les stations Empalot et Université Paul Sabatier. Ce remplacement progressif de 77 escaliers mécaniques sur la ligne B, lancé en 2020, doit s'achever d'ici 2030 avec 120 nouveaux modèles au total sur les lignes A et B.</summary>
-    <category term="news"/>
-    <published>2026-07-23T04:10:47.030000+00:00</published>
   </entry>
   <entry>
     <id>cluster:42544cf3-9ff7-4372-80e9-45eb341cc039</id>
@@ -1153,5 +946,154 @@ Une sortie culturelle incontournable cet été
     <summary>Toulouse traverse une séquence météorologique extrême fin juillet 2026, avec une alternance de pics de chaleur et d'épisodes orageux. Le vendredi 24 juillet a été la journée la plus chaude de la semaine, avec près de 39–40 °C attendus, faisant de Toulouse la ville la plus chaude de France selon La Chaîne Météo. Ce pic a été suivi d'orages potentiellement violents le samedi 25, avec risque de grêle, vents forts et orages supercellulaires selon le météorologiste Valéry Mourot de Météo France. Après un bref répit ce week-end, une nouvelle vague de chaleur s'installe dès le mardi 28 juillet, avec des températures entre 35 °C et 38 °C prévues jusqu'à fin juillet voire début août, des nuits tropicales à 20–30 °C, et un pic attendu mercredi 30.</summary>
     <category term="news"/>
     <published>2026-07-23T11:52:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f1074ee7-2db7-48b6-9e93-8ab8bf489efb</id>
+    <title>🎁 À vous de jouer !</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Tables d’exception, spa hors du commun… l’Essentiel Toulouse vous gâte pour les vacances d’été !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRs1nynjEA0_ueglPXEI3Ob5I36ztDNVfFs1o2kiNfuleg&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRs1nynjEA0_ueglPXEI3Ob5I36ztDNVfFs1o2kiNfuleg&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Tables d’exception, spa hors du commun… l’Essentiel Toulouse vous gâte pour les vacances d’été !</summary>
+    <category term="news"/>
+    <published>2026-07-29T04:05:27.426000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4</id>
+    <title>Barques en Scène : trois soirs de concerts gratuits à Narbonne en août</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Du 20 au 22 août 2026, Narbonne accueille une nouvelle édition de Barques en Scène, festival estival gratuit en plein air dans l&amp;#x27;Aude. Au programme : concerts avec Amir, Superbus et des artistes des années 80, mais aussi des déambulations artistiques, spectacles de rue, DJ sets et bodegas dès 19h30 chaque soir. Chaque soirée est lancée par une déambulation thématique différente — « The Pop Phone Machine », « Ulysse, au-delà des Dieux » et « Océania » — impliquant des personnages géants dans le centre-ville. L&amp;#x27;édition 2026 rend également hommage à l&amp;#x27;héritage romain de Narbonne, selon l&amp;#x27;adjoint au maire délégué à la culture.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/07/28/trois-soirs-de-concerts-gratuits-a-narbonne-amir-superbus-et-les-stars-des-annees-80-au-programme-de-barques-en-scene-13435466.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/07/28/trois-soirs-de-concerts-gratuits-a-narbonne-amir-superbus-et-les-stars-des-annees-80-au-programme-de-barques-en-scene-13435466.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Du 20 au 22 août 2026, Narbonne accueille une nouvelle édition de Barques en Scène, festival estival gratuit en plein air dans l'Aude. Au programme : concerts avec Amir, Superbus et des artistes des années 80, mais aussi des déambulations artistiques, spectacles de rue, DJ sets et bodegas dès 19h30 chaque soir. Chaque soirée est lancée par une déambulation thématique différente — « The Pop Phone Machine », « Ulysse, au-delà des Dieux » et « Océania » — impliquant des personnages géants dans le centre-ville. L'édition 2026 rend également hommage à l'héritage romain de Narbonne, selon l'adjoint au maire délégué à la culture.</summary>
+    <category term="event"/>
+    <published>2026-07-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:990262e1-51c4-4d8e-90e8-77b5ee6eb87b</id>
+    <title>Le Stade Toulousain dévoile un maillot away inspiré du Pic du Midi</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Stade Toulousain a présenté ce mardi 28 juillet 2026 son nouveau maillot extérieur pour la saison 2026-2027, conçu en hommage au Pic du Midi de Bigorre. La tunique, réalisée par Nike, se distingue par un fond blanc éclatant et une texture en relief imitant la roche escarpée et les reliefs glaciaires des Pyrénées, dans des nuances de gris. Les manches restent d&amp;#x27;un blanc pur tandis que les flancs conservent les couleurs historiques rouge et noir du club. Ce choix assumé par le club — qui se revendique « gardien des Étoiles » — vise à célébrer un symbole fort de l&amp;#x27;Occitanie, haut lieu de la recherche scientifique.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-stade-toulousain-devoile-un-nouveau-maillot-au-design-inedit-en-hommage-au-pic-du-midi_64594833.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-stade-toulousain-devoile-un-nouveau-maillot-au-design-inedit-en-hommage-au-pic-du-midi_64594833.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Stade Toulousain a présenté ce mardi 28 juillet 2026 son nouveau maillot extérieur pour la saison 2026-2027, conçu en hommage au Pic du Midi de Bigorre. La tunique, réalisée par Nike, se distingue par un fond blanc éclatant et une texture en relief imitant la roche escarpée et les reliefs glaciaires des Pyrénées, dans des nuances de gris. Les manches restent d'un blanc pur tandis que les flancs conservent les couleurs historiques rouge et noir du club. Ce choix assumé par le club — qui se revendique « gardien des Étoiles » — vise à célébrer un symbole fort de l'Occitanie, haut lieu de la recherche scientifique.</summary>
+    <category term="news"/>
+    <published>2026-07-28T12:09:34+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:61236fb2-561d-4324-97a7-7bdd4768d075</id>
+    <title>Toulouse cherche un opérateur pour un projet immersif à Saint-Sernin</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La mairie de Toulouse a lancé un appel à manifestation d&amp;#x27;intérêt pour concevoir et réaliser un projet artistique immersif au sein de la basilique Saint-Sernin, classée au patrimoine mondial de l&amp;#x27;Unesco. La démarche fait suite à la proposition d&amp;#x27;un producteur artistique souhaitant associer créations visuelles et musicales au monument. Les projets envisagés pourraient notamment s&amp;#x27;appuyer sur du mapping vidéo, de la diffusion musicale et d&amp;#x27;autres dispositifs de mise en valeur patrimoniale. La consultation est présentée comme exploratoire : elle ne constitue ni une sélection définitive ni une attribution d&amp;#x27;occupation, mais vise à identifier les opérateurs potentiels et à évaluer l&amp;#x27;intérêt du marché. Les candidats ont jusqu&amp;#x27;au 6 août 2026 à midi pour soumettre leur candidature.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pourquoi-la-mairie-de-toulouse-lance-t-elle-un-appel-pour-la-basilique-saint-sernin_64594024.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/pourquoi-la-mairie-de-toulouse-lance-t-elle-un-appel-pour-la-basilique-saint-sernin_64594024.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La mairie de Toulouse a lancé un appel à manifestation d'intérêt pour concevoir et réaliser un projet artistique immersif au sein de la basilique Saint-Sernin, classée au patrimoine mondial de l'Unesco. La démarche fait suite à la proposition d'un producteur artistique souhaitant associer créations visuelles et musicales au monument. Les projets envisagés pourraient notamment s'appuyer sur du mapping vidéo, de la diffusion musicale et d'autres dispositifs de mise en valeur patrimoniale. La consultation est présentée comme exploratoire : elle ne constitue ni une sélection définitive ni une attribution d'occupation, mais vise à identifier les opérateurs potentiels et à évaluer l'intérêt du marché. Les candidats ont jusqu'au 6 août 2026 à midi pour soumettre leur candidature.</summary>
+    <category term="news"/>
+    <published>2026-07-28T17:18:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:593c0fd9-1f49-4ff5-bc2b-e519989f5068</id>
+    <title>Une batterie au lithium mal triée provoque un incendie à Plaisance-du-Touch</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Un incendie s&amp;#x27;est déclaré le vendredi 24 juillet dans la déchetterie de Plaisance-du-Touch, après la fermeture du site. Une batterie au lithium déposée dans une benne classique a pris feu lors de la compression des déchets par le compacteur. Les sapeurs-pompiers sont intervenus rapidement et, avec l&amp;#x27;aide des agents présents, ont maîtrisé le feu avant qu&amp;#x27;il ne se propage. Le syndicat Decoset rappelle que les batteries au lithium doivent impérativement être déposées dans les espaces de collecte dédiés, et non dans les bennes ordinaires.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-jette-une-batterie-au-lithium-dans-une-benne-elle-provoque-un-incendie-dans-une-dechetterie-pres-de-toulouse_64597425.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/il-jette-une-batterie-au-lithium-dans-une-benne-elle-provoque-un-incendie-dans-une-dechetterie-pres-de-toulouse_64597425.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un incendie s'est déclaré le vendredi 24 juillet dans la déchetterie de Plaisance-du-Touch, après la fermeture du site. Une batterie au lithium déposée dans une benne classique a pris feu lors de la compression des déchets par le compacteur. Les sapeurs-pompiers sont intervenus rapidement et, avec l'aide des agents présents, ont maîtrisé le feu avant qu'il ne se propage. Le syndicat Decoset rappelle que les batteries au lithium doivent impérativement être déposées dans les espaces de collecte dédiés, et non dans les bennes ordinaires.</summary>
+    <category term="news"/>
+    <published>2026-07-28T19:22:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:2c11493e-4b19-425a-b366-b27c7617e4a3</id>
+    <title>Toulouse retire 259 boîtiers à clés illicites du centre-ville en 2025</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Depuis 2025, la mairie de Toulouse mène des campagnes de retrait des boîtiers à clés fixés sur le mobilier urbain, principalement utilisés pour les locations de courte durée de type Airbnb. En 2025, quatre campagnes ont permis de repérer et « stiquer » 259 dispositifs illicites, dont 146 ont été retirés par leurs propriétaires et 113 par la collectivité après un délai de 15 jours. Ces installations ne sont pas autorisées sur le mobilier urbain public, bien qu&amp;#x27;elles restent tolérées sur les portails ou clôtures de propriétés privées. Les campagnes se poursuivent en 2026, une nouvelle opération étant déjà en cours, selon les informations recueillies par Actu Toulouse auprès de la Ville.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/locations-de-courte-duree-la-mairie-de-toulouse-a-fait-retirer-259-boitiers-a-cles-du-centre-ville-en-2025_64584283.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/locations-de-courte-duree-la-mairie-de-toulouse-a-fait-retirer-259-boitiers-a-cles-du-centre-ville-en-2025_64584283.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis 2025, la mairie de Toulouse mène des campagnes de retrait des boîtiers à clés fixés sur le mobilier urbain, principalement utilisés pour les locations de courte durée de type Airbnb. En 2025, quatre campagnes ont permis de repérer et « stiquer » 259 dispositifs illicites, dont 146 ont été retirés par leurs propriétaires et 113 par la collectivité après un délai de 15 jours. Ces installations ne sont pas autorisées sur le mobilier urbain public, bien qu'elles restent tolérées sur les portails ou clôtures de propriétés privées. Les campagnes se poursuivent en 2026, une nouvelle opération étant déjà en cours, selon les informations recueillies par Actu Toulouse auprès de la Ville.</summary>
+    <category term="news"/>
+    <published>2026-07-29T06:42:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c36ec453-55cf-4de2-9fbf-11935f568984</id>
+    <title>Le futur Technocentre de Toulouse sort de terre près du périphérique</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Visible depuis l&amp;#x27;A61 à hauteur de la sortie La Roseraie, un imposant chantier attire l&amp;#x27;attention des automobilistes depuis plusieurs mois. Il s&amp;#x27;agit du futur Technocentre de Toulouse, un bâtiment destiné à regrouper les services techniques de la mairie et de la Métropole. Conçu par l&amp;#x27;agence Taillandier Architectes, le projet comprend notamment une tour de bureaux avec rooftop, dont la construction a été lancée fin 2024. L&amp;#x27;élu chargé de l&amp;#x27;urbanisme, Jean-Baptiste de Scoraille, a confirmé et détaillé le projet à Actu Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-chantier-impressionnant-depuis-le-peripherique-de-toulouse-a-quoi-servira-cette-grande-tour-de-beton_64596482.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/un-chantier-impressionnant-depuis-le-peripherique-de-toulouse-a-quoi-servira-cette-grande-tour-de-beton_64596482.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Visible depuis l'A61 à hauteur de la sortie La Roseraie, un imposant chantier attire l'attention des automobilistes depuis plusieurs mois. Il s'agit du futur Technocentre de Toulouse, un bâtiment destiné à regrouper les services techniques de la mairie et de la Métropole. Conçu par l'agence Taillandier Architectes, le projet comprend notamment une tour de bureaux avec rooftop, dont la construction a été lancée fin 2024. L'élu chargé de l'urbanisme, Jean-Baptiste de Scoraille, a confirmé et détaillé le projet à Actu Toulouse.</summary>
+    <category term="news"/>
+    <published>2026-07-29T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:6b1e328a-2a45-4e68-ac4c-9c1ab46d40ab</id>
+    <title>Incendies en Gironde : Toulouse accueille des évacués vulnérables</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Face aux incendies qui ravagent la Gironde, la ville de Toulouse a ouvert ses portes aux sinistrés les plus vulnérables, notamment des résidents d&amp;#x27;Ehpad évacués de la région bordelaise. Le maire Jean-Luc Moudenc a annoncé l&amp;#x27;accueil de ces résidents dans deux établissements gérés par le CCAS, l&amp;#x27;un situé dans le quartier Saint-Michel, l&amp;#x27;autre dans l&amp;#x27;ouest toulousain. Par ailleurs, 53 personnes évacuées ont été orientées vers un centre d&amp;#x27;accueil provisoire installé au MEETT à Aussonne, parc des Expositions de Toulouse. Parmi elles, Michel Lapeyre, 87 ans, originaire de Marcheprime près de Bordeaux, témoigne du choc de l&amp;#x27;évacuation en pleine nuit après 53 ans dans sa commune.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article adopte un angle institutionnel, centré sur l&amp;#x27;annonce du maire et le dispositif municipal. Le second donne la parole à un sinistré, Michel Lapeyre, 87 ans, offrant un témoignage humain et concret sur le vécu de l&amp;#x27;évacuation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Le dispositif municipal et l&amp;#x27;action du CCAS de Toulouse&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Le témoignage poignant d&amp;#x27;un évacué de 87 ans accueilli au MEETT&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/incendies-en-gironde-des-residents-d-ehpad-evacues-arrivent-a-toulouse_64587781.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/incendies-en-gironde-j-ai-tout-laisse-ce-n-est-pas-facile-temoigne-michel-87-ans-evacue-pres-de-toulouse_64598770.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/incendies-en-gironde-des-residents-d-ehpad-evacues-arrivent-a-toulouse_64587781.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Face aux incendies qui ravagent la Gironde, la ville de Toulouse a ouvert ses portes aux sinistrés les plus vulnérables, notamment des résidents d'Ehpad évacués de la région bordelaise. Le maire Jean-Luc Moudenc a annoncé l'accueil de ces résidents dans deux établissements gérés par le CCAS, l'un situé dans le quartier Saint-Michel, l'autre dans l'ouest toulousain. Par ailleurs, 53 personnes évacuées ont été orientées vers un centre d'accueil provisoire installé au MEETT à Aussonne, parc des Expositions de Toulouse. Parmi elles, Michel Lapeyre, 87 ans, originaire de Marcheprime près de Bordeaux, témoigne du choc de l'évacuation en pleine nuit après 53 ans dans sa commune.</summary>
+    <category term="news"/>
+    <published>2026-07-26T17:06:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:82577478-8357-49ba-9d87-ddc8d8363dbc</id>
+    <title>Odeurs de fumée à Toulouse : les incendies de Gironde et des Landes en cause</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Ce samedi 25 juillet 2026, de nombreux habitants de Toulouse et de Haute-Garonne ont signalé des odeurs de brûlé et de fumée, provoquant une vague d&amp;#x27;appels au SDIS 31. Les pompiers ont rapidement précisé que ces odeurs proviennent des importants incendies en cours en Gironde et dans les Landes, et non d&amp;#x27;un feu local, appelant la population au calme. Le risque d&amp;#x27;un mégafeu en Haute-Garonne reste jugé limité par les autorités : le département ne compte que 21 % de surfaces boisées, contre 67 % pour les Landes, et ne dispose pas des mêmes massifs forestiers continus ni des mêmes essences. Néanmoins, collectivités et services de secours se préparent à ce scénario extrême, dans un contexte où tout le sud de la France fait face à des incendies hors-norme cet été.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article est un traitement immédiat et réactif de l&amp;#x27;inquiétude des habitants, avec témoignages de lecteurs et appel au calme du SDIS. Le second adopte une perspective plus analytique et prospective, interrogeant la vulnérabilité de la Haute-Garonne face aux mégafeux en cinq points.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Odeurs de brûlé)&lt;/strong&gt;: Pour comprendre l&amp;#x27;origine des odeurs et le message des pompiers aux habitants&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Incendies : Toulouse prête ?)&lt;/strong&gt;: Pour une analyse des risques réels de mégafeu en Haute-Garonne&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/odeurs-de-brule-autour-de-toulouse-ce-sont-les-incendies-de-gironde-et-des-landes-les-pompiers-appellent-au-calme_64585634.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/incendies-toulouse-et-la-haute-garonne-sont-elles-pretes-a-faire-face-a-un-megafeu-la-reponse-en-5-points_64591540.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/odeurs-de-brule-autour-de-toulouse-ce-sont-les-incendies-de-gironde-et-des-landes-les-pompiers-appellent-au-calme_64585634.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Ce samedi 25 juillet 2026, de nombreux habitants de Toulouse et de Haute-Garonne ont signalé des odeurs de brûlé et de fumée, provoquant une vague d'appels au SDIS 31. Les pompiers ont rapidement précisé que ces odeurs proviennent des importants incendies en cours en Gironde et dans les Landes, et non d'un feu local, appelant la population au calme. Le risque d'un mégafeu en Haute-Garonne reste jugé limité par les autorités : le département ne compte que 21 % de surfaces boisées, contre 67 % pour les Landes, et ne dispose pas des mêmes massifs forestiers continus ni des mêmes essences. Néanmoins, collectivités et services de secours se préparent à ce scénario extrême, dans un contexte où tout le sud de la France fait face à des incendies hors-norme cet été.</summary>
+    <category term="news"/>
+    <published>2026-07-25T10:41:20+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1053900a-bdd4-4839-96cf-965ae98b4f71</id>
+    <title>Rames de la ligne A réduites de moitié du 27 juillet au 16 août</title>
+    <updated>2026-07-29T07:42:56.016300+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Du lundi 27 juillet au dimanche 16 août 2026, Tisséo réduit la longueur des rames de la ligne A du métro toulousain : elles passent de 52 à 26 mètres, soit une capacité divisée par deux. Cette mesure annuelle s&amp;#x27;explique par une fréquentation estivale réduite de moitié, avec environ 100 000 voyageurs par jour contre 200 000 à 230 000 le reste de l&amp;#x27;année. En contrepartie, la fréquence de passage est augmentée : les rames circuleront toutes les 1min50 en heure de pointe, contre 2min30 habituellement. Sur le terrain, des usagers témoignent d&amp;#x27;une adaptation difficile — rames plus bondées, chaleur accrue en pleine canicule, et certains ont raté leur correspondance faute d&amp;#x27;avoir anticipé le changement de longueur des quais. En parallèle, des travaux d&amp;#x27;escaliers mécaniques sont en cours aux stations Empalot et Université Paul Sabatier, profitant de la fermeture de la ligne B entre Saint-Michel et Ramonville pour les travaux de jonction avec la future ligne C.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Lessentiel adopte une vue d&amp;#x27;ensemble des travaux estivaux Tisséo (escaliers, ligne B, Téléo), tandis qu&amp;#x27;actu_toulouse se concentre sur la ligne A : un premier article explique la mesure en détail, un second recueille les réactions d&amp;#x27;usagers sur le quai, donnant une couleur plus concrète et humaine.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Vue d&amp;#x27;ensemble des chantiers estivaux Tisséo (ligne B, escaliers, Téléo)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails pratiques sur la ligne A et témoignages d&amp;#x27;usagers perturbés&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#47447"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-ce-lundi-les-voyageurs-seront-plus-a-l-etroit-dans-le-metro-a-toulouse-voici-ce-qui-change_64580697.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/j-ai-rate-mon-metro-a-cause-de-ca-les-rames-de-la-ligne-a-a-toulouse-reduites-de-moitie-cet-ete_64597949.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-07-23?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#47447"/>
+    <summary>Du lundi 27 juillet au dimanche 16 août 2026, Tisséo réduit la longueur des rames de la ligne A du métro toulousain : elles passent de 52 à 26 mètres, soit une capacité divisée par deux. Cette mesure annuelle s'explique par une fréquentation estivale réduite de moitié, avec environ 100 000 voyageurs par jour contre 200 000 à 230 000 le reste de l'année. En contrepartie, la fréquence de passage est augmentée : les rames circuleront toutes les 1min50 en heure de pointe, contre 2min30 habituellement. Sur le terrain, des usagers témoignent d'une adaptation difficile — rames plus bondées, chaleur accrue en pleine canicule, et certains ont raté leur correspondance faute d'avoir anticipé le changement de longueur des quais. En parallèle, des travaux d'escaliers mécaniques sont en cours aux stations Empalot et Université Paul Sabatier, profitant de la fermeture de la ligne B entre Saint-Michel et Ramonville pour les travaux de jonction avec la future ligne C.</summary>
+    <category term="news"/>
+    <published>2026-07-23T04:10:47.030000+00:00</published>
   </entry>
 </feed>
