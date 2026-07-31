@@ -1,0 +1,29 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:b8694db6-c3dd-48a5-b417-000121507d2d",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Sélection de sorties pour le premier week-end d'août à Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2026/07/img-2402.jpeg",
+    "file": "cluster_b8694db6-c3dd-48a5-b417-000121507d2d_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:075afd08-09c8-49fa-8e39-2cf916098a43",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Un food truck s'installe à la Cinémathèque pour le cinéma en plein air",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a6b11caa1a48efb4b0a4fb7/hd/image.jpg?v=2",
+    "file": "cluster_075afd08-09c8-49fa-8e39-2cf916098a43_event_story.jpg"
+  }
+]

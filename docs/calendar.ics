@@ -6204,6 +6204,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/que-faire-a-toulouse-pour-le-p
  agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:075afd08-09c8-49fa-8e39-2cf916098a43@news.lavillerose.com
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260830
+SUMMARY:Ciné Bar
+DESCRIPTION:Cet été\, la Cinémathèque de Toulouse accueille le Ciné Ba
+ r\, un food truck présent jusqu'au 29 août dans sa cour historique réno
+ vée. Né d'une collaboration entre trois adresses toulousaines — La Con
+ corde\, Le Peyrou et L'Échanson —\, il propose cocktails\, tapas\, glac
+ es et gourmandises avant chaque séance. Le cinéma en plein air\, relanc
+ é depuis le 8 juillet\, programme 44 films jusqu'à la fin août sous les
+  étoiles. Le Ciné Bar offre ainsi une raison supplémentaire d'arriver e
+ n avance pour profiter de\n\nSource\: https://www.toulouscope.fr/2026/07/3
+ 1/cet-ete-ce-food-truck-sinstalle-dans-la-cour-de-la-cinematheque-pour-acc
+ ompagner-les-seances-en-plein-air-13488462.php
+URL:https://www.toulouscope.fr/2026/07/31/cet-ete-ce-food-truck-sinstalle-d
+ ans-la-cour-de-la-cinematheque-pour-accompagner-les-seances-en-plein-air-1
+ 3488462.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e7a6d01c-4891-4a88-869c-5f17a4eb858a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802

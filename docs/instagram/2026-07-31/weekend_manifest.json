@@ -1,0 +1,29 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-08-01",
+  "sunday": "2026-08-02",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:69f65298-14ad-495d-9965-6913a433a0b3",
+      "title": "Le festival Notes d'été 31 revient pour 200 événements gratuits"
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:b8694db6-c3dd-48a5-b417-000121507d2d",
+      "title": "Sélection de sorties pour le premier week-end d'août à Toulouse"
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:075afd08-09c8-49fa-8e39-2cf916098a43",
+      "title": "Un food truck s'installe à la Cinémathèque pour le cinéma en plein air"
+    }
+  ]
+}
