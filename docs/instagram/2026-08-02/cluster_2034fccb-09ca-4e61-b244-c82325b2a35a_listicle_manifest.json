@@ -1,0 +1,45 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:2034fccb-09ca-4e61-b244-c82325b2a35a",
+  "title": "10 coffee shops insolites à Toulouse qui réinventent la pause café",
+  "ig_caption": "Cafés chats, céramique, fenêtre piétonne…\n10 adresses insolites pour pauses café originales\nProduits locaux, prix doux, concepts uniques",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"cafetoulouse\", \"coffeeshoptoulouse\", \"bonnesadresses\", \"saintcyprien\", \"cafechat\", \"chatcafe\", \"ceramique\", \"brocante\", \"coffeelover\", \"pausecafe\", \"cafecerise\", \"chapristea\", \"lafenetre\", \"roulottecoffee\", \"villerose\", \"toulousefoodie\", \"sortirtoulouse\", \"bonplan\", \"toulousecity\", \"adressestoulouse\", \"cafeinsolite\", \"matchatoulouse\"]",
+  "ig_mention": null,
+  "venue": "",
+  "slides": [
+    {
+      "file": "cluster_2034fccb-09ca-4e61-b244-c82325b2a35a_listicle_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "cluster_2034fccb-09ca-4e61-b244-c82325b2a35a_listicle_01.jpg",
+      "type": "item",
+      "title": "La Fenêtre",
+      "location": "La Fenêtre, Saint-Cyprien, Toulouse"
+    },
+    {
+      "file": "cluster_2034fccb-09ca-4e61-b244-c82325b2a35a_listicle_02.jpg",
+      "type": "item",
+      "title": "Chapristea",
+      "location": "Chapristea, Toulouse"
+    },
+    {
+      "file": "cluster_2034fccb-09ca-4e61-b244-c82325b2a35a_listicle_03.jpg",
+      "type": "item",
+      "title": "Café avec des chiens",
+      "location": null
+    },
+    {
+      "file": "cluster_2034fccb-09ca-4e61-b244-c82325b2a35a_listicle_04.jpg",
+      "type": "item",
+      "title": "Café céramique",
+      "location": null
+    },
+    {
+      "file": "cluster_2034fccb-09ca-4e61-b244-c82325b2a35a_listicle_05.jpg",
+      "type": "item",
+      "title": "Café brocante",
+      "location": null
+    }
+  ]
+}
