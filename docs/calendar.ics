@@ -6227,6 +6227,26 @@ URL:https://www.toulouscope.fr/2026/07/31/cet-ete-ce-food-truck-sinstalle-d
  da
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:8417e07c-887c-4902-b853-048263191c6c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Championnats d'Europe de natation
+DESCRIPTION:Les championnats d'Europe de natation débutent le 31 juillet 2
+ 026 à Saint-Denis\, avec la natation course prévue à partir du 10 août
+ . Le Toulousain Léon Marchand\, quadruple champion olympique à Paris 202
+ 4\, y participera dans un état physique incertain après une lésion à u
+ n adducteur contractée le 29 juin lors des championnats de France. Il a r
+ echuté trois semaines plus tard et confie avoir envisagé « plein de foi
+ s » un forfait. Conséquence directe : il renonce au 200 m brasse et rest
+ e dans le dou\n\nSource\: https://actu.fr/occitanie/toulouse_31555/apres-a
+ voir-un-peu-galere-leon-marchand-dans-le-doute-avant-les-championnats-d-eu
+ rope-de-natation-a-saint-denis_64618948.html
+URL:https://actu.fr/occitanie/toulouse_31555/apres-avoir-un-peu-galere-leon
+ -marchand-dans-le-doute-avant-les-championnats-d-europe-de-natation-a-sain
+ t-denis_64618948.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e7a6d01c-4891-4a88-869c-5f17a4eb858a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
@@ -6283,6 +6303,28 @@ URL:https://actu.fr/occitanie/toulouse_31555/apres-deux-festivals-annules-c
  ette-rappeuse-trouve-une-salle-a-toulouse-le-concert-affiche-complet-en-qu
  elques-heures_64611389.html?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f90b9ba0-59ea-4e12-aefc-85ad0c4f92c5@news.lavillerose.com
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20261107
+SUMMARY:Travaux rue Gabriel Péri : chantier prolongé jusqu'en novembre 20
+ 26
+DESCRIPTION:Depuis avril 2026\, des travaux sur le réseau de chaleur et de
+  froid urbain perturbent le centre-ville de Toulouse\, notamment rue Gabri
+ el Péri. La phase en cours a été prolongée jusqu'à la semaine du 10 a
+ oût en raison de retards de calendrier\, avec interdiction de stationneme
+ nt et de circulation motorisée sur la zone. Une pause estivale est prévu
+ e du 17 au 31 août\, mais les perturbations de circulation restent effect
+ ives pendant toute cette période. Deux nouvelles phases de travaux suivro
+ nt à la \n\nSource\: https://actu.fr/occitanie/toulouse_31555/les-travaux
+ -dans-cette-rue-passante-du-centre-ville-de-toulouse-sont-repartis-pour-pl
+ usieurs-mois-ce-qu-il-faut-savoir_64619966.html
+LOCATION:rue Gabriel Péri\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/les-travaux-dans-cette-rue-pas
+ sante-du-centre-ville-de-toulouse-sont-repartis-pour-plusieurs-mois-ce-qu-
+ il-faut-savoir_64619966.html?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:edd0dd5d-a3bf-4e33-b0de-54012bc53414@news.lavillerose.com

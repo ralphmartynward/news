@@ -1,0 +1,33 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:148e5c2b-1925-49f7-8f36-148b02b8be9d",
+  "title": "Nouvelles adresses gourmandes à découvrir dans le centre-ville de Toulouse",
+  "ig_caption": "Bars, cafés et glaces : le centre-ville se renouvelle\nCafé Joyeux place des Carmes, inclusif et savoureux\nComptoir du Bistroquet ouvert de 7h à 1h30",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"toulousefood\", \"nouveaurestaurant\", \"cafejoyeux\", \"placesdescarmes\", \"centrevilletoulouse\", \"ruelafayette\", \"bardetoulouse\", \"glaces\", \"brunch\", \"inclusion\", \"handicap\", \"cafejoyeustoulouse\", \"bistroquet\", \"ouverture2026\", \"bonneadresse\", \"foodietoulouse\", \"rueToulouse\", \"barquartier\", \"petitdejeuner\", \"gastronomie\", \"foodtoulouse\", \"été2026\"]",
+  "ig_mention": "cafejoyeuxtoulouse",
+  "venue": "",
+  "slides": [
+    {
+      "file": "cluster_148e5c2b-1925-49f7-8f36-148b02b8be9d_listicle_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "cluster_148e5c2b-1925-49f7-8f36-148b02b8be9d_listicle_01.jpg",
+      "type": "item",
+      "title": "Le Comptoir du Bistroquet",
+      "location": "Rue Labéda, Toulouse"
+    },
+    {
+      "file": "cluster_148e5c2b-1925-49f7-8f36-148b02b8be9d_listicle_02.jpg",
+      "type": "item",
+      "title": "Le Café Joyeux",
+      "location": "18 place des Carmes, Toulouse"
+    },
+    {
+      "file": "cluster_148e5c2b-1925-49f7-8f36-148b02b8be9d_listicle_03.jpg",
+      "type": "item",
+      "title": "M&A : glaces et gourmandises",
+      "location": "Rue Lafayette, Toulouse"
+    }
+  ]
+}
