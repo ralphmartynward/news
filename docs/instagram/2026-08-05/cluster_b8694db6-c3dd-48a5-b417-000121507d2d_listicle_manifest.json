@@ -1,0 +1,39 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:b8694db6-c3dd-48a5-b417-000121507d2d",
+  "title": "Sorties estivales à Toulouse : sélection d'activités pour l'été",
+  "ig_caption": "Vélo nocturne gratuit, expos, cinéma en plein air\nInstallation sonore inédite à La Chapelle de La Grave\nToulouse animée tout l'été, pour tous les goûts",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"eté2026\", \"sortiestoulouse\", \"visitertoulouse\", \"toulousebynight\", \"velonocturne\", \"hallenightlong\", \"chapelledelagrave\", \"saisonphoto\", \"galerieduchateau\", \"expositiontoulouse\", \"cinematoulouse\", \"culturetoulouse\", \"pleinair\", \"activitestoulouse\", \"festivaltoulouse\", \"nuitdetoulouse\", \"toulouscope\", \"actutoulouse\", \"weekendtoulouse\", \"baladenocturne\"]",
+  "ig_mention": "toulouse_tourisme",
+  "venue": "Chapelle de La Grave",
+  "slides": [
+    {
+      "file": "cluster_b8694db6-c3dd-48a5-b417-000121507d2d_listicle_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "cluster_b8694db6-c3dd-48a5-b417-000121507d2d_listicle_01.jpg",
+      "type": "item",
+      "title": "Balade vélo nocturne",
+      "location": "Place Saint-Sernin, Toulouse"
+    },
+    {
+      "file": "cluster_b8694db6-c3dd-48a5-b417-000121507d2d_listicle_02.jpg",
+      "type": "item",
+      "title": "Halle Night Long",
+      "location": "Halle aux Grains, Toulouse"
+    },
+    {
+      "file": "cluster_b8694db6-c3dd-48a5-b417-000121507d2d_listicle_03.jpg",
+      "type": "item",
+      "title": "12e Saison Photo",
+      "location": "Galerie du Château d'Eau, Toulouse"
+    },
+    {
+      "file": "cluster_b8694db6-c3dd-48a5-b417-000121507d2d_listicle_04.jpg",
+      "type": "item",
+      "title": "La Goutte d'eau",
+      "location": "Chapelle de La Grave, Toulouse"
+    }
+  ]
+}

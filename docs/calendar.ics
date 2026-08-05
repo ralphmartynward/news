@@ -6189,18 +6189,19 @@ BEGIN:VEVENT
 UID:cluster:b8694db6-c3dd-48a5-b417-000121507d2d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:Sélection de sorties pour le premier week-end d'août à Toulouse
-DESCRIPTION:Actu Toulouse propose une sélection d'activités pour le premi
- er week-end d'août 2026\, alors que les températures restent élevées 
- à Toulouse fin juillet. Au programme : une balade à vélo nocturne de 20
-  km organisée par l'association 2 pieds 2 roues le vendredi 31 juillet\, 
- au départ de la place Saint-Sernin à 20 h 15\, avec une pause à la Guin
- guette de Tournefeuille — événement gratuit et ouvert à tous. Le fest
- ival Halle Night Long revient pour une huitième édition tous les vendred
- is et samedis soi\n\nSource\: https://actu.fr/occitanie/toulouse_31555/que
- -faire-a-toulouse-pour-le-premier-week-end-d-aout-cinema-balades-nocturnes
- -notre-selection-d-activites_64603144.html
-LOCATION:place Saint-\, Toulouse
+SUMMARY:Sorties estivales à Toulouse : sélection d'activités pour l'ét
+ é
+DESCRIPTION:Avec la montée des températures fin juillet 2026\, plusieurs 
+ médias locaux proposent leurs sélections d'activités estivales à Toulo
+ use. Actu Toulouse met en avant des sorties concrètes pour le premier wee
+ k-end d'août : balade vélo nocturne de 20 km au départ de la place Sain
+ t-Sernin (gratuite\, vendredi 31 juillet)\, et le festival Halle Night Lon
+ g sur le parvis de la Halle. Toulouscope\, de son côté\, recense cinq te
+ mps forts culturels de l'été\, dont la 12e Saison Photo (du 16 octobre 2
+ 026 au 21 fév\n\nSource\: https://actu.fr/occitanie/toulouse_31555/que-fa
+ ire-a-toulouse-pour-le-premier-week-end-d-aout-cinema-balades-nocturnes-no
+ tre-selection-d-activites_64603144.html
+LOCATION:place Saint-Sernin (gratuite\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/que-faire-a-toulouse-pour-le-p
  remier-week-end-d-aout-cinema-balades-nocturnes-notre-selection-d-activite
  s_64603144.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
@@ -6365,17 +6366,17 @@ BEGIN:VEVENT
 UID:cluster:de1b1d03-a0a9-4ebf-b432-fe356e367052@news.lavillerose.com
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260810
-SUMMARY:Nuits des étoiles
+SUMMARY:Nuit des étoiles
 DESCRIPTION:Pour leur 36e édition\, les Nuits des étoiles se tiennent les
-  7\, 8 et 9 août\, avec pour thème le Soleil — « des nuits des étoil
- es à la nuit de l'étoile ». La Cité de l'espace accueille la première
-  soirée vendredi\, avec animations\, ateliers\, démonstrations et specta
- cle pour observer étoiles\, planètes et constellations. Le lendemain\, s
- amedi 8 août\, Planète Sciences Occitanie organise une soirée d'observa
- tion au Château de Soule à Ramonville-Saint-Agne\, de 21h à minuit\, av
- ec télescopes et bénévoles \n\nSource\: https://www.lessentiel.fr/newsl
- etter/toulouse/2026-08-03#47827
-LOCATION:espace accueille la première soirée vendredi\, Toulouse
+  7\, 8 et 9 août 2026 sur le thème « Des nuits des étoiles à la nuit 
+ de l'étoile »\, célébrant le Soleil. À Toulouse\, la Cité de l'espac
+ e accueille la soirée du vendredi 7 août de 20h30 à minuit et demi\, av
+ ec des ateliers (montage de télescope\, maquillage spatial\, sabres laser
+ )\, des observations du ciel et un spectacle — le tout gratuit. L'associ
+ ation Planète sciences Occitanie organise ensuite une seconde soirée d'o
+ bservation le samedi 8\n\nSource\: https://www.lessentiel.fr/newsletter/to
+ ulouse/2026-08-03#47827
+LOCATION:espace accueille la soirée du vendredi 7 août de 20h3\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-08-03#47827?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -6399,6 +6400,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/une-eclipse-solaire-presque-to
  tale-bientot-visible-depuis-toulouse-tout-ce-qu-il-faut-savoir-pour-en-pro
  fiter_64410320.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5c49e4fd-8175-4366-9fda-fb7a5af8bcf3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Deux monuments toulousains se transforment en jeux de piste nocturn
+ es
+DESCRIPTION:Cet été\, deux monuments emblématiques de Toulouse proposent
+  des jeux de piste immersifs en soirée\, lampe torche en main. Le 13 aoû
+ t 2026\, l'église du Gesù ouvre exceptionnellement ses portes de 19h30 
+ à 21h pour une enquête autour d'un plan d'architecte disparu\, celui d'H
+ enri Bach. Le 20 août 2026\, la chapelle des Carmélites accueille à son
+  tour un parcours énigmatique sur l'histoire de sa construction\, de 20h 
+ à 21h30\, limité à 25 participants. Ces expériences mêlent découvert
+ e du patrimoine arch\n\nSource\: https://www.toulouscope.fr/2026/08/04/deu
+ x-monuments-emblematiques-de-toulouse-se-transforment-en-jeu-de-piste-noct
+ urne-cet-ete-13487058.php
+URL:https://www.toulouscope.fr/2026/08/04/deux-monuments-emblematiques-de-t
+ oulouse-se-transforment-en-jeu-de-piste-nocturne-cet-ete-13487058.php?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4@news.lavillerose.com
