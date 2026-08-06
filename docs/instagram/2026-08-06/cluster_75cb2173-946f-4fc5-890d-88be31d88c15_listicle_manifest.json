@@ -1,0 +1,45 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:75cb2173-946f-4fc5-890d-88be31d88c15",
+  "title": "Soirées années 2000, cinéma en plein air et baignades ce week-end",
+  "ig_caption": "Cinéma en plein air, boîte de nuit, baignades\nFilms sur tarmac dès 10 €, soirée 2000's sold out\nTrois jours d'activités pour tous les goûts",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"weekend\", \"sortirestoulouse\", \"cinémapleinair\", \"aeroscopia\", \"cinémathèquetoulouse\", \"soiree2000\", \"interference\", \"mammamia\", \"lapiscine\", \"cinemaenplenair\", \"nuitstoulousaines\", \"toulouse_by_night\", \"baignade\", \"été2026\", \"toulousemaville\", \"loisirstoulouse\", \"agendatoulouse\", \"sorties\", \"nightliftoulouse\", \"weekendtoulouse\"]",
+  "ig_mention": "musee_aeroscopia",
+  "venue": "Aeroscopia",
+  "slides": [
+    {
+      "file": "cluster_75cb2173-946f-4fc5-890d-88be31d88c15_listicle_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "cluster_75cb2173-946f-4fc5-890d-88be31d88c15_listicle_01.jpg",
+      "type": "item",
+      "title": "Soirée années 2000 Interference",
+      "location": "Interference, Toulouse"
+    },
+    {
+      "file": "cluster_75cb2173-946f-4fc5-890d-88be31d88c15_listicle_02.jpg",
+      "type": "item",
+      "title": "Mamma Mia ! sur tarmac",
+      "location": "Aeroscopia, Toulouse"
+    },
+    {
+      "file": "cluster_75cb2173-946f-4fc5-890d-88be31d88c15_listicle_03.jpg",
+      "type": "item",
+      "title": "La Piscine en plein air",
+      "location": "Cinémathèque de Toulouse"
+    },
+    {
+      "file": "cluster_75cb2173-946f-4fc5-890d-88be31d88c15_listicle_04.jpg",
+      "type": "item",
+      "title": "Entretien avec un vampire",
+      "location": "Cinémathèque de Toulouse"
+    },
+    {
+      "file": "cluster_75cb2173-946f-4fc5-890d-88be31d88c15_listicle_05.jpg",
+      "type": "item",
+      "title": "Un ours dans le Jura",
+      "location": "Cinémathèque de Toulouse"
+    }
+  ]
+}

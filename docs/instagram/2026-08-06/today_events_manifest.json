@@ -1,0 +1,29 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:edd0dd5d-a3bf-4e33-b0de-54012bc53414",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visites guidées de la crypte archéologique du Palais de Justice",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/sous-le-palais-de-justice-de-toulouse--les-vestiges-des-fortifications-et-du-chateau-des-ducs-de-toulouse-se-visitent---charline-poullain.jpg?itok=dS1UzvRI",
+    "file": "cluster_edd0dd5d-a3bf-4e33-b0de-54012bc53414_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:ac91f943-ed6f-4323-9c3a-cd2755afa028",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Visites théâtralisées à l'abbaye Sainte-Marie du Désert en août",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/visite-theatralisee-abbaye-sainte-marie-du-desert--juillet-2025-c-tourisme_hauts_tolosans--29----copie.jpg?itok=sMAOZVSh",
+    "file": "cluster_ac91f943-ed6f-4323-9c3a-cd2755afa028_event_story.jpg"
+  }
+]
