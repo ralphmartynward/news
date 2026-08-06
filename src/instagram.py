@@ -3,10 +3,10 @@
 Format 1: Story (1080x1920) — L'Essentiel items
   Two floating dark pill boxes over full-bleed photo, CTA pill in centre.
 
-Format 2: Weekend carousel (1080x1080 slides) — runs Friday/Saturday
+Format 2: Weekend carousel (1080x1350 slides) — runs Friday/Saturday
   Cover slide "Que faire ce week-end a Toulouse ?" + one slide per event.
 
-Format 3: Individual post (1080x1080) — all other non-news clusters
+Format 3: Individual post (1080x1350) — all other non-news clusters
   Full-bleed photo, category pill centred, multi-colour title (Toulouse=pink, key noun=green).
 """
 from __future__ import annotations
@@ -25,7 +25,11 @@ import requests
 # ---------------------------------------------------------------------------
 
 STORY_W, STORY_H = 1080, 1920
-POST_W,  POST_H  = 1080, 1080
+POST_W,  POST_H  = 1080, 1350   # 4:5 — Instagram center-crops feed posts to a
+                                # square for the grid view, cutting this much
+                                # off the top/bottom: keep text above TEXT_BOTTOM.
+_GRID_CROP_MARGIN = (POST_H - POST_W) // 2   # 135px trimmed off top & bottom in grid view
+TEXT_BOTTOM       = POST_H - _GRID_CROP_MARGIN - 45   # 45px safety buffer beyond the crop line
 
 COL_BG        = (15,  23,  42)        # #0f172a
 COL_GREEN     = (74,  222, 128)       # #4ade80
@@ -504,12 +508,11 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
 # ---------------------------------------------------------------------------
 
 def _render_post(cluster: dict[str, Any]) -> "Image":
-    """1080x1080. Full-bleed photo, category pill centred, multi-colour title."""
+    """1080x1350. Full-bleed photo, category pill centred, multi-colour title."""
     from PIL import Image, ImageDraw
 
     W, H = POST_W, POST_H
-    PAD    = 52
-    PAD_BOTTOM = 120   # extra clearance for Instagram's action bar overlay
+    PAD    = 88
     TEXT_W = W - PAD * 2
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
@@ -562,7 +565,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
                + len(title_lines) * (lh + 10) + 12
                + len(all_ctx) * (ctx_h + 6) + 10
                + date_line_h + site_h + 8)
-    y = H - PAD_BOTTOM - total_h
+    y = TEXT_BOTTOM - total_h
 
     # category pill (centred)
     cat_label = CAT_PILLS.get(cluster.get("category", ""), "INFO")
@@ -615,7 +618,7 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     from PIL import Image, ImageDraw
 
     W, H = POST_W, POST_H
-    PAD  = 60
+    PAD  = 88
 
     # Use the first event image as backdrop, else plain dark bg
     backdrop_url = next((e.get("image_url") for e in events if e.get("image_url")), None)
@@ -655,7 +658,7 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     weather_h = draw.textbbox((0, 0), "A", font=f_weather)[3] + 8 if (sat_weather or sun_weather) else 0
     dots_h = 30
     total  = title_total_h + 20 + date_h + 16 + weather_h + 16 + dots_h
-    y = H - PAD - total
+    y = TEXT_BOTTOM - total
 
     for line in title_lines:
         lw = draw.textbbox((0, 0), line, font=f_t)[2]
@@ -705,9 +708,9 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     draw.line([(arr_x - 30, arr_y), (arr_x, arr_y)], fill=COL_WHITE, width=3)
     draw.polygon([(arr_x, arr_y - 8), (arr_x + 12, arr_y), (arr_x, arr_y + 8)], fill=COL_WHITE)
 
-    # watermark
+    # watermark — anchored just under the dots, inside the grid-safe zone
     tw = draw.textbbox((0, 0), SITE_LABEL, font=f_tiny)[2]
-    draw.text(((W - tw) // 2, H - 34), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+    draw.text(((W - tw) // 2, y + dot_r * 2 + 10), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
 
     return base.convert("RGB")
 
@@ -717,7 +720,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     from PIL import Image, ImageDraw
 
     W, H = POST_W, POST_H
-    PAD  = 52
+    PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
     photo = _download_image(event.get("image_url"))
@@ -778,7 +781,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     total_h = (len(headline_lines) * (lh_h + 8) + 10
                + len(caption_lines) * (lh_s + 6) + (8 if caption_lines else 0)
                + lh_m + 8 + site_h + 8)
-    y = H - PAD - total_h
+    y = TEXT_BOTTOM - total_h
 
     y, _ = _draw_multicolor_lines(draw, PAD, y, headline_segs, f_headline, W - PAD*2, line_bonus=8)
     y += 10
@@ -802,7 +805,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
 # ---------------------------------------------------------------------------
 
 def run(conn, out_dir: Path) -> list[dict[str, Any]]:
-    """Generate square post images for place/culture clusters synthesised today.
+    """Generate 4:5 post images for place/culture clusters synthesised today.
 
     Events are excluded here — they are handled by render_today_events (stories)
     and render_weekend_carousel. News is excluded at the DB query level.
@@ -811,7 +814,7 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
 
     today_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT00:00:00")
     clusters  = cache_mod.load_instagram_clusters(conn, today_iso)
-    # Only place/culture with a real image → square post. Events and listicles have dedicated renderers.
+    # Only place/culture with a real image → post. Events and listicles have dedicated renderers.
     clusters  = [c for c in clusters if c.get("category") in ("place", "culture")
                  and _good_image_url(c.get("image_url"))
                  and not c.get("listicle_items")]
@@ -1082,7 +1085,7 @@ def _render_listicle_cover(cluster: dict[str, Any], n_items: int) -> "Image":
     from PIL import Image, ImageDraw
 
     W, H = POST_W, POST_H
-    PAD  = 52
+    PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
     photo = _download_image(cluster.get("image_url"))
@@ -1117,7 +1120,7 @@ def _render_listicle_cover(cluster: dict[str, Any], n_items: int) -> "Image":
                + len(title_lines) * (lh_t + 10) + 10
                + len(caption_lines) * (lh_s + 6)
                + site_h + 8)
-    y = H - 120 - total_h
+    y = TEXT_BOTTOM - total_h
 
     # Count badge
     badge_text = f"{n_items} sélections"
@@ -1144,7 +1147,7 @@ def _render_listicle_item_slide(item: dict[str, Any], n: int, total: int, img_ur
     from PIL import Image, ImageDraw
 
     W, H = POST_W, POST_H
-    PAD  = 52
+    PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
     photo = _download_image(img_url) if img_url else None
@@ -1188,7 +1191,7 @@ def _render_listicle_item_slide(item: dict[str, Any], n: int, total: int, img_ur
                + len(desc_lines) * (lh_d + 6)
                + lh_l
                + site_h + 8)
-    y = H - PAD - total_h
+    y = TEXT_BOTTOM - total_h
 
     segs = [(w, COL_PINK) for w in item_title.split()]
     y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, W - PAD * 2, line_bonus=8)
