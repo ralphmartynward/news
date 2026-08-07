@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-08-06T07:39:13.098746+00:00</updated>
+  <updated>2026-08-07T06:09:52.047061+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -237,20 +237,6 @@
     <published>2026-08-01T16:32:02+02:00</published>
   </entry>
   <entry>
-    <id>cluster:fd873f96-e933-4e2a-9175-218c8ebad239</id>
-    <title>Trafic chargé en Occitanie : retour progressif à la normale</title>
-    <updated>2026-08-02T07:32:07.827751+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le samedi 1er août, annoncé par Bison Futé comme le jour le plus chargé de l&amp;#x27;année sur les routes, a tenu ses promesses en Occitanie, avec d&amp;#x27;importants bouchons sur l&amp;#x27;A9 et l&amp;#x27;A61. Actu Toulouse a suivi la journée en direct, signalant des ralentissements significatifs à plusieurs points névralgiques de la région. En fin d&amp;#x27;après-midi, la situation s&amp;#x27;est nettement améliorée, seules quelques difficultés résiduelles subsistant à Narbonne, Béziers et sur l&amp;#x27;A75 entre Saint-Félix-de-l&amp;#x27;Héras et Lodève. Les automobilistes faisant le chassé-croisé des vacances, notamment en direction de l&amp;#x27;Espagne, ont été les principaux concernés.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/journee-noire-sur-les-routes-d-occitanie-des-dizaines-de-kilometres-de-bouchons-en-cours-le-point-sur-la-situation_64616129.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/journee-noire-sur-les-routes-d-occitanie-des-dizaines-de-kilometres-de-bouchons-en-cours-le-point-sur-la-situation_64616129.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le samedi 1er août, annoncé par Bison Futé comme le jour le plus chargé de l'année sur les routes, a tenu ses promesses en Occitanie, avec d'importants bouchons sur l'A9 et l'A61. Actu Toulouse a suivi la journée en direct, signalant des ralentissements significatifs à plusieurs points névralgiques de la région. En fin d'après-midi, la situation s'est nettement améliorée, seules quelques difficultés résiduelles subsistant à Narbonne, Béziers et sur l'A75 entre Saint-Félix-de-l'Héras et Lodève. Les automobilistes faisant le chassé-croisé des vacances, notamment en direction de l'Espagne, ont été les principaux concernés.</summary>
-    <category term="news"/>
-    <published>2026-08-01T11:33:49+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:a6ea729a-66df-463b-b142-1c4eea30d3c5</id>
     <title>Critique : le live action Vaiana de Disney sur grand écran</title>
     <updated>2026-08-02T07:32:07.827751+00:00</updated>
@@ -380,22 +366,6 @@
     <published>2026-08-03T06:04:02+02:00</published>
   </entry>
   <entry>
-    <id>cluster:eef3b749-30ad-422c-9fed-d302aec6f2b2</id>
-    <title>Nouvelle vague de chaleur à Toulouse : jusqu'à 38°C et orages violents</title>
-    <updated>2026-08-03T08:28:29.577426+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Après un bref répit de quelques jours, Toulouse et la Haute-Garonne sont frappées par un nouvel épisode de fortes chaleurs à partir du mardi 28 juillet 2026, avec des températures atteignant 38°C mercredi — jour annoncé comme le pic — et des nuits pouvant rester à 30°C. L&amp;#x27;épisode caniculaire pourrait se prolonger jusqu&amp;#x27;en début août, avec 38°C à nouveau prévus dimanche 3 août. En réponse à cette instabilité atmosphérique, des orages ont ensuite frappé le département le lundi 3 août : Météo France a rehaussé la vigilance de jaune à orange, avec risque de grêle, rafales de 80 à 100 km/h et pluies soudaines. L&amp;#x27;observatoire Keraunos qualifie le risque d&amp;#x27;orage de « très élevé » au nord de Toulouse, et les habitants sont invités à rester prudents notamment en après-midi et soirée.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux premiers articles (actu_toulouse) couvrent la montée en chaleur de fin juillet sous un angle prévisionnel et informatif, tandis que les deux derniers basculent sur l&amp;#x27;alerte orages du 3 août, avec une montée en gravité progressive : le quatrième article signale le passage de la vigilance jaune à orange en cours de matinée — détail absent des articles précédents.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Vue d&amp;#x27;ensemble de la vague de chaleur du 28 juillet au week-end du 1er-2 août, avec prévisions jour par jour&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Focus sur les nuits tropicales et le record enregistré à Toulouse&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 3)&lt;/strong&gt;: Prévisions orages du week-end 1er-2 août, zones géographiques concernées en Haute-Garonne&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 5)&lt;/strong&gt;: Alerte orange confirmée le lundi 3 août, détails sur la grêle et les rafales attendues&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-orages-tres-localises-annonces-en-haute-garonne-ou-et-quand-ils-risquent-de-tomber_64611135.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/averses-rafales-et-grele-les-orages-de-retour-lundi-a-toulouse-et-en-haute-garonne-a-quoi-faut-il-s-attendre_64617170.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/alerte-aux-orages-toulouse-et-la-haute-garonne-basculent-en-vigilance-orange-voici-les-previsions-du-jour_64618169.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/des-orages-tres-localises-annonces-en-haute-garonne-ou-et-quand-ils-risquent-de-tomber_64611135.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Après un bref répit de quelques jours, Toulouse et la Haute-Garonne sont frappées par un nouvel épisode de fortes chaleurs à partir du mardi 28 juillet 2026, avec des températures atteignant 38°C mercredi — jour annoncé comme le pic — et des nuits pouvant rester à 30°C. L'épisode caniculaire pourrait se prolonger jusqu'en début août, avec 38°C à nouveau prévus dimanche 3 août. En réponse à cette instabilité atmosphérique, des orages ont ensuite frappé le département le lundi 3 août : Météo France a rehaussé la vigilance de jaune à orange, avec risque de grêle, rafales de 80 à 100 km/h et pluies soudaines. L'observatoire Keraunos qualifie le risque d'orage de « très élevé » au nord de Toulouse, et les habitants sont invités à rester prudents notamment en après-midi et soirée.</summary>
-    <category term="news"/>
-    <published>2026-07-31T13:37:19+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:45e81b29-bb26-46a0-a488-26baaffe133b</id>
     <title>MEDIA Toulouse Secret Subscribers: Veuillez confirmer l'abonnement</title>
     <updated>2026-08-04T07:39:39.923307+00:00</updated>
@@ -450,20 +420,6 @@ toulouse@secretmedianetwork.com (mailto:toulouse@secretmedianetwork.com)</summar
     <summary>Les championnats d'Europe de natation débutent le 31 juillet 2026 à Saint-Denis, avec la natation course prévue à partir du 10 août. Le Toulousain Léon Marchand, quadruple champion olympique à Paris 2024, y participera dans un état physique incertain après une lésion à un adducteur contractée le 29 juin lors des championnats de France. Il a rechuté trois semaines plus tard et confie avoir envisagé « plein de fois » un forfait. Conséquence directe : il renonce au 200 m brasse et reste dans le doute concernant le 400 m 4 nages.</summary>
     <category term="news"/>
     <published>2026-08-03T13:32:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6516b53a-f7de-4d35-81c4-760460785bab</id>
-    <title>Un homme armé d'un couteau maîtrisé par des civils au marché des Carmes</title>
-    <updated>2026-08-04T07:39:39.923307+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Ce dimanche 2 août vers 12h30, un individu de 47 ans a saisi un couteau sur la table d&amp;#x27;un restaurant du marché des Carmes et a menacé des passants. Face à la soudaineté de l&amp;#x27;agression, plusieurs civils témoins ont réagi rapidement en immobilisant l&amp;#x27;agresseur au sol et en lui retirant son arme, évitant tout blessé. La police, alertée peu après, a interpellé le mis en cause, dont les motivations restent floues — il n&amp;#x27;aurait eu « pas de message à faire passer ». L&amp;#x27;homme, sans domicile fixe et placé sous curatelle renforcée, souffrait de troubles psychiatriques ; il a été placé en garde à vue, une expertise psychiatrique devant évaluer son discernement au moment des faits.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/arme-d-un-couteau-un-homme-menace-les-clients-du-marche-des-carmes-a-toulouse-des-civils-parviennent-a-le-maitriser_64618352.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/arme-d-un-couteau-un-homme-menace-les-clients-du-marche-des-carmes-a-toulouse-des-civils-parviennent-a-le-maitriser_64618352.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce dimanche 2 août vers 12h30, un individu de 47 ans a saisi un couteau sur la table d'un restaurant du marché des Carmes et a menacé des passants. Face à la soudaineté de l'agression, plusieurs civils témoins ont réagi rapidement en immobilisant l'agresseur au sol et en lui retirant son arme, évitant tout blessé. La police, alertée peu après, a interpellé le mis en cause, dont les motivations restent floues — il n'aurait eu « pas de message à faire passer ». L'homme, sans domicile fixe et placé sous curatelle renforcée, souffrait de troubles psychiatriques ; il a été placé en garde à vue, une expertise psychiatrique devant évaluer son discernement au moment des faits.</summary>
-    <category term="news"/>
-    <published>2026-08-03T17:54:01+02:00</published>
   </entry>
   <entry>
     <id>cluster:148e5c2b-1925-49f7-8f36-148b02b8be9d</id>
@@ -867,5 +823,192 @@ toulouse@secretmedianetwork.com (mailto:toulouse@secretmedianetwork.com)</summar
     <summary>Le lac de Sesquières, au nord de Toulouse, a été interdit aux activités nautiques et à la pêche à partir du 29 juillet 2026 en raison d'une prolifération de cyanobactéries dépassant les seuils réglementaires, favorisée par un épisode de canicule. Un arrêté municipal de la mairie de Toulouse a formalisé cette interdiction sur décision de l'ARS. La base de loisirs Wam Park, qui exploite le site, a subi une semaine de fermeture complète, son directeur soulignant les difficultés commerciales engendrées en pleine saison estivale. L'alerte a été levée mardi 4 août au soir et le Wam Park a rouvert normalement le mercredi 5 août 2026, ses 20 salariés ayant été maintenus en activité pendant la fermeture.</summary>
     <category term="news"/>
     <published>2026-08-01T12:02:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:24f974f0-9387-4a5c-b119-750716410d18</id>
+    <title>Les plus beaux spots romantiques en plein air à Toulouse</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Toulouscope propose une sélection de spots idéaux pour un rendez-vous en plein air à Toulouse pendant les longues soirées d&amp;#x27;été. En tête de liste, l&amp;#x27;observatoire de Pech David offre une vue panoramique sur la ville au coucher du soleil, accessible en téléphérique Téléo depuis l&amp;#x27;Université Paul Sabatier. La Pointe d&amp;#x27;Ina, nichée entre les deux bras de la Garonne près du métro Palais de Justice, est présentée comme un secret bien gardé propice aux pique-niques au bord de l&amp;#x27;eau. L&amp;#x27;article recense d&amp;#x27;autres adresses toulousaines adaptées aux sorties en amoureux ou entre amis, profitant de l&amp;#x27;animation estivale de la Ville rose.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/08/06/quels-sont-les-plus-beaux-spots-pour-un-rendez-vous-en-plein-air-a-toulouse-13423937.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/08/06/quels-sont-les-plus-beaux-spots-pour-un-rendez-vous-en-plein-air-a-toulouse-13423937.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouscope propose une sélection de spots idéaux pour un rendez-vous en plein air à Toulouse pendant les longues soirées d'été. En tête de liste, l'observatoire de Pech David offre une vue panoramique sur la ville au coucher du soleil, accessible en téléphérique Téléo depuis l'Université Paul Sabatier. La Pointe d'Ina, nichée entre les deux bras de la Garonne près du métro Palais de Justice, est présentée comme un secret bien gardé propice aux pique-niques au bord de l'eau. L'article recense d'autres adresses toulousaines adaptées aux sorties en amoureux ou entre amis, profitant de l'animation estivale de la Ville rose.</summary>
+    <category term="culture"/>
+    <published>2026-08-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c1d29e6d-39aa-4a20-a7a7-2da06c84b32a</id>
+    <title>Un corps découvert à La Réunion, le Toulousain Quentin Dumontier porté disparu</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Quentin Dumontier, un Toulousain de 31 ans, a disparu le 8 juillet à La Réunion. Après près d&amp;#x27;un mois de recherches, un corps a été découvert ce mercredi 5 août dans la ravine de Trois-Bassins, à l&amp;#x27;ouest de l&amp;#x27;île, zone où se concentraient les recherches depuis plusieurs semaines. Son couteau avait déjà été retrouvé dans cette ravine lors d&amp;#x27;une battue précédente. Le corps a été héliporté par la gendarmerie, et l&amp;#x27;identification ainsi que les circonstances du décès sont en cours de détermination par les techniciens en identification criminelle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-toulousain-a-disparu-depuis-pres-d-un-mois-a-la-reunion-un-corps-pouvant-etre-le-sien-vient-d-etre-decouvert_64633221.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ce-toulousain-a-disparu-depuis-pres-d-un-mois-a-la-reunion-un-corps-pouvant-etre-le-sien-vient-d-etre-decouvert_64633221.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Quentin Dumontier, un Toulousain de 31 ans, a disparu le 8 juillet à La Réunion. Après près d'un mois de recherches, un corps a été découvert ce mercredi 5 août dans la ravine de Trois-Bassins, à l'ouest de l'île, zone où se concentraient les recherches depuis plusieurs semaines. Son couteau avait déjà été retrouvé dans cette ravine lors d'une battue précédente. Le corps a été héliporté par la gendarmerie, et l'identification ainsi que les circonstances du décès sont en cours de détermination par les techniciens en identification criminelle.</summary>
+    <category term="news"/>
+    <published>2026-08-06T11:53:13+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c4564809-8ca7-42e1-a03e-0a271633a612</id>
+    <title>Suspicions de cyanobactéries au lac de la Maourine à Toulouse</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Une habitante du quartier Borderouge alerte sur les réseaux sociaux d&amp;#x27;une possible prolifération de cyanobactéries dans le lac de la Maourine, décrivant un dépôt blanc-bleuté à la surface de l&amp;#x27;eau. Des spécialistes relayés sur Facebook indiquent que cette pellicule caractéristique d&amp;#x27;un « bloom en lyse » est l&amp;#x27;un des stades les plus dangereux, les cellules libérant leurs toxines directement dans l&amp;#x27;eau. La mairie de Toulouse rappelle que l&amp;#x27;étang du parc de la Maourine est de toute façon interdit à la baignade, y compris pour les animaux, et que des panneaux en place signalent cette interdiction indépendamment de tout épisode de cyanobactéries. La vigilance est particulièrement recommandée pour les enfants et les chiens, qui sont les plus vulnérables à ces toxines.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/suspicions-de-cyanobacteries-dans-un-lac-a-toulouse-un-appel-a-la-vigilance-partage-sur-les-reseaux-sociaux_64632725.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/suspicions-de-cyanobacteries-dans-un-lac-a-toulouse-un-appel-a-la-vigilance-partage-sur-les-reseaux-sociaux_64632725.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Une habitante du quartier Borderouge alerte sur les réseaux sociaux d'une possible prolifération de cyanobactéries dans le lac de la Maourine, décrivant un dépôt blanc-bleuté à la surface de l'eau. Des spécialistes relayés sur Facebook indiquent que cette pellicule caractéristique d'un « bloom en lyse » est l'un des stades les plus dangereux, les cellules libérant leurs toxines directement dans l'eau. La mairie de Toulouse rappelle que l'étang du parc de la Maourine est de toute façon interdit à la baignade, y compris pour les animaux, et que des panneaux en place signalent cette interdiction indépendamment de tout épisode de cyanobactéries. La vigilance est particulièrement recommandée pour les enfants et les chiens, qui sont les plus vulnérables à ces toxines.</summary>
+    <category term="news"/>
+    <published>2026-08-06T12:34:42+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7d239227-613a-4edd-a315-7ae84e102462</id>
+    <title>Boum Burger Toulouse victime d'usurpation d'identité par un fast-food marocain</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La chaîne toulousaine Boum Burger, présente à Toulouse depuis 2004 avec plusieurs restaurants de burgers halal, a découvert qu&amp;#x27;un établissement d&amp;#x27;Al Hoceima, au Maroc, utilise le même nom et un logo quasi identique. Le fast-food toulousain a tenu à préciser publiquement via Snapchat que ce point de vente marocain n&amp;#x27;appartient pas à son réseau et n&amp;#x27;est pas exploité par sa société. La ressemblance est frappante : même nom (orthographié Boom ou Boum Burger), même structure de logo avec des parenthèses et les lettres B en rouge en majuscule. La chaîne des Pradettes met en garde ses clients et décline toute responsabilité quant à la qualité des produits ou du service de cet établissement non affilié.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/meme-nom-meme-logo-cette-chaine-de-burgers-de-toulouse-se-fait-usurper-son-identite-par-un-fast-food-etranger_64629938.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/meme-nom-meme-logo-cette-chaine-de-burgers-de-toulouse-se-fait-usurper-son-identite-par-un-fast-food-etranger_64629938.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La chaîne toulousaine Boum Burger, présente à Toulouse depuis 2004 avec plusieurs restaurants de burgers halal, a découvert qu'un établissement d'Al Hoceima, au Maroc, utilise le même nom et un logo quasi identique. Le fast-food toulousain a tenu à préciser publiquement via Snapchat que ce point de vente marocain n'appartient pas à son réseau et n'est pas exploité par sa société. La ressemblance est frappante : même nom (orthographié Boom ou Boum Burger), même structure de logo avec des parenthèses et les lettres B en rouge en majuscule. La chaîne des Pradettes met en garde ses clients et décline toute responsabilité quant à la qualité des produits ou du service de cet établissement non affilié.</summary>
+    <category term="news"/>
+    <published>2026-08-06T13:02:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c9edd9b1-57f6-4e93-aa41-99d49fe50206</id>
+    <title>Deux Boeing C-17 australiens font escale à Toulouse-Blagnac</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Deux immenses avions militaires Boeing C-17 Globemaster III de la Royal Australian Air Force ont fait escale à l&amp;#x27;aéroport Toulouse-Blagnac en raison des incendies qui ont touché la Gironde. L&amp;#x27;Australie avait dépêché ces appareils à la base aérienne de Mont-de-Marsan pour y livrer deux hélicoptères en renfort. Faute de place sur la base landaise, le premier C-17 a passé la nuit à Blagnac avant de repartir vers Charleston (Caroline du Sud) puis Hawaï, en route pour l&amp;#x27;Australie. Le second appareil devait lui aussi transiter par Toulouse avant de reprendre la même direction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-l-un-des-plus-gros-avions-du-monde-pourquoi-deux-enormes-boeing-c-17-font-escale-a-l-aeroport-toulouse-blagnac_64635165.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-l-un-des-plus-gros-avions-du-monde-pourquoi-deux-enormes-boeing-c-17-font-escale-a-l-aeroport-toulouse-blagnac_64635165.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Deux immenses avions militaires Boeing C-17 Globemaster III de la Royal Australian Air Force ont fait escale à l'aéroport Toulouse-Blagnac en raison des incendies qui ont touché la Gironde. L'Australie avait dépêché ces appareils à la base aérienne de Mont-de-Marsan pour y livrer deux hélicoptères en renfort. Faute de place sur la base landaise, le premier C-17 a passé la nuit à Blagnac avant de repartir vers Charleston (Caroline du Sud) puis Hawaï, en route pour l'Australie. Le second appareil devait lui aussi transiter par Toulouse avant de reprendre la même direction.</summary>
+    <category term="news"/>
+    <published>2026-08-06T16:29:44+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ae6ef2ec-e339-46c1-8523-509a7ce24f94</id>
+    <title>Fuyard en chemise de nuit après un accident causé à Toulouse</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Mercredi 5 août 2026, vers 16h dans le quartier Ginestous, des policiers de la Brigade spécialisée de terrain (BST) ont tenté de contrôler une Citroën C3 en mauvais état, dont le conducteur a immédiatement pris la fuite. La voiture a remonté le chemin de Fenouillet à contresens avant de percuter de face une conductrice de 32 ans qui circulait normalement, blessant légèrement cette dernière. Le fuyard, lui aussi blessé et le visage ensanglanté, a été rattrapé par les policiers et hospitalisé. Depuis, il a quitté l&amp;#x27;hôpital en chemise de nuit et est toujours recherché dans le secteur de Purpan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-provoque-un-accident-pour-echapper-a-la-police-a-toulouse-finit-a-l-hopital-et-se-fait-la-malle-en-chemise-de-nuit_64635756.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/il-provoque-un-accident-pour-echapper-a-la-police-a-toulouse-finit-a-l-hopital-et-se-fait-la-malle-en-chemise-de-nuit_64635756.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Mercredi 5 août 2026, vers 16h dans le quartier Ginestous, des policiers de la Brigade spécialisée de terrain (BST) ont tenté de contrôler une Citroën C3 en mauvais état, dont le conducteur a immédiatement pris la fuite. La voiture a remonté le chemin de Fenouillet à contresens avant de percuter de face une conductrice de 32 ans qui circulait normalement, blessant légèrement cette dernière. Le fuyard, lui aussi blessé et le visage ensanglanté, a été rattrapé par les policiers et hospitalisé. Depuis, il a quitté l'hôpital en chemise de nuit et est toujours recherché dans le secteur de Purpan.</summary>
+    <category term="news"/>
+    <published>2026-08-06T17:10:59+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3f4718c6-bc05-4f55-a236-3eba095babad</id>
+    <title>L'Urban Lab fermé 60 jours après une fusillade à Montaudran</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La discothèque Urban Lab, établissement afro-caribéen du quartier Montaudran à Toulouse, a écopé d&amp;#x27;une fermeture administrative de 60 jours notifiée le 30 juillet 2026. La préfecture de la Haute-Garonne confirme que la mesure est motivée par « plusieurs infractions, graves et réitérées », constatées depuis janvier 2026, tant à l&amp;#x27;intérieur qu&amp;#x27;à l&amp;#x27;extérieur de l&amp;#x27;établissement. Selon Actu Toulouse, c&amp;#x27;est notamment une fusillade survenue devant l&amp;#x27;établissement en sortie de boîte qui a précipité la décision des services de l&amp;#x27;État. L&amp;#x27;Urban Lab devra rester portes closes jusqu&amp;#x27;à la fin du mois de septembre 2026.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/apres-une-fusillade-en-sortie-de-boite-cette-discotheque-ecope-d-une-fermeture-administrative-a-toulouse_64633122.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/apres-une-fusillade-en-sortie-de-boite-cette-discotheque-ecope-d-une-fermeture-administrative-a-toulouse_64633122.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La discothèque Urban Lab, établissement afro-caribéen du quartier Montaudran à Toulouse, a écopé d'une fermeture administrative de 60 jours notifiée le 30 juillet 2026. La préfecture de la Haute-Garonne confirme que la mesure est motivée par « plusieurs infractions, graves et réitérées », constatées depuis janvier 2026, tant à l'intérieur qu'à l'extérieur de l'établissement. Selon Actu Toulouse, c'est notamment une fusillade survenue devant l'établissement en sortie de boîte qui a précipité la décision des services de l'État. L'Urban Lab devra rester portes closes jusqu'à la fin du mois de septembre 2026.</summary>
+    <category term="news"/>
+    <published>2026-08-06T19:39:37+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ef65ec76-ded2-4910-b3ff-e46a16535b38</id>
+    <title>Accident d'un minibus Tisséo devant l'hôpital Rangueil : trois blessés</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Un minibus Tisséo assurant la navette à proximité de l&amp;#x27;hôpital Rangueil a été impliqué dans un accident de circulation le jeudi 6 août 2026. Selon les pompiers, l&amp;#x27;accident est survenu « sans gravité et n&amp;#x27;impliquant que le conducteur ». Quatre personnes se trouvaient à bord au moment des faits ; trois d&amp;#x27;entre elles ont été prises en charge en urgence relative et transportées vers des hôpitaux du secteur, tandis que deux autres ont pu rester sur place. Dix pompiers ont été mobilisés, et l&amp;#x27;accès à l&amp;#x27;hôpital Rangueil n&amp;#x27;a pas été perturbé durant l&amp;#x27;intervention.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-minibus-tisseo-s-accidente-devant-l-hopital-rangueil-a-toulouse-trois-personnes-hospitalisees-en-urgence-relative_64637394.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/un-minibus-tisseo-s-accidente-devant-l-hopital-rangueil-a-toulouse-trois-personnes-hospitalisees-en-urgence-relative_64637394.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un minibus Tisséo assurant la navette à proximité de l'hôpital Rangueil a été impliqué dans un accident de circulation le jeudi 6 août 2026. Selon les pompiers, l'accident est survenu « sans gravité et n'impliquant que le conducteur ». Quatre personnes se trouvaient à bord au moment des faits ; trois d'entre elles ont été prises en charge en urgence relative et transportées vers des hôpitaux du secteur, tandis que deux autres ont pu rester sur place. Dix pompiers ont été mobilisés, et l'accès à l'hôpital Rangueil n'a pas été perturbé durant l'intervention.</summary>
+    <category term="news"/>
+    <published>2026-08-06T19:58:53+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3450132c-da79-47a6-8945-f7fcb126f202</id>
+    <title>Des salariés d'Action à Toulouse dénoncent leurs conditions de travail</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Deux grèves ont été organisées au magasin Action du Chapitre à Toulouse, les 13 juin et 1er août, pour dénoncer les conditions de travail dans cette enseigne discount en pleine expansion. La CGT accuse l&amp;#x27;entreprise, qui affiche 16 milliards d&amp;#x27;euros de chiffre d&amp;#x27;affaires et 2,3 milliards de bénéfices en 2025, d&amp;#x27;exploiter ses salariés. Parmi les témoignages recueillis, celui de Sarah, embauchée comme travailleuse handicapée, qui affirme que les aménagements prévus dans son contrat — charges limitées à 3 kg, horaires adaptés — n&amp;#x27;ont pas été respectés, et qu&amp;#x27;on lui a dit qu&amp;#x27;elle « abusait ». Elle dit avoir été victime d&amp;#x27;un accident du travail en octobre, survenu à un poste qu&amp;#x27;elle n&amp;#x27;aurait pas dû occuper, et dénonce une tentative de minimisation de l&amp;#x27;incident par sa hiérarchie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/apres-deux-greves-a-toulouse-des-salaries-denoncent-leurs-conditions-de-travail-chez-action-le-champion-du-discount_64632731.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/apres-deux-greves-a-toulouse-des-salaries-denoncent-leurs-conditions-de-travail-chez-action-le-champion-du-discount_64632731.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Deux grèves ont été organisées au magasin Action du Chapitre à Toulouse, les 13 juin et 1er août, pour dénoncer les conditions de travail dans cette enseigne discount en pleine expansion. La CGT accuse l'entreprise, qui affiche 16 milliards d'euros de chiffre d'affaires et 2,3 milliards de bénéfices en 2025, d'exploiter ses salariés. Parmi les témoignages recueillis, celui de Sarah, embauchée comme travailleuse handicapée, qui affirme que les aménagements prévus dans son contrat — charges limitées à 3 kg, horaires adaptés — n'ont pas été respectés, et qu'on lui a dit qu'elle « abusait ». Elle dit avoir été victime d'un accident du travail en octobre, survenu à un poste qu'elle n'aurait pas dû occuper, et dénonce une tentative de minimisation de l'incident par sa hiérarchie.</summary>
+    <category term="news"/>
+    <published>2026-08-07T06:04:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:98d36182-60b7-4aba-a279-368587b45a30</id>
+    <title>Un immeuble contesté à Saint-Agne : pétition lancée par les riverains</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Dans le quartier Saint-Agne, un permis de construire a été délivré le 3 juillet 2026 pour démolir une maison toulousaine au 27 rue Capus et la remplacer par un immeuble de trois étages (R+3) comprenant dix logements et un local de bureaux. Les riverains des rues Capus, Desarnauts et Commandeur Cazeneuve dénoncent un projet qu&amp;#x27;ils jugent disproportionné, craignant des impacts durables sur leur cadre de vie et l&amp;#x27;identité du quartier. Une pétition a été lancée et rassemblait 72 signatures début août 2026. La mairie de quartier a pris la parole pour répondre aux inquiétudes exprimées, sans que l&amp;#x27;issue du bras de fer soit tranchée.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-projet-d-immeuble-fait-grincer-des-dents-les-riverains-de-ce-quartier-de-toulouse-une-petition-lancee_64633147.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/un-projet-d-immeuble-fait-grincer-des-dents-les-riverains-de-ce-quartier-de-toulouse-une-petition-lancee_64633147.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Dans le quartier Saint-Agne, un permis de construire a été délivré le 3 juillet 2026 pour démolir une maison toulousaine au 27 rue Capus et la remplacer par un immeuble de trois étages (R+3) comprenant dix logements et un local de bureaux. Les riverains des rues Capus, Desarnauts et Commandeur Cazeneuve dénoncent un projet qu'ils jugent disproportionné, craignant des impacts durables sur leur cadre de vie et l'identité du quartier. Une pétition a été lancée et rassemblait 72 signatures début août 2026. La mairie de quartier a pris la parole pour répondre aux inquiétudes exprimées, sans que l'issue du bras de fer soit tranchée.</summary>
+    <category term="news"/>
+    <published>2026-08-07T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:6516b53a-f7de-4d35-81c4-760460785bab</id>
+    <title>Deux incidents violents à Toulouse : couteau au marché des Carmes, machette à Roseraie</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Deux faits de violence distincts ont marqué Toulouse début août. Le 2 août, un homme de 47 ans, souffrant de troubles psychiatriques et sans domicile fixe, s&amp;#x27;est emparé d&amp;#x27;un couteau sur la table d&amp;#x27;un restaurant du marché des Carmes et a menacé des passants ; deux civils, décrits comme des professionnels en repos, ont réussi à le maîtriser et à le désarmer sans faire de blessés, avant l&amp;#x27;arrivée de la police. Le 5 août, à la station de métro Roseraie, un jeune homme de 21 ans a été grièvement blessé à coups de machette par un individu de 28 ans lors d&amp;#x27;une altercation entre quatre personnes ; la victime a été transportée en urgence absolue à l&amp;#x27;hôpital. Le suspect a été rapidement interpellé grâce au témoignage précis d&amp;#x27;un passant qui a fourni une description détaillée à la BAC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux articles proviennent du même média (actu_toulouse) et couvrent des incidents distincts, regroupés ici en raison de leur thématique commune de violence en espace public à Toulouse.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/arme-d-un-couteau-un-homme-menace-les-clients-du-marche-des-carmes-a-toulouse-des-civils-parviennent-a-le-maitriser_64618352.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-homme-de-21-ans-attaque-a-la-machette-devant-cet-arret-de-metro-frequente-de-toulouse-le-suspect-interpelle_64634679.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/arme-d-un-couteau-un-homme-menace-les-clients-du-marche-des-carmes-a-toulouse-des-civils-parviennent-a-le-maitriser_64618352.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Deux faits de violence distincts ont marqué Toulouse début août. Le 2 août, un homme de 47 ans, souffrant de troubles psychiatriques et sans domicile fixe, s'est emparé d'un couteau sur la table d'un restaurant du marché des Carmes et a menacé des passants ; deux civils, décrits comme des professionnels en repos, ont réussi à le maîtriser et à le désarmer sans faire de blessés, avant l'arrivée de la police. Le 5 août, à la station de métro Roseraie, un jeune homme de 21 ans a été grièvement blessé à coups de machette par un individu de 28 ans lors d'une altercation entre quatre personnes ; la victime a été transportée en urgence absolue à l'hôpital. Le suspect a été rapidement interpellé grâce au témoignage précis d'un passant qui a fourni une description détaillée à la BAC.</summary>
+    <category term="news"/>
+    <published>2026-08-03T17:54:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:fd873f96-e933-4e2a-9175-218c8ebad239</id>
+    <title>Chassé-croisé estival : bouchons en Occitanie, que retenir ?</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le week-end du 1er août a été le plus chargé de l&amp;#x27;été sur les routes d&amp;#x27;Occitanie, avec des bouchons importants sur l&amp;#x27;A9 et l&amp;#x27;A61, avant un retour progressif à la normale en fin de journée. Les dernières difficultés persistaient en soirée sur l&amp;#x27;A75 entre Saint-Félix-de-l&amp;#x27;Héras et Lodève, ainsi qu&amp;#x27;à la frontière espagnole sur l&amp;#x27;A9. Un deuxième week-end de chassé-croisé est attendu les 8 et 9 août, avec cette fois davantage de retours que de départs. Vinci Autoroutes et Bison Futé prévoient une journée du samedi 8 août particulièrement chargée sur les grands axes, notamment l&amp;#x27;A61 entre Toulouse et Narbonne.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article est un direct trafic pour le 1er août, déjà passé ; le second est une prévisualisation des conditions à attendre pour le week-end du 8-9 août 2026.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Journée noire)&lt;/strong&gt;: Bilan du week-end du 1er août : chronologie des bouchons et retour à la normale&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Nouveau week-end)&lt;/strong&gt;: Prévisions et conseils pratiques pour le week-end du 8-9 août depuis Toulouse&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/journee-noire-sur-les-routes-d-occitanie-des-dizaines-de-kilometres-de-bouchons-en-cours-le-point-sur-la-situation_64616129.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/nouveau-week-end-de-chasse-croise-quels-axes-et-quels-horaires-eviter-depuis-toulouse_64634226.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/journee-noire-sur-les-routes-d-occitanie-des-dizaines-de-kilometres-de-bouchons-en-cours-le-point-sur-la-situation_64616129.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le week-end du 1er août a été le plus chargé de l'été sur les routes d'Occitanie, avec des bouchons importants sur l'A9 et l'A61, avant un retour progressif à la normale en fin de journée. Les dernières difficultés persistaient en soirée sur l'A75 entre Saint-Félix-de-l'Héras et Lodève, ainsi qu'à la frontière espagnole sur l'A9. Un deuxième week-end de chassé-croisé est attendu les 8 et 9 août, avec cette fois davantage de retours que de départs. Vinci Autoroutes et Bison Futé prévoient une journée du samedi 8 août particulièrement chargée sur les grands axes, notamment l'A61 entre Toulouse et Narbonne.</summary>
+    <category term="news"/>
+    <published>2026-08-01T11:33:49+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:eef3b749-30ad-422c-9fed-d302aec6f2b2</id>
+    <title>Canicule et orages en série sur Toulouse et la Haute-Garonne</title>
+    <updated>2026-08-07T06:09:52.047061+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Toulouse et la Haute-Garonne traversent un été 2026 particulièrement éprouvant, marqué par une succession de vagues de chaleur et d&amp;#x27;épisodes orageux. Après des pics à 37–38 °C début août accompagnés d&amp;#x27;orages ayant conduit Météo France à placer le département en vigilance orange, une nouvelle vague de chaleur a débuté le 7 août, avec des températures attendues jusqu&amp;#x27;à 38 °C le samedi 9 et potentiellement 39 °C le mercredi 12 août. Les orages du 3 août ont présenté des risques de grêle, de fortes rafales (80–100 km/h) et de pluies intenses, notamment au nord de Toulouse selon Keraunos. Une légère accalmie thermique est envisagée à partir du 13 août, mais les températures resteraient au-dessus de 30 °C, dans un contexte de sécheresse persistante.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les quatre articles couvrent des moments successifs du même épisode météo : le premier anticipe les orages du week-end du 1–2 août ; le deuxième détaille les prévisions du lundi 3 août en vigilance jaune ; le troisième annonce le passage en vigilance orange ce même lundi ; le quatrième se projette sur la cinquième vague de chaleur à partir du 7 août. Ensemble, ils forment une chronologie continue plutôt que des angles divergents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Des orages très localisés&amp;#x27;&lt;/strong&gt;: Prévisions géographiques détaillées pour le week-end du 1–2 août (Lauragais, Muret, Bagnères-de-Luchon)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Averses, rafales et grêle&amp;#x27;&lt;/strong&gt;: Analyse de Keraunos et contexte météorologique du lundi 3 août&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Alerte aux orages : vigilance orange&amp;#x27;&lt;/strong&gt;: Passage en vigilance orange et détail des risques (grêle, rafales, pluies)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;La chaleur va s&amp;#x27;accentuer&amp;#x27;&lt;/strong&gt;: Projection sur la cinquième vague de chaleur jusqu&amp;#x27;au 12–13 août&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-orages-tres-localises-annonces-en-haute-garonne-ou-et-quand-ils-risquent-de-tomber_64611135.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/averses-rafales-et-grele-les-orages-de-retour-lundi-a-toulouse-et-en-haute-garonne-a-quoi-faut-il-s-attendre_64617170.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/alerte-aux-orages-toulouse-et-la-haute-garonne-basculent-en-vigilance-orange-voici-les-previsions-du-jour_64618169.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-chaleur-va-s-accentuer-a-toulouse-et-en-haute-garonne-jusqu-ou-le-thermometre-va-t-il-remonter_64636261.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/des-orages-tres-localises-annonces-en-haute-garonne-ou-et-quand-ils-risquent-de-tomber_64611135.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse et la Haute-Garonne traversent un été 2026 particulièrement éprouvant, marqué par une succession de vagues de chaleur et d'épisodes orageux. Après des pics à 37–38 °C début août accompagnés d'orages ayant conduit Météo France à placer le département en vigilance orange, une nouvelle vague de chaleur a débuté le 7 août, avec des températures attendues jusqu'à 38 °C le samedi 9 et potentiellement 39 °C le mercredi 12 août. Les orages du 3 août ont présenté des risques de grêle, de fortes rafales (80–100 km/h) et de pluies intenses, notamment au nord de Toulouse selon Keraunos. Une légère accalmie thermique est envisagée à partir du 13 août, mais les températures resteraient au-dessus de 30 °C, dans un contexte de sécheresse persistante.</summary>
+    <category term="news"/>
+    <published>2026-07-31T13:37:19+02:00</published>
   </entry>
 </feed>

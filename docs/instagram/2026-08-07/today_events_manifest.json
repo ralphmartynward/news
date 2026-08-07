@@ -1,0 +1,38 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:ac91f943-ed6f-4323-9c3a-cd2755afa028",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Visites théâtralisées à l'abbaye Sainte-Marie du Désert en août",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/visite-theatralisee-abbaye-sainte-marie-du-desert--juillet-2025-c-tourisme_hauts_tolosans--29----copie.jpg?itok=sMAOZVSh",
+    "file": "cluster_ac91f943-ed6f-4323-9c3a-cd2755afa028_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:de1b1d03-a0a9-4ebf-b432-fe356e367052",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Nuit des étoiles à la Cité de l'espace le 7 août",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/telescope-adobestock_1220100589.jpg?itok=6GE-U0lQ",
+    "file": "cluster_de1b1d03-a0a9-4ebf-b432-fe356e367052_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:75cb2173-946f-4fc5-890d-88be31d88c15",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Soirées années 2000, cinéma en plein air et baignades ce week-end",
+    "image_url": "https://static.actu.fr/uploads/2026/08/photo-2026-07-02-10-49-15.jpg",
+    "file": "cluster_75cb2173-946f-4fc5-890d-88be31d88c15_event_story.jpg"
+  }
+]

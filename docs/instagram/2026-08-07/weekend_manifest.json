@@ -1,0 +1,35 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-08-08",
+  "sunday": "2026-08-09",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:de1b1d03-a0a9-4ebf-b432-fe356e367052",
+      "title": "La Nuit des étoiles à la Cité de l'espace le 7 août"
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ac91f943-ed6f-4323-9c3a-cd2755afa028",
+      "title": "Visites théâtralisées à l'abbaye Sainte-Marie du Désert en août"
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:75cb2173-946f-4fc5-890d-88be31d88c15",
+      "title": "Soirées années 2000, cinéma en plein air et baignades ce week-end"
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:edd0dd5d-a3bf-4e33-b0de-54012bc53414",
+      "title": "Visites guidées de la crypte archéologique du Palais de Justice"
+    }
+  ]
+}
