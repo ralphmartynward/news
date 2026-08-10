@@ -1,0 +1,33 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:bcc874a5-a3aa-44e5-81fd-e0053b0079b5",
+  "title": "Où pratiquer le wakeboard à Toulouse et ses environs",
+  "ig_caption": "Wakeboard, surf et glisse autour de Toulouse\nParcs câblés accessibles dès 7 ans\nMatériel fourni, moniteurs sur place",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"wakeboard\", \"wakepark\", \"sportnautique\", \"basedeloisirs\", \"sesquiere\", \"wampark\", \"carbonne\", \"sourcewakepark\", \"islejourdain\", \"glisse\", \"eauvive\", \"activitespleinair\", \"loisirstoulouse\", \"eteactif\", \"sportetloisirs\", \"nautiqueoccitanie\", \"occitanie\", \"toulousesport\", \"activitesenfants\", \"wakeboarding\", \"lacdetoulouse\"]",
+  "ig_mention": null,
+  "venue": "Wam Park, base de loisirs de Sesquière",
+  "slides": [
+    {
+      "file": "cluster_bcc874a5-a3aa-44e5-81fd-e0053b0079b5_listicle_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "cluster_bcc874a5-a3aa-44e5-81fd-e0053b0079b5_listicle_01.jpg",
+      "type": "item",
+      "title": "Wam Park Sesquière",
+      "location": "Base de loisirs de Sesquière, Toulouse"
+    },
+    {
+      "file": "cluster_bcc874a5-a3aa-44e5-81fd-e0053b0079b5_listicle_02.jpg",
+      "type": "item",
+      "title": "Source Wakepark Carbonne",
+      "location": "Carbonne"
+    },
+    {
+      "file": "cluster_bcc874a5-a3aa-44e5-81fd-e0053b0079b5_listicle_03.jpg",
+      "type": "item",
+      "title": "Lac de l'Isle Jourdain",
+      "location": "Lac de l'Isle Jourdain"
+    }
+  ]
+}

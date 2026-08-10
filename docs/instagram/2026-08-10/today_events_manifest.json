@@ -1,0 +1,56 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:12827b6b-1d93-4d63-90c7-6d447a907e84",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Une expérience gourmande avec des machines ingénieuses jusqu'au 30 août",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-LES-PETITES-MECANIQUE.jpg",
+    "file": "cluster_12827b6b-1d93-4d63-90c7-6d447a907e84_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:24209d7f-df70-453c-ba91-c0af0a4bfb44",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Grande Roue du Quai Viguerie ouverte jusqu'au 6 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-GRANDE-ROUE.jpg",
+    "file": "cluster_24209d7f-df70-453c-ba91-c0af0a4bfb44_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:6c7c4369-8446-4480-88e0-15e513457b38",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Activités gratuites et cinéma en plein air au lac de la Reynerie",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-UN-ETE-AU-BORD-DU-LAC.jpg",
+    "file": "cluster_6c7c4369-8446-4480-88e0-15e513457b38_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:88670875-9526-45f0-a662-38e3df92da17",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Contes fantastiques gratuits pour enfants chaque week-end d'été",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-CONTES-HALLE-LA-FOLIE.jpg",
+    "file": "cluster_88670875-9526-45f0-a662-38e3df92da17_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:2b205cd9-c3ce-4d81-aaf8-015d661c79f5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le musée du Vieux Toulouse expose le peintre André-Pierre Lupiac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/musee-du-vieux-toulouse---chp.jpg?itok=F44620vS",
+    "file": "cluster_2b205cd9-c3ce-4d81-aaf8-015d661c79f5_event_story.jpg"
+  }
+]

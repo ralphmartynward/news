@@ -6444,17 +6444,18 @@ BEGIN:VEVENT
 UID:cluster:636e4fb3-f4ca-481b-a494-72e0ad68b66c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:Éclipse solaire 2026
-DESCRIPTION:Le mercredi 12 août 2026\, une éclipse solaire sera visible d
- epuis Toulouse avec une obscuration de 97\,8 %\, ce qui en fait l'une des 
- meilleures villes françaises pour l'observer sans aller jusqu'en Espagne\
- , où l'éclipse sera totale. Le pic d'obscuration est prévu à 20 h 26\,
-  avec une fenêtre d'observation allant de 19 h 31 à 21 h 17. La Cité de
-  l'Espace organise une nocturne spéciale : ouverte de 10 h à 23 h\, elle
-  proposera des animations\, un spectacle au Planétarium et une paire de l
- unettes offer\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-phen
+SUMMARY:Journée spéciale éclipse
+DESCRIPTION:Le mercredi 12 août 2026\, une éclipse solaire rare sera visi
+ ble depuis Toulouse avec une obscuration atteignant environ 97\,8–97\,9 
+ %\, l'une des plus importantes de France. Le pic d'obscuration aura lieu 
+ à 20 h 26\, avec une fenêtre d'observation entre 19 h 31 et 21 h 17. La 
+ Cité de l'Espace organise une journée spéciale de 10 h à 23 h\, avec a
+ nimations\, explications d'un astronome\, projection du film Totale et ret
+ ransmission en direct de l'éclipse totale depuis l'Observatoire de Javala
+ mbre en Espag\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-phen
  omene-ne-se-reproduira-pas-avant-2081-ou-regarder-l-eclipse-solaire-a-toul
  ouse_64633674.html
+LOCATION:Espace organise u\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/ce-phenomene-ne-se-reproduira-
  pas-avant-2081-ou-regarder-l-eclipse-solaire-a-toulouse_64633674.html?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
