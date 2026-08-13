@@ -6445,19 +6445,40 @@ UID:cluster:636e4fb3-f4ca-481b-a494-72e0ad68b66c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Éclipse solaire 2026
-DESCRIPTION:Le mercredi 12 août 2026\, une éclipse solaire quasi totale s
- era visible depuis Toulouse avec une obscuration de 97\,8 % (selon actu_to
- ulouse) ou 97\,9 % (selon lessentiel) — un phénomène qui ne se reprodu
- ira pas avant 2081. Le pic d'obscuration aura lieu à 20h26\, avec une fen
- être d'observation entre 19h31 et 21h17. La Cité de l'Espace organise un
- e journée spéciale de 10h à 23h avec animations\, explications d'un ast
- ronome et retransmission en direct depuis l'Observatoire de Javalambre en 
- Espagne \; \n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-phenom
- ene-ne-se-reproduira-pas-avant-2081-ou-regarder-l-eclipse-solaire-a-toulou
- se_64633674.html
+DESCRIPTION:Le mercredi 12 août 2026\, une éclipse solaire quasi totale (
+ 97\,8 % d'obscuration) a été visible depuis Toulouse\, plaçant la ville
+  parmi les meilleures villes françaises pour observer le phénomène\, sa
+ ns atteindre la totalité réservée à l'Espagne\, l'Islande et le Groenl
+ and. La Cité de l'Espace a organisé une nocturne spéciale de 10h à 23h
+  avec animations\, explications d'astronomes et retransmission depuis l'Ob
+ servatoire de Javalambre\, attirant environ 5 000 personnes \; l'associati
+ on Planète Scienc\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce
+ -phenomene-ne-se-reproduira-pas-avant-2081-ou-regarder-l-eclipse-solaire-a
+ -toulouse_64633674.html
+LOCATION:Espace a organ\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/ce-phenomene-ne-se-reproduira-
  pas-avant-2081-ou-regarder-l-eclipse-solaire-a-toulouse_64633674.html?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:61eb5160-5256-4dfe-97af-42b2a8902e20@news.lavillerose.com
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Éclipse solaire : fermeture anticipée de quatre piscines toulousa
+ ines
+DESCRIPTION:La mairie de Toulouse a annoncé la fermeture exceptionnelle à
+  19h45 de quatre piscines extérieures — Nakache été\, Bellevue\, Chap
+ ou et Toulouse Lautrec — le mercredi 12 août 2026\, journée par ailleu
+ rs placée en alerte orange canicule par Météo France. La mesure\, quali
+ fiée de « précaution »\, vise à protéger les nageurs face à la bais
+ se de luminosité engendrée par l'éclipse solaire\, qui pourrait réduir
+ e la capacité des maîtres-nageurs à surveiller les bassins. Toulouse se
+ ra l'une des villes françai\n\nSource\: https://actu.fr/occitanie/toulous
+ e_31555/alerte-orange-canicule-pourquoi-la-mairie-de-toulouse-ferme-t-elle
+ -ses-piscines-pendant-l-eclipse_64654276.html
+URL:https://actu.fr/occitanie/toulouse_31555/alerte-orange-canicule-pourquo
+ i-la-mairie-de-toulouse-ferme-t-elle-ses-piscines-pendant-l-eclipse_646542
+ 76.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5c49e4fd-8175-4366-9fda-fb7a5af8bcf3@news.lavillerose.com
