@@ -34,6 +34,16 @@ FEED_ENTRY_LIMIT = 200  # covers 7 days of cache at ~30 clusters/day
 RAW_SUMMARY_CHARS = 1500
 
 
+def _url_dedup_key(url: str) -> str:
+    """Strip utm_* query params so the same article isn't stored twice under
+    a tagged and an untagged URL variant."""
+    from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+
+    parts = urlsplit(url)
+    q = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True) if not k.startswith("utm_")]
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(q), ""))
+
+
 def _embed_text_for_item(item: dict[str, Any]) -> str:
     return f"{item.get('title', '')}\n\n{item.get('extracted_text') or ''}".strip()
 
@@ -333,6 +343,10 @@ def main() -> None:
 
                 if today_weekday == 4:  # Friday only — after Clutch+OfficeTourisme newsletters
                     render_weekend_carousel(conn, ig_dir)
+
+                from src.review import render_review_page
+                review_path = render_review_page(ig_dir, today_slug)
+                print(f"instagram: wrote {review_path}")
             except Exception as _ig_err:
                 print(f"instagram: FAILED — {type(_ig_err).__name__}: {_ig_err}", file=sys.stderr)
 
@@ -413,23 +427,42 @@ def main() -> None:
     _write_sitemap(archive_dates, SITEMAP_OUTPUT)
     print(f"wrote {SITEMAP_OUTPUT} ({len(archive_dates) + 2} URLs)")
 
+    # Cumulative: the SQLite cache only retains RETENTION_DAYS of items, so `entries`
+    # covers just the last ~7 days. Merge into whatever's already on disk (keyed by
+    # url) so older archive-page articles stay searchable instead of falling out
+    # of the index the moment they age out of the cache.
     search_index_path = Path("docs/search-index.json")
     import json as _json
-    search_index = [
-        {
+    existing_index: list[dict[str, Any]] = []
+    if search_index_path.exists():
+        try:
+            existing_index = _json.loads(search_index_path.read_text(encoding="utf-8"))
+        except (ValueError, OSError):
+            existing_index = []
+
+    by_url: dict[str, dict[str, Any]] = {}
+    for item in existing_index:
+        url = item.get("url", "")
+        if url:
+            by_url[_url_dedup_key(url)] = item
+    for e in entries:
+        url = e.get("url", "")
+        if not url:
+            continue
+        by_url[_url_dedup_key(url)] = {
             "title": e.get("title", ""),
             "summary": e.get("summary", ""),
             "date": e.get("published_at", "")[:10],
-            "url": e.get("url", ""),
+            "url": url,
             "source": (e.get("authors") or [""])[0],
         }
-        for e in entries
-    ]
+
+    search_index = sorted(by_url.values(), key=lambda item: item.get("date", ""), reverse=True)
     search_index_path.write_text(
         _json.dumps(search_index, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
-    print(f"wrote {search_index_path} ({len(search_index)} entries)")
+    print(f"wrote {search_index_path} ({len(search_index)} entries, {len(entries)} from this run)")
 
     api_key = os.environ.get("RESEND_API_KEY", "").strip()
     audience_id = os.environ.get("RESEND_AUDIENCE_ID", "").strip()

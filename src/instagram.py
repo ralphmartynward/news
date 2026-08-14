@@ -124,6 +124,19 @@ def _load_font(size: int, bold: bool = False):
     return ImageFont.load_default()
 
 
+_MIN_IMG_DIM = 400  # below this, upscaling to a 1080-wide canvas looks visibly blurry/stretched
+
+# url -> (width, height) of the last successful download, so the review page
+# and manifest writers can report real resolution without a second fetch.
+_image_dims_cache: dict[str, tuple[int, int]] = {}
+
+
+def _image_dims(url: str | None) -> tuple[int, int] | None:
+    if not url:
+        return None
+    return _image_dims_cache.get(url)
+
+
 def _download_image(url: str):
     from PIL import Image
     if not url:
@@ -132,7 +145,8 @@ def _download_image(url: str):
         r = requests.get(url, timeout=REQUEST_TIMEOUT_S, headers={"User-Agent": "Mozilla/5.0"})
         r.raise_for_status()
         img = Image.open(io.BytesIO(r.content)).convert("RGB")
-        if img.width < 100 or img.height < 100:  # tracking pixel / placeholder
+        _image_dims_cache[url] = (img.width, img.height)
+        if img.width < _MIN_IMG_DIM or img.height < _MIN_IMG_DIM:  # tracking pixel / placeholder / too small to upscale
             return None
         return img
     except Exception:
@@ -836,10 +850,12 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
             img = _render_post(cl)
             img.save(str(out_dir / filename), "JPEG", quality=90)
             print(f"  instagram: {filename} [{cl.get('category')}] {cl['title'][:50]}")
+            img_w, img_h = _image_dims(cl.get("image_url")) or (None, None)
             manifest.append({
                 "cluster_id": cid, "format": "post", "source": source,
                 "category": cl.get("category"), "title": cl.get("title"),
                 "image_url": cl.get("image_url"), "file": filename,
+                "img_width": img_w, "img_height": img_h,
                 "ig_caption":  cl.get("ig_caption"),
                 "ig_hashtags": cl.get("ig_hashtags"),
                 "ig_mention":  cl.get("ig_mention"),
@@ -1007,10 +1023,12 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
             img = _render_story(ev)
             img.save(str(out_dir / filename), "JPEG", quality=90)
             print(f"  instagram today: {filename} {ev['title'][:50]}")
+            img_w, img_h = _image_dims(ev.get("image_url")) or (None, None)
             manifest.append({
                 "cluster_id": cid, "format": "story", "source": ev.get("source", "unknown"),
                 "category": "event", "title": ev.get("title"),
                 "image_url": ev.get("image_url"), "file": filename,
+                "img_width": img_w, "img_height": img_h,
             })
             posted_ids.append(cid)
         except Exception as e:
@@ -1244,7 +1262,8 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
             cover = _render_listicle_cover(cl, len(items))
             cover_file = f"{safe_cid}_listicle_cover.jpg"
             cover.save(str(out_dir / cover_file), "JPEG", quality=92)
-            slides.append({"file": cover_file, "type": "cover"})
+            cover_w, cover_h = _image_dims(cl.get("image_url")) or (None, None)
+            slides.append({"file": cover_file, "type": "cover", "img_width": cover_w, "img_height": cover_h})
 
             # Item slides
             for i, (item, img_url) in enumerate(zip(items, item_imgs), 1):
@@ -1252,8 +1271,10 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
                 slide = _render_listicle_item_slide(item, i, len(items), effective_img)
                 slide_file = f"{safe_cid}_listicle_{i:02d}.jpg"
                 slide.save(str(out_dir / slide_file), "JPEG", quality=92)
+                img_w, img_h = _image_dims(effective_img) or (None, None)
                 slides.append({"file": slide_file, "type": "item", "title": item.get("title", ""),
-                                "location": item.get("location", "")})
+                                "location": item.get("location", ""),
+                                "img_width": img_w, "img_height": img_h})
                 print(f"  instagram listicle: slide {i}/{len(items)} — {item.get('title','')[:40]}")
 
             manifest = {
@@ -1333,8 +1354,10 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
         slide = _render_weekend_event_slide(ev, i)
         fname = f"weekend_event_{i:02d}.jpg"
         slide.save(str(out_dir / fname), "JPEG", quality=92)
+        img_w, img_h = _image_dims(ev.get("image_url")) or (None, None)
         slides.append({"file": fname, "type": "event",
-                        "cluster_id": ev.get("cluster_id"), "title": ev.get("title")})
+                        "cluster_id": ev.get("cluster_id"), "title": ev.get("title"),
+                        "img_width": img_w, "img_height": img_h})
         print(f"  instagram weekend: slide {i} — {ev.get('title','')[:50]}")
 
     manifest = {"type": "weekend_carousel", "saturday": sat.isoformat(),

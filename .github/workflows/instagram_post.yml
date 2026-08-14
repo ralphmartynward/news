@@ -1,6 +1,12 @@
 name: Post to Instagram
 
 on:
+  schedule:
+    # Runs well after the digest (digest.yml targets ~06:30 UTC via an external
+    # cron-job.org trigger — see its comment). This gap is the review window:
+    # check docs/instagram/<date>/review.html and edit a manifest before this fires.
+    # Adjust if the digest's actual completion time drifts.
+    - cron: "0 8 * * *"
   workflow_dispatch:
     inputs:
       carousel_only:
@@ -27,6 +33,25 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Wait for GitHub Pages deployment
+        run: |
+          # Poll for today's manifest.json — only live once the day's build deploys.
+          # Checking index.html is useless (always 200 from the previous build).
+          # Max wait: 60s initial + 14×30s = 8 minutes total.
+          DATE_SLUG=$(date -u +%Y-%m-%d)
+          PROBE="https://news.lavillerose.com/instagram/${DATE_SLUG}/manifest.json"
+          echo "Waiting for Pages to deploy today's content (${DATE_SLUG})..."
+          sleep 60
+          for i in $(seq 1 14); do
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$PROBE")
+            echo "Attempt $i: manifest.json → HTTP $STATUS"
+            if [ "$STATUS" = "200" ]; then
+              echo "Today's content is live."
+              break
+            fi
+            sleep 30
+          done
 
       - name: Post to Instagram
         env:

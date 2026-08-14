@@ -210,10 +210,10 @@ def post_listicle_carousel_from_manifest(manifest_path: Path, ig_user_id: str, t
 
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     date_slug  = manifest_path.parent.name
-    slides     = manifest.get("slides", [])
+    slides     = [s for s in manifest.get("slides", []) if not s.get("excluded")]
     image_urls = [f"{base_url}/instagram/{date_slug}/{s['file']}" for s in slides]
 
-    caption = _build_listicle_caption(manifest)
+    caption = _build_listicle_caption({**manifest, "slides": slides})
     print(f"instagram_graph: posting listicle carousel ({len(image_urls)} slides) — {manifest.get('title','')[:50]}")
     try:
         return post_carousel(ig_user_id, token, image_urls, caption)
@@ -244,9 +244,13 @@ def run_from_manifest(manifest_path: Path, ig_user_id: str, token: str,
 
     for entry in manifest:
         filename  = entry["file"]
-        image_url = f"{base_url}/instagram/{date_slug}/{filename}"
         fmt       = entry.get("format", "post")
 
+        if entry.get("excluded"):
+            print(f"instagram_graph: skipping {filename} [{fmt}] — excluded during review")
+            continue
+
+        image_url = f"{base_url}/instagram/{date_slug}/{filename}"
         print(f"instagram_graph: posting {filename} [{fmt}]")
         try:
             if fmt == "story":
@@ -269,7 +273,7 @@ def post_weekend_carousel_from_manifest(manifest_path: Path, ig_user_id: str, to
 
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     date_slug = manifest_path.parent.name
-    slides    = manifest.get("slides", [])
+    slides    = [s for s in manifest.get("slides", []) if not s.get("excluded")]
     sat_str   = manifest.get("saturday", "")
     sun_str   = manifest.get("sunday",   "")
 

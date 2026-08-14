@@ -39,8 +39,6 @@ jobs:
           EMAIL_FROM_ADDRESS: ${{ vars.EMAIL_FROM_ADDRESS }}
           WORKER_SUBSCRIBE_URL: ${{ vars.WORKER_SUBSCRIBE_URL }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: python -m src.main
 
       - name: Commit updated artifacts
@@ -63,27 +61,7 @@ jobs:
           echo "push still failing after 3 attempts" >&2
           exit 1
 
-      - name: Wait for GitHub Pages deployment
-        run: |
-          # Poll for today's manifest.json — only live once the NEW build deploys.
-          # Checking index.html is useless (always 200 from the previous build).
-          # Max wait: 60s initial + 14×30s = 8 minutes total.
-          DATE_SLUG=$(date -u +%Y-%m-%d)
-          PROBE="https://news.lavillerose.com/instagram/${DATE_SLUG}/manifest.json"
-          echo "Waiting for Pages to deploy today's content (${DATE_SLUG})..."
-          sleep 60
-          for i in $(seq 1 14); do
-            STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$PROBE")
-            echo "Attempt $i: manifest.json → HTTP $STATUS"
-            if [ "$STATUS" = "200" ]; then
-              echo "Today's content is live."
-              break
-            fi
-            sleep 30
-          done
-
-      - name: Post to Instagram
-        env:
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: python -m src.instagram_post
+      # Instagram posting no longer happens here — it runs later from
+      # instagram_post.yml, giving a review window (see docs/instagram/<date>/review.html)
+      # to veto a bad candidate before it goes out. See that workflow for the
+      # "wait for Pages deployment" step and the actual posting step.

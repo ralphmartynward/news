@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<title>Revue Instagram — {{ date_iso }}</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    background: #0f172a; color: #fff;
+  }
+  header {
+    padding: 28px 20px 20px; text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  header h1 { font-size: 20px; margin: 0 0 6px; letter-spacing: -0.2px; }
+  header p { margin: 0; font-size: 13px; color: rgba(255,255,255,0.55); }
+  .warn { color: #f472b6; font-weight: 700; }
+  .note {
+    max-width: 640px; margin: 14px auto 0; font-size: 12px; line-height: 1.6;
+    color: rgba(255,255,255,0.5); background: rgba(255,255,255,0.05);
+    border-radius: 10px; padding: 10px 14px;
+  }
+  .note code { color: #4ade80; }
+  main { max-width: 1200px; margin: 0 auto; padding: 24px 20px 60px; }
+  section { margin-bottom: 40px; }
+  section h2 {
+    font-size: 13px; text-transform: uppercase; letter-spacing: 0.6px;
+    color: rgba(255,255,255,0.45); margin: 0 0 14px;
+  }
+  .grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: #172038; border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px; overflow: hidden; display: flex; flex-direction: column;
+    position: relative;
+  }
+  .card.excluded { opacity: 0.4; }
+  .card img { width: 100%; aspect-ratio: 4/5; object-fit: cover; display: block; background: #000; }
+  .ribbon {
+    position: absolute; top: 10px; left: 10px; background: #ef4444; color: #fff;
+    font-size: 10px; font-weight: 800; letter-spacing: 0.4px; text-transform: uppercase;
+    padding: 3px 8px; border-radius: 999px;
+  }
+  .card-body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .card-title { font-size: 14px; font-weight: 700; line-height: 1.3; }
+  .meta-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .badge {
+    font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.3px;
+    padding: 3px 8px; border-radius: 999px;
+  }
+  .badge.source { background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.6); }
+  .badge.q-ok { background: rgba(74,222,128,0.15); color: #4ade80; }
+  .badge.q-soft { background: rgba(250,204,21,0.15); color: #facc15; }
+  .badge.q-low { background: rgba(239,68,68,0.18); color: #f87171; }
+  .badge.q-unknown { background: rgba(148,163,184,0.15); color: #94a3b8; }
+  .caption { font-size: 12px; color: rgba(255,255,255,0.6); line-height: 1.5; white-space: pre-line; }
+  .hashtags { font-size: 11px; color: rgba(255,255,255,0.35); }
+  .edit-link {
+    margin-top: auto; font-size: 12px; font-weight: 700; color: #4ade80;
+    text-decoration: none; padding-top: 6px;
+  }
+  .edit-link:hover { text-decoration: underline; }
+  .empty { text-align: center; color: rgba(255,255,255,0.4); padding: 60px 20px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Revue Instagram — {{ date_iso }}</h1>
+  <p>
+    {{ total_count }} candidat{{ 's' if total_count != 1 else '' }}
+    {% if low_res_count %} · <span class="warn">{{ low_res_count }} en basse résolution</span>{% endif %}
+  </p>
+  <div class="note">
+    Pour exclure un candidat avant sa publication : ouvrez « Modifier sur GitHub »,
+    supprimez son bloc JSON (ou ajoutez <code>"excluded": true</code>) et commitez.
+    Rien ne part sur Instagram avant la prochaine exécution planifiée.
+  </div>
+</header>
+
+<main>
+  {% if not groups %}
+    <div class="empty">Aucun candidat Instagram généré pour cette date.</div>
+  {% endif %}
+  {% for group in groups %}
+  <section>
+    <h2>{{ group.label }} ({{ group.cards|length }})</h2>
+    <div class="grid">
+      {% for c in group.cards %}
+      <div class="card{{ ' excluded' if c.excluded else '' }}">
+        {% if c.excluded %}<span class="ribbon">Exclu</span>{% endif %}
+        {% if c.file %}<img src="{{ c.file }}" alt="{{ c.title }}" loading="lazy"/>{% endif %}
+        <div class="card-body">
+          <div class="card-title">{{ c.title }}</div>
+          <div class="meta-row">
+            <span class="badge source">{{ c.source_label }}</span>
+            <span class="badge q-{{ c.quality }}">{{ c.quality_detail }}</span>
+          </div>
+          {% if c.caption %}<div class="caption">{{ c.caption }}</div>{% endif %}
+          {% if c.hashtags %}<div class="hashtags">{{ c.hashtags|join(' ') }}</div>{% endif %}
+          <a class="edit-link" href="{{ c.edit_url }}" target="_blank" rel="noopener">Modifier sur GitHub →</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</main>
+
+</body>
+</html>
