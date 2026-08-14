@@ -345,7 +345,7 @@ def main() -> None:
                     render_weekend_carousel(conn, ig_dir)
 
                 from src.review import render_review_page
-                review_path = render_review_page(ig_dir, today_slug)
+                review_path = render_review_page(conn, ig_dir, today_slug)
                 print(f"instagram: wrote {review_path}")
             except Exception as _ig_err:
                 print(f"instagram: FAILED — {type(_ig_err).__name__}: {_ig_err}", file=sys.stderr)

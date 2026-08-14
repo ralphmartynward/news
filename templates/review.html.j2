@@ -66,6 +66,15 @@
   }
   .edit-link:hover { text-decoration: underline; }
   .empty { text-align: center; color: rgba(255,255,255,0.4); padding: 60px 20px; }
+  .upcoming-note {
+    max-width: 640px; margin: 0 auto 20px; font-size: 12px; line-height: 1.6;
+    color: rgba(255,255,255,0.4);
+  }
+  .day-block { margin-bottom: 24px; }
+  .day-label {
+    font-size: 12px; font-weight: 800; color: rgba(255,255,255,0.55);
+    text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 10px;
+  }
 </style>
 </head>
 <body>
@@ -110,6 +119,37 @@
     </div>
   </section>
   {% endfor %}
+
+  {% if upcoming_days %}
+  <section>
+    <h2>À venir ({{ upcoming_days|map(attribute='cards')|map('length')|sum }})</h2>
+    <div class="upcoming-note">
+      Événements déjà en base qui redeviendront éligibles à une Story sur une date future,
+      d'après leur planning actuel. Projection, pas une garantie : elle suppose qu'aucun
+      nouvel article n'arrive et que rien d'autre n'est publié entre-temps.
+    </div>
+    {% for day in upcoming_days %}
+    <div class="day-block">
+      <div class="day-label">{{ day.date_iso }}</div>
+      <div class="grid">
+        {% for c in day.cards %}
+        <div class="card">
+          {% if c.file %}<img src="{{ c.file }}" alt="{{ c.title }}" loading="lazy"/>{% endif %}
+          <div class="card-body">
+            <div class="card-title">{{ c.title }}</div>
+            <div class="meta-row">
+              <span class="badge source">{{ c.source_label }}</span>
+              <span class="badge q-{{ c.quality }}">{{ c.quality_detail }}</span>
+            </div>
+            <div class="caption">{{ c.date_range }}</div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
 </main>
 
 </body>

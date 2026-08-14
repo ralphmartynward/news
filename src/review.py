@@ -4,15 +4,20 @@ manifests so a bad image/caption can be caught before the delayed posting run.
 from __future__ import annotations
 
 import json
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Any
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from src.instagram import POST_H, POST_W, SOURCE_LABELS, STORY_H, STORY_W
+from src.instagram import (
+    POST_H, POST_W, SOURCE_LABELS, STORY_H, STORY_W,
+    _french_date_range, _good_image_url, _image_dims, _render_story,
+)
 
 TEMPLATE_DIR = Path("templates")
 REPO_EDIT_BASE = "https://github.com/ralphmartynward/news/edit/main"
+UPCOMING_DAYS_AHEAD = 7
 
 _FORMAT_LABELS = {
     "post": "Feed post",
@@ -137,7 +142,58 @@ def _collect_cards(ig_dir: Path) -> list[dict[str, Any]]:
     return cards
 
 
-def render_review_page(ig_dir: Path, date_iso: str) -> Path:
+def _collect_upcoming(conn, ig_dir: Path, today_iso: str, days_ahead: int = UPCOMING_DAYS_AHEAD) -> list[dict[str, Any]]:
+    """Events already in the DB that will become eligible as a Story on a future
+    date, projected from *current* re-post eligibility (ig_story_at, event
+    span). This is a best-effort projection, not a guarantee: it assumes no
+    new articles arrive and no events get posted in the meantime.
+    """
+    from src import cache as cache_mod
+
+    today = date.fromisoformat(today_iso)
+    seen: set[str] = set()
+    days: list[dict[str, Any]] = []
+    preview_dir = ig_dir / "upcoming"
+
+    for offset in range(1, days_ahead + 1):
+        target_iso = (today + timedelta(days=offset)).isoformat()
+        events = [
+            e for e in cache_mod.load_events_on_date(conn, target_iso)
+            if _good_image_url(e.get("image_url")) and e["cluster_id"] not in seen
+        ]
+        if not events:
+            continue
+
+        day_cards: list[dict[str, Any]] = []
+        for ev in events:
+            seen.add(ev["cluster_id"])
+            safe_cid = ev["cluster_id"].replace(":", "_")
+            filename = f"{safe_cid}_preview.jpg"
+            try:
+                img = _render_story(ev)
+                preview_dir.mkdir(parents=True, exist_ok=True)
+                img.save(str(preview_dir / filename), "JPEG", quality=90)
+                file_ref = f"upcoming/{filename}"
+            except Exception:
+                file_ref = None
+
+            width, height = _image_dims(ev.get("image_url")) or (None, None)
+            quality, quality_detail = _quality("story", width, height)
+            day_cards.append({
+                "title": ev.get("title") or "(sans titre)",
+                "file": file_ref,
+                "date_range": _french_date_range(ev.get("event_start") or target_iso, ev.get("event_end")),
+                "source_label": SOURCE_LABELS.get(ev.get("source") or "", ev.get("source") or "inconnu"),
+                "quality": quality,
+                "quality_detail": quality_detail,
+            })
+
+        days.append({"date_iso": target_iso, "cards": day_cards})
+
+    return days
+
+
+def render_review_page(conn, ig_dir: Path, date_iso: str) -> Path:
     """Build docs/instagram/<date>/review.html from whatever manifests exist for that day."""
     cards = _collect_cards(ig_dir)
     for c in cards:
@@ -149,6 +205,8 @@ def render_review_page(ig_dir: Path, date_iso: str) -> Path:
         if fmt_cards:
             groups.append({"format": fmt, "label": label, "cards": fmt_cards})
 
+    upcoming_days = _collect_upcoming(conn, ig_dir, date_iso)
+
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
         autoescape=select_autoescape(["html", "j2"]),
@@ -158,6 +216,7 @@ def render_review_page(ig_dir: Path, date_iso: str) -> Path:
         groups=groups,
         total_count=len(cards),
         low_res_count=sum(1 for c in cards if c["quality"] == "low"),
+        upcoming_days=upcoming_days,
     )
     out_path = ig_dir / "review.html"
     out_path.write_text(html, encoding="utf-8")
