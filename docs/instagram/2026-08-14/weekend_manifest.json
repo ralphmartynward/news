@@ -1,0 +1,29 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-08-15",
+  "sunday": "2026-08-16",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:9523b144-4fd6-49df-9c3b-589d53ed652e",
+      "title": "Neuf idées de sorties pour le dernier week-end de vacances à Toulouse"
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:5c49e4fd-8175-4366-9fda-fb7a5af8bcf3",
+      "title": "Deux monuments toulousains se transforment en jeux de piste nocturnes"
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:0a3c0b8f-5443-4836-9c10-6f5083dd6db9",
+      "title": "Jeux d'enquête nocturnes dans deux monuments désacralisés de Toulouse"
+    }
+  ]
+}

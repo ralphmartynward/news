@@ -1,0 +1,29 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:edd0dd5d-a3bf-4e33-b0de-54012bc53414",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visites guidées de la crypte archéologique du Palais de Justice",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/sous-le-palais-de-justice-de-toulouse--les-vestiges-des-fortifications-et-du-chateau-des-ducs-de-toulouse-se-visitent---charline-poullain.jpg?itok=dS1UzvRI",
+    "file": "cluster_edd0dd5d-a3bf-4e33-b0de-54012bc53414_event_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9523b144-4fd6-49df-9c3b-589d53ed652e",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Neuf idées de sorties pour le dernier week-end de vacances à Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2026/08/img-2400.jpeg",
+    "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_event_story.jpg"
+  }
+]

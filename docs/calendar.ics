@@ -6445,17 +6445,17 @@ UID:cluster:636e4fb3-f4ca-481b-a494-72e0ad68b66c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Éclipse solaire 2026
-DESCRIPTION:Le mercredi 12 août 2026\, une éclipse solaire quasi totale (
- 97\,8 % d'obscuration) a été visible depuis Toulouse\, plaçant la ville
-  parmi les meilleures villes françaises pour observer le phénomène\, sa
- ns atteindre la totalité réservée à l'Espagne\, l'Islande et le Groenl
- and. La Cité de l'Espace a organisé une nocturne spéciale de 10h à 23h
-  avec animations\, explications d'astronomes et retransmission depuis l'Ob
- servatoire de Javalambre\, attirant environ 5 000 personnes \; l'associati
- on Planète Scienc\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce
- -phenomene-ne-se-reproduira-pas-avant-2081-ou-regarder-l-eclipse-solaire-a
- -toulouse_64633674.html
-LOCATION:Espace a organ\, Toulouse
+DESCRIPTION:Le mercredi 12 août 2026\, Toulouse a vécu une éclipse solai
+ re quasi totale (97\,8 % d'obscuration)\, la première en France depuis 19
+ 99 et la dernière avant 2081. La Cité de l'Espace a accueilli près de 5
+  000 personnes pour une nocturne spéciale\, tandis que le belvédère de 
+ Pech-David proposait une observation gratuite avec Planète Sciences Occit
+ anie. Dans les jours précédant l'événement\, les lunettes homologuées
+  ont été en rupture de stock chez les opticiens et pharmacies de toute l
+ a ville\, provoqu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-
+ phenomene-ne-se-reproduira-pas-avant-2081-ou-regarder-l-eclipse-solaire-a-
+ toulouse_64633674.html
+LOCATION:Espace a accueilli près de 5 000 personnes\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/ce-phenomene-ne-se-reproduira-
  pas-avant-2081-ou-regarder-l-eclipse-solaire-a-toulouse_64633674.html?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -6499,6 +6499,110 @@ DESCRIPTION:Cet été\, deux monuments emblématiques de Toulouse proposent
 URL:https://www.toulouscope.fr/2026/08/04/deux-monuments-emblematiques-de-t
  oulouse-se-transforment-en-jeu-de-piste-nocturne-cet-ete-13487058.php?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0a3c0b8f-5443-4836-9c10-6f5083dd6db9@news.lavillerose.com
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Jeux d'enquête nocturnes dans deux monuments désacralisés de Tou
+ louse
+DESCRIPTION:En août 2026\, deux soirées d'enquête immersives sont organi
+ sées dans des monuments religieux désacralisés du centre de Toulouse. L
+ e jeudi 13 août\, l'église du Gesù accueille un jeu de piste nocturne 
+ à partir de 19h30 : les participants incarnent l'héritier d'un architect
+ e et doivent retrouver un plan caché en déchiffrant codes\, énigmes et 
+ mots croisés inspirés de l'histoire du lieu. Le jeudi 20 août\, c'est l
+ a chapelle des Carmélites qui ouvre ses portes à partir de 20h\, lampe t
+ orche en main\, pou\n\nSource\: https://actu.fr/occitanie/toulouse_31555/d
+ eux-monuments-religieux-desacralises-ouvrent-leurs-portes-pour-des-jeux-d-
+ enquete-nocturne-a-toulouse_64638464.html
+URL:https://actu.fr/occitanie/toulouse_31555/deux-monuments-religieux-desac
+ ralises-ouvrent-leurs-portes-pour-des-jeux-d-enquete-nocturne-a-toulouse_6
+ 4638464.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:295903b1-a4a4-4f85-acd7-9a972201b431@news.lavillerose.com
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Les pompiers de Toulouse en grève pour dénoncer le manque de moye
+ ns
+DESCRIPTION:Neuf syndicats de pompiers\, dont Sud SDIS\, le syndicat autono
+ me et la CGT\, ont appelé à la grève ce jeudi 13 août 2026 à Toulouse
+  pour dénoncer les carences structurelles des Services d'Incendie et de S
+ ecours (SDIS). Leurs trois principales revendications portent sur un finan
+ cement pérenne et ambitieux des SDIS\, le recrutement de davantage de sap
+ eurs-pompiers professionnels\, et la mise en priorité nationale de la san
+ té et de la sécurité des personnels. Le délégué départemental de Su
+ d SDIS\, Sébas\n\nSource\: https://actu.fr/occitanie/toulouse_31555/on-n-
+ a-pas-les-moyens-humains-pourquoi-les-pompiers-sont-en-greve-ce-jeudi-13-a
+ out-a-toulouse_64658368.html
+URL:https://actu.fr/occitanie/toulouse_31555/on-n-a-pas-les-moyens-humains-
+ pourquoi-les-pompiers-sont-en-greve-ce-jeudi-13-aout-a-toulouse_64658368.h
+ tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a5865b47-5a63-4e8f-8ec4-59f42a071ec7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20251012
+SUMMARY:Des drones autorisés pour lutter contre les rodéos urbains en Hau
+ te-Garonne
+DESCRIPTION:Le préfet de Haute-Garonne Fabrice Rigoulet-Roze a renouvelé 
+ l'autorisation d'utilisation de drones par les forces de l'ordre dans 21 c
+ ommunes du département\, dont Toulouse\, pour lutter contre les rodéos u
+ rbains. L'arrêté est entré en vigueur le 12 août et court jusqu'au 11 
+ octobre à 23h59. La préfecture justifie cette mesure par les risques maj
+ eurs que ces pratiques font peser sur les riverains et usagers de la route
+ \, ainsi que par les nuisances sonores générées. Les drones ont déjà 
+ permis des \n\nSource\: https://actu.fr/occitanie/toulouse_31555/pourquoi-
+ des-drones-des-forces-de-l-ordre-sont-autorises-a-survoler-toulouse-et-tou
+ tes-ces-communes-de-haute-garonne_64655763.html
+URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-des-drones-des-forces
+ -de-l-ordre-sont-autorises-a-survoler-toulouse-et-toutes-ces-communes-de-h
+ aute-garonne_64655763.html?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9523b144-4fd6-49df-9c3b-589d53ed652e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+SUMMARY:Halle Night Long
+DESCRIPTION:Actu Toulouse propose une sélection de neuf activités pour oc
+ cuper l'avant-dernier week-end de vacances en ville\, à destination de ce
+ ux qui n'ont pas quitté Toulouse. Parmi les temps forts\, le festival Hal
+ le Night Long à la Halle de la Machine propose des concerts gratuits sur 
+ le parvis les vendredi 14 et samedi 15 août 2026\, avec la fanfare toulou
+ saine Cornélius puis la DJ Shahzen\, spécialisée dans les musiques méd
+ iterranéennes et occitanes. C'est également le dernier week-end où des 
+ gilets vib\n\nSource\: https://actu.fr/occitanie/toulouse_31555/visites-gu
+ idees-soirees-balades-sur-l-eau-les-activites-pour-profiter-des-derniers-i
+ nstants-des-vacances-a-toulouse_64655113.html
+LOCATION:Halle Night Long\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/visites-guidees-soirees-balade
+ s-sur-l-eau-les-activites-pour-profiter-des-derniers-instants-des-vacances
+ -a-toulouse_64655113.html?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6588380f-ed2c-401c-b7b4-129266a25243@news.lavillerose.com
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260824
+SUMMARY:Village des Arts Africains
+DESCRIPTION:Pour sa 13e édition\, le Village des Arts Africains investit l
+ es allées Jules-Guesde à Toulouse du 19 au 23 août 2026\, de 10h à 23h
+ . Organisé par le festival Africlap autour du thème « Archipels Africai
+ ns »\, l'événement est entièrement gratuit et ouvert à tous. Au progr
+ amme : 8 concerts\, des séances de cinéma en plein air\, un marché arti
+ sanal de plus de 30 exposants\, des expositions photos et peintures\, des 
+ conférences\, rencontres littéraires et ateliers. Le concert d'ouverture
+  le 19 août mettra \n\nSource\: https://www.toulouscope.fr/2026/08/13/a-t
+ oulouse-le-village-des-arts-africains-fait-son-retour-avec-cinq-jours-de-c
+ oncerts-cinema-et-gastronomie-13487556.php
+LOCATION:allées Jules-Guesde\, Toulouse
+URL:https://www.toulouscope.fr/2026/08/13/a-toulouse-le-village-des-arts-af
+ ricains-fait-son-retour-avec-cinq-jours-de-concerts-cinema-et-gastronomie-
+ 13487556.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4@news.lavillerose.com
