@@ -1,0 +1,22 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9523b144-4fd6-49df-9c3b-589d53ed652e",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Neuf idées de sorties pour le dernier week-end de vacances à Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2026/08/img-2400.jpeg",
+    "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 960
+  }
+]
