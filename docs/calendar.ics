@@ -6400,26 +6400,6 @@ URL:https://www.toulouscope.fr/2026/08/07/lexposition-toulouse-is-pink-de-m
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:8417e07c-887c-4902-b853-048263191c6c@news.lavillerose.com
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-SUMMARY:Euro de natation 2026
-DESCRIPTION:Insuffisamment remis d'une lésion à un adducteur contractée 
- fin juin lors des Championnats de France\, le nageur toulousain Léon Marc
- hand a été contraint de déclarer forfait sur le 200 m brasse\, le 200 m
-  et le 400 m quatre nages des Championnats d'Europe de natation qui se tie
- nnent à Saint-Denis à partir du 10 août 2026. La Fédération français
- e a officialisé la décision le 8 août\, le médecin des Bleus précisan
- t que ces épreuves présentaient « un risque non nul de récidive ». Le
-  quadruple champion\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a
- pres-avoir-un-peu-galere-leon-marchand-dans-le-doute-avant-les-championnat
- s-d-europe-de-natation-a-saint-denis_64618948.html
-URL:https://actu.fr/occitanie/toulouse_31555/apres-avoir-un-peu-galere-leon
- -marchand-dans-le-doute-avant-les-championnats-d-europe-de-natation-a-sain
- t-denis_64618948.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
- louse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:10957db0-2cf4-41ff-a518-2d6cb9f397e2@news.lavillerose.com
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
@@ -6624,6 +6604,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/risques-d-incendie-canicule-le
  -agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:27172f60-3bfa-4830-9a7e-5433889c5010@news.lavillerose.com
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Canoë-Brunchs Canal du Midi
+DESCRIPTION:La kayakiste Léa Jamelot\, double olympienne (Rio et Tokyo)\, 
+ a repris la direction de la péniche Saint-Louis à Toulouse et propose de
+ puis juin 2026 des canoë-brunchs mensuels sur le Canal du Midi. Le princi
+ pe : une heure de pagaie sur le canal classé UNESCO\, suivie d'un brunch 
+ à base de tartes préparé par La Tarterie sur la terrasse de la péniche
+ . L'activité est accessible à tous\, sportifs ou non\, avec quatre crén
+ eaux horaires par journée concernée (9h15\, 11h\, 12h45 et 15h30) et seu
+ lement 16 plac\n\nSource\: https://actu.fr/occitanie/toulouse_31555/une-fo
+ is-par-mois-cette-double-olympienne-organise-des-canoe-brunchs-a-toulouse_
+ 64651209.html
+URL:https://actu.fr/occitanie/toulouse_31555/une-fois-par-mois-cette-double
+ -olympienne-organise-des-canoe-brunchs-a-toulouse_64651209.html?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:6588380f-ed2c-401c-b7b4-129266a25243@news.lavillerose.com
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260824
@@ -6643,6 +6642,27 @@ URL:https://www.toulouscope.fr/2026/08/13/a-toulouse-le-village-des-arts-af
  ricains-fait-son-retour-avec-cinq-jours-de-concerts-cinema-et-gastronomie-
  13487556.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
  nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5c7f9525-18b6-4130-bd25-35673da5b39e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260919
+SUMMARY:Travaux bruyants ligne C métro : ce qui attend Sept-Deniers cet é
+ té
+DESCRIPTION:Dans le cadre du chantier de la ligne C du métro de Toulouse\,
+  Tisséo Ingénieries va utiliser un brise-roche hydraulique (BRH) pour d
+ émolir des structures provisoires en béton au niveau du Puits Garonne 
+ – Sept-Deniers\, vers la route de Blagnac. Ces opérations\, ponctuellem
+ ent bruyantes\, sont prévues du 19 août au 18 septembre 2026. Le BRH\, c
+ omparable à un marteau-piqueur géant fixé sur pelleteuse\, est nécessa
+ ire pour libérer la zone avant le démarrage des travaux de second œuvre
+  en septembre. Les \n\nSource\: https://actu.fr/occitanie/toulouse_31555/l
+ igne-c-du-metro-de-toulouse-ce-marteau-piqueur-geant-pourrait-faire-beauco
+ up-de-bruit-voici-quand-et-ou_64669989.html
+URL:https://actu.fr/occitanie/toulouse_31555/ligne-c-du-metro-de-toulouse-c
+ e-marteau-piqueur-geant-pourrait-faire-beaucoup-de-bruit-voici-quand-et-ou
+ _64669989.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4@news.lavillerose.com
@@ -6682,6 +6702,47 @@ DESCRIPTION:Du vendredi 21 au dimanche 23 août 2026\, la fête Fronton\, S
 URL:https://www.toulouscope.fr/2026/08/14/a-fronton-trois-jours-pour-trinqu
  er-manger-et-faire-la-fete-autour-du-terroir-13504895.php?utm_source=ical&
  utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:40fb3bfe-e715-442b-a996-58e6a73264bb@news.lavillerose.com
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Node Club
+DESCRIPTION:Une nouvelle boîte de nuit\, le Node Club\, ouvrira ses portes
+  le 21 août 2026 au 8\, rue Gabriel-Péri\, dans des locaux historiquemen
+ t connus pour avoir abrité le Connexion Live puis le Java. Portée par tr
+ ois associés déjà à la tête du Pampa\, du Dôme et de l'ancien restau
+ rant festif Donna\, l'enseigne ambitionne de devenir « le plus grand club
+  du centre-ville de Toulouse ». Sur 700 m²\, le lieu proposera une grand
+ e piste de danse et des soirées étudiantes\, avec notamment un concept d
+ e DJ masqué. Les \n\nSource\: https://actu.fr/occitanie/toulouse_31555/dj
+ -masque-soirees-etudiantes-ce-qu-il-faut-savoir-du-node-club-la-nouvelle-b
+ oite-de-nuit-qui-va-ouvrir-a-toulouse_64646670.html
+LOCATION:rue Gabriel-Péri\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/dj-masque-soirees-etudiantes-c
+ e-qu-il-faut-savoir-du-node-club-la-nouvelle-boite-de-nuit-qui-va-ouvrir-a
+ -toulouse_64646670.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:662253c3-8733-43cd-ad44-6c3e327fa33a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Soirée Blanche
+DESCRIPTION:La Voile Blanche\, discothèque emblématique du quartier Sesqu
+ ières\, organise sa fameuse soirée blanche le vendredi 21 août 2026. Le
+ s participants sont invités à adopter un dress code entièrement ou part
+ iellement blanc pour l'occasion. La soirée débutera dès 19h30 avec une 
+ restauration sur place\, puis des performances variées : hôtes en échas
+ se\, musique live\, saxophone\, shows de danse et démonstrations de feu. 
+ Les DJ Eyox\, RK et Fasol prendront ensuite les platines pour faire danser
+  les fêtards ju\n\nSource\: https://actu.fr/occitanie/toulouse_31555/dj-s
+ ets-shows-de-feu-et-dress-code-blanc-la-fameuse-soiree-blanche-est-de-reto
+ ur-a-toulouse_64661431.html
+LOCATION:quartier Sesquières\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/dj-sets-shows-de-feu-et-dress-
+ code-blanc-la-fameuse-soiree-blanche-est-de-retour-a-toulouse_64661431.htm
+ l?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d18dae09-5e37-42cb-a613-01969306e063@news.lavillerose.com

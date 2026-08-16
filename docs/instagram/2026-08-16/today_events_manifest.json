@@ -1,0 +1,55 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:075afd08-09c8-49fa-8e39-2cf916098a43",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Un food truck s'installe à la Cinémathèque pour le cinéma en plein air",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a6b11caa1a48efb4b0a4fb7/hd/image.jpg?v=2",
+    "file": "cluster_075afd08-09c8-49fa-8e39-2cf916098a43_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:92f87eca-2582-493f-972b-937c4d39dc22",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Mr. Brainwash expose \"Toulouse is Pink\" à la galerie In Arte Veritas",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a75b51a843e7ff4c20700a0/hd/image.jpg?v=2",
+    "file": "cluster_92f87eca-2582-493f-972b-937c4d39dc22_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:9523b144-4fd6-49df-9c3b-589d53ed652e",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Neuf idées de sorties pour le dernier week-end de vacances à Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2026/08/img-2400.jpeg",
+    "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 960
+  },
+  {
+    "cluster_id": "cluster:27172f60-3bfa-4830-9a7e-5433889c5010",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Des canoë-brunchs sur le Canal du Midi avec une double olympienne",
+    "image_url": "https://static.actu.fr/uploads/2026/08/clara-on-film-5.jpg",
+    "file": "cluster_27172f60-3bfa-4830-9a7e-5433889c5010_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 864
+  }
+]
