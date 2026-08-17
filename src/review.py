@@ -12,7 +12,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from src.instagram import (
     POST_H, POST_W, SOURCE_LABELS, STORY_H, STORY_W, _MIN_IMG_DIM,
-    _french_date_range, _good_image_url, _image_dims, _render_story,
+    _french_date_range, _good_image_url, _image_dims, _render_story, has_usable_photo,
 )
 
 TEMPLATE_DIR = Path("templates")
@@ -37,9 +37,9 @@ _TARGET_DIMS = {
 def _quality(fmt: str, width: int | None, height: int | None) -> tuple[str, str]:
     """Classify how much a source photo had to be upscaled to fill its canvas."""
     if width is None or height is None:
-        return "unknown", "No source photo (uses fallback background)"
+        return "unknown", "No source photo (branded intro slide)"
     if width < _MIN_IMG_DIM or height < _MIN_IMG_DIM:
-        return "low", f"{width}×{height} (too small — generic seasonal backdrop used instead)"
+        return "low", f"{width}×{height} (too small — candidate is skipped, no photo used)"
     target_w, target_h = _TARGET_DIMS.get(fmt, (POST_W, POST_H))
     factor = max(target_w / width, target_h / height)
     if factor <= 1.0:
@@ -169,6 +169,9 @@ def _collect_upcoming(conn, ig_dir: Path, today_iso: str, days_ahead: int = UPCO
         day_cards: list[dict[str, Any]] = []
         for ev in events:
             seen.add(ev["cluster_id"])
+            if not has_usable_photo(ev.get("image_url")):
+                continue  # would be skipped on the day it's actually eligible — don't project it either
+
             safe_cid = ev["cluster_id"].replace(":", "_")
             filename = f"{safe_cid}_preview.jpg"
             try:
@@ -190,7 +193,8 @@ def _collect_upcoming(conn, ig_dir: Path, today_iso: str, days_ahead: int = UPCO
                 "quality_detail": quality_detail,
             })
 
-        days.append({"date_iso": target_iso, "cards": day_cards})
+        if day_cards:
+            days.append({"date_iso": target_iso, "cards": day_cards})
 
     return days
 

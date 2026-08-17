@@ -126,9 +126,13 @@ def _load_font(size: int, bold: bool = False):
 
 _MIN_IMG_DIM = 400  # below this, upscaling to a 1080-wide canvas looks visibly blurry/stretched
 
-# url -> (width, height) of the last successful download, so the review page
-# and manifest writers can report real resolution without a second fetch.
+# url -> (width, height) of the last download attempt, so the review page and
+# manifest writers can report real resolution without a second fetch.
 _image_dims_cache: dict[str, tuple[int, int]] = {}
+
+# url -> decoded image (or None for a failed/rejected fetch), so a candidate
+# can be resolution-checked and then rendered without downloading it twice.
+_image_cache: dict[str, Any] = {}
 
 
 def _image_dims(url: str | None) -> tuple[int, int] | None:
@@ -138,39 +142,37 @@ def _image_dims(url: str | None) -> tuple[int, int] | None:
 
 
 def _download_image(url: str):
+    """Fetch and decode the image at url, or None if missing/unfetchable/too small.
+
+    A candidate whose only photo is too small should be suppressed entirely
+    (see has_usable_photo) rather than posted with an unrelated backdrop —
+    there is no generic-image fallback here by design.
+    """
     from PIL import Image
     if not url:
         return None
-    try:
-        r = requests.get(url, timeout=REQUEST_TIMEOUT_S, headers={"User-Agent": "Mozilla/5.0"})
-        r.raise_for_status()
-        img = Image.open(io.BytesIO(r.content)).convert("RGB")
-        _image_dims_cache[url] = (img.width, img.height)
-        if img.width < _MIN_IMG_DIM or img.height < _MIN_IMG_DIM:  # tracking pixel / placeholder / too small to upscale
-            return None
-        return img
-    except Exception:
-        return None
-
-
-def _photo_or_fallback(url: str | None) -> tuple["Image", bool] | tuple[None, bool]:
-    """Source photo, or the branded seasonal backdrop when it's missing/too small.
-
-    Rejected-too-small images still get recorded in _image_dims_cache by
-    _download_image, so the review page can tell "too small, backdrop used"
-    apart from "no image_url at all". Returns (image_or_None, used_fallback).
-    """
-    photo = _download_image(url) if url else None
-    if photo:
-        return photo, False
-    bg_path = _story_background_path(datetime.now(timezone.utc).date(), None)
-    if bg_path:
-        from PIL import Image
+    if url in _image_cache:
+        img = _image_cache[url]
+    else:
         try:
-            return Image.open(bg_path).convert("RGB"), True
+            r = requests.get(url, timeout=REQUEST_TIMEOUT_S, headers={"User-Agent": "Mozilla/5.0"})
+            r.raise_for_status()
+            img = Image.open(io.BytesIO(r.content)).convert("RGB")
+            _image_dims_cache[url] = (img.width, img.height)
         except Exception:
-            pass
-    return None, False
+            img = None
+        _image_cache[url] = img
+    if img is None:
+        return None
+    if img.width < _MIN_IMG_DIM or img.height < _MIN_IMG_DIM:  # tracking pixel / placeholder / too small to upscale
+        return None
+    return img
+
+
+def has_usable_photo(url: str | None) -> bool:
+    """Whether url resolves to a real, large-enough photo — the pre-check a
+    caller uses to decide whether to render a candidate at all."""
+    return _download_image(url) is not None
 
 
 def _cover_crop(img, w: int, h: int):
@@ -445,7 +447,7 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     TEXT_W = W - PAD * 2
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo, _ = _photo_or_fallback(cluster.get("image_url"))
+    photo = _download_image(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.42), H, start_alpha=0, end_alpha=255)
@@ -550,7 +552,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     TEXT_W = W - PAD * 2
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo, _ = _photo_or_fallback(cluster.get("image_url"))
+    photo = _download_image(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
@@ -654,10 +656,11 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     W, H = POST_W, POST_H
     PAD  = 88
 
-    # Use the first event image as backdrop, else the seasonal branded fallback
+    # events is already filtered to usable-photo events, so the first one's
+    # image always works as the cover backdrop.
     backdrop_url = next((e.get("image_url") for e in events if e.get("image_url")), None)
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo, _ = _photo_or_fallback(backdrop_url)
+    photo = _download_image(backdrop_url)
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, 0,            int(H * 0.25), start_alpha=100, end_alpha=0)
@@ -756,7 +759,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo, _ = _photo_or_fallback(event.get("image_url"))
+    photo = _download_image(event.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
@@ -864,6 +867,10 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
         source   = cl.get("source") or "unknown"
         safe_cid = cid.replace(":", "_")
         filename = f"{safe_cid}_post.jpg"
+
+        if not has_usable_photo(cl.get("image_url")):
+            print(f"  instagram: skipping {cid} — photo too small/unusable, no fallback")
+            continue
 
         try:
             img = _render_post(cl)
@@ -1038,6 +1045,11 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
         cid      = ev["cluster_id"]
         safe_cid = cid.replace(":", "_")
         filename = f"{safe_cid}_event_story.jpg"
+
+        if not has_usable_photo(ev.get("image_url")):
+            print(f"  instagram today: skipping {cid} — photo too small/unusable, no fallback")
+            continue
+
         try:
             img = _render_story(ev)
             img.save(str(out_dir / filename), "JPEG", quality=90)
@@ -1125,7 +1137,7 @@ def _render_listicle_cover(cluster: dict[str, Any], n_items: int) -> "Image":
     PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo, _ = _photo_or_fallback(cluster.get("image_url"))
+    photo = _download_image(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
@@ -1187,7 +1199,7 @@ def _render_listicle_item_slide(item: dict[str, Any], n: int, total: int, img_ur
     PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo, _ = _photo_or_fallback(img_url)
+    photo = _download_image(img_url)
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.42), H, start_alpha=0, end_alpha=255)
@@ -1269,6 +1281,9 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
             items = json.loads(raw) if isinstance(raw, str) else raw
             if not items or len(items) < 3:
                 continue
+            if not has_usable_photo(cl.get("image_url")):
+                print(f"  instagram listicle: skipping {cid} — cover photo too small/unusable, no fallback")
+                continue
             items = items[:9]  # + 1 cover slide = 10 max (Instagram carousel limit)
             safe_cid = cid.replace(":", "_")
 
@@ -1284,17 +1299,22 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
             cover_w, cover_h = _image_dims(cl.get("image_url")) or (None, None)
             slides.append({"file": cover_file, "type": "cover", "img_width": cover_w, "img_height": cover_h})
 
-            # Item slides
-            for i, (item, img_url) in enumerate(zip(items, item_imgs), 1):
+            # Item slides — a too-small per-item photo just drops that one slide
+            n = 0
+            for item, img_url in zip(items, item_imgs):
                 effective_img = img_url or cl.get("image_url")
-                slide = _render_listicle_item_slide(item, i, len(items), effective_img)
-                slide_file = f"{safe_cid}_listicle_{i:02d}.jpg"
+                if not has_usable_photo(effective_img):
+                    print(f"  instagram listicle: skipping item '{item.get('title','')[:40]}' — photo too small/unusable")
+                    continue
+                n += 1
+                slide = _render_listicle_item_slide(item, n, len(items), effective_img)
+                slide_file = f"{safe_cid}_listicle_{n:02d}.jpg"
                 slide.save(str(out_dir / slide_file), "JPEG", quality=92)
                 img_w, img_h = _image_dims(effective_img) or (None, None)
                 slides.append({"file": slide_file, "type": "item", "title": item.get("title", ""),
                                 "location": item.get("location", ""),
                                 "img_width": img_w, "img_height": img_h})
-                print(f"  instagram listicle: slide {i}/{len(items)} — {item.get('title','')[:40]}")
+                print(f"  instagram listicle: slide {n}/{len(items)} — {item.get('title','')[:40]}")
 
             manifest = {
                 "type": "listicle_carousel", "cluster_id": cid,
@@ -1326,10 +1346,11 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
         print(f"instagram weekend: no events found for {sat} - {sun}")
         return []
 
-    # Only include events that have a usable image — no blank slides
+    # Only include events with a real, large-enough photo — no fallback backdrop,
+    # a too-small source image just drops that event from the carousel.
     all_count = len(events)
-    events = [e for e in events if _good_image_url(e.get("image_url"))]
-    print(f"instagram weekend: {len(events)}/{all_count} events have images")
+    events = [e for e in events if _good_image_url(e.get("image_url")) and has_usable_photo(e.get("image_url"))]
+    print(f"instagram weekend: {len(events)}/{all_count} events have usable images")
     if not events:
         print(f"instagram weekend: no events with images for {sat} - {sun}, skipping carousel")
         return []
