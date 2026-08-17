@@ -62,7 +62,7 @@ def _parse_hashtags(raw: Any) -> list[str]:
 
 
 def _card(*, fmt: str, manifest_file: str, file: str | None, title: str | None,
-          caption: str | None, hashtags: Any, source: str | None,
+          caption: str | None, long_caption: str | None, hashtags: Any, source: str | None,
           width: int | None, height: int | None, excluded: bool) -> dict[str, Any]:
     quality, quality_detail = _quality(fmt, width, height)
     return {
@@ -73,6 +73,7 @@ def _card(*, fmt: str, manifest_file: str, file: str | None, title: str | None,
         "file": file,
         "title": title or "(sans titre)",
         "caption": caption,
+        "long_caption": long_caption,
         "hashtags": _parse_hashtags(hashtags),
         "source_label": SOURCE_LABELS.get(source or "", source or "inconnu"),
         "quality": quality,
@@ -97,7 +98,8 @@ def _collect_cards(ig_dir: Path) -> list[dict[str, Any]]:
     for e in posts:
         cards.append(_card(
             fmt="post", manifest_file="manifest.json", file=e.get("file"),
-            title=e.get("title"), caption=e.get("ig_caption"), hashtags=e.get("ig_hashtags"),
+            title=e.get("title"), caption=e.get("ig_caption"), long_caption=e.get("ig_caption_long"),
+            hashtags=e.get("ig_hashtags"),
             source=e.get("source"), width=e.get("img_width"), height=e.get("img_height"),
             excluded=e.get("excluded", False),
         ))
@@ -108,7 +110,7 @@ def _collect_cards(ig_dir: Path) -> list[dict[str, Any]]:
             continue  # branded intro slide — not a review candidate
         cards.append(_card(
             fmt="story", manifest_file="today_events_manifest.json", file=e.get("file"),
-            title=e.get("title"), caption=None, hashtags=None,
+            title=e.get("title"), caption=None, long_caption=None, hashtags=None,
             source=e.get("source"), width=e.get("img_width"), height=e.get("img_height"),
             excluded=e.get("excluded", False),
         ))
@@ -120,7 +122,7 @@ def _collect_cards(ig_dir: Path) -> list[dict[str, Any]]:
                 continue
             cards.append(_card(
                 fmt="weekend", manifest_file="weekend_manifest.json", file=s.get("file"),
-                title=s.get("title"), caption=None, hashtags=None,
+                title=s.get("title"), caption=None, long_caption=None, hashtags=None,
                 source=None, width=s.get("img_width"), height=s.get("img_height"),
                 excluded=s.get("excluded", False),
             ))
@@ -130,13 +132,15 @@ def _collect_cards(ig_dir: Path) -> list[dict[str, Any]]:
         if not listicle:
             continue
         shared_caption = listicle.get("ig_caption")
+        shared_long_caption = listicle.get("ig_caption_long")
         shared_hashtags = listicle.get("ig_hashtags")
         for s in listicle.get("slides", []):
             if s.get("type") == "cover":
                 continue
             cards.append(_card(
                 fmt="listicle", manifest_file=mfile.name, file=s.get("file"),
-                title=s.get("title"), caption=shared_caption, hashtags=shared_hashtags,
+                title=s.get("title"), caption=shared_caption, long_caption=shared_long_caption,
+                hashtags=shared_hashtags,
                 source=None, width=s.get("img_width"), height=s.get("img_height"),
                 excluded=s.get("excluded", False),
             ))

@@ -50,6 +50,7 @@ MIGRATIONS = [
     "ALTER TABLE items ADD COLUMN image_url TEXT",
     "ALTER TABLE clusters ADD COLUMN ig_story_at TEXT",
     "ALTER TABLE clusters ADD COLUMN ig_caption TEXT",
+    "ALTER TABLE clusters ADD COLUMN ig_caption_long TEXT",
     "ALTER TABLE clusters ADD COLUMN ig_hashtags TEXT",
     "ALTER TABLE clusters ADD COLUMN ig_mention TEXT",
     "ALTER TABLE clusters ADD COLUMN venue TEXT",
@@ -179,6 +180,7 @@ def upsert_cluster(
     event_name: str | None = None,
     primary_url: str | None = None,
     ig_caption: str | None = None,
+    ig_caption_long: str | None = None,
     ig_hashtags: str | None = None,
     venue: str | None = None,
     ig_mention: str | None = None,
@@ -193,8 +195,8 @@ def upsert_cluster(
         """INSERT INTO clusters
            (cluster_id, title, summary, framing_note, read_for, category,
             event_start, event_end, event_name, primary_url, last_synthesised_at,
-            ig_caption, ig_hashtags, venue, ig_mention, listicle_items, highlight, image_url)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ig_caption, ig_caption_long, ig_hashtags, venue, ig_mention, listicle_items, highlight, image_url)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
            ON CONFLICT(cluster_id) DO UPDATE SET
              title               = excluded.title,
              summary             = excluded.summary,
@@ -207,6 +209,7 @@ def upsert_cluster(
              primary_url         = COALESCE(excluded.primary_url, clusters.primary_url),
              last_synthesised_at = excluded.last_synthesised_at,
              ig_caption          = COALESCE(excluded.ig_caption, clusters.ig_caption),
+             ig_caption_long     = COALESCE(excluded.ig_caption_long, clusters.ig_caption_long),
              ig_hashtags         = COALESCE(excluded.ig_hashtags, clusters.ig_hashtags),
              venue               = COALESCE(excluded.venue, clusters.venue),
              ig_mention          = COALESCE(excluded.ig_mention, clusters.ig_mention),
@@ -226,6 +229,7 @@ def upsert_cluster(
             primary_url,
             now,
             ig_caption,
+            ig_caption_long,
             ig_hashtags,
             venue,
             ig_mention,
@@ -512,7 +516,7 @@ def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[di
     """
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.category,
-                  c.ig_caption, c.ig_hashtags, c.venue, c.ig_mention, c.listicle_items, c.highlight,
+                  c.ig_caption, c.ig_caption_long, c.ig_hashtags, c.venue, c.ig_mention, c.listicle_items, c.highlight,
                   COALESCE(c.primary_url,
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,

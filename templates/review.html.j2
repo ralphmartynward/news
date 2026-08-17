@@ -59,6 +59,10 @@
   .badge.q-low { background: rgba(239,68,68,0.18); color: #f87171; }
   .badge.q-unknown { background: rgba(148,163,184,0.15); color: #94a3b8; }
   .caption { font-size: 12px; color: rgba(255,255,255,0.6); line-height: 1.5; white-space: pre-line; }
+  .caption-label {
+    font-size: 10px; font-weight: 800; color: rgba(255,255,255,0.35);
+    text-transform: uppercase; letter-spacing: 0.4px; margin-top: 4px;
+  }
   .hashtags { font-size: 11px; color: rgba(255,255,255,0.35); }
   .edit-link {
     margin-top: auto; font-size: 12px; font-weight: 700; color: #4ade80;
@@ -110,7 +114,14 @@
             <span class="badge source">{{ c.source_label }}</span>
             <span class="badge q-{{ c.quality }}">{{ c.quality_detail }}</span>
           </div>
-          {% if c.caption %}<div class="caption">{{ c.caption }}</div>{% endif %}
+          {% if c.caption %}
+          <div class="caption-label">Texte sur l'image</div>
+          <div class="caption">{{ c.caption }}</div>
+          {% endif %}
+          {% if c.long_caption %}
+          <div class="caption-label">Légende publiée</div>
+          <div class="caption">{{ c.long_caption }}</div>
+          {% endif %}
           {% if c.hashtags %}<div class="hashtags">{{ c.hashtags|join(' ') }}</div>{% endif %}
           <a class="edit-link" href="{{ c.edit_url }}" target="_blank" rel="noopener">Modifier sur GitHub →</a>
         </div>

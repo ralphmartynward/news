@@ -116,17 +116,35 @@ def _build_weekend_caption(events: list[dict[str, Any]], sat_str: str, sun_str: 
 
 _BASE_TAGS = ["toulouse", "lavillerose", "toulouse2026", "actutoulouse", "sortiraToulouse"]
 
+IG_CAPTION_MAX_CHARS = 2200  # Graph API hard limit — never post over this
+
+
+def _fit_body(body: str, rest_text: str) -> str:
+    """Shrink body (with an ellipsis) so body + rest_text stays under
+    IG_CAPTION_MAX_CHARS. rest_text is everything else in the caption —
+    title, mention, location, hashtags — which must never get cut."""
+    if not body:
+        return body
+    budget = IG_CAPTION_MAX_CHARS - len(rest_text) - 2  # 2 blank-line separators around body
+    if budget <= 0:
+        return ""
+    if len(body) <= budget:
+        return body
+    return body[:budget - 1].rstrip() + "…"
+
 
 def _build_caption(cluster: dict[str, Any]) -> str:
     import json as _json
-    title      = cluster.get("title", "")
-    ig_caption = cluster.get("ig_caption") or ""
+    title = cluster.get("title", "")
+    # Prefer the long-form caption (real sentences, meant for the posted text);
+    # fall back to the short one (meant for the image) for older clusters.
+    caption_body = cluster.get("ig_caption_long") or cluster.get("ig_caption") or ""
     ig_mention = (cluster.get("ig_mention") or "").strip().lstrip("@")
     venue      = (cluster.get("venue") or "").strip()
 
-    if not ig_caption:
+    if not caption_body:
         summary = cluster.get("summary", "")
-        ig_caption = (summary.split(". ")[0].rstrip(".") + ".") if summary else ""
+        caption_body = (summary.split(". ")[0].rstrip(".") + ".") if summary else ""
 
     # Hashtags: Claude-generated first, then base tags — deduped, capped at 30
     raw = cluster.get("ig_hashtags")
@@ -150,20 +168,30 @@ def _build_caption(cluster: dict[str, Any]) -> str:
     # Location line: specific venue when known
     location_str = (f"📍 {venue} · Toulouse · news.lavillerose.com"
                     if venue else "📍 Toulouse · news.lavillerose.com")
+    mention_line = f"@{ig_mention}" if ig_mention else ""
+
+    if caption_body == title:
+        caption_body = ""
+    if caption_body:
+        rest_lines = [title]
+        if mention_line:
+            rest_lines += ["", mention_line]
+        rest_lines += ["", location_str, "", hashtag_str]
+        caption_body = _fit_body(caption_body, "\n".join(rest_lines))
 
     lines = [title]
-    if ig_caption and ig_caption != title:
-        lines += ["", ig_caption]
-    if ig_mention:
-        lines += ["", f"@{ig_mention}"]
+    if caption_body:
+        lines += ["", caption_body]
+    if mention_line:
+        lines += ["", mention_line]
     lines += ["", location_str, "", hashtag_str]
     return "\n".join(lines)
 
 
 def _build_listicle_caption(manifest: dict[str, Any]) -> str:
     import json as _json
-    title      = manifest.get("title", "")
-    ig_caption = manifest.get("ig_caption") or ""
+    title = manifest.get("title", "")
+    caption_body = manifest.get("ig_caption_long") or manifest.get("ig_caption") or ""
     ig_mention = (manifest.get("ig_mention") or "").strip().lstrip("@")
     venue      = (manifest.get("venue") or "").strip()
     items      = [s for s in manifest.get("slides", []) if s.get("type") == "item"]
@@ -188,15 +216,25 @@ def _build_listicle_caption(manifest: dict[str, Any]) -> str:
 
     location_str = (f"📍 {venue} · Toulouse · news.lavillerose.com"
                     if venue else "📍 Toulouse · news.lavillerose.com")
+    mention_line = f"@{ig_mention}" if ig_mention else ""
+    item_lines = [f"{i}. {item.get('title', '')}" for i, item in enumerate(items, 1)]
+
+    if caption_body == title:
+        caption_body = ""
+    if caption_body:
+        rest_lines = [title, ""] + item_lines
+        if mention_line:
+            rest_lines += ["", mention_line]
+        rest_lines += ["", location_str, "", hashtag_str]
+        caption_body = _fit_body(caption_body, "\n".join(rest_lines))
 
     lines = [title]
-    if ig_caption and ig_caption != title:
-        lines += ["", ig_caption]
+    if caption_body:
+        lines += ["", caption_body]
     lines.append("")
-    for i, item in enumerate(items, 1):
-        lines.append(f"{i}. {item.get('title', '')}")
-    if ig_mention:
-        lines += ["", f"@{ig_mention}"]
+    lines += item_lines
+    if mention_line:
+        lines += ["", mention_line]
     lines += ["", location_str, "", hashtag_str]
     return "\n".join(lines)
 

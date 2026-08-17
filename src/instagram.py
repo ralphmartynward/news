@@ -883,6 +883,7 @@ def run(conn, out_dir: Path) -> list[dict[str, Any]]:
                 "image_url": cl.get("image_url"), "file": filename,
                 "img_width": img_w, "img_height": img_h,
                 "ig_caption":  cl.get("ig_caption"),
+                "ig_caption_long": cl.get("ig_caption_long"),
                 "ig_hashtags": cl.get("ig_hashtags"),
                 "ig_mention":  cl.get("ig_mention"),
                 "venue": (cl.get("venue") or "").strip() or _venue_from_caption(cl.get("ig_caption") or "") or _extract_venue(cl.get("summary") or ""),
@@ -1319,6 +1320,7 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
             manifest = {
                 "type": "listicle_carousel", "cluster_id": cid,
                 "title": cl.get("title", ""), "ig_caption": cl.get("ig_caption"),
+                "ig_caption_long": cl.get("ig_caption_long"),
                 "ig_hashtags": cl.get("ig_hashtags"), "ig_mention": cl.get("ig_mention"),
                 "venue": cl.get("venue") or "", "slides": slides,
             }

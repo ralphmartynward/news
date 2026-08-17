@@ -28,6 +28,8 @@ Generate:
    - "culture": cultural coverage that isn't tied to a single date — artist profiles, film/book reviews, cultural trends, cinema, art.
    If a story crosses categories, pick the one most useful to a reader scanning the digest. Don't be afraid to put a "Toulouscope" article in "news" if it's about civic info, or an "Actu Toulouse" article in "place" if it's about a new restaurant.
 
+13. Write a longer Instagram caption (ig_caption_long): 3–5 real sentences in French, roughly 400–700 characters. This is the text posted below the picture, NOT baked into the image — it can and should be longer than ig_caption. Genuinely explain the post: what it is, why it's worth attending/visiting/reading, and concrete specifics (dates, price, atmosphere, who it's for) that build interest. Natural, engaging French written for an Instagram audience, not a press release — and not a repeat of the title or ig_caption. Return null only if there is truly nothing more to say beyond the title.
+
 Constraints:
 - Always preserve attribution; never present this as original reporting. The reader will follow links to the source articles.
 - Don't smooth over uncertainty or contradictions between sources.
@@ -53,6 +55,7 @@ Return ONLY a JSON object, no preamble or code fences. Schema:
   "event_end": "YYYY-MM-DD" or null,
   "event_name": "..." or null,
   "ig_caption": "..." or null,
+  "ig_caption_long": "..." or null,
   "ig_hashtags": ["toulouse", "sortiraToulouse", ...] or null,
   "venue": "place de la Daurade" or null,
   "ig_mention": "theatresorano" or null,
