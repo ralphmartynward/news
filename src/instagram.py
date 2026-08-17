@@ -153,6 +153,26 @@ def _download_image(url: str):
         return None
 
 
+def _photo_or_fallback(url: str | None) -> tuple["Image", bool] | tuple[None, bool]:
+    """Source photo, or the branded seasonal backdrop when it's missing/too small.
+
+    Rejected-too-small images still get recorded in _image_dims_cache by
+    _download_image, so the review page can tell "too small, backdrop used"
+    apart from "no image_url at all". Returns (image_or_None, used_fallback).
+    """
+    photo = _download_image(url) if url else None
+    if photo:
+        return photo, False
+    bg_path = _story_background_path(datetime.now(timezone.utc).date(), None)
+    if bg_path:
+        from PIL import Image
+        try:
+            return Image.open(bg_path).convert("RGB"), True
+        except Exception:
+            pass
+    return None, False
+
+
 def _cover_crop(img, w: int, h: int):
     from PIL import Image, ImageOps
     return ImageOps.fit(img, (w, h), method=Image.Resampling.LANCZOS)
@@ -425,7 +445,7 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
     TEXT_W = W - PAD * 2
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo = _download_image(cluster.get("image_url"))
+    photo, _ = _photo_or_fallback(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.42), H, start_alpha=0, end_alpha=255)
@@ -530,7 +550,7 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     TEXT_W = W - PAD * 2
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo = _download_image(cluster.get("image_url"))
+    photo, _ = _photo_or_fallback(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
@@ -634,13 +654,12 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     W, H = POST_W, POST_H
     PAD  = 88
 
-    # Use the first event image as backdrop, else plain dark bg
+    # Use the first event image as backdrop, else the seasonal branded fallback
     backdrop_url = next((e.get("image_url") for e in events if e.get("image_url")), None)
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    if backdrop_url:
-        photo = _download_image(backdrop_url)
-        if photo:
-            base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
+    photo, _ = _photo_or_fallback(backdrop_url)
+    if photo:
+        base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, 0,            int(H * 0.25), start_alpha=100, end_alpha=0)
     base = _apply_gradient(base, int(H * 0.55), H,           start_alpha=0,   end_alpha=215)
 
@@ -737,7 +756,7 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo = _download_image(event.get("image_url"))
+    photo, _ = _photo_or_fallback(event.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
@@ -1106,7 +1125,7 @@ def _render_listicle_cover(cluster: dict[str, Any], n_items: int) -> "Image":
     PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo = _download_image(cluster.get("image_url"))
+    photo, _ = _photo_or_fallback(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
@@ -1168,7 +1187,7 @@ def _render_listicle_item_slide(item: dict[str, Any], n: int, total: int, img_ur
     PAD  = 88
 
     base = Image.new("RGB", (W, H), COL_BG).convert("RGBA")
-    photo = _download_image(img_url) if img_url else None
+    photo, _ = _photo_or_fallback(img_url)
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, int(H * 0.42), H, start_alpha=0, end_alpha=255)

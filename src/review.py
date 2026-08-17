@@ -11,7 +11,7 @@ from typing import Any
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from src.instagram import (
-    POST_H, POST_W, SOURCE_LABELS, STORY_H, STORY_W,
+    POST_H, POST_W, SOURCE_LABELS, STORY_H, STORY_W, _MIN_IMG_DIM,
     _french_date_range, _good_image_url, _image_dims, _render_story,
 )
 
@@ -38,6 +38,8 @@ def _quality(fmt: str, width: int | None, height: int | None) -> tuple[str, str]
     """Classify how much a source photo had to be upscaled to fill its canvas."""
     if width is None or height is None:
         return "unknown", "No source photo (uses fallback background)"
+    if width < _MIN_IMG_DIM or height < _MIN_IMG_DIM:
+        return "low", f"{width}×{height} (too small — generic seasonal backdrop used instead)"
     target_w, target_h = _TARGET_DIMS.get(fmt, (POST_W, POST_H))
     factor = max(target_w / width, target_h / height)
     if factor <= 1.0:
