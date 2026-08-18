@@ -1,0 +1,22 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:2b205cd9-c3ce-4d81-aaf8-015d661c79f5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le musée du Vieux Toulouse expose le peintre André-Pierre Lupiac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/musee-du-vieux-toulouse---chp.jpg?itok=F44620vS",
+    "file": "cluster_2b205cd9-c3ce-4d81-aaf8-015d661c79f5_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
