@@ -307,6 +307,45 @@ _OT_SKIP_RE = re.compile(
 )
 _OT_MIN_DESC_LINES = 1  # skip events with no description lines (section headers)
 
+# New (2026-08) layout dropped per-event dates entirely: a block is now just
+# title, then a short ALL-CAPS category/price tag ("FESTIVAL", "GRATUIT", ...,
+# sometimes prefixed by a lone "l" separator glyph), then the description.
+_OT_TAG_RE = re.compile(r"^[A-ZÀÂÄÇÉÈÊËÎÏÔÖÙÛÜŸ0-9' ]{2,25}$")
+_OT_FR_MONTHS = [
+    "janvier", "février", "mars", "avril", "mai", "juin",
+    "juillet", "août", "septembre", "octobre", "novembre", "décembre",
+]
+
+
+def _ot_is_tag_line(line: str) -> bool:
+    norm = line.replace("\xa0", " ").strip()
+    if not norm:
+        return False
+    if norm.lower() == "l":
+        return True
+    stripped = re.sub(r"^l\s+", "", norm, flags=re.IGNORECASE)
+    return bool(_OT_TAG_RE.match(stripped))
+
+
+def _ot_weekend_note(received_at: datetime) -> str:
+    """Explicit Sat/Sun dates for the 'agenda du week-end' digest.
+
+    The new layout gives no per-event date at all, only that the whole
+    mailing covers "the weekend" — so every event in it is assumed to run
+    that Saturday and Sunday. Written as an explicit date phrase (not "ce
+    week-end") because downstream Claude synthesis is instructed to ignore
+    relative expressions and only resolve explicit day numbers.
+    """
+    days_to_sat = (5 - received_at.weekday()) % 7
+    sat = received_at + timedelta(days=days_to_sat)
+    sun = sat + timedelta(days=1)
+    if sat.month == sun.month:
+        return f"Du {sat.day} au {sun.day} {_OT_FR_MONTHS[sat.month - 1]} {sat.year}."
+    return (
+        f"Du {sat.day} {_OT_FR_MONTHS[sat.month - 1]} "
+        f"au {sun.day} {_OT_FR_MONTHS[sun.month - 1]} {sun.year}."
+    )
+
 
 def _extract_officetourisme(
     html: str,
@@ -323,6 +362,7 @@ def _extract_officetourisme(
     """
     try:
         from bs4 import BeautifulSoup
+        from bs4 import Comment, Doctype, CData, ProcessingInstruction, Declaration
         soup = BeautifulSoup(html, "html.parser")
         for tag in soup.find_all(["style", "script", "head"]):
             tag.decompose()
@@ -332,9 +372,10 @@ def _extract_officetourisme(
         current_lines: list[str] = []
         current_img: str | None = None
         fallback_url = f"https://www.toulouse-tourisme.com/agenda#{received_at.strftime('%Y-%m-%d')}"
+        _non_text_node_types = (Comment, Doctype, CData, ProcessingInstruction, Declaration)
 
         for node in soup.recursiveChildGenerator():
-            if isinstance(node, str):
+            if isinstance(node, str) and not isinstance(node, _non_text_node_types):
                 line = node.strip()
                 if line and not _OT_SKIP_RE.search(line):
                     current_lines.append(line)
@@ -348,7 +389,7 @@ def _extract_officetourisme(
                                 current_img = src
                         except (ValueError, TypeError):
                             current_img = src
-                elif node.name == "a" and "EN SAVOIR PLUS" in node.get_text():
+                elif node.name == "a" and "en savoir plus" in node.get_text().strip().lower():
                     href = node.get("href", "") or fallback_url
                     block_text = "\n".join(current_lines).strip()
                     if block_text:
@@ -371,36 +412,47 @@ def _extract_officetourisme(
             title = ""
             date_label = ""
             desc_lines: list[str] = []
-            i = 0
-            while i < len(lines):
-                if not date_label and _OT_DATE_RE.match(lines[i]):
-                    date_label = lines[i].strip()
-                    if i + 1 < len(lines):
-                        # Strip audience tags (// EN FAMILLE //)
-                        raw_name = re.sub(r"\s*//.*", "", lines[i + 1]).strip()
-                        title = raw_name
-                        i += 2
-                    else:
-                        i += 1
-                elif date_label:
-                    # Only accumulate description lines AFTER the date+title have
-                    # been found — pre-date intro text (which mentions all events)
-                    # would otherwise make every event embed identically.
-                    desc_lines.append(lines[i])
-                    i += 1
+            date_idx = next((i for i, l in enumerate(lines) if _OT_DATE_RE.match(l)), None)
+
+            if date_idx is not None:
+                date_label = lines[date_idx].strip()
+                if date_idx + 1 < len(lines):
+                    # Strip audience tags (// EN FAMILLE //)
+                    title = re.sub(r"\s*//.*", "", lines[date_idx + 1]).strip()
+                    desc_lines = lines[date_idx + 2:]
+            else:
+                # New (2026-08) layout: no date anywhere. A block is title,
+                # then a short ALL-CAPS category/price tag, then description.
+                tag_idx = next(
+                    (i for i, l in enumerate(lines) if i > 0 and _ot_is_tag_line(l)),
+                    None,
+                )
+                if tag_idx is not None:
+                    title = lines[tag_idx - 1]
+                    j = tag_idx
+                    while j < len(lines) and _ot_is_tag_line(lines[j]):
+                        j += 1
+                    desc_lines = lines[j:]
                 else:
-                    i += 1  # skip pre-date preamble
+                    title = lines[0]
+                    desc_lines = lines[1:]
 
             if not title:
                 title = lines[0]
             if date_label:
                 title = f"{title} – {date_label.title()}"
 
-            excerpt = "\n".join(desc_lines)[:LESSENTIEL_TEXT_CAP]
-
             # Skip section headers / stub entries with no real description
             if len(desc_lines) < _OT_MIN_DESC_LINES:
                 continue
+
+            excerpt = "\n".join(desc_lines)[:LESSENTIEL_TEXT_CAP]
+            if not date_label:
+                # No date anywhere in the source — inject the upcoming
+                # weekend's explicit dates so downstream date extraction
+                # (which deliberately ignores "ce week-end"-style relative
+                # phrases) has something concrete to anchor on.
+                excerpt = f"{_ot_weekend_note(received_at)}\n{excerpt}"
 
             # Use a stable unique URL: tracking href if present, else fallback with index
             url = href if href.startswith("http") else f"{fallback_url}-{idx}"
