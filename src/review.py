@@ -148,11 +148,27 @@ def _collect_cards(ig_dir: Path) -> list[dict[str, Any]]:
     return cards
 
 
+def _is_long_event(ev: dict[str, Any]) -> bool:
+    """Mirror cache.load_events_on_date's >14-day threshold for weekly (vs daily) repost."""
+    start, end = ev.get("event_start"), ev.get("event_end")
+    if not start or not end:
+        return False
+    try:
+        return (date.fromisoformat(end) - date.fromisoformat(start)).days > 14
+    except ValueError:
+        return False
+
+
 def _collect_upcoming(conn, ig_dir: Path, today_iso: str, days_ahead: int = UPCOMING_DAYS_AHEAD) -> list[dict[str, Any]]:
     """Events already in the DB that will become eligible as a Story on a future
     date, projected from *current* re-post eligibility (ig_story_at, event
     span). This is a best-effort projection, not a guarantee: it assumes no
     new articles arrive and no events get posted in the meantime.
+
+    Short/normal events (<=14-day span) repost daily in production, so they're
+    projected on every day they're active, not just the first. Only long-running
+    events (>14 days, weekly repost cadence) are deduped to one appearance across
+    the whole window.
     """
     from src import cache as cache_mod
 
@@ -165,14 +181,16 @@ def _collect_upcoming(conn, ig_dir: Path, today_iso: str, days_ahead: int = UPCO
         target_iso = (today + timedelta(days=offset)).isoformat()
         events = [
             e for e in cache_mod.load_events_on_date(conn, target_iso)
-            if _good_image_url(e.get("image_url")) and e["cluster_id"] not in seen
+            if _good_image_url(e.get("image_url"))
+            and (not _is_long_event(e) or e["cluster_id"] not in seen)
         ]
         if not events:
             continue
 
         day_cards: list[dict[str, Any]] = []
         for ev in events:
-            seen.add(ev["cluster_id"])
+            if _is_long_event(ev):
+                seen.add(ev["cluster_id"])
             if not has_usable_photo(ev.get("image_url")):
                 continue  # would be skipped on the day it's actually eligible — don't project it either
 
