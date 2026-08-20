@@ -1288,6 +1288,20 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
             items = items[:9]  # + 1 cover slide = 10 max (Instagram carousel limit)
             safe_cid = cid.replace(":", "_")
 
+            # listicle_items text can be synthesised from several merged source
+            # items (near-duplicate "things to do" round-ups get clustered
+            # together), but per-item images are scraped from a single URL
+            # (the cluster's primary source) and matched purely by position.
+            # That mapping is only valid when the whole listicle really comes
+            # from one article — otherwise slide N's photo has no relation to
+            # slide N's title. Skip rather than post mismatched images.
+            member_items = cache_mod.cluster_items(conn, cid)
+            if len(member_items) != 1:
+                print(f"  instagram listicle: skipping {cid} — listicle_items came from "
+                      f"{len(member_items)} merged source articles, per-item image scraping "
+                      f"only works for a single source page")
+                continue
+
             # Scrape individual images from the article page
             item_imgs = _fetch_listicle_images(cl.get("url") or "", len(items))
 
