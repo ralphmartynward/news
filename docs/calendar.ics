@@ -6545,19 +6545,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9523b144-4fd6-49df-9c3b-589d53ed652e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
 SUMMARY:Halle Night Long
-DESCRIPTION:Actu Toulouse propose une sélection de neuf activités pour oc
- cuper l'avant-dernier week-end de vacances en ville\, à destination de ce
- ux qui n'ont pas quitté Toulouse. Parmi les temps forts\, le festival Hal
- le Night Long à la Halle de la Machine propose des concerts gratuits sur 
- le parvis les vendredi 14 et samedi 15 août 2026\, avec la fanfare toulou
- saine Cornélius puis la DJ Shahzen\, spécialisée dans les musiques méd
- iterranéennes et occitanes. C'est également le dernier week-end où des 
- gilets vib\n\nSource\: https://actu.fr/occitanie/toulouse_31555/visites-gu
+DESCRIPTION:Actu Toulouse propose deux sélections d'activités pour occupe
+ r les derniers week-ends de vacances d'été à Toulouse. Les suggestions 
+ couvrent concerts\, cinéma en plein air\, soirées festives et balades\, 
+ avec des événements gratuits comme les concerts du festival Halle Night 
+ Long les vendredis et samedis soir sur le parvis de la Halle de la Machine
+ . Le week-end du 14 au 16 août met à l'honneur la fanfare toulousaine Co
+ rnélius et la DJ Shahzen\, tandis que le week-end du 21 au 23 août propo
+ se notamme\n\nSource\: https://actu.fr/occitanie/toulouse_31555/visites-gu
  idees-soirees-balades-sur-l-eau-les-activites-pour-profiter-des-derniers-i
  nstants-des-vacances-a-toulouse_64655113.html
-LOCATION:Halle Night Long\, Toulouse
+LOCATION:Halle Night Long les vendredis\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/visites-guidees-soirees-balade
  s-sur-l-eau-les-activites-pour-profiter-des-derniers-instants-des-vacances
  -a-toulouse_64655113.html?utm_source=ical&utm_medium=calendar&utm_campaign
@@ -6740,6 +6740,26 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-08-17#47813?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:cd5b841d-88f0-4bf1-844c-e1fefb001382@news.lavillerose.com
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Bohēbon ouvre son 3e restaurant toulousain place Dupuy
+DESCRIPTION:L'enseigne de poke bowls Bohēbon\, née à Toulouse il y a sep
+ t ans\, ouvre son troisième restaurant en centre-ville le jeudi 20 août 
+ 2026. Le nouveau point de vente s'installe au 21 place Dupuy\, face à la 
+ Halle aux Grains\, à l'emplacement d'une ancienne agence AXA. Le restaura
+ nt\, ouvert 7 jours sur 7\, proposera plus de 40 places assises et sera l'
+ un des plus grands du réseau national. Il est géré par Gilles Dauzet\, 
+ déjà franchisé du Bohēbon de Jeanne d'Arc\, et son associé Romain Lap
+ orte.\n\nSource\: https://actu.fr/occitanie/toulouse_31555/specialisee-dan
+ s-les-poke-bowls-cette-enseigne-ouvre-son-3e-restaurant-en-centre-ville-de
+ -toulouse_64682704.html
+LOCATION:place Dupuy\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/specialisee-dans-les-poke-bowl
+ s-cette-enseigne-ouvre-son-3e-restaurant-en-centre-ville-de-toulouse_64682
+ 704.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4df0b89f-f9be-4797-9d5a-ef6943d3dcb3@news.lavillerose.com
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
@@ -6839,6 +6859,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/un-nouveau-festival-va-voir-le
  -jour-en-plein-coeur-de-toulouse-lieu-styles-musicaux-artistes-on-vous-dit
  -tout_64661629.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:21679e1a-a6c1-4d02-ba92-aa95a535b607@news.lavillerose.com
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Cinéma flottant Wam Park
+DESCRIPTION:Le Wam Park\, base de loisirs nautiques de Sesquières\, organi
+ se le vendredi 21 août une séance de cinéma en plein air unique : les s
+ pectateurs regardent le film sur l'eau\, installés sur leurs propres engi
+ ns flottants (bouées\, matelas...). Le film projeté reste secret jusqu'a
+ u soir même\, seule promesse : tout public et « sensations garanties ».
+  L'événement est gratuit mais chaque spectateur doit apporter son propre
+  équipement flottant\, la base ne fournissant rien. C'est la seule projec
+ tion de ce t\n\nSource\: https://actu.fr/occitanie/toulouse_31555/un-cinem
+ a-flottant-s-installe-sur-un-lac-a-toulouse-un-film-surprise-a-decouvrir-s
+ ur-l-eau_64677222.html
+URL:https://actu.fr/occitanie/toulouse_31555/un-cinema-flottant-s-installe-
+ sur-un-lac-a-toulouse-un-film-surprise-a-decouvrir-sur-l-eau_64677222.html
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a2bd43b8-dd24-4fcd-854e-9f701d8b3773@news.lavillerose.com

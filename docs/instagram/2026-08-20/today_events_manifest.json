@@ -1,0 +1,55 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9523b144-4fd6-49df-9c3b-589d53ed652e",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Idées de sorties à Toulouse pour les derniers week-ends de vacances",
+    "image_url": "https://static.actu.fr/uploads/2026/08/img-2400.jpeg",
+    "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 960
+  },
+  {
+    "cluster_id": "cluster:6588380f-ed2c-401c-b7b4-129266a25243",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Le Village des Arts Africains revient cinq jours allées Jules-Guesde",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a68dec23838e26f33057aba/hd/image.png?v=2",
+    "file": "cluster_6588380f-ed2c-401c-b7b4-129266a25243_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Barques en Scène : trois soirs de concerts gratuits à Narbonne en août",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a3c3178a2bff03700047cd6/hd/image.png?v=1",
+    "file": "cluster_5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:5883fb36-b997-4997-9126-d4ad82ca228f",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Balades aux lampions dans le Lauragais cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/avignonet-lauragais-eglise--c--luca-sorroche.jpg?itok=trlVqbau",
+    "file": "cluster_5883fb36-b997-4997-9126-d4ad82ca228f_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

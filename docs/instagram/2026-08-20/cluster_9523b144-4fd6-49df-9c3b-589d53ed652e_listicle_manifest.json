@@ -1,0 +1,66 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:9523b144-4fd6-49df-9c3b-589d53ed652e",
+  "title": "Idées de sorties à Toulouse pour les derniers week-ends de vacances",
+  "ig_caption": "Concerts gratuits, cinéma en plein air, soirées festives\nDerniers week-ends de vacances à Toulouse\nFanfare, électro, films sous les étoiles",
+  "ig_caption_long": "Les vacances se terminent, mais Toulouse a encore beaucoup à offrir ! Du 14 au 23 août, les derniers week-ends d'été se remplissent de concerts gratuits sur le parvis de la Halle de la Machine avec le festival Halle Night Long — fanfare avec Cornélius le 14, électro méditerranéenne avec Shahzen le 15. Pour le week-end du 21–23 août, on enchaîne avec une soirée blanche élégante à La Voile Blanche (dès 19h30, 20 €) et du cinéma en plein air au musée Aeroscopia, à la Cinémathèque ou au Wam Park de Sesquières. De quoi finir l'été en beauté sans quitter la Ville Rose !",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"vacancesToulouse\", \"hallenightlong\", \"halledelamachine\", \"concertgratuit\", \"soireebanche\", \"lavoileblanche\", \"cinemasopleinair\", \"aeroscopia\", \"cinemathequedetoulouse\", \"wampark\", \"sesquieres\", \"ete2026\", \"findesvacances\", \"sortirtoulouse\", \"toulousesoir\", \"toulouseculture\", \"musiquetoulouse\", \"electrotoulouse\", \"toulousacity\", \"weekendtoulouse\", \"bonplanstoulouse\", \"vivretoulouse\"]",
+  "ig_mention": "halledelamachine",
+  "venue": "Halle de la Machine",
+  "slides": [
+    {
+      "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_listicle_cover.jpg",
+      "type": "cover",
+      "img_width": 1280,
+      "img_height": 960
+    },
+    {
+      "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_listicle_01.jpg",
+      "type": "item",
+      "title": "Halle Night Long",
+      "location": "Halle de la Machine, Toulouse",
+      "img_width": 960,
+      "img_height": 640
+    },
+    {
+      "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_listicle_02.jpg",
+      "type": "item",
+      "title": "Soirée blanche Voile Blanche",
+      "location": "La Voile Blanche, 26 allée des Foulques, Toulouse",
+      "img_width": 960,
+      "img_height": 640
+    },
+    {
+      "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_listicle_03.jpg",
+      "type": "item",
+      "title": "Cinéma plein air Aeroscopia",
+      "location": "Musée Aeroscopia, Toulouse",
+      "img_width": 960,
+      "img_height": 640
+    },
+    {
+      "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_listicle_04.jpg",
+      "type": "item",
+      "title": "Cinéma plein air Cinémathèque",
+      "location": "Cinémathèque de Toulouse",
+      "img_width": 960,
+      "img_height": 640
+    },
+    {
+      "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_listicle_05.jpg",
+      "type": "item",
+      "title": "Cinéma surprise Wam Park",
+      "location": "Wam Park, Sesquières, Toulouse",
+      "img_width": 960,
+      "img_height": 640
+    },
+    {
+      "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_listicle_06.jpg",
+      "type": "item",
+      "title": "Balade nocturne minotaure",
+      "location": "Halle de la Machine, Toulouse",
+      "img_width": 960,
+      "img_height": 640
+    }
+  ]
+}
