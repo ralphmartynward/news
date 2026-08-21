@@ -31,17 +31,6 @@
     "img_height": 506
   },
   {
-    "cluster_id": "cluster:9523b144-4fd6-49df-9c3b-589d53ed652e",
-    "format": "story",
-    "source": "actu_toulouse",
-    "category": "event",
-    "title": "Idées de sorties à Toulouse pour les derniers week-ends de vacances",
-    "image_url": "https://static.actu.fr/uploads/2026/08/img-2400.jpeg",
-    "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_event_story.jpg",
-    "img_width": 1280,
-    "img_height": 960
-  },
-  {
     "cluster_id": "cluster:6588380f-ed2c-401c-b7b4-129266a25243",
     "format": "story",
     "source": "toulouscope",
@@ -49,28 +38,6 @@
     "title": "Le Village des Arts Africains revient cinq jours allées Jules-Guesde",
     "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a68dec23838e26f33057aba/hd/image.png?v=2",
     "file": "cluster_6588380f-ed2c-401c-b7b4-129266a25243_event_story.jpg",
-    "img_width": 1200,
-    "img_height": 500
-  },
-  {
-    "cluster_id": "cluster:5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4",
-    "format": "story",
-    "source": null,
-    "category": "event",
-    "title": "Barques en Scène : trois soirs de concerts gratuits à Narbonne en août",
-    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a3c3178a2bff03700047cd6/hd/image.png?v=1",
-    "file": "cluster_5f0e5ec1-d6c8-47e2-8965-1d4f7fa751d4_event_story.jpg",
-    "img_width": 1200,
-    "img_height": 675
-  },
-  {
-    "cluster_id": "cluster:4df0b89f-f9be-4797-9d5a-ef6943d3dcb3",
-    "format": "story",
-    "source": "toulouscope",
-    "category": "event",
-    "title": "Fronton, Saveurs & Senteurs fête ses 37 ans du 21 au 23 août",
-    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a7c1fb46450af34390cd13e/hd/image.jpg?v=2",
-    "file": "cluster_4df0b89f-f9be-4797-9d5a-ef6943d3dcb3_event_story.jpg",
     "img_width": 1200,
     "img_height": 500
   },
