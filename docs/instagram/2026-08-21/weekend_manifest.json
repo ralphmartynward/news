@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-08-22",
+  "sunday": "2026-08-23",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2630e2df-2454-411f-8553-d384a53f56f7",
+      "title": "Jeu d'aventure en famille autour de l'Aéropostale",
+      "img_width": 500,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:27925fb3-9aba-4188-85c3-17471be507cb",
+      "title": "Le Cercle des Poètes Disparus projeté en plein air à Toulouse",
+      "img_width": 500,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:690e67b7-4a48-4f61-bea3-98b85633f566",
+      "title": "31 Notes d'été : jazz, visites et théâtre citoyen à Toulouse",
+      "img_width": 500,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:a9c67eee-d37f-48ee-b6e6-2d8072b17cc3",
+      "title": "La forêt magique : énigmes et aventures les 22 et 23 août",
+      "img_width": 500,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:a2bd43b8-dd24-4fcd-854e-9f701d8b3773",
+      "title": "Places à gagner pour TFC – Olympique Lyonnais au Stadium",
+      "img_width": 1280,
+      "img_height": 960
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:5883fb36-b997-4997-9126-d4ad82ca228f",
+      "title": "Balades aux lampions dans le Lauragais cet été",
+      "img_width": 900,
+      "img_height": 506
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:4df0b89f-f9be-4797-9d5a-ef6943d3dcb3",
+      "title": "Fronton, Saveurs & Senteurs fête ses 37 ans du 21 au 23 août",
+      "img_width": 1200,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:662253c3-8733-43cd-ad44-6c3e327fa33a",
+      "title": "La soirée blanche de retour à La Voile Blanche à Sesquières",
+      "img_width": 1280,
+      "img_height": 853
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8cb6220b-41c6-4950-b3bd-3f30a19ebb6c",
+      "title": "Open air électro gratuit sur l'île du Ramier, artistes féminines à l'affiche",
+      "img_width": 1280,
+      "img_height": 852
+    }
+  ]
+}
