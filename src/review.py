@@ -197,7 +197,9 @@ def _collect_upcoming(conn, ig_dir: Path, today_iso: str, days_ahead: int = UPCO
             safe_cid = ev["cluster_id"].replace(":", "_")
             filename = f"{safe_cid}_preview.jpg"
             try:
-                img = _render_story(ev)
+                member_sources = {it["source"] for it in cache_mod.cluster_items(conn, ev["cluster_id"])}
+                hide_date = member_sources == {"office_tourisme"}
+                img = _render_story(ev, hide_date=hide_date)
                 preview_dir.mkdir(parents=True, exist_ok=True)
                 img.save(str(preview_dir / filename), "JPEG", quality=90)
                 file_ref = f"upcoming/{filename}"

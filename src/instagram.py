@@ -438,7 +438,7 @@ def _wrap_text(text: str, font, max_width: int, draw) -> list[str]:
 # Format 1 — Story
 # ---------------------------------------------------------------------------
 
-def _render_story(cluster: dict[str, Any]) -> "Image":
+def _render_story(cluster: dict[str, Any], hide_date: bool = False) -> "Image":
     """1080x1920. Gradient bottom-band + white text — same visual language as _render_post."""
     from PIL import Image, ImageDraw
 
@@ -489,7 +489,11 @@ def _render_story(cluster: dict[str, Any]) -> "Image":
         caption_lines += _wrap_text(raw, f_sub, TEXT_W, draw)[:1]
     caption_lines = caption_lines[:3]
 
-    event_date_str = _french_date_range(
+    # office_tourisme's weekend digest has no per-event dates — the extractor
+    # fills event_start/end with a guessed Sat/Sun so the event still surfaces
+    # in the calendar and repost scheduling, but that guess is too imprecise
+    # to show as fact (an event on the Friday can render as "22/23 août").
+    event_date_str = "" if hide_date else _french_date_range(
         cluster.get("event_start") or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         cluster.get("event_end"),
     )
@@ -1052,7 +1056,9 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
             continue
 
         try:
-            img = _render_story(ev)
+            member_sources = {it["source"] for it in cache_mod.cluster_items(conn, cid)}
+            hide_date = member_sources == {"office_tourisme"}
+            img = _render_story(ev, hide_date=hide_date)
             img.save(str(out_dir / filename), "JPEG", quality=90)
             print(f"  instagram today: {filename} {ev['title'][:50]}")
             img_w, img_h = _image_dims(ev.get("image_url")) or (None, None)
