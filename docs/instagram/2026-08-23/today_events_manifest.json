@@ -1,0 +1,88 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9523b144-4fd6-49df-9c3b-589d53ed652e",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Idées de sorties à Toulouse pour les derniers week-ends de vacances",
+    "image_url": "https://static.actu.fr/uploads/2026/08/img-2400.jpeg",
+    "file": "cluster_9523b144-4fd6-49df-9c3b-589d53ed652e_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 960
+  },
+  {
+    "cluster_id": "cluster:6588380f-ed2c-401c-b7b4-129266a25243",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Village des Arts Africains revient cinq jours allées Jules-Guesde",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a68dec23838e26f33057aba/hd/image.png?v=2",
+    "file": "cluster_6588380f-ed2c-401c-b7b4-129266a25243_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:4df0b89f-f9be-4797-9d5a-ef6943d3dcb3",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Fronton, Saveurs & Senteurs fête ses 37 ans du 21 au 23 août",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a7c1fb46450af34390cd13e/hd/image.jpg?v=2",
+    "file": "cluster_4df0b89f-f9be-4797-9d5a-ef6943d3dcb3_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:2630e2df-2454-411f-8553-d384a53f56f7",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Jeu d'aventure en famille autour de l'Aéropostale",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-L-AVENTURE-EN-FAMILLE.png",
+    "file": "cluster_2630e2df-2454-411f-8553-d384a53f56f7_event_story.jpg",
+    "img_width": 500,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:27925fb3-9aba-4188-85c3-17471be507cb",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Cercle des Poètes Disparus projeté en plein air à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-LE-CERCLE-DES-POETES-DISPARUS.png",
+    "file": "cluster_27925fb3-9aba-4188-85c3-17471be507cb_event_story.jpg",
+    "img_width": 500,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:690e67b7-4a48-4f61-bea3-98b85633f566",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "31 Notes d'été : jazz, visites et théâtre citoyen à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-31-NOTES-D-ETE.png",
+    "file": "cluster_690e67b7-4a48-4f61-bea3-98b85633f566_event_story.jpg",
+    "img_width": 500,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:a9c67eee-d37f-48ee-b6e6-2d8072b17cc3",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La forêt magique : énigmes et aventures les 22 et 23 août",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-LA-FORET-MAGIQUE.png",
+    "file": "cluster_a9c67eee-d37f-48ee-b6e6-2d8072b17cc3_event_story.jpg",
+    "img_width": 500,
+    "img_height": 500
+  }
+]
