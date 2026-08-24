@@ -1,0 +1,42 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:996248ab-4b28-4368-822e-342500d5ab7e",
+  "title": "Trois labyrinthes à explorer près de Toulouse cet été",
+  "ig_caption": "3 labyrinthes géants autour de Toulouse\nBuis, maïs, nocturnes et chasses au trésor\nAventures en famille de 3 à 99 ans",
+  "ig_caption_long": "Vous cherchez une sortie originale en famille cet été ? Trois labyrinthes vous attendent aux portes de Toulouse ! Le château de Merville propose le plus grand labyrinthe de buis d'Europe, avec des parcours autour de vos contes préférés et 10 obstacles interactifs. À Castelmaurou, Corn Lanta transforme des hectares de maïs en terrain d'aventures jusqu'au 30 août — dont des soirées nocturnes les mercredis et samedis à partir de 21h pour une ambiance totalement différente. Un troisième labyrinthe de maïs à Montgiscard complète la sélection : de quoi occuper tout l'été sans jamais se lasser !",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"labyrinthe\", \"labyrinthemaïs\", \"chateaudemerville\", \"merville\", \"castelmaurou\", \"montgiscard\", \"cornlanta\", \"sortieenfamille\", \"famille\", \"enfants\", \"activiteenfants\", \"eteToulouse\", \"ete2026\", \"loisirsenfants\", \"contes\", \"aventure\", \"nocturne\", \"sortieoriginale\", \"hautegaronne\", \"occitanie\", \"weekendfamille\"]",
+  "ig_mention": null,
+  "venue": "Château de Merville",
+  "slides": [
+    {
+      "file": "cluster_996248ab-4b28-4368-822e-342500d5ab7e_listicle_cover.jpg",
+      "type": "cover",
+      "img_width": 900,
+      "img_height": 506
+    },
+    {
+      "file": "cluster_996248ab-4b28-4368-822e-342500d5ab7e_listicle_01.jpg",
+      "type": "item",
+      "title": "Labyrinthe de buis de Merville",
+      "location": "Château de Merville, Merville",
+      "img_width": 900,
+      "img_height": 506
+    },
+    {
+      "file": "cluster_996248ab-4b28-4368-822e-342500d5ab7e_listicle_02.jpg",
+      "type": "item",
+      "title": "Corn Lanta, labyrinthe géant",
+      "location": "4 chemin de Marines, Castelmaurou",
+      "img_width": 900,
+      "img_height": 506
+    },
+    {
+      "file": "cluster_996248ab-4b28-4368-822e-342500d5ab7e_listicle_03.jpg",
+      "type": "item",
+      "title": "Popcorn labyrinthe Montgiscard",
+      "location": "Montgiscard",
+      "img_width": 900,
+      "img_height": 506
+    }
+  ]
+}
