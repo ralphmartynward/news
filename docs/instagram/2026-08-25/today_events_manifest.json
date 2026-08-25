@@ -1,0 +1,55 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f3e8e412-2cc9-4016-8050-1fd4fca87907",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visites guidées de l'exposition Sorolla à la Fondation Bemberg cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/sorolla---chp.jpg?h=e795887c&itok=kKnyCypr",
+    "file": "cluster_f3e8e412-2cc9-4016-8050-1fd4fca87907_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:86acfd63-6aff-4c69-a52a-96661e4b692a",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Sorties estivales à Toulouse : concerts, festivals et cinéma en plein air",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a5f2b0b408923aa3100b850/hd/image.jpg?v=2",
+    "file": "cluster_86acfd63-6aff-4c69-a52a-96661e4b692a_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:69f65298-14ad-495d-9965-6913a433a0b3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le festival Notes d'été 31 revient pour 200 événements gratuits",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/toulouse-cie-la-facon--c-adrien-nowak.jpg?h=df3c6bf4&itok=eMbD505n",
+    "file": "cluster_69f65298-14ad-495d-9965-6913a433a0b3_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:996248ab-4b28-4368-822e-342500d5ab7e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Trois labyrinthes à explorer près de Toulouse cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/entrees-labyrinthe-magique.jpg?itok=0OTzvQtc",
+    "file": "cluster_996248ab-4b28-4368-822e-342500d5ab7e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

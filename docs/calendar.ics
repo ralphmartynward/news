@@ -7338,6 +7338,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/battles-de-danse-musiques-et-s
  a
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a343c9b6-7791-4e0b-b26b-0d4c5335f384@news.lavillerose.com
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Pool Party Nakache
+DESCRIPTION:Le dimanche 30 août\, les Siestes Électroniques investissent 
+ pour la première fois la piscine Alfred Nakache pour une pool party de si
+ x heures\, de 13h à 19h. Au programme : trois DJ sets\, baignade\, bronze
+ tte et danse dans le plus grand bassin de France (150 m sur 48 m)\, un mon
+ ument Art déco classé du XXe siècle. Parmi les artistes annoncés figur
+ e Sarra Wild\, DJ et productrice basée à Londres\, habituée du Sonar Fe
+ stival et du Berghain. L'événement se veut une façon festive de clore l
+ es vacances d'\n\nSource\: https://www.toulouscope.fr/2026/08/24/a-toulous
+ e-les-siestes-organisent-une-pool-party-geante-a-la-piscine-nakache-135156
+ 20.php
+URL:https://www.toulouscope.fr/2026/08/24/a-toulouse-les-siestes-organisent
+ -une-pool-party-geante-a-la-piscine-nakache-13515620.php?utm_source=ical&u
+ tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5aea2371-d34d-46a9-a27f-77a9fc1e28a7@news.lavillerose.com
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
@@ -7551,6 +7570,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/apres-six-semaines-de-test-le-
  marche-des-carmes-a-toulouse-modifie-ses-horaires-voici-ce-qui-va-changer-
  en-septembre_64533495.html?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ef66e193-bcc9-48ed-891d-d0a5b82cbbf6@news.lavillerose.com
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Concert Patrick Bruel Toulouse
+DESCRIPTION:Patrick Bruel doit se produire au Zénith de Toulouse le 4 nove
+ mbre prochain\, dans le cadre d'une tournée de 35 dates. Alors que plusie
+ urs maires français — dont ceux de Dijon\, Montpellier\, Chartres et Ca
+ en — ont exprimé leur opposition à la venue du chanteur dans leur vill
+ e\, le maire de Toulouse Jean-Luc Moudenc adopte une position différente 
+ : il refuse de demander l'annulation du concert\, estimant que la mairie n
+ e peut pas se substituer à la justice. Patrick Bruel est mis en examen de
+ puis mi-j\n\nSource\: https://actu.fr/occitanie/toulouse_31555/concert-de-
+ patrick-bruel-a-toulouse-pour-jean-luc-moudenc-la-mairie-ne-peut-pas-se-su
+ bstituer-a-la-justice_64699020.html
+URL:https://actu.fr/occitanie/toulouse_31555/concert-de-patrick-bruel-a-tou
+ louse-pour-jean-luc-moudenc-la-mairie-ne-peut-pas-se-substituer-a-la-justi
+ ce_64699020.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
