@@ -1,0 +1,44 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:2b205cd9-c3ce-4d81-aaf8-015d661c79f5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le musée du Vieux Toulouse expose le peintre André-Pierre Lupiac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/musee-du-vieux-toulouse---chp.jpg?itok=F44620vS",
+    "file": "cluster_2b205cd9-c3ce-4d81-aaf8-015d661c79f5_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:996248ab-4b28-4368-822e-342500d5ab7e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Trois labyrinthes à explorer près de Toulouse cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/entrees-labyrinthe-magique.jpg?itok=0OTzvQtc",
+    "file": "cluster_996248ab-4b28-4368-822e-342500d5ab7e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:8818663c-cad4-441d-aef0-c982ca70ef4a",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Le festival Fly to Japan revient à Colomiers du 26 au 30 août",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a7f30a98db5929da903c16a/hd/image.png?v=3",
+    "file": "cluster_8818663c-cad4-441d-aef0-c982ca70ef4a_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  }
+]
