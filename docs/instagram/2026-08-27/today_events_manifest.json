@@ -1,0 +1,55 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:996248ab-4b28-4368-822e-342500d5ab7e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Trois labyrinthes à explorer près de Toulouse cet été",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/entrees-labyrinthe-magique.jpg?itok=0OTzvQtc",
+    "file": "cluster_996248ab-4b28-4368-822e-342500d5ab7e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:8818663c-cad4-441d-aef0-c982ca70ef4a",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Le festival Fly to Japan revient à Colomiers du 26 au 30 août",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a7f30a98db5929da903c16a/hd/image.png?v=3",
+    "file": "cluster_8818663c-cad4-441d-aef0-c982ca70ef4a_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:5b2e0cd3-dea4-434d-9c26-dc3b4e9f4ce4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rose Festival : neuf nouveaux artistes annoncés pour l'édition 2026",
+    "image_url": "https://static.actu.fr/uploads/2024/12/toulouse-rose-festival-francis-cabrel-2024-toulouse-ambiance-credit-gk.jpg",
+    "file": "cluster_5b2e0cd3-dea4-434d-9c26-dc3b4e9f4ce4_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 720
+  },
+  {
+    "cluster_id": "cluster:be918bc7-214b-40e5-9b52-ecc4a2df1bdf",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Rose Festival 2026 : 5e édition au Meett, complet et inédit",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-07/rose-festival--odieuxboby-.jpg?h=4e67604f&itok=F4WSniyp",
+    "file": "cluster_be918bc7-214b-40e5-9b52-ecc4a2df1bdf_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

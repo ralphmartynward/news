@@ -7304,18 +7304,81 @@ BEGIN:VEVENT
 UID:cluster:be918bc7-214b-40e5-9b52-ecc4a2df1bdf@news.lavillerose.com
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260830
-SUMMARY:Rose Festival
-DESCRIPTION:Le Rose Festival fête sa cinquième édition au Meett de Toulo
- use du 27 au 29 août 2026\, avec une programmation XXL et de nombreuses n
- ouveautés. L'événement\, imaginé par les rappeurs toulousains Bigflo &
-  Oli et co-organisé avec Bleu Citron et La Dépêche du Midi\, est déjà
-  complet. Fait marquant : c'est la première édition à l'équilibre fina
- ncier\, une étape jugée plus précoce que prévu par le directeur géné
- ral Julien Chollet\, qui attribue ce succès au passage de quatre à trois
-  jours de festival. Le \n\nSource\: https://www.lessentiel.fr/newsletter/t
- oulouse/2026-08-24#48012
+SUMMARY:Rose Festival 2026
+DESCRIPTION:Le Rose Festival revient au Meett de Toulouse du 27 au 29 août
+  2026 pour sa cinquième édition\, déjà affichée complète. Imaginé p
+ ar Bigflo & Oli et co-organisé avec Bleu Citron et La Dépêche du Midi\,
+  l'événement marque cette année son premier équilibre financier\, une 
+ étape saluée par son directeur général Julien Chollet. Parmi les nouve
+ autés : un espace intérieur de 12 000 m² sur le thème d'une fête fora
+ ine (grande roue\, auto-tamponneuses\, château hanté)\, une nouvelle sc
+ ène Matécito dédiée aux ar\n\nSource\: https://www.lessentiel.fr/newsl
+ etter/toulouse/2026-08-24#48012
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-08-24#48012?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:dce52dd8-02d1-4e77-b1ac-a7ec16b33403@news.lavillerose.com
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Duo Aether
+DESCRIPTION:Le Duo Aether se produit à la Chapelle des Carmélites le jeud
+ i 27 août à 20h\, pour un concert mêlant musique classique\, jazz et at
+ mosphères féeriques. L'entrée est accessible à 5 €\, ce qui en fait 
+ une sortie culturelle abordable en fin d'été. La Chapelle des Carmélite
+ s\, écrin patrimonial du centre de Toulouse\, offre un cadre idéal pour 
+ ce type de programme intimiste. Peu de détails sur la composition du duo 
+ ou le répertoire exact sont disponibles dans la source.\n\nSource\: https
+ ://www.clutchmag.fr/evenements#2026-08-27-jeudi-27-ao-t-0
+URL:https://www.clutchmag.fr/evenements#2026-08-27-jeudi-27-ao-t-0?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:203fb602-5a80-451b-a460-fa4db3b231a3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Ultra Gama Jawlizer Moontrip
+DESCRIPTION:Ce vendredi 28 août\, la salle Interférence accueille une soi
+ rée hip-hop gratuite à partir de 17h. Trois artistes sont à l'affiche :
+  Ultra Gama\, Jawlizer et Moontrip. L'entrée est libre\, ce qui en fait u
+ n rendez-vous accessible à tous les amateurs du genre. Peu d'informations
+  supplémentaires sont disponibles sur le déroulé précis de la programm
+ ation ou le style de chaque artiste.\n\nSource\: https://www.clutchmag.fr/
+ evenements#2026-08-27-vendredi-28-ao-t-0
+LOCATION:salle Interférence accueille une soirée hip-hop grat\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-0?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2ed9b9e1-1e6c-43fb-90a7-046952d01b45@news.lavillerose.com
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Fête de la Chanson Politique
+DESCRIPTION:La Fête de la Chanson Politique se tient le vendredi 28 août 
+ à Mazères-sur-Salat (Haute-Garonne)\, à partir de 19h. L'événement pr
+ opose des concerts de chanson live à participation libre\, rendant la soi
+ rée accessible à tous les budgets. Le format « participation libre » t
+ émoigne d'une démarche militante et populaire\, cohérente avec la thém
+ atique politique du festival. Les habitants de la région toulousaine et l
+ es amateurs de chanson engagée sont particulièrement visés.\n\nSource\:
+  https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-2
+URL:https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-2?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8747bf05-7321-4743-8ff3-fce9581bb2bd@news.lavillerose.com
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:CUMA - Deeplodocus
+DESCRIPTION:Le groupe Deeplodocus\, trio au style electro-débranché\, se 
+ produit vendredi 28 août à Poucharramet (31) dans le cadre de la program
+ mation CUMA. Le concert est en entrée libre et débute à 19h. L'événem
+ ent se déroule dans un village rural de la grande couronne toulousaine\, 
+ proposant une sortie musicale accessible à tous. Peu de détails supplém
+ entaires sont disponibles sur le lieu précis ou l'organisateur.\n\nSource
+ \: https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-1
+URL:https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-1?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3e04c0f7-95d2-41d4-ad6f-7f353565992e@news.lavillerose.com
@@ -7338,6 +7401,295 @@ URL:https://actu.fr/occitanie/toulouse_31555/battles-de-danse-musiques-et-s
  a
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:07cac908-6af2-4db8-89d5-82f316bd5355@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Le canal au crépuscule
+DESCRIPTION:L'office de tourisme de Toulouse propose une sortie nature les 
+ 29 et 30 août 2026 le long des canaux\, à la tombée de la nuit. L'évé
+ nement invite les participants à partir à la rencontre de la faune noctu
+ rne qui peuple ces voies d'eau. La sortie se déroule au crépuscule\, mom
+ ent propice à l'observation d'espèces discrètes actives la nuit. Elle s
+ 'adresse à tous les curieux de nature urbaine souhaitant découvrir Toulo
+ use sous un angle insolite.\n\nSource\: https://cdt31.tourinsoft.com/Maili
+ ngElectroniqueUrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37a
+ d&url_id=afad427c-c83d-4a6a-a03b-219c986670ad
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=afad427c-c83d-4a6a-a03b-219c
+ 986670ad?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:10183314-94e1-44d1-a5e3-f62c623982d7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Rose Festival
+DESCRIPTION:Le Rose Festival se tiendra à Toulouse les 29 et 30 août 2026
+ \, promettant une ambiance festive mêlant grandes stars et sensations for
+ tes. L'événement est présenté par l'office du tourisme comme un rendez
+ -vous incontournable de la fin d'été toulousaine. Le format sur deux jou
+ rs suggère un festival de grande envergure\, bien que les détails sur le
+  lieu précis\, la programmation artistique et les tarifs ne soient pas en
+ core communiqués dans cet extrait. Les amateurs de musique et de festivit
+ és en ple\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrl
+ Tracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=4e9c43b3
+ -b0d9-4399-b2a2-3da995121ec3
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=4e9c43b3-b0d9-4399-b2a2-3da9
+ 95121ec3?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:15039238-3a85-4368-b3a3-c20c80692b47@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Green Pink ! Festival
+DESCRIPTION:Le Green Pink ! Festival se tient les 29 et 30 août 2026 et me
+ t à l'honneur les artistes émergents de la région Occitanie. L'événem
+ ent se distingue par une démarche éco-responsable\, plaçant la durabili
+ té au cœur de son organisation. Le festival s'adresse à tous ceux qui s
+ ouhaitent découvrir de nouvelles têtes de la scène locale dans un cadre
+  engagé. Les informations sur le lieu précis et la programmation complè
+ te ne sont pas encore détaillées dans la source disponible.\n\nSource\: 
+ https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=3
+ e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=4c4087a2-4878-42cc-ac4b-c305ffc
+ 5840b
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=4c4087a2-4878-42cc-ac4b-c305
+ ffc5840b?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:21ca16b5-fcd3-464f-b6ad-6749a936e0da@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Evil Grimace & A5KM
+DESCRIPTION:Le Bikini accueille une nuit de musiques électroniques radical
+ es le samedi 29 août\, avec Evil Grimace\, A5KM et Late Checkout à l'aff
+ iche. La soirée est programmée sous les étiquettes tekno\, frapcore et 
+ rave\, des genres qui ciblent un public habitué aux ambiances dures et im
+ mersives. Le départ est fixé à 23h55\, pour une nuit qui s'annonce long
+ ue. Les tarifs vont de 22\,70 à 32 €.\n\nSource\: https://www.clutchmag
+ .fr/evenements#2026-08-27-samedi-29-ao-t-2
+URL:https://www.clutchmag.fr/evenements#2026-08-27-samedi-29-ao-t-2?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:226ec597-43b3-41b8-9a4a-de7b1c756fec@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Before Back Festival
+DESCRIPTION:Le Before Back Festival se tient les 29 et 30 août 2026 à Tou
+ louse\, proposant deux journées dédiées à la culture hip-hop. Au progr
+ amme : battles de danse\, DJ sets et performances rythmées. L'événement
+  s'adresse aux amateurs de hip-hop et de danse urbaine sous toutes ses for
+ mes. L'extrait disponible reste succinct et ne précise ni le lieu exact\,
+  ni la billetterie\, ni les artistes attendus.\n\nSource\: https://cdt31.t
+ ourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=3e260b5a-23fd-40
+ f5-82ec-7d80132c37ad&url_id=01c8257a-3a2a-40ff-a1fd-222b42f318d9
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=01c8257a-3a2a-40ff-a1fd-222b
+ 42f318d9?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2f0dd384-ece1-40e5-8306-48ca7e6f231d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:À l'aube du soir
+DESCRIPTION:L'événement « À l'aube du soir » invite les Toulousains à
+  découvrir leur ville sous la lumière du soleil couchant\, les 29 et 30 
+ août 2026. L'occasion est donnée d'admirer les panoramas emblématiques 
+ de Toulouse baignés dans les teintes chaudes du crépuscule. Peu de déta
+ ils supplémentaires sont fournis par la source\, notamment sur les lieux 
+ précis ou le programme exact de ces deux soirées. L'initiative s'adresse
+  à tous ceux qui souhaitent redécouvrir la Ville Rose sous un angle poé
+ tique et visuel\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniq
+ ueUrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=ff7
+ 46a4b-3117-403a-acb8-bcc3664d4a89
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=ff746a4b-3117-403a-acb8-bcc3
+ 664d4a89?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3a9a4487-c775-4e4d-9fe0-49645d62a660@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Pool Party Les Siestes
+DESCRIPTION:Les Siestes Électroniques organisent une pool party à la pisc
+ ine Nakache les 29 et 30 août 2026. L'événement propose une immersion m
+ usicale électro dans un cadre aquatique inédit au cœur de Toulouse. La 
+ piscine Nakache\, monument Art déco emblématique\, devient ainsi le thé
+ âtre d'une expérience festive originale. L'événement s'adresse aux ama
+ teurs de musique électronique et aux fêtards toulousains en quête de so
+ rties estivales insolites.\n\nSource\: https://cdt31.tourinsoft.com/Mailin
+ gElectroniqueUrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad
+ &url_id=9e151675-cd62-4ab0-b35a-7218d2efeac2
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=9e151675-cd62-4ab0-b35a-7218
+ d2efeac2?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:403748bf-7a52-4190-9ad7-79139ad3afa8@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Karpouzi Mon Amour
+DESCRIPTION:Le groupe Bulgarock se produira à la Halle de La Machine le sa
+ medi 29 août dans le cadre de l'événement « Karpouzi Mon Amour ». Le 
+ concert est gratuit et débute à 19h. L'information provient d'une source
+  unique et l'extrait est très succinct\, sans détails supplémentaires s
+ ur le programme ou le contexte de l'événement. Les amateurs de musique a
+ ux sonorités bulgares ou balkanique sont les premiers concernés.\n\nSour
+ ce\: https://www.clutchmag.fr/evenements#2026-08-27-samedi-29-ao-t-0
+LOCATION:Halle de La Machine le samedi 29 août dans le cadre de\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-08-27-samedi-29-ao-t-0?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5b136a1a-523b-478e-b795-d82db4b74c97@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Pianomuses
+DESCRIPTION:Le festival Pianomuses se tient les 29 et 30 août 2026 à Toul
+ ouse\, proposant des concerts de musique classique interprétés sur instr
+ uments anciens. L'événement met à l'honneur des œuvres de Mozart et Ba
+ ch\, deux piliers du répertoire baroque et classique. Le cadre qualifié 
+ d'« exception » laisse entrevoir un lieu patrimonial ou intimiste\, sans
+  que les détails du site soient précisés dans l'extrait. Les amateurs d
+ e musique ancienne et de concert en atmosphère hors du commun sont partic
+ ulièrement v\n\nSource\: https://cdt31.tourinsoft.com/MailingElectronique
+ UrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=407a1
+ 682-61c7-451b-b5b9-87915b60e1ed
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=407a1682-61c7-451b-b5b9-8791
+ 5b60e1ed?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6f27544a-4692-4286-9cf9-2645ac5ebee2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Nuit de la chauve-souris
+DESCRIPTION:La Nuit de la chauve-souris se tient du 29 au 30 août 2026 à 
+ Toulouse\, offrant au public l'occasion d'observer ces mammifères nocturn
+ es au moment du crépuscule. L'événement invite les participants à déc
+ ouvrir les secrets et les comportements de ces animaux souvent méconnus. 
+ Il s'agit d'un rendez-vous annuel national de sensibilisation à la biodiv
+ ersité\, décliné localement par l'office de tourisme. L'activité s'adr
+ esse à un large public\, familles et curieux de nature inclus.\n\nSource\
+ : https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id
+ =3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=fa561f2f-2515-44e2-8fad-36865
+ 025a817
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=fa561f2f-2515-44e2-8fad-3686
+ 5025a817?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:760d2405-d4fe-484f-b998-5d77e0828bf8@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Sorties à Toulouse ce week-end du 29 et 30 août
+DESCRIPTION:Actu Toulouse propose une sélection de sorties pour le dernier
+  week-end avant la rentrée\, les 29 et 30 août 2026. Le Rose Festival\, 
+ initié par Bigflo & Oli\, est l'événement phare : il se tient jusqu'au 
+ samedi au MEETT avec DJ Snake\, Médine\, Zaho et de nombreux autres artis
+ tes. Le vendredi 28 août\, le Muséum accueille la Nuit de la chauve-sour
+ is dès 20h\, avec conférence ludique et balade nocturne dans le Jardin d
+ es plantes. Le dimanche 30 août\, une pool party animée par des DJs est 
+ prévue à la pi\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pool
+ -party-concerts-fete-locale-feu-d-artifice-que-faire-a-toulouse-et-aux-ale
+ ntours-en-cette-fin-de-semaine_64707093.html
+URL:https://actu.fr/occitanie/toulouse_31555/pool-party-concerts-fete-local
+ e-feu-d-artifice-que-faire-a-toulouse-et-aux-alentours-en-cette-fin-de-sem
+ aine_64707093.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7e139474-2336-4e95-96ad-d16a5db119ea@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Guinguette aux Jacobins
+DESCRIPTION:Les 29 et 30 août 2026\, le Couvent des Jacobins accueille une
+  guinguette musicale et gourmande en plein cœur de Toulouse. L'événemen
+ t propose une atmosphère festive alliant musique et restauration dans ce 
+ cadre médiéval exceptionnel. Aucun détail supplémentaire sur la progra
+ mmation artistique ou les tarifs n'est fourni par la source. L'événement
+  s'adresse aux Toulousains et aux visiteurs souhaitant profiter d'un momen
+ t convivial en fin d'été.\n\nSource\: https://cdt31.tourinsoft.com/Maili
+ ngElectroniqueUrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37a
+ d&url_id=7a2a5b10-cae5-4d34-9d2e-375f61857dbf
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=7a2a5b10-cae5-4d34-9d2e-375f
+ 61857dbf?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:aaa39a0d-7391-40ca-92ca-6692af671ed6@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Festival Rassemblées
+DESCRIPTION:Le Festival Rassemblées se tient les 29 et 30 août 2026 à To
+ ulouse\, mettant à l'honneur les créations de jeunes artistes de la scè
+ ne théâtrale locale. L'événement constitue une vitrine pour les nouvel
+ les générations du théâtre toulousain. Le contenu disponible reste suc
+ cinct\, sans précision sur les lieux de représentation ni la programmati
+ on détaillée. Il s'adresse aux amateurs de théâtre souhaitant découvr
+ ir les talents émergents de la région.\n\nSource\: https://cdt31.tourins
+ oft.com/MailingElectroniqueUrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82e
+ c-7d80132c37ad&url_id=013f5f54-55ef-4d3d-bd08-f2c97a562d61
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=013f5f54-55ef-4d3d-bd08-f2c9
+ 7a562d61?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ac50c322-dcaf-4b83-bd40-f573e5c09dfc@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:MOHER
+DESCRIPTION:Le groupe MOHER se produit à L'Éphémère Guinguette de Lacro
+ ix-Falgarde le samedi 29 août à partir de 21h. La soirée est entièreme
+ nt gratuite\, ce qui en fait une belle opportunité pour découvrir la mus
+ ique celtique en bord de nature. L'Éphémère Guinguette est un lieu asso
+ ciatif apprécié du sud toulousain\, propice aux soirées conviviales en 
+ plein air. L'événement s'adresse à tous les amateurs de musique folk et
+  celtique de la région.\n\nSource\: https://www.clutchmag.fr/evenements#2
+ 026-08-27-samedi-29-ao-t-1
+URL:https://www.clutchmag.fr/evenements#2026-08-27-samedi-29-ao-t-1?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:db8a4c99-94c5-4416-a416-54a1103c1ce7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Visite famille Résistance
+DESCRIPTION:Les 29 et 30 août 2026\, les familles sont invitées à décou
+ vrir le Monument de la Résistance de Toulouse à travers une visite guid
+ ée dédiée. L'activité promet de révéler les symboles et les secrets 
+ de ce lieu commémoratif hors du commun. Le format familial suggère une m
+ édiation adaptée aux enfants comme aux adultes\, pour aborder l'histoire
+  de la Résistance de manière accessible. L'événement s'adresse à tous
+  les Toulousains et visiteurs souhaitant explorer ce patrimoine mémoriel 
+ souvent méconnu.\n\nSource\: https://cdt31.tourinsoft.com/MailingElectron
+ iqueUrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=0
+ d02e8b8-9822-43a2-a084-69b9e2217359
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=0d02e8b8-9822-43a2-a084-69b9
+ e2217359?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e951d499-8acd-4655-a8bd-38fcbeac17e5@news.lavillerose.com
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Capitaine Frimousse
+DESCRIPTION:Le spectacle « Les aventures de Capitaine Frimousse » est pro
+ posé les 29 et 30 août 2026 à Toulouse. Il s'agit d'une aventure fantas
+ tique destinée aux familles\, embarquant petits et grands avec le personn
+ age du Capitaine Frimousse. L'événement est relayé par l'Office de Tour
+ isme de Toulouse\, ce qui laisse supposer qu'il s'inscrit dans la programm
+ ation estivale locale. Les détails pratiques tels que le lieu exact\, les
+  horaires et le tarif ne sont pas précisés dans l'extrait disponible.\n\
+ nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?
+ email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=7a654377-d312-4c2a-90
+ c1-2b4fd29b306d
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=7a654377-d312-4c2a-90c1-2b4f
+ d29b306d?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:a343c9b6-7791-4e0b-b26b-0d4c5335f384@news.lavillerose.com
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
@@ -7355,6 +7707,69 @@ DESCRIPTION:Le dimanche 30 août\, les Siestes Électroniques investissent
 URL:https://www.toulouscope.fr/2026/08/24/a-toulouse-les-siestes-organisent
  -une-pool-party-geante-a-la-piscine-nakache-13515620.php?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:71931931-5b28-4b0a-ac19-f214aab24461@news.lavillerose.com
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Cuarteto Tafi
+DESCRIPTION:Le Cuarteto Tafi se produit à L'Éphémère Guinguette de Lacr
+ oix-Falgarde le dimanche 30 août à partir de 18h30. Le groupe propose un
+  concert de musique argentine dans ce cadre convivial en bord de rivière.
+  L'entrée est gratuite\, ce qui en fait une sortie accessible à tous les
+  amateurs de sonorités sud-américaines. Un bel événement de fin d'ét
+ é pour les habitants de Toulouse et des environs.\n\nSource\: https://www
+ .clutchmag.fr/evenements#2026-08-27-dimanche-30-ao-t-1
+URL:https://www.clutchmag.fr/evenements#2026-08-27-dimanche-30-ao-t-1?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9f6d0f45-c307-4bb1-a459-578316a93b93@news.lavillerose.com
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Jam Session Pirouette
+DESCRIPTION:Une jam session est organisée au bar Pirouette à Toulouse le 
+ dimanche 30 août\, à partir de 20h. L'entrée est gratuite. Ce type de s
+ oirée musicale improvisée est ouvert à tous\, musiciens comme spectateu
+ rs. Peu de détails supplémentaires sont disponibles dans la source.\n\nS
+ ource\: https://www.clutchmag.fr/evenements#2026-08-27-dimanche-30-ao-t-2
+URL:https://www.clutchmag.fr/evenements#2026-08-27-dimanche-30-ao-t-2?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c003b397-763e-422e-94ad-0c23e67739a5@news.lavillerose.com
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Dimanche Electro #17
+DESCRIPTION:Le Dimanche Electro revient pour sa 17e édition le dimanche 30
+  août à Toulouse\, sous l'enseigne La Onda. La soirée réunit trois art
+ istes — Luca Bariani\, H3donist et Shøu — pour un programme house et 
+ techno. Le rendez-vous se tient à Frankie la nuit / N8 à partir de 15h\,
+  avec une participation libre. Une belle occasion pour les amateurs de mus
+ ique électronique de profiter d'une après-midi dansante sans contrainte 
+ financière.\n\nSource\: https://www.clutchmag.fr/evenements#2026-08-27-di
+ manche-30-ao-t-0
+URL:https://www.clutchmag.fr/evenements#2026-08-27-dimanche-30-ao-t-0?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c5772cf6-49a0-4d39-85b4-49c09e333031@news.lavillerose.com
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Futur Vegan Experience
+DESCRIPTION:L'association Futur Vegan Experience organise un pique-nique en
+ tièrement végan le dimanche 30 août 2026 à 13 h\, à la Prairie des fi
+ ltres à Toulouse. Le principe est participatif : chaque convive apporte u
+ ne préparation 100 % végétale — plat salé ou dessert — à faire ci
+ rculer et partager avec les autres participants. L'événement se veut con
+ vivial et festif\, mêlant dégustation\, échanges et jeux. Il est ouvert
+  à tous — vegans convaincus\, personnes en transition ou simples curieu
+ x — sans condition d\n\nSource\: https://actu.fr/occitanie/toulouse_3155
+ 5/un-moment-profondement-convivial-un-pique-nique-100-vegan-organise-a-tou
+ louse-ce-dimanche_64712392.html
+URL:https://actu.fr/occitanie/toulouse_31555/un-moment-profondement-convivi
+ al-un-pique-nique-100-vegan-organise-a-toulouse-ce-dimanche_64712392.html?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5aea2371-d34d-46a9-a27f-77a9fc1e28a7@news.lavillerose.com
@@ -7395,6 +7810,46 @@ DESCRIPTION:Le 144 Dance Studio\, école de danse toulousaine\, ouvre sa re
 URL:https://www.toulouscope.fr/2026/08/20/a-toulouse-ce-studio-de-danse-ouv
  re-sa-rentree-avec-deux-semaines-de-cours-dessai-gratuits-13461631.php?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4d213434-5a5b-4f5a-b9ee-e6fb592a9e7c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Présentation du Bouclier de Brennus
+DESCRIPTION:Plus de deux mois après leur 25e titre de champion de France\,
+  les joueurs du Stade Toulousain présenteront officiellement le Bouclier 
+ de Brennus à leurs supporters le mercredi 2 septembre à Ernest-Wallon. L
+ a cérémonie avait été annulée le soir de la finale du 28 juin en rais
+ on d'un risque d'orages violents\, privant les fans du traditionnel balcon
+  du Capitole. L'après-midi sera bien remplie : ouverture des portes à 15
+ h avec food-trucks et animations\, séance de dédicaces de 15h30 à 16h20
+ \, puis ent\n\nSource\: https://actu.fr/occitanie/toulouse_31555/plus-de-d
+ eux-mois-apres-la-finale-du-top-14-le-stade-toulousain-va-enfin-presenter-
+ le-bouclier-de-brennus-a-ses-fans_64713482.html
+LOCATION:Stade Toulousain présenteront officiellement le Bouc\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/plus-de-deux-mois-apres-la-fin
+ ale-du-top-14-le-stade-toulousain-va-enfin-presenter-le-bouclier-de-brennu
+ s-a-ses-fans_64713482.html?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:99c4e3be-9f8d-4b64-bf6b-bd8105e68a92@news.lavillerose.com
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+SUMMARY:Salon Auto-Moto Classic
+DESCRIPTION:Pour sa 9e édition\, le Salon Auto-Moto Classic investit le ME
+ ETT du 4 au 6 septembre avec plus de 2 500 véhicules de collection expos
+ és sur sept halls. Au programme : une vente aux enchères\, un grand rass
+ emblement de voitures américaines et des expositions thématiques autour 
+ de la Route 66 (qui fête son centenaire) et de la Nationale 7. Le salon m
+ arquera aussi plusieurs anniversaires emblématiques\, dont les 110 ans de
+  BMW\, les 80 ans de la Coccinelle Volkswagen\, et présentera une sélect
+ ion dédié\n\nSource\: https://www.toulouscope.fr/2026/08/26/le-plus-gran
+ d-rendez-vous-des-voitures-de-collection-revient-a-toulouse-avec-2-500-veh
+ icules-exposes-13472723.php
+URL:https://www.toulouscope.fr/2026/08/26/le-plus-grand-rendez-vous-des-voi
+ tures-de-collection-revient-a-toulouse-avec-2-500-vehicules-exposes-134727
+ 23.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:745625bd-460d-4d2a-bd18-5d4ba20609ea@news.lavillerose.com
@@ -7575,17 +8030,18 @@ BEGIN:VEVENT
 UID:cluster:ef66e193-bcc9-48ed-891d-d0a5b82cbbf6@news.lavillerose.com
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:Concert Patrick Bruel Toulouse
-DESCRIPTION:Patrick Bruel doit se produire au Zénith de Toulouse le 4 nove
- mbre prochain\, dans le cadre d'une tournée de 35 dates. Alors que plusie
- urs maires français — dont ceux de Dijon\, Montpellier\, Chartres et Ca
- en — ont exprimé leur opposition à la venue du chanteur dans leur vill
- e\, le maire de Toulouse Jean-Luc Moudenc adopte une position différente 
- : il refuse de demander l'annulation du concert\, estimant que la mairie n
- e peut pas se substituer à la justice. Patrick Bruel est mis en examen de
- puis mi-j\n\nSource\: https://actu.fr/occitanie/toulouse_31555/concert-de-
- patrick-bruel-a-toulouse-pour-jean-luc-moudenc-la-mairie-ne-peut-pas-se-su
- bstituer-a-la-justice_64699020.html
+SUMMARY:Concert de Patrick Bruel au Zénith : Moudenc refuse d'intervenir\,
+  l'opposition s'insurge
+DESCRIPTION:Patrick Bruel\, mis en examen pour violences sexuelles et plac
+ é sous contrôle judiciaire\, doit se produire au Zénith de Toulouse le 
+ 4 novembre prochain dans le cadre de sa tournée des 35 ans. Plusieurs mai
+ res français (Montpellier\, Dijon\, Chartres\, Caen) ont exprimé leur op
+ position à sa venue dans leurs villes respectives\, mais le maire de Toul
+ ouse Jean-Luc Moudenc adopte une position différente : il refuse de deman
+ der l'annulation du concert\, estimant que « la mairie ne peut pas se sub
+ stituer à \n\nSource\: https://actu.fr/occitanie/toulouse_31555/concert-d
+ e-patrick-bruel-a-toulouse-pour-jean-luc-moudenc-la-mairie-ne-peut-pas-se-
+ substituer-a-la-justice_64699020.html
 URL:https://actu.fr/occitanie/toulouse_31555/concert-de-patrick-bruel-a-tou
  louse-pour-jean-luc-moudenc-la-mairie-ne-peut-pas-se-substituer-a-la-justi
  ce_64699020.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse

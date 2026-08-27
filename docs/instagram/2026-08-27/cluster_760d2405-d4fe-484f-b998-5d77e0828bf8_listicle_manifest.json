@@ -1,0 +1,42 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:760d2405-d4fe-484f-b998-5d77e0828bf8",
+  "title": "Sorties à Toulouse ce week-end du 29 et 30 août",
+  "ig_caption": "Dernier week-end avant la rentrée, profitez-en !\nRose Festival, pool party, chauves-souris au Muséum\nConcerts, DJ sets et balades nocturnes à Toulouse",
+  "ig_caption_long": "Le dernier week-end avant la rentrée est loin d'être tranquille à Toulouse ! Le Rose Festival au MEETT réunit DJ Snake, Médine, Zaho et des dizaines d'artistes jusqu'au samedi 29 août — l'événement incontournable de la fin août. Le vendredi soir, cap sur le Muséum pour la Nuit de la chauve-souris : conférence interactive et balade nocturne dans le Jardin des plantes dès 20h. Le dimanche, la piscine Nakache se transforme en pool party de 13h à 19h, avec DJ sets au bord des bassins. Et si vous cherchez des découvertes musicales, le Green Pink ! Festival célèbre les talents émergents jusqu'au 29 août. De quoi profiter à fond de ces dernières heures de liberté estivale !",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"weekendtoulouse\", \"rosefestival\", \"bigfloetoli\", \"MEETT\", \"djsnake\", \"festivalToulouse\", \"poolparty\", \"piscinenakache\", \"nuitdelachauvesouris\", \"museumtoulouse\", \"jardindlesplantes\", \"greenpinkfestival\", \"musiqueemergente\", \"concertstoulouse\", \"rentree2026\", \"sortirestoulouse\", \"toulousebynight\", \"ecoresponsable\", \"festivalmusique\", \"toulouselife\"]",
+  "ig_mention": null,
+  "venue": "MEETT",
+  "slides": [
+    {
+      "file": "cluster_760d2405-d4fe-484f-b998-5d77e0828bf8_listicle_cover.jpg",
+      "type": "cover",
+      "img_width": 1024,
+      "img_height": 768
+    },
+    {
+      "file": "cluster_760d2405-d4fe-484f-b998-5d77e0828bf8_listicle_01.jpg",
+      "type": "item",
+      "title": "Rose Festival",
+      "location": "MEETT, Toulouse",
+      "img_width": 960,
+      "img_height": 640
+    },
+    {
+      "file": "cluster_760d2405-d4fe-484f-b998-5d77e0828bf8_listicle_02.jpg",
+      "type": "item",
+      "title": "Nuit de la chauve-souris",
+      "location": "Muséum de Toulouse, Jardin des plantes",
+      "img_width": 791,
+      "img_height": 640
+    },
+    {
+      "file": "cluster_760d2405-d4fe-484f-b998-5d77e0828bf8_listicle_03.jpg",
+      "type": "item",
+      "title": "Green Pink ! Festival",
+      "location": "Maison de l'environnement, Toulouse",
+      "img_width": 960,
+      "img_height": 640
+    }
+  ]
+}
