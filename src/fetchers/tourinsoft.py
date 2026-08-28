@@ -18,7 +18,10 @@ USER_AGENT = (
 )
 REQUEST_TIMEOUT_S = 20
 CRAWL_DELAY_S = 20  # respect toulouse-tourisme.com robots.txt crawl-delay
-MAX_CHANGED_PER_RUN = 80  # safety valve: a lastmod-format change shouldn't trigger a 692-page crawl
+MAX_CHANGED_PER_RUN = 300  # safety valve: a lastmod-format change shouldn't trigger a 692-page crawl.
+# 300 * CRAWL_DELAY_S ~= 100 min added to the digest job while the initial
+# ~692-event backlog clears (about 3 daily runs); after that, daily deltas
+# are small and this cap is rarely hit.
 
 _LOC_RE = re.compile(r"<loc>\s*(.*?)\s*</loc>", re.S)
 _URL_BLOCK_RE = re.compile(r"<url>(.*?)</url>", re.S)
