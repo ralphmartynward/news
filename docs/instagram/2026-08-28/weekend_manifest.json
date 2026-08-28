@@ -1,0 +1,59 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-08-29",
+  "sunday": "2026-08-30",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:db8a4c99-94c5-4416-a416-54a1103c1ce7",
+      "title": "Visite en famille du Monument de la Résistance à Toulouse",
+      "img_width": 500,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e951d499-8acd-4655-a8bd-38fcbeac17e5",
+      "title": "Les aventures de Capitaine Frimousse en famille à Toulouse",
+      "img_width": 500,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c5772cf6-49a0-4d39-85b4-49c09e333031",
+      "title": "Pique-nique 100 % végan à la Prairie des filtres ce dimanche",
+      "img_width": 1280,
+      "img_height": 854
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:226ec597-43b3-41b8-9a4a-de7b1c756fec",
+      "title": "Le Before Back Festival hip-hop revient pour une troisième édition à Toulouse",
+      "img_width": 500,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:7e139474-2336-4e95-96ad-d16a5db119ea",
+      "title": "Guinguette estivale musicale et gourmande au Couvent des Jacobins",
+      "img_width": 500,
+      "img_height": 500
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:760d2405-d4fe-484f-b998-5d77e0828bf8",
+      "title": "Sélection de sorties à Toulouse pour ce week-end de fin août",
+      "img_width": 1024,
+      "img_height": 768
+    }
+  ]
+}

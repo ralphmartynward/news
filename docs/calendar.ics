@@ -9,6 +9,23 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:cluster:7d5e44a0-c5a0-4952-af46-7e01471114e6@news.lavillerose.com
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Toulouse Polars du Sud
+DESCRIPTION:Le festival international des littératures noires et policièr
+ es Toulouse Polars du Sud revient cette année avec une quarantaine d'aute
+ urs français et étrangers. L'édition est parrainée par l'autrice fran
+ çaise Valentine Imhof et l'auteur britannique Abir Mukherjee. Le festival
+  rayonne bien au-delà de son site principal du Forum de la Renaissance à
+  Basso Cambo : une semaine hors-les-murs mobilise plus de 70 sites en Occi
+ tanie\, avec projections\, lectures\, stages d'écriture et rencontres dan
+ s médiat\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-po
+ lars-du-sud/
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-polars-du-sud/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -42,6 +59,41 @@ DESCRIPTION:Le Club Mars de l'ISAE-Supaero envoie chaque année un équipag
  e/2026-06-24#44488
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-24#44488?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3308be04-d0a0-4863-ad8c-0677632705bc@news.lavillerose.com
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Great Monuments of Toulouse
+DESCRIPTION:The Toulouse Tourist Office offers a guided walking tour throug
+ h the city's most iconic landmarks\, including the Capitole square and its
+  Town Hall\, the banks of the Garonne\, the Gothic Couvent des Jacobins\, 
+ and the courtyard of Hôtel d'Assézat. The tour is designed to suit visit
+ ors staying for any length of time\, blending history\, photography opport
+ unities and a light-hearted atmosphere. Guides may adjust the route depend
+ ing on weather or local events. Participants visiting the Saint-Sernin Bas
+ i\n\nSource\: https://www.toulouse-tourisme.com/agenda/great-monuments-of-
+ toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/great-monuments-of-toulouse/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:aa6a9234-f0b9-4b6e-8e27-e50d47659ac8@news.lavillerose.com
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Les musées et monuments de Toulouse ouverts gratuitement ce dimanc
+ he
+DESCRIPTION:Le dimanche 5 avril 2026\, huit musées et monuments toulousain
+ s ouvrent leurs portes gratuitement au public. Sont concernés le Cloître
+  des Jacobins\, le musée des Abattoirs\, le musée des Augustins\, le Mus
+ éum d'Histoire Naturelle\, le Quai des Savoirs\, le musée Paul Dupuy\, l
+ e Château d'eau et la Chapelle Saint-Joseph de la Grave. Seules les expos
+ itions permanentes bénéficient de la gratuité — les expositions tempo
+ raires restent payantes. À noter : le musée Georges-Labit et le musée S
+ aint-Raymond son\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-
+ musees-et-monuments-sont-gratuits/
+URL:https://www.toulouse-tourisme.com/agenda/les-musees-et-monuments-sont-g
+ ratuits/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:201d417e-4767-4e2f-a3bc-e677196df144@news.lavillerose.com
@@ -2579,6 +2631,24 @@ URL:https://www.toulouscope.fr/2026/06/18/a-toulouse-la-piste-des-geants-se
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:66f19105-4229-46a4-bde1-dbb70136a11c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Sophrovisite au Grand Rond
+DESCRIPTION:Le 13 juin 2026\, une Sophrovisite guidée est proposée dans l
+ es jardins historiques du quartier : Jardin royal\, Grand Rond\, Jardin de
+ s plantes et allées Jules Guesde. L'activité allie découverte culturell
+ e du patrimoine végétal et urbain toulousain avec la pratique de la Soph
+ rologie Caycédienne. Elle est animée par Carine\, sophrologue diplômée
+ \, et Sarah\, guide-conférencière\, formant un duo qui invite à renouve
+ ler son regard sur l'environnement. Ouverte aux débutants comme aux prati
+ quants confirmé\n\nSource\: https://www.toulouse-tourisme.com/agenda/soph
+ rovisite-au-grand-rond/
+LOCATION:jardins historiques du quartier : Jardin royal\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/sophrovisite-au-grand-rond/?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:79bd916c-ea39-4d13-aaef-694cf15011a5@news.lavillerose.com
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
@@ -4055,6 +4125,24 @@ URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  b7f359bb?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:0b7ca329-da55-4e96-9bd2-861dfeb857f6@news.lavillerose.com
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260705
+SUMMARY:Un Été au Bord du Lac
+DESCRIPTION:Les Centres culturels de l'ouest toulousain organisent « Un é
+ té au bord du lac » les 2\, 3 et 4 juillet 2026 à la base nautique et d
+ e loisirs du lac de la Reynerie. Au programme : activités nautiques (aqua
+ bike\, yoga-paddle\, jeux aquatiques)\, ateliers créatifs\, animations po
+ ur enfants et projections de films en plein air sur grand écran. L'ensemb
+ le des spectacles\, animations et ateliers est proposé gratuitement\, en 
+ famille ou entre amis. La base nautique reste ensuite ouverte du 4 juillet
+  au 29 ao\n\nSource\: https://www.toulouse-tourisme.com/agenda/un-ete-au-b
+ ord-du-lac/
+LOCATION:lac de la Reynerie\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/un-ete-au-bord-du-lac/?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:bfcbe71a-40c5-4d54-9b98-0445eb177125@news.lavillerose.com
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
@@ -4493,6 +4581,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/sable-fin-et-baignade-surveill
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c91523ae-be77-4615-bbba-ac9a27b501a1@news.lavillerose.com
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260831
+SUMMARY:Déjeuner des Petites Mécaniques
+DESCRIPTION:Cet été\, la Halle de la Machine propose « Le Déjeuner des 
+ Petites Mécaniques »\, une expérience gastronomique insolite au Minotau
+ re Café\, du 4 juillet au 30 août 2026. Le cadre est celui du restaurant
+  habillé en décor mécanique : le pain s'envole\, les assiettes arrivent
+  sur une roue\, le dessert tombe du ciel en musique — une mise en scène
+  aussi poétique qu'espiègle. Le menu de saison complet (mise en bouche\,
+  entrée\, plat\, fromage\, dessert\, café et verre de vin) est élaboré
+  par le Chef du Minotaur\n\nSource\: https://www.toulouse-tourisme.com/age
+ nda/le-dejeuner-des-petites-mecaniques/
+LOCATION:Halle de la Machine propose « Le Déjeuner des Petites M\, Toulou
+ se
+URL:https://www.toulouse-tourisme.com/agenda/le-dejeuner-des-petites-mecani
+ ques/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2f414461-2f0f-4e17-a2b9-8cbd3f569244@news.lavillerose.com
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
@@ -4556,6 +4663,24 @@ URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  551f73e3?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:e1d2bd89-5d18-4b16-8e6f-188bf06ca0c1@news.lavillerose.com
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Les Dimanches de Créateurs
+DESCRIPTION:Chaque dimanche\, la place Saint-Pierre accueille plus d'une qu
+ arantaine de créateurs pour un marché artisanal en bord de Garonne. On y
+  trouve des bijoux\, meubles\, articles de mode\, maroquinerie\, déco et 
+ articles pour enfants — autant de créations uniques à découvrir. L'é
+ vénement se tient dans l'un des lieux les plus emblématiques de Toulouse
+ \, idéalement situé pour une balade dominicale. Une occasion pour les To
+ ulousains de soutenir les artisans locaux tout en profitant du cadre de la
+  Garonne.\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-dimanch
+ es-de-createurs/
+LOCATION:place Saint-Pierre accueille plus d'une quarantaine\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-dimanches-de-createurs/?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:15b015fa-b714-4845-9f92-b1f79b066947@news.lavillerose.com
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20270101
@@ -4613,23 +4738,6 @@ LOCATION:Parc le mardi 7 juillet\, Toulouse
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=aa170484-9248-4940-b092-43997f3944b3&url_id=6408be64-1b8c-4af2-ac91-811c
  06971133?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:81d5bcaf-c9a0-485e-9b33-7dc33d4f3bc5@news.lavillerose.com
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260831
-SUMMARY:Forêt Magique
-DESCRIPTION:La Forêt Magique\, attraction éphémère créée par Terra Ex
- plora\, reprend du service pour les vacances d'été au domaine de Pontié
-  à Cornebarrieu. Elle propose cinq parcours de chasse au trésor adaptés
-  à tous les âges\, des tout-petits (dès 2 ans) jusqu'aux adultes\, avec
-  environ deux heures de déambulation en sous-bois. Parmi les nouveautés\
- , une enquête nocturne intitulée « Crimes et Sortilèges » est organis
- ée les mercredis et samedis soir. Le site est ouvert tous les jours jusqu
- 'au 30 août 2026\, au \n\nSource\: https://www.lessentiel.fr/newsletter/t
- oulouse/2026-07-07#45837
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-07#45837?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9f866a8d-b000-444b-989f-1199b107a31c@news.lavillerose.com
@@ -4757,6 +4865,25 @@ DESCRIPTION:Le Festival Pause Guitare célèbre son 30e anniversaire du 8 a
  -jeudi-9-juillet-0
 URL:https://www.clutchmag.fr/evenements#2026-07-09-jeudi-9-juillet-0?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7181fa8d-119a-479e-997a-7890c5ca4546@news.lavillerose.com
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260830
+SUMMARY:Cinéma en Plein Air
+DESCRIPTION:La Cinémathèque de Toulouse propose 44 films en plein air dur
+ ant 8 semaines\, du 8 juillet au 29 août 2026\, dans sa cour historique r
+ écemment rénovée. Les séances ont lieu du mercredi au dimanche\, à 22
+ h jusqu'au 9 août puis à 21h30 à partir du 11 août. Pour les amateurs 
+ de salle climatisée\, des reprises sont assurées au Pathé Wilson du lun
+ di au jeudi à 19h30. La réservation en ligne est fortement conseillée \
+ ; en cas de pluie\, les billets sont remboursables si la séance est annul
+ ée avant le début\,\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /cinema-en-plein-air-avec-la-cinematheque/
+LOCATION:salle climatisée\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/cinema-en-plein-air-avec-la-ci
+ nematheque/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0763d3a2-6cf6-4d62-a855-e5ab8ee0da09@news.lavillerose.com
@@ -4939,6 +5066,24 @@ DESCRIPTION:La Maison de la Terre accueille un bal afro-latino le vendredi
  -09-vendredi-10-juillet-2
 URL:https://www.clutchmag.fr/evenements#2026-07-09-vendredi-10-juillet-2?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ca2271b4-b44d-487a-80bf-75db9410283b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260830
+SUMMARY:Halle Night Long
+DESCRIPTION:Chaque vendredi et samedi soir de juillet à août\, la Halle d
+ e la Machine propose des concerts gratuits en plein air sur son parvis\, d
+ ans le cadre de la 6e édition de « Halle Night Long ». La programmation
+  est éclectique : rock\, soul\, électro\, pop\, rap\, funk\, tango argen
+ tin\, reggae groove\, country blues — de quoi satisfaire tous les goûts
+  musicaux. L'ambiance se veut festive et conviviale\, avec guinguette et b
+ rochettes sur place pour prolonger l'apéro jusqu'au coucher du soleil. En
+  complément\, le\n\nSource\: https://www.toulouse-tourisme.com/agenda/hal
+ le-night-long/
+LOCATION:Halle de la Machine propose des concerts gratuits en pl\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/halle-night-long/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:02a9fe43-9e66-48eb-bd56-73f8bc48cec2@news.lavillerose.com
@@ -5228,6 +5373,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/coupe-du-monde-2026-en-images-
  .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a77d1e62-10f4-4487-afbc-3a8bc802f01d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260907
+SUMMARY:Grande Roue Toulouse Plages
+DESCRIPTION:La Grande Roue fait son retour sur les quais de Toulouse dans l
+ e cadre de Toulouse Plages\, installée au Quai de l'Exil Républicain Esp
+ agnol. Du 14 juillet au 6 septembre 2026\, elle offre aux visiteurs une vu
+ e imprenable sur la Ville rose et la Garonne depuis les hauteurs. L'attrac
+ tion s'adresse aussi bien aux familles avec enfants qu'aux adultes en quê
+ te d'un panorama inédit sur Toulouse. C'est l'un des rendez-vous incontou
+ rnables de l'été sur les berges toulousaines.\n\nSource\: https://www.to
+ ulouse-tourisme.com/agenda/grande-roue/
+LOCATION:allée au Quai de l'Exil Républicain Espagnol\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/grande-roue/?utm_source=ical&u
+ tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:08d1efe7-fd06-43ad-afd1-87176325ca9d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260723
@@ -5285,6 +5447,23 @@ LOCATION:rues de Toulouse\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/des-centaines-d-artistes-venus
  -du-monde-entier-vont-dessiner-toulouse-sous-les-yeux-du-public_64534680.h
  tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:038a851c-4d74-41cc-8e29-112c99b6f1fe@news.lavillerose.com
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20261019
+SUMMARY:Toulouse les Orgues
+DESCRIPTION:Le festival international Toulouse les Orgues célèbre cette a
+ nnée ses trente ans\, réunissant pendant douze jours les plus grands org
+ anistes du monde entier dans les magnifiques lieux de culte toulousains. L
+ a programmation\, éclectique et soigneusement construite\, mêle réperto
+ ire baroque\, symphonique\, occitan et musiques expérimentales\, tout en 
+ accueillant aussi bien des artistes confirmés que des talents émergents.
+  En amont du festival (du 7 au 18 octobre 2026)\, des « Quartiers d'été
+  » proposent \n\nSource\: https://www.toulouse-tourisme.com/agenda/toulou
+ se-les-orgues/
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-les-orgues/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e940f68e-8fd9-4b9d-96e9-5008d4a74864@news.lavillerose.com
@@ -6228,6 +6407,24 @@ URL:https://www.toulouscope.fr/2026/07/31/cet-ete-ce-food-truck-sinstalle-d
  da
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ed242f79-6a28-471c-b168-6c065b695e50@news.lavillerose.com
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Sophrovisite Garonne - St-Cyprien
+DESCRIPTION:La Sophrovisite Garonne – St-Cyprien propose une balade guid
+ ée insolite combinant découverte culturelle du quartier Saint-Cyprien et
+  pratique de la sophrologie caycédienne. L'activité est animée par Cari
+ ne\, sophrologue diplômée\, et Sarah\, guide conférencière\, qui alter
+ nent exploration historique et exercices de pleine conscience au bord du f
+ leuve. Accessible aux débutants comme aux habitués de la sophrologie\, l
+ a séance se déroule en extérieur avec des moments assis au sol et debou
+ t. Elle peut êt\n\nSource\: https://www.toulouse-tourisme.com/agenda/soph
+ rovisite-garonne-st-cyprien/
+LOCATION:quartier Saint-Cyprien\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/sophrovisite-garonne-st-cyprie
+ n/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e7a6d01c-4891-4a88-869c-5f17a4eb858a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
@@ -6246,23 +6443,6 @@ LOCATION:parc ouvre ses portes\, Toulouse
 URL:https://www.toulouscope.fr/2026/07/11/pres-de-toulouse-ce-chateau-accue
  ille-lun-des-plus-grands-spectacles-pyrotechniques-du-gers-13457145.php?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:69f65298-14ad-495d-9965-6913a433a0b3@news.lavillerose.com
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260830
-SUMMARY:Notes d'été 31
-DESCRIPTION:La 28e édition du festival Notes d'été 31 se déroule du 1er
-  au 29 août en Haute-Garonne\, avec plus de 200 événements entièrement
-  gratuits. Au programme : 40 spectacles\, 14 expositions\, plus de 100 vis
- ites patrimoniales\, des rencontres avec des producteurs locaux\, des guin
- guettes et des concerts en soirée. La programmation mêle musique\, cirqu
- e\, théâtre\, danse et arts croisés\, composée à 95 % de structures a
- rtistiques de Haute-Garonne. Parmi les temps forts\, l'Orchestre de chambr
- e de Toulouse prop\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
- se/2026-07-27#47719
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-07-27#47719?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:20599769-63c6-4b16-ad89-2a5f97e5b790@news.lavillerose.com
@@ -6644,27 +6824,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/precarite-pour-la-rentree-les-
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:6588380f-ed2c-401c-b7b4-129266a25243@news.lavillerose.com
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260824
-SUMMARY:Village des Arts Africains
-DESCRIPTION:Pour sa 13e édition\, le Village des Arts Africains investit l
- es allées Jules-Guesde à Toulouse du 19 au 23 août 2026\, de 10h à 23h
- . Organisé par le festival Africlap autour du thème « Archipels Africai
- ns »\, l'événement est entièrement gratuit et ouvert à tous. Au progr
- amme : 8 concerts\, des séances de cinéma en plein air\, un marché arti
- sanal de plus de 30 exposants\, des expositions photos et peintures\, des 
- conférences\, rencontres littéraires et ateliers. Le concert d'ouverture
-  le 19 août mettra \n\nSource\: https://www.toulouscope.fr/2026/08/13/a-t
- oulouse-le-village-des-arts-africains-fait-son-retour-avec-cinq-jours-de-c
- oncerts-cinema-et-gastronomie-13487556.php
-LOCATION:allées Jules-Guesde\, Toulouse
-URL:https://www.toulouscope.fr/2026/08/13/a-toulouse-le-village-des-arts-af
- ricains-fait-son-retour-avec-cinq-jours-de-concerts-cinema-et-gastronomie-
- 13487556.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
- nda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:5c7f9525-18b6-4130-bd25-35673da5b39e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260919
@@ -6860,27 +7019,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/open-air-xxl-un-grand-rendez-v
  -agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:38165779-3c62-419a-b368-75aca9faa86b@news.lavillerose.com
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260823
-SUMMARY:Raymond Danse
-DESCRIPTION:Un nouveau festival baptisé Raymond Danse s'apprête à invest
- ir le jardin Raymond VI\, à côté des Abattoirs dans le quartier Saint-C
- yprien\, les vendredi 21 et samedi 22 août 2026. Porté par l'association
-  toulousaine Supplément Groove\, il mise sur le disco et la house avec co
- ncerts live\, DJ sets\, initiations à la danse et un village de créateur
- s. Près de 2 000 festivaliers par jour sont attendus dans ce lieu emblém
- atique. Le projet avait déjà été annulé deux fois — en 2024 pour ri
- sque de tempête\, e\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
- un-nouveau-festival-va-voir-le-jour-en-plein-coeur-de-toulouse-lieu-styles
- -musicaux-artistes-on-vous-dit-tout_64661629.html
-LOCATION:jardin Raymond VI\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/un-nouveau-festival-va-voir-le
- -jour-en-plein-coeur-de-toulouse-lieu-styles-musicaux-artistes-on-vous-dit
- -tout_64661629.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
- use-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:21679e1a-a6c1-4d02-ba92-aa95a535b607@news.lavillerose.com
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
@@ -6998,16 +7136,16 @@ UID:cluster:420a568b-10f3-4e7e-98e6-932b6dbae4db@news.lavillerose.com
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
 SUMMARY:Raymond Danse
-DESCRIPTION:L'événement Raymond Danse se tient les 22 et 23 août 2026 au
-  jardin Raymond VI\, à Toulouse. Les festivaliers sont invités à danser
-  au rythme du disco\, du funk et de la house dans ce cadre verdoyant en pl
- ein cœur de la ville. L'événement s'étale sur deux soirées consécuti
- ves\, proposant une programmation musicale festive et accessible. Il s'adr
- esse à tous les amateurs de musiques dansantes souhaitant profiter d'une 
- ambiance estivale en extérieur.\n\nSource\: https://cdt31.tourinsoft.com/
- MailingElectroniqueUrlTracker.ashx?email_id=6ba8e33a-c058-4a8e-b395-97dbe2
- a1fab7&url_id=b25ea351-0369-4520-b9e9-c19746bb64a0
-LOCATION:jardin Raymond VI\, Toulouse
+DESCRIPTION:L'événement Raymond Danse investit le jardin Raymond VI les 2
+ 2 et 23 août 2026 pour deux soirées dansantes en plein air. Au programme
+  : disco\, funk et house\, pour une expérience musicale estivale en plein
+ e nature urbaine. L'initiative s'adresse à tous les amateurs de danse et 
+ de musiques groove au cœur de Toulouse. Aucun détail sur les horaires\, 
+ la programmation précise ou l'accès n'est fourni dans la source disponib
+ le.\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker
+ .ashx?email_id=6ba8e33a-c058-4a8e-b395-97dbe2a1fab7&url_id=b25ea351-0369-4
+ 520-b9e9-c19746bb64a0
+LOCATION:jardin Raymond VI les 22\, Toulouse
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=6ba8e33a-c058-4a8e-b395-97dbe2a1fab7&url_id=b25ea351-0369-4520-b9e9-c197
  46bb64a0?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -7017,15 +7155,14 @@ UID:cluster:690e67b7-4a48-4f61-bea3-98b85633f566@news.lavillerose.com
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
 SUMMARY:31 Notes d'été
-DESCRIPTION:L'événement « 31 Notes d'été » se tient les 22 et 23 aoû
- t 2026 à Toulouse. Au programme : visites culturelles\, jazz festif et th
- éâtre citoyen\, pour une soirée riche en émotions selon l'office de to
- urisme. L'initiative mêle plusieurs formes artistiques accessibles au gra
- nd public. L'événement s'adresse à tous les amateurs de culture estival
- e souhaitant profiter des dernières semaines de l'été.\n\nSource\: http
- s://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=6ba8e
- 33a-c058-4a8e-b395-97dbe2a1fab7&url_id=8b2b3996-cd15-43df-ab67-4bc6ad401b2
- e
+DESCRIPTION:Le festival 31 Notes d'été se tient les 22 et 23 août 2026 
+ à Toulouse. Au programme : visites culturelles\, jazz festif et théâtre
+  citoyen pour une soirée riche en émotions. L'événement mêle plusieur
+ s disciplines artistiques sur deux jours\, s'adressant à un large public 
+ en quête de culture estivale. Les informations de lieu et de tarif ne son
+ t pas précisées dans la source disponible.\n\nSource\: https://cdt31.tou
+ rinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=6ba8e33a-c058-4a8e
+ -b395-97dbe2a1fab7&url_id=8b2b3996-cd15-43df-ab67-4bc6ad401b2e
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=6ba8e33a-c058-4a8e-b395-97dbe2a1fab7&url_id=8b2b3996-cd15-43df-ab67-4bc6
  ad401b2e?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -7035,16 +7172,16 @@ UID:cluster:716a2926-6d46-43ca-8582-9a46ac6d0a19@news.lavillerose.com
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
 SUMMARY:Village des arts Africain
-DESCRIPTION:Le Village des arts Africain se tient les 22 et 23 août 2026 
- à Toulouse\, proposant deux journées immersives autour des cultures afri
- caines. L'événement mêle concerts\, gastronomie\, arts et échanges dan
- s une ambiance festive. Organisé par l'office du tourisme de Toulouse\, i
- l s'adresse à tous les publics désireux de découvrir ou célébrer la r
- ichesse culturelle du continent africain. Les détails pratiques concernan
- t le lieu exact et les horaires ne sont pas précisés dans les informatio
- ns disponibles\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqu
- eUrlTracker.ashx?email_id=6ba8e33a-c058-4a8e-b395-97dbe2a1fab7&url_id=c970
- 644b-6b08-4acb-8a47-e99537b5f7f5
+DESCRIPTION:Le Village des arts Africain se tient à Toulouse les 22 et 23 
+ août 2026\, proposant un programme mêlant concerts\, gastronomie\, arts 
+ et rencontres. L'événement célèbre les cultures africaines à travers 
+ une programmation pluridisciplinaire. C'est une occasion pour le public to
+ ulousain de découvrir ou approfondir leur connaissance des traditions et 
+ expressions artistiques du continent africain. L'information provient de l
+ 'Office de tourisme de Toulouse\, sans précision sur le lieu exact ni le 
+ détail \n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrlTr
+ acker.ashx?email_id=6ba8e33a-c058-4a8e-b395-97dbe2a1fab7&url_id=c970644b-6
+ b08-4acb-8a47-e99537b5f7f5
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=6ba8e33a-c058-4a8e-b395-97dbe2a1fab7&url_id=c970644b-6b08-4acb-8a47-e995
  37b5f7f5?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -7092,13 +7229,14 @@ DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260824
 SUMMARY:La forêt magique
 DESCRIPTION:L'événement « La forêt magique » se tient les 22 et 23 ao
- ût 2026 à Toulouse. Il propose aux participants de se plonger dans un un
- ivers forestier peuplé d'énigmes\, de mystères et d'aventures. L'expér
- ience semble destinée à un public familial ou amateur de jeux en plein a
- ir. Les détails pratiques (lieu précis\, tarifs\, tranches d'âge) ne so
- nt pas précisés dans l'extrait disponible.\n\nSource\: https://cdt31.tou
- rinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=6ba8e33a-c058-4a8e
- -b395-97dbe2a1fab7&url_id=6c25c8ed-bc31-4fdd-aa7f-fac5b32ffa26
+ ût 2026 à Toulouse. Il invite le public à plonger dans un univers fores
+ tier immersif mêlant énigmes\, mystères et aventures. Le format sur deu
+ x jours laisse supposer une expérience ludique accessible aux familles et
+  aux curieux de toute tranche d'âge. Les détails pratiques — lieu pré
+ cis\, tarifs et horaires — ne sont pas précisés dans l'extrait disponi
+ ble.\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracke
+ r.ashx?email_id=6ba8e33a-c058-4a8e-b395-97dbe2a1fab7&url_id=6c25c8ed-bc31-
+ 4fdd-aa7f-fac5b32ffa26
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=6ba8e33a-c058-4a8e-b395-97dbe2a1fab7&url_id=6c25c8ed-bc31-4fdd-aa7f-fac5
  b32ffa26?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -7242,45 +7380,6 @@ URL:https://www.toulouscope.fr/2026/08/21/du-26-au-30-aout-un-festival-du-c
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:d18dae09-5e37-42cb-a613-01969306e063@news.lavillerose.com
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260830
-SUMMARY:Rose Festival 2026
-DESCRIPTION:Le Rose Festival\, créé par Bigflo et Oli et désormais rende
- z-vous incontournable des musiques actuelles dans la région toulousaine\,
-  a annoncé sept nouveaux noms pour son édition 2026 : El Grande Toto\, B
- ekar\, Meryl\, Eva\, Médine\, R2 et Jetlag. Le festival se tiendra du 27 
- au 29 août 2026 au Meett\, le parc des expositions de Toulouse Métropole
- . Ces ajouts complètent une affiche déjà très solide avec Aya Nakamura
- \, DJ Snake\, Macklemore et Charlotte Cardin en têtes d'affiche. Les orga
- nisateurs précise\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ro
- se-festival-bekar-medine-meryl-sept-nouveaux-artistes-rejoignent-la-progra
- mmation_64455885.html
-URL:https://actu.fr/occitanie/toulouse_31555/rose-festival-bekar-medine-mer
- yl-sept-nouveaux-artistes-rejoignent-la-programmation_64455885.html?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:5b2e0cd3-dea4-434d-9c26-dc3b4e9f4ce4@news.lavillerose.com
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260830
-SUMMARY:Rose Festival
-DESCRIPTION:Les organisateurs du Rose Festival ont dévoilé neuf nouveaux 
- noms pour la cinquième édition du festival toulousain\, qui se tiendra a
- u MEETT du 27 au 29 août. Parmi les ajouts figurent Lujipeka\, David McFl
- y et JHF pour le jeudi\, William NC et Milhan — récent lauréat du Trem
- plin — pour le vendredi\, ainsi que Triangle des Bermudes\, Kulturr\, Pe
- rsin Down et Odeza pour la soirée du samedi. Ces nouvelles têtes viennen
- t s'ajouter à des artistes déjà annoncés comme Aya Nakamura\, Macklemo
- re et DJ Snake\, p\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ro
- se-festival-lujipeka-david-mcfly-neuf-nouveaux-artistes-annonces-pour-la-p
- rochaine-edition-a-toulouse_64575770.html
-URL:https://actu.fr/occitanie/toulouse_31555/rose-festival-lujipeka-david-m
- cfly-neuf-nouveaux-artistes-annonces-pour-la-prochaine-edition-a-toulouse_
- 64575770.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
- enda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:47744b67-0b42-4b1c-92e6-c22d2c7d62b3@news.lavillerose.com
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260830
@@ -7301,19 +7400,21 @@ URL:https://actu.fr/occitanie/toulouse_31555/a-une-semaine-de-l-evenement-u
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:be918bc7-214b-40e5-9b52-ecc4a2df1bdf@news.lavillerose.com
+UID:cluster:10183314-94e1-44d1-a5e3-f62c623982d7@news.lavillerose.com
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260830
-SUMMARY:Rose Festival 2026
-DESCRIPTION:Le Rose Festival revient au Meett de Toulouse du 27 au 29 août
-  2026 pour sa cinquième édition\, déjà affichée complète. Imaginé p
- ar Bigflo & Oli et co-organisé avec Bleu Citron et La Dépêche du Midi\,
-  l'événement marque cette année son premier équilibre financier\, une 
- étape saluée par son directeur général Julien Chollet. Parmi les nouve
- autés : un espace intérieur de 12 000 m² sur le thème d'une fête fora
- ine (grande roue\, auto-tamponneuses\, château hanté)\, une nouvelle sc
- ène Matécito dédiée aux ar\n\nSource\: https://www.lessentiel.fr/newsl
- etter/toulouse/2026-08-24#48012
+SUMMARY:Rose Festival
+DESCRIPTION:Le Rose Festival fête sa cinquième édition au MEETT de Toulo
+ use du 27 au 29 août 2026\, avec une programmation renforcée et plusieur
+ s nouveautés majeures. Grande attraction de cette année : un espace int
+ érieur de 12 000 m² transformé en fête foraine XXL avec grande roue\, 
+ auto-tamponneuses et château hanté\, accessibles dès 1 €. Une nouvell
+ e scène\, la « Matécito »\, sera dédiée aux artistes émergents d'Oc
+ citanie\, tandis que la programmation affiche déjà des noms comme Aya Na
+ kamura\, DJ Snake\, Macklem\n\nSource\: https://www.lessentiel.fr/newslett
+ er/toulouse/2026-08-24#48012
+LOCATION:espace intérieur de 12 000 m² transformé en fête fora\, Toulou
+ se
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-08-24#48012?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -7366,6 +7467,46 @@ URL:https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-2?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:760d2405-d4fe-484f-b998-5d77e0828bf8@news.lavillerose.com
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+SUMMARY:Sélection de sorties à Toulouse pour ce week-end de fin août
+DESCRIPTION:Deux médias proposent leurs sélections de sorties pour le wee
+ k-end du 28–30 août 2026 à Toulouse\, à l'occasion du dernier week-en
+ d avant la rentrée. Le Rose Festival\, organisé par Bigflo & Oli\, est l
+ 'événement phare : 5e édition au MEETT\, avec plus de 50 artistes sur c
+ inq scènes\, du 27 au 29 août. Actu Toulouse complète sa liste avec la 
+ Nuit de la chauve-souris au Muséum (vendredi 28 août)\, une pool party 
+ à la piscine Nakache (dimanche 30 août\, 13h–19h) et le Green Pink ! F
+ estival. Toulouscope o\n\nSource\: https://actu.fr/occitanie/toulouse_3155
+ 5/pool-party-concerts-fete-locale-feu-d-artifice-que-faire-a-toulouse-et-a
+ ux-alentours-en-cette-fin-de-semaine_64707093.html
+URL:https://actu.fr/occitanie/toulouse_31555/pool-party-concerts-fete-local
+ e-feu-d-artifice-que-faire-a-toulouse-et-aux-alentours-en-cette-fin-de-sem
+ aine_64707093.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7e139474-2336-4e95-96ad-d16a5db119ea@news.lavillerose.com
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+SUMMARY:Guinguette aux Jacobins
+DESCRIPTION:Les 28\, 29 et 30 août 2026\, le Couvent des Jacobins se trans
+ forme en guinguette estivale\, mêlant musique live\, restauration et dét
+ ente. Le jardin du cloître accueille chaises longues et jeux de plateau e
+ n bois\, tandis que la salle capitulaire propose une découverte de la pro
+ grammation 360° des Monuments de la Ville de Toulouse. Un traiteur local 
+ assure la restauration et les boissons sur place. Le groupe « Gwen'N'Rose
+ s » anime la soirée avec un concert live aux sonorités irlandaises\, vi
+ olons et \n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrlT
+ racker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=7a2a5b10-
+ cae5-4d34-9d2e-375f61857dbf
+LOCATION:jardin du cloître accueille chaises longues\, Toulouse
+URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
+ d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=7a2a5b10-cae5-4d34-9d2e-375f
+ 61857dbf?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:8747bf05-7321-4743-8ff3-fce9581bb2bd@news.lavillerose.com
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
@@ -7379,26 +7520,6 @@ DESCRIPTION:Le groupe Deeplodocus\, trio au style electro-débranché\, se
  \: https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-1
 URL:https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-1?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:3e04c0f7-95d2-41d4-ad6f-7f353565992e@news.lavillerose.com
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:Before Back Festival
-DESCRIPTION:Les 29 et 30 août 2026\, Toulouse accueille la troisième édi
- tion du Before Back Festival\, dédié à la culture hip-hop. Le samedi 29
- \, le Flashback Café programme un workshop de freestyle (15h30–17h30\, 
- 10 €)\, suivi d'une battle en duo mêlant breakdance et danse debout\, p
- uis un DJ set hip-hop et RnB des années 90-2000 assuré par DJ Supa jusqu
- 'à 3h du matin (entrée libre\, participation libre). Le dimanche 30\, le
-  Jardin Raymond VI accueille un « Funky Sunday » avec des démonstration
- s du collectif Briga\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
- battles-de-danse-musiques-et-soirees-la-troisieme-edition-de-ce-festival-h
- ip-hop-debarque-a-toulouse_64672437.html
-URL:https://actu.fr/occitanie/toulouse_31555/battles-de-danse-musiques-et-s
- oirees-la-troisieme-edition-de-ce-festival-hip-hop-debarque-a-toulouse_646
- 72437.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
- a
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:07cac908-6af2-4db8-89d5-82f316bd5355@news.lavillerose.com
@@ -7417,25 +7538,6 @@ DESCRIPTION:L'office de tourisme de Toulouse propose une sortie nature les
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=afad427c-c83d-4a6a-a03b-219c
  986670ad?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:10183314-94e1-44d1-a5e3-f62c623982d7@news.lavillerose.com
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:Rose Festival
-DESCRIPTION:Le Rose Festival se tiendra à Toulouse les 29 et 30 août 2026
- \, promettant une ambiance festive mêlant grandes stars et sensations for
- tes. L'événement est présenté par l'office du tourisme comme un rendez
- -vous incontournable de la fin d'été toulousaine. Le format sur deux jou
- rs suggère un festival de grande envergure\, bien que les détails sur le
-  lieu précis\, la programmation artistique et les tarifs ne soient pas en
- core communiqués dans cet extrait. Les amateurs de musique et de festivit
- és en ple\n\nSource\: https://cdt31.tourinsoft.com/MailingElectroniqueUrl
- Tracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=4e9c43b3
- -b0d9-4399-b2a2-3da995121ec3
-URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
- d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=4e9c43b3-b0d9-4399-b2a2-3da9
- 95121ec3?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:15039238-3a85-4368-b3a3-c20c80692b47@news.lavillerose.com
@@ -7476,17 +7578,20 @@ UID:cluster:226ec597-43b3-41b8-9a4a-de7b1c756fec@news.lavillerose.com
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
 SUMMARY:Before Back Festival
-DESCRIPTION:Le Before Back Festival se tient les 29 et 30 août 2026 à Tou
- louse\, proposant deux journées dédiées à la culture hip-hop. Au progr
- amme : battles de danse\, DJ sets et performances rythmées. L'événement
-  s'adresse aux amateurs de hip-hop et de danse urbaine sous toutes ses for
- mes. L'extrait disponible reste succinct et ne précise ni le lieu exact\,
-  ni la billetterie\, ni les artistes attendus.\n\nSource\: https://cdt31.t
- ourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=3e260b5a-23fd-40
- f5-82ec-7d80132c37ad&url_id=01c8257a-3a2a-40ff-a1fd-222b42f318d9
-URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
- d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=01c8257a-3a2a-40ff-a1fd-222b
- 42f318d9?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Le Before Back Festival célèbre sa troisième édition les 29
+  et 30 août 2026 à Toulouse\, mêlant battles de danse\, workshops\, DJ 
+ sets et démonstrations. Le samedi 29 août se déroule au Flashback Café
+  avec un atelier hip-hop freestyle (10 €)\, une battle opposant Bboys/Bg
+ irls et danseurs debout\, puis une soirée DJ set années 90-2000 avec DJ 
+ Supa jusqu'à 3h du matin (entrée libre\, participation libre). Le dimanc
+ he 30 août se tient au Jardin Raymond VI pour un « Funky Sunday »\, ave
+ c des démonstrations\n\nSource\: https://actu.fr/occitanie/toulouse_31555
+ /battles-de-danse-musiques-et-soirees-la-troisieme-edition-de-ce-festival-
+ hip-hop-debarque-a-toulouse_64672437.html
+URL:https://actu.fr/occitanie/toulouse_31555/battles-de-danse-musiques-et-s
+ oirees-la-troisieme-edition-de-ce-festival-hip-hop-debarque-a-toulouse_646
+ 72437.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2f0dd384-ece1-40e5-8306-48ca7e6f231d@news.lavillerose.com
@@ -7506,24 +7611,6 @@ DESCRIPTION:L'événement « À l'aube du soir » invite les Toulousains à
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=ff746a4b-3117-403a-acb8-bcc3
  664d4a89?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:3a9a4487-c775-4e4d-9fe0-49645d62a660@news.lavillerose.com
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:Pool Party Les Siestes
-DESCRIPTION:Les Siestes Électroniques organisent une pool party à la pisc
- ine Nakache les 29 et 30 août 2026. L'événement propose une immersion m
- usicale électro dans un cadre aquatique inédit au cœur de Toulouse. La 
- piscine Nakache\, monument Art déco emblématique\, devient ainsi le thé
- âtre d'une expérience festive originale. L'événement s'adresse aux ama
- teurs de musique électronique et aux fêtards toulousains en quête de so
- rties estivales insolites.\n\nSource\: https://cdt31.tourinsoft.com/Mailin
- gElectroniqueUrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37ad
- &url_id=9e151675-cd62-4ab0-b35a-7218d2efeac2
-URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
- d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=9e151675-cd62-4ab0-b35a-7218
- d2efeac2?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:403748bf-7a52-4190-9ad7-79139ad3afa8@news.lavillerose.com
@@ -7578,44 +7665,6 @@ DESCRIPTION:La Nuit de la chauve-souris se tient du 29 au 30 août 2026 à
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=fa561f2f-2515-44e2-8fad-3686
  5025a817?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:760d2405-d4fe-484f-b998-5d77e0828bf8@news.lavillerose.com
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:Sorties à Toulouse ce week-end du 29 et 30 août
-DESCRIPTION:Actu Toulouse propose une sélection de sorties pour le dernier
-  week-end avant la rentrée\, les 29 et 30 août 2026. Le Rose Festival\, 
- initié par Bigflo & Oli\, est l'événement phare : il se tient jusqu'au 
- samedi au MEETT avec DJ Snake\, Médine\, Zaho et de nombreux autres artis
- tes. Le vendredi 28 août\, le Muséum accueille la Nuit de la chauve-sour
- is dès 20h\, avec conférence ludique et balade nocturne dans le Jardin d
- es plantes. Le dimanche 30 août\, une pool party animée par des DJs est 
- prévue à la pi\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pool
- -party-concerts-fete-locale-feu-d-artifice-que-faire-a-toulouse-et-aux-ale
- ntours-en-cette-fin-de-semaine_64707093.html
-URL:https://actu.fr/occitanie/toulouse_31555/pool-party-concerts-fete-local
- e-feu-d-artifice-que-faire-a-toulouse-et-aux-alentours-en-cette-fin-de-sem
- aine_64707093.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
- se-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:7e139474-2336-4e95-96ad-d16a5db119ea@news.lavillerose.com
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:Guinguette aux Jacobins
-DESCRIPTION:Les 29 et 30 août 2026\, le Couvent des Jacobins accueille une
-  guinguette musicale et gourmande en plein cœur de Toulouse. L'événemen
- t propose une atmosphère festive alliant musique et restauration dans ce 
- cadre médiéval exceptionnel. Aucun détail supplémentaire sur la progra
- mmation artistique ou les tarifs n'est fourni par la source. L'événement
-  s'adresse aux Toulousains et aux visiteurs souhaitant profiter d'un momen
- t convivial en fin d'été.\n\nSource\: https://cdt31.tourinsoft.com/Maili
- ngElectroniqueUrlTracker.ashx?email_id=3e260b5a-23fd-40f5-82ec-7d80132c37a
- d&url_id=7a2a5b10-cae5-4d34-9d2e-375f61857dbf
-URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
- d=3e260b5a-23fd-40f5-82ec-7d80132c37ad&url_id=7a2a5b10-cae5-4d34-9d2e-375f
- 61857dbf?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:aaa39a0d-7391-40ca-92ca-6692af671ed6@news.lavillerose.com
@@ -7690,20 +7739,20 @@ URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d29b306d?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:a343c9b6-7791-4e0b-b26b-0d4c5335f384@news.lavillerose.com
+UID:cluster:3a9a4487-c775-4e4d-9fe0-49645d62a660@news.lavillerose.com
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Pool Party Nakache
-DESCRIPTION:Le dimanche 30 août\, les Siestes Électroniques investissent 
+DESCRIPTION:Le dimanche 30 août\, Les Siestes Électroniques investissent 
  pour la première fois la piscine Alfred Nakache pour une pool party de si
- x heures\, de 13h à 19h. Au programme : trois DJ sets\, baignade\, bronze
- tte et danse dans le plus grand bassin de France (150 m sur 48 m)\, un mon
- ument Art déco classé du XXe siècle. Parmi les artistes annoncés figur
- e Sarra Wild\, DJ et productrice basée à Londres\, habituée du Sonar Fe
- stival et du Berghain. L'événement se veut une façon festive de clore l
- es vacances d'\n\nSource\: https://www.toulouscope.fr/2026/08/24/a-toulous
- e-les-siestes-organisent-une-pool-party-geante-a-la-piscine-nakache-135156
- 20.php
+ x heures\, de 13h à 19h. Au programme : baignade\, bronzette et trois DJ 
+ sets dans le plus grand bassin de France — 150 mètres sur 48 — class
+ é monument historique du XXe siècle. Parmi les artistes attendus figure 
+ Sarra Wild\, DJ et productrice basée à Londres\, connue notamment pour s
+ es passages au Sonar Festival et au Berghain. L'événement se présente c
+ omme une façon \n\nSource\: https://www.toulouscope.fr/2026/08/24/a-toulo
+ use-les-siestes-organisent-une-pool-party-geante-a-la-piscine-nakache-1351
+ 5620.php
 URL:https://www.toulouscope.fr/2026/08/24/a-toulouse-les-siestes-organisent
  -une-pool-party-geante-a-la-piscine-nakache-13515620.php?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
@@ -7833,23 +7882,59 @@ URL:https://actu.fr/occitanie/toulouse_31555/plus-de-deux-mois-apres-la-fin
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876@news.lavillerose.com
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260906
+SUMMARY:Grande Braderie de Toulouse
+DESCRIPTION:La Grande Braderie de Toulouse se tient du 3 au 5 septembre 202
+ 6 en plein cœur de la ville\, dont les rues seront rendues piétonnes pou
+ r l'occasion. Les commerçants investissent l'espace public pour proposer 
+ promotions et bonnes affaires à l'approche de la rentrée scolaire. C'est
+  l'occasion idéale pour renouveler sa garde-robe ou se faire plaisir avan
+ t la reprise. La programmation détaillée n'est pas encore disponible.\n\
+ nSource\: https://www.toulouse-tourisme.com/agenda/grande-braderie-de-toul
+ ouse/
+LOCATION:rues seront rendues piétonnes\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/grande-braderie-de-toulouse/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:99c4e3be-9f8d-4b64-bf6b-bd8105e68a92@news.lavillerose.com
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
 SUMMARY:Salon Auto-Moto Classic
-DESCRIPTION:Pour sa 9e édition\, le Salon Auto-Moto Classic investit le ME
- ETT du 4 au 6 septembre avec plus de 2 500 véhicules de collection expos
- és sur sept halls. Au programme : une vente aux enchères\, un grand rass
- emblement de voitures américaines et des expositions thématiques autour 
- de la Route 66 (qui fête son centenaire) et de la Nationale 7. Le salon m
- arquera aussi plusieurs anniversaires emblématiques\, dont les 110 ans de
-  BMW\, les 80 ans de la Coccinelle Volkswagen\, et présentera une sélect
- ion dédié\n\nSource\: https://www.toulouscope.fr/2026/08/26/le-plus-gran
+DESCRIPTION:Du 4 au 6 septembre 2026\, le Salon Auto-Moto Classic s'install
+ e pour sa 9e édition au MEETT\, avec plus de 2 500 voitures et motos de c
+ ollection réparties sur 68 000 m² de halls couverts et d'esplanades. L'
+ événement investit cette année un septième hall d'exposition\, témoig
+ nant d'une croissance continue après une édition 2025 qualifiée de reco
+ rd. Parmi les temps forts : des expositions thématiques autour de la Rout
+ e 66 (qui fête son centenaire) et de la Nationale 7\, un rassemblement de
+  voitures a\n\nSource\: https://www.toulouscope.fr/2026/08/26/le-plus-gran
  d-rendez-vous-des-voitures-de-collection-revient-a-toulouse-avec-2-500-veh
  icules-exposes-13472723.php
 URL:https://www.toulouscope.fr/2026/08/26/le-plus-grand-rendez-vous-des-voi
  tures-de-collection-revient-a-toulouse-avec-2-500-vehicules-exposes-134727
  23.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c69be383-9ab4-4ac9-870c-cbb9927dffcf@news.lavillerose.com
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+SUMMARY:Brocante des Allées
+DESCRIPTION:La Brocante des Allées investit les allées François-Verdier 
+ du vendredi 4 au dimanche 6 septembre 2026\, réunissant plus de 100 march
+ ands professionnels sur trois jours. Au programme : mobilier ancien et con
+ temporain\, objets de décoration insolites\, tableaux\, gravures\, livres
+  et fripes vintage ou chic. Cet événement mensuel récurrent — toujour
+ s lancé le premier vendredi du mois — est accessible à un large public
+ \, des collectionneurs aux amateurs de mode vintage. Trois food trucks ass
+ urent la rest\n\nSource\: https://www.toulouse-tourisme.com/agenda/brocant
+ e-des-allees/
+LOCATION:Allées investit les allées François-Verdier du vendre\, Toulous
+ e
+URL:https://www.toulouse-tourisme.com/agenda/brocante-des-allees/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:745625bd-460d-4d2a-bd18-5d4ba20609ea@news.lavillerose.com
@@ -7869,6 +7954,42 @@ DESCRIPTION:Les 5 et 6 septembre 2026\, le Salon d'Antiquités de Terraube
 URL:https://www.toulouscope.fr/2026/08/17/ce-chateau-du-gers-va-attirer-les
  -amateurs-de-deco-et-dobjets-anciens-tout-un-week-end-13488896.php?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c48044b4-d069-4397-b701-e42298877fd9@news.lavillerose.com
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
+SUMMARY:Toulouse à Table
+DESCRIPTION:Après un record mondial en 2025\, le festival Toulouse à Tabl
+ e propose un grand banquet les 5 et 6 septembre 2026 au Jardin du Grand Ro
+ nd. Les convives pourront déguster le Cassoulet de Toulouse traditionnel 
+ ou sa version végétarienne\, et repartir avec leur cassolette individuel
+ le en terre cuite. L'événement se déroulera dans un cadre arboré enti
+ èrement privatisé\, accompagné d'animations artistiques et musicales ai
+ nsi que de dégustations des Vignobles du Sud-Ouest. Les organisateurs rec
+ ommandent \n\nSource\: https://www.toulouse-tourisme.com/agenda/le-grand-b
+ anquet-toulouse-a-table/
+LOCATION:Jardin du Grand Rond\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/le-grand-banquet-toulouse-a-ta
+ ble/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:aa6a5461-bec1-41e7-9ce8-6b0f2422e757@news.lavillerose.com
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Fête des Vendanges
+DESCRIPTION:Le Domaine de Candie\, domaine agricole de la Mairie de Toulous
+ e\, ouvre ses portes le 6 septembre 2026 pour sa Fête des Vendanges. L'é
+ vénement propose des vendanges à la main\, un marché de producteurs et 
+ d'artisans\, ainsi que des animations variées comme des balades en calèc
+ he et un simulateur de tracteur. Des ateliers pédagogiques (abeilles\, va
+ nnerie) et des démonstrations de savoir-faire artisanaux (forge\, poterie
+ \, pastel\, pyrogravure…) sont également au programme. Les visiteurs po
+ urront se res\n\nSource\: https://www.toulouse-tourisme.com/agenda/fete-de
+ s-vendanges-au-domaine-de-candie/
+URL:https://www.toulouse-tourisme.com/agenda/fete-des-vendanges-au-domaine-
+ de-candie/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9b71ef26-f00d-4c4d-a4f1-96f484511b69@news.lavillerose.com
@@ -7908,6 +8029,23 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-05-26#41180?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4bdad896-4082-4dc8-b397-87dd5b389359@news.lavillerose.com
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20261001
+SUMMARY:Piano aux Jacobins
+DESCRIPTION:Le festival Piano aux Jacobins se tient du 8 au 30 septembre 20
+ 26 en divers lieux à Toulouse. Il réunit des pianistes de renommée inte
+ rnationale et des talents émergents\, couvrant un large spectre allant du
+  répertoire classique aux œuvres contemporaines. L'édition est inaugur
+ ée par l'Espagnol Javier Perianes\, et compte notamment Vadim Kholodenko\
+ , Pierre-Laurent Aimard\, Jonathan Biss et Jean-François Heisser parmi le
+ s têtes d'affiche. Avec le soutien de la Fondation BNP Paribas\, le jazz 
+ est égale\n\nSource\: https://www.toulouse-tourisme.com/agenda/piano-aux-
+ jacobins/
+URL:https://www.toulouse-tourisme.com/agenda/piano-aux-jacobins/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:07d7a889-1273-4785-ab65-47c6e5aba3f3@news.lavillerose.com
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260928
@@ -7945,6 +8083,726 @@ DESCRIPTION:Le Wyld Festival\, créé en 2019 et devenu un rendez-vous inco
 URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-cet-evenement-devenu-
  incontournable-a-toulouse-n-aura-pas-lieu-cette-annee_64685936.html?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:50318e56-d42c-4f88-85d2-5364a642a8fa@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260928
+SUMMARY:Festival MAP Toulouse
+DESCRIPTION:Le Festival MAP revient à Toulouse du 11 au 27 septembre 2026 
+ pour plus de deux semaines d'événements artistiques gratuits dans le qua
+ rtier Saint-Cyprien. Deux artistes sont à l'honneur : Edward Curtis et Ze
+ n Lefort\, tous deux ayant exploré les cultures amérindiennes pour invit
+ er le public à porter un regard nouveau sur l'histoire. Le directeur arti
+ stique Ulrich Lebeuf a conçu une programmation mêlant expositions\, renc
+ ontres et projections. L'entrée est gratuite et la programmation complèt
+ e est \n\nSource\: https://www.toulouse-tourisme.com/agenda/festival-de-ph
+ oto-map-toulouse/
+LOCATION:quartier Saint-Cyprien\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/festival-de-photo-map-toulouse
+ /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d916b8be-91bf-43a4-a70a-0a7f6fd7ad4d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Triathlon de Toulouse
+DESCRIPTION:Le Triathlon de Toulouse se tient les 12 et 13 septembre 2026 
+ à la Base de loisirs de la Ramée. Au programme\, 7 épreuves pour tous l
+ es niveaux : triathlon M et S (individuel ou relais)\, swimrun XS et S\, e
+ t des formats courts XS pour les débutants. Les enfants de 2 à 5 ans ne 
+ sont pas oubliés avec un Animathlon ludique de 200 m à vélo suivi d'une
+  course à pied. Les inscriptions sont d'ores et déjà ouvertes.\n\nSourc
+ e\: https://www.toulouse-tourisme.com/agenda/triathlon-de-toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/triathlon-de-toulouse/?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5ef1727d-f22b-44f7-9cdd-218e5aa7cda1@news.lavillerose.com
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Toulouse dans tous les sens
+DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée inc
+ lusive intitulée « Toulouse dans tous les sens »\, conçue pour faire d
+ écouvrir la ville de manière immersive et multisensorielle. Les particip
+ ants explorent l'histoire toulousaine — de la Renaissance au XIXe siècl
+ e — à travers des sons\, des textures\, des odeurs et des saveurs insol
+ ites. La visite est ouverte à tous et spécialement adaptée aux personne
+ s à mobilité réduite et aux déficients visuels. Elle bénéficie du la
+ bel « Ville pour T\n\nSource\: https://www.toulouse-tourisme.com/agenda/t
+ oulouse-dans-tous-les-sens-visite-inclusive/
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-dans-tous-les-sens-vi
+ site-inclusive/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:bc6f040b-3138-4ebf-8546-db26fe443cec@news.lavillerose.com
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Un Dimanche\, Un Quartier
+DESCRIPTION:L'Office de tourisme de Toulouse propose une visite guidée du 
+ quartier Marengo le dimanche 13 septembre 2026\, au départ de la gare Mat
+ abiau. Le parcours explore l'histoire du quartier\, né entre les nouvelle
+ s lignes de chemin de fer et la colline de Jolimont à l'époque où les f
+ aubourgs du XIXe siècle repoussaient les anciennes limites de la ville. L
+ es participants découvriront la gare à l'architecture parisienne\, l'anc
+ ienne école vétérinaire devenue médiathèque\, l'église Saint-Sylve e
+ t ses orneme\n\nSource\: https://www.toulouse-tourisme.com/agenda/un-diman
+ che-un-quartier-marengo/
+LOCATION:quartier Marengo le dimanche 13 septembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/un-dimanche-un-quartier-mareng
+ o/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:bcbe63ba-104d-4129-b3d5-8ab4c87122db@news.lavillerose.com
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260921
+SUMMARY:Fifigrot
+DESCRIPTION:Le Fifigrot (Festival International du Film Grolandais de Toulo
+ use) tient sa 15e édition du 14 au 20 septembre 2026\, avec des dizaines 
+ de films en avant-première\, rares ou inédits\, mêlant satire sociale e
+ t humour décalé. La compétition internationale de longs et courts-métr
+ ages est complétée par des sections thématiques comme Grol'Art\, Grozic
+ al\, les Midnight Movies et de nouvelles sections intitulées « Les front
+ ières\, c'est de la merde » et « La Foule ». Au-delà du cinéma\, le 
+ festival se disting\n\nSource\: https://www.toulouse-tourisme.com/agenda/f
+ ifigrot-festival-international-du-film-grolandais-de-toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/fifigrot-festival-internationa
+ l-du-film-grolandais-de-toulouse/?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d7baac59-46bb-442e-a1e4-d2690512d63f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260918
+SUMMARY:Cartoon Forum
+DESCRIPTION:Le Cartoon Forum revient à Toulouse du 14 au 17 septembre 2026
+ \, au Centre de Congrès Pierre Baudis. Cette plateforme européenne de co
+ production réunit producteurs\, diffuseurs et investisseurs autour du pit
+ ching de projets de séries d'animation télévisées. Cette édition met 
+ en lumière 66 projets sélectionnés\, issus de 19 pays européens. L'év
+ énement s'adresse avant tout aux professionnels du secteur audiovisuel\, 
+ mais constitue aussi un rendez-vous incontournable pour les passionnés d'
+ animation eur\n\nSource\: https://www.toulouse-tourisme.com/agenda/cartoon
+ -forum/
+URL:https://www.toulouse-tourisme.com/agenda/cartoon-forum/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ed70d69e-687f-42e7-85f3-086c404b5891@news.lavillerose.com
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Piano aux Jacobins
+DESCRIPTION:Le pianiste de jazz Paul Lay se produit au Cloître des Jacobin
+ s le 14 septembre 2026 dans le cadre du festival Piano aux Jacobins. Artis
+ te fidèle du festival depuis 2011\, Paul Lay est réputé pour son jeu in
+ stinctif et en perpétuel renouvellement\, comme le soulignait déjà le l
+ égendaire Martial Solal. Il revendique une approche de l'instant\, faisan
+ t de chaque concert une expérience unique et singulière. L'événement s
+ 'adresse aux amateurs de jazz et de musique classique contemporaine qui fr
+ équenten\n\nSource\: https://www.toulouse-tourisme.com/agenda/paul-lay-pi
+ ano-aux-jacobins/
+URL:https://www.toulouse-tourisme.com/agenda/paul-lay-piano-aux-jacobins/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a6d7bca7-5bf9-4105-ab79-b7d61499d28b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20261005
+SUMMARY:La Quinzaine Littéraire
+DESCRIPTION:La Quinzaine Littéraire se déroule du 17 septembre au 4 octob
+ re 2026 dans divers lieux de Toulouse et de sa métropole. L'événement p
+ ropose de nombreuses rencontres gratuites avec des auteurs et des éditeur
+ s\, sous forme de lectures\, spectacles et ateliers. Les bibliothèques de
+  la ville et de la métropole\, ainsi que la Cave Poésie\, accueillent le
+ s différentes manifestations. Cet événement s'adresse à tous les amate
+ urs de littérature\, et l'entrée libre en facilite l'accès au plus gran
+ d nombre.\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-quinzain
+ e-litteraire/
+URL:https://www.toulouse-tourisme.com/agenda/la-quinzaine-litteraire/?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:297d3508-3a84-4b10-a247-67951313ae3d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, deux l
+ ieux emblématiques de Toulouse accueillent le public les 19-20 septembre 
+ 2026. La Bourse du Travail\, l'une des plus anciennes de France\, propose 
+ des visites guidées de son architecture Art déco\, de ses mosaïques d'
+ époque\, de la grande salle Jean Jaurès et des locaux de Radio Mon Païs
+  — sur réservation obligatoire par e-mail. Le bâtiment de la Toulouse 
+ School of Economics\, lauréat de l'Équerre d'argent 2020 et conçu par u
+ n architecte prim\n\nSource\: https://www.toulouse-tourisme.com/agenda/jou
+ rnees-europeennes-du-patrimoine-a-la-bourse-du-travail/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-a-la-bourse-du-travail/?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:35976157-c727-4a28-8096-df70c36b9aa7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+SUMMARY:Festival Brass dans la Garonne
+DESCRIPTION:Le Collectif Fanfarnaüm organise la 9e édition du Festival Br
+ ass dans la Garonne les 18\, 19 et 20 septembre 2026 au Jardin des Plantes
+ . Cette année\, le thème des « Portées de Fanafares » promet concerts
+  en hauteur et en plein-air\, avec une quatorzaine de fanfares locales et 
+ venues de toute la France (Nantes\, Lyon\, Marseille\, Paris). Le programm
+ e s'étale sur trois jours : soirée d'ouverture le vendredi soir\, déamb
+ ulations en centre-ville et concert en plein-air le samedi\, puis fanfares
+  en vadroui\n\nSource\: https://www.toulouse-tourisme.com/agenda/festival-
+ brass-dans-la-garonne/
+LOCATION:Jardin des Plantes\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/festival-brass-dans-la-garonne
+ /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3024b39b-ebb6-467b-b7b5-18c123fdd37b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, l'Hôt
+ el des Chevaliers de Saint-Jean-de-Jérusalem ouvre ses portes les 19 et 2
+ 0 septembre 2026. Ce bâtiment historique\, qui abrite aujourd'hui la DRAC
+  Occitanie (Direction régionale des affaires culturelles)\, propose deux 
+ types de visites : une visite libre de l'accueil\, de la cour d'honneur et
+  des anciennes écuries\, sans réservation\, ainsi qu'une visite guidée 
+ des intérieurs sur réservation. Les réservations pour la visite guidée
+  sont possibl\n\nSource\: https://www.toulouse-tourisme.com/agenda/journee
+ s-du-patrimoine-a-lhotel-des-chevaliers-de-saint-jean-de-jerusalem/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-lhote
+ l-des-chevaliers-de-saint-jean-de-jerusalem/?utm_source=ical&utm_medium=ca
+ lendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:34b196a7-5c61-46ed-8b12-50e5cfa7cad3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Pour les Journées Européennes du Patrimoine\, l'église Notre
+ -Dame-de-la-Dalbade ouvre ses portes les 19 et 20 septembre 2026. Située 
+ au cœur du quartier des Carmes\, cette église intrigue notamment par son
+  portail richement coloré\, en apparent contraste avec son nom qui signif
+ ie « blanche ». Les visiteurs pourront explorer librement l'édifice à 
+ leur propre rythme. Les horaires détaillés et la programmation complète
+  sont à consulter sur le site officiel des Journées Européennes du Patr
+ imoine.\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-du-p
+ atrimoine-a-leglise-notre-dame-de-la-dalbade/
+LOCATION:quartier des Carmes\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-legli
+ se-notre-dame-de-la-dalbade/?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3b8cef5f-109b-4428-821f-67db8a65195b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Vivez l'Histoire !
+DESCRIPTION:Le week-end des 19 et 20 septembre 2026\, neuf troupes de recon
+ stitution historique s'installent place Saint-Sernin et dans la cour du mu
+ sée Saint-Raymond à Toulouse. Chaque groupe incarne une époque distinct
+ e : Grèce antique\, légionnaires romains\, gladiateurs\, Vikings du Xe s
+ iècle\, chevaliers médiévaux\, soldats napoléoniens et bien d'autres. 
+ Les visiteurs peuvent échanger directement avec ces passionnés\, découv
+ rir costumes\, armements\, techniques de chirurgie\, cuisine et taille de 
+ pierre. L'événe\n\nSource\: https://www.toulouse-tourisme.com/agenda/viv
+ ez-lhistoire/
+LOCATION:place Saint-Sernin\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/vivez-lhistoire/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:44e79593-3e19-4951-b39d-7c977edb71ad@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine Vieux Temple
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Vie
+ ux Temple protestant de Toulouse accueille le public les 19 et 20 septembr
+ e 2026. Offert par Napoléon aux protestants toulousains au début du XIXe
+  siècle\, cet édifice chargé d'histoire abrite aujourd'hui plusieurs co
+ mmunautés protestantes. Les visiteurs pourront découvrir l'exposition «
+  La fabrique des sans-papiers » ainsi que l'histoire architecturale et sp
+ irituelle du lieu. Une occasion rare d'explorer un monument emblématique 
+ du prote\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-du-
+ patrimoine-au-vieux-temple/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-vieu
+ x-temple/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4acbaad3-4168-4ae5-a616-cec31c095e89@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:L'Espace Job\, ancienne usine de papier à cigarettes des Sept-
+ Deniers\, ouvre ses portes pour la première fois aux Journées européenn
+ es du patrimoine les 19 et 20 septembre 2026. Les visiteurs pourront explo
+ rer le bâtiment emblématique en compagnie d'anciens ouvriers et découvr
+ ir des tirages photographiques de Jean Dieuzaide et Yutharie Gal-Ong illus
+ trant la vie industrielle du site. Un spectacle\, « JOB : Dernière caden
+ ce »\, retrace l'histoire de l'usine — les places sont à réserver à 
+ l'avance. Au\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees
+ -europeennes-du-patrimoine-a-lespace-job/
+LOCATION:Espace Job\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-a-lespace-job/?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:50d72819-8895-4120-bc6e-95eec069c763@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Les Journées Européennes du Patrimoine se tiennent à Toulous
+ e les 19 et 20 septembre 2026\, avec l'ouverture exceptionnelle de nombreu
+ x monuments habituellement fermés au public. Parmi les temps forts : la c
+ rypte archéologique de l'église Saint-Pierre-des-Cuisines\, qui révèle
+  les vestiges d'une basilique funéraire du Ve siècle et des fragments de
+  mosaïques uniques à Toulouse\, et l'Institut Catholique de Toulouse\, q
+ ui dévoile le seul vestige visible in situ du rempart gallo-romain du III
+ e siècle\, \n\nSource\: https://www.toulouse-tourisme.com/agenda/journees
+ -du-patrimoine-a-lauditorium-saint-pierre-des-cuisines/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-laudi
+ torium-saint-pierre-des-cuisines/?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:60bfac5c-a2ae-4094-be57-f86c38ffdd34@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Les 19 et 20 septembre 2026\, la Préfecture de la Haute-Garonn
+ e participe aux Journées Européennes du Patrimoine en ouvrant ses portes
+  au grand public. Cet ancien palais archiépiscopal abrite deux siècles d
+ 'histoire de la représentation de l'État en Haute-Garonne et en Occitani
+ e. Les visiteurs pourront explorer les lieux en visite libre ou accompagn
+ és d'un guide de l'Office de Tourisme de Toulouse\, avec accès au bureau
+  du préfet\, aux salons de réception officiels\, à la cour et l'escalie
+ r d'honneu\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-d
+ u-patrimoine-a-la-prefecture-de-la-haute-garonne/
+LOCATION:palais archiépiscopal abrite deux siècles d'histoire\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-la-pr
+ efecture-de-la-haute-garonne/?utm_source=ical&utm_medium=calendar&utm_camp
+ aign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:61519f9b-645f-4c3a-acc5-ee7a08619295@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:Les 19 et 20 septembre 2026\, l'Hôtel-Dieu Saint-Jacques parti
+ cipe aux Journées Européennes du Patrimoine en ouvrant exceptionnellemen
+ t au public plusieurs espaces habituellement inaccessibles. Les visiteurs 
+ pourront découvrir un bloc opératoire de traumatologie des années 1960\
+ , méconnu même du personnel hospitalier\, ainsi que les coulisses de la 
+ médecine et le musée de l'établissement\, riche de près de quatre mill
+ e objets liés à la chirurgie et à la vie hospitalière. Point fort de l
+ 'édition : l'\n\nSource\: https://www.toulouse-tourisme.com/agenda/journe
+ es-europeennes-du-patrimoine-a-lhotel-dieu-saint-jacques/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-a-lhotel-dieu-saint-jacques/?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:70594177-481c-43b0-8e58-50f4959d7fcb@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Tem
+ ple du Salin ouvre ses portes les 19 et 20 septembre 2026. Installé dans 
+ l'ancien bâtiment de la trésorerie royale du XIIIe siècle\, converti en
+  temple protestant néo-gothique en 1910\, ce lieu chargé d'histoire prop
+ ose une exposition retraçant son passé. Les visiteurs pourront participe
+ r à une visite guidée de l'orgue du facteur Jean Daldosso\, animée par 
+ des paroissiens qui en dévoilent les secrets techniques et sonores. Un co
+ ncert except\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees
+ -du-patrimoine-au-temple-du-salin/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-temp
+ le-du-salin/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7cac68a9-0fc5-4c37-a549-1b1f2950f4da@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine Taur
+DESCRIPTION:L'église Notre-Dame-du-Taur\, édifice toulousain du XIVe siè
+ cle\, participe aux Journées Européennes du Patrimoine les 19 et 20 sept
+ embre 2026. Après plusieurs années de travaux\, l'église rouvre ses por
+ tes au public et dévoile ses décors restaurés. Le temps fort de l'évé
+ nement est un concert exceptionnel le samedi 19 septembre à 21h\, mettant
+  à l'honneur l'orgue nouvellement restauré. Le détail de la programmati
+ on et les horaires sont à retrouver sur le site officiel des Journées Eu
+ ropéennes du Pat\n\nSource\: https://www.toulouse-tourisme.com/agenda/jou
+ rnees-du-patrimoine-a-leglise-notre-dame-du-taur/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-legli
+ se-notre-dame-du-taur/?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8456998a-6aa2-4617-83c0-7edbb784ef2c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Les 19 et 20 septembre 2026\, la Maison Calas participe aux Jou
+ rnées Européennes du Patrimoine en ouvrant gratuitement ses portes au pu
+ blic. Cette demeure de la fin du XVe siècle est liée à l'une des affair
+ es judiciaires les plus célèbres de l'Ancien Régime : Jean Calas\, prot
+ estant toulousain\, y vécut avant d'être injustement condamné à mort p
+ our le meurtre de son fils. Voltaire prit sa défense et rédigea son Trai
+ té sur la tolérance en 1763\, contribuant à sa réhabilitation posthume
+ . Les visiteurs\n\nSource\: https://www.toulouse-tourisme.com/agenda/journ
+ ees-du-patrimoine-a-la-maison-calas/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-la-ma
+ ison-calas/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8b81d611-7f56-401a-ac68-c13d8823d0e6@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:La Maison de la Violette\, installée sur une péniche des ann
+ ées 1930\, participe aux Journées Européennes du Patrimoine les 19 et 2
+ 0 septembre 2026. Le lieu\, dédié depuis 30 ans à la violette — fleur
+  emblématique de Toulouse depuis 1850 — propose des visites libres tout
+  au long du week-end. Au programme : explications sur la culture et les us
+ ages de la violette\, dégustation de produits artisanaux\, et découverte
+  de créations parfumées et sucrées. Une immersion sensorielle gratuite 
+ ouverte à tous\, p\n\nSource\: https://www.toulouse-tourisme.com/agenda/j
+ ournees-du-patrimoine-a-la-maison-de-la-violette/
+LOCATION:allée sur une péniche des années 1930\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-la-ma
+ ison-de-la-violette/?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:953b7a85-0ade-4407-9bf3-976d1cb728e0@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Le Musée du Compagnonnage de Toulouse ouvre ses portes les 19 
+ et 20 septembre 2026 à l'occasion des Journées Européennes du Patrimoin
+ e. Installé dans un bâtiment médiéval restauré au XVIIIe siècle en p
+ lein cœur de la ville\, le musée célèbre le savoir-faire des Compagnon
+ s du Tour de France dans l'histoire architecturale française. Les visiteu
+ rs pourront admirer des maquettes spectaculaires réalisées en bois\, aci
+ er\, zinc et pierre\, incarnant la philosophie du compagnonnage : « la pr
+ euve par l'épre\n\nSource\: https://www.toulouse-tourisme.com/agenda/jour
+ nees-du-patrimoine-au-musee-des-compagnons-du-tour-de-france/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-muse
+ e-des-compagnons-du-tour-de-france/?utm_source=ical&utm_medium=calendar&ut
+ m_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:95799c8f-f679-494c-96b1-5ea1f3359364@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:La Belle Paule
+DESCRIPTION:Dans le cadre des Journées Européennes du Patrimoine\, la com
+ pagnie Epok Tour propose une visite guidée immersive du Toulouse du XVIe 
+ siècle incarnée par le personnage historique de Paule de Viguier\, dite 
+ la Belle Paule. Bourgeoise issue d'une famille enrichie par le commerce du
+  pastel\, elle guide les visiteurs entre hôtels particuliers et lieux de 
+ pouvoir\, évoquant l'âge d'or architectural et commercial de la ville. L
+ a visite retrace aussi le basculement de Toulouse vers les troubles écono
+ miques\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-toulouse-de
+ -la-renaissance-conte-par-la-belle-paule-journees-du-patrimoine/
+URL:https://www.toulouse-tourisme.com/agenda/le-toulouse-de-la-renaissance-
+ conte-par-la-belle-paule-journees-du-patrimoine/?utm_source=ical&utm_mediu
+ m=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:977b1df1-1ab2-48bb-8fca-39406aa598a7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine Palais Niel
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Pal
+ ais Niel — joyau architectural du XIXe siècle abritant le haut commande
+ ment militaire de Toulouse — ouvre exceptionnellement ses portes les 19 
+ et 20 septembre 2026. Les visiteurs pourront découvrir ses salons et son 
+ jardin\, tout en échangeant avec des parachutistes qui présenteront leur
+ s équipements. C'est une occasion rare d'accéder à ce bâtiment habitue
+ llement fermé au grand public. Le détail de la programmation et les hora
+ ires sont di\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees
+ -du-patrimoine-au-palais-niel/
+LOCATION:Palais Niel — joyau architectural du XIXe siècle abri\, Toulous
+ e
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-pala
+ is-niel/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:99b3b14a-9dad-4679-97ec-b0f05e5a3b10@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Cap
+ itole — Hôtel de Ville de Toulouse — ouvre exceptionnellement ses por
+ tes les 19 et 20 septembre 2026. Les visiteurs pourront découvrir le bure
+ au du maire et ceux de ses collaborateurs\, ainsi que le Salon rouge où l
+ e maire reçoit ses hôtes de marque. Des visites libres des salles de pre
+ stige sont également au programme. L'événement est l'occasion de replon
+ ger dans plus de huit siècles d'histoire de ce monument emblématique\, d
+ ont les origi\n\nSource\: https://www.toulouse-tourisme.com/agenda/journee
+ s-europeennes-du-patrimoine-au-capitole/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-au-capitole/?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a5c19fdf-ccdb-4d62-8dfa-dad912bf362c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:Les Journées Européennes du Patrimoine se tiennent à Toulous
+ e les 19 et 20 septembre 2026\, avec deux sites ouverts au public. L'Hôte
+ l de Paulo\, construit en 1770 par le Comte Marc-Antoine de Paulo\, propos
+ e la visite de ses écuries restées en l'état depuis la Première Guerre
+  Mondiale\, ainsi qu'un atelier de taille de pierre. Le musée Paul-Dupuy\
+ , installé dans un hôtel particulier de parlementaire toulousain du XVII
+ e siècle\, invite quant à lui à découvrir son engagement dans la conse
+ rvation d'un p\n\nSource\: https://www.toulouse-tourisme.com/agenda/journe
+ es-europeennes-du-patrimoine-a-lhotel-de-paulo/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-a-lhotel-de-paulo/?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a872c5c4-b8d3-4145-8de5-166f3e4a2a04@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Woori Festival
+DESCRIPTION:Le Woori Festival revient pour sa 5e édition les 19 et 20 sept
+ embre 2026 au Hall 8 sur l'Île du Ramier. Ce festival de week-end propose
+  une immersion dans la culture coréenne\, entre traditions ancestrales et
+  tendances contemporaines. Au programme : spectacles et initiations à la 
+ K-Pop\, démonstrations d'arts martiaux\, ateliers créatifs\, stands d'ar
+ tisanat et street food coréenne. L'événement se veut festif et familial
+ \, accessible à tous les publics.\n\nSource\: https://www.toulouse-touris
+ me.com/agenda/woori-festival/
+URL:https://www.toulouse-tourisme.com/agenda/woori-festival/?utm_source=ica
+ l&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a8f91618-8539-491b-88a8-ed64073909e1@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:Les Journées Européennes du Patrimoine se tiennent les 19 et 
+ 20 septembre 2026 à la Capitainerie du Port Saint-Sauveur\, sur les bords
+  du canal du Midi. Ce bâtiment historique\, ancien hangar de stockage de 
+ marchandises entièrement restauré\, ouvre exceptionnellement ses portes 
+ au public pour le week-end. Au programme : une exposition à caractère sc
+ ientifique\, technique et patrimonial\, ainsi que plusieurs animations don
+ t « Phot'eau langage »\, une frise sur l'eau et « Mémoires d'eau : mir
+ oir de quar\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-
+ europeennes-du-patrimoine-a-la-capitainerie-port-saint-sauveur/
+LOCATION:hangar de stockage de marchandises entièrement restauré\, Toulou
+ se
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-a-la-capitainerie-port-saint-sauveur/?utm_source=ical&utm_medium=cale
+ ndar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:bcfd9772-e7d1-4d3d-bac6-8a6b437a7554@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Petites Histoires de Quartier
+DESCRIPTION:À l'occasion des Journées du Patrimoine\, l'Office de Tourism
+ e de Toulouse propose une visite guidée du quartier des Minimes\, prévue
+  le 19 septembre 2026 devant le Conseil Départemental. La balade retrace 
+ l'histoire du quartier depuis ses vignobles longeant le canal du Midi jusq
+ u'à l'urbanisation du XIXe siècle\, en passant par les maraîchers et le
+  marché aux cochons. La visite aborde également l'implantation de l'ordr
+ e des Minimes dès 1503\, l'église classée et ses œuvres de la Renaissa
+ nce toulous\n\nSource\: https://www.toulouse-tourisme.com/agenda/petites-h
+ istoires-de-quartier-minimes-journees-du-patrimoine/
+LOCATION:quartier des Minimes\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
+ minimes-journees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_ca
+ mpaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cb161ec4-abbb-4c90-9835-6dd0a64feee8@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Cou
+ vent Notre-Dame de la Compassion et le Collège de Foix accueilleront le p
+ ublic les 19 et 20 septembre 2026. Le couvent\, fondé en 1817 par des sœ
+ urs\, et le collège de Foix\, dont les origines remontent au XVe siècle\
+ , constituent un ensemble patrimonial remarquable à Toulouse. Des visites
+  guidées permettront de découvrir l'histoire et l'architecture de ces li
+ eux habituellement fermés au grand public. Le détail de la programmation
+  et les hor\n\nSource\: https://www.toulouse-tourisme.com/agenda/couvent-n
+ otre-dame-de-la-compassion-college-de-foix-journees-du-patrimoine/
+URL:https://www.toulouse-tourisme.com/agenda/couvent-notre-dame-de-la-compa
+ ssion-college-de-foix-journees-du-patrimoine/?utm_source=ical&utm_medium=c
+ alendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cb3a4f6d-3cd3-4524-9ff8-f39b7eb05ee7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Le Quai des Savoirs participe aux Journées du Patrimoine les 1
+ 9 et 20 septembre 2026\, en ouvrant gratuitement ses 800 m² d'expositions
+  interactives au grand public. L'événement met l'accent sur l'interactiv
+ ité scientifique\, invitant chaque visiteur à se glisser dans la peau d'
+ un scientifique. Des visites flash permettront de découvrir les coulisses
+  du musée et des espaces habituellement fermés au public\, avec des dép
+ arts à 14h30 et 15h30 le samedi\, et à 14h30\, 15h30 et 16h30 le dimanch
+ e. Le prog\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-d
+ u-patrimoine-au-quai-des-savoirs/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-quai
+ -des-savoirs/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
+ enda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d4734dd8-a3cf-4ca9-9a0c-8a08096c8cde@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Les 19 et 20 septembre 2026\, la Chapelle de La Grave ouvre ses
+  portes au public dans le cadre des Journées Européennes du Patrimoine. 
+ Symbole iconique de Toulouse avec son dôme turquoise visible depuis les q
+ uais de la Garonne\, cet ancien hôpital des pestiférés propose plusieur
+ s formules de visite. Des visites flash de 30 minutes (à 11h30\, 14h30\, 
+ 16h et 17h) permettent de découvrir l'architecture exceptionnelle du bât
+ iment\, construit sur pilotis pour résister aux crues. Une visite thémat
+ ique inti\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-du
+ -patrimoine-a-la-chapelle-saint-joseph-de-la-grave/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-la-ch
+ apelle-saint-joseph-de-la-grave/?utm_source=ical&utm_medium=calendar&utm_c
+ ampaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d90acc32-c33c-4f0f-9d60-967a8faa6b5d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Th
+ éâtre de la Cité ouvre ses portes au public le week-end du 19 septembre
+  2026. Les visiteurs pourront explorer les coulisses et recoins secrets de
+  ce bâtiment architectural emblématique situé en plein cœur de Toulous
+ e. La visite se fait en compagnie d'un régisseur et d'une chargée des re
+ lations avec le public\, offrant un regard inédit sur la « fabrique du v
+ ivant ». Le détail de la programmation et les horaires sont à consulter
+  sur le site \n\nSource\: https://www.toulouse-tourisme.com/agenda/journee
+ s-du-patrimoine-au-theatre-de-la-cite/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-thea
+ tre-de-la-cite/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ddb50301-0949-4c6c-b7f2-3a4f1318dde3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Ce week-end des Journées Européennes du Patrimoine\, le Monum
+ ent à la Gloire de la Résistance ouvre ses portes au public les 19 et 20
+  septembre 2026. Ce mémorial moderniste\, dédié aux résistants et aux 
+ victimes de la Seconde Guerre mondiale\, est l'une des grandes œuvres arc
+ hitecturales de Toulouse. Des médiateurs seront présents pour répondre 
+ aux questions des visiteurs\, et des visites flash de 30 minutes sont prop
+ osées à 11h30\, 14h30\, 16h et 17h\, axées sur l'histoire et l'architec
+ ture du monumen\n\nSource\: https://www.toulouse-tourisme.com/agenda/journ
+ ees-du-patrimoine-au-monument-a-la-gloire-de-la-resistance/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-monu
+ ment-a-la-gloire-de-la-resistance/?utm_source=ical&utm_medium=calendar&utm
+ _campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:de786674-fef7-491c-a91d-75ceaf95e432@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, l'égl
+ ise Saint-Nicolas ouvre ses portes les 19 et 20 septembre 2026. Surnommée
+  « la belle inconnue de Toulouse »\, c'est la plus ancienne église de l
+ a ville après Saint-Sernin\, mais elle reste largement méconnue des habi
+ tants. Entièrement peinte\, elle témoigne de huit siècles d'histoire et
+  garde les traces des inondations de 1975. Des visites libres et des visit
+ es guidées sont prévues \; les détails de la programmation et les horai
+ res sont dispo\n\nSource\: https://www.toulouse-tourisme.com/agenda/journe
+ es-europeennes-du-patrimoine-a-leglise-saint-nicolas/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-a-leglise-saint-nicolas/?utm_source=ical&utm_medium=calendar&utm_camp
+ aign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:eaa005a2-05d5-4149-944e-b736e04752bd@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, l'Acad
+ émie des Jeux Floraux ouvre ses portes les 19 et 20 septembre 2026 à l'H
+ ôtel d'Assezat. Construit en 1555 pour le marchand de pastel Pierre d'Ass
+ ezat\, ce bâtiment emblématique accueille depuis 1995 la Fondation Bembe
+ rg et ses collections de peintures\, sculptures et objets d'art. Des visit
+ es guidées des salons des Académies seront proposées\, permettant de d
+ écouvrir les trésors de chaque académie ainsi que des anecdotes sur l'A
+ cadémie des \n\nSource\: https://www.toulouse-tourisme.com/agenda/journee
+ s-europeennes-a-lacademie-des-jeux-floraux/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-a-lacadem
+ ie-des-jeux-floraux/?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3c915bad-47d1-477a-95fe-7f55794ae55a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Cen
+ tre Occitan des Musiques et Danses Traditionnelles (COMDT) de Toulouse ouv
+ re ses portes au grand public le week-end du 20 septembre 2026. Les visite
+ urs pourront découvrir la fabrication artisanale d'instruments traditionn
+ els occitans et les savoir-faire ancestraux qui leur sont associés. Des i
+ nitiations au chant occitan\, aux percussions méditerranéennes\, au haut
+ bois du Couserans et à la cornemuse des Landes de Gascogne sont égalemen
+ t pré\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-europ
+ eennes-du-patrimoine-au-centre-occitan-des-musiques-et-danses-traditionnel
+ les/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-au-centre-occitan-des-musiques-et-danses-traditionnelles/?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ba5ab7bf-3cc0-4095-9e65-819ab652949b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, les Se
+ rres Municipales de Toulouse accueillent le public le 20 septembre 2026. L
+ es visiteurs pourront découvrir le grand dôme métallique classé aux Mo
+ numents historiques\, ainsi que les collections de plantes rares\, arbres 
+ remarquables et la célèbre violette de Toulouse horticole. Des démonstr
+ ations de savoir-faire par les jardiniers municipaux sont au programme\, a
+ utour du thème de la biodiversité en ville. L'accès est gratuit mais l'
+ inscriptio\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-d
+ u-patrimoine-aux-serres-municipales/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-aux-ser
+ res-municipales/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:caf6ab31-7609-4311-9700-daf19eb334f4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine Zénith
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Zé
+ nith Toulouse Métropole ouvre exceptionnellement ses portes le 20 septemb
+ re 2026. Les visiteurs pourront découvrir les coulisses de la salle lors 
+ de la journée de montage du Festival OZ : espaces backstage\, balances de
+  concerts et fonctionnement général d'une des rares salles françaises p
+ ouvant accueillir plus de 10 000 spectateurs. La visite guidée d'une heur
+ e permet de mieux comprendre les métiers qui font vivre ce lieu emblémat
+ ique. L'\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-du-
+ patrimoine-au-zenith/
+LOCATION:salle lors de la journée de montage du Festival OZ :\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-zeni
+ th/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ab9810d4-6afe-48af-9571-31984bcd976c@news.lavillerose.com
@@ -8007,6 +8865,22 @@ URL:https://actu.fr/occitanie/toulouse_31555/avis-aux-fans-un-episode-de-st
  5.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f19cebaa-f91a-4e6e-b280-ee3b578e805f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20261116
+SUMMARY:LAYUP
+DESCRIPTION:LAYUP est une exposition d'art urbain qui se tient du 24 septem
+ bre au 15 novembre 2026 dans un bâtiment de 5 000 m² à Toulouse. Une ci
+ nquantaine d'artistes locaux\, nationaux et internationaux sont invités 
+ à investir les lieux à travers fresques monumentales\, installations et 
+ créations inédites. Le parcours est libre et évolutif\, avec une progra
+ mmation d'ateliers d'initiation au graffiti\, de visites guidées et d'év
+ énements annexes. L'entrée est gratuite sur participation libre\, avec u
+ n bar et un \n\nSource\: https://www.toulouse-tourisme.com/agenda/layup/
+URL:https://www.toulouse-tourisme.com/agenda/layup/?utm_source=ical&utm_med
+ ium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ac31f798-a756-4d4f-a2d3-99195bafb120@news.lavillerose.com
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
@@ -8025,6 +8899,198 @@ URL:https://actu.fr/occitanie/toulouse_31555/apres-six-semaines-de-test-le-
  marche-des-carmes-a-toulouse-modifie-ses-horaires-voici-ce-qui-va-changer-
  en-septembre_64533495.html?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Petites Histoires de Quartier
+DESCRIPTION:L'Office de tourisme de Toulouse propose une visite guidée imm
+ ersive du quartier Saint-Cyprien\, au départ de l'entrée du Château d'E
+ au\, le 26 septembre 2026. L'objectif est de faire découvrir ce faubourg 
+ de la rive gauche comme ses habitants le vivent au quotidien\, entre petit
+ es histoires de quartier et grandes transformations urbaines. La visite re
+ trace l'histoire longtemps difficile du quartier\, longtemps écarté pour
+  cause d'inondations\, avant d'être progressivement sécurisé grâce à 
+ un program\n\nSource\: https://www.toulouse-tourisme.com/agenda/petites-hi
+ stoires-de-quartier-saint-cyprien/
+LOCATION:quartier Saint-Cyprien\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
+ saint-cyprien/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6587795a-c72d-4730-8b96-30e7b1b5950c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Les Arts en Balade
+DESCRIPTION:Les Arts en Balade reviennent les 26 et 27 septembre 2026 pour 
+ un week-end consacré à la création artistique locale\, répartie dans 1
+ 05 lieux à Toulouse et 16 communes alentour. Peinture\, sculpture\, photo
+ graphie\, céramique\, vidéo\, installation : toutes les disciplines sont
+  représentées\, avec la possibilité d'acheter des œuvres directement a
+ ux prix atelier. Dès le début du mois\, des Avant-Premières participati
+ ves animent dix lieux emblématiques de la métropole (dont la librairie O
+ mbres Blanches et\n\nSource\: https://www.toulouse-tourisme.com/agenda/les
+ -arts-en-balade-a-toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/les-arts-en-balade-a-toulouse/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f698d62b-60c6-44f1-b43e-2af5d32b64e4@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Allées Céramiques de Toulouse
+DESCRIPTION:Pour son 10e anniversaire\, le marché des Allées Céramiques 
+ investit les allées François Verdier les 26 et 27 septembre 2026\, réun
+ issant 50 céramistes et potiers sélectionnés pour la qualité et la div
+ ersité de leurs créations. L'événement propose plusieurs espaces thém
+ atiques : une Petite Galerie dédiée à la céramique contemporaine\, un 
+ Café Céramique où l'on déguste thés et cafés dans des pièces choisi
+ es parmi les exposants\, et un Bol de la Solidarité. Des visites guidées
+  gratuites permettent d'é\n\nSource\: https://www.toulouse-tourisme.com/a
+ genda/les-allees-ceramiques-de-toulouse/
+LOCATION:Allées Céramiques investit les allées François Verdie\, Toulou
+ se
+URL:https://www.toulouse-tourisme.com/agenda/les-allees-ceramiques-de-toulo
+ use/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fa5ee1bf-4bcd-4df8-ac74-880f2e994231@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:La Grande Course de Trottinettes
+DESCRIPTION:La Grande Course de Trottinettes se tiendra le 26 septembre 202
+ 6 devant le Muséum de Toulouse. Devenue la plus grande course de trottine
+ ttes de France au fil des années\, elle est entièrement gratuite et ouve
+ rte aux enfants de 6 à 10 ans. L'objectif est de récolter des fonds pour
+  lutter contre les cancers pédiatriques\, les enfants valides trottinant 
+ symboliquement pour leurs pairs malades. Un Trotti'village proposera des a
+ nimations familiales sur place (parcours pour tout-petits\, maquillage\, L
+ ego\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-grande-course-
+ de-trottinettes/
+URL:https://www.toulouse-tourisme.com/agenda/la-grande-course-de-trottinett
+ es/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d2c7b0d9-91be-42b9-9201-62839a034ac3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261012
+SUMMARY:Festival CinéSpaña
+DESCRIPTION:Le Festival CinéSpaña se tiendra à Toulouse du 2 au 11 octob
+ re 2026\, dans divers lieux de la ville. Consacré au cinéma espagnol et 
+ hispanophone\, c'est l'un des rendez-vous culturels annuels majeurs de la 
+ Ville rose. La programmation détaillée n'est pas encore disponible à ce
+  stade. L'événement s'adresse aux amateurs de cinéma ibérique et à to
+ us les curieux de la culture espagnole.\n\nSource\: https://www.toulouse-t
+ ourisme.com/agenda/festival-cinespana/
+URL:https://www.toulouse-tourisme.com/agenda/festival-cinespana/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4116e74f-77fa-46a9-967c-5375739fa003@news.lavillerose.com
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:La Danse au Grand Jour
+DESCRIPTION:Le festival « La Danse au Grand Jour » investit divers lieux 
+ de Toulouse les 3 et 4 octobre 2026\, avec une programmation en plein air 
+ entièrement gratuite. Le samedi\, les spectacles se déroulent au Cloîtr
+ e des Chartreux (UT1)\, au Jardin Compans-Caffarelli et au Port de l'Embou
+ chure\, avec des pièces de Nicolas Fayol\, Volmir Cordeiro\, le C.C.I.N.P
+ . Andy de Groat\, et un bal-chorégraphique signé Magda Kachouche. Le dim
+ anche\, le quartier de la Reynerie prend le relais : cours d'école Didier
+  Daurat\, t\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-danse-
+ au-grand-jour/
+LOCATION:Jardin Compans-Caffarelli\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/la-danse-au-grand-jour/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6a1f2dac-9bec-43f6-bfee-49559572fe94@news.lavillerose.com
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Les Jardins Sonores
+DESCRIPTION:Les Jardins Sonores reviennent pour leur 33e édition les 3 et 
+ 4 octobre 2026 au Théâtre de Verdure de Toulouse. L'association DME accu
+ eille pour l'occasion des DJ régionaux et internationaux dans ce cadre en
+  plein air. La soirée se veut placée sous le signe de la danse\, du part
+ age et de l'émotion musicale. Un rendez-vous incontournable pour les amat
+ eurs de musique électronique et de culture festive toulousaine.\n\nSource
+ \: https://www.toulouse-tourisme.com/agenda/les-jardins-sonores/
+LOCATION:Jardins Sonores reviennent\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-jardins-sonores/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e02a6d76-5814-4980-a454-7698c9889217@news.lavillerose.com
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:Mecanik Paradize
+DESCRIPTION:Le festival Mecanik Paradize investit la Halle de la Machine du
+  8 au 11 octobre 2026\, pour clôturer le Pink Paradize Festival en co-pro
+ duction avec les Productions du Possible. Trois soirées et une journée r
+ éunissent grands noms de la musique française et internationale sur scè
+ ne\, entourés des machines vivantes de François Delarozière — Astéri
+ on le Minotaure et les deux Grandes Araignées — dans une scénographie 
+ mêlant tempête de neige et effets de feu. Pour la soirée du vendredi 9 
+ octobre\, la pr\n\nSource\: https://www.toulouse-tourisme.com/agenda/mecan
+ ik-paradize/
+LOCATION:Halle de la Machine du 8 au 11 octobre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/mecanik-paradize/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:32b661a9-f147-44c4-be5a-da3ed4214259@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Visite de Marchant
+DESCRIPTION:Le 17 octobre 2026\, l'Office de tourisme de Toulouse propose u
+ ne visite guidée exclusive du centre hospitalier de Marchant\, inauguré 
+ en 1852 et toujours en activité. Conçu par l'architecte Jacques-Jean Esq
+ uié sur les bases théoriques des docteurs Delaye et Marchant\, héritier
+ s du psychiatre toulousain Jean-Etienne Esquirol\, le site illustre l'évo
+ lution de la psychiatrie française au XIXe siècle. L'ensemble s'étend s
+ ur 25 hectares et s'organise autour d'une cour d'honneur\, de pavillons\, 
+ d'allées e\n\nSource\: https://www.toulouse-tourisme.com/agenda/de-braque
+ ville-a-marchant-une-architecture-modele-au-service-du-soin/
+URL:https://www.toulouse-tourisme.com/agenda/de-braqueville-a-marchant-une-
+ architecture-modele-au-service-du-soin/?utm_source=ical&utm_medium=calenda
+ r&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b5b7cd50-c141-4f9f-b3d9-6747d5bda24c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:Salon Vins & Terroirs
+DESCRIPTION:Le Salon Vins & Terroirs revient au MEETT du 30 octobre au 1er 
+ novembre 2026 pour une édition automnale avec près de 350 exposants : vi
+ gnerons\, producteurs et artisans chocolatiers. Les grandes régions vitic
+ oles françaises y sont représentées\, permettant aux visiteurs d'enrich
+ ir leur cave avec des conseils directs des producteurs et à des prix « d
+ irect producteur ». L'espace Terroir met également à l'honneur des spé
+ cialités sucrées\, salées et des condiments variés. En parallèle\, le
+  Salon Chocola\n\nSource\: https://www.toulouse-tourisme.com/agenda/salon-
+ vins-terroirs-chocolat-gourmandises/
+URL:https://www.toulouse-tourisme.com/agenda/salon-vins-terroirs-chocolat-g
+ ourmandises/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:96db22f7-864a-4709-a8e5-88039a38df10@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Toulouse Métropole Run Experience
+DESCRIPTION:La Toulouse Métropole Run Experience revient les 1er et 2 nove
+ mbre 2026 avec deux jours de festivités autour de la course à pied. Cinq
+  formats sont au programme : marathon (42\,195 km)\, semi-marathon de la G
+ aronne\, 10 km du Capitole\, marathon relais des Pionniers de l'Aéroposta
+ le en équipe\, et la Course des P'tits Rex pour les enfants dès le samed
+ i 31 octobre à la Prairie des Filtres. L'événement se veut accessible 
+ à tous les niveaux\, mêlant performance sportive\, convivialité et enga
+ gement enviro\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulous
+ e-metropole-run-experience/
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-metropole-run-experie
+ nce/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ef66e193-bcc9-48ed-891d-d0a5b82cbbf6@news.lavillerose.com
@@ -8046,6 +9112,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/concert-de-patrick-bruel-a-tou
  louse-pour-jean-luc-moudenc-la-mairie-ne-peut-pas-se-substituer-a-la-justi
  ce_64699020.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
  -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9703953d-06ed-4478-84c4-b3ffdca6ef82@news.lavillerose.com
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261129
+SUMMARY:Supernova
+DESCRIPTION:Le festival Supernova investit les scènes toulousaines du 12 a
+ u 28 novembre 2026\, offrant une vitrine aux compagnies émergentes pendan
+ t trois semaines. Au programme : spectacles engagés\, formes nouvelles\, 
+ projets en cours\, lectures\, rencontres-débats et soirées festives. Le 
+ Théâtre Sorano est le lieu principal\, mais le festival rayonne sur plus
+ ieurs espaces partenaires — Théâtre Garonne\, Théâtre Jules-Julien\,
+  Centre Culturel Bonnefoy et d'autres. C'est un rendez-vous pour les amate
+ urs de créatio\n\nSource\: https://www.toulouse-tourisme.com/agenda/super
+ nova/
+URL:https://www.toulouse-tourisme.com/agenda/supernova/?utm_source=ical&utm
+ _medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
@@ -8107,6 +9190,23 @@ LOCATION:Palais\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/apres-toulouse-l-exposition-du
  -rappeur-oli-s-installera-au-prestigieux-grand-palais-a-paris_64478112.htm
  l?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:62a0b788-4113-40a3-8a40-c5b7368bf55b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261214
+SUMMARY:Salon Créateurs & Artisans d'Art
+DESCRIPTION:Le Salon Créateurs & Artisans d'Art se tient au MEETT de Toulo
+ use du 9 au 13 décembre 2026. Quelque 160 artisans et créateurs\, sélec
+ tionnés pour leur originalité et leur savoir-faire\, viennent de toute l
+ a France présenter leurs réalisations entièrement faites à la main. L'
+ offre est large : bijoux\, vêtements\, meubles\, sculptures\, art de la t
+ able\, couteaux\, sacs et chaussures\, entre pièces uniques traditionnell
+ es et objets innovants ou recyclés. Une allée des artistes et un espace 
+ dédié aux jeunes\n\nSource\: https://www.toulouse-tourisme.com/agenda/sa
+ lon-createurs-et-artisans-dart/
+URL:https://www.toulouse-tourisme.com/agenda/salon-createurs-et-artisans-da
+ rt/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:08d1decb-bf95-40e2-9862-6278dae73d52@news.lavillerose.com
