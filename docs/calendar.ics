@@ -9,23 +9,6 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:cluster:7d5e44a0-c5a0-4952-af46-7e01471114e6@news.lavillerose.com
-DTSTART;VALUE=DATE:20251010
-DTEND;VALUE=DATE:20261012
-SUMMARY:Toulouse Polars du Sud
-DESCRIPTION:Le festival international des littératures noires et policièr
- es Toulouse Polars du Sud revient cette année avec une quarantaine d'aute
- urs français et étrangers. L'édition est parrainée par l'autrice fran
- çaise Valentine Imhof et l'auteur britannique Abir Mukherjee. Le festival
-  rayonne bien au-delà de son site principal du Forum de la Renaissance à
-  Basso Cambo : une semaine hors-les-murs mobilise plus de 70 sites en Occi
- tanie\, avec projections\, lectures\, stages d'écriture et rencontres dan
- s médiat\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-po
- lars-du-sud/
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-polars-du-sud/?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -5451,7 +5434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:038a851c-4d74-41cc-8e29-112c99b6f1fe@news.lavillerose.com
 DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20260716
 SUMMARY:Toulouse les Orgues
 DESCRIPTION:Le festival international Toulouse les Orgues célèbre cette a
  nnée ses trente ans\, réunissant pendant douze jours les plus grands org
