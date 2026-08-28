@@ -8,7 +8,7 @@ from typing import Any
 from zoneinfo import ZoneInfo
 
 from src import cache as cache_mod
-from src.fetchers import actu_toulouse, inbox, toulouscope
+from src.fetchers import actu_toulouse, inbox, toulouscope, tourinsoft
 from src.feed import write_atom
 from src.landing import PARIS, _french_long_date, render as render_landing, render_calendar_page
 from src.render_email import render as render_email
@@ -27,6 +27,7 @@ SITE_BASE = "https://news.lavillerose.com"
 FETCHERS = [
     ("actu_toulouse", actu_toulouse.fetch),
     ("toulouscope", toulouscope.fetch),
+    ("tourinsoft", tourinsoft.fetch),
     ("inbox", inbox.fetch),
 ]
 
@@ -127,6 +128,7 @@ def _cluster_today(items: list[dict[str, Any]]):
     Returns (touched_cluster_ids, conn). Caller closes conn."""
     from src import cluster as cluster_mod
     from src import embed as embed_mod
+    from src import event_dedup
 
     conn = cache_mod.open_cache(CACHE_PATH)
     pruned = cache_mod.prune(conn)
@@ -158,6 +160,24 @@ def _cluster_today(items: list[dict[str, Any]]):
     cached_cluster_ids = {c["cluster_id"] for c in cached}
     new_clusters = sum(1 for k in kept if k["cluster_id"] not in cached_cluster_ids)
     print(f"cluster: kept {len(kept)} new ({skipped} skipped as near-dupes, {new_clusters} new clusters)")
+
+    # Cross-day event dedup: assign_clusters only compares against the last 7
+    # days of *items*, but event clusters routinely outlive their items (e.g.
+    # three separate un-merged "Rose Festival" clusters were found covering
+    # the same real event from different sources). Items carrying a
+    # structured _event_start (currently only src/fetchers/tourinsoft.py) get
+    # a second check against the clusters table itself.
+    merged = 0
+    for k in kept:
+        if k["cluster_id"] in cached_cluster_ids or not k.get("_event_start"):
+            continue
+        match = event_dedup.find_duplicate_event_cluster(conn, k, k["embedding"])
+        if match and match != k["cluster_id"]:
+            print(f"cluster: merging '{k['title'][:60]}' into existing event cluster {match}")
+            k["cluster_id"] = match
+            merged += 1
+    if merged:
+        print(f"cluster: {merged} event(s) merged into pre-existing clusters")
 
     cache_mod.upsert(conn, kept)
     cache_mod.mark_shown(conn, [k["url"] for k in kept])
@@ -222,9 +242,11 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                 # cluster row so it survives item pruning (RETENTION_DAYS),
                 # since a still-running/future event can otherwise silently
                 # lose its only image before the event date even arrives.
+                # Prefer a Tourinsoft (office_tourisme) image when merged with
+                # other sources — reliably higher-res than newsletter/scrape images.
                 image_candidates = sorted(
                     (i for i in items if i.get("image_url")),
-                    key=lambda i: i["published_at"],
+                    key=lambda i: (i.get("source") != "office_tourisme", i["published_at"]),
                 )
                 image_url = image_candidates[0]["image_url"] if image_candidates else None
                 cache_mod.upsert_cluster(

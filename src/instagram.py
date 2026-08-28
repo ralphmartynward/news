@@ -1056,9 +1056,9 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
             continue
 
         try:
-            member_sources = {it["source"] for it in cache_mod.cluster_items(conn, cid)}
-            hide_date = member_sources == {"office_tourisme"}
-            img = _render_story(ev, hide_date=hide_date)
+            # office_tourisme is now Tourinsoft-sourced (reliable full-year
+            # dates via JSON-LD), so its date no longer needs hiding.
+            img = _render_story(ev)
             img.save(str(out_dir / filename), "JPEG", quality=90)
             print(f"  instagram today: {filename} {ev['title'][:50]}")
             img_w, img_h = _image_dims(ev.get("image_url")) or (None, None)
@@ -1086,8 +1086,31 @@ def render_today_events(conn, out_dir: Path) -> list[dict[str, Any]]:
 # Format 4 — Listicle carousel (top-N articles)
 # ---------------------------------------------------------------------------
 
-def _fetch_listicle_images(url: str, n: int) -> list[str | None]:
-    """Scrape an article page and return up to n content images in document order."""
+def _listicle_image_caption(img) -> str:
+    """Best-effort caption context for a scraped <img>, used to match it back
+    to a listicle item's title (alt text, else nearest figcaption, else
+    nearest preceding heading in document order)."""
+    caption = (img.get("alt") or "").strip()
+    if caption:
+        return caption
+    fig = img.find_parent("figure")
+    if fig:
+        cap = fig.find("figcaption")
+        if cap:
+            text = cap.get_text(" ", strip=True)
+            if text:
+                return text
+    for prev in img.find_all_previous(["h2", "h3", "strong"], limit=1):
+        text = prev.get_text(" ", strip=True)
+        if text:
+            return text
+    return ""
+
+
+def _fetch_listicle_images(url: str, n: int) -> list[tuple[str, str] | None]:
+    """Scrape an article page and return up to n (image_url, caption) pairs
+    in document order. Over-fetching is fine — the caller matches by caption
+    rather than assuming position i maps to listicle item i."""
     try:
         r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
         r.raise_for_status()
@@ -1095,7 +1118,7 @@ def _fetch_listicle_images(url: str, n: int) -> list[str | None]:
         soup = BeautifulSoup(r.text, "html.parser")
         for tag in soup.find_all(["nav", "header", "footer", "aside", "script", "style"]):
             tag.decompose()
-        imgs: list[str] = []
+        imgs: list[tuple[str, str]] = []
         for img in soup.find_all("img"):
             src = (img.get("src") or img.get("data-src") or img.get("data-lazy-src") or "").strip()
             if not src.startswith("http"):
@@ -1126,14 +1149,50 @@ def _fetch_listicle_images(url: str, n: int) -> list[str | None]:
             # Always upgrade to the largest to avoid inconsistent quality.
             if "images.toulouscope.fr" in src:
                 src = re.sub(r"/(small|full)/image\.", "/hd/image.", src)
-            imgs.append(src)
+            imgs.append((src, _listicle_image_caption(img)))
             if len(imgs) >= n:
                 break
-        return imgs + [None] * max(0, n - len(imgs))
+        return imgs
     except Exception as exc:
         import sys as _sys
         print(f"listicle image fetch failed for {url}: {exc}", file=_sys.stderr)
-        return [None] * n
+        return []
+
+
+def _norm_listicle_text(s: str) -> str:
+    import unicodedata
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
+    return s.lower().strip()
+
+
+def _match_listicle_images(
+    items: list[dict[str, Any]], scraped: list[tuple[str, str]]
+) -> list[str | None]:
+    """Match each listicle item to the scraped image whose caption best fits
+    the item's title, instead of assuming document order == item order.
+    Each scraped image is used at most once. No confident match → None (that
+    slide falls back to the cluster cover photo, or gets dropped — never a
+    wrong photo)."""
+    import difflib
+
+    MIN_RATIO = 0.42
+    used: set[int] = set()
+    result: list[str | None] = []
+    for item in items:
+        title_n = _norm_listicle_text(item.get("title", ""))
+        best_idx, best_ratio = None, 0.0
+        for idx, (_src, caption) in enumerate(scraped):
+            if idx in used or not caption:
+                continue
+            ratio = difflib.SequenceMatcher(None, title_n, _norm_listicle_text(caption)).ratio()
+            if ratio > best_ratio:
+                best_ratio, best_idx = ratio, idx
+        if best_idx is not None and best_ratio >= MIN_RATIO:
+            used.add(best_idx)
+            result.append(scraped[best_idx][0])
+        else:
+            result.append(None)
+    return result
 
 
 def _render_listicle_cover(cluster: dict[str, Any], n_items: int) -> "Image":
@@ -1291,16 +1350,12 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
             if not has_usable_photo(cl.get("image_url")):
                 print(f"  instagram listicle: skipping {cid} — cover photo too small/unusable, no fallback")
                 continue
-            items = items[:9]  # + 1 cover slide = 10 max (Instagram carousel limit)
             safe_cid = cid.replace(":", "_")
 
             # listicle_items text can be synthesised from several merged source
             # items (near-duplicate "things to do" round-ups get clustered
             # together), but per-item images are scraped from a single URL
-            # (the cluster's primary source) and matched purely by position.
-            # That mapping is only valid when the whole listicle really comes
-            # from one article — otherwise slide N's photo has no relation to
-            # slide N's title. Skip rather than post mismatched images.
+            # (the cluster's primary source). Skip rather than post mismatched images.
             member_items = cache_mod.cluster_items(conn, cid)
             if len(member_items) != 1:
                 print(f"  instagram listicle: skipping {cid} — listicle_items came from "
@@ -1308,34 +1363,56 @@ def render_listicle_carousels(conn, out_dir: Path) -> list[str]:
                       f"only works for a single source page")
                 continue
 
-            # Scrape individual images from the article page
-            item_imgs = _fetch_listicle_images(cl.get("url") or "", len(items))
+            # Over-fetch scraped images — document order doesn't reliably match
+            # listicle item order, so we match by caption text below rather
+            # than assuming position i == item i.
+            scraped = _fetch_listicle_images(cl.get("url") or "", max(len(items) * 2, 10))
+            matched = _match_listicle_images(items, scraped)
+            n_matched = sum(1 for m in matched if m)
+            if n_matched < min(2, len(items)) or n_matched < len(items) // 2:
+                print(f"  instagram listicle: skipping {cid} — too few confident image "
+                      f"matches ({n_matched}/{len(items)})")
+                continue
+
+            # Prioritize instead of blindly slicing the first 9: keep listicle
+            # order (it's a ranked list), but only count items that will
+            # actually render with a usable photo against the 9-slide budget,
+            # so an early item with no matched image doesn't waste a slot.
+            candidates = []
+            for item, img_url in zip(items, matched):
+                effective_img = img_url or cl.get("image_url")
+                if has_usable_photo(effective_img):
+                    candidates.append((item, effective_img))
+            dropped_no_image = len(items) - len(candidates)
+            if dropped_no_image:
+                print(f"  instagram listicle: {dropped_no_image}/{len(items)} item(s) "
+                      f"dropped — no usable matched image")
+            total = len(candidates)
+            budget_dropped = max(0, total - 9)
+            candidates = candidates[:9]  # + 1 cover slide = 10 max (Instagram carousel limit)
+            if budget_dropped:
+                print(f"  instagram listicle: {budget_dropped} more item(s) beyond the "
+                      f"9-slide budget dropped")
 
             slides: list[dict[str, Any]] = []
 
             # Cover slide
-            cover = _render_listicle_cover(cl, len(items))
+            cover = _render_listicle_cover(cl, len(candidates))
             cover_file = f"{safe_cid}_listicle_cover.jpg"
             cover.save(str(out_dir / cover_file), "JPEG", quality=92)
             cover_w, cover_h = _image_dims(cl.get("image_url")) or (None, None)
             slides.append({"file": cover_file, "type": "cover", "img_width": cover_w, "img_height": cover_h})
 
-            # Item slides — a too-small per-item photo just drops that one slide
-            n = 0
-            for item, img_url in zip(items, item_imgs):
-                effective_img = img_url or cl.get("image_url")
-                if not has_usable_photo(effective_img):
-                    print(f"  instagram listicle: skipping item '{item.get('title','')[:40]}' — photo too small/unusable")
-                    continue
-                n += 1
-                slide = _render_listicle_item_slide(item, n, len(items), effective_img)
+            # Item slides
+            for n, (item, effective_img) in enumerate(candidates, start=1):
+                slide = _render_listicle_item_slide(item, n, len(candidates), effective_img)
                 slide_file = f"{safe_cid}_listicle_{n:02d}.jpg"
                 slide.save(str(out_dir / slide_file), "JPEG", quality=92)
                 img_w, img_h = _image_dims(effective_img) or (None, None)
                 slides.append({"file": slide_file, "type": "item", "title": item.get("title", ""),
                                 "location": item.get("location", ""),
                                 "img_width": img_w, "img_height": img_h})
-                print(f"  instagram listicle: slide {n}/{len(items)} — {item.get('title','')[:40]}")
+                print(f"  instagram listicle: slide {n}/{len(candidates)} — {item.get('title','')[:40]}")
 
             manifest = {
                 "type": "listicle_carousel", "cluster_id": cid,
@@ -1411,7 +1488,10 @@ def render_weekend_carousel(conn, out_dir: Path) -> list[dict[str, Any]]:
     slides.append({"file": cover_file, "type": "cover"})
     print(f"  instagram weekend: cover slide ({sat} - {sun})")
 
-    # Event slides
+    # Event slides — ranked by _event_sort_key above, so the 9-slide cap keeps
+    # the most timely/reliable events rather than whatever sorted last.
+    if len(events) > 9:
+        print(f"  instagram weekend: {len(events) - 9} event(s) beyond the 9-slide budget dropped")
     for i, ev in enumerate(events[:9], start=1):
         slide = _render_weekend_event_slide(ev, i)
         fname = f"weekend_event_{i:02d}.jpg"

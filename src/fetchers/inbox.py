@@ -355,6 +355,10 @@ def _extract_officetourisme(
 ) -> list[dict[str, Any]]:
     """Extract individual events from the Office de Tourisme weekend digest.
 
+    Retired 2026-08 — superseded by src/fetchers/tourinsoft.py, which scrapes
+    the live agenda directly and gets reliable full-year dates via JSON-LD.
+    Kept here, unreferenced, only as a rollback reference.
+
     The email is HTML-only (base64). We parse the HTML, strip boilerplate, then
     split on 'EN SAVOIR PLUS' links — each block is one event with its date,
     name, audience tags, and description. Each becomes a separate item so that
@@ -612,7 +616,8 @@ def _extract_clutch(
 SENDER_EXTRACTORS: dict[str, Callable[[str, str, datetime, str], list[dict[str, Any]]]] = {
     "toulouse.lessentiel.fr": _extract_lessentiel,
     "clutchmag.fr": _extract_clutch,
-    "tourinsoft.com": _extract_officetourisme,
+    # tourinsoft.com retired 2026-08 — superseded by src/fetchers/tourinsoft.py
+    # (direct scrape of the live agenda, with reliable full-year dates).
 }
 
 # Content-based detection: used when the email was forwarded (e.g. Gmail auto-forward
@@ -630,10 +635,7 @@ _CONTENT_EXTRACTORS: list[tuple[Callable, Callable[[str, str], bool]]] = [
         _extract_clutch,
         lambda html, text: "⚡" in text and "clutchmag.fr" in (html + text),
     ),
-    (
-        _extract_officetourisme,
-        lambda html, text: "EN SAVOIR PLUS" in html and "tourinsoft.com" in (html + text),
-    ),
+    # _extract_officetourisme retired 2026-08 — superseded by src/fetchers/tourinsoft.py
 ]
 
 def _classify_sender(from_addr: str) -> tuple[str, Callable | None]:

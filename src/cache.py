@@ -90,7 +90,8 @@ _SYSTEM_SOURCES = ("google.com", "accounts.google.com", "googlemail.com",
                    # emails still pass the transactional check and reach content detection.
                    "gmail.com",
                    # Fallback source keys produced when a newsletter extractor returns empty
-                   "tourinsoft",                # OfficeTourisme fallback
+                   "tourinsoft",                # OfficeTourisme fallback (extractor era)
+                   "tourinsoft.com",            # OfficeTourisme fallback (post-retirement, generic per-sender fallback)
                    "newsletter-lebonbon",       # Le Bonbon fallback (extractor era, no .fr)
                    "newsletter-lebonbon.fr",    # Le Bonbon fallback (post-extractor, full domain)
                    "le_bonbon",                 # Le Bonbon extracted items (source removed)
@@ -445,15 +446,17 @@ def load_weekend_events(conn: sqlite3.Connection, earliest_start: str, date_to: 
 
 
 def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[str, Any]]:
-    """Event clusters happening on date_iso that haven't been posted as a Story today.
+    """Event clusters eligible for today's Instagram Story.
 
-    Stories disappear after 24h so posting daily for ongoing events is intentional.
+    Short events (span <= 4 days, or no end date) repost daily while active —
+    Stories disappear after 24h so this is intentional. Long events (span > 4
+    days) are eligible only once, ever: during a 3-day pre-event teaser window
+    ending on their opening day, and only if never posted before. There is no
+    "repost after a gap" behaviour for long events — once ig_story_at is set,
+    they never reappear.
     The image filter in render_today_events naturally caps volume to image-having events only.
     Covers single-day and multi-day events (event_start <= date <= event_end).
     """
-    from datetime import date, timedelta
-    # Long events (> 14 days) repost weekly; short events repost daily.
-    week_ago = (date.fromisoformat(date_iso) - timedelta(days=7)).isoformat()
     # eff_start: use the cluster's explicit event_start when set; fall back to the
     # item's published_at date for events that only use relative date language
     # ("ce soir", "aujourd'hui", "cet après-midi") which synthesis correctly
@@ -481,21 +484,48 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
              FROM clusters c
              WHERE c.category = 'event'
            )
-           WHERE eff_start <= ?
-             AND (event_end >= ? OR (event_end IS NULL AND eff_start >= ?))
-             AND (
-               ig_story_at IS NULL
-               OR (
-                 (event_end IS NULL OR julianday(event_end) - julianday(eff_start) <= 14)
-                 AND ig_story_at < ?
-               )
-               OR (
-                 julianday(event_end) - julianday(eff_start) > 14
-                 AND ig_story_at < ?
-               )
+           WHERE (
+             -- short events (span <= 4 days, or no end date): active window, daily repost
+             (
+               (event_end IS NULL OR julianday(event_end) - julianday(eff_start) <= 4)
+               AND eff_start <= ?
+               AND (event_end >= ? OR (event_end IS NULL AND eff_start >= ?))
+               AND (ig_story_at IS NULL OR ig_story_at < ?)
              )
+             OR (
+               -- long events (span > 4 days): one-shot pre-event teaser window
+               -- ending on opening day, only if never posted before. Note this
+               -- does NOT require eff_start <= today — the window runs before
+               -- the event starts too.
+               event_end IS NOT NULL AND julianday(event_end) - julianday(eff_start) > 4
+               AND ig_story_at IS NULL
+               AND julianday(eff_start) - julianday(?) BETWEEN 0 AND 3
+             )
+           )
            ORDER BY eff_start""",
-        (date_iso, date_iso, date_iso, date_iso, week_ago),
+        (date_iso, date_iso, date_iso, date_iso, date_iso),
+    ).fetchall()
+    return [dict(r) for r in rows]
+
+
+def find_event_cluster_candidates(
+    conn: sqlite3.Connection, start: str, end: str | None, pad_days: int = 3
+) -> list[dict[str, Any]]:
+    """Event clusters (category='event') whose date span overlaps
+    [start-pad, end_or_start+pad]. Queries `clusters` directly rather than
+    joining `items`, so it still finds a match even after the cluster's
+    original items have been pruned from the 7-day `items` window."""
+    from datetime import date as _date, timedelta as _timedelta
+
+    lo = (_date.fromisoformat(start) - _timedelta(days=pad_days)).isoformat()
+    hi = (_date.fromisoformat(end or start) + _timedelta(days=pad_days)).isoformat()
+    rows = conn.execute(
+        """SELECT c.cluster_id, c.title, c.event_name, c.event_start, c.event_end
+           FROM clusters c
+           WHERE c.category = 'event' AND c.event_start IS NOT NULL
+             AND c.event_start <= ?
+             AND COALESCE(c.event_end, c.event_start) >= ?""",
+        (hi, lo),
     ).fetchall()
     return [dict(r) for r in rows]
 
