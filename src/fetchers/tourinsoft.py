@@ -193,13 +193,17 @@ def fetch() -> list[dict[str, Any]]:
         if i < len(changed) - 1:
             time.sleep(CRAWL_DELAY_S)
 
-    if not truncated:
-        for url in fetched_ok:
-            state[url] = current[url]
-        try:
-            _save_state(state)
-        except Exception as e:
-            print(f"tourinsoft: failed to save state — {type(e).__name__}: {e}", file=sys.stderr)
+    # Save progress for whatever was actually fetched, truncated or not —
+    # a truncated run is expected (multi-day backfill), not a failure, and
+    # gating the save on "not truncated" meant it would never save while
+    # changed > cap, so the backfill would re-fetch the same first batch
+    # forever instead of advancing.
+    for url in fetched_ok:
+        state[url] = current[url]
+    try:
+        _save_state(state)
+    except Exception as e:
+        print(f"tourinsoft: failed to save state — {type(e).__name__}: {e}", file=sys.stderr)
 
     return items
 

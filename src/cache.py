@@ -460,7 +460,14 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
     # eff_start: use the cluster's explicit event_start when set; fall back to the
     # item's published_at date for events that only use relative date language
     # ("ce soir", "aujourd'hui", "cet après-midi") which synthesis correctly
-    # leaves as NULL rather than guessing.
+    # leaves as NULL rather than guessing. This fallback assumes publication
+    # time correlates with the event being imminent, which holds for news/
+    # newsletter sources but NOT office_tourisme (Tourinsoft): its
+    # published_at is just whenever the scraper happened to run, unrelated
+    # to the event's real date. Exclude office_tourisme items as the fallback
+    # anchor — an office_tourisme-only cluster with no event_start stays
+    # eff_start NULL and is correctly excluded below rather than mislabelled
+    # as "happening today".
     rows = conn.execute(
         """SELECT cluster_id, title, summary, category, event_start, event_end,
                   event_name, ig_caption, ig_hashtags, venue, ig_mention, highlight, url, source, image_url
@@ -478,13 +485,14 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
                     ) AS image_url,
                     COALESCE(c.event_start,
                       DATE((SELECT published_at FROM items
-                            WHERE cluster_id = c.cluster_id
+                            WHERE cluster_id = c.cluster_id AND source != 'office_tourisme'
                             ORDER BY published_at LIMIT 1))
                     ) AS eff_start
              FROM clusters c
              WHERE c.category = 'event'
            )
-           WHERE (
+           WHERE eff_start IS NOT NULL
+             AND (
              -- short events (span <= 4 days, or no end date): active window, daily repost
              (
                (event_end IS NULL OR julianday(event_end) - julianday(eff_start) <= 4)
