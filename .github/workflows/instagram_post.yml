@@ -36,17 +36,27 @@ jobs:
 
       - name: Wait for GitHub Pages deployment
         run: |
-          # Poll for today's manifest.json — only live once the day's build deploys.
+          # Poll for any of today's possible manifests — only live once the day's
+          # build deploys. Which manifests exist depends on what content the
+          # digest produced that day (a story-only day has no manifest.json or
+          # weekend_manifest.json at all, and would 404 forever on those alone),
+          # so treat ANY of them appearing as proof the deploy landed.
           # Checking index.html is useless (always 200 from the previous build).
           # Max wait: 60s initial + 14×30s = 8 minutes total.
           DATE_SLUG=$(date -u +%Y-%m-%d)
-          PROBE="https://news.lavillerose.com/instagram/${DATE_SLUG}/manifest.json"
+          BASE="https://news.lavillerose.com/instagram/${DATE_SLUG}"
           echo "Waiting for Pages to deploy today's content (${DATE_SLUG})..."
           sleep 60
           for i in $(seq 1 14); do
-            STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$PROBE")
-            echo "Attempt $i: manifest.json → HTTP $STATUS"
-            if [ "$STATUS" = "200" ]; then
+            FOUND=0
+            for f in manifest.json today_events_manifest.json weekend_manifest.json; do
+              STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$BASE/$f")
+              echo "Attempt $i: $f → HTTP $STATUS"
+              if [ "$STATUS" = "200" ]; then
+                FOUND=1
+              fi
+            done
+            if [ "$FOUND" = "1" ]; then
               echo "Today's content is live."
               break
             fi
