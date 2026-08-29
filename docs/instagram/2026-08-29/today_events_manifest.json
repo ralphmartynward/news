@@ -1,0 +1,121 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:8818663c-cad4-441d-aef0-c982ca70ef4a",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le festival Fly to Japan revient à Colomiers du 26 au 30 août",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a7f30a98db5929da903c16a/hd/image.png?v=3",
+    "file": "cluster_8818663c-cad4-441d-aef0-c982ca70ef4a_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:e951d499-8acd-4655-a8bd-38fcbeac17e5",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Aventures du Capitaine Frimousse à La Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-CAPITAINE-FRIMOUSSE.png",
+    "file": "cluster_e951d499-8acd-4655-a8bd-38fcbeac17e5_event_story.jpg",
+    "img_width": 500,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:760d2405-d4fe-484f-b998-5d77e0828bf8",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Sélection de sorties à Toulouse pour ce week-end de fin août",
+    "image_url": "https://static.actu.fr/uploads/2023/08/ete-piscine-nakache-toulouse.png",
+    "file": "cluster_760d2405-d4fe-484f-b998-5d77e0828bf8_event_story.jpg",
+    "img_width": 1024,
+    "img_height": 768
+  },
+  {
+    "cluster_id": "cluster:7e139474-2336-4e95-96ad-d16a5db119ea",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Guinguette estivale musicale et gourmande au Couvent des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-GUINGUETTE-JACOBINS.png",
+    "file": "cluster_7e139474-2336-4e95-96ad-d16a5db119ea_event_story.jpg",
+    "img_width": 500,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:226ec597-43b3-41b8-9a4a-de7b1c756fec",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Le Before Back Festival hip-hop revient pour une troisième édition à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-BEFORE-BACK-FESTIVAL.png",
+    "file": "cluster_226ec597-43b3-41b8-9a4a-de7b1c756fec_event_story.jpg",
+    "img_width": 500,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:db8a4c99-94c5-4416-a416-54a1103c1ce7",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Visite en famille du Monument de la Résistance à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.com/upload/AGENDA-DU-WE-VISITE-FAMILLE-RESISTANCE.png",
+    "file": "cluster_db8a4c99-94c5-4416-a416-54a1103c1ce7_event_story.jpg",
+    "img_width": 500,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:2b66d72f-29cb-4cc1-8854-44963e5b4da5",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Rencontres du troisième type en plein air à la Cinémathèque",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RENCONTRES-DU-TROISIEME-TYPE-CINE-PLEIN-AIR.jpg",
+    "file": "cluster_2b66d72f-29cb-4cc1-8854-44963e5b4da5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:41ec9fa0-be14-4c2f-90f0-b90b1f15b3e9",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Karpouzi Mon Amour en concert à la Halle de la Machine",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/KARPOUZI-MON-AMOUR-HALLE-NIGHT-LONG.jpg",
+    "file": "cluster_41ec9fa0-be14-4c2f-90f0-b90b1f15b3e9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:620f8b6a-fe1e-4544-8016-24dd841da2ef",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Pianomuses : trois concerts de pianos historiques à la Chapelle des Carmélites",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PIANOMUSES-29-AOUT-TOULOUSE.jpg",
+    "file": "cluster_620f8b6a-fe1e-4544-8016-24dd841da2ef_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ec620729-e475-46e6-b57a-f6be6202f5a3",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Comédie romantique « Aime-moi… si tu peux ! » à la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AIME-MOI-SI-TU-PEUX.jpg",
+    "file": "cluster_ec620729-e475-46e6-b57a-f6be6202f5a3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
