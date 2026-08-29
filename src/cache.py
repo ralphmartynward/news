@@ -548,7 +548,11 @@ def mark_ig_story_posted(conn: sqlite3.Connection, cluster_ids: list[str], poste
 
 
 def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[dict[str, Any]]:
-    """Clusters synthesised since `since_iso` (ISO datetime) with category != 'news'.
+    """Clusters synthesised since `since_iso` (ISO datetime), for regular posts +
+    listicle carousels. Excludes category='news' EXCEPT when it carries real
+    listicle_items — a "que faire ce week-end" roundup is correctly "news"
+    (it's not a single dedicated event) but is still legitimate listicle
+    carousel content; only bare hard-news with no listicle structure is excluded.
 
     Returns each cluster with its primary source and image_url pulled from items.
     """
@@ -565,7 +569,7 @@ def load_instagram_clusters(conn: sqlite3.Connection, since_iso: str) -> list[di
                      ORDER BY published_at LIMIT 1)
                   ) AS image_url
            FROM clusters c
-           WHERE c.category != 'news'
+           WHERE (c.category != 'news' OR c.listicle_items IS NOT NULL)
              AND c.category IS NOT NULL
              AND c.last_synthesised_at >= ?
            ORDER BY c.last_synthesised_at DESC""",
