@@ -2,11 +2,13 @@ name: Post to Instagram
 
 on:
   schedule:
-    # Runs well after the digest (digest.yml targets ~06:30 UTC via an external
-    # cron-job.org trigger — see its comment). This gap is the review window:
-    # check docs/instagram/<date>/review.html and edit a manifest before this fires.
-    # Adjust if the digest's actual completion time drifts.
-    - cron: "0 8 * * *"
+    # 06:00 UTC = 08:00 Paris (CEST, summer) / 07:00 Paris (CET, winter).
+    # Only a 30-min gap after the digest (targets 05:30 UTC — see its comment),
+    # which is also the review window: check docs/instagram/<date>/review.html
+    # and edit a manifest before this fires if you want to veto something.
+    # That window is intentionally tight now; widen it back out (e.g. cron
+    # "0 8 * * *") if 30 min isn't enough time to review before it posts.
+    - cron: "0 6 * * *"
   workflow_dispatch:
     inputs:
       carousel_only:
