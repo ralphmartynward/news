@@ -8,7 +8,7 @@ from typing import Any
 from zoneinfo import ZoneInfo
 
 from src import cache as cache_mod
-from src.fetchers import actu_toulouse, inbox, toulouscope, tourinsoft
+from src.fetchers import actu_toulouse, inbox, ticketmaster, toulouscope, tourinsoft
 from src.feed import write_atom
 from src.landing import PARIS, _french_long_date, render as render_landing, render_calendar_page
 from src.render_email import render as render_email
@@ -28,6 +28,7 @@ FETCHERS = [
     ("actu_toulouse", actu_toulouse.fetch),
     ("toulouscope", toulouscope.fetch),
     ("tourinsoft", tourinsoft.fetch),
+    ("ticketmaster", ticketmaster.fetch),
     ("inbox", inbox.fetch),
 ]
 
@@ -242,11 +243,13 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                 # cluster row so it survives item pruning (RETENTION_DAYS),
                 # since a still-running/future event can otherwise silently
                 # lose its only image before the event date even arrives.
-                # Prefer a Tourinsoft (office_tourisme) image when merged with
-                # other sources — reliably higher-res than newsletter/scrape images.
+                # Prefer Tourinsoft (office_tourisme) or Ticketmaster images when
+                # merged with other sources — reliably higher-res than
+                # newsletter/scrape images (e.g. Clutch's).
+                _IMAGE_SOURCE_RANK = {"office_tourisme": 0, "ticketmaster": 1}
                 image_candidates = sorted(
                     (i for i in items if i.get("image_url")),
-                    key=lambda i: (i.get("source") != "office_tourisme", i["published_at"]),
+                    key=lambda i: (_IMAGE_SOURCE_RANK.get(i.get("source"), 2), i["published_at"]),
                 )
                 image_url = image_candidates[0]["image_url"] if image_candidates else None
                 cache_mod.upsert_cluster(

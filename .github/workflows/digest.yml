@@ -39,6 +39,7 @@ jobs:
           EMAIL_FROM_ADDRESS: ${{ vars.EMAIL_FROM_ADDRESS }}
           WORKER_SUBSCRIBE_URL: ${{ vars.WORKER_SUBSCRIBE_URL }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
         run: python -m src.main
 
       - name: Commit updated artifacts

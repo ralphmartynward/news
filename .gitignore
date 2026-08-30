@@ -5,6 +5,7 @@ __pycache__/
 lessentiel.txt
 kv_dump.py
 lessentiel-sample.json
+ticketmaster.txt
 *.pyc
 *.pyo
 .venv/
