@@ -1,8 +1,11 @@
 from __future__ import annotations
 
 import os
+import re
 import sys
 import time
+import unicodedata
+from collections import defaultdict
 from datetime import date, datetime, timezone
 from typing import Any
 
@@ -43,6 +46,16 @@ def _venue_name(event: dict[str, Any]) -> str | None:
         return None
     name = venues[0].get("name")
     return name.strip() if isinstance(name, str) and name.strip() else None
+
+
+def _venue_id(event: dict[str, Any]) -> str | None:
+    venues = (event.get("_embedded") or {}).get("venues") or []
+    return venues[0].get("id") if venues else None
+
+
+def _norm_show_name(name: str) -> str:
+    name = unicodedata.normalize("NFKD", name or "").encode("ascii", "ignore").decode()
+    return re.sub(r"\s+", " ", name).strip().upper()
 
 
 def _venue_city(event: dict[str, Any]) -> str | None:
@@ -120,7 +133,35 @@ def _parse_event(event: dict[str, Any]) -> dict[str, Any] | None:
         "_event_start": start,
         "_event_end": end,
         "_event_name": name,
+        "_venue_id": _venue_id(event),
     }
+
+
+def _filter_recurring_residencies(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Drop long-running theatre/comedy residencies: Ticketmaster represents
+    each performance date as its own separate single-date event (no end
+    date on any individual one), so a per-event span check can't see that
+    "LES BONOBOS" running weekly from Sept to Dec is the same non-unique
+    show, not a one-off. Group by (show name, venue) and check the spread
+    across ALL of a show's dates instead -- a real one-off event is its own
+    group of size 1 with zero spread, so it always survives untouched."""
+    groups: dict[tuple[str, str | None], list[dict[str, Any]]] = defaultdict(list)
+    undated: list[dict[str, Any]] = []
+    for it in items:
+        if not it.get("_event_start"):
+            undated.append(it)
+            continue
+        key = (_norm_show_name(it["_event_name"]), it.get("_venue_id"))
+        groups[key].append(it)
+
+    kept = list(undated)
+    for group_items in groups.values():
+        starts = [date.fromisoformat(gi["_event_start"]) for gi in group_items]
+        spread_days = (max(starts) - min(starts)).days
+        if spread_days > MAX_EVENT_SPAN_DAYS:
+            continue
+        kept.extend(group_items)
+    return kept
 
 
 def fetch() -> list[dict[str, Any]]:
@@ -175,6 +216,12 @@ def fetch() -> list[dict[str, Any]]:
         if page >= total_pages:
             break
         time.sleep(INTER_PAGE_DELAY_S)
+
+    before = len(items)
+    items = _filter_recurring_residencies(items)
+    dropped = before - len(items)
+    if dropped:
+        print(f"ticketmaster: dropped {dropped} performance(s) belonging to recurring residencies", file=sys.stderr)
 
     return items
 
