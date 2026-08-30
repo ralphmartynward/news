@@ -12591,7 +12591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:549eeb6d-2af6-4852-8925-27755a8b0ee8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20261003
 SUMMARY:Profondeur de champ
 DESCRIPTION:L'exposition « Profondeur de champ » se tient au Pavillon Bla
  nc Henri Molina de Colomiers du 2 octobre 2026 au 20 février 2027. Elle s
@@ -15905,24 +15905,6 @@ URL:https://www.toulouse-tourisme.com/agenda/maria-de-buenos-aires/?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:656d73c6-7ebe-4782-8464-549c0a38d68a@news.lavillerose.com
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
-SUMMARY:Frames
-DESCRIPTION:Le chorégraphe belge Alexander Vantournhout présente Frames a
- u Théâtre Garonne\, une création en trois installations chorégraphique
- s qui bouscule les codes de la représentation scénique. Plutôt que de c
- onfiner le spectacle à la scène\, Vantournhout multiplie les cadres et d
- éplace le public au fil d'un parcours en trois temps. La performance s'ap
- puie sur la gravité\, l'équilibre et la coopération corporelle\, explor
- ant les limites physiques du corps humain comme une sculpture vivante. L'
- œuvre invite \n\nSource\: https://www.toulouse-tourisme.com/agenda/frames
- /
-LOCATION:place le public au fil d'un\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/frames/?utm_source=ical&utm_me
- dium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:89685ad6-8fb4-4e2f-80b9-7b59dc71e048@news.lavillerose.com
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
@@ -15937,23 +15919,6 @@ DESCRIPTION:Le Théâtre de la Cité accueille « Les Petites Filles Modern
  www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/
 URL:https://www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:47258af3-cfc5-4a98-acec-b5a18e9e8a46@news.lavillerose.com
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270116
-SUMMARY:MOJURZIKONG
-DESCRIPTION:Le musicien Jérôme Lorichon et l'illustrateur Émeric Guémas
-  s'associent pour créer MOJURZIKONG\, un spectacle live mêlant musique\,
-  théâtre d'ombres et cinéma d'animation. L'œuvre s'inspire des grands 
- monstres de la pop culture — Moby Dick\, Jurassic Park\, Godzilla et Kin
- g Kong — pour embarquer le public dans une odyssée spatiale vers une pl
- anète peuplée de dinosaures. Le spectacle\, pensé pour tous les âges\,
-  joue sur la dualité entre l'imaginaire enfantin et la sophistication art
- istique de sa conce\n\nSource\: https://www.toulouse-tourisme.com/agenda/m
- ojurzikong/
-URL:https://www.toulouse-tourisme.com/agenda/mojurzikong/?utm_source=ical&u
- tm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3ad8d37b-df7b-414f-812d-ffe66b9fe315@news.lavillerose.com
@@ -16284,23 +16249,6 @@ URL:https://www.toulouse-tourisme.com/agenda/la-fragilite-des-mondes/?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:dc7b0fae-6fa1-478d-a00b-0810a3493972@news.lavillerose.com
-DTSTART;VALUE=DATE:20270204
-DTEND;VALUE=DATE:20270205
-SUMMARY:MÉDUSÉE
-DESCRIPTION:MÉDUSÉE est une pièce de théâtre présentée au Théâtre 
- Sorano de Toulouse\, qui réinterprète le mythe de Méduse à travers le 
- prisme de la justice\, de l'amour et de la réparation. Sur scène\, Médu
- sa et ses sœurs-gorgones nomment frontalement les violences sexuelles\, l
- es rêves brisés et les métamorphoses\, tout en entremêlant chant et pa
- role. La pièce aborde aussi la question de l'amour — de soi et des autr
- es — comme force de transformation. Un avertissement est explicitement f
- ormulé : le spectacle tr\n\nSource\: https://www.toulouse-tourisme.com/ag
- enda/medusee/
-URL:https://www.toulouse-tourisme.com/agenda/medusee/?utm_source=ical&utm_m
- edium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:4c640b44-16ce-4a71-ad83-ae0e1993673d@news.lavillerose.com
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
@@ -16522,6 +16470,23 @@ DESCRIPTION:Le chef italien Riccardo Bisatti et le violoniste brésilien Gu
 LOCATION:Halle aux Grains de Toulouse en mars 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/riccardo-bisatti-guido-santann
  a/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a531feee-809f-4731-98d5-ef14548535c9@news.lavillerose.com
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Beethoven : Le Bicentenaire
+DESCRIPTION:En mars 2027\, Toulouse commémore le 200ème anniversaire de l
+ a mort de Beethoven avec des concerts programmés sur deux soirées. Au pr
+ ogramme figurent la 7ème symphonie et le concerto l'Empereur\, présenté
+ s comme parmi les œuvres les plus représentatives du compositeur. L'év
+ énement est décliné sur deux lieux différents : l'Auditorium Saint-Pie
+ rre des Cuisines et L'Escale. Le texte de présentation souligne la singul
+ arité de Beethoven\, premier compositeur à s'affranchir de toute tutelle
+ \, et glisse un\n\nSource\: https://www.toulouse-tourisme.com/agenda/beeth
+ oven-le-bicentenaire/
+URL:https://www.toulouse-tourisme.com/agenda/beethoven-le-bicentenaire/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:99619980-b406-4de1-aa35-2b405e8a698a@news.lavillerose.com
@@ -17059,23 +17024,6 @@ URL:https://www.toulouse-tourisme.com/agenda/le-premier-sexe-ou-la-grosse-a
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:f0feaa88-8472-4034-8fd6-4522dab7ec72@news.lavillerose.com
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270331
-SUMMARY:Sous les Paupières
-DESCRIPTION:« Sous les Paupières » est un spectacle solo présenté au T
- héâtre Sorano de Toulouse\, interprété par une comédienne et paroliè
- re qui mêle avec subtilité différents registres pour explorer les épre
- uves de l'existence. Elle y parcourt les tourments de l'école\, les secre
- ts de famille et les grandes questions de vie et de mort\, jusqu'au moment
-  décisif du réveil. La performance est décrite comme à la fois joyeuse
-  et combative\, embarquant le public dans un récit personnel et universel
- . Ce solo s'adress\n\nSource\: https://www.toulouse-tourisme.com/agenda/so
- us-les-paupieres/
-URL:https://www.toulouse-tourisme.com/agenda/sous-les-paupieres/?utm_source
- =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:eaf3ebaf-c20f-41d4-bd3d-d1f642f10f6f@news.lavillerose.com
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270404
@@ -17480,23 +17428,6 @@ DESCRIPTION:Le Théâtre Sorano accueille Mesure pour mesure\, une adaptati
  -pour-mesure/
 URL:https://www.toulouse-tourisme.com/agenda/mesure-pour-mesure/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:e6f5bb0d-a8c6-4f96-8fba-2274b6469db2@news.lavillerose.com
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270522
-SUMMARY:Folies Furieuses
-DESCRIPTION:La compagnie Les Palpitantes présente « Folies Furieuses » a
- u Théâtre de la Cité\, une pièce écrite par l'autrice féministe Mél
- issa Zehner. Le spectacle explore l'impact des violences intrafamiliales s
- ur les corps et les psychés\, à travers une galerie de personnages hauts
-  en couleur — mariée en cavale\, beat boxeuse amoureuse — dont certai
- ns ont connu des séjours psychiatriques. La forme mêle fiction rocambole
- sque\, flows bruts et viscéraux\, et chants aux accents modernes pour fai
- re surgir sur scèn\n\nSource\: https://www.toulouse-tourisme.com/agenda/f
- olies-furieuses/
-URL:https://www.toulouse-tourisme.com/agenda/folies-furieuses/?utm_source=i
- cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a2c1bee0-351c-4e73-b5a0-847c86a3a66e@news.lavillerose.com

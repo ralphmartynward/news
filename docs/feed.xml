@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-08-29T18:50:53.872687+00:00</updated>
+  <updated>2026-08-30T10:17:26.673332+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,34 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:6f9e24cf-02c9-4c24-8d19-9b65fb047902</id>
-    <title>Peter Grimes à l'Opéra National du Capitole en novembre</title>
-    <updated>2026-08-29T08:59:11.749017+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;Opéra National du Capitole programme Peter Grimes, chef-d&amp;#x27;œuvre de Benjamin Britten, le 20 novembre 2026. L&amp;#x27;opéra raconte l&amp;#x27;histoire d&amp;#x27;un pêcheur solitaire confronté à la suspicion et à la vindicte d&amp;#x27;une communauté provinciale, entre tempête et conscience collective. L&amp;#x27;œuvre, créée en 1945, est considérée comme l&amp;#x27;acte fondateur de la renaissance de l&amp;#x27;opéra anglais, avec des interludes orchestraux évoquant la mer et la tempête d&amp;#x27;une puissance saisissante. Les mélomanes toulousains pourront découvrir ou redécouvrir cette partition aux forces telluriques dans l&amp;#x27;une des plus belles salles lyriques du Sud-Ouest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/peter-grimes/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/peter-grimes/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Opéra National du Capitole programme Peter Grimes, chef-d'œuvre de Benjamin Britten, le 20 novembre 2026. L'opéra raconte l'histoire d'un pêcheur solitaire confronté à la suspicion et à la vindicte d'une communauté provinciale, entre tempête et conscience collective. L'œuvre, créée en 1945, est considérée comme l'acte fondateur de la renaissance de l'opéra anglais, avec des interludes orchestraux évoquant la mer et la tempête d'une puissance saisissante. Les mélomanes toulousains pourront découvrir ou redécouvrir cette partition aux forces telluriques dans l'une des plus belles salles lyriques du Sud-Ouest.</summary>
-    <category term="event"/>
-    <published>2026-08-29T07:50:53.918104+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4</id>
-    <title>Récital du ténor Joseph Calleja à l'Opéra National du Capitole</title>
-    <updated>2026-08-29T08:59:11.749017+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;Le ténor maltais Joseph Calleja se produit pour la première fois en récital à l&amp;#x27;Opéra National du Capitole de Toulouse le 15 novembre 2026. Né à Malte en 1978, il a découvert l&amp;#x27;opéra adolescent grâce au film Le Grand Caruso, avant de remporter le Concours Caruso de Milan et de signer chez Decca à vingt-cinq ans. Figure incontournable des grandes scènes mondiales — Met, Covent Garden, Vienne, Bastille —, il est reconnu pour ses interprétations du Duc de Mantoue, Rodolfo, Cavaradossi ou Faust. Pour ce récital, il proposera un programme mêlant répertoire slave et ardeur lyrique italienne, accompagné par la pianiste française Sarah Tysman, partenaire habituelle des plus grands chanteurs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/joseph-colleja/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/joseph-colleja/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le ténor maltais Joseph Calleja se produit pour la première fois en récital à l'Opéra National du Capitole de Toulouse le 15 novembre 2026. Né à Malte en 1978, il a découvert l'opéra adolescent grâce au film Le Grand Caruso, avant de remporter le Concours Caruso de Milan et de signer chez Decca à vingt-cinq ans. Figure incontournable des grandes scènes mondiales — Met, Covent Garden, Vienne, Bastille —, il est reconnu pour ses interprétations du Duc de Mantoue, Rodolfo, Cavaradossi ou Faust. Pour ce récital, il proposera un programme mêlant répertoire slave et ardeur lyrique italienne, accompagné par la pianiste française Sarah Tysman, partenaire habituelle des plus grands chanteurs.</summary>
-    <category term="event"/>
-    <published>2026-08-29T07:50:31.909076+00:00</published>
-  </entry>
   <entry>
     <id>cluster:659cb1cd-2258-4c94-83d3-b901ce793195</id>
     <title>Maîtres américains : Balanchine et Martins à l'Opéra du Capitole</title>
@@ -2840,5 +2812,33 @@
     <summary>Les Journées Européennes du Patrimoine se déroulent à Toulouse les 19 et 20 septembre 2026, avec une programmation exceptionnellement riche dans une vingtaine de lieux emblématiques. Des sites habituellement fermés au public ouvrent leurs portes gratuitement ou proposent visites guidées, ateliers, concerts et expositions : crypte archéologique de Saint-Pierre-des-Cuisines, rempart gallo-romain de l'Institut Catholique, réserves de la Cinémathèque à Balma, archives municipales dans l'ancien réservoir Bonnefoy, hôtels particuliers de la Renaissance, Galeries Lafayette et bien d'autres. Certains lieux nécessitent une réservation (Archives de la Cinémathèque, Archives municipales), tandis que d'autres proposent un accès libre toute la journée. La thématique retenue cette année par plusieurs institutions est « Patrimoine en péril », avec ateliers de restauration, conférences et sensibilisation à la conservation.</summary>
     <category term="event"/>
     <published>2026-08-28T16:18:07.425574+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c0ead4c4-4456-4a99-abc9-4d30a2b73ca2</id>
+    <title>Grand Parc de l'Hers : nouvelles plantations et voie verte autour de Toulouse</title>
+    <updated>2026-08-30T10:17:26.673332+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Grand Parc de l&amp;#x27;Hers, l&amp;#x27;un des cinq grands parcs portés par Toulouse Métropole, a bénéficié de plusieurs aménagements réalisés au printemps 2026 sur son tracé de 28 kilomètres. Ces travaux comprennent la plantation de 170 arbustes et 40 arbres fruitiers, ainsi que la création d&amp;#x27;une voie verte, le tout réparti entre plusieurs communes riveraines. Le parc suit la rivière Hers depuis Saint-Jory jusqu&amp;#x27;à Saint-Orens-de-Gameville, traversant 13 communes et concernant environ 180 000 habitants. L&amp;#x27;objectif est de développer des îlots de fraîcheur et de renforcer la nature dans les espaces urbains et périurbains à l&amp;#x27;est de la métropole toulousaine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/08/30/grand-parc-de-lhers-170-arbustes-40-arbres-fruitiers-une-voie-verte-ce-qui-vient-de-changer-autour-de-toulouse-13523025.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/08/30/grand-parc-de-lhers-170-arbustes-40-arbres-fruitiers-une-voie-verte-ce-qui-vient-de-changer-autour-de-toulouse-13523025.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Grand Parc de l'Hers, l'un des cinq grands parcs portés par Toulouse Métropole, a bénéficié de plusieurs aménagements réalisés au printemps 2026 sur son tracé de 28 kilomètres. Ces travaux comprennent la plantation de 170 arbustes et 40 arbres fruitiers, ainsi que la création d'une voie verte, le tout réparti entre plusieurs communes riveraines. Le parc suit la rivière Hers depuis Saint-Jory jusqu'à Saint-Orens-de-Gameville, traversant 13 communes et concernant environ 180 000 habitants. L'objectif est de développer des îlots de fraîcheur et de renforcer la nature dans les espaces urbains et périurbains à l'est de la métropole toulousaine.</summary>
+    <category term="news"/>
+    <published>2026-08-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:4a374fed-8a9f-4871-86ac-eac6864328a8</id>
+    <title>Qantas dévoile ses futures Business Suites pour les A321XLR Airbus</title>
+    <updated>2026-08-30T10:17:26.673332+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La compagnie australienne Qantas a annoncé le 27 août 2026 l&amp;#x27;accélération du renouvellement de sa flotte, prévoyant notamment le déploiement de 16 nouveaux Airbus A321XLR à partir de 2028. Ces appareils, assemblés à Toulouse, embarqueront de nouvelles Business Suites pensées pour les trajets long-courriers. Chaque suite sera équipée d&amp;#x27;un lit couchable, d&amp;#x27;un accès direct à l&amp;#x27;allée et d&amp;#x27;une porte coulissante pour davantage d&amp;#x27;intimité. En parallèle, l&amp;#x27;emblématique A380 commencera à être remplacé par l&amp;#x27;Airbus A350-1000ULR dès 2028, marquant une nouvelle étape dans la modernisation de la flotte Qantas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/les-futurs-airbus-a321xlr-de-qantas-seront-des-avions-grand-confort-voici-les-suites-bientot-proposees-aux-clients_64723282.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/les-futurs-airbus-a321xlr-de-qantas-seront-des-avions-grand-confort-voici-les-suites-bientot-proposees-aux-clients_64723282.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La compagnie australienne Qantas a annoncé le 27 août 2026 l'accélération du renouvellement de sa flotte, prévoyant notamment le déploiement de 16 nouveaux Airbus A321XLR à partir de 2028. Ces appareils, assemblés à Toulouse, embarqueront de nouvelles Business Suites pensées pour les trajets long-courriers. Chaque suite sera équipée d'un lit couchable, d'un accès direct à l'allée et d'une porte coulissante pour davantage d'intimité. En parallèle, l'emblématique A380 commencera à être remplacé par l'Airbus A350-1000ULR dès 2028, marquant une nouvelle étape dans la modernisation de la flotte Qantas.</summary>
+    <category term="news"/>
+    <published>2026-08-30T08:19:05+02:00</published>
   </entry>
 </feed>

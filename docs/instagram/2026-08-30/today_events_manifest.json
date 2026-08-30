@@ -1,0 +1,88 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:8818663c-cad4-441d-aef0-c982ca70ef4a",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le festival Fly to Japan revient à Colomiers du 26 au 30 août",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a7f30a98db5929da903c16a/hd/image.png?v=3",
+    "file": "cluster_8818663c-cad4-441d-aef0-c982ca70ef4a_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:226ec597-43b3-41b8-9a4a-de7b1c756fec",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Le Before Back Festival revient pour sa troisième édition à Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2026/08/flashback-cafe-4-960x640-1.jpg",
+    "file": "cluster_226ec597-43b3-41b8-9a4a-de7b1c756fec_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 853
+  },
+  {
+    "cluster_id": "cluster:fe14539e-2913-4947-bd5c-fb689f559a96",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Before Back Festival : danse et musique sur deux soirées à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BEFORE-BACK-FESTIVAL-TOULOUSE.jpg",
+    "file": "cluster_fe14539e-2913-4947-bd5c-fb689f559a96_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3a9a4487-c775-4e4d-9fe0-49645d62a660",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Les Siestes Électroniques organisent une pool party à la piscine Nakache",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/POOL-PARTY-LES-SIESTES.jpg",
+    "file": "cluster_3a9a4487-c775-4e4d-9fe0-49645d62a660_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c5772cf6-49a0-4d39-85b4-49c09e333031",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Pique-nique 100 % végan à la Prairie des filtres ce dimanche",
+    "image_url": "https://static.actu.fr/uploads/2026/08/piquenique.jpg",
+    "file": "cluster_c5772cf6-49a0-4d39-85b4-49c09e333031_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 854
+  },
+  {
+    "cluster_id": "cluster:2f7f52d4-d75a-4b3b-ac60-650d311054f4",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Aliocema Run : course solidaire contre le cancer du cerveau",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUN-ALIOCEMA-SAINT-JEAN.jpg",
+    "file": "cluster_2f7f52d4-d75a-4b3b-ac60-650d311054f4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:4ed81042-24b3-4d7f-b58b-6cf2dfe5b3ad",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Show mapping laser sur le château du Parc Malpagat",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CHATEAU-DE-MALPAGAT.jpg",
+    "file": "cluster_4ed81042-24b3-4d7f-b58b-6cf2dfe5b3ad_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
