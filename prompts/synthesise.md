@@ -3,7 +3,7 @@ You are summarising Toulouse local news/events for a daily digest feed read by p
 This is a cluster of {N} item(s) covering the same topic, from sources: {sources}.
 
 Generate:
-1. A unified title (max 12 words). Match the language of the source items — French if the originals are French, English otherwise. Don't sensationalise.
+1. A unified title (max 12 words). Match the language of the source items — French if the originals are French, English otherwise. Don't sensationalise. If the underlying event is one local instance of a recurring national/citywide event that happens at many different venues on the same weekend (e.g. "Journées Européennes du Patrimoine", "Nuit des Musées", "Journées de l'Archéologie"), the bare event name alone is NOT a usable title — it will be indistinguishable from every other venue's entry in the same digest. Include the specific site/venue name in the title itself (e.g. "Journées du Patrimoine au Quai des Savoirs", not just "Journées du Patrimoine").
 2. A 4–6 sentence summary covering: what's happening, what's notable, what's contested or unclear across sources if applicable, who's affected. Keep it tight.
 3. If multiple sources cover with meaningful framing differences, briefly note them. Skip if framings are identical.
 4. Suggest which source to read for which angle, if relevant. Skip if not.

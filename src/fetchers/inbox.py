@@ -267,8 +267,14 @@ def _extract_lessentiel_sorties(
                 except Exception:
                     pass
 
-            # 3) Last resort: section-level fallback image
-            if not image_url and section_img_url:
+            # 3) Last resort: section-level fallback image. This is the FIRST
+            # idea's own photo (see section_img detection above), so it's only
+            # a legitimate fallback for idea #0 itself -- reusing it for later
+            # ideas that failed to get their own image would show idea #1's
+            # photo under an unrelated idea's title. No photo is better than
+            # a wrong one; downstream Instagram rendering already skips
+            # items with no usable image rather than requiring a fallback.
+            if not image_url and section_img_url and idx == 0:
                 image_url = section_img_url
 
             items.append({

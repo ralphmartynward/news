@@ -32,7 +32,13 @@ FETCHERS = [
     ("inbox", inbox.fetch),
 ]
 
-FEED_ENTRY_LIMIT = 200  # covers 7 days of cache at ~30 clusters/day
+FEED_ENTRY_LIMIT = 2000  # covers 7 days of cache; was 200 (sized for ~30
+# clusters/day pre-Tourinsoft/Ticketmaster). Real volume is now ~150/day
+# (1037 distinct clusters observed in a single 7-day window), so 200 was
+# silently dropping most of some days' content from feed.xml -- which
+# landing/archive pages AND search-index.json both derive from -- causing
+# empty archive pages and events missing from search. Revisit again if
+# volume keeps growing.
 RAW_SUMMARY_CHARS = 1500
 
 
