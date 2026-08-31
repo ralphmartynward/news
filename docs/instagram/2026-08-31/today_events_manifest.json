@@ -9,24 +9,68 @@
     "file": "intro_story.jpg"
   },
   {
-    "cluster_id": "cluster:3c20af49-a63b-4bac-a8f8-76987e30a02c",
+    "cluster_id": "cluster:63918bdb-a63b-4310-b87b-81251171a9f5",
+    "format": "story",
+    "source": "ticketmaster",
+    "category": "event",
+    "title": "Deux grands spectacles de légendes au Zénith de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/8e9/5dde7a50-6c8f-4a74-a417-b088145ec8e9_SOURCE",
+    "file": "cluster_63918bdb-a63b-4310-b87b-81251171a9f5_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:74bfbcda-541a-465a-a856-aa028c92663f",
+    "format": "story",
+    "source": "ticketmaster",
+    "category": "event",
+    "title": "Deux spectacles de danse au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/cf0/e3e32db3-adac-486f-b78d-7c8857f8bcf0_106191_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_74bfbcda-541a-465a-a856-aa028c92663f_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:ced0aa87-fc4e-410e-bc41-a42d60617b18",
+    "format": "story",
+    "source": "ticketmaster",
+    "category": "event",
+    "title": "Les musiques des films de Miyazaki en concert à Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_ced0aa87-fc4e-410e-bc41-a42d60617b18_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:f3b25fd1-5f39-4913-919c-8b0ec1919eb9",
+    "format": "story",
+    "source": "ticketmaster",
+    "category": "event",
+    "title": "Le Paname Comedy Club en tournée à Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_f3b25fd1-5f39-4913-919c-8b0ec1919eb9_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:28e044af-3502-4d7f-8e70-a0e87b0d4420",
     "format": "story",
     "source": "lessentiel",
     "category": "event",
     "title": "Les Pétanque Days reviennent pour la 3e fois à Toulouse",
     "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-08/petanque-days..jpg?itok=aGUdZSFk",
-    "file": "cluster_3c20af49-a63b-4bac-a8f8-76987e30a02c_event_story.jpg",
+    "file": "cluster_28e044af-3502-4d7f-8e70-a0e87b0d4420_event_story.jpg",
     "img_width": 900,
     "img_height": 506
   },
   {
-    "cluster_id": "cluster:7d59a04e-aabe-4252-a275-14d49bde590e",
+    "cluster_id": "cluster:3a442c19-f0ff-4a8e-b18b-1320bea35196",
     "format": "story",
     "source": "lessentiel",
     "category": "event",
-    "title": "Le Miwa, 9e festival japonais de Toulouse, au jardin Compans-Caffarelli",
+    "title": "Le festival japonais Miwa revient pour sa 9e édition à Toulouse",
     "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-08/petanque-days..jpg?itok=aGUdZSFk",
-    "file": "cluster_7d59a04e-aabe-4252-a275-14d49bde590e_event_story.jpg",
+    "file": "cluster_3a442c19-f0ff-4a8e-b18b-1320bea35196_event_story.jpg",
     "img_width": 900,
     "img_height": 506
   }
