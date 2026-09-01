@@ -1,0 +1,33 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:41091f7d-c8b9-4a34-987b-9108da386ee0",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier Lecture et Couture à la Médiathèque Côte Pavée",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-08/adobe-stock_3.jpg?itok=zn_D1E9c",
+    "file": "cluster_41091f7d-c8b9-4a34-987b-9108da386ee0_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:72f27425-849a-439d-9d78-7f3d487df329",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition « Du réel vers l'imaginaire » à la Communauté municipale de santé",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-08/unnamed_0.jpg?h=13047b4b&itok=eKGhW-Nj",
+    "file": "cluster_72f27425-849a-439d-9d78-7f3d487df329_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

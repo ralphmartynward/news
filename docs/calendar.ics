@@ -8857,6 +8857,59 @@ URL:https://actu.fr/occitanie/toulouse_31555/nouvelle-ecole-rehabilitations
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:72f27425-849a-439d-9d78-7f3d487df329@news.lavillerose.com
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260912
+SUMMARY:Du réel vers l'imaginaire
+DESCRIPTION:L'exposition de rentrée de la Communauté municipale de santé
+  de Toulouse réunit trois artistes — la peintre Claudine Regnier-Vigour
+ oux\, le graveur Pierre-Philippe Faisant et le sculpteur Jean-Philippe Cas
+ elli — autour de l'œuvre collective « Du réel vers l'imaginaire - Emp
+ reintes\, lumières et songes ». Elle se tient du 1er au 11 septembre au 
+ 2\, rue Malbec\, du lundi au vendredi de 9h à 12h30 et de 13h15 à 17h. L
+ es ventes d'œuvres sont intégralement reversées à l'association France
+  Alzheimer 31. L\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-09-01#48551
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-01#48551?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7cd978ba-2a29-467f-b874-3da17885e096@news.lavillerose.com
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261101
+SUMMARY:Emmaüs offre 50% de réduction aux étudiants toulousains jusqu'en
+  octobre
+DESCRIPTION:Jusqu'au 31 octobre\, les sites Emmaüs d'Escalquens\, Sesquiè
+ res et Labarthe-sur-Lèze proposent une réduction de 50 % aux étudiants 
+ sur les essentiels de la rentrée : meubles\, électroménager\, vaisselle
+  et livres. Il suffit de présenter un justificatif étudiant ou un certif
+ icat d'inscription accompagné d'une pièce d'identité. Cette initiative 
+ intervient dans un contexte difficile : le logement représente la moitié
+  du budget mensuel des étudiants toulousains\, avec un loyer moyen de 558
+  €/mois en jui\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-09-01#48554
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-01#48554?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f7d21fa4-68fa-4284-93f5-435e93f3b89f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260921
+SUMMARY:La plage préférée des Français
+DESCRIPTION:La Surfrider Foundation lance la 2e édition du vote national 
+ « La plage préférée des Français »\, ouvert à toutes et tous jusqu'
+ au 20 septembre. Les lieux de baignade fluviaux et lacustres sont éligibl
+ es\, ce qui concerne directement les Toulousains habitués aux bords de Ga
+ ronne et aux lacs de la métropole. Les spots les plus votés s'affrontero
+ nt ensuite en duels régionaux sur les réseaux sociaux du 23 septembre au
+  6 octobre. La démarche a une dimension écologique : il s'agit de sensib
+ iliser à la \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+ 26-09-01#48552
+LOCATION:lacs de la métr\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-01#48552?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4d213434-5a5b-4f5a-b9ee-e6fb592a9e7c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
@@ -8893,6 +8946,27 @@ DESCRIPTION:Le Théâtre du Pavé célèbre ses 14 ans d'existence avec une
  -de-clutch-au-theatre-du-pave/
 URL:https://www.toulouse-tourisme.com/agenda/14-ans-de-clutch-au-theatre-du
  -pave/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:843719f2-3e1c-43de-8cdb-36c28a4cc55f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Coup de Pouce
+DESCRIPTION:Le Crous de Toulouse organise une journée « Coup de Pouce » 
+ le mercredi 2 septembre 2026 au MAC – capsule culturelle – de la rési
+ dence Chapou\, dans le quartier des Ponts-Jumeaux. Les étudiants pourront
+  repartir gratuitement avec de la vaisselle\, des ustensiles de cuisine\, 
+ des produits d'hygiène et d'entretien\, ainsi que des denrées alimentair
+ es. L'événement\, en partenariat avec Emmaüs 31\, la MJC des Ponts-Jume
+ aux\, la Clé des 7D et la Banque alimentaire de Toulouse\, est réservé 
+ exclusivement aux \n\nSource\: https://actu.fr/occitanie/toulouse_31555/de
+ s-produits-de-premiere-necessite-donnes-gratuitement-aux-etudiants-a-toulo
+ use-lors-d-une-journee-speciale_64687617.html
+LOCATION:quartier des Ponts-Jumeaux\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/des-produits-de-premiere-neces
+ site-donnes-gratuitement-aux-etudiants-a-toulouse-lors-d-une-journee-speci
+ ale_64687617.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876@news.lavillerose.com
@@ -9778,16 +9852,16 @@ UID:cluster:e72ee4f9-5f28-47c9-8746-ec8d4c97800f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Les Mélodies du Canal
-DESCRIPTION:Les Mélodies du Canal reviennent pour une troisième édition 
- les 12 et 13 septembre 2026 à la Cale de Radoub (Allée des Demoiselles)\
- , un lieu historique et rarement accessible au public. Cet événement est
-  un concert sur l'eau solidaire organisé par le service Mécénat de Voie
- s Navigables de France\, dont toutes les recettes sont reversées au proje
- t de replantation du canal du Midi. Samedi soir\, le duo Mouss & Hakim (Ze
- bda) se produit à nouveau après le succès de leur passage l'an dernier.
-  Dimanche \n\nSource\: https://www.toulouse-tourisme.com/agenda/les-melodi
- es-du-canal/
-LOCATION:Allée des Demoiselles)\, Toulouse
+DESCRIPTION:Les 12 et 13 septembre 2026\, la Cale de Radoub (Allée des Dem
+ oiselles) accueille la troisième édition des Mélodies du Canal\, deux s
+ oirées de concerts solidaires organisées par Voies Navigables de France.
+  L'intégralité des recettes est reversée au projet de replantation du C
+ anal du Midi\, gravement touché par la maladie des platanes. La particula
+ rité du lieu — un site historique habituellement fermé au public — s
+ e double d'une scène flottante installée sur une barge\, avec un piano a
+ u bord de l'eau\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-m
+ elodies-du-canal/
+LOCATION:Allée des Demoiselles) accueille la troisième éditio\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-melodies-du-canal/?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -10369,16 +10443,16 @@ BEGIN:VEVENT
 UID:cluster:50d72819-8895-4120-bc6e-95eec069c763@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-SUMMARY:Journées du Patrimoine
-DESCRIPTION:Les Journées Européennes du Patrimoine se déroulent à Toulo
- use les 19 et 20 septembre 2026\, avec une programmation exceptionnellemen
- t riche dans une vingtaine de lieux emblématiques. Des sites habituelleme
- nt fermés au public ouvrent leurs portes gratuitement ou proposent visite
- s guidées\, ateliers\, concerts et expositions : crypte archéologique de
-  Saint-Pierre-des-Cuisines\, rempart gallo-romain de l'Institut Catholique
- \, réserves de la Cinémathèque à Balma\, archives municipales dans l'a
- ncien réser\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees
- -du-patrimoine-a-lauditorium-saint-pierre-des-cuisines/
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:Le week-end du 19 et 20 septembre 2026\, les Journées Europée
+ nnes du Patrimoine investissent Toulouse avec une programmation exceptionn
+ elle dans une vingtaine de sites. Des lieux habituellement fermés au publ
+ ic ouvrent leurs portes : hôtels particuliers Renaissance\, archives muni
+ cipales et départementales\, crypte archéologique du Ve siècle\, ciném
+ athèque\, bibliothèques patrimoniales et bien d'autres. La programmation
+  mêle visites libres\, visites guidées\, ateliers familiaux\, concerts d
+ 'orgue et exp\n\nSource\: https://www.toulouse-tourisme.com/agenda/journee
+ s-du-patrimoine-a-lauditorium-saint-pierre-des-cuisines/
 URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-laudi
  torium-saint-pierre-des-cuisines/?utm_source=ical&utm_medium=calendar&utm_
  campaign=toulouse-agenda
@@ -12073,6 +12147,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/anthony-joubert-billet/idm
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1a4a4aa6-7d7d-42e6-ac39-19a0fdbc4025@news.lavillerose.com
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Rythme Feu
+DESCRIPTION:Les Commandos Percu présentent leur nouveau spectacle « Rythm
+ e Feu » au Parc d'Odyssud le 24 septembre 2026. Ce show pyrotechnique et 
+ musical sans paroles mêle percussions\, flammes et pyrotechnie dans une p
+ erformance où le feu devient instrument à part entière. Le groupe\, for
+ t de plus de 30 ans d'expérience\, interroge notre rapport ancestral au f
+ eu\, célébré ici comme élément vivant et fédérateur. Un événement
+  tout public\, conçu comme une expérience collective et sensorielle uniq
+ ue.\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-commandos-per
+ cu/
+LOCATION:Parc d'Odyssud le 24 septembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-commandos-percu/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ac31f798-a756-4d4f-a2d3-99195bafb120@news.lavillerose.com
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
@@ -12279,6 +12371,24 @@ LOCATION:salle toulousaine dédiée aux arts vivants\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/lisa-perrio-billet/idmanif
  /646539/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=t
  oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:452ee353-6180-4f11-b44e-ed7bcba3628f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:George Kaplan
+DESCRIPTION:La pièce George Kaplan est présentée à l'Espace Roguet le 2
+ 5 septembre 2026. Le spectacle met en scène trois groupes en crise — je
+ unes activistes anarchistes\, scénaristes américanisés et membres d'un 
+ gouvernement despotique fantoche — évoluant dans un décor commun aux e
+ sthétiques distinctes. La narration bascule progressivement vers l'absurd
+ e et le comique pour interroger le pouvoir de la fiction sur la réalité\
+ , la surveillance\, la manipulation et l'individualisme contemporains. L'e
+ ntrée est gra\n\nSource\: https://www.toulouse-tourisme.com/agenda/george
+ -kaplan/
+LOCATION:Espace Roguet le 25 septembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/george-kaplan/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc@news.lavillerose.com
@@ -12540,6 +12650,26 @@ DESCRIPTION:L'astrophysicien et auteur David Elbaz sera en représentation
 URL:https://www.ticketmaster.fr/fr/manifestation/david-elbaz-billet/idmanif
  /650964/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=t
  oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4a03d7c3-f542-4b5c-aed7-f9bf0cafb01d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:La Jeannette
+DESCRIPTION:Le 26 septembre prochain se tiendra la 7e édition de la Jeanne
+ tte\, une journée sportive et solidaire organisée dans le quartier des S
+ ept Deniers à Toulouse. L'événement a été créé par Marion Godart en
+  mémoire de sa fille Jeanne\, décédée en 2018 d'un glioblastome infilt
+ rant du tronc cérébral à l'âge de huit ans. Portée par des bénévole
+ s et l'association 7 animés\, cette manifestation annuelle permet de réc
+ olter des milliers d'euros pour la recherche sur les cancers pédiatriques
+ . Courses et animati\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
+ avec-la-jeannette-elle-a-collecte-des-milliers-deuros-contre-les-cancers-p
+ ediatriques_64726764.html
+LOCATION:quartier des Sept Deniers\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/avec-la-jeannette-elle-a-colle
+ cte-des-milliers-deuros-contre-les-cancers-pediatriques_64726764.html?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e@news.lavillerose.com
@@ -13188,6 +13318,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/un-grand-cri-d-amour-bille
  ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:248b2887-96ed-4f08-8342-22d07fcc9aad@news.lavillerose.com
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Naine Rouge
+DESCRIPTION:Le spectacle « Naine Rouge » investit l'Espace Roguet le 2 oc
+ tobre 2026 pour une conférence scénique pas comme les autres. Véra\, as
+ trophysicienne fictive\, entraîne le public dans une exploration de Proxi
+ ma B — une exoplanète orbitant autour d'une naine rouge — sans vidéo
+ projecteur\, mais avec une série de « chocs esthétiques » pensés pour
+  faire comprendre l'astrophysique sans s'en rendre compte. Le spectacle m
+ êle clown\, absurde\, performance et poésie cosmique\, au fil de quatre 
+ actes aux ambitions\n\nSource\: https://www.toulouse-tourisme.com/agenda/n
+ aine-rouge/
+LOCATION:Espace Roguet le 2 octobre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/naine-rouge/?utm_source=ical&u
+ tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4116e74f-77fa-46a9-967c-5375739fa003@news.lavillerose.com
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
@@ -13322,6 +13470,23 @@ DESCRIPTION:Le Bikini à Ramonville-Saint-Agne accueille une soirée rock a
 URL:https://www.ticketmaster.fr/fr/manifestation/ludwig-von-88-didier-super
  -billet/idmanif/667027/idtier/18864121?utm_source=ical&utm_medium=calendar
  &utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:75d6d46d-0469-4d8f-8e6d-ec51bfad2a25@news.lavillerose.com
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Week-end aux Ailes
+DESCRIPTION:Les Ailes Anciennes Toulouse organisent leur Week-end aux Ailes
+  les 3 et 4 octobre 2026\, avec pour thème la marine nationale\, qui fêt
+ e cette année ses 400 ans. Les visiteurs pourront s'installer aux command
+ es de véritables avions\, plusieurs cockpits étant ouverts par les bén
+ évoles pour l'occasion. Des partenaires et invités animeront stands et 
+ échanges : anciens de Microturbo\, dessinateurs\, conteurs et auteurs\, a
+ insi que l'Aérothèque et Cap Avenir Concorde. Restauration sur place ass
+ urée par le \n\nSource\: https://www.toulouse-tourisme.com/agenda/week-en
+ d-aux-ailes/
+URL:https://www.toulouse-tourisme.com/agenda/week-end-aux-ailes/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:83e87ec4-f869-4b78-a59a-665a73468527@news.lavillerose.com
@@ -14369,6 +14534,23 @@ LOCATION:salle Altigone\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/pluie-d-etoiles-billet/idm
  anif/658400/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2f63a7ca-7711-407a-ad99-1ec642287f2e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:DRACULA
+DESCRIPTION:La compagnie Les z'OMNI propose une adaptation musicale et thé
+ âtrale de Dracula à l'Espace Roguet le 16 octobre 2026. Le collectif d'a
+ ctrices-chanteuses s'empare du classique de Bram Stoker pour en explorer l
+ es profondeurs à travers polyphonie\, chanson poétique\, paysage sonore 
+ et improvisation vocale. La démarche artistique des z'OMNI repose sur les
+  ruptures\, les contrastes et le décalage\, transformant un texte littér
+ aire en délire musico-théâtral. Bonne nouvelle pour le public : les rep
+ résentat\n\nSource\: https://www.toulouse-tourisme.com/agenda/dracula/
+LOCATION:Espace Roguet le 16 octobre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/dracula/?utm_source=ical&utm_m
+ edium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:62a440df-ab71-40af-8e0a-38176a1a8102@news.lavillerose.com
@@ -15490,6 +15672,23 @@ URL:https://www.toulouse-tourisme.com/agenda/une-famille-pyreneenne/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6060190d-91d9-458d-8726-e7b2af1a6b22@news.lavillerose.com
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+SUMMARY:Quatre Mains
+DESCRIPTION:La pièce « Quatre Mains » est programmée à l'Auditorium du
+  Conservatoire de Toulouse du 3 au 5 novembre 2026. Le spectacle met en sc
+ ène deux anciens camarades du Conservatoire de Nice qui se retrouvent tre
+ nte ans plus tard pour rejouer la Fantaisie en Fa mineur de Schubert\, con
+ voquant souvenirs et émotions d'adolescence. La pièce explore des thème
+ s forts : les choix de vie\, la place de la musique et de l'art dans le qu
+ otidien\, et les inégalités d'accès à la culture selon les origines so
+ ciales. P\n\nSource\: https://www.toulouse-tourisme.com/agenda/quatre-main
+ s/
+URL:https://www.toulouse-tourisme.com/agenda/quatre-mains/?utm_source=ical&
+ utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ef66e193-bcc9-48ed-891d-d0a5b82cbbf6@news.lavillerose.com
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
@@ -15876,6 +16075,40 @@ LOCATION:salle incontournable de la métropole toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/helena-billet/idmanif/6467
  04/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:af8a01fb-a8b9-4533-aec6-162bd886c774@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Murmures
+DESCRIPTION:« Murmures » est un spectacle de théâtre poétique présent
+ é au Petit Théâtre Saint-Exupère à Toulouse le 7 novembre 2026. Le co
+ ncept invite le public à observer un fragment de forêt — sol\, racines
+ \, habitants réels ou imaginaires — transposé sur un plateau de théâ
+ tre\, contemplé sur quatre saisons. Le spectacle cherche à éveiller de 
+ nouvelles perceptions sensorielles en faisant naître animaux\, végétaux
+  et créatures surnaturelles sous les yeux des spectateurs. Il s'adresse 
+ à tous ceux qu'attire un t\n\nSource\: https://www.toulouse-tourisme.com/
+ agenda/murmures/
+URL:https://www.toulouse-tourisme.com/agenda/murmures/?utm_source=ical&utm_
+ medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e9d6d022-57df-4dc8-a99c-313a476a8ab0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:VORTEX
+DESCRIPTION:La Compagnie Trente Printemps présente la première de VORTEX 
+ le 7 novembre 2026 à l'Espace Roguet\, dans le cadre de la 17ème éditio
+ n du NEUFNEUF Festival\, avec le soutien du Département de la Haute-Garon
+ ne. La pièce chorégraphique explore les relations entre le corps\, l'esp
+ ace et le temps à travers un mouvement en rotation et une chorégraphie e
+ lliptique\, s'appuyant sur le cercle comme figure géométrique et symboli
+ que centrale. Un univers sonore et lumineux immersif accompagne la danse\,
+  créant un\n\nSource\: https://www.toulouse-tourisme.com/agenda/vortex/
+LOCATION:Espace Roguet\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/vortex/?utm_source=ical&utm_me
+ dium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8@news.lavillerose.com
@@ -16313,6 +16546,24 @@ LOCATION:salle toulousaine spécialisée dans les arts du spect\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/olivia-moore-billet/idmani
  f/667549/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:63d96be3-36ab-469f-8166-61a51ad58c6b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Eclosion
+DESCRIPTION:Éclosion est une création scénographique immersive destinée
+  aux tout-petits et à leurs figures d'attachement\, présentée à l'Espa
+ ce Roguet le 13 novembre 2026. Le spectacle plonge le public dans un cocon
+  de tissu baigné de musique et de lumière\, pensé pour éveiller la con
+ templation autant que l'interaction. Le doudou — objet médiateur univer
+ sel entre l'enfant et le parent — sert de fil rouge à cette exploration
+  sensorielle et affective. Une expérience intimiste qui vise à nourrir e
+ t célébrer les \n\nSource\: https://www.toulouse-tourisme.com/agenda/ecl
+ osion/
+LOCATION:Espace Roguet le 13 novembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/eclosion/?utm_source=ical&utm_
+ medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e085676e-ef98-4e73-b6b1-4e29fc8fd702@news.lavillerose.com
@@ -16767,6 +17018,22 @@ URL:https://www.ticketmaster.fr/fr/manifestation/roadrunners-billet/idmanif
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:179686a1-df22-405b-b171-2e2fc4383800@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:Perds pas le fil
+DESCRIPTION:Le spectacle « Perds pas le fil » est présenté les 19 et 20
+  novembre 2026 au Théâtre de la Violette à Toulouse. Mis en scène par 
+ Merlin PinPin\, le spectacle met en scène trois personnages hauts en coul
+ eur : une araignée fragile\, une mouche vorace et un certain Jean-Roger. 
+ Le tout est raconté avec humour et dérision\, dans un registre décalé 
+ et familial. L'événement s'adresse aux amateurs de théâtre comique et 
+ de formes originales.\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /perds-pas-le-fil/
+URL:https://www.toulouse-tourisme.com/agenda/perds-pas-le-fil/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:6f9e24cf-02c9-4c24-8d19-9b65fb047902@news.lavillerose.com
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -16920,6 +17187,24 @@ DESCRIPTION:Erick Baert\, artiste spécialisé dans la performance vocale\,
 URL:https://www.ticketmaster.fr/fr/manifestation/erick-baert-billet/idmanif
  /646662/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=t
  oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:604c3f01-7560-4855-9283-551c766791c0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Poem of a River
+DESCRIPTION:« Poem of a River » est une création musicale et théâtrale
+  présentée à l'Espace Roguet de Toulouse le 20 novembre 2026. La metteu
+ re en scène Lisa Como y raconte les derniers jours de sa grand-mère Mari
+ anne\, qui a choisi d'arrêter de manger pour mourir\, à travers une écr
+ iture poétique et sonore. La pièce convoque des souvenirs en forme de fl
+ ashbacks — de l'enfance à la maternité\, de la colère à la peur — 
+ pour explorer l'héritage transmis entre femmes de génération en génér
+ ation. Sur scène se retr\n\nSource\: https://www.toulouse-tourisme.com/ag
+ enda/poem-of-a-river/
+LOCATION:Espace Roguet de Toulouse le 20 novembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/poem-of-a-river/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30@news.lavillerose.com
@@ -17977,6 +18262,23 @@ LOCATION:salle incontournable des grandes tournées tou\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/claudio-capeo-billet/idman
  if/606011/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign
  =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1912d43d-7872-4d71-91ed-979cf347df6b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Hyper Duras
+DESCRIPTION:« Hyper Duras » est un spectacle qui plonge dans l'univers de
+  Marguerite Duras à travers les chroniques qu'elle a rédigées pour Lib
+ ération durant l'été 1980. Entre journal intime\, réalisme et fantasti
+ que\, la pièce mêle humour\, poésie\, désespoir et mégalomanie dans u
+ n format décalé. L'entrée est gratuite et sans réservation\, dans la l
+ imite des places disponibles — un accès rare à une proposition culture
+ lle ambitieuse. Le spectacle est programmé le 4 décembre 2026 à l'Espac
+ e Roguet\, à Toulouse.\n\nSource\: https://www.toulouse-tourisme.com/agen
+ da/hyper-duras/
+URL:https://www.toulouse-tourisme.com/agenda/hyper-duras/?utm_source=ical&u
+ tm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:01976ac9-f03a-443c-b1ba-477c81c0e288@news.lavillerose.com
@@ -19146,7 +19448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3a29c289-8d19-4ad1-949f-26b2e43e39d4@news.lavillerose.com
 DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20280106
 SUMMARY:Agenda comédie au Casino Barrière de Toulouse : six spectacles à
   venir
 DESCRIPTION:Le Casino Barrière de Toulouse accueille une série de six spe
@@ -19249,6 +19551,24 @@ DESCRIPTION:Le Théâtre de la Cité accueille « Les Petites Filles Modern
  www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/
 URL:https://www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3575e7e6-6968-40dc-adfe-b030bedbbda3@news.lavillerose.com
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270117
+SUMMARY:Saint-Exupéry\, le Commandeur des Oiseaux
+DESCRIPTION:Le comédien Franck Desmedt\, lauréat d'un Molière pour Adieu
+  Monsieur Haffmann\, monte seul sur scène pour incarner Antoine de Saint-
+ Exupéry au Petit Théâtre Saint-Exupère de Toulouse. Après avoir endos
+ sé les rôles de Romain Gary et de Joseph Kessel\, il poursuit son explor
+ ation des grands auteurs du XXe siècle avec ce spectacle consacré à l'a
+ viateur de l'Aéropostale et auteur du Petit Prince. Le spectateur est emb
+ arqué dans un voyage entre ciel et écriture\, sur les traces d'un héros
+  en quête d'abs\n\nSource\: https://www.toulouse-tourisme.com/agenda/sain
+ t-exupery-le-commandeurs-des-oiseaux/
+URL:https://www.toulouse-tourisme.com/agenda/saint-exupery-le-commandeurs-d
+ es-oiseaux/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3ad8d37b-df7b-414f-812d-ffe66b9fe315@news.lavillerose.com
@@ -19462,6 +19782,23 @@ DESCRIPTION:Le spectacle « Formidable ! Aznavour » sera présenté au Cas
 URL:https://www.ticketmaster.fr/fr/manifestation/formidable-aznavour-billet
  /idmanif/651764/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_ca
  mpaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9012fcb9-9cde-49d2-a4d8-a8e539aa823f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Le Chemin des Métaphores
+DESCRIPTION:Le spectacle « Le Chemin des Métaphores » est programmé au 
+ Petit Théâtre Saint-Exupère à Toulouse. Il suit Max\, un personnage pr
+ is dans ses habitudes quotidiennes\, dont la journée bascule suite à une
+  rencontre inattendue qui l'ouvre à un univers plus poétique. Le spectac
+ le fait la part belle aux marionnettes expressives et s'inscrit dans la tr
+ adition du réalisme magique sud-américain\, avec un escargot philosophe 
+ comme guide symbolique. Il s'adresse à tous ceux qui souhaitent ralentir 
+ et redécouv\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-chemi
+ n-des-metaphores/
+URL:https://www.toulouse-tourisme.com/agenda/le-chemin-des-metaphores/?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6ea7d828-66ef-4f39-838e-500c38e81b5e@news.lavillerose.com
@@ -20176,6 +20513,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/adele-castillon-billet/idm
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:40bed356-a130-4a5b-802f-c928212adb97@news.lavillerose.com
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Tarmo Peltokoski / Mao Fujita
+DESCRIPTION:Le chef Tarmo Peltokoski et le pianiste Mao Fujita s'associent 
+ pour un concert à la Halle aux Grains de Toulouse en février 2027. Au pr
+ ogramme\, le Concerto pour piano n°27 de Mozart — dernier concerto du c
+ ompositeur — confié au toucher délicat du pianiste japonais. Peltokosk
+ i dirigera ensuite la Symphonie n°5 de Bruckner\, œuvre monumentale que 
+ le compositeur lui-même surnommait « la Fantastique ». Ce concert réun
+ it deux artistes en pleine ascension autour d'un répertoire exigeant et a
+ mbitieux.\n\nSource\: https://www.toulouse-tourisme.com/agenda/tarmo-pelto
+ koski-mao-fujita/
+LOCATION:Halle aux Grains de Toulouse en février 2027\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/tarmo-peltokoski-mao-fujita/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4e04fc26-3e0f-4223-8b62-04476d83fdd0@news.lavillerose.com
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
@@ -20610,24 +20965,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/sacko-camara-billet/idmani
  toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:13ccc3e6-39f5-4117-8536-ead9df3c3fe3@news.lavillerose.com
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-SUMMARY:Keen'V et Vianney en concert au Zénith de Toulouse
-DESCRIPTION:Deux artistes de chanson française sont programmés au Zénith
-  Toulouse Métropole : Keen'V se produira le 20 février 2027\, suivi de V
- ianney le 7 octobre 2027. Ces deux concerts s'inscrivent dans la programma
- tion musicale de la grande salle toulousaine pour la saison à venir. Les 
- amateurs de variété et de chanson française auront ainsi deux rendez-vo
- us distincts à marquer dans leur agenda. Les billets sont disponibles via
-  Ticketmaster.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/ke
- en-v-billet/idmanif/637016/idtier/18864121
-LOCATION:salle toulousaine\, Toulouse
-URL:https://www.ticketmaster.fr/fr/manifestation/keen-v-billet/idmanif/6370
- 16/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
- se-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:d1bdba2a-3627-4a4f-a77e-44ca9aac4279@news.lavillerose.com
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
@@ -20989,6 +21326,23 @@ DESCRIPTION:Le chef italien Riccardo Bisatti et le violoniste brésilien Gu
 LOCATION:Halle aux Grains de Toulouse en mars 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/riccardo-bisatti-guido-santann
  a/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a531feee-809f-4731-98d5-ef14548535c9@news.lavillerose.com
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Beethoven : Le Bicentenaire
+DESCRIPTION:En mars 2027\, Toulouse commémore le 200ème anniversaire de l
+ a mort de Beethoven avec des concerts programmés sur deux soirées. Au pr
+ ogramme figurent la 7ème symphonie et le concerto l'Empereur\, présenté
+ s comme parmi les œuvres les plus représentatives du compositeur. L'év
+ énement est décliné sur deux lieux différents : l'Auditorium Saint-Pie
+ rre des Cuisines et L'Escale. Le texte de présentation souligne la singul
+ arité de Beethoven\, premier compositeur à s'affranchir de toute tutelle
+ \, et glisse un\n\nSource\: https://www.toulouse-tourisme.com/agenda/beeth
+ oven-le-bicentenaire/
+URL:https://www.toulouse-tourisme.com/agenda/beethoven-le-bicentenaire/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:99619980-b406-4de1-aa35-2b405e8a698a@news.lavillerose.com
