@@ -5,3 +5,4 @@ compatibility_date = "2026-01-01"
 # Secrets to set via `wrangler secret put`:
 #   - RESEND_API_KEY
 #   - RESEND_AUDIENCE_ID
+#   - ALERT_EMAIL_TO   (where to send the "new subscriber" notification)

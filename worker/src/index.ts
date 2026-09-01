@@ -1,13 +1,15 @@
 interface Env {
   RESEND_API_KEY: string;
   RESEND_AUDIENCE_ID: string;
+  ALERT_EMAIL_TO: string;
 }
 
 const ALLOWED_ORIGIN = "https://news.lavillerose.com";
+const ALERT_EMAIL_FROM = "Toulouse Digest Alerts <alerts@lavillerose.com>";
 const EMAIL_RE = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
 
 export default {
-  async fetch(request: Request, env: Env): Promise<Response> {
+  async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
     const cors = corsHeaders(request);
 
     if (request.method === "OPTIONS") {
@@ -50,16 +52,41 @@ export default {
     );
 
     if (resp.ok) {
+      // Fire-and-forget: never let an alert-send failure affect the
+      // subscribe response the visitor actually sees.
+      ctx.waitUntil(sendNewSubscriberAlert(email, env));
       return json({ ok: true }, 200, cors);
     }
 
     if (resp.status === 409 || resp.status === 422) {
+      // Not a new subscriber -- no alert.
       return json({ ok: true, note: "already_subscribed" }, 200, cors);
     }
 
     return json({ ok: false, error: "upstream", status: resp.status }, 502, cors);
   },
 } satisfies ExportedHandler<Env>;
+
+async function sendNewSubscriberAlert(subscriberEmail: string, env: Env): Promise<void> {
+  if (!env.ALERT_EMAIL_TO) return;
+  try {
+    await fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${env.RESEND_API_KEY}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        from: ALERT_EMAIL_FROM,
+        to: env.ALERT_EMAIL_TO,
+        subject: "Nouvel abonné au digest Toulouse",
+        text: `${subscriberEmail} vient de s'abonner au digest.`,
+      }),
+    });
+  } catch {
+    // Fail open -- a broken alert must never affect the subscribe flow itself.
+  }
+}
 
 function corsHeaders(req: Request): Record<string, string> {
   const origin = req.headers.get("Origin");

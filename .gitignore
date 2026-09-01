@@ -10,6 +10,8 @@ ticketmaster.txt
 *.pyo
 .venv/
 venv/
+node_modules/
+worker/.dev.vars
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
