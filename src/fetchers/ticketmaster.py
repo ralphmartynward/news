@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import os
 import re
 import sys
@@ -7,10 +8,12 @@ import time
 import unicodedata
 from collections import defaultdict
 from datetime import date, datetime, timezone
+from pathlib import Path
 from typing import Any
 
 import requests
 
+STATE_PATH = Path("data/ticketmaster_seen.json")
 API_BASE = "https://app.ticketmaster.com/discovery/v2/events.json"
 REQUEST_TIMEOUT_S = 20
 PAGE_SIZE = 200
@@ -26,6 +29,29 @@ RADIUS_KM = "15"
 
 CANCELLED_STATUSES = {"cancelled", "canceled"}
 MAX_EVENT_SPAN_DAYS = 3  # skip multi-day "sale"/ongoing-promo listings, not real one-off events
+
+
+def _load_state() -> dict[str, str]:
+    if not STATE_PATH.exists():
+        return {}
+    try:
+        return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def _save_state(state: dict[str, str]) -> None:
+    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    STATE_PATH.write_text(json.dumps(state, ensure_ascii=False), encoding="utf-8")
+
+
+def _signature(item: dict[str, Any]) -> str:
+    """Cheap change-detection key: id + status/date-relevant fields. Doesn't
+    need to be exhaustive -- just enough to notice a date shift or the event
+    getting cancelled (which _parse_event already filters, so a cancelled
+    event simply disappears from the current fetch and its state entry gets
+    dropped on the next save)."""
+    return f"{item.get('_event_start')}|{item.get('_event_end')}|{item.get('image_url')}"
 
 
 def _best_image(images: list[dict[str, Any]] | None) -> str | None:
@@ -134,6 +160,7 @@ def _parse_event(event: dict[str, Any]) -> dict[str, Any] | None:
         "_event_end": end,
         "_event_name": name,
         "_venue_id": _venue_id(event),
+        "_event_id": event.get("id"),
     }
 
 
@@ -223,7 +250,31 @@ def fetch() -> list[dict[str, Any]]:
     if dropped:
         print(f"ticketmaster: dropped {dropped} performance(s) belonging to recurring residencies", file=sys.stderr)
 
-    return items
+    # Incremental tracking: without this, the full ~500-800 event catalog
+    # gets re-embedded/re-synthesised/re-emailed every time an item's row
+    # ages out of the 7-day items cache -- not just once, but recurring
+    # roughly every 7 days forever. Only pass through genuinely new or
+    # changed events; a cancelled event (already filtered out of `items`
+    # by _parse_event) naturally drops out of the saved state too.
+    state = _load_state()
+    new_state: dict[str, str] = {}
+    changed: list[dict[str, Any]] = []
+    for it in items:
+        event_id = it.get("_event_id")
+        sig = _signature(it)
+        if event_id:
+            new_state[event_id] = sig
+        if not event_id or state.get(event_id) != sig:
+            changed.append(it)
+    try:
+        _save_state(new_state)
+    except Exception as e:
+        print(f"ticketmaster: failed to save state — {type(e).__name__}: {e}", file=sys.stderr)
+
+    if len(changed) != len(items):
+        print(f"ticketmaster: {len(items)} current events, {len(changed)} new/changed", file=sys.stderr)
+
+    return changed
 
 
 if __name__ == "__main__":
