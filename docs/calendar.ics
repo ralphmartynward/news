@@ -8841,17 +8841,18 @@ BEGIN:VEVENT
 UID:cluster:493ac055-be7c-47a7-a287-11eec6d4ad52@news.lavillerose.com
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:Rentrée 2026 : nouvelles écoles et rénovations à Toulouse
-DESCRIPTION:Pour la rentrée du 1er septembre 2026\, 32 000 enfants toulous
- ains retrouvent les bancs de l'école\, dont certains dans des établissem
- ents entièrement neufs ou rénovés pendant l'été. Le groupe scolaire M
- arie de Gournay\, à Malepère\, ouvre en totalité avec 22 classes et une
-  cour oasis pensée pour les enfants\, pour un coût de 15\,5 millions d'e
- uros. À Jolimont\, 13\,5 millions d'euros ont été investis dans la rén
- ovation énergétique et l'agrandissement de l'école du quartier Guillaum
- et. D'autres chantier\n\nSource\: https://actu.fr/occitanie/toulouse_31555
- /nouvelle-ecole-rehabilitations-agrandissements-le-point-sur-la-rentree-sc
- olaire-a-toulouse_64712013.html
+SUMMARY:Rentrée 2026 : nouvelles écoles et collèges à Toulouse et en Ha
+ ute-Garonne
+DESCRIPTION:Pour la rentrée du 1er septembre 2026\, Toulouse accueille 32 
+ 000 écoliers dans des établissements en partie nouveaux ou rénovés. À
+  Malepère\, le groupe scolaire Marie de Gournay ouvre entièrement avec 2
+ 2 classes et une cour « oasis » pour 15\,5 millions d'euros d'investisse
+ ment \; à Jolimont\, 13\,5 millions ont financé la rénovation énergét
+ ique et l'extension de l'école élémentaire Guillaumet. D'autres chantie
+ rs sont en cours\, notamment à Château d'Ancely et Rangueil. À l'échel
+ le départementale\, la \n\nSource\: https://actu.fr/occitanie/toulouse_31
+ 555/nouvelle-ecole-rehabilitations-agrandissements-le-point-sur-la-rentree
+ -scolaire-a-toulouse_64712013.html
 URL:https://actu.fr/occitanie/toulouse_31555/nouvelle-ecole-rehabilitations
  -agrandissements-le-point-sur-la-rentree-scolaire-a-toulouse_64712013.html
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -8910,21 +8911,41 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-01#48552?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:176ef600-3a6a-48d2-b12b-080b730f6e13@news.lavillerose.com
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261001
+SUMMARY:Mois du Patrimoine
+DESCRIPTION:Du 1er au 30 septembre 2026\, les vallées d'Aure et du Louron 
+ organisent le Mois du Patrimoine\, un événement mensuel réunissant plus
+  de 150 animations dans une trentaine de villages de montagne. Au programm
+ e : visites guidées\, randonnées\, spectacles\, concerts\, ateliers\, ex
+ positions et animations familiales. Temps fort de l'édition\, l'œuvre im
+ mersive "Figures de passage" de l'artiste Laurent Valera s'installe au lac
+  de Génos-Loudenvielle\, avec une phase de construction participative du 
+ 7 au 11 sep\n\nSource\: https://www.toulouscope.fr/2026/09/01/pendant-un-m
+ ois-cet-evenement-est-dedie-au-patrimoine-des-vallees-daure-et-du-louron-1
+ 3486750.php
+LOCATION:allées d'Aure\, Toulouse
+URL:https://www.toulouscope.fr/2026/09/01/pendant-un-mois-cet-evenement-est
+ -dedie-au-patrimoine-des-vallees-daure-et-du-louron-13486750.php?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4d213434-5a5b-4f5a-b9ee-e6fb592a9e7c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Présentation du Bouclier de Brennus
-DESCRIPTION:Plus de deux mois après leur 25e titre de champion de France\,
-  les joueurs du Stade Toulousain présenteront officiellement le Bouclier 
- de Brennus à leurs supporters le mercredi 2 septembre à Ernest-Wallon. L
- a cérémonie avait été annulée le soir de la finale du 28 juin en rais
- on d'un risque d'orages violents\, privant les fans du traditionnel balcon
-  du Capitole. L'après-midi sera bien remplie : ouverture des portes à 15
- h avec food-trucks et animations\, séance de dédicaces de 15h30 à 16h20
- \, puis ent\n\nSource\: https://actu.fr/occitanie/toulouse_31555/plus-de-d
- eux-mois-apres-la-finale-du-top-14-le-stade-toulousain-va-enfin-presenter-
- le-bouclier-de-brennus-a-ses-fans_64713482.html
-LOCATION:Stade Toulousain présenteront officiellement le Bouc\, Toulouse
+DESCRIPTION:Plus de deux mois après le 25e titre de champion de France du 
+ Stade Toulousain\, le Bouclier de Brennus sera enfin présenté aux suppor
+ ters le mercredi 2 septembre à Ernest-Wallon. La présentation traditionn
+ elle depuis le balcon du Capitole avait été annulée fin juin en raison 
+ d'un risque d'orages violents. Le programme débute à 15h avec l'ouvertur
+ e des portes\, des food-trucks et des animations\, suivi d'une séance de 
+ dédicaces à 15h30\, puis d'un entraînement des professionnels à 18h10 
+ commenté pou\n\nSource\: https://actu.fr/occitanie/toulouse_31555/plus-de
+ -deux-mois-apres-la-finale-du-top-14-le-stade-toulousain-va-enfin-presente
+ r-le-bouclier-de-brennus-a-ses-fans_64713482.html
+LOCATION:Stade Toulousain\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/plus-de-deux-mois-apres-la-fin
  ale-du-top-14-le-stade-toulousain-va-enfin-presenter-le-bouclier-de-brennu
  s-a-ses-fans_64713482.html?utm_source=ical&utm_medium=calendar&utm_campaig
@@ -8969,19 +8990,40 @@ URL:https://actu.fr/occitanie/toulouse_31555/des-produits-de-premiere-neces
  e-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:167bbdbc-54c0-4c1a-bf37-a7df93131bb6@news.lavillerose.com
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Le « boss des Izards » jugé aux Assises pour blanchiment de drog
+ ue
+DESCRIPTION:Mohamed Z.\, surnommé « Zem » et déjà condamné à 27 ans 
+ de prison pour meurtre\, comparaîtra aux Assises de Toulouse à partir du
+  2 septembre 2026 pour blanchiment d'argent issu d'un vaste trafic de stup
+ éfiants. Il sera jugé aux côtés de quatre proches\, dont son épouse N
+ adila\, poursuivie pour blanchiment en lien avec le train de vie luxueux d
+ u couple. Les enquêteurs de la brigade financière ont notamment relevé 
+ la revente à prix fort d'une maison luxueuse. Ce volet judiciaire\, disti
+ nct des affaires\n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-b
+ oss-des-izards-et-sa-femme-devant-les-assises-a-toulouse-plongee-dans-la-v
+ ie-fastueuse-du-couple_64697519.html
+URL:https://actu.fr/occitanie/toulouse_31555/le-boss-des-izards-et-sa-femme
+ -devant-les-assises-a-toulouse-plongee-dans-la-vie-fastueuse-du-couple_646
+ 97519.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876@news.lavillerose.com
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260906
 SUMMARY:Grande Braderie de Toulouse
-DESCRIPTION:La Grande Braderie de Toulouse se tient du 3 au 5 septembre 202
- 6 en plein cœur de la ville\, dont les rues seront rendues piétonnes pou
- r l'occasion. Les commerçants investissent l'espace public pour proposer 
- promotions et bonnes affaires à l'approche de la rentrée scolaire. C'est
-  l'occasion idéale pour renouveler sa garde-robe ou se faire plaisir avan
- t la reprise. La programmation détaillée n'est pas encore disponible.\n\
- nSource\: https://www.toulouse-tourisme.com/agenda/grande-braderie-de-toul
- ouse/
-LOCATION:rues seront rendues piétonnes\, Toulouse
+DESCRIPTION:La Grande Braderie de Toulouse se tient du jeudi 3 au samedi 5 
+ septembre 2026 dans le centre-ville\, rendu piéton pour l'occasion. Quelq
+ ue 700 commerçants investissent près de 19 kilomètres de parcours march
+ and\, des boulevards jusqu'à la Garonne. L'événement génère plus de c
+ hiffre d'affaires que les soldes et avait attiré 1\,8 million de visiteur
+ s l'an dernier. On y trouve des promotions sur des articles d'été et les
+  premières offres hivernales\, répartis entre mode\, maison\, culture\, 
+ beauté et alim\n\nSource\: https://www.toulouse-tourisme.com/agenda/grand
+ e-braderie-de-toulouse/
 URL:https://www.toulouse-tourisme.com/agenda/grande-braderie-de-toulouse/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -19448,7 +19490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3a29c289-8d19-4ad1-949f-26b2e43e39d4@news.lavillerose.com
 DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20270108
 SUMMARY:Agenda comédie au Casino Barrière de Toulouse : six spectacles à
   venir
 DESCRIPTION:Le Casino Barrière de Toulouse accueille une série de six spe
@@ -19553,22 +19595,21 @@ URL:https://www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:3575e7e6-6968-40dc-adfe-b030bedbbda3@news.lavillerose.com
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270117
-SUMMARY:Saint-Exupéry\, le Commandeur des Oiseaux
-DESCRIPTION:Le comédien Franck Desmedt\, lauréat d'un Molière pour Adieu
-  Monsieur Haffmann\, monte seul sur scène pour incarner Antoine de Saint-
- Exupéry au Petit Théâtre Saint-Exupère de Toulouse. Après avoir endos
- sé les rôles de Romain Gary et de Joseph Kessel\, il poursuit son explor
- ation des grands auteurs du XXe siècle avec ce spectacle consacré à l'a
- viateur de l'Aéropostale et auteur du Petit Prince. Le spectateur est emb
- arqué dans un voyage entre ciel et écriture\, sur les traces d'un héros
-  en quête d'abs\n\nSource\: https://www.toulouse-tourisme.com/agenda/sain
- t-exupery-le-commandeurs-des-oiseaux/
-URL:https://www.toulouse-tourisme.com/agenda/saint-exupery-le-commandeurs-d
- es-oiseaux/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
- da
+UID:cluster:74bfbcda-541a-465a-a856-aa028c92663f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bonnie & Clyde
+DESCRIPTION:Le Casino Barrière de Toulouse accueillera deux spectacles de 
+ danse distincts en 2027. Bonnie & Clyde est programmé le 10 janvier 2027\
+ , suivi de Boléro le 13 juin 2027. Ces deux productions s'inscrivent dans
+  la catégorie Arts & Théâtre — Danse\, offrant aux amateurs du genre 
+ deux rendez-vous échelonnés sur l'année. Les billets sont disponibles v
+ ia Ticketmaster pour ces deux événements au même lieu.\n\nSource\: http
+ s://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmanif/66626
+ 0/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmani
+ f/666260/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3ad8d37b-df7b-414f-812d-ffe66b9fe315@news.lavillerose.com
@@ -19782,23 +19823,6 @@ DESCRIPTION:Le spectacle « Formidable ! Aznavour » sera présenté au Cas
 URL:https://www.ticketmaster.fr/fr/manifestation/formidable-aznavour-billet
  /idmanif/651764/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_ca
  mpaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:9012fcb9-9cde-49d2-a4d8-a8e539aa823f@news.lavillerose.com
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-SUMMARY:Le Chemin des Métaphores
-DESCRIPTION:Le spectacle « Le Chemin des Métaphores » est programmé au 
- Petit Théâtre Saint-Exupère à Toulouse. Il suit Max\, un personnage pr
- is dans ses habitudes quotidiennes\, dont la journée bascule suite à une
-  rencontre inattendue qui l'ouvre à un univers plus poétique. Le spectac
- le fait la part belle aux marionnettes expressives et s'inscrit dans la tr
- adition du réalisme magique sud-américain\, avec un escargot philosophe 
- comme guide symbolique. Il s'adresse à tous ceux qui souhaitent ralentir 
- et redécouv\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-chemi
- n-des-metaphores/
-URL:https://www.toulouse-tourisme.com/agenda/le-chemin-des-metaphores/?utm_
- source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6ea7d828-66ef-4f39-838e-500c38e81b5e@news.lavillerose.com
@@ -20566,23 +20590,6 @@ URL:https://www.toulouse-tourisme.com/agenda/nadine-sierra-chante-mozart-do
  nizetti/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:2c68561e-04dd-47e8-8fd9-6eadc8a2519a@news.lavillerose.com
-DTSTART;VALUE=DATE:20270203
-DTEND;VALUE=DATE:20270204
-SUMMARY:Deux concerts de chanson française au Casino Barrière de Toulouse
-DESCRIPTION:Le Casino Barrière de Toulouse accueillera deux artistes de ch
- anson française lors de soirées distinctes en 2027. Gauvain Sers\, auteu
- r-compositeur-interprète reconnu pour ses textes engagés et poétiques\,
-  s'y produira le 3 février 2027. Hervé Vilard\, figure emblématique de 
- la variété française\, montera sur scène le 7 mai 2027. Ces deux conce
- rts s'adressent aux amateurs de chanson française dans toutes ses génér
- ations.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/gauvain-s
- ers-billet/idmanif/649102/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/gauvain-sers-billet/idmani
- f/649102/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:94900a89-db78-4fe0-996f-63a1a8fc4b77@news.lavillerose.com
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
@@ -20963,6 +20970,24 @@ LOCATION:salle toulousaine dédiée\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/sacko-camara-billet/idmani
  f/656797/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:13ccc3e6-39f5-4117-8536-ead9df3c3fe3@news.lavillerose.com
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Keen'V et Vianney en concert au Zénith de Toulouse
+DESCRIPTION:Deux artistes de chanson française sont programmés au Zénith
+  Toulouse Métropole : Keen'V se produira le 20 février 2027\, suivi de V
+ ianney le 7 octobre 2027. Ces deux concerts s'inscrivent dans la programma
+ tion musicale de la grande salle toulousaine pour la saison à venir. Les 
+ amateurs de variété et de chanson française auront ainsi deux rendez-vo
+ us distincts à marquer dans leur agenda. Les billets sont disponibles via
+  Ticketmaster.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/ke
+ en-v-billet/idmanif/637016/idtier/18864121
+LOCATION:salle toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/keen-v-billet/idmanif/6370
+ 16/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d1bdba2a-3627-4a4f-a77e-44ca9aac4279@news.lavillerose.com
@@ -21765,22 +21790,6 @@ DESCRIPTION:La pianiste et chanteuse américaine Sarah McCoy se produira à
 LOCATION:Salle Nougaro de Toulouse le 10 mars 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/sarah-mccoy/?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:4eb6e3cb-ced4-453f-bc02-3d1384c7d55f@news.lavillerose.com
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-SUMMARY:Deux soirées comiques au Casino Barrière de Toulouse
-DESCRIPTION:Le Casino Barrière de Toulouse accueille deux spectacles d'hum
- our au printemps 2027. Jessé se produira sur scène le 10 mars 2027\, sui
- vi d'Ilyes Djadel le 28 mars 2027. Ces deux événements s'inscrivent dans
-  la programmation Arts & Théâtre — Comédie de la salle. Les amateurs 
- de stand-up et d'humour auront ainsi deux rendez-vous à ne pas manquer en
-  l'espace de quelques semaines.\n\nSource\: https://www.ticketmaster.fr/fr
- /manifestation/jesse-billet/idmanif/639085/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/jesse-billet/idmanif/63908
- 5/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
- e-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9f4ba381-6a9b-4b6d-98f7-5abc98a01e69@news.lavillerose.com

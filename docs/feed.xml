@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-09-01T10:26:47.404944+00:00</updated>
+  <updated>2026-09-02T09:50:23.451617+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,78 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:e050273e-4e9d-4c7a-9d31-fd1068115b5c</id>
-    <title>Chez Bernï : des recettes de famille transformées en livres illustrés personnalisés</title>
-    <updated>2026-08-26T05:34:07.379310+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;Anaïs, illustratrice toulousaine, a lancé le projet Chez Bernï, qui consiste à créer des carnets de recettes sur mesure à partir de souvenirs culinaires familiaux. Les clients choisissent entre cinq et quinze recettes, qu&amp;#x27;ils transmettent via un formulaire accompagné de détails personnels — nappes familiales, jardins d&amp;#x27;enfance, rituels de cuisine. À partir de ces éléments, Anaïs réalise des illustrations originales mêlant aquarelle, acrylique et dessin numérique pour raconter l&amp;#x27;histoire de chaque plat. Le résultat est un objet unique, pensé autant pour être feuilleté au quotidien que transmis de génération en génération.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/08/25/a-toulouse-anais-transforme-les-recettes-de-famille-en-livres-illustres-avec-son-projet-chez-berni-13437380.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/08/25/a-toulouse-anais-transforme-les-recettes-de-famille-en-livres-illustres-avec-son-projet-chez-berni-13437380.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Anaïs, illustratrice toulousaine, a lancé le projet Chez Bernï, qui consiste à créer des carnets de recettes sur mesure à partir de souvenirs culinaires familiaux. Les clients choisissent entre cinq et quinze recettes, qu'ils transmettent via un formulaire accompagné de détails personnels — nappes familiales, jardins d'enfance, rituels de cuisine. À partir de ces éléments, Anaïs réalise des illustrations originales mêlant aquarelle, acrylique et dessin numérique pour raconter l'histoire de chaque plat. Le résultat est un objet unique, pensé autant pour être feuilleté au quotidien que transmis de génération en génération.</summary>
-    <category term="culture"/>
-    <published>2026-08-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:71651510-a723-427e-83d0-a5dab1c18285</id>
-    <title>Cyberattaque contre l'Éducation nationale : l'Académie de Toulouse paralysée avant la rentrée</title>
-    <updated>2026-08-26T05:34:07.379310+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Une cyberattaque survenue le 19 août 2026 a contraint le rectorat de Toulouse à suspendre l&amp;#x27;accès à l&amp;#x27;ensemble de ses systèmes d&amp;#x27;information — applications métiers, messagerie et site internet. Le recteur Karim Benmiloud a annoncé la mesure le 24 août, à quelques jours de la rentrée scolaire. Toutes les écoles de l&amp;#x27;Académie sont touchées : enseignants et directeurs d&amp;#x27;établissements n&amp;#x27;ont plus accès à leurs outils numériques, ce qui perturbe lourdement les préparatifs. La commune de Longages, en Haute-Garonne, illustre la situation : elle a dû avertir les parents de privilégier le contact téléphonique, faute de messagerie disponible. Cette attaque s&amp;#x27;inscrit dans le contexte d&amp;#x27;une cyberattaque massive déjà subie par le ministère de l&amp;#x27;Éducation nationale le 25 juillet, ayant touché plusieurs académies.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cyberattaque-massive-subie-par-l-education-nationale-a-toulouse-la-rentree-approche-et-c-est-le-black-out_64702494.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cyberattaque-massive-subie-par-l-education-nationale-a-toulouse-la-rentree-approche-et-c-est-le-black-out_64702494.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Une cyberattaque survenue le 19 août 2026 a contraint le rectorat de Toulouse à suspendre l'accès à l'ensemble de ses systèmes d'information — applications métiers, messagerie et site internet. Le recteur Karim Benmiloud a annoncé la mesure le 24 août, à quelques jours de la rentrée scolaire. Toutes les écoles de l'Académie sont touchées : enseignants et directeurs d'établissements n'ont plus accès à leurs outils numériques, ce qui perturbe lourdement les préparatifs. La commune de Longages, en Haute-Garonne, illustre la situation : elle a dû avertir les parents de privilégier le contact téléphonique, faute de messagerie disponible. Cette attaque s'inscrit dans le contexte d'une cyberattaque massive déjà subie par le ministère de l'Éducation nationale le 25 juillet, ayant touché plusieurs académies.</summary>
-    <category term="news"/>
-    <published>2026-08-25T13:18:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c3588caf-e579-42d2-8280-44fd685f3699</id>
-    <title>Panaches de fumée noire visibles sur Toulouse : deux incidents distincts</title>
-    <updated>2026-08-26T05:34:07.379310+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Deux épisodes de fumée noire ont inquiété les Toulousains à des dates différentes en août 2026. Le mercredi 19 août, un épais panache visible depuis Montaudran, Marengo et le périphérique s&amp;#x27;est révélé être un simple feu de poubelles au pied d&amp;#x27;un immeuble avenue Édouard-Belin, selon le SDIS 31. Le mardi 25 août, c&amp;#x27;est un incendie de poids lourd avec remorque sur le périphérique extérieur, au niveau des Ponts-Jumeaux (quartier Sept-Deniers), qui a provoqué un panache visible à plusieurs kilomètres, coupé la voie et généré un bouchon de 4 km depuis la barrière de Toulouse-Nord. Le feu s&amp;#x27;est étendu à la végétation en bord de voie, mais était en cours de maîtrise vers 16h50 ; Vinci Autoroutes a conseillé aux automobilistes venant de Bordeaux de contourner par le périphérique intérieur.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux articles couvrent des incidents distincts regroupés ici en raison de la même thématique (fumée noire sur Toulouse). Le premier est rassurant et factuel (feu bénin), le second est un article de suivi en temps réel d&amp;#x27;un incident de circulation sérieux.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (19 août)&lt;/strong&gt;: Pour comprendre l&amp;#x27;origine du panache de Montaudran : un feu de poubelles sans gravité&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (25 août)&lt;/strong&gt;: Pour les détails de l&amp;#x27;incendie du poids lourd et les conseils de circulation sur le périphérique&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/violent-incendie-d-un-poids-lourd-sur-le-peripherique-de-toulouse-coupe-a-la-circulation-une-fumee-noire-s-eleve_64704751.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/violent-incendie-d-un-poids-lourd-sur-le-peripherique-de-toulouse-coupe-a-la-circulation-une-fumee-noire-s-eleve_64704751.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Deux épisodes de fumée noire ont inquiété les Toulousains à des dates différentes en août 2026. Le mercredi 19 août, un épais panache visible depuis Montaudran, Marengo et le périphérique s'est révélé être un simple feu de poubelles au pied d'un immeuble avenue Édouard-Belin, selon le SDIS 31. Le mardi 25 août, c'est un incendie de poids lourd avec remorque sur le périphérique extérieur, au niveau des Ponts-Jumeaux (quartier Sept-Deniers), qui a provoqué un panache visible à plusieurs kilomètres, coupé la voie et généré un bouchon de 4 km depuis la barrière de Toulouse-Nord. Le feu s'est étendu à la végétation en bord de voie, mais était en cours de maîtrise vers 16h50 ; Vinci Autoroutes a conseillé aux automobilistes venant de Bordeaux de contourner par le périphérique intérieur.</summary>
-    <category term="news"/>
-    <published>2026-08-25T16:43:59+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:08d1decb-bf95-40e2-9862-6278dae73d52</id>
-    <title>United Airlines ouvre un vol direct quotidien Toulouse-Washington dès 2027</title>
-    <updated>2026-08-26T05:34:07.379310+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;United Airlines a annoncé mardi 25 août 2026 l&amp;#x27;ouverture d&amp;#x27;une liaison directe et quotidienne entre l&amp;#x27;aéroport de Toulouse-Blagnac et Washington-Dulles, capitale des États-Unis. Le premier vol est prévu le 26 avril 2027, à bord d&amp;#x27;un Airbus A321XLR. C&amp;#x27;est une première pour une liaison commerciale régulière transatlantique depuis Toulouse, malgré des décennies d&amp;#x27;espoir et de fausses pistes pour un vol direct vers New York. L&amp;#x27;article rappelle que le seul précédent remonte à 1977, lorsque Concorde avait décollé de Blagnac pour New York dans un contexte exceptionnel. Cette ouverture s&amp;#x27;inscrit dans un plan plus large d&amp;#x27;United Airlines, qui lance dix nouvelles lignes internationales entre mars et juin 2027.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-une-grande-premiere-un-vol-direct-et-quotidien-va-bientot-relier-toulouse-blagnac-a-la-capitale-des-etats-unis_64704201.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-une-grande-premiere-un-vol-direct-et-quotidien-va-bientot-relier-toulouse-blagnac-a-la-capitale-des-etats-unis_64704201.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>United Airlines a annoncé mardi 25 août 2026 l'ouverture d'une liaison directe et quotidienne entre l'aéroport de Toulouse-Blagnac et Washington-Dulles, capitale des États-Unis. Le premier vol est prévu le 26 avril 2027, à bord d'un Airbus A321XLR. C'est une première pour une liaison commerciale régulière transatlantique depuis Toulouse, malgré des décennies d'espoir et de fausses pistes pour un vol direct vers New York. L'article rappelle que le seul précédent remonte à 1977, lorsque Concorde avait décollé de Blagnac pour New York dans un contexte exceptionnel. Cette ouverture s'inscrit dans un plan plus large d'United Airlines, qui lance dix nouvelles lignes internationales entre mars et juin 2027.</summary>
-    <category term="news"/>
-    <published>2026-08-25T15:58:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:860890de-86d1-4ef5-806b-f21813151783</id>
-    <title>Airbus adoucit sa position sur le télétravail pour la rentrée 2026</title>
-    <updated>2026-08-26T05:34:07.379310+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;En juin 2026, le PDG d&amp;#x27;Airbus Guillaume Faury avait annoncé vouloir imposer quatre jours de présence sur site par semaine dès septembre, provoquant une vive réaction syndicale. Face à cette opposition, Faury avait confirmé dès juillet en comité européen que l&amp;#x27;accord QVCT de 2024 — autorisant jusqu&amp;#x27;à deux jours de télétravail hebdomadaire à la discrétion des managers — restait en vigueur. À la rentrée de septembre 2026, le cadre négocié n&amp;#x27;est donc pas modifié, mais Airbus confirme tout de même sa volonté de réduire le recours au télétravail en optant pour « une transition plus progressive ». Les 160 000 salariés du groupe dans le monde sont concernés, et les syndicats (CFDT, CGT, FO) suivent de près l&amp;#x27;évolution de la stratégie de la direction.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/airbus-confirme-sa-volonte-de-reduire-la-part-du-teletravail-mais-opte-pour-une-transition-plus-progressive_64703947.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/airbus-confirme-sa-volonte-de-reduire-la-part-du-teletravail-mais-opte-pour-une-transition-plus-progressive_64703947.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>En juin 2026, le PDG d'Airbus Guillaume Faury avait annoncé vouloir imposer quatre jours de présence sur site par semaine dès septembre, provoquant une vive réaction syndicale. Face à cette opposition, Faury avait confirmé dès juillet en comité européen que l'accord QVCT de 2024 — autorisant jusqu'à deux jours de télétravail hebdomadaire à la discrétion des managers — restait en vigueur. À la rentrée de septembre 2026, le cadre négocié n'est donc pas modifié, mais Airbus confirme tout de même sa volonté de réduire le recours au télétravail en optant pour « une transition plus progressive ». Les 160 000 salariés du groupe dans le monde sont concernés, et les syndicats (CFDT, CGT, FO) suivent de près l'évolution de la stratégie de la direction.</summary>
-    <category term="news"/>
-    <published>2026-08-26T06:04:01+02:00</published>
-  </entry>
   <entry>
     <id>cluster:9f6d0f45-c307-4bb1-a459-578316a93b93</id>
     <title>Jam Session gratuite au Pirouette dimanche soir</title>
@@ -265,6 +193,22 @@
     <published>2026-08-27T12:04:02+02:00</published>
   </entry>
   <entry>
+    <id>cluster:9bde88fc-0b67-486c-af21-1352dda88241</id>
+    <title>Procès du point de deal d'Auriacombe : neuf trafiquants condamnés à la Reynerie</title>
+    <updated>2026-08-27T16:08:34.679802+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Neuf hommes et une femme comparaissaient les 25 et 26 août 2026 devant le tribunal de Toulouse pour avoir géré l&amp;#x27;un des plus importants points de deal de la ville, situé cheminement Auriacombe dans le quartier de la Reynerie. Ils avaient été interpellés en avril 2024 lors d&amp;#x27;une opération « place nette XXL » après des mois de surveillance, d&amp;#x27;écoutes téléphoniques et de filatures. Parmi les accusés figuraient deux frères désignés comme les patrons du réseau, ainsi que la compagne de l&amp;#x27;un d&amp;#x27;eux, poursuivie pour avoir profité des fruits du trafic — voyages à Dubaï, sacs Chanel. Un onzième prévenu, Salim E.G., est décédé en cours de procédure le 20 août 2025 — « il a été tué », a précisé le président de l&amp;#x27;audience Didier Suc, soulignant la violence inhérente au milieu. Tous les prévenus présents ont finalement été condamnés à des peines allant jusqu&amp;#x27;à cinq ans d&amp;#x27;emprisonnement ferme.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article présente les profils des accusés et le déroulé de l&amp;#x27;enquête (angle portrait/récit), tandis que le second se concentre sur les condamnations prononcées à l&amp;#x27;issue du procès (angle verdict/résultats).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Profils des accusés et méthodes d&amp;#x27;enquête de la police judiciaire&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Verdict et peines prononcées contre chaque prévenu&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ils-geraient-l-un-des-plus-gros-points-de-deal-de-toulouse-a-quoi-ont-ete-condamnes-les-9-trafiquants-de-la-reynerie_64712213.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ils-geraient-l-un-des-plus-gros-points-de-deal-de-toulouse-a-quoi-ont-ete-condamnes-les-9-trafiquants-de-la-reynerie_64712213.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Neuf hommes et une femme comparaissaient les 25 et 26 août 2026 devant le tribunal de Toulouse pour avoir géré l'un des plus importants points de deal de la ville, situé cheminement Auriacombe dans le quartier de la Reynerie. Ils avaient été interpellés en avril 2024 lors d'une opération « place nette XXL » après des mois de surveillance, d'écoutes téléphoniques et de filatures. Parmi les accusés figuraient deux frères désignés comme les patrons du réseau, ainsi que la compagne de l'un d'eux, poursuivie pour avoir profité des fruits du trafic — voyages à Dubaï, sacs Chanel. Un onzième prévenu, Salim E.G., est décédé en cours de procédure le 20 août 2025 — « il a été tué », a précisé le président de l'audience Didier Suc, soulignant la violence inhérente au milieu. Tous les prévenus présents ont finalement été condamnés à des peines allant jusqu'à cinq ans d'emprisonnement ferme.</summary>
+    <category term="news"/>
+    <published>2026-08-27T13:08:34+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:ef66e193-bcc9-48ed-891d-d0a5b82cbbf6</id>
     <title>Concert de Patrick Bruel au Zénith : Moudenc refuse d'intervenir, l'opposition s'insurge</title>
     <updated>2026-08-27T16:08:34.679802+00:00</updated>
@@ -295,20 +239,6 @@
     <published>2026-08-27T16:42:34+02:00</published>
   </entry>
   <entry>
-    <id>cluster:4d213434-5a5b-4f5a-b9ee-e6fb592a9e7c</id>
-    <title>Le Stade Toulousain présente enfin le Bouclier de Brennus à Ernest-Wallon</title>
-    <updated>2026-08-27T16:08:34.679802+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Plus de deux mois après leur 25e titre de champion de France, les joueurs du Stade Toulousain présenteront officiellement le Bouclier de Brennus à leurs supporters le mercredi 2 septembre à Ernest-Wallon. La cérémonie avait été annulée le soir de la finale du 28 juin en raison d&amp;#x27;un risque d&amp;#x27;orages violents, privant les fans du traditionnel balcon du Capitole. L&amp;#x27;après-midi sera bien remplie : ouverture des portes à 15h avec food-trucks et animations, séance de dédicaces de 15h30 à 16h20, puis entraînement des pros à 18h10, suivi d&amp;#x27;un tour d&amp;#x27;honneur et de la présentation du Bouclier à 19h10. L&amp;#x27;événement est accessible via les parkings E, F et G ou le bus Linéo 1 (arrêt Soleil d&amp;#x27;or), et se tient quelques jours avant la reprise du Top 14.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/plus-de-deux-mois-apres-la-finale-du-top-14-le-stade-toulousain-va-enfin-presenter-le-bouclier-de-brennus-a-ses-fans_64713482.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/plus-de-deux-mois-apres-la-finale-du-top-14-le-stade-toulousain-va-enfin-presenter-le-bouclier-de-brennus-a-ses-fans_64713482.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Plus de deux mois après leur 25e titre de champion de France, les joueurs du Stade Toulousain présenteront officiellement le Bouclier de Brennus à leurs supporters le mercredi 2 septembre à Ernest-Wallon. La cérémonie avait été annulée le soir de la finale du 28 juin en raison d'un risque d'orages violents, privant les fans du traditionnel balcon du Capitole. L'après-midi sera bien remplie : ouverture des portes à 15h avec food-trucks et animations, séance de dédicaces de 15h30 à 16h20, puis entraînement des pros à 18h10, suivi d'un tour d'honneur et de la présentation du Bouclier à 19h10. L'événement est accessible via les parkings E, F et G ou le bus Linéo 1 (arrêt Soleil d'or), et se tient quelques jours avant la reprise du Top 14.</summary>
-    <category term="event"/>
-    <published>2026-08-27T17:26:13+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:c5772cf6-49a0-4d39-85b4-49c09e333031</id>
     <title>Pique-nique 100 % végan à la Prairie des filtres ce dimanche</title>
     <updated>2026-08-27T16:08:34.679802+00:00</updated>
@@ -335,22 +265,6 @@
     <summary>La ligne A du métro toulousain a subi une interruption partielle dans l'après-midi du jeudi 27 août 2026, à partir de 15h30. Tisséo a invoqué un problème technique entre les stations Balma-Gramont et Arènes, laissant 10 stations sans service, dont Capitole, Jean-Jaurès, Esquirol et Marengo-SNCF. Seul le tronçon Arènes–Basso Cambo a continué à fonctionner normalement, tandis que la ligne L14 assurait une desserte partielle de remplacement. La circulation a repris normalement à partir de 16h environ, selon Tisséo.</summary>
     <category term="news"/>
     <published>2026-08-27T16:04:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:9bde88fc-0b67-486c-af21-1352dda88241</id>
-    <title>Procès du point de deal d'Auriacombe : neuf trafiquants condamnés à la Reynerie</title>
-    <updated>2026-08-27T16:08:34.679802+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Neuf hommes et une femme comparaissaient les 25 et 26 août 2026 devant le tribunal de Toulouse pour avoir géré l&amp;#x27;un des plus importants points de deal de la ville, situé cheminement Auriacombe dans le quartier de la Reynerie. Ils avaient été interpellés en avril 2024 lors d&amp;#x27;une opération « place nette XXL » après des mois de surveillance, d&amp;#x27;écoutes téléphoniques et de filatures. Parmi les accusés figuraient deux frères désignés comme les patrons du réseau, ainsi que la compagne de l&amp;#x27;un d&amp;#x27;eux, poursuivie pour avoir profité des fruits du trafic — voyages à Dubaï, sacs Chanel. Un onzième prévenu, Salim E.G., est décédé en cours de procédure le 20 août 2025 — « il a été tué », a précisé le président de l&amp;#x27;audience Didier Suc, soulignant la violence inhérente au milieu. Tous les prévenus présents ont finalement été condamnés à des peines allant jusqu&amp;#x27;à cinq ans d&amp;#x27;emprisonnement ferme.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article présente les profils des accusés et le déroulé de l&amp;#x27;enquête (angle portrait/récit), tandis que le second se concentre sur les condamnations prononcées à l&amp;#x27;issue du procès (angle verdict/résultats).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Profils des accusés et méthodes d&amp;#x27;enquête de la police judiciaire&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Verdict et peines prononcées contre chaque prévenu&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/9-hommes-et-une-femme-qui-sont-les-dix-personnes-accusees-d-avoir-tenu-l-un-des-plus-gros-points-de-deal-de-toulouse_64702889.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/ils-geraient-l-un-des-plus-gros-points-de-deal-de-toulouse-a-quoi-ont-ete-condamnes-les-9-trafiquants-de-la-reynerie_64712213.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/9-hommes-et-une-femme-qui-sont-les-dix-personnes-accusees-d-avoir-tenu-l-un-des-plus-gros-points-de-deal-de-toulouse_64702889.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Neuf hommes et une femme comparaissaient les 25 et 26 août 2026 devant le tribunal de Toulouse pour avoir géré l'un des plus importants points de deal de la ville, situé cheminement Auriacombe dans le quartier de la Reynerie. Ils avaient été interpellés en avril 2024 lors d'une opération « place nette XXL » après des mois de surveillance, d'écoutes téléphoniques et de filatures. Parmi les accusés figuraient deux frères désignés comme les patrons du réseau, ainsi que la compagne de l'un d'eux, poursuivie pour avoir profité des fruits du trafic — voyages à Dubaï, sacs Chanel. Un onzième prévenu, Salim E.G., est décédé en cours de procédure le 20 août 2025 — « il a été tué », a précisé le président de l'audience Didier Suc, soulignant la violence inhérente au milieu. Tous les prévenus présents ont finalement été condamnés à des peines allant jusqu'à cinq ans d'emprisonnement ferme.</summary>
-    <category term="news"/>
-    <published>2026-08-25T14:32:12+02:00</published>
   </entry>
   <entry>
     <id>cluster:95799c8f-f679-494c-96b1-5ea1f3359364</id>
@@ -813,20 +727,6 @@
     <summary>Les Arts en Balade reviennent les 26 et 27 septembre 2026 pour un week-end consacré à la création artistique locale, répartie dans 105 lieux à Toulouse et 16 communes alentour. Peinture, sculpture, photographie, céramique, vidéo, installation : toutes les disciplines sont représentées, avec la possibilité d'acheter des œuvres directement aux prix atelier. Dès le début du mois, des Avant-Premières participatives animent dix lieux emblématiques de la métropole (dont la librairie Ombres Blanches et l'ISDAT), tandis que le Marché Victor Hugo accueille des œuvres dans les loges des commerçants une semaine avant l'ouverture officielle. Le week-end principal propose également vernissages, débats, performances, démonstrations et concerts dans les ateliers des artistes.</summary>
     <category term="event"/>
     <published>2026-08-28T16:24:01.535782+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876</id>
-    <title>La Grande Braderie de Toulouse envahit le centre-ville en septembre</title>
-    <updated>2026-08-28T16:39:41.543892+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;p&gt;La Grande Braderie de Toulouse se tient du 3 au 5 septembre 2026 en plein cœur de la ville, dont les rues seront rendues piétonnes pour l&amp;#x27;occasion. Les commerçants investissent l&amp;#x27;espace public pour proposer promotions et bonnes affaires à l&amp;#x27;approche de la rentrée scolaire. C&amp;#x27;est l&amp;#x27;occasion idéale pour renouveler sa garde-robe ou se faire plaisir avant la reprise. La programmation détaillée n&amp;#x27;est pas encore disponible.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/grande-braderie-de-toulouse/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/grande-braderie-de-toulouse/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Grande Braderie de Toulouse se tient du 3 au 5 septembre 2026 en plein cœur de la ville, dont les rues seront rendues piétonnes pour l'occasion. Les commerçants investissent l'espace public pour proposer promotions et bonnes affaires à l'approche de la rentrée scolaire. C'est l'occasion idéale pour renouveler sa garde-robe ou se faire plaisir avant la reprise. La programmation détaillée n'est pas encore disponible.</summary>
-    <category term="event"/>
-    <published>2026-08-28T16:23:20.020354+00:00</published>
   </entry>
   <entry>
     <id>cluster:d2c7b0d9-91be-42b9-9201-62839a034ac3</id>
@@ -13931,20 +13831,6 @@ Type: Music — Dance/Electronic</summary>
     <published>2026-08-30T15:08:02+02:00</published>
   </entry>
   <entry>
-    <id>cluster:a38158a8-46af-46ab-8c17-8e9962bbec37</id>
-    <title>Fortes chaleurs à venir : un record de septembre menacé à Toulouse</title>
-    <updated>2026-08-31T07:07:53.453076+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Une nouvelle vague de chaleur s&amp;#x27;annonce sur Toulouse et l&amp;#x27;Occitanie dès le mercredi 3 septembre 2026, avec des températures attendues jusqu&amp;#x27;à 36° vendredi 5 et samedi 6 septembre. Ce niveau dépasserait le record absolu de chaleur pour le mois de septembre à la station Toulouse-Blagnac, qui est de 35,2° depuis le 8 septembre 1966. Aucune pluie n&amp;#x27;est prévue sur la première quinzaine du mois, et le thermomètre atteint déjà 31° ce dimanche 30 août. Selon Météo France, ce phénomène s&amp;#x27;inscrit dans une tendance plus large : l&amp;#x27;été 2026 est déjà qualifié de plus chaud jamais enregistré à Toulouse, rapprochant la ville du profil climatique de l&amp;#x27;Andalousie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/vers-un-retour-des-tres-fortes-chaleurs-a-toulouse-et-en-occitanie-un-nouveau-record-pourrait-etre-battu_64723765.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/vers-un-retour-des-tres-fortes-chaleurs-a-toulouse-et-en-occitanie-un-nouveau-record-pourrait-etre-battu_64723765.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Une nouvelle vague de chaleur s'annonce sur Toulouse et l'Occitanie dès le mercredi 3 septembre 2026, avec des températures attendues jusqu'à 36° vendredi 5 et samedi 6 septembre. Ce niveau dépasserait le record absolu de chaleur pour le mois de septembre à la station Toulouse-Blagnac, qui est de 35,2° depuis le 8 septembre 1966. Aucune pluie n'est prévue sur la première quinzaine du mois, et le thermomètre atteint déjà 31° ce dimanche 30 août. Selon Météo France, ce phénomène s'inscrit dans une tendance plus large : l'été 2026 est déjà qualifié de plus chaud jamais enregistré à Toulouse, rapprochant la ville du profil climatique de l'Andalousie.</summary>
-    <category term="news"/>
-    <published>2026-08-30T15:17:53+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:b9d72944-fd92-421e-9fcd-e8051559d095</id>
     <title>Le CHU de Toulouse reçoit 600 000 € pour mieux comprendre le cancer du poumon</title>
     <updated>2026-08-31T07:07:53.453076+00:00</updated>
@@ -13971,34 +13857,6 @@ Type: Music — Dance/Electronic</summary>
     <summary>Le restaurant Franquette, établissement locavore sans chichi installé place des Tiercerettes dans le quartier Arnaud-Bernard depuis avril 2021, a annoncé sa fermeture le 27 août 2026. Sa gérante, Anaïs Bergua, a choisi de marquer l'événement avec légèreté, publiant une vidéo musicale entraînante montrant les plats emblématiques de la maison. En cinq ans, Franquette s'était forgé une solide réputation dans la Ville rose, salué notamment par le critique gastronomique « Mangeur Masqué » d'Actu Toulouse comme un restaurant qui « résiste à tout ». Anaïs Bergua laisse entendre qu'un nouveau projet est en préparation, concluant son message par un prometteur « On se retrouve ailleurs très bientôt ».</summary>
     <category term="news"/>
     <published>2026-08-30T17:26:45+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:4a8ef760-fb7d-42c4-800d-8c3d459310ea</id>
-    <title>La clinique Pasteur lance un grand chantier de reconstruction en centre-ville</title>
-    <updated>2026-08-31T07:07:53.453076+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La clinique Pasteur, l&amp;#x27;un des plus grands établissements de santé du centre-ville de Toulouse avec 65 000 patients par an et plus de 1 400 salariés, s&amp;#x27;apprête à engager un important chantier de reconstruction. Face à l&amp;#x27;augmentation et au vieillissement de la population toulousaine, l&amp;#x27;établissement doit accroître ses capacités de prise en charge tout en restant contraint par son foncier limité, situé à proximité de la voie ferrée Colomiers-Toulouse. Le projet prévoit la démolition de plusieurs bâtiments existants pour permettre une reconstruction sur elle-même, dans le cadre d&amp;#x27;une feuille de route fixant les orientations jusqu&amp;#x27;en 2030. Reconnue pour son expertise en chirurgie cardiaque — notamment classée 6e clinique française par Le Point — l&amp;#x27;établissement entend maintenir son niveau d&amp;#x27;excellence tout en modernisant ses infrastructures.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/plusieurs-batiments-bientot-detruits-dans-cette-clinique-du-centre-ville-de-toulouse-ce-qui-est-prevu_64719585.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/plusieurs-batiments-bientot-detruits-dans-cette-clinique-du-centre-ville-de-toulouse-ce-qui-est-prevu_64719585.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La clinique Pasteur, l'un des plus grands établissements de santé du centre-ville de Toulouse avec 65 000 patients par an et plus de 1 400 salariés, s'apprête à engager un important chantier de reconstruction. Face à l'augmentation et au vieillissement de la population toulousaine, l'établissement doit accroître ses capacités de prise en charge tout en restant contraint par son foncier limité, situé à proximité de la voie ferrée Colomiers-Toulouse. Le projet prévoit la démolition de plusieurs bâtiments existants pour permettre une reconstruction sur elle-même, dans le cadre d'une feuille de route fixant les orientations jusqu'en 2030. Reconnue pour son expertise en chirurgie cardiaque — notamment classée 6e clinique française par Le Point — l'établissement entend maintenir son niveau d'excellence tout en modernisant ses infrastructures.</summary>
-    <category term="news"/>
-    <published>2026-08-31T06:02:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:493ac055-be7c-47a7-a287-11eec6d4ad52</id>
-    <title>Rentrée 2026 : nouvelles écoles et rénovations à Toulouse</title>
-    <updated>2026-08-31T07:07:53.453076+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Pour la rentrée du 1er septembre 2026, 32 000 enfants toulousains retrouvent les bancs de l&amp;#x27;école, dont certains dans des établissements entièrement neufs ou rénovés pendant l&amp;#x27;été. Le groupe scolaire Marie de Gournay, à Malepère, ouvre en totalité avec 22 classes et une cour oasis pensée pour les enfants, pour un coût de 15,5 millions d&amp;#x27;euros. À Jolimont, 13,5 millions d&amp;#x27;euros ont été investis dans la rénovation énergétique et l&amp;#x27;agrandissement de l&amp;#x27;école du quartier Guillaumet. D&amp;#x27;autres chantiers sont encore en cours, notamment l&amp;#x27;école maternelle de Château d&amp;#x27;Ancely (6,7 M€) et l&amp;#x27;élémentaire de Rangueil, attendues pour l&amp;#x27;automne.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/nouvelle-ecole-rehabilitations-agrandissements-le-point-sur-la-rentree-scolaire-a-toulouse_64712013.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/nouvelle-ecole-rehabilitations-agrandissements-le-point-sur-la-rentree-scolaire-a-toulouse_64712013.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Pour la rentrée du 1er septembre 2026, 32 000 enfants toulousains retrouvent les bancs de l'école, dont certains dans des établissements entièrement neufs ou rénovés pendant l'été. Le groupe scolaire Marie de Gournay, à Malepère, ouvre en totalité avec 22 classes et une cour oasis pensée pour les enfants, pour un coût de 15,5 millions d'euros. À Jolimont, 13,5 millions d'euros ont été investis dans la rénovation énergétique et l'agrandissement de l'école du quartier Guillaumet. D'autres chantiers sont encore en cours, notamment l'école maternelle de Château d'Ancely (6,7 M€) et l'élémentaire de Rangueil, attendues pour l'automne.</summary>
-    <category term="news"/>
-    <published>2026-08-31T07:12:02+02:00</published>
   </entry>
   <entry>
     <id>cluster:cfa8eb31-1c99-4f2f-b9ce-e81521916e5a</id>
@@ -14559,34 +14417,6 @@ Type: Music — Dance/Electronic</summary>
     <published>2026-09-01T04:09:38.613000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:712f3393-3a1a-4b58-bb15-0e07dcbf0bd3</id>
-    <title>L'artiste Moncu! expose « Je vends MONCU! pour vivre » à My Gallery</title>
-    <updated>2026-09-01T10:26:47.404944+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;artiste Moncu!, repéré à Palissart à la Colombette en juin dernier, investit désormais My Gallery, galerie toulousaine qui renouvelle ses expositions chaque mois. L&amp;#x27;exposition s&amp;#x27;intitule « Je vends MONCU! pour vivre », un titre qui joue sur l&amp;#x27;identité même de l&amp;#x27;artiste. My Gallery se distingue par son format mensuel, offrant à chaque artiste invité une visibilité renouvelée auprès du public toulousain. Les amateurs d&amp;#x27;art contemporain local trouveront là une occasion de découvrir cet artiste récemment mis en lumière sur la scène toulousaine.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRu1HAniUA0_ueglPXEI3Sf56360_1MVvFs1o2kidDzjMs&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeRu1HAniUA0_ueglPXEI3Sf56360_1MVvFs1o2kidDzjMs&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRu1HAniUA0_ueglPXEI3Sf56360_1MVvFs1o2kidDzjMs&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'artiste Moncu!, repéré à Palissart à la Colombette en juin dernier, investit désormais My Gallery, galerie toulousaine qui renouvelle ses expositions chaque mois. L'exposition s'intitule « Je vends MONCU! pour vivre », un titre qui joue sur l'identité même de l'artiste. My Gallery se distingue par son format mensuel, offrant à chaque artiste invité une visibilité renouvelée auprès du public toulousain. Les amateurs d'art contemporain local trouveront là une occasion de découvrir cet artiste récemment mis en lumière sur la scène toulousaine.</summary>
-    <category term="culture"/>
-    <published>2026-09-01T04:06:58.457000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:41091f7d-c8b9-4a34-987b-9108da386ee0</id>
-    <title>Atelier Lecture et Couture à la Médiathèque Côte Pavée</title>
-    <updated>2026-09-01T10:26:47.404944+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;La médiathèque Côte Pavée de Toulouse propose un atelier mêlant travaux d&amp;#x27;aiguilles et échanges littéraires. Durant deux heures, les participants combinent création manuelle et lecture dans un esprit de partage de savoirs. L&amp;#x27;événement s&amp;#x27;adresse à ceux qui souhaitent tisser des liens sociaux autour de la couture et des livres. Aucune date précise n&amp;#x27;est mentionnée dans les sources disponibles.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRu1HAniUA0_ueglPXEI3Sf56360_1MVvFs1o2kidDvle4&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeRu1HAniUA0_ueglPXEI3Sf56360_1MVvFs1o2kidDvle4&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRu1HAniUA0_ueglPXEI3Sf56360_1MVvFs1o2kidDvle4&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La médiathèque Côte Pavée de Toulouse propose un atelier mêlant travaux d'aiguilles et échanges littéraires. Durant deux heures, les participants combinent création manuelle et lecture dans un esprit de partage de savoirs. L'événement s'adresse à ceux qui souhaitent tisser des liens sociaux autour de la couture et des livres. Aucune date précise n'est mentionnée dans les sources disponibles.</summary>
-    <category term="event"/>
-    <published>2026-09-01T04:06:58.457000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:9012fcb9-9cde-49d2-a4d8-a8e539aa823f</id>
     <title>Le Chemin des Métaphores au Petit Théâtre Saint-Exupère</title>
     <updated>2026-09-01T10:26:47.404944+00:00</updated>
@@ -14966,5 +14796,287 @@ Type: Music — Dance/Electronic</summary>
     <summary>Jean-Luc Moudenc a tenu sa conférence de rentrée le 26 août 2026, avec 31 586 enfants scolarisés dans les 213 écoles toulousaines. La ville a déjà équipé la totalité de ses 1 506 classes de brasseurs d'air — une première parmi les grandes villes françaises — et entend désormais créer dans chaque école un « îlot de fraîcheur » climatisé (réfectoire, salle de jeu), avec un objectif de couverture totale dans la première moitié du mandat, bien qu'aucun chiffrage précis ne soit encore disponible. La lutte contre les violences envers les enfants est aussi présentée comme un grand chantier de rentrée, avec une formation systématique de 100 % des agents municipaux et une chaîne de signalement renforcée. Côté chiffres régionaux, la présidente Carole Delga signale que l'Occitanie résiste mieux à la baisse démographique nationale, même si le projet de nouveau lycée dans le nord toulousain est abandonné au profit de structures provisoires.</summary>
     <category term="news"/>
     <published>2026-08-27T13:26:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b38c9f0f-2634-44d7-b193-1334e442f88f</id>
+    <title>Mise en conformité</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>tourinsoft.com</name>
+    </author>
+    <content type="html">&lt;p&gt;Bonjour, Vous êtes abonné(e) à l’une des newsletters de l’Office de tourisme de Toulouse. Afin de mieux comprendre l’intérêt porté à nos contenus et d’améliorer nos newsletters, nous souhaitons mesurer leur ouverture ainsi que les clics sur les liens qu’elles contiennent. Ce suivi repose sur l’utilisation de traceurs, appelés « pixels de suivi ». Conformément aux recommandations de la CNIL, nous avons besoin de votre accord pour utiliser ces traceurs. Votre choix n’a aucune incidence sur la réception de nos newsletters : vous continuerez à les recevoir, que vous acceptiez ou non ce suivi. Vous pourrez également modifier votre choix à tout moment. CHOISIR MES PRÉFÉRENCES Office de tourisme de Toulouse Métropole Donjon du Capitole • Square Charles-de-Gaulle • 31000 Toulouse infos@toulouse-team.com • webmaster@toulouse-team.com Tél : 05 17 42 31 31 • www.toulouse-tourisme.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=734aa53a-fd80-439d-90cf-9dd34c6ad23d&amp;amp;url_id=1e061a86-3b33-48af-99eb-74a3b7de431d&amp;amp;configId=58bcfc4c-4129-4f8e-9408-2674a11fb125&amp;amp;idStructure=a359d54a-456c-4d44-b690-ca50df29945b&amp;amp;idOffre=POPI0151G%7CRSMD3V139&amp;amp;email=newsletters%40lavillerose.com&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;tourinsoft.com&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_id=734aa53a-fd80-439d-90cf-9dd34c6ad23d&amp;url_id=1e061a86-3b33-48af-99eb-74a3b7de431d&amp;configId=58bcfc4c-4129-4f8e-9408-2674a11fb125&amp;idStructure=a359d54a-456c-4d44-b690-ca50df29945b&amp;idOffre=POPI0151G%7CRSMD3V139&amp;email=newsletters%40lavillerose.com&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Bonjour, Vous êtes abonné(e) à l’une des newsletters de l’Office de tourisme de Toulouse. Afin de mieux comprendre l’intérêt porté à nos contenus et d’améliorer nos newsletters, nous souhaitons mesurer leur ouverture ainsi que les clics sur les liens qu’elles contiennent. Ce suivi repose sur l’utilisation de traceurs, appelés « pixels de suivi ». Conformément aux recommandations de la CNIL, nous avons besoin de votre accord pour utiliser ces traceurs. Votre choix n’a aucune incidence sur la réception de nos newsletters : vous continuerez à les recevoir, que vous acceptiez ou non ce suivi. Vous pourrez également modifier votre choix à tout moment. CHOISIR MES PRÉFÉRENCES Office de tourisme de Toulouse Métropole Donjon du Capitole • Square Charles-de-Gaulle • 31000 Toulouse infos@toulouse-team.com • webmaster@toulouse-team.com Tél : 05 17 42 31 31 • www.toulouse-tourisme.com</summary>
+    <category term="news"/>
+    <published>2026-09-01T12:37:10.285000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b2f8ef94-9957-4f7d-86a2-8e1ea96d8952</id>
+    <title>Les parkings relais Tisséo : 7 902 places et bientôt plus</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Le réseau Tisséo gère 18 parkings relais (P+R) dans l&amp;#x27;agglomération toulousaine, pour un total de 7 902 places. L&amp;#x27;accès y est gratuit pour les usagers Tisséo ayant validé un trajet aller-retour sur le réseau, avec possibilité de stationner jusqu&amp;#x27;à 24h consécutives sur les lignes métro, tram et Téléo. Le P+R de Ribaute, à Balma, est en cours d&amp;#x27;extension pour passer de 56 à 178 places d&amp;#x27;ici fin 2026, dont 75 déjà accessibles. À plus long terme, Tisséo prévoit l&amp;#x27;extension du P+R de Borderouge (jusqu&amp;#x27;à 1 475 places) et la création de quatre nouveaux parkings sur la future ligne C, à Colomiers Gare, Sept Deniers, La Vache et Labège Gare.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48702"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48702"/>
+    <summary>Le réseau Tisséo gère 18 parkings relais (P+R) dans l'agglomération toulousaine, pour un total de 7 902 places. L'accès y est gratuit pour les usagers Tisséo ayant validé un trajet aller-retour sur le réseau, avec possibilité de stationner jusqu'à 24h consécutives sur les lignes métro, tram et Téléo. Le P+R de Ribaute, à Balma, est en cours d'extension pour passer de 56 à 178 places d'ici fin 2026, dont 75 déjà accessibles. À plus long terme, Tisséo prévoit l'extension du P+R de Borderouge (jusqu'à 1 475 places) et la création de quatre nouveaux parkings sur la future ligne C, à Colomiers Gare, Sept Deniers, La Vache et Labège Gare.</summary>
+    <category term="news"/>
+    <published>2026-09-02T04:10:42.603000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:6bdae708-e65d-463c-a3c3-cac2cf01a1d1</id>
+    <title>L'Institut Catholique de Toulouse accueille une nouvelle rectrice à la rentrée</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;Institut Catholique de Toulouse (ICT) organise sa rentrée sur trois jours sur son campus rue de la Fonderie et place du Parlement, pour ses 3 700 étudiants répartis dans cinq facultés et cinq écoles et instituts. Au programme : visites des locaux, rencontres avec les responsables de licence, distribution des cartes étudiantes et présentation de la vie associative. La nouveauté de cette rentrée est la confirmation de Bozena Billerey comme rectrice pour un mandat de six ans, validée par le Dicastère pour la Culture et l&amp;#x27;Éducation après avoir assuré l&amp;#x27;intérim depuis août 2025. Enseignante-chercheuse en sciences du langage et ancienne vice-rectrice, elle connaît l&amp;#x27;institution de l&amp;#x27;intérieur depuis de nombreuses années.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48698"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48698"/>
+    <summary>L'Institut Catholique de Toulouse (ICT) organise sa rentrée sur trois jours sur son campus rue de la Fonderie et place du Parlement, pour ses 3 700 étudiants répartis dans cinq facultés et cinq écoles et instituts. Au programme : visites des locaux, rencontres avec les responsables de licence, distribution des cartes étudiantes et présentation de la vie associative. La nouveauté de cette rentrée est la confirmation de Bozena Billerey comme rectrice pour un mandat de six ans, validée par le Dicastère pour la Culture et l'Éducation après avoir assuré l'intérim depuis août 2025. Enseignante-chercheuse en sciences du langage et ancienne vice-rectrice, elle connaît l'institution de l'intérieur depuis de nombreuses années.</summary>
+    <category term="news"/>
+    <published>2026-09-02T04:10:42.603000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:8fd049ce-8a8f-425d-8e6b-860679d23e0d</id>
+    <title>Le Plot Twist, café-librairie-coworking ouvre à Saint-Aubin</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Justine Salvayre et Thibaud Ventura ont ouvert le Plot Twist au 10 rue d&amp;#x27;Aubuisson, dans le quartier Saint-Aubin, le 14 août dernier — jour d&amp;#x27;anniversaire de Justine. À 28 ans tous les deux, ils ont effectué une reconversion professionnelle pour créer le coffee shop dont ils rêvaient. L&amp;#x27;endroit réserve plusieurs surprises : derrière la salle principale aux tons blancs et aux canapés moelleux se cachent une petite librairie spécialisée en romance fantasy et un espace coworking gratuit de 4 à 5 places. La carte propose chaï, matcha, café et thé en version chaude ou froide, accompagnés de cookies et de cakes faits maison.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48700"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48700"/>
+    <summary>Justine Salvayre et Thibaud Ventura ont ouvert le Plot Twist au 10 rue d'Aubuisson, dans le quartier Saint-Aubin, le 14 août dernier — jour d'anniversaire de Justine. À 28 ans tous les deux, ils ont effectué une reconversion professionnelle pour créer le coffee shop dont ils rêvaient. L'endroit réserve plusieurs surprises : derrière la salle principale aux tons blancs et aux canapés moelleux se cachent une petite librairie spécialisée en romance fantasy et un espace coworking gratuit de 4 à 5 places. La carte propose chaï, matcha, café et thé en version chaude ou froide, accompagnés de cookies et de cakes faits maison.</summary>
+    <category term="place"/>
+    <published>2026-09-02T04:10:42.603000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:04ae1ea5-67e1-4bc2-aa87-e774d36f2867</id>
+    <title>Carina Louart décrypte le mot « woke » dans un nouveau livre</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;La journaliste et autrice toulousaine Carina Louart publie « Woke ! » aux éditions Actes Sud, dans la collection Document. L&amp;#x27;ouvrage retrace l&amp;#x27;origine du terme — vieux argot afro-américain signifiant « éveillé » au racisme — et son essor avec Black Lives Matter, MeToo et le mouvement climatique. Louart s&amp;#x27;attache à dépasser les polémiques médiatiques pour explorer les enjeux de justice sociale qui sous-tendent ce courant, en donnant la parole aux jeunes. Elle souligne que le mot est devenu un fourre-tout souvent instrumentalisé de façon négative par les médias conservateurs pour disqualifier les militants.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48699"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48699"/>
+    <summary>La journaliste et autrice toulousaine Carina Louart publie « Woke ! » aux éditions Actes Sud, dans la collection Document. L'ouvrage retrace l'origine du terme — vieux argot afro-américain signifiant « éveillé » au racisme — et son essor avec Black Lives Matter, MeToo et le mouvement climatique. Louart s'attache à dépasser les polémiques médiatiques pour explorer les enjeux de justice sociale qui sous-tendent ce courant, en donnant la parole aux jeunes. Elle souligne que le mot est devenu un fourre-tout souvent instrumentalisé de façon négative par les médias conservateurs pour disqualifier les militants.</summary>
+    <category term="culture"/>
+    <published>2026-09-02T04:10:42.603000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:0e261323-505b-44e8-bf68-0a546c3115ef</id>
+    <title>La Bulle : concert sensoriel pour les tout-petits dès 9 mois</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;La Bulle est un concert sensoriel conçu par Frédéric Dufée et L&amp;#x27;Arbre à Sons, destiné aux enfants dès 9 mois accompagnés d&amp;#x27;un adulte. Les petits sont invités à découvrir et manipuler une variété d&amp;#x27;instruments à vent et de percussions : saxophone, claves, maracas, tambourin, gongs et balafon. L&amp;#x27;expérience vise l&amp;#x27;éveil musical et sensoriel des plus jeunes dans un cadre interactif et bienveillant. Aucune date ni lieu précis ne sont mentionnés dans les extraits disponibles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRu1X6ojkA0_ueglPXEI3Sg5I360_1OVfFs1o2kidDzle4&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeRu1X6ojkA0_ueglPXEI3Sg5I360_1OVfFs1o2kidDzle4&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRu1X6ojkA0_ueglPXEI3Sg5I360_1OVfFs1o2kidDzle4&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Bulle est un concert sensoriel conçu par Frédéric Dufée et L'Arbre à Sons, destiné aux enfants dès 9 mois accompagnés d'un adulte. Les petits sont invités à découvrir et manipuler une variété d'instruments à vent et de percussions : saxophone, claves, maracas, tambourin, gongs et balafon. L'expérience vise l'éveil musical et sensoriel des plus jeunes dans un cadre interactif et bienveillant. Aucune date ni lieu précis ne sont mentionnés dans les extraits disponibles.</summary>
+    <category term="event"/>
+    <published>2026-09-02T04:05:39.515000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1ab81f45-4404-40c7-9f4c-1fca4c55b43b</id>
+    <title>Initiation à la danse rock à la Maison de quartier de Pouvourville</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;La Maison de quartier de Pouvourville propose une séance d&amp;#x27;initiation à la danse rock, ouverte à tous les niveaux, débutants compris. Les participants pourront y apprendre les pas fondamentaux de cette danse populaire. Aucune expérience préalable n&amp;#x27;est requise pour s&amp;#x27;inscrire. L&amp;#x27;événement s&amp;#x27;adresse à tous les habitants du quartier et au-delà souhaitant découvrir le rock en couple ou seul.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRu1X6ojkA0_ueglPXEI3Sg5I360_1OVfFs1o2kidDzle0&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeRu1X6ojkA0_ueglPXEI3Sg5I360_1OVfFs1o2kidDzle0&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRu1X6ojkA0_ueglPXEI3Sg5I360_1OVfFs1o2kidDzle0&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Maison de quartier de Pouvourville propose une séance d'initiation à la danse rock, ouverte à tous les niveaux, débutants compris. Les participants pourront y apprendre les pas fondamentaux de cette danse populaire. Aucune expérience préalable n'est requise pour s'inscrire. L'événement s'adresse à tous les habitants du quartier et au-delà souhaitant découvrir le rock en couple ou seul.</summary>
+    <category term="event"/>
+    <published>2026-09-02T04:05:39.515000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:176ef600-3a6a-48d2-b12b-080b730f6e13</id>
+    <title>Le Mois du Patrimoine célèbre les vallées d'Aure et du Louron</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Du 1er au 30 septembre 2026, les vallées d&amp;#x27;Aure et du Louron organisent le Mois du Patrimoine, un événement mensuel réunissant plus de 150 animations dans une trentaine de villages de montagne. Au programme : visites guidées, randonnées, spectacles, concerts, ateliers, expositions et animations familiales. Temps fort de l&amp;#x27;édition, l&amp;#x27;œuvre immersive &amp;quot;Figures de passage&amp;quot; de l&amp;#x27;artiste Laurent Valera s&amp;#x27;installe au lac de Génos-Loudenvielle, avec une phase de construction participative du 7 au 11 septembre avant une inauguration officielle. Le spectacle de rue Habiter les vallées, construit à partir de témoignages d&amp;#x27;habitants, s&amp;#x27;invite les 5 et 6 septembre à Vignec puis Sarrancolin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/01/pendant-un-mois-cet-evenement-est-dedie-au-patrimoine-des-vallees-daure-et-du-louron-13486750.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/09/01/pendant-un-mois-cet-evenement-est-dedie-au-patrimoine-des-vallees-daure-et-du-louron-13486750.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Du 1er au 30 septembre 2026, les vallées d'Aure et du Louron organisent le Mois du Patrimoine, un événement mensuel réunissant plus de 150 animations dans une trentaine de villages de montagne. Au programme : visites guidées, randonnées, spectacles, concerts, ateliers, expositions et animations familiales. Temps fort de l'édition, l'œuvre immersive "Figures de passage" de l'artiste Laurent Valera s'installe au lac de Génos-Loudenvielle, avec une phase de construction participative du 7 au 11 septembre avant une inauguration officielle. Le spectacle de rue Habiter les vallées, construit à partir de témoignages d'habitants, s'invite les 5 et 6 septembre à Vignec puis Sarrancolin.</summary>
+    <category term="event"/>
+    <published>2026-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:532d59fa-21ae-4177-b987-f14d886f7cf5</id>
+    <title>Un fusil à pompe saisi au Mirail, deux jeunes en garde à vue</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Depuis mi-août 2026, des affrontements armés entre trafiquants de drogue des quartiers de Bellefontaine et de la Reynerie ont fait cinq blessés, poussant les autorités à renforcer la présence policière dans le secteur du Grand Mirail. Ce lundi 31 août vers 18h40, une brigade spécialisée de terrain (BST) en patrouille a contrôlé un véhicule suspect et découvert un fusil à pompe à bord, malgré des papiers apparemment en règle. Deux jeunes de 19 et 21 ans, tous deux connus des services de police, ont été interpellés et placés en garde à vue. Selon une source policière citée par Actu Toulouse, les agents estiment avoir peut-être évité un drame ; l&amp;#x27;enquête doit déterminer à quoi était destinée l&amp;#x27;arme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/en-controlant-une-voiture-des-policiers-de-toulouse-tombent-sur-un-fusil-a-pompe-deux-jeunes-en-garde-a-vue_64730559.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/en-controlant-une-voiture-des-policiers-de-toulouse-tombent-sur-un-fusil-a-pompe-deux-jeunes-en-garde-a-vue_64730559.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis mi-août 2026, des affrontements armés entre trafiquants de drogue des quartiers de Bellefontaine et de la Reynerie ont fait cinq blessés, poussant les autorités à renforcer la présence policière dans le secteur du Grand Mirail. Ce lundi 31 août vers 18h40, une brigade spécialisée de terrain (BST) en patrouille a contrôlé un véhicule suspect et découvert un fusil à pompe à bord, malgré des papiers apparemment en règle. Deux jeunes de 19 et 21 ans, tous deux connus des services de police, ont été interpellés et placés en garde à vue. Selon une source policière citée par Actu Toulouse, les agents estiment avoir peut-être évité un drame ; l'enquête doit déterminer à quoi était destinée l'arme.</summary>
+    <category term="news"/>
+    <published>2026-09-01T12:50:46+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7fa349de-b385-42d5-b383-146d2a36bca4</id>
+    <title>Édouard Balladur est mort, lui qui inaugura le métro toulousain en 1993</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;ancien Premier ministre Édouard Balladur est décédé le lundi 31 août 2026 à l&amp;#x27;âge de 97 ans. Il reste lié à l&amp;#x27;histoire de Toulouse pour avoir inauguré la ligne A du métro le 26 juin 1993, aux côtés du maire de l&amp;#x27;époque Dominique Baudis. Cette inauguration, relayée en direct dans les journaux télévisés — dont le JT de France 2 présenté par Bruno Masure — avait marqué un tournant majeur pour la mobilité dans la Ville rose. La ligne A, reliant alors Basso-Cambo à Jolimont, avait coûté trois milliards de francs et le ticket était vendu 7 francs à son ouverture.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/video-edouard-balladur-est-mort-il-avait-inaugure-le-premier-metro-de-toulouse-avec-dominique-baudis-en-1993_64731163.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/video-edouard-balladur-est-mort-il-avait-inaugure-le-premier-metro-de-toulouse-avec-dominique-baudis-en-1993_64731163.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'ancien Premier ministre Édouard Balladur est décédé le lundi 31 août 2026 à l'âge de 97 ans. Il reste lié à l'histoire de Toulouse pour avoir inauguré la ligne A du métro le 26 juin 1993, aux côtés du maire de l'époque Dominique Baudis. Cette inauguration, relayée en direct dans les journaux télévisés — dont le JT de France 2 présenté par Bruno Masure — avait marqué un tournant majeur pour la mobilité dans la Ville rose. La ligne A, reliant alors Basso-Cambo à Jolimont, avait coûté trois milliards de francs et le ticket était vendu 7 francs à son ouverture.</summary>
+    <category term="news"/>
+    <published>2026-09-01T15:38:16+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:6b74293e-9d1f-401a-86ff-c2e661e25d0d</id>
+    <title>Le commandant des pompiers de Haute-Garonne rejoint le SDIS de l'Hérault</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Sébastien Vergé, contrôleur général des pompiers de Haute-Garonne depuis janvier 2018, a quitté ses fonctions le 1er septembre pour prendre la tête du SDIS de l&amp;#x27;Hérault, département encore plus exposé aux incendies. Son départ intervient au lendemain d&amp;#x27;un été 2026 jugé hors-norme pour la Haute-Garonne, marqué par de fortes chaleurs et une sécheresse intense. Le SDIS 31 lui rend un hommage appuyé, saluant notamment sa contribution à la modernisation du service, au développement des capacités opérationnelles et à l&amp;#x27;adaptation aux nouveaux risques climatiques. Lors d&amp;#x27;une cérémonie à Colomiers, il a reçu la médaille du Département de la Haute-Garonne des mains du président Sébastien Vincini.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-etait-le-chef-de-nos-heros-de-l-ete-le-chef-des-pompiers-quitte-la-haute-garonne-pour-une-zone-encore-plus-exposee_64732196.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/c-etait-le-chef-de-nos-heros-de-l-ete-le-chef-des-pompiers-quitte-la-haute-garonne-pour-une-zone-encore-plus-exposee_64732196.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Sébastien Vergé, contrôleur général des pompiers de Haute-Garonne depuis janvier 2018, a quitté ses fonctions le 1er septembre pour prendre la tête du SDIS de l'Hérault, département encore plus exposé aux incendies. Son départ intervient au lendemain d'un été 2026 jugé hors-norme pour la Haute-Garonne, marqué par de fortes chaleurs et une sécheresse intense. Le SDIS 31 lui rend un hommage appuyé, saluant notamment sa contribution à la modernisation du service, au développement des capacités opérationnelles et à l'adaptation aux nouveaux risques climatiques. Lors d'une cérémonie à Colomiers, il a reçu la médaille du Département de la Haute-Garonne des mains du président Sébastien Vincini.</summary>
+    <category term="news"/>
+    <published>2026-09-01T18:03:21+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9ba71711-49fa-4d0a-a7b5-b6438f29e880</id>
+    <title>Mercato : le TFC recrute Niko Segur comme 8e et dernière recrue</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le Toulouse FC a officialisé l&amp;#x27;arrivée de Niko Segur, arrière droit ou milieu défensif croato-canadien de 22 ans, en provenance d&amp;#x27;Hajduk Split, comme huitième et dernière recrue du mercato estival. Le transfert aurait coûté environ 4 millions d&amp;#x27;euros selon le média croate Tportal. Le joueur, qui a participé à la Coupe du monde, était également suivi par le Celtic Glasgow et Genk avant de rejoindre les Violets. Cette arrivée intervient dans les dernières heures du mercato français, clôturé ce mardi 1er septembre 2026 à 19h59, le TFC pouvant encore se séparer de joueurs vers d&amp;#x27;autres pays jusqu&amp;#x27;au 4 septembre.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/dernier-jour-du-mercato-le-toulouse-fc-recrute-un-nouveau-milieu-de-terrain-a-strasbourg-d-autres-mouvements-attendus_64730135.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/dernier-jour-du-mercato-le-toulouse-fc-recrute-un-nouveau-milieu-de-terrain-a-strasbourg-d-autres-mouvements-attendus_64730135.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Toulouse FC a officialisé l'arrivée de Niko Segur, arrière droit ou milieu défensif croato-canadien de 22 ans, en provenance d'Hajduk Split, comme huitième et dernière recrue du mercato estival. Le transfert aurait coûté environ 4 millions d'euros selon le média croate Tportal. Le joueur, qui a participé à la Coupe du monde, était également suivi par le Celtic Glasgow et Genk avant de rejoindre les Violets. Cette arrivée intervient dans les dernières heures du mercato français, clôturé ce mardi 1er septembre 2026 à 19h59, le TFC pouvant encore se séparer de joueurs vers d'autres pays jusqu'au 4 septembre.</summary>
+    <category term="news"/>
+    <published>2026-09-01T12:38:32+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9dcae5b2-2145-4134-b79f-480fd7bcd631</id>
+    <title>Patrick Bruel annule son concert au Zénith de Toulouse</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Patrick Bruel a annoncé le mardi 1er septembre 2026 sur Instagram l&amp;#x27;annulation totale de sa tournée, mettant fin à un concert prévu au Zénith de Toulouse le 4 novembre 2026. La tournée devait célébrer les 35 ans de son album *Alors regarde* avec 35 dates jusqu&amp;#x27;au 21 novembre à Strasbourg. L&amp;#x27;artiste explique que la tournée « est devenue l&amp;#x27;incarnation d&amp;#x27;un débat qui la dépasse », sans préciser davantage. Le chanteur est mis en examen depuis mi-juin 2026 dans quatre dossiers de violences sexuelles, et de nouvelles plaintes pour viols, tentative de viol et agression sexuelle ont été déposées pendant l&amp;#x27;été.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pas-de-concert-a-toulouse-pour-patrick-bruel-j-ai-pris-la-decision-d-annuler-explique-l-artiste_64733974.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/pas-de-concert-a-toulouse-pour-patrick-bruel-j-ai-pris-la-decision-d-annuler-explique-l-artiste_64733974.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Patrick Bruel a annoncé le mardi 1er septembre 2026 sur Instagram l'annulation totale de sa tournée, mettant fin à un concert prévu au Zénith de Toulouse le 4 novembre 2026. La tournée devait célébrer les 35 ans de son album *Alors regarde* avec 35 dates jusqu'au 21 novembre à Strasbourg. L'artiste explique que la tournée « est devenue l'incarnation d'un débat qui la dépasse », sans préciser davantage. Le chanteur est mis en examen depuis mi-juin 2026 dans quatre dossiers de violences sexuelles, et de nouvelles plaintes pour viols, tentative de viol et agression sexuelle ont été déposées pendant l'été.</summary>
+    <category term="news"/>
+    <published>2026-09-01T18:53:00+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:167bbdbc-54c0-4c1a-bf37-a7df93131bb6</id>
+    <title>Le « boss des Izards » jugé aux Assises pour blanchiment de drogue</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Mohamed Z., surnommé « Zem » et déjà condamné à 27 ans de prison pour meurtre, comparaîtra aux Assises de Toulouse à partir du 2 septembre 2026 pour blanchiment d&amp;#x27;argent issu d&amp;#x27;un vaste trafic de stupéfiants. Il sera jugé aux côtés de quatre proches, dont son épouse Nadila, poursuivie pour blanchiment en lien avec le train de vie luxueux du couple. Les enquêteurs de la brigade financière ont notamment relevé la revente à prix fort d&amp;#x27;une maison luxueuse. Ce volet judiciaire, distinct des affaires de fusillades mortelles qui lui sont également reprochées, trouve son origine dans une enquête ouverte le 9 janvier 2020 par la Division économique et financière de la police judiciaire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-boss-des-izards-et-sa-femme-devant-les-assises-a-toulouse-plongee-dans-la-vie-fastueuse-du-couple_64697519.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-boss-des-izards-et-sa-femme-devant-les-assises-a-toulouse-plongee-dans-la-vie-fastueuse-du-couple_64697519.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Mohamed Z., surnommé « Zem » et déjà condamné à 27 ans de prison pour meurtre, comparaîtra aux Assises de Toulouse à partir du 2 septembre 2026 pour blanchiment d'argent issu d'un vaste trafic de stupéfiants. Il sera jugé aux côtés de quatre proches, dont son épouse Nadila, poursuivie pour blanchiment en lien avec le train de vie luxueux du couple. Les enquêteurs de la brigade financière ont notamment relevé la revente à prix fort d'une maison luxueuse. Ce volet judiciaire, distinct des affaires de fusillades mortelles qui lui sont également reprochées, trouve son origine dans une enquête ouverte le 9 janvier 2020 par la Division économique et financière de la police judiciaire.</summary>
+    <category term="news"/>
+    <published>2026-09-01T18:20:46+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a38158a8-46af-46ab-8c17-8e9962bbec37</id>
+    <title>Toulouse : l'été le plus chaud de l'histoire, un record en vue en septembre</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;L&amp;#x27;été 2026 à Toulouse est officiellement le plus chaud jamais enregistré, avec une température moyenne de 25,9°C sur juin-août, soit +4,1°C au-dessus des normales de référence (1991–2020) — un écart qualifié d&amp;#x27;«énorme» et de «jamais vu» par l&amp;#x27;ancien prévisionniste Météo France Pascal Boureau. La ville a enregistré 67 jours à plus de 30°C cet été, dépassant même le canicule record de 2022 d&amp;#x27;un degré. La chaleur ne semble pas vouloir s&amp;#x27;arrêter : des températures allant jusqu&amp;#x27;à 36°C sont attendues entre le 3 et le 7 septembre, ce qui pourrait battre le record historique de septembre à Toulouse-Blagnac, actuellement établi à 35,2°C depuis le 8 septembre 1966. Les météorologistes avertissent que Toulouse glisse vers un «régime climatique andalou» avec 25 ans d&amp;#x27;avance sur les projections initiales de Météo France.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article est tourné vers les prévisions imminentes (risque de record en septembre), tandis que le second dresse un bilan chiffré de l&amp;#x27;été entier avec l&amp;#x27;éclairage d&amp;#x27;un expert.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 2&lt;/strong&gt;: Bilan complet de l&amp;#x27;été avec les 6 chiffres clés et l&amp;#x27;analyse de l&amp;#x27;expert Pascal Boureau&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 1&lt;/strong&gt;: Prévisions pour début septembre et risque de nouveau record historique&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/vers-un-retour-des-tres-fortes-chaleurs-a-toulouse-et-en-occitanie-un-nouveau-record-pourrait-etre-battu_64723765.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-a-connu-l-ete-le-plus-chaud-de-son-histoire-les-6-chiffres-etouffants-a-retenir_64729457.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/vers-un-retour-des-tres-fortes-chaleurs-a-toulouse-et-en-occitanie-un-nouveau-record-pourrait-etre-battu_64723765.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'été 2026 à Toulouse est officiellement le plus chaud jamais enregistré, avec une température moyenne de 25,9°C sur juin-août, soit +4,1°C au-dessus des normales de référence (1991–2020) — un écart qualifié d'«énorme» et de «jamais vu» par l'ancien prévisionniste Météo France Pascal Boureau. La ville a enregistré 67 jours à plus de 30°C cet été, dépassant même le canicule record de 2022 d'un degré. La chaleur ne semble pas vouloir s'arrêter : des températures allant jusqu'à 36°C sont attendues entre le 3 et le 7 septembre, ce qui pourrait battre le record historique de septembre à Toulouse-Blagnac, actuellement établi à 35,2°C depuis le 8 septembre 1966. Les météorologistes avertissent que Toulouse glisse vers un «régime climatique andalou» avec 25 ans d'avance sur les projections initiales de Météo France.</summary>
+    <category term="news"/>
+    <published>2026-08-30T15:17:53+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:4a8ef760-fb7d-42c4-800d-8c3d459310ea</id>
+    <title>Santé à Toulouse : Pasteur se rénove, Montaudran ouvre une clinique</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Deux projets immobiliers majeurs vont transformer l&amp;#x27;offre de santé à Toulouse. La clinique Pasteur, établissement de référence du centre-ville accueillant 65 000 patients par an et classée 6e clinique de France par Le Point, prépare un vaste chantier de reconstruction sur son site actuel, contraint par la proximité de la voie ferrée Colomiers-Toulouse, avec un horizon fixé à 2030. Parallèlement, une toute nouvelle clinique verra le jour dans le quartier de Montaudran : sur 4 600 m², elle regroupera 60 professionnels de santé et pourra accueillir une centaine de patients par jour en hospitalisation de jour uniquement. La Clinique de Montaudran couvrira plusieurs spécialités — gériatrie, psychiatrie, cardiologie, neurologie, obésité, locomoteur, basse vision — et pose sa première pierre officiellement le 14 septembre 2026, pour une ouverture prévue au troisième trimestre 2028.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux articles traitent de projets distincts mais complémentaires : l&amp;#x27;un porte sur la rénovation/extension de la clinique Pasteur (centre-ville), l&amp;#x27;autre sur la création ex nihilo de la Clinique de Montaudran. Les détails du chantier Pasteur restent partiellement tronqués dans l&amp;#x27;extrait disponible.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Pasteur)&lt;/strong&gt;: Rénovation et stratégie d&amp;#x27;expansion de la clinique Pasteur d&amp;#x27;ici 2030&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Montaudran)&lt;/strong&gt;: Création et spécialités de la future Clinique de Montaudran, calendrier précis&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/plusieurs-batiments-bientot-detruits-dans-cette-clinique-du-centre-ville-de-toulouse-ce-qui-est-prevu_64719585.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-nouvelle-clinique-va-voir-le-jour-au-sud-est-de-toulouse-60-professionnels-de-sante-seront-sur-place_64731271.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/plusieurs-batiments-bientot-detruits-dans-cette-clinique-du-centre-ville-de-toulouse-ce-qui-est-prevu_64719585.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Deux projets immobiliers majeurs vont transformer l'offre de santé à Toulouse. La clinique Pasteur, établissement de référence du centre-ville accueillant 65 000 patients par an et classée 6e clinique de France par Le Point, prépare un vaste chantier de reconstruction sur son site actuel, contraint par la proximité de la voie ferrée Colomiers-Toulouse, avec un horizon fixé à 2030. Parallèlement, une toute nouvelle clinique verra le jour dans le quartier de Montaudran : sur 4 600 m², elle regroupera 60 professionnels de santé et pourra accueillir une centaine de patients par jour en hospitalisation de jour uniquement. La Clinique de Montaudran couvrira plusieurs spécialités — gériatrie, psychiatrie, cardiologie, neurologie, obésité, locomoteur, basse vision — et pose sa première pierre officiellement le 14 septembre 2026, pour une ouverture prévue au troisième trimestre 2028.</summary>
+    <category term="news"/>
+    <published>2026-08-31T06:02:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:493ac055-be7c-47a7-a287-11eec6d4ad52</id>
+    <title>Rentrée 2026 : nouvelles écoles et collèges à Toulouse et en Haute-Garonne</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Pour la rentrée du 1er septembre 2026, Toulouse accueille 32 000 écoliers dans des établissements en partie nouveaux ou rénovés. À Malepère, le groupe scolaire Marie de Gournay ouvre entièrement avec 22 classes et une cour « oasis » pour 15,5 millions d&amp;#x27;euros d&amp;#x27;investissement ; à Jolimont, 13,5 millions ont financé la rénovation énergétique et l&amp;#x27;extension de l&amp;#x27;école élémentaire Guillaumet. D&amp;#x27;autres chantiers sont en cours, notamment à Château d&amp;#x27;Ancely et Rangueil. À l&amp;#x27;échelle départementale, la Haute-Garonne compte désormais 123 collèges et prévoit encore quatre ouvertures, malgré une baisse attendue des effectifs collégiens de près de 15 % d&amp;#x27;ici 2035.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article se concentre sur les écoles primaires toulousaines (investissements municipaux), tandis que le second porte sur les collèges de Haute-Garonne (compétence du Conseil départemental) et les projections démographiques.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Détail des travaux et coûts dans les écoles primaires toulousaines&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Ouvertures de collèges à venir et tendances démographiques en Haute-Garonne&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/nouvelle-ecole-rehabilitations-agrandissements-le-point-sur-la-rentree-scolaire-a-toulouse_64712013.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/voici-ou-et-quand-les-prochains-colleges-vont-ouvrir-a-toulouse-et-en-haute-garonne-dans-les-annees-a-venir_64730181.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/nouvelle-ecole-rehabilitations-agrandissements-le-point-sur-la-rentree-scolaire-a-toulouse_64712013.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Pour la rentrée du 1er septembre 2026, Toulouse accueille 32 000 écoliers dans des établissements en partie nouveaux ou rénovés. À Malepère, le groupe scolaire Marie de Gournay ouvre entièrement avec 22 classes et une cour « oasis » pour 15,5 millions d'euros d'investissement ; à Jolimont, 13,5 millions ont financé la rénovation énergétique et l'extension de l'école élémentaire Guillaumet. D'autres chantiers sont en cours, notamment à Château d'Ancely et Rangueil. À l'échelle départementale, la Haute-Garonne compte désormais 123 collèges et prévoit encore quatre ouvertures, malgré une baisse attendue des effectifs collégiens de près de 15 % d'ici 2035.</summary>
+    <category term="news"/>
+    <published>2026-08-31T07:12:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876</id>
+    <title>Grande Braderie de Toulouse : 700 commerçants dans l'hyper-centre</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;La Grande Braderie de Toulouse se tient du jeudi 3 au samedi 5 septembre 2026 dans le centre-ville, rendu piéton pour l&amp;#x27;occasion. Quelque 700 commerçants investissent près de 19 kilomètres de parcours marchand, des boulevards jusqu&amp;#x27;à la Garonne. L&amp;#x27;événement génère plus de chiffre d&amp;#x27;affaires que les soldes et avait attiré 1,8 million de visiteurs l&amp;#x27;an dernier. On y trouve des promotions sur des articles d&amp;#x27;été et les premières offres hivernales, répartis entre mode, maison, culture, beauté et alimentation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;L&amp;#x27;office du tourisme présente un listing factuel sobre (dates, lieu, programmation à venir), tandis qu&amp;#x27;Actu Toulouse offre un angle rédactionnel plus développé avec chiffres, témoignage du vice-président de la CCI et détail des catégories de produits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Chiffres clés, ambiance et détail des catégories de commerces&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Infos pratiques synthétiques sur les dates et le lieu&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/grande-braderie-de-toulouse/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/grande-braderie-place-aux-bonnes-affaires_64727996.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/grande-braderie-de-toulouse/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Grande Braderie de Toulouse se tient du jeudi 3 au samedi 5 septembre 2026 dans le centre-ville, rendu piéton pour l'occasion. Quelque 700 commerçants investissent près de 19 kilomètres de parcours marchand, des boulevards jusqu'à la Garonne. L'événement génère plus de chiffre d'affaires que les soldes et avait attiré 1,8 million de visiteurs l'an dernier. On y trouve des promotions sur des articles d'été et les premières offres hivernales, répartis entre mode, maison, culture, beauté et alimentation.</summary>
+    <category term="event"/>
+    <published>2026-08-28T16:23:20.020354+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:4d213434-5a5b-4f5a-b9ee-e6fb592a9e7c</id>
+    <title>Le Bouclier de Brennus présenté à Ernest-Wallon le 2 septembre</title>
+    <updated>2026-09-02T09:50:23.451617+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Plus de deux mois après le 25e titre de champion de France du Stade Toulousain, le Bouclier de Brennus sera enfin présenté aux supporters le mercredi 2 septembre à Ernest-Wallon. La présentation traditionnelle depuis le balcon du Capitole avait été annulée fin juin en raison d&amp;#x27;un risque d&amp;#x27;orages violents. Le programme débute à 15h avec l&amp;#x27;ouverture des portes, des food-trucks et des animations, suivi d&amp;#x27;une séance de dédicaces à 15h30, puis d&amp;#x27;un entraînement des professionnels à 18h10 commenté pour l&amp;#x27;occasion. Le tour d&amp;#x27;honneur et la présentation du Bouclier sont prévus vers 19h10–19h15. L&amp;#x27;événement est gratuit sur réservation, accessible en bus Linéo 1 (arrêt Soleil d&amp;#x27;or) ou via les parkings E, F et G.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse détaille le contexte historique (25e titre, 4e consécutif) et la logistique d&amp;#x27;accès. L&amp;#x27;Essentiel est plus concis mais précise que l&amp;#x27;entrée est gratuite sur réservation et mentionne également les 10 km du Stade Toulousain le 6 septembre et le match à La Rochelle.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Contexte, programme détaillé et infos pratiques d&amp;#x27;accès&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Confirmation de la gratuité sur réservation et agenda sportif de la semaine suivante&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/plus-de-deux-mois-apres-la-finale-du-top-14-le-stade-toulousain-va-enfin-presenter-le-bouclier-de-brennus-a-ses-fans_64713482.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-02?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48701"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/plus-de-deux-mois-apres-la-finale-du-top-14-le-stade-toulousain-va-enfin-presenter-le-bouclier-de-brennus-a-ses-fans_64713482.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Plus de deux mois après le 25e titre de champion de France du Stade Toulousain, le Bouclier de Brennus sera enfin présenté aux supporters le mercredi 2 septembre à Ernest-Wallon. La présentation traditionnelle depuis le balcon du Capitole avait été annulée fin juin en raison d'un risque d'orages violents. Le programme débute à 15h avec l'ouverture des portes, des food-trucks et des animations, suivi d'une séance de dédicaces à 15h30, puis d'un entraînement des professionnels à 18h10 commenté pour l'occasion. Le tour d'honneur et la présentation du Bouclier sont prévus vers 19h10–19h15. L'événement est gratuit sur réservation, accessible en bus Linéo 1 (arrêt Soleil d'or) ou via les parkings E, F et G.</summary>
+    <category term="event"/>
+    <published>2026-08-27T17:26:13+02:00</published>
   </entry>
 </feed>

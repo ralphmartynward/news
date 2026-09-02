@@ -1,0 +1,66 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:4d213434-5a5b-4f5a-b9ee-e6fb592a9e7c",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Le Bouclier de Brennus présenté à Ernest-Wallon le 2 septembre",
+    "image_url": "https://static.actu.fr/uploads/2026/08/bouclier-de-brennus-2.jpg",
+    "file": "cluster_4d213434-5a5b-4f5a-b9ee-e6fb592a9e7c_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 853
+  },
+  {
+    "cluster_id": "cluster:77df952d-29cc-453d-a124-3e7159ed3a39",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Théâtre du Pavé fête ses 14 ans avec musique et animations",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Agenda-Toulouse-Visuel-Site-Internet-26.jpg",
+    "file": "cluster_77df952d-29cc-453d-a124-3e7159ed3a39_event_story.jpg",
+    "img_width": 860,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:843719f2-3e1c-43de-8cdb-36c28a4cc55f",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Journée « Coup de Pouce » gratuite pour les étudiants au MAC Chapou",
+    "image_url": "https://static.actu.fr/uploads/2021/01/3cd-w0a6086-960x640.jpg",
+    "file": "cluster_843719f2-3e1c-43de-8cdb-36c28a4cc55f_event_story.jpg",
+    "img_width": 1024,
+    "img_height": 768
+  },
+  {
+    "cluster_id": "cluster:0e261323-505b-44e8-bf68-0a546c3115ef",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Bulle : concert sensoriel pour les tout-petits dès 9 mois",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-08/441-aff-la-bulle-new-logo.jpg?itok=wdWu7JC8",
+    "file": "cluster_0e261323-505b-44e8-bf68-0a546c3115ef_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:1ab81f45-4404-40c7-9f4c-1fca4c55b43b",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Initiation à la danse rock à la Maison de quartier de Pouvourville",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-08/senirs-danse--h---freepick.jpg?itok=Q864bLLB",
+    "file": "cluster_1ab81f45-4404-40c7-9f4c-1fca4c55b43b_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  }
+]
