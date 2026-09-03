@@ -1,0 +1,66 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Grande Braderie de Toulouse : 700 commerçants en centre-ville",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Grande-Braderie-2021---Remi-Deligeon-copie.jpg",
+    "file": "cluster_99bdb23f-06af-43e3-a1c0-9a0c68632876_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:08941882-93d1-417c-947d-54c809bde042",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Chers Parents », comédie familiale au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CHERS-PARENTS-3T.jpg",
+    "file": "cluster_08941882-93d1-417c-947d-54c809bde042_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:381426f6-7f51-4b7f-ae2b-7d349568df3e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Soirée de lancement de saison au Lieu NEUFNEUF, Sept-Deniers",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/paradis.jpg?itok=uwraMG8C",
+    "file": "cluster_381426f6-7f51-4b7f-ae2b-7d349568df3e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:a7257149-f834-4657-92d0-9234248a5555",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La rentrée des 3T avec Anne Roumanoff et \"Chers Parents\"",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/chers-parents-683x1024.jpg?itok=9XzpB74W",
+    "file": "cluster_a7257149-f834-4657-92d0-9234248a5555_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:c03df880-ee19-48d2-9de4-5670e1875317",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Portes ouvertes de l'Afpa dans les centres du Palays et de Balma",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/formations-pour-adultes---adobestock_668609874.jpg?h=5ee0884d&itok=hS2Xrzwz",
+    "file": "cluster_c03df880-ee19-48d2-9de4-5670e1875317_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
