@@ -55,11 +55,13 @@ def _signature(item: dict[str, Any]) -> str:
 
 
 def _best_image(images: list[dict[str, Any]] | None) -> str | None:
-    if not images:
-        return None
-    candidates = [img for img in images if not img.get("fallback") and img.get("url")]
-    if not candidates:
-        candidates = [img for img in images if img.get("url")]
+    """Pick the largest image by area, ignoring the `fallback` flag entirely.
+    Confirmed on real data that `fallback` does NOT correlate with quality --
+    e.g. one event's array had a 2048x1152 TABLET_LANDSCAPE_LARGE_16_9 image
+    flagged fallback=True sitting alongside a 305x225 legacy dbimages/ thumb
+    flagged fallback=False. Preferring non-fallback first (the original
+    approach) picked the tiny one and never even considered the huge one."""
+    candidates = [img for img in (images or []) if img.get("url")]
     if not candidates:
         return None
     candidates.sort(key=lambda img: (img.get("width") or 0) * (img.get("height") or 0), reverse=True)
