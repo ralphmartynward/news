@@ -197,9 +197,11 @@ def _collect_upcoming(conn, ig_dir: Path, today_iso: str, days_ahead: int = UPCO
             safe_cid = ev["cluster_id"].replace(":", "_")
             filename = f"{safe_cid}_preview.jpg"
             try:
-                member_sources = {it["source"] for it in cache_mod.cluster_items(conn, ev["cluster_id"])}
-                hide_date = member_sources == {"office_tourisme"}
-                img = _render_story(ev, hide_date=hide_date)
+                # office_tourisme is Tourinsoft-sourced now (reliable full-year
+                # dates via JSON-LD), so its date no longer needs hiding here
+                # either -- matches the same fix already applied to the real
+                # render path (instagram.py's render_today_events).
+                img = _render_story(ev)
                 preview_dir.mkdir(parents=True, exist_ok=True)
                 img.save(str(preview_dir / filename), "JPEG", quality=90)
                 file_ref = f"upcoming/{filename}"
