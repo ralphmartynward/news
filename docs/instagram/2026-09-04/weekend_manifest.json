@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-09-05",
+  "sunday": "2026-09-06",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:aa6a5461-bec1-41e7-9ce8-6b0f2422e757",
+      "title": "Fête des vendanges au Domaine de Candie le 6 septembre",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:61fae12b-fc8e-4faf-be89-1ed56c670950",
+      "title": "Pianomuses : Robert et Clara Schumann à la Chapelle des Carmélites",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8aaa6e08-a880-459e-8d39-e63c2aa4aad9",
+      "title": "10 km du Stade : course inclusive au cœur de Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:db9d0834-776e-437d-bbdf-4ac9d6793e56",
+      "title": "Rando-vélo gratuite : trois sorties en Métropole cet automne",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c48044b4-d069-4397-b701-e42298877fd9",
+      "title": "Le Grand Banquet du cassoulet revient au Jardin du Grand Rond",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:381dfa9b-9eb8-4a88-9174-531305f6dcaa",
+      "title": "Visite guidée : l'histoire de l'eau à Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8fb6e3eb-ed8d-4b45-826c-55f6f1d222cd",
+      "title": "Cordillera Jazz : musiques latinos et jazz au Jardin Raymond VI",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c2c9be47-9182-4ea0-82ef-fd6fb8b4b627",
+      "title": "\"Un Putain de Conte de Fée\" : comédie décalée au Café Théâtre Les 3T",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:4dccf0e0-b0e4-4534-aa06-94ac7f9589cc",
+      "title": "MIWA Festival : arts et cultures du Japon au Jardin Japonais",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}

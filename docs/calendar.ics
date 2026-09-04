@@ -8315,26 +8315,6 @@ URL:https://www.toulouse-tourisme.com/agenda/green-pink-festival/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:760d2405-d4fe-484f-b998-5d77e0828bf8@news.lavillerose.com
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Sélection de sorties à Toulouse pour ce week-end de fin août
-DESCRIPTION:À l'approche de la rentrée\, deux sélections de sorties couv
- rent le week-end du 27 août au 6 septembre 2026 à Toulouse et ses alento
- urs. Le Rose Festival de Bigflo & Oli au MEETT est présenté comme l'év
- énement phare\, avec 50 artistes sur cinq scènes\, une fête foraine XXL
-  et trois soirées du 27 au 29 août. D'autres temps forts sont à noter :
-  une pool party à la piscine Nakache le 30 août\, le festival Sign'Ô d
- édié à la culture sourde aux Abattoirs\, un showcase de Matt Pokora à 
- Ernest-Wallon le 4 se\n\nSource\: https://actu.fr/occitanie/toulouse_31555
- /pool-party-concerts-fete-locale-feu-d-artifice-que-faire-a-toulouse-et-au
- x-alentours-en-cette-fin-de-semaine_64707093.html
-URL:https://actu.fr/occitanie/toulouse_31555/pool-party-concerts-fete-local
- e-feu-d-artifice-que-faire-a-toulouse-et-aux-alentours-en-cette-fin-de-sem
- aine_64707093.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
- se-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:dce52dd8-02d1-4e77-b1ac-a7ec16b33403@news.lavillerose.com
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
@@ -9010,6 +8990,28 @@ URL:https://actu.fr/occitanie/toulouse_31555/la-folie-a-ernest-wallon-plus-
  se-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:881c8dd6-0e4b-41a2-b49a-30a79b955bae@news.lavillerose.com
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Bellefontaine inauguré : place végétalisée\, pistes cyclables e
+ t nouveaux aménagements
+DESCRIPTION:Le quartier Bellefontaine\, quartier prioritaire de la politiqu
+ e de la Ville de Toulouse\, vient d'achever deux ans de travaux d'aménage
+ ment urbain. L'inauguration a eu lieu le mercredi 2 septembre 2026 avec la
+  mise en valeur de la toute nouvelle place commerciale et de plusieurs ré
+ aménagements majeurs. Les transformations concernent l'allée de Bellefon
+ taine\, les parvis du métro et de la médiathèque Grand M\, ainsi que le
+  parc Clairfont\, avec pour fil directeur la végétalisation et la débit
+ umisatio\n\nSource\: https://actu.fr/occitanie/toulouse_31555/place-vegeta
+ lisee-pistes-cyclables-ce-quartier-de-toulouse-fait-peau-neuve-decouvrez-l
+ es-changements-en-images_64739949.html
+LOCATION:quartier Bellefontaine\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/place-vegetalisee-pistes-cycla
+ bles-ce-quartier-de-toulouse-fait-peau-neuve-decouvrez-les-changements-en-
+ images_64739949.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876@news.lavillerose.com
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260906
@@ -9063,23 +9065,56 @@ URL:https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:5801e778-cdd8-4fa0-b36d-14adc6a3be36@news.lavillerose.com
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Tropical Discoteq
+DESCRIPTION:Le Petit Bikini accueille la soirée Tropical Discoteq animée 
+ par Émile Omar et ses invités le jeudi 3 septembre. L'événement propos
+ e une sélection musicale aux accents tropicaux\, disco et global groove. 
+ L'entrée est gratuite et la soirée commence à 18h\, ce qui en fait une 
+ option accessible à un large public toulousain. Un rendez-vous festif en 
+ début de soirée pour les amateurs de sonorités ensoleillées et dansant
+ es.\n\nSource\: https://www.clutchmag.fr/evenements#2026-09-03-jeudi-3-sep
+ tembre-0
+URL:https://www.clutchmag.fr/evenements#2026-09-03-jeudi-3-septembre-0?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:760d2405-d4fe-484f-b998-5d77e0828bf8@news.lavillerose.com
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+SUMMARY:Que faire à Toulouse ce week-end de rentrée : notre sélection
+DESCRIPTION:Plusieurs médias toulousains publient leur sélection de sorti
+ es pour ce week-end de début septembre 2026. Au programme : la grande bra
+ derie en centre-ville\, le grand banquet cassoulet au Jardin du Grand Rond
+ \, les Pétanque Days esplanade Alain Savary\, la Fête des vendanges au D
+ omaine de Candie\, le MIWA Festival dédié aux cultures japonaises\, et p
+ lusieurs forums des associations dans la métropole. Toulouscope ajoute le
+  Rose Festival au MEETT (27-29 août) et des événements de rentrée cult
+ urelle\, ta\n\nSource\: https://www.toulouscope.fr/2026/08/28/8-evenements
+ -culturels-a-ne-pas-manquer-a-la-rentree-a-toulouse-13525060.php
+LOCATION:Jardin du Grand Rond\, Toulouse
+URL:https://www.toulouscope.fr/2026/08/28/8-evenements-culturels-a-ne-pas-m
+ anquer-a-la-rentree-a-toulouse-13525060.php?utm_source=ical&utm_medium=cal
+ endar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:99c4e3be-9f8d-4b64-bf6b-bd8105e68a92@news.lavillerose.com
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
-SUMMARY:Salon Auto-Moto Classic
-DESCRIPTION:Du 4 au 6 septembre 2026\, le Salon Auto-Moto Classic s'install
- e pour sa 9e édition au MEETT\, avec plus de 2 500 voitures et motos de c
- ollection réparties sur 68 000 m² de halls couverts et d'esplanades. L'
- événement investit cette année un septième hall d'exposition\, témoig
- nant d'une croissance continue après une édition 2025 qualifiée de reco
- rd. Parmi les temps forts : des expositions thématiques autour de la Rout
- e 66 (qui fête son centenaire) et de la Nationale 7\, un rassemblement de
-  voitures a\n\nSource\: https://www.toulouscope.fr/2026/08/26/le-plus-gran
- d-rendez-vous-des-voitures-de-collection-revient-a-toulouse-avec-2-500-veh
- icules-exposes-13472723.php
-URL:https://www.toulouscope.fr/2026/08/26/le-plus-grand-rendez-vous-des-voi
- tures-de-collection-revient-a-toulouse-avec-2-500-vehicules-exposes-134727
- 23.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Salon Auto Moto Classic
+DESCRIPTION:Le Salon Auto Moto Classic se tient au MEETT du 4 au 6 septembr
+ e 2026\, sur 68 000 m² de halls couverts et d'esplanades\, avec plus de 2
+  500 voitures et motos anciennes exposées. Cette édition est enrichie pa
+ r l'ouverture d'un 7e hall pour accueillir les nouveautés\, dont une expo
+ sition sur les cyclos sportifs des années 1960–1980 et un plateau dédi
+ é aux motos de compétition historiques. Une vente aux enchères\, confi
+ ée aux maisons toulousaines Primardeco et Enchères VO\, proposera des v
+ éhicules de c\n\nSource\: https://www.toulouse-tourisme.com/agenda/salon-
+ auto-moto-classic/
+URL:https://www.toulouse-tourisme.com/agenda/salon-auto-moto-classic/?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c69be383-9ab4-4ac9-870c-cbb9927dffcf@news.lavillerose.com
@@ -9202,6 +9237,71 @@ DESCRIPTION:Le Salon Auto Moto Classic fait son retour au METT (Marché d'I
 URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
  _b3wuwxkaHLJqab68FAzUy7xeRt3XEpjEA0_ueglPXEI3Sd5Y360_1GVvFs1o2kid~zluo?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:57a37f3e-9afb-4080-b252-30f720602cde@news.lavillerose.com
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+SUMMARY:Pétanque Days
+DESCRIPTION:Du 4 au 6 septembre 2026\, les Pétanque Days fêtent leur 3e 
+ édition sur l'esplanade Alain Savary à Toulouse\, avec 40 terrains accue
+ illant jusqu'à 160 triplettes en tournoi amateur. L'événement est organ
+ isé en partenariat avec La Pétanque des Copains\, la guinguette cofondé
+ e par les rugbymen Antoine Dupont et Cyril Baille. Accessible à tous sans
+  licence ni niveau requis\, le tournoi se joue en équipes de trois pour 3
+ 0 € par équipe. Autour des matchs\, un village festif mêlé aux terrai
+ ns proposera DJ \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-09-04#48913
+LOCATION:esplanade Alain Savary\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-04#48913?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5fb61f3f-1269-4e06-9309-c5acee516490@news.lavillerose.com
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:La Flemme / Danger Zoo
+DESCRIPTION:Le vendredi 4 septembre\, la salle Interférence accueille un d
+ ouble concert pop avec La Flemme et Danger Zoo à partir de 17h. L'entrée
+  est gratuite\, ce qui en fait une soirée accessible à tous les amateurs
+  de pop toulousaine. L'information provient d'une fiche de programmation t
+ rès succincte\, sans détails supplémentaires sur les artistes ou le con
+ texte de l'événement. Les curieux de scène locale et les amateurs de po
+ p sont les premiers concernés.\n\nSource\: https://www.clutchmag.fr/evene
+ ments#2026-09-03-vendredi-4-septembre-0
+LOCATION:salle Interférence accueille un double concert pop a\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-03-vendredi-4-septembre-0?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6daa5310-1445-4b98-898c-54ff843133d5@news.lavillerose.com
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Years of Shame – Canal Froid – Konstroy
+DESCRIPTION:Le Dada accueille une soirée darkwave et mix le vendredi 4 sep
+ tembre à partir de 22h. Trois acts sont au programme : Years of Shame\, C
+ anal Froid et Konstroy. L'entrée est gratuite\, ce qui en fait une sortie
+  accessible pour les amateurs de musiques sombres et électroniques. Une s
+ oirée à noter pour les habitués de la scène alternative toulousaine.\n
+ \nSource\: https://www.clutchmag.fr/evenements#2026-09-03-vendredi-4-septe
+ mbre-2
+URL:https://www.clutchmag.fr/evenements#2026-09-03-vendredi-4-septembre-2?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b6569855-cee3-491e-a56d-3982f374e194@news.lavillerose.com
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Concert Aether
+DESCRIPTION:Le groupe Aether se produit à l'Auditorium Saint-Pierre des Cu
+ isines le vendredi 4 septembre à 20h30. Le concert propose un mélange de
+  musique classique\, de jazz et d'atmosphères féeriques. L'entrée est f
+ ixée à 15 €. Une soirée à destination des amateurs de musique aux cr
+ oisements des genres\, dans l'une des salles de spectacle emblématiques d
+ u centre de Toulouse.\n\nSource\: https://www.clutchmag.fr/evenements#2026
+ -09-03-vendredi-4-septembre-1
+URL:https://www.clutchmag.fr/evenements#2026-09-03-vendredi-4-septembre-1?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:745625bd-460d-4d2a-bd18-5d4ba20609ea@news.lavillerose.com
@@ -9349,6 +9449,56 @@ URL:https://actu.fr/occitanie/toulouse_31555/je-veux-donner-des-frissons-au
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:046f888f-2a09-480f-afd5-43d5355c9a3f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Cordillera Jazz
+DESCRIPTION:Le festival Cordillera Jazz propose un concert gratuit au Jardi
+ n Raymond VI le samedi 5 septembre à 17h. Au programme\, deux formations 
+ : Waikiflow et le Nervi Trio\, pour une plongée dans le jazz sudaméricai
+ n aux influences chiliennes. L'entrée est libre\, ce qui rend l'événeme
+ nt accessible à tous les amateurs de musiques du monde et de jazz. Un bel
+  après-midi musical en plein air dans un cadre verdoyant toulousain.\n\nS
+ ource\: https://www.clutchmag.fr/evenements#2026-09-03-samedi-5-septembre-
+ 0
+LOCATION:Jardin Raymond VI le samedi 5 septembre\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-03-samedi-5-septembre-0?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:65da0649-b54c-4b8b-8de6-d39204ac2694@news.lavillerose.com
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:10 ans du Taquin
+DESCRIPTION:Le Taquin Jazz Club célèbre ses 10 ans d'existence avec un co
+ ncert jazz et funk exceptionnel le samedi 5 septembre à partir de 18h. L'
+ événement réunit plusieurs artistes de renom : N. Gardel\, F. Doumerc e
+ t R. Leclerc\, entre autres. L'entrée est gratuite\, ce qui en fait une s
+ oirée accessible à tous les amateurs de jazz toulousains. Un rendez-vous
+  festif pour marquer une décennie de programmation musicale au cœur de T
+ oulouse.\n\nSource\: https://www.clutchmag.fr/evenements#2026-09-03-samedi
+ -5-septembre-1
+URL:https://www.clutchmag.fr/evenements#2026-09-03-samedi-5-septembre-1?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ee78f21e-dc19-4ff0-8809-af456dad7234@news.lavillerose.com
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Soirée Nanométrages
+DESCRIPTION:La Forêt Électrique\, dans le cadre de la programmation estiv
+ ale « Un été hors les murs »\, organise une soirée Nanométrages au J
+ ardin Michelet le samedi 5 septembre à partir de 18h30. La soirée compre
+ nd des projections de courts métrages\, un vote du public et une remise d
+ es prix. L'entrée est gratuite\, ce qui la rend accessible à tous les To
+ ulousains curieux de cinéma de format court. Un rendez-vous estival en pl
+ ein air porté par une structure culturelle locale.\n\nSource\: https://ww
+ w.clutchmag.fr/evenements#2026-09-03-samedi-5-septembre-2
+LOCATION:Jardin Michelet le samedi 5 septembre\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-03-samedi-5-septembre-2?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:aa6a5461-bec1-41e7-9ce8-6b0f2422e757@news.lavillerose.com
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
@@ -9418,6 +9568,53 @@ DESCRIPTION:Toulouse Métropole organise une série de randonnées à vélo
 LOCATION:lacs de Mons\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/rando-velo-lac-de-mons-et-de-f
  lourens/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a768cdc3-453f-456b-a0ca-e427e3ef4a19@news.lavillerose.com
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Jardin Musical de Bouloc
+DESCRIPTION:Le Jardin Musical de Bouloc propose un concert mêlant musique 
+ chinoise et autres influences le dimanche 6 septembre à 16h30 dans la com
+ mune de Bouloc (31). Au programme figurent l'ensemble Jiang Nan avec une c
+ ithare chinoise guzheng\, une parade et l'artiste Lakhdar Hanou. L'entrée
+  est fixée à 12 €. Cet événement s'adresse aux amateurs de musiques 
+ du monde et de découvertes culturelles aux portes de Toulouse.\n\nSource\
+ : https://www.clutchmag.fr/evenements#2026-09-03-dimanche-6-septembre-1
+LOCATION:Jardin Musical de Bouloc propose un concert mêlant mu\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-03-dimanche-6-septembre-1?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b085c087-ba42-481a-93b4-d0c2631f68e2@news.lavillerose.com
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Slim Paul Blues
+DESCRIPTION:Le musicien Slim Paul se produit en concert blues au Boudu Pont
+ \, ce dimanche 6 septembre à partir de 19h. L'entrée est gratuite\, ce q
+ ui en fait une sortie accessible à tous les amateurs de blues toulousains
+ . L'événement se tient en bord de Garonne dans une atmosphère convivial
+ e. À noter que l'extrait source mentionne également en encart publicitai
+ re un ciné-concert Star Wars à venir au Zénith\, sans lien direct avec 
+ ce concert.\n\nSource\: https://www.clutchmag.fr/evenements#2026-09-03-dim
+ anche-6-septembre-2
+URL:https://www.clutchmag.fr/evenements#2026-09-03-dimanche-6-septembre-2?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c03654a7-c502-45e1-8b61-e24894e4847f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Fripe & Spritz Grand Format
+DESCRIPTION:Le Bar Le Ravelin accueille une édition « Grand Format » de 
+ l'événement Fripe & Spritz le dimanche 6 septembre\, à partir de 14h. A
+ u programme : friperies\, tatouage et sets de DJ\, le tout en entrée grat
+ uite. L'événement s'adresse aux amateurs de mode vintage\, de musique et
+  de bonne ambiance estivale. Une après-midi festive et accessible à tous
+  les curieux de passage.\n\nSource\: https://www.clutchmag.fr/evenements#2
+ 026-09-03-dimanche-6-septembre-0
+URL:https://www.clutchmag.fr/evenements#2026-09-03-dimanche-6-septembre-0?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9b71ef26-f00d-4c4d-a4f1-96f484511b69@news.lavillerose.com
@@ -12731,6 +12928,26 @@ LOCATION:quartier des Sept Deniers\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/avec-la-jeannette-elle-a-colle
  cte-des-milliers-deuros-contre-les-cancers-pediatriques_64726764.html?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5a3eefd6-2e06-4515-8454-b1a3a1f0498f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Fête de l'arbre
+DESCRIPTION:La 2e édition de la Fête de l'arbre se tiendra le 26 septembr
+ e 2026 au Jardin Félix Tisserand (parc de la Colonne)\, de 10h à 18h. Or
+ ganisée par Toulouse-en-Transition\, cette journée citoyenne entièremen
+ t gratuite rassemblera associations\, familles et habitants autour de la b
+ iodiversité urbaine et de la place des arbres en ville. Au programme : at
+ eliers participatifs et pédagogiques\, balades botaniques\, jeux de soci
+ été\, expositions et rencontres avec des associations comme Nature en Oc
+ citanie\, le\n\nSource\: https://www.toulouscope.fr/2026/09/04/a-toulouse-
+ cest-quoi-cette-fete-gratuite-dediee-aux-arbres-et-a-la-biodiversite-13529
+ 767.php
+LOCATION:Jardin Félix Tisserand (parc de la Colonne)\, Toulouse
+URL:https://www.toulouscope.fr/2026/09/04/a-toulouse-cest-quoi-cette-fete-g
+ ratuite-dediee-aux-arbres-et-a-la-biodiversite-13529767.php?utm_source=ica
+ l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e@news.lavillerose.com
@@ -17883,6 +18100,26 @@ URL:https://www.ticketmaster.fr/fr/manifestation/dinaa-billet/idmanif/65934
  e-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:44fe0a4d-286b-4397-aeb7-e1da88c286f2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Toulouse Game Show
+DESCRIPTION:Le Toulouse Game Show (TGS) revient au MEETT à Aussonne les 28
+  et 29 novembre 2026 pour sa 19e édition\, rassemblant jeux vidéo\, mang
+ as\, BD\, séries et culture japonaise. Parmi les invités confirmés figu
+ re Hélène Rollès\, star de la sitcom « Hélène et les garçons » dif
+ fusée entre 1992 et 1994\, qui a marqué toute une génération. L'actric
+ e et chanteuse avait déjà participé à l'édition 2021 du TGS et sera p
+ résente uniquement le dimanche 29 novembre. Le festival propose égalemen
+ t cosplays\, tests de jeu\n\nSource\: https://actu.fr/occitanie/toulouse_3
+ 1555/elle-a-marque-toute-une-generation-cette-grande-star-de-la-tele-des-a
+ nnees-90-revient-au-toulouse-game-show_64742789.html
+URL:https://actu.fr/occitanie/toulouse_31555/elle-a-marque-toute-une-genera
+ tion-cette-grande-star-de-la-tele-des-annees-90-revient-au-toulouse-game-s
+ how_64742789.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9dac9cd2-4c69-4b59-ad10-ffc1ec5c7fb3@news.lavillerose.com
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
@@ -20991,24 +21228,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/sacko-camara-billet/idmani
  toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:13ccc3e6-39f5-4117-8536-ead9df3c3fe3@news.lavillerose.com
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-SUMMARY:Keen'V et Vianney en concert au Zénith de Toulouse
-DESCRIPTION:Deux artistes de chanson française sont programmés au Zénith
-  Toulouse Métropole : Keen'V se produira le 20 février 2027\, suivi de V
- ianney le 7 octobre 2027. Ces deux concerts s'inscrivent dans la programma
- tion musicale de la grande salle toulousaine pour la saison à venir. Les 
- amateurs de variété et de chanson française auront ainsi deux rendez-vo
- us distincts à marquer dans leur agenda. Les billets sont disponibles via
-  Ticketmaster.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/ke
- en-v-billet/idmanif/637016/idtier/18864121
-LOCATION:salle toulousaine\, Toulouse
-URL:https://www.ticketmaster.fr/fr/manifestation/keen-v-billet/idmanif/6370
- 16/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
- se-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:d1bdba2a-3627-4a4f-a77e-44ca9aac4279@news.lavillerose.com
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
@@ -21334,24 +21553,6 @@ LOCATION:salle de spectacle de la banlieue toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/le-petit-prince-billet/idm
  anif/662126/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:08680ce0-df31-4194-ba63-9bf936dbdbfe@news.lavillerose.com
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:500 Voix pour Johnny
-DESCRIPTION:Deux spectacles rendent hommage à Johnny Hallyday au Zénith T
- oulouse Métropole. Le premier\, « 500 Voix pour Johnny »\, est programm
- é le 28 février 2027 et promet un hommage choral à grande échelle. Le 
- second\, « Johnny Symphonique Tour »\, se tient le 26 février 2028\, av
- ec une formule VIP également disponible pour cet événement. Ces spectac
- les s'adressent aux fans de l'icône de la chanson française souhaitant r
- evivre son répertoire dans une version orchestrale et scénique.\n\nSourc
- e\: https://www.ticketmaster.fr/fr/manifestation/500-voix-pour-johnny-bill
- et/idmanif/652900/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/500-voix-pour-johnny-bille
- t/idmanif/652900/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_c
- ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:40cbf921-5ec4-48d4-a887-bcba57b380f5@news.lavillerose.com
@@ -21757,6 +21958,23 @@ DESCRIPTION:Le chorégraphe néerlandais Arno Schuitemaker présente Monday
  ay/
 URL:https://www.toulouse-tourisme.com/agenda/monday/?utm_source=ical&utm_me
  dium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:16cc425e-2846-45ca-a582-850adb7fc3b7@news.lavillerose.com
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Deux spectacles de danse à l'Altigone de Saint-Orens
+DESCRIPTION:L'Altigone de Saint-Orens-de-Gameville accueille deux spectacle
+ s de danse en mars 2027. Le premier\, « The Dancer(s) »\, est programmé
+  le 9 mars\, suivi de « Gaelic Feet » le 21 mars. Ces deux représentati
+ ons s'inscrivent dans la programmation arts et théâtre de la salle\, ave
+ c une orientation danse contemporaine et danse irlandaise respectivement. 
+ Les habitants de Toulouse et de l'agglomération sud-est sont concernés p
+ ar cette offre culturelle à proximité.\n\nSource\: https://www.ticketmas
+ ter.fr/fr/manifestation/the-dancer-s-billet/idmanif/658434/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/the-dancer-s-billet/idmani
+ f/658434/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5853bce7-2364-4aec-a61e-d2fcc147ca73@news.lavillerose.com
@@ -22543,24 +22761,6 @@ LOCATION:Salle Nougaro de Toulouse le 26 mars 2027\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/emy-billet/idmanif/663254/
  idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
  agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:32bbaa24-9787-4bb1-8587-e5bd39d0be70@news.lavillerose.com
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270327
-SUMMARY:French 79 / Era
-DESCRIPTION:Deux concerts sont annoncés au Zénith Toulouse Métropole : F
- rench 79\, figure de la musique électronique française\, se produira le 
- 26 mars 2027\, tandis qu'Era\, connu pour ses compositions pop mêlant cha
- nts grégoriens et musique électronique\, est programmé le 29 février 2
- 028 — une date qui ne peut exister\, car 2028 est bien une année bissex
- tile et le 29 février y est donc valide. Ces deux événements s'adressen
- t aux amateurs de musiques électroniques et pop au sens large. Les billet
- s sont disponibl\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
- french-79-billet/idmanif/656574/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/french-79-billet/idmanif/6
- 56574/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
- louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:531d1a83-2d6b-4a83-b842-1f1083967a68@news.lavillerose.com

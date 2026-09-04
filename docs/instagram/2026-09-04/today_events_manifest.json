@@ -1,0 +1,121 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Grande Braderie de Toulouse : 700 commerçants en centre-ville",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Grande-Braderie-2021---Remi-Deligeon-copie.jpg",
+    "file": "cluster_99bdb23f-06af-43e3-a1c0-9a0c68632876_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:99c4e3be-9f8d-4b64-bf6b-bd8105e68a92",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Salon Auto Moto Classic au MEETT : 2 500 véhicules et vente aux enchères",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/telechargement-copie-2.jpg",
+    "file": "cluster_99c4e3be-9f8d-4b64-bf6b-bd8105e68a92_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c69be383-9ab4-4ac9-870c-cbb9927dffcf",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Brocante des Allées : 3 jours de chine allées François-Verdier",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Brocante-et-antiquites---Les-Allees---Remi-Deligeon--2--copie.jpg",
+    "file": "cluster_c69be383-9ab4-4ac9-870c-cbb9927dffcf_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0f819d22-9a08-408a-8ee2-3b8501a23bf6",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Pétanque Days : tournoi et village festif à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PETANQUE-DAYS.jpg",
+    "file": "cluster_0f819d22-9a08-408a-8ee2-3b8501a23bf6_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:df5841e9-af33-4d18-bb99-5815b39da758",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "À Vies Contraires : pièce feel good au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/A-VIES-CONTRAIRES.jpg",
+    "file": "cluster_df5841e9-af33-4d18-bb99-5815b39da758_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:fa754892-6d09-41d9-9c06-a69519fb1b6c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Venise sous la neige : comédie au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VENISE-SOUS-LA-NEIGE-3T.jpg",
+    "file": "cluster_fa754892-6d09-41d9-9c06-a69519fb1b6c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:355e1d88-1456-4760-92c7-71c329a3b55c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Duo Aether mêle jazz et classique à Saint-Pierre-des-Cuisines",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AETHER.jpg",
+    "file": "cluster_355e1d88-1456-4760-92c7-71c329a3b55c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1368cde3-9f46-40bf-b508-a635ecb181d5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Salon Auto Moto Classic revient au METT du 4 au 6 septembre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-08/petanque-days..jpg?itok=aGUdZSFk",
+    "file": "cluster_1368cde3-9f46-40bf-b508-a635ecb181d5_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:d80dd8da-1bda-4139-b99e-147693110572",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Salon Auto Moto Classic revient au METT du 4 au 6 septembre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-08/petanque-days..jpg?itok=aGUdZSFk",
+    "file": "cluster_d80dd8da-1bda-4139-b99e-147693110572_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:57a37f3e-9afb-4080-b252-30f720602cde",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Les Pétanque Days reviennent sur l'esplanade Alain Savary",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/petanque-days.jpg?itok=7wcwGg5y",
+    "file": "cluster_57a37f3e-9afb-4080-b252-30f720602cde_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
