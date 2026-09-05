@@ -9202,43 +9202,6 @@ URL:https://www.toulouse-tourisme.com/agenda/duo-aether/?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:1368cde3-9f46-40bf-b508-a635ecb181d5@news.lavillerose.com
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-SUMMARY:Salon Auto Moto Classic
-DESCRIPTION:Le Salon Auto Moto Classic fait son retour au METT (Marché d'I
- ntérêt National de Toulouse) pour une édition 2026 enrichie\, du 4 au 6
-  septembre. Au programme cette année : une vente aux enchères inédite\,
-  des célébrations d'anniversaires de modèles emblématiques\, et une th
- ématique autour de la légendaire Route 66. L'événement s'adresse aux p
- assionnés de véhicules anciens et de culture automobile et moto. Les deu
- x sources sont identiques et ne présentent aucune différence de contenu.
- \n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM
- 5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeRt3XEpjEA0_ueglPXEI3Sd5Y360_1GVvFs1o2ki
- d~zluo
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
- _b3wuwxkaHLJqab68FAzUy7xeRt3XEpjEA0_ueglPXEI3Sd5Y360_1GVvFs1o2kid~zluo?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:d80dd8da-1bda-4139-b99e-147693110572@news.lavillerose.com
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-SUMMARY:Salon Auto Moto Classic
-DESCRIPTION:Le Salon Auto Moto Classic fait son retour au METT (Marché d'I
- ntérêt Régional de Toulouse) du 4 au 6 septembre 2026. L'édition de ce
- tte année se distingue par l'ajout d'une vente aux enchères de véhicule
- s\, la célébration d'anniversaires de modèles emblématiques\, et une t
- hématique dédiée à la mythique Route 66. L'événement s'adresse aux p
- assionnés d'automobiles et de motos anciennes de la région toulousaine. 
- Les deux sources publient un contenu strictement identique.\n\nSource\: ht
- tps://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wu
- wxkaHLJqab68FAzUy7xeRt3XEpjEA0_ueglPXEI3Sd5Y360_1GVvFs1o2kid~zluo
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
- _b3wuwxkaHLJqab68FAzUy7xeRt3XEpjEA0_ueglPXEI3Sd5Y360_1GVvFs1o2kid~zluo?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:57a37f3e-9afb-4080-b252-30f720602cde@news.lavillerose.com
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
@@ -9497,6 +9460,26 @@ DESCRIPTION:La Forêt Électrique\, dans le cadre de la programmation estiv
 LOCATION:Jardin Michelet le samedi 5 septembre\, Toulouse
 URL:https://www.clutchmag.fr/evenements#2026-09-03-samedi-5-septembre-2?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3e6d0f91-a7bb-4d4c-88ca-a7401e321308@news.lavillerose.com
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Roma Grinfan\, joueuse du TFC féminin et étudiante en médecine
+DESCRIPTION:Le Toulouse FC féminin dispute ce samedi 5 septembre son premi
+ er match de D1 depuis 2013\, face à Montpellier à 18h. Roma Grinfan\, mi
+ lieu de terrain défensif et figure historique du club\, incarne ce retour
+  en Arkema Première Ligue après avoir vécu toutes les étapes de la mon
+ tée\, de la descente et des remontées successives. À 22 ans environ\, e
+ lle est la joueuse la plus ancienne du club en termes d'ancienneté\, tout
+  en poursuivant une quatrième année de médecine en parallèle. Son disc
+ ours viral dans\n\nSource\: https://actu.fr/occitanie/toulouse_31555/joueu
+ se-professionnelle-du-toulouse-fc-en-4e-annee-de-medecine-comment-roma-gri
+ nfan-jongle-entre-foot-et-etudes_64743875.html
+URL:https://actu.fr/occitanie/toulouse_31555/joueuse-professionnelle-du-tou
+ louse-fc-en-4e-annee-de-medecine-comment-roma-grinfan-jongle-entre-foot-et
+ -etudes_64743875.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:aa6a5461-bec1-41e7-9ce8-6b0f2422e757@news.lavillerose.com
@@ -9773,6 +9756,23 @@ LOCATION:rue de Ramonville lance sa soirée de préambule le 9 s\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/preambule-du-festival-de-rue-d
  e-ramonville-2026-a-toulouse/?utm_source=ical&utm_medium=calendar&utm_camp
  aign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:13dadb98-438d-411e-be56-61aae222511e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Nocturne du Marché Victor Hugo
+DESCRIPTION:Le Marché Couvert Victor Hugo organise une nocturne festive en
+  partenariat avec le Toulouse Football Club\, le 9 septembre 2026. Les vis
+ iteurs sont invités à déambuler entre les étals de produits frais et l
+ ocaux issus de circuits courts\, tout en échangeant avec les artisans et 
+ commerçants du marché. L'ambiance se veut conviviale et chaleureuse\, da
+ ns l'esprit du partage. Les participants sont encouragés à venir aux cou
+ leurs du TFC pour l'occasion.\n\nSource\: https://www.toulouse-tourisme.co
+ m/agenda/nocturne-du-marche-victor-hugo-avec-le-toulouse-football-club/
+URL:https://www.toulouse-tourisme.com/agenda/nocturne-du-marche-victor-hugo
+ -avec-le-toulouse-football-club/?utm_source=ical&utm_medium=calendar&utm_c
+ ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:838b84fa-3d85-4820-a619-ef668f216d6c@news.lavillerose.com
@@ -10110,18 +10110,20 @@ UID:cluster:e72ee4f9-5f28-47c9-8746-ec8d4c97800f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 SUMMARY:Les Mélodies du Canal
-DESCRIPTION:Les 12 et 13 septembre 2026\, la Cale de Radoub (Allée des Dem
- oiselles) accueille la troisième édition des Mélodies du Canal\, deux s
- oirées de concerts solidaires organisées par Voies Navigables de France.
-  L'intégralité des recettes est reversée au projet de replantation du C
- anal du Midi\, gravement touché par la maladie des platanes. La particula
- rité du lieu — un site historique habituellement fermé au public — s
- e double d'une scène flottante installée sur une barge\, avec un piano a
- u bord de l'eau\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-m
- elodies-du-canal/
-LOCATION:Allée des Demoiselles) accueille la troisième éditio\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/les-melodies-du-canal/?utm_sou
- rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Les 12 et 13 septembre 2026\, la Cale de Radoub — un site de 
+ VNF habituellement fermé au public\, allée des Demoiselles — ouvre exc
+ eptionnellement ses portes pour la troisième édition des Mélodies du Ca
+ nal. L'événement propose deux soirées de concerts piano-voix sur une sc
+ ène flottante installée sur une barge\, avec vue sur le Canal du Midi au
+  coucher du soleil. Samedi\, le duo Mouss & Hakim (ex-Zebda) est à l'affi
+ che\, avec un programme mêlant nouvelles compositions et hommage à Claud
+ e Nougaro \; dim\n\nSource\: https://www.toulouscope.fr/2026/09/01/ce-lieu
+ -habituellement-ferme-au-public-va-accueillir-une-scene-de-concert-flottan
+ te-pour-la-bonne-cause-13526900.php
+LOCATION:allée des Demoiselles — ouvre exceptionnellement ses\, Toulouse
+URL:https://www.toulouscope.fr/2026/09/01/ce-lieu-habituellement-ferme-au-p
+ ublic-va-accueillir-une-scene-de-concert-flottante-pour-la-bonne-cause-135
+ 26900.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:244fa901-593f-4947-b119-ff74be5841df@news.lavillerose.com
@@ -11858,6 +11860,60 @@ URL:https://www.ticketmaster.fr/fr/manifestation/fanny-clamagirand-billet/i
  aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1037cd8d-25ae-4a9b-abbf-9854130ddd52@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Lumière sur le Bazacle
+DESCRIPTION:À l'occasion des Journées du Patrimoine\, l'Office de Tourism
+ e de Toulouse propose une visite guidée des Espaces EDF Bazacle\, le 19 s
+ eptembre 2026. Les participants découvriront l'histoire exceptionnelle du
+  site : ancien gué sur la Garonne\, il a accueilli des moulins gérés pa
+ r ce qui est considéré comme la première société anonyme de l'histoir
+ e\, née à Toulouse. La visite plonge au cœur de la centrale hydraulique
+  encore en activité — turbines\, alternateurs\, transformateurs — qui
+  alimente aujourd'h\n\nSource\: https://www.toulouse-tourisme.com/agenda/l
+ umiere-sur-le-bazacle-journees-du-patrimoine/
+URL:https://www.toulouse-tourisme.com/agenda/lumiere-sur-le-bazacle-journee
+ s-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:50bfe45e-b31d-4c8c-8e2a-98f595cf1467@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, France
+  3 Occitanie ouvre ses portes au public le samedi 19 septembre 2026 à Tou
+ louse. Les visiteurs pourront découvrir les studios de tournage\, la rég
+ ie et les équipements de montage\, et échanger avec les journalistes et 
+ techniciens qui produisent les journaux télévisés et programmes région
+ aux. La visite est soumise à inscription obligatoire avec des places limi
+ tées\, et les créneaux sont à choisir lors de l'inscription. Un accès 
+ uniquement sur\n\nSource\: https://www.toulouse-tourisme.com/agenda/journe
+ es-du-patrimoine-a-france-3-occitanie/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-franc
+ e-3-occitanie/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8ce2a2d8-c08e-4704-b77c-f193ddea2343@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Cen
+ tre Opérationnel de Proximité (COP) de la SNCF à la Gare Matabiau ouvre
+  exceptionnellement ses portes au public le 19 septembre 2026. Les visiteu
+ rs pourront découvrir les coulisses de la régulation du trafic ferroviai
+ re régional liO\, les outils technologiques de supervision et les métier
+ s méconnus de la production ferroviaire. Des visites guidées par groupes
+  de 10 personnes maximum permettront d'échanger directement avec les équ
+ ipes opér\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-d
+ u-patrimoine-a-la-gare-de-toulouse-matabiau-avec-ter/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-la-ga
+ re-de-toulouse-matabiau-avec-ter/?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:32b661a9-f147-44c4-be5a-da3ed4214259@news.lavillerose.com
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
@@ -12052,6 +12108,24 @@ DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée con
 URL:https://www.toulouse-tourisme.com/agenda/les-cathares-a-toulouse-journe
  es-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
  e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a7e7682e-44f7-4ca5-a934-efc07e9f6e8d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Grandes et Petites Affaires Criminelles
+DESCRIPTION:Dans le cadre des Journées Européennes du Patrimoine 2026\, l
+ 'Office de Tourisme de Toulouse propose une visite guidée intitulée « G
+ randes et Petites Affaires Criminelles »\, retraçant quatre affaires jud
+ iciaires marquantes liées à l'histoire de la cité. Au programme : un cr
+ ime passionnel\, une manipulation politique menaçant Louis XIII\, l'affai
+ re qui inspira Voltaire\, et un mystère non élucidé. Le parcours aborde
+  également les méthodes d'enquête sous l'Ancien Régime — contumace\,
+  estrapade\, bouton \n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ grandes-et-petites-affaires-criminelles-journees-du-patrimoine/
+URL:https://www.toulouse-tourisme.com/agenda/grandes-et-petites-affaires-cr
+ iminelles-journees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ab9810d4-6afe-48af-9571-31984bcd976c@news.lavillerose.com
@@ -17910,6 +17984,25 @@ URL:https://www.toulouse-tourisme.com/agenda/julia-pertuy-jon-onj/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:8a848688-6c1a-40a0-a58e-5691ed18529f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Zygel met en musique le Canal du Midi
+DESCRIPTION:Le pianiste et compositeur Jean-François Zygel propose un conc
+ ert original à la Halle aux Grains le 26 novembre 2026\, imaginé comme u
+ ne croisière musicale à travers l'Occitanie. Au programme : des œuvres 
+ de Mendelssohn\, Debussy et Smetana\, entrecoupées d'improvisations dont 
+ Zygel est coutumier. Le concept mêle répertoire classique et fantaisie i
+ mprovisée pour évoquer le Canal du Midi et ses paysages. Ce rendez-vous 
+ s'adresse aux amateurs de musique classique comme aux curieux séduits par
+  la pers\n\nSource\: https://www.toulouse-tourisme.com/agenda/jean-francoi
+ s-zygel-met-en-musique-le-canal-du-midi/
+LOCATION:Halle aux Grains le 26 novembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/jean-francois-zygel-met-en-mus
+ ique-le-canal-du-midi/?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
@@ -19746,7 +19839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3a29c289-8d19-4ad1-949f-26b2e43e39d4@news.lavillerose.com
 DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20280106
 SUMMARY:Agenda comédie au Casino Barrière de Toulouse : six spectacles à
   venir
 DESCRIPTION:Le Casino Barrière de Toulouse accueille une série de six spe
@@ -19849,23 +19942,6 @@ DESCRIPTION:Le Théâtre de la Cité accueille « Les Petites Filles Modern
  www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/
 URL:https://www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:74bfbcda-541a-465a-a856-aa028c92663f@news.lavillerose.com
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-SUMMARY:Bonnie & Clyde
-DESCRIPTION:Le Casino Barrière de Toulouse accueillera deux spectacles de 
- danse distincts en 2027. Bonnie & Clyde est programmé le 10 janvier 2027\
- , suivi de Boléro le 13 juin 2027. Ces deux productions s'inscrivent dans
-  la catégorie Arts & Théâtre — Danse\, offrant aux amateurs du genre 
- deux rendez-vous échelonnés sur l'année. Les billets sont disponibles v
- ia Ticketmaster pour ces deux événements au même lieu.\n\nSource\: http
- s://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmanif/66626
- 0/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmani
- f/666260/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3ad8d37b-df7b-414f-812d-ffe66b9fe315@news.lavillerose.com
@@ -21228,6 +21304,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/sacko-camara-billet/idmani
  toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:13ccc3e6-39f5-4117-8536-ead9df3c3fe3@news.lavillerose.com
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Keen'V et Vianney en concert au Zénith de Toulouse
+DESCRIPTION:Deux artistes de chanson française sont programmés au Zénith
+  Toulouse Métropole : Keen'V se produira le 20 février 2027\, suivi de V
+ ianney le 7 octobre 2027. Ces deux concerts s'inscrivent dans la programma
+ tion musicale de la grande salle toulousaine pour la saison à venir. Les 
+ amateurs de variété et de chanson française auront ainsi deux rendez-vo
+ us distincts à marquer dans leur agenda. Les billets sont disponibles via
+  Ticketmaster.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/ke
+ en-v-billet/idmanif/637016/idtier/18864121
+LOCATION:salle toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/keen-v-billet/idmanif/6370
+ 16/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d1bdba2a-3627-4a4f-a77e-44ca9aac4279@news.lavillerose.com
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
@@ -21553,6 +21647,24 @@ LOCATION:salle de spectacle de la banlieue toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/le-petit-prince-billet/idm
  anif/662126/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:08680ce0-df31-4194-ba63-9bf936dbdbfe@news.lavillerose.com
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:500 Voix pour Johnny
+DESCRIPTION:Deux spectacles rendent hommage à Johnny Hallyday au Zénith T
+ oulouse Métropole. Le premier\, « 500 Voix pour Johnny »\, est programm
+ é le 28 février 2027 et promet un hommage choral à grande échelle. Le 
+ second\, « Johnny Symphonique Tour »\, se tient le 26 février 2028\, av
+ ec une formule VIP également disponible pour cet événement. Ces spectac
+ les s'adressent aux fans de l'icône de la chanson française souhaitant r
+ evivre son répertoire dans une version orchestrale et scénique.\n\nSourc
+ e\: https://www.ticketmaster.fr/fr/manifestation/500-voix-pour-johnny-bill
+ et/idmanif/652900/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/500-voix-pour-johnny-bille
+ t/idmanif/652900/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_c
+ ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:40cbf921-5ec4-48d4-a887-bcba57b380f5@news.lavillerose.com

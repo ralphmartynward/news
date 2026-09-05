@@ -1,0 +1,154 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:99bdb23f-06af-43e3-a1c0-9a0c68632876",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Grande Braderie de Toulouse : 700 commerçants en centre-ville",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Grande-Braderie-2021---Remi-Deligeon-copie.jpg",
+    "file": "cluster_99bdb23f-06af-43e3-a1c0-9a0c68632876_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:99c4e3be-9f8d-4b64-bf6b-bd8105e68a92",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Salon Auto Moto Classic au MEETT : 2 500 véhicules et vente aux enchères",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/telechargement-copie-2.jpg",
+    "file": "cluster_99c4e3be-9f8d-4b64-bf6b-bd8105e68a92_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c69be383-9ab4-4ac9-870c-cbb9927dffcf",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Brocante des Allées : 3 jours de chine allées François-Verdier",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Brocante-et-antiquites---Les-Allees---Remi-Deligeon--2--copie.jpg",
+    "file": "cluster_c69be383-9ab4-4ac9-870c-cbb9927dffcf_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0f819d22-9a08-408a-8ee2-3b8501a23bf6",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pétanque Days : tournoi et village festif à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PETANQUE-DAYS.jpg",
+    "file": "cluster_0f819d22-9a08-408a-8ee2-3b8501a23bf6_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:57a37f3e-9afb-4080-b252-30f720602cde",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Les Pétanque Days reviennent sur l'esplanade Alain Savary",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/petanque-days.jpg?itok=7wcwGg5y",
+    "file": "cluster_57a37f3e-9afb-4080-b252-30f720602cde_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:745625bd-460d-4d2a-bd18-5d4ba20609ea",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Salon d'Antiquités de Terraube revient au château des Galard",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a6a18595caf9f81820bb9fc/hd/image.png?v=1",
+    "file": "cluster_745625bd-460d-4d2a-bd18-5d4ba20609ea_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:c48044b4-d069-4397-b701-e42298877fd9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Grand Banquet du cassoulet revient au Jardin du Grand Rond",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Capture-d-ecran-2025-01-17-a-09.47.52-copie.jpg",
+    "file": "cluster_c48044b4-d069-4397-b701-e42298877fd9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:381dfa9b-9eb8-4a88-9174-531305f6dcaa",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée : l'histoire de l'eau à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Fontaine-du-Griffoul-AdobeStock-53354591-copie.jpg",
+    "file": "cluster_381dfa9b-9eb8-4a88-9174-531305f6dcaa_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8fb6e3eb-ed8d-4b45-826c-55f6f1d222cd",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cordillera Jazz : musiques latinos et jazz au Jardin Raymond VI",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CORDILLERA-JAZZ.jpg",
+    "file": "cluster_8fb6e3eb-ed8d-4b45-826c-55f6f1d222cd_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c2c9be47-9182-4ea0-82ef-fd6fb8b4b627",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "\"Un Putain de Conte de Fée\" : comédie décalée au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/UN-PUTAIN-DE-CONTE-DE-FEE-3T-TOULOUSE.jpg",
+    "file": "cluster_c2c9be47-9182-4ea0-82ef-fd6fb8b4b627_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:4dccf0e0-b0e4-4534-aa06-94ac7f9589cc",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "MIWA Festival : arts et cultures du Japon au Jardin Japonais",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/WIMA.jpg",
+    "file": "cluster_4dccf0e0-b0e4-4534-aa06-94ac7f9589cc_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b88e09cf-6675-40db-95a0-54422c78d9f8",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Lucas Fox, co-fondateur de Motörhead, en concert à L'Engrenage à Balma",
+    "image_url": "https://static.actu.fr/uploads/2026/09/crodolphe-baras-8725-copie.jpg",
+    "file": "cluster_b88e09cf-6675-40db-95a0-54422c78d9f8_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 797
+  },
+  {
+    "cluster_id": "cluster:4bdad896-4082-4dc8-b397-87dd5b389359",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Piano aux Jacobins 2026 : pianistes internationaux et jazz à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/piano-aux-jacobins-axel-arno-scaled.jpg",
+    "file": "cluster_4bdad896-4082-4dc8-b397-87dd5b389359_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
