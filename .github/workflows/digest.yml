@@ -1,11 +1,13 @@
 name: Daily Toulouse Digest
 
 on:
-  schedule:
-    # 05:30 UTC = 07:30 Paris (CEST, summer) / 06:30 Paris (CET, winter)
-    # GitHub cron can delay 1-2h at peak times; use cron-job.org to trigger
-    # workflow_dispatch at this same time for more reliable delivery.
-    - cron: "30 5 * * *"
+  # No native `schedule:` trigger -- GitHub's scheduled cron was consistently
+  # firing 4-5 hours late (confirmed empirically, not just "peak load" slop),
+  # so timing is driven entirely by an external service (cron-job.org) calling
+  # workflow_dispatch at 05:30 UTC (07:30 Paris CEST / 06:30 CET) instead.
+  # Do NOT re-add a schedule: trigger alongside this without removing the
+  # external one first -- both firing the same day means a duplicate digest
+  # email and duplicate Instagram posts.
   workflow_dispatch:
 
 permissions:

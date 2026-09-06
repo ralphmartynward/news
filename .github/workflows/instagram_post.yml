@@ -1,14 +1,15 @@
 name: Post to Instagram
 
 on:
-  schedule:
-    # 06:00 UTC = 08:00 Paris (CEST, summer) / 07:00 Paris (CET, winter).
-    # Only a 30-min gap after the digest (targets 05:30 UTC — see its comment),
-    # which is also the review window: check docs/instagram/<date>/review.html
-    # and edit a manifest before this fires if you want to veto something.
-    # That window is intentionally tight now; widen it back out (e.g. cron
-    # "0 8 * * *") if 30 min isn't enough time to review before it posts.
-    - cron: "0 6 * * *"
+  # No native `schedule:` trigger -- GitHub's scheduled cron was consistently
+  # firing 4-5 hours late (confirmed empirically), so timing is driven
+  # entirely by an external service (cron-job.org) calling workflow_dispatch
+  # at 06:00 UTC (08:00 Paris CEST / 07:00 CET) instead. Only a 30-min gap
+  # after the digest (triggered at 05:30 UTC), which is also the review
+  # window: check docs/instagram/<date>/review.html and edit a manifest
+  # before this fires if you want to veto something. Do NOT re-add a
+  # schedule: trigger alongside the external one -- both firing the same
+  # day means duplicate Instagram posts.
   workflow_dispatch:
     inputs:
       carousel_only:
