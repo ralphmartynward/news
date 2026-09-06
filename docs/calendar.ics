@@ -6079,6 +6079,26 @@ URL:https://www.toulouse-tourisme.com/agenda/laventure-en-famille/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d9197fd1-9207-4c22-ac81-42e6434fc381@news.lavillerose.com
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260719
+SUMMARY:Symposium Urban Sketchers
+DESCRIPTION:Du 15 au 18 juillet 2026\, des centaines d'artistes venus du mo
+ nde entier ont participé au Symposium Urban Sketchers à Toulouse\, croqu
+ ant sur le vif les rues\, bâtiments et paysages de la Ville rose. Pendant
+  quatre jours\, chaque participant a livré sa propre vision de Toulouse\,
+  des grands monuments aux recoins moins fréquentés. Actu Toulouse a recu
+ eilli des témoignages d'artistes\, dont Sharvey Salkar\, venu d'Allemagne
+ \, qui a notamment immortalisé la place Saintes-Scarbes et un coucher de 
+ soleil de\n\nSource\: https://actu.fr/occitanie/toulouse_31555/des-centain
+ es-d-artistes-ont-dessine-toulouse-voici-a-quoi-ressemble-la-ville-rose-so
+ us-leurs-pinceaux_64719812.html
+URL:https://actu.fr/occitanie/toulouse_31555/des-centaines-d-artistes-ont-d
+ essine-toulouse-voici-a-quoi-ressemble-la-ville-rose-sous-leurs-pinceaux_6
+ 4719812.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e940f68e-8fd9-4b9d-96e9-5008d4a74864@news.lavillerose.com
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
@@ -9637,6 +9657,28 @@ URL:https://www.toulouse-tourisme.com/agenda/inoubliable-edith-piaf/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:267d577f-f8cb-47b5-9814-1608e4075c53@news.lavillerose.com
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Travaux rue Clémence Isaure : circulation modifiée près de la pl
+ ace de la Bourse
+DESCRIPTION:Dès le lundi 7 septembre 2026 et jusqu'à la mi-décembre\, la
+  rue Clémence Isaure\, qui part de la place de la Bourse\, sera transform
+ ée en impasse pour permettre la rénovation des branchements d'eaux usée
+ s. Le sens de circulation de la rue Jacques-Cujas sera inversé\, mais l'a
+ ccès riverain sera maintenu. Le chantier concerne notamment les abords du
+  Goethe-Institut de Toulouse et de l'Agence française des Chemins de Comp
+ ostelle. La mairie assure que les nuisances (bruit\, poussière) seront mi
+ nimes et \n\nSource\: https://actu.fr/occitanie/toulouse_31555/cette-place
+ -tres-frequentee-du-centre-ville-de-toulouse-va-etre-le-theatre-de-plusieu
+ rs-semaines-de-travaux_64746762.html
+LOCATION:rue Clémence Isaure\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/cette-place-tres-frequentee-du
+ -centre-ville-de-toulouse-va-etre-le-theatre-de-plusieurs-semaines-de-trav
+ aux_64746762.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:fea5ff65-fc94-4e40-b0ea-e29b8924efc8@news.lavillerose.com
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
@@ -9761,15 +9803,17 @@ BEGIN:VEVENT
 UID:cluster:13dadb98-438d-411e-be56-61aae222511e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:Nocturne du Marché Victor Hugo
-DESCRIPTION:Le Marché Couvert Victor Hugo organise une nocturne festive en
-  partenariat avec le Toulouse Football Club\, le 9 septembre 2026. Les vis
- iteurs sont invités à déambuler entre les étals de produits frais et l
- ocaux issus de circuits courts\, tout en échangeant avec les artisans et 
- commerçants du marché. L'ambiance se veut conviviale et chaleureuse\, da
- ns l'esprit du partage. Les participants sont encouragés à venir aux cou
- leurs du TFC pour l'occasion.\n\nSource\: https://www.toulouse-tourisme.co
- m/agenda/nocturne-du-marche-victor-hugo-avec-le-toulouse-football-club/
+SUMMARY:Nocturne de Victor-Hugo
+DESCRIPTION:La 36e édition de la Nocturne du Marché Victor-Hugo se tient 
+ le mercredi 9 septembre 2026\, de 18h30 à 22h30\, sous le signe du Toulou
+ se Football Club. Après avoir rendu hommage au Stade Toulousain en juin\,
+  l'événement se pare cette fois de violet pour marquer la rentrée. Les 
+ visiteurs sont invités à déambuler entre les étals de produits frais i
+ ssus de circuits courts\, à la rencontre des artisans et commerçants loc
+ aux dans une ambiance festive et nocturne. La soirée est gratuite et ouve
+ rte à tous\,\n\nSource\: https://www.toulouse-tourisme.com/agenda/nocturn
+ e-du-marche-victor-hugo-avec-le-toulouse-football-club/
+LOCATION:Stade Toulousain en juin\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/nocturne-du-marche-victor-hugo
  -avec-le-toulouse-football-club/?utm_source=ical&utm_medium=calendar&utm_c
  ampaign=toulouse-agenda
@@ -19839,7 +19883,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3a29c289-8d19-4ad1-949f-26b2e43e39d4@news.lavillerose.com
 DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20270108
 SUMMARY:Agenda comédie au Casino Barrière de Toulouse : six spectacles à
   venir
 DESCRIPTION:Le Casino Barrière de Toulouse accueille une série de six spe
@@ -19942,6 +19986,23 @@ DESCRIPTION:Le Théâtre de la Cité accueille « Les Petites Filles Modern
  www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/
 URL:https://www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:74bfbcda-541a-465a-a856-aa028c92663f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bonnie & Clyde
+DESCRIPTION:Le Casino Barrière de Toulouse accueillera deux spectacles de 
+ danse distincts en 2027. Bonnie & Clyde est programmé le 10 janvier 2027\
+ , suivi de Boléro le 13 juin 2027. Ces deux productions s'inscrivent dans
+  la catégorie Arts & Théâtre — Danse\, offrant aux amateurs du genre 
+ deux rendez-vous échelonnés sur l'année. Les billets sont disponibles v
+ ia Ticketmaster pour ces deux événements au même lieu.\n\nSource\: http
+ s://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmanif/66626
+ 0/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmani
+ f/666260/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3ad8d37b-df7b-414f-812d-ffe66b9fe315@news.lavillerose.com
@@ -21683,6 +21744,23 @@ DESCRIPTION:Le chef italien Riccardo Bisatti et le violoniste brésilien Gu
 LOCATION:Halle aux Grains de Toulouse en mars 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/riccardo-bisatti-guido-santann
  a/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a531feee-809f-4731-98d5-ef14548535c9@news.lavillerose.com
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Beethoven : Le Bicentenaire
+DESCRIPTION:En mars 2027\, Toulouse commémore le 200ème anniversaire de l
+ a mort de Beethoven avec des concerts programmés sur deux soirées. Au pr
+ ogramme figurent la 7ème symphonie et le concerto l'Empereur\, présenté
+ s comme parmi les œuvres les plus représentatives du compositeur. L'év
+ énement est décliné sur deux lieux différents : l'Auditorium Saint-Pie
+ rre des Cuisines et L'Escale. Le texte de présentation souligne la singul
+ arité de Beethoven\, premier compositeur à s'affranchir de toute tutelle
+ \, et glisse un\n\nSource\: https://www.toulouse-tourisme.com/agenda/beeth
+ oven-le-bicentenaire/
+URL:https://www.toulouse-tourisme.com/agenda/beethoven-le-bicentenaire/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:99619980-b406-4de1-aa35-2b405e8a698a@news.lavillerose.com
