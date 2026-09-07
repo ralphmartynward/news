@@ -1,0 +1,77 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:13559e40-d6e2-4384-a323-6fa34af71e58",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Hommage à Édith Piaf : spectacle total avec accordéon et ballet",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/INOUBLIABLE-EDITH-PIAF.jpg",
+    "file": "cluster_13559e40-d6e2-4384-a323-6fa34af71e58_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8e647c81-4399-4c71-924d-06b37fdb7b56",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Ma Biche sur le Toit rouvre rénové avec un menu Michel Sarran",
+    "image_url": "https://static.actu.fr/uploads/2026/09/ma-biche-sur-le-toit.jpg",
+    "file": "cluster_8e647c81-4399-4c71-924d-06b37fdb7b56_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 853
+  },
+  {
+    "cluster_id": "cluster:908c4ce3-71b6-46c7-bc43-8796004d8618",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Festival MAP s'installe à la caserne Vion",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/piano-jacobins---remi-deligeon.jpg?h=276210a7&itok=k8n9-VSK",
+    "file": "cluster_908c4ce3-71b6-46c7-bc43-8796004d8618_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:fb53b2df-39c8-4f6f-a855-25af4f9d601e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Cours d'essai à 5€ à The Roof pour la rentrée",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/the-roof-cours-mieux-etre.jpg?h=f436667f&itok=FcRPy2cV",
+    "file": "cluster_fb53b2df-39c8-4f6f-a855-25af4f9d601e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:2baf0198-79eb-41b9-8b3a-87e00cbef6ab",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le festival Piano aux Jacobins du 8 au 30 septembre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/piano-jacobins---remi-deligeon.jpg?h=276210a7&itok=k8n9-VSK",
+    "file": "cluster_2baf0198-79eb-41b9-8b3a-87e00cbef6ab_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:f68df0f1-3e0a-42bf-aef5-dff834547981",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Rétrospective animation japonaise à la Cinémathèque de Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/piano-jacobins---remi-deligeon.jpg?h=276210a7&itok=k8n9-VSK",
+    "file": "cluster_f68df0f1-3e0a-42bf-aef5-dff834547981_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
