@@ -218,6 +218,13 @@ def _extract_lessentiel_sorties(
 
         date_slug = received_at.strftime("%Y-%m-%d")
         items: list[dict[str, Any]] = []
+        # Guards against ANY step below (not just the idx==0 section fallback)
+        # accidentally handing two different ideas the same image -- e.g. the
+        # tracking-link OG-image fetch (step 2) landing on a shared/generic
+        # hub page for more than one idea's link. If an image's already been
+        # used by an earlier idea in this batch, it's not trustworthy for a
+        # later one either.
+        used_images: set[str] = set()
 
         for idx, h2 in enumerate(sorties_table.find_all("h2")):
             title = h2.get_text(strip=True)
@@ -276,6 +283,11 @@ def _extract_lessentiel_sorties(
             # items with no usable image rather than requiring a fallback.
             if not image_url and section_img_url and idx == 0:
                 image_url = section_img_url
+
+            if image_url and image_url in used_images:
+                image_url = None
+            elif image_url:
+                used_images.add(image_url)
 
             items.append({
                 "source": "lessentiel",
