@@ -1,0 +1,88 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:85984d0c-9684-4861-b591-9d5ac5b42a02",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Javier Perianes au Piano aux Jacobins pour célébrer Manuel de Falla",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JAVIER-PERIANES-PIANO-JACOBINS.jpg",
+    "file": "cluster_85984d0c-9684-4861-b591-9d5ac5b42a02_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d3aaf1f1-a93d-4779-98e3-4d883b0602b2",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Faux British : comédie catastrophe au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/faux-british-25-copie.jpg",
+    "file": "cluster_d3aaf1f1-a93d-4779-98e3-4d883b0602b2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:60271d92-87aa-4934-830e-fce32a28bb57",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition Marika Perros à la Médiathèque Grand M",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/84e043ee6e664535992d785e58b29e5c.full_.image_.jpg.webp?itok=HSr95rZQ",
+    "file": "cluster_60271d92-87aa-4934-830e-fce32a28bb57_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:7794388b-6418-4217-91df-0ad03a9b66e9",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Les Faux British au Théâtre des 3T",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/les-faux-british-1365x2048.jpg?itok=j7kBgTEo",
+    "file": "cluster_7794388b-6418-4217-91df-0ad03a9b66e9_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:dded2860-3c0c-455d-bd48-51e18545b4fc",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Festival Piano aux Jacobins : 47e édition au cloître toulousain",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/piano-jacobin--c--arno---adrien.jpg?h=487999fe&itok=fM7VXSzy",
+    "file": "cluster_dded2860-3c0c-455d-bd48-51e18545b4fc_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:f71fb566-b9d7-47a8-ab9a-d9821c263bcd",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Dîner des Colonnes au musée des Augustins pour la restauration",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/cloitre-augustins--charline-poullain.jpg?h=1ca577fc&itok=zdxAjoXM",
+    "file": "cluster_f71fb566-b9d7-47a8-ab9a-d9821c263bcd_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:50318e56-d42c-4f88-85d2-5364a642a8fa",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival de photo MAP Toulouse dans le quartier Saint-Cyprien",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Le-festival-copie.jpg",
+    "file": "cluster_50318e56-d42c-4f88-85d2-5364a642a8fa_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
