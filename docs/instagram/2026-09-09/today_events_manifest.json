@@ -1,0 +1,143 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d3aaf1f1-a93d-4779-98e3-4d883b0602b2",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Faux British : comédie catastrophe au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/faux-british-25-copie.jpg",
+    "file": "cluster_d3aaf1f1-a93d-4779-98e3-4d883b0602b2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a8018922-5a4e-45a3-bb7f-0242aba7feab",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Magdalene Ho en récital de piano au Cloître des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MAGDALENE-HO-PIANO-JACOBINS.jpg",
+    "file": "cluster_a8018922-5a4e-45a3-bb7f-0242aba7feab_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:e705deaa-f9f1-4f24-8088-890a88bc9af4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Sign'Ô : la création en Langue des Signes à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/310721758-196768226055640-7607910327357798477-n-copie.jpg",
+    "file": "cluster_e705deaa-f9f1-4f24-8088-890a88bc9af4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6ee4cb7d-eeb7-4e24-97bf-5715233bf68b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Préambule du Festival de rue de Ramonville place Bagatelle",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/f1fd1dec39424081a0094f60cec0f6e8.full.image-30d331a9aec84ea886a4ff85ec6210c2.jpg",
+    "file": "cluster_6ee4cb7d-eeb7-4e24-97bf-5715233bf68b_event_story.jpg",
+    "img_width": 2500,
+    "img_height": 1270
+  },
+  {
+    "cluster_id": "cluster:13dadb98-438d-411e-be56-61aae222511e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Nocturne du Marché Victor-Hugo aux couleurs du Toulouse FC",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/NOCTURNE-VICTOR-HUGO-2.jpg",
+    "file": "cluster_13dadb98-438d-411e-be56-61aae222511e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8e49f7f6-0f5b-468e-9e11-cb1c98ea80e6",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Préambule du Festival de Rue de Ramonville place Bagatelle",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/f1fd1dec39424081a0094f60cec0f6e8.full.image-30d331a9aec84ea886a4ff85ec6210c2.jpg",
+    "file": "cluster_8e49f7f6-0f5b-468e-9e11-cb1c98ea80e6_event_story.jpg",
+    "img_width": 2500,
+    "img_height": 1270
+  },
+  {
+    "cluster_id": "cluster:3ad70d03-ceba-491a-a9aa-c5c564efeedf",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Cours d'essai gratuit à la Comédie de la Roseraie",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/scene-theatre-adobestock_671665600.jpg?itok=KZgvKITw",
+    "file": "cluster_3ad70d03-ceba-491a-a9aa-c5c564efeedf_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:61919086-3af9-457d-9d7a-84ae9ddfd245",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Semaine Seniors et + place du Capitole : bien-être et animations gratuites",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/senior-tapis-sport-adobestock_169974355.jpg?itok=g_g0OOIU",
+    "file": "cluster_61919086-3af9-457d-9d7a-84ae9ddfd245_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:adee5a6b-4721-40eb-b36e-2be5a4d1c0d1",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La rentrée du Grenier Théâtre avec trois pièces de Caprini",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/tom-image3.jpg?h=be8822c0&itok=s10CyaQx",
+    "file": "cluster_adee5a6b-4721-40eb-b36e-2be5a4d1c0d1_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:b3b05622-fe33-4584-a038-61afcb7d1178",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Forum de rentrée des associations devant la Médiathèque Grand M",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/fe0d6d62a65c41448a2446b3e2c28dc8.full_.image_.jpg--1-.jpg?itok=VDo-Sk9u",
+    "file": "cluster_b3b05622-fe33-4584-a038-61afcb7d1178_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:6c7e891b-6e3e-4632-ad0a-bf77f8b8fe8b",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival de Photo MAP : exposition gratuite à Saint-Cyprien",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Le-festival-copie.jpg",
+    "file": "cluster_6c7e891b-6e3e-4632-ad0a-bf77f8b8fe8b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:fac8a3f5-0796-46bb-a7ae-d1302be3a1f9",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Prix Photo Social 2026 au Château d'Eau : trois regards engagés",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PRIX-PHOTO-SOCIAL.jpg",
+    "file": "cluster_fac8a3f5-0796-46bb-a7ae-d1302be3a1f9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

@@ -9916,6 +9916,28 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-08#49157?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d993d37c-6786-4e8a-b368-b8e4f64cb5ae@news.lavillerose.com
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260910
+SUMMARY:Cyanobactéries au lac de Sesquières : baignade et nautisme interd
+ its
+DESCRIPTION:Le lac de Sesquières\, à Toulouse\, est interdit à la baigna
+ de et aux activités nautiques en raison d'une très forte présence de to
+ xines libérées par des cyanobactéries. Un arrêté municipal signé par
+  le maire Jean-Luc Moudenc le 4 septembre 2026 interdit également la cons
+ ommation des produits de la pêche sur le plan d'eau. L'interdiction court
+  jusqu'au 9 septembre à minuit\, mais pourrait être prolongée selon les
+  résultats des analyses en cours\, réalisées tous les deux jours dans l
+ e cadre d'un prot\n\nSource\: https://actu.fr/occitanie/toulouse_31555/de-
+ toxines-liberees-par-des-cyanobacteries-dans-un-lac-de-toulouse-la-baignad
+ e-et-les-activites-nautiques-interdites_64760189.html
+LOCATION:lac de Sesquières\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/de-toxines-liberees-par-des-cy
+ anobacteries-dans-un-lac-de-toulouse-la-baignade-et-les-activites-nautique
+ s-interdites_64760189.html?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:a8018922-5a4e-45a3-bb7f-0242aba7feab@news.lavillerose.com
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
@@ -9973,15 +9995,15 @@ UID:cluster:13dadb98-438d-411e-be56-61aae222511e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Nocturne de Victor-Hugo
-DESCRIPTION:La 36e édition de la Nocturne du Marché Victor-Hugo se tient 
- le mercredi 9 septembre 2026\, de 18h30 à 22h30\, sous le signe du Toulou
- se Football Club. Après avoir rendu hommage au Stade Toulousain en juin\,
-  l'événement se pare cette fois de violet pour marquer la rentrée. Les 
- visiteurs sont invités à déambuler entre les étals de produits frais i
- ssus de circuits courts\, à la rencontre des artisans et commerçants loc
- aux dans une ambiance festive et nocturne. La soirée est gratuite et ouve
- rte à tous\,\n\nSource\: https://www.toulouse-tourisme.com/agenda/nocturn
- e-du-marche-victor-hugo-avec-le-toulouse-football-club/
+DESCRIPTION:La 36e édition de la Nocturne de Victor-Hugo se tient le mercr
+ edi 9 septembre 2026\, de 18h30 à 22h30\, au marché couvert Victor-Hugo.
+  L'événement est placé cette saison sous le signe du Toulouse Football 
+ Club\, après avoir rendu hommage au Stade Toulousain en juin. Les visiteu
+ rs sont invités à venir habillés aux couleurs violettes du TFC pour une
+  soirée mêlant gastronomie\, circuits courts et ambiance festive de rent
+ rée. L'entrée est gratuite et ouverte à tous.\n\nSource\: https://www.t
+ oulouse-tourisme.com/agenda/nocturne-du-marche-victor-hugo-avec-le-toulous
+ e-football-club/
 LOCATION:Stade Toulousain en juin\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/nocturne-du-marche-victor-hugo
  -avec-le-toulouse-football-club/?utm_source=ical&utm_medium=calendar&utm_c
@@ -10005,6 +10027,42 @@ LOCATION:Rue de Ramonville ouvre ses festivités\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/preambule-du-festival-de-rue-d
  e-ramonville-2026-a-toulouse/?utm_source=ical&utm_medium=calendar&utm_camp
  aign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:61919086-3af9-457d-9d7a-84ae9ddfd245@news.lavillerose.com
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260913
+SUMMARY:Semaine Seniors et +
+DESCRIPTION:La Semaine Seniors et +\, édition 2026\, se tient place du Cap
+ itole du 9 au 12 septembre\, de 9h30 à 18h\, avec une vingtaine de stands
+  consacrés aux thématiques bien-être\, santé\, retraite\, numérique e
+ t services aux aînés. De nombreuses animations gratuites sont au program
+ me : ateliers couture\, sophrologie\, réflexologie\, massages\, cours spo
+ rtifs et conférences\, ainsi que des spectacles musicaux à partir de 16h
+ . Des sorties dans la ville — balades et visites — sont également pr
+ évues\, tandis que d'aut\n\nSource\: https://www.lessentiel.fr/newsletter
+ /toulouse/2026-09-09#49318
+LOCATION:place du Capitole du 9 au 12 septembre\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-09#49318?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:adee5a6b-4721-40eb-b36e-2be5a4d1c0d1@news.lavillerose.com
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20261004
+SUMMARY:Rentrée Grenier Théâtre
+DESCRIPTION:Le Grenier Théâtre lance sa rentrée avec trois pièces de la
+  compagnie Gladys Torsion\, toutes issues de l'univers de Samuel Caprini. 
+ La comédie mordante Acteur\, jouée par les comédiens de l'atelier du ma
+ rdi\, ouvre le bal les deux premiers soirs à 20h30\, suivie de Les demois
+ elles du parc vendredi et samedi\, une fresque familiale rattrapée par la
+  guerre de 1914. Enfin\, vendredi 2 et samedi 3 octobre\, TOM revient dans
+  la version remaniée présentée cet été au Off d'Avignon : un texte su
+ r l'épidémie d\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-09-09#49319
+LOCATION:parc vendredi\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-09#49319?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:838b84fa-3d85-4820-a619-ef668f216d6c@news.lavillerose.com
@@ -10271,6 +10329,41 @@ URL:https://www.toulouse-tourisme.com/agenda/vacances-de-reve/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6c7e891b-6e3e-4632-ad0a-bf77f8b8fe8b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260928
+SUMMARY:Festival MAP Toulouse
+DESCRIPTION:Le Festival de Photo MAP revient à Toulouse du 11 au 27 septem
+ bre 2026 dans le quartier Saint-Cyprien\, pour plus de deux semaines d'év
+ énements artistiques en accès libre. Cette édition met à l'honneur deu
+ x artistes phares\, Edward Curtis et Zen Lefort\, dont les œuvres explore
+ nt les cultures amérindiennes et invitent à reconsidérer l'histoire. So
+ us la direction artistique d'Ulrich Lebeuf\, la programmation inclut expos
+ itions\, rencontres et projections. L'événement s'adresse à tous les pu
+ blics\, la g\n\nSource\: https://www.toulouse-tourisme.com/agenda/festival
+ -de-photo-map-toulouse/
+LOCATION:quartier Saint-Cyprien\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/festival-de-photo-map-toulouse
+ /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fac8a3f5-0796-46bb-a7ae-d1302be3a1f9@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20261005
+SUMMARY:Prix Photo Social 2026
+DESCRIPTION:Le festival Prix Photo Social investit le Château d'Eau du 11 
+ septembre au 4 octobre 2026 avec une exposition réunissant trois photogra
+ phes : François Le Guen\, Naïma Lecomte et Valérie Horwitz. Leurs œuvr
+ es documentent des réalités sociales difficiles — exclusion\, adolesce
+ nts suivis par l'Aide sociale à l'enfance\, jeunes filles incarcérées. 
+ L'exposition mêle photographies\, peintures\, œuvres graphiques\, collag
+ es et archives pour rendre visibles des parcours de vie fragilisés. Ce re
+ ndez-vous s'adr\n\nSource\: https://www.toulouse-tourisme.com/agenda/prix-
+ photo-social-2026/
+URL:https://www.toulouse-tourisme.com/agenda/prix-photo-social-2026/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d916b8be-91bf-43a4-a70a-0a7f6fd7ad4d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
@@ -10392,6 +10485,43 @@ DESCRIPTION:Le groupe Deli Zirzop se produit au Taquin le 12 septembre 2026
 LOCATION:place laiss\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/deli-zirzop/?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2498fbbe-28b7-41cd-8e46-b6fab195a1b3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Week-end éthiopien Grain de Quartier
+DESCRIPTION:Le café-cantine Grain de Quartier\, installé place Olivier à
+  Saint-Cyprien\, organise un week-end d'inauguration les 12 et 13 septembr
+ e pour célébrer trois mois d'existence. Le samedi 12\, la fondatrice Bez
+ a et sa tante proposeront dès 10h une cérémonie traditionnelle du café
+  éthiopien — torréfaction\, mouture\, infusion et dégustation — acc
+ ompagnée de musique et d'explications sur les traditions du pays. À midi
+ \, Beza et sa mère cuisineront de grandes assiettes familiales éthiopien
+ nes : poulet mariné\n\nSource\: https://www.toulouscope.fr/2026/09/08/a-s
+ aint-cyprien-ce-cafe-cantine-fete-sa-rentree-avec-un-week-end-aux-couleurs
+ -de-lethiopie-13533847.php
+LOCATION:place Olivier\, Toulouse
+URL:https://www.toulouscope.fr/2026/09/08/a-saint-cyprien-ce-cafe-cantine-f
+ ete-sa-rentree-avec-un-week-end-aux-couleurs-de-lethiopie-13533847.php?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:37e061d8-cdc7-4138-94f2-2202a115856b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Les Murmures de la Terre
+DESCRIPTION:Le spectacle « Les Murmures de la Terre » se jouera les 12 et
+  13 septembre 2026 au Théâtre de la Violette\, à Toulouse. Mêlant humo
+ ur\, poésie et interaction avec le public\, la pièce porte un message en
+ gagé autour de la protection de la nature\, du respect des peuples et du 
+ lien avec le vivant. Le format participatif en fait une expérience access
+ ible à un large public\, propice à la réflexion sans être austère. L'
+ événement s'adresse à tous ceux sensibles aux questions environnemental
+ es et humaines.\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-m
+ urmures-de-la-terre/
+URL:https://www.toulouse-tourisme.com/agenda/les-murmures-de-la-terre/?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5ef1727d-f22b-44f7-9cdd-218e5aa7cda1@news.lavillerose.com
@@ -12257,6 +12387,24 @@ URL:https://www.toulouse-tourisme.com/agenda/une-balade-architecturale-a-de
  imoine/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:33a503dd-b141-4fa7-a4ce-31ae0c8e1f64@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:Les Journées Européennes du Patrimoine investissent le musée
+  Aeroscopia les 19 et 20 septembre 2026. Le musée\, dédié à l'histoire
+  de l'aviation commerciale\, de loisir\, militaire et expérimentale\, ouv
+ re ses portes gratuitement pour l'occasion. Au programme : des visites gui
+ dées des avions mythiques de la collection et une exposition photo retra
+ çant le début de vie d'un avion chez Airbus. Le détail de la programmat
+ ion et les horaires sont à retrouver sur le site officiel des Journées E
+ uropéennes d\n\nSource\: https://www.toulouse-tourisme.com/agenda/journee
+ s-europeennes-du-patrimoine-a-aeroscopia/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-a-aeroscopia/?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:32b661a9-f147-44c4-be5a-da3ed4214259@news.lavillerose.com
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
@@ -12837,6 +12985,23 @@ DESCRIPTION:Les Commandos Percu présentent leur nouveau spectacle « Rythm
 LOCATION:Parc d'Odyssud le 24 septembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-commandos-percu/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:037b56f8-ed1f-43ab-9d5b-37bd269db254@news.lavillerose.com
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20261116
+SUMMARY:LAYUP
+DESCRIPTION:LAYUP est une exposition d'art urbain qui se tient de fin septe
+ mbre à mi-novembre 2026 dans un bâtiment de 5 000 m² à Toulouse. Une c
+ inquantaine d'artistes locaux\, nationaux et internationaux y investissent
+  l'espace avec fresques monumentales\, installations et créations inédit
+ es. Le parcours est libre et évolutif\, accompagné d'ateliers d'initiati
+ on au graffiti\, de visites guidées et d'événements annexes. L'entrée 
+ est gratuite sur participation libre\, avec bar et food-truck sur place.\n
+ \nSource\: https://www.toulouse-tourisme.com/agenda/layup/
+LOCATION:espace\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/layup/?utm_source=ical&utm_med
+ ium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ac31f798-a756-4d4f-a2d3-99195bafb120@news.lavillerose.com
@@ -15929,6 +16094,24 @@ DESCRIPTION:Le Théâtre de la Violette accueille « Sylve\, l'enfant de la
  ve-lenfant-de-la-foret/
 URL:https://www.toulouse-tourisme.com/agenda/sylve-lenfant-de-la-foret/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:bffdb1bc-72c9-4e55-a875-25c076d27994@news.lavillerose.com
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Les Concerts Enflammés
+DESCRIPTION:Le pianiste et auteur-compositeur Chilly Gonzales se produit à
+  la Halle de la Machine à Toulouse le 26 octobre 2026\, pour une soirée 
+ présentée comme une première dans ce lieu. L'événement promet une atm
+ osphère singulière\, avec la présence du Minotaure\, la spectaculaire m
+ achine animatronique emblématique du site. C'est la première fois que Go
+ nzales se produit dans cette salle atypique\, ce qui confère à la soiré
+ e un caractère exceptionnel. L'événement s'adresse aux amateurs de musi
+ que live en quêt\n\nSource\: https://www.toulouse-tourisme.com/agenda/les
+ -concerts-enflammes-chili-gonzales/
+LOCATION:Halle de la Machine\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-concerts-enflammes-chili-g
+ onzales/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a8502b01-4955-434e-a706-d8e4e561952d@news.lavillerose.com
@@ -20390,6 +20573,23 @@ URL:https://www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:74bfbcda-541a-465a-a856-aa028c92663f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bonnie & Clyde
+DESCRIPTION:Le Casino Barrière de Toulouse accueillera deux spectacles de 
+ danse distincts en 2027. Bonnie & Clyde est programmé le 10 janvier 2027\
+ , suivi de Boléro le 13 juin 2027. Ces deux productions s'inscrivent dans
+  la catégorie Arts & Théâtre — Danse\, offrant aux amateurs du genre 
+ deux rendez-vous échelonnés sur l'année. Les billets sont disponibles v
+ ia Ticketmaster pour ces deux événements au même lieu.\n\nSource\: http
+ s://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmanif/66626
+ 0/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmani
+ f/666260/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:3ad8d37b-df7b-414f-812d-ffe66b9fe315@news.lavillerose.com
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
@@ -22518,23 +22718,6 @@ URL:https://www.toulouse-tourisme.com/agenda/monday/?utm_source=ical&utm_me
  dium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:16cc425e-2846-45ca-a582-850adb7fc3b7@news.lavillerose.com
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270310
-SUMMARY:Deux spectacles de danse à l'Altigone de Saint-Orens
-DESCRIPTION:L'Altigone de Saint-Orens-de-Gameville accueille deux spectacle
- s de danse en mars 2027. Le premier\, « The Dancer(s) »\, est programmé
-  le 9 mars\, suivi de « Gaelic Feet » le 21 mars. Ces deux représentati
- ons s'inscrivent dans la programmation arts et théâtre de la salle\, ave
- c une orientation danse contemporaine et danse irlandaise respectivement. 
- Les habitants de Toulouse et de l'agglomération sud-est sont concernés p
- ar cette offre culturelle à proximité.\n\nSource\: https://www.ticketmas
- ter.fr/fr/manifestation/the-dancer-s-billet/idmanif/658434/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/the-dancer-s-billet/idmani
- f/658434/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:5853bce7-2364-4aec-a61e-d2fcc147ca73@news.lavillerose.com
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
@@ -23059,6 +23242,27 @@ DESCRIPTION:Une conférence musicale consacrée à Tchaïkovski est program
  haikovski/
 URL:https://www.toulouse-tourisme.com/agenda/tchaikovski/?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:13797781-92dd-4761-a970-c654b9b963db@news.lavillerose.com
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Clair Obscur : A Painted Symphony
+DESCRIPTION:Suite au succès fulgurant du premier concert toulousain — do
+ nt les places s'étaient arrachées en quelques minutes —\, le spectacle
+  "Clair obscur : a painted symphony" revient au Zénith de Toulouse le 22 
+ mars 2027. Ce concert met en musique live la bande originale de Clair Obsc
+ ur Expedition 33\, jeu vidéo développé par un studio montpelliérain de
+ venu un phénomène mondial en 2025. Les artistes Lorien Testard et Alice 
+ Duport-Percier\, accompagnés de l'orchestre Curieux\, feront escale à To
+ ulouse dans l\n\nSource\: https://actu.fr/occitanie/toulouse_31555/veritab
+ le-phenomene-mondial-le-concert-clair-obscur-expedition-33-a-painted-symph
+ ony-de-retour-a-toulouse_64763484.html
+LOCATION:places s'étaient arrachées en quelques minutes —\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/veritable-phenomene-mondial-le
+ -concert-clair-obscur-expedition-33-a-painted-symphony-de-retour-a-toulous
+ e_64763484.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2864e930-0acc-47b2-a31e-6526a178fa8f@news.lavillerose.com
