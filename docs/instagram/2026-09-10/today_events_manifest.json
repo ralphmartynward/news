@@ -1,0 +1,132 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:e705deaa-f9f1-4f24-8088-890a88bc9af4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Sign'Ô : la création en Langue des Signes à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/310721758-196768226055640-7607910327357798477-n-copie.jpg",
+    "file": "cluster_e705deaa-f9f1-4f24-8088-890a88bc9af4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:61919086-3af9-457d-9d7a-84ae9ddfd245",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Semaine Seniors et + place du Capitole : bien-être et animations gratuites",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/senior-tapis-sport-adobestock_169974355.jpg?itok=g_g0OOIU",
+    "file": "cluster_61919086-3af9-457d-9d7a-84ae9ddfd245_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:838b84fa-3d85-4820-a619-ef668f216d6c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Ilyun Bürkev en récital au Cloître des Jacobins pour Piano aux Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ILYUN-BURKEV-PIANO-JACOBINS.jpg",
+    "file": "cluster_838b84fa-3d85-4820-a619-ef668f216d6c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6061650a-be63-46d7-855d-0c473b09af15",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Tioma en concert au Bijou le 10 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BIJOU.jpg",
+    "file": "cluster_6061650a-be63-46d7-855d-0c473b09af15_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b2c91cc4-69b1-47b6-ad41-e7d617d8f83e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Spectacle théâtral sur l'amour et les liens humains au Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TENTATIVE-DE-REUNIFICATION.jpg",
+    "file": "cluster_b2c91cc4-69b1-47b6-ad41-e7d617d8f83e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ffd15462-9348-4864-8569-fc4fa86e355e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« 10 ans après » : une comédie pétillante à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/10-ANS-APRES.jpg",
+    "file": "cluster_ffd15462-9348-4864-8569-fc4fa86e355e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bed006fc-ff2b-422c-a131-19a51fdf602b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Echo Jazz : un quartet accordé à 432Hz au Taquin",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ECHO-JAZZ.jpg",
+    "file": "cluster_bed006fc-ff2b-422c-a131-19a51fdf602b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:274fee34-52af-4f39-8994-738e8f4e88b5",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Tioma en concert folk-pop au Bijou pour son album Thérapie",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/capture-d-ecran-2026-09-08-183941.jpg?itok=KtjNO3xu",
+    "file": "cluster_274fee34-52af-4f39-8994-738e8f4e88b5_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:85a623b6-64a1-44a2-ac69-ca26a5cfdd9a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Présentation de « Culture Low Cost » à la librairie Terra Nova",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/7d408afd3df81529f9f2e4c4056fc9c4-2.arnaudidelon-807.jpg?itok=-EM3uAs6",
+    "file": "cluster_85a623b6-64a1-44a2-ac69-ca26a5cfdd9a_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:af66aa37-6b0b-4aef-aecc-f15998d5f57e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Présentation de la saison circassienne à La Grainerie",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/grainerie_11_salle-spectacle_-c--francois-passerini.jpg?itok=8l6agpsD",
+    "file": "cluster_af66aa37-6b0b-4aef-aecc-f15998d5f57e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:cb60f3cd-fccc-4b5c-86e6-c246e319132b",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Forum de l'engagement et guinguette gratuite au Castelet",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/la-castelet---charline-poullain.jpg?itok=pFCrL_64",
+    "file": "cluster_cb60f3cd-fccc-4b5c-86e6-c246e319132b_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

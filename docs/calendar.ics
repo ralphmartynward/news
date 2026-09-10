@@ -10170,6 +10170,23 @@ URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2e134cdb-d80a-409f-9eda-d62b28577ab5@news.lavillerose.com
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:La Cinémathèque de Toulouse dévoile sa saison 2026-2027
+DESCRIPTION:La Cinémathèque de Toulouse présente ce soir son programme p
+ our la saison 2026-2027\, riche en rétrospectives et en nouvelles exposit
+ ions. Dès le 10 septembre\, deux cycles s'ouvrent en parallèle : une ré
+ trospective de l'animation japonaise (Miyazaki\, Takahata\, Satoshi Kon\, 
+ Otomo) et un focus sur les films noirs de Fritz Lang. À partir du 3 octob
+ re\, le cycle « Plaisirs subversifs » explore le cinéma espagnol de la 
+ transition post-franquiste avec Cinespaña\, incluant les débuts d'Almod
+ óvar. Les Jour\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-09-10#49429
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-10#49429?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:07d7a889-1273-4785-ab65-47c6e5aba3f3@news.lavillerose.com
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260928
@@ -10816,6 +10833,26 @@ DESCRIPTION:Le chanteur colombien Yuri Buenaventura se produira à l'Altigo
 URL:https://www.ticketmaster.fr/fr/manifestation/yuri-buenaventura-billet/i
  dmanif/660587/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_camp
  aign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:051209e3-0144-4f30-aacc-0a6e3bd3fb55@news.lavillerose.com
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20261212
+SUMMARY:Le canal du Midi\, un patrimoine à réinventer
+DESCRIPTION:À l'occasion des 30 ans de l'inscription du Canal du Midi au p
+ atrimoine mondial de l'UNESCO\, l'École nationale supérieure d'architect
+ ure de Toulouse (ENSA) propose une exposition intitulée « Le canal du Mi
+ di\, un patrimoine à réinventer » à la Galerie 24. Du 17 septembre au 
+ 11 décembre 2026\, plans\, photographies\, maquettes\, archives et projet
+ s d'étudiants permettront d'explorer l'histoire et l'état actuel du cana
+ l. L'exposition se concentre particulièrement sur 15 sites peu connus\, f
+ ragilisés ou \n\nSource\: https://www.toulouscope.fr/2026/09/09/a-toulous
+ e-cette-exposition-imagine-un-futur-pour-le-canal-du-midi-a-travers-les-re
+ gards-des-architectes-de-demain-13522679.php
+URL:https://www.toulouscope.fr/2026/09/09/a-toulouse-cette-exposition-imagi
+ ne-un-futur-pour-le-canal-du-midi-a-travers-les-regards-des-architectes-de
+ -demain-13522679.php?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:297d3508-3a84-4b10-a247-67951313ae3d@news.lavillerose.com
@@ -12334,15 +12371,15 @@ UID:cluster:a7e7682e-44f7-4ca5-a934-efc07e9f6e8d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 SUMMARY:Journées Européennes du Patrimoine
-DESCRIPTION:L'Office de Tourisme de Toulouse propose deux visites guidées 
- dans le cadre des Journées Européennes du Patrimoine 2026. La première\
- , « Grandes et Petites Affaires Criminelles » (20 septembre)\, retrace q
- uatre affaires judiciaires marquantes de l'histoire toulousaine — dont l
- 'affaire Calas qui inspira Voltaire — en éclairant les pratiques judici
- aires de l'Ancien Régime. La seconde\, « Toulouse à la Renaissance » (
- 19 septembre)\, explore la renaissance de la ville après l'incendie déva
- stateur de 146\n\nSource\: https://www.toulouse-tourisme.com/agenda/grande
- s-et-petites-affaires-criminelles-journees-du-patrimoine/
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, l'Offi
+ ce de Tourisme de Toulouse propose quatre visites guidées thématiques da
+ ns la ville. Au programme : affaires criminelles sous l'Ancien Régime (20
+  septembre)\, l'architecture Art déco des Années Folles (20 septembre)\,
+  la renaissance de Toulouse après l'incendie de 1463 (19 septembre\, déj
+ à complet)\, et une balade « Toulouse Secrète » aux découvertes impr
+ évisibles selon l'humeur du guide (19 septembre). La réservation est obl
+ igatoire et les \n\nSource\: https://www.toulouse-tourisme.com/agenda/gran
+ des-et-petites-affaires-criminelles-journees-du-patrimoine/
 URL:https://www.toulouse-tourisme.com/agenda/grandes-et-petites-affaires-cr
  iminelles-journees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_
  campaign=toulouse-agenda
@@ -12403,6 +12440,24 @@ DESCRIPTION:Les Journées Européennes du Patrimoine investissent le musée
 URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
  oine-a-aeroscopia/?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8381dfc7-9281-4364-a0b8-81a2f806e6bf@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:Les Journées Européennes du Patrimoine 2026 sont l'occasion d
+ e visiter l'Hôtel de Paulo\, un hôtel particulier toulousain construit e
+ n 1770 par le Comte Marc-Antoine de Paulo\, grand Sénéchal du Lauragais.
+  Le bâtiment\, érigé sur les ruines de l'ancien Hôtel de Puymisson\, o
+ uvre exceptionnellement ses portes les 19 et 20 septembre. Les visiteurs p
+ ourront découvrir les écuries\, restées dans leur état d'origine depui
+ s la Première Guerre mondiale\, et participer à un atelier de taille de 
+ pierres dans la\n\nSource\: https://www.toulouse-tourisme.com/agenda/journ
+ ees-europeennes-du-patrimoine-a-lhotel-de-paulo/
+URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
+ oine-a-lhotel-de-paulo/?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:32b661a9-f147-44c4-be5a-da3ed4214259@news.lavillerose.com
@@ -13307,13 +13362,14 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Salon du Vintage
 DESCRIPTION:Le Salon du Vintage investit le Grand Marché MIN de Toulouse l
- es 26 et 27 septembre 2026\, sur une superficie de 3 000 m². Plus de 100 
- exposants sélectionnés proposeront mobilier design\, mode vintage\, viny
- les collectors et foodtrucks pour un week-end entièrement dédié au rét
- ro. L'événement s'adresse aux amateurs de seconde main\, de décoration 
- vintage et de nostalgie. Une occasion rare de rassembler autant de pépite
- s du rétro en un seul lieu à Toulouse.\n\nSource\: https://www.toulouse-
- tourisme.com/agenda/salon-du-vintage/
+ es 26 et 27 septembre 2026\, sur une surface de 3 000 m². Plus de 100 exp
+ osants sélectionnés proposeront mobilier design\, mode rétro\, vinyles 
+ collectors et foodtrucks pour un week-end entièrement dédié à l'univer
+ s vintage. L'événement s'adresse aux passionnés de seconde main\, de d
+ écoration et de nostalgie\, qu'ils soient chineurs aguerris ou simples cu
+ rieux. Un rendez-vous à ne pas manquer pour quiconque cherche des pièces
+  rares dans un\n\nSource\: https://www.toulouse-tourisme.com/agenda/salon-
+ du-vintage/
 URL:https://www.toulouse-tourisme.com/agenda/salon-du-vintage/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -20573,23 +20629,6 @@ URL:https://www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:74bfbcda-541a-465a-a856-aa028c92663f@news.lavillerose.com
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-SUMMARY:Bonnie & Clyde
-DESCRIPTION:Le Casino Barrière de Toulouse accueillera deux spectacles de 
- danse distincts en 2027. Bonnie & Clyde est programmé le 10 janvier 2027\
- , suivi de Boléro le 13 juin 2027. Ces deux productions s'inscrivent dans
-  la catégorie Arts & Théâtre — Danse\, offrant aux amateurs du genre 
- deux rendez-vous échelonnés sur l'année. Les billets sont disponibles v
- ia Ticketmaster pour ces deux événements au même lieu.\n\nSource\: http
- s://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmanif/66626
- 0/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmani
- f/666260/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:3ad8d37b-df7b-414f-812d-ffe66b9fe315@news.lavillerose.com
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
@@ -22718,6 +22757,23 @@ URL:https://www.toulouse-tourisme.com/agenda/monday/?utm_source=ical&utm_me
  dium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:16cc425e-2846-45ca-a582-850adb7fc3b7@news.lavillerose.com
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Deux spectacles de danse à l'Altigone de Saint-Orens
+DESCRIPTION:L'Altigone de Saint-Orens-de-Gameville accueille deux spectacle
+ s de danse en mars 2027. Le premier\, « The Dancer(s) »\, est programmé
+  le 9 mars\, suivi de « Gaelic Feet » le 21 mars. Ces deux représentati
+ ons s'inscrivent dans la programmation arts et théâtre de la salle\, ave
+ c une orientation danse contemporaine et danse irlandaise respectivement. 
+ Les habitants de Toulouse et de l'agglomération sud-est sont concernés p
+ ar cette offre culturelle à proximité.\n\nSource\: https://www.ticketmas
+ ter.fr/fr/manifestation/the-dancer-s-billet/idmanif/658434/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/the-dancer-s-billet/idmani
+ f/658434/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5853bce7-2364-4aec-a61e-d2fcc147ca73@news.lavillerose.com
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
@@ -24489,6 +24545,28 @@ DESCRIPTION:Le comédien et chroniqueur Pablo Mira se produira au Casino Ba
 URL:https://www.ticketmaster.fr/fr/manifestation/pablo-mira-billet/idmanif/
  640139/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:becf3f4e-568c-4ef8-b959-a9e535ddd7a5@news.lavillerose.com
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270515
+SUMMARY:Procès en appel de Jubillar fixé du 30 avril au 14 mai 2027 à To
+ ulouse
+DESCRIPTION:Le procès en appel de Cédric Jubillar\, condamné en premièr
+ e instance à 30 ans de réclusion pour la mort de son épouse Delphine di
+ sparue en décembre 2020\, se tiendra du 30 avril au 14 mai 2027 devant la
+  Cour d'assises de la Haute-Garonne à Toulouse. Cette date a été arrêt
+ ée lors d'une réunion préparatoire le 9 septembre 2026\, après le repo
+ rt du procès initialement prévu en septembre\, consécutif aux aveux de 
+ l'accusé en juillet 2026. Jubillar avait nié toute implication pendant c
+ inq ans\, avant de \n\nSource\: https://actu.fr/occitanie/toulouse_31555/o
+ n-connait-les-dates-du-proces-en-appel-de-cedric-jubillar-a-toulouse-suite
+ -a-ses-aveux-il-ne-durera-que-11-jours_64769135.html
+LOCATION:rue en décembre 2020\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/on-connait-les-dates-du-proces
+ -en-appel-de-cedric-jubillar-a-toulouse-suite-a-ses-aveux-il-ne-durera-que
+ -11-jours_64769135.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:853512fc-3e81-42a5-b908-942f31179d19@news.lavillerose.com
