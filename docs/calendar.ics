@@ -9119,25 +9119,6 @@ URL:https://www.clutchmag.fr/evenements#2026-09-03-jeudi-3-septembre-0?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:760d2405-d4fe-484f-b998-5d77e0828bf8@news.lavillerose.com
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-SUMMARY:Que faire à Toulouse ce week-end de rentrée : notre sélection
-DESCRIPTION:Plusieurs médias toulousains publient leur sélection de sorti
- es pour ce week-end de début septembre 2026. Au programme : la grande bra
- derie en centre-ville\, le grand banquet cassoulet au Jardin du Grand Rond
- \, les Pétanque Days esplanade Alain Savary\, la Fête des vendanges au D
- omaine de Candie\, le MIWA Festival dédié aux cultures japonaises\, et p
- lusieurs forums des associations dans la métropole. Toulouscope ajoute le
-  Rose Festival au MEETT (27-29 août) et des événements de rentrée cult
- urelle\, ta\n\nSource\: https://www.toulouscope.fr/2026/08/28/8-evenements
- -culturels-a-ne-pas-manquer-a-la-rentree-a-toulouse-13525060.php
-LOCATION:Jardin du Grand Rond\, Toulouse
-URL:https://www.toulouscope.fr/2026/08/28/8-evenements-culturels-a-ne-pas-m
- anquer-a-la-rentree-a-toulouse-13525060.php?utm_source=ical&utm_medium=cal
- endar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:99c4e3be-9f8d-4b64-bf6b-bd8105e68a92@news.lavillerose.com
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
@@ -10187,6 +10168,21 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-10#49429?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:5c7071a1-cf16-44dc-af30-0552ee873736@news.lavillerose.com
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Rentrée La Grainerie
+DESCRIPTION:La Grainerie organise sa soirée de rentrée le jeudi 10 septem
+ bre\, à partir de 19h. L'entrée est gratuite pour cet événement marqua
+ nt le début de la nouvelle saison. La Grainerie est un lieu culturel toul
+ ousain dédié aux arts du cirque et aux arts de la piste. L'information d
+ isponible est très succincte et ne précise pas le programme détaillé d
+ e la soirée.\n\nSource\: https://www.clutchmag.fr/evenements#2026-09-10-j
+ eudi-10-septembre-0
+URL:https://www.clutchmag.fr/evenements#2026-09-10-jeudi-10-septembre-0?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:07d7a889-1273-4785-ab65-47c6e5aba3f3@news.lavillerose.com
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260928
@@ -10381,6 +10377,87 @@ URL:https://www.toulouse-tourisme.com/agenda/prix-photo-social-2026/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:7d768a58-acef-49e7-9409-f462310f8e23@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Festival de Rue de Ramonville
+DESCRIPTION:Le Festival de Rue de Ramonville se tient le vendredi 11 septem
+ bre à partir de 19h. Au programme : spectacles et concerts en plein air\,
+  dans une ambiance festive et accessible à tous. L'entrée est entièreme
+ nt gratuite. L'événement s'adresse aux habitants de Ramonville-Saint-Agn
+ e et aux Toulousains souhaitant une sortie culturelle en soirée.\n\nSourc
+ e\: https://www.clutchmag.fr/evenements#2026-09-10-vendredi-11-septembre-0
+LOCATION:Rue de Ramonville se tient le vendredi 11 septembre à\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-10-vendredi-11-septembre-0?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7e610022-b570-4d1e-af3e-e4a52466ba74@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260928
+SUMMARY:MAP Toulouse
+DESCRIPTION:La 16e édition du festival de photographie MAP Toulouse se tie
+ nt du 11 au 27 septembre à la caserne Vion\, sur les allées Charles-de-F
+ itte. Passé en biennale\, le festival propose des dizaines d'expositions\
+ , de rencontres\, de performances et d'échanges\, le tout entièrement gr
+ atuit. Cette édition réunit des artistes émergents comme Anaïs Ondet (
+ diplômée de l'ETPA de Toulouse) et Marine Lanier\, aux côtés de photog
+ raphes reconnus tels que Christophe Brachet et Marvin Bonheur. Un hommage 
+ est rendu au \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+ 26-09-11#49560
+LOCATION:allées Charles-de-Fitte\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-11#49560?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:897b7728-0bf7-461a-8672-e5d0de9b095d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Petit London Birthday Party
+DESCRIPTION:Le Petit London fête son anniversaire le vendredi 11 septembre
+  avec une soirée animée par DJ Highstyle. La nuit sera placée sous le s
+ igne du RnB\, de l'afro et de la bass music\, à partir de 22h. L'entrée 
+ est gratuite\, ce qui en fait un événement accessible à tous les amateu
+ rs de la scène. Une soirée à noter pour les Toulousains en quête de bo
+ nne ambiance en début d'automne.\n\nSource\: https://www.clutchmag.fr/eve
+ nements#2026-09-10-vendredi-11-septembre-1
+URL:https://www.clutchmag.fr/evenements#2026-09-10-vendredi-11-septembre-1?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b52eb4b0-b766-40c7-b145-f7a1dda76f28@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Hortense de Beauharnais All Night Long
+DESCRIPTION:Le Rex accueille Hortense de Beauharnais pour une soirée élec
+ tro le vendredi 11 septembre\, à partir de 23h55. L'événement se dérou
+ le dans cette salle toulousaine emblématique de la scène clubbing locale
+ . L'entrée est tarifée entre 12\,69 et 16\,69 euros selon les conditions
+  d'achat. La soirée s'adresse aux amateurs de musique électronique souha
+ itant terminer leur semaine en dansant.\n\nSource\: https://www.clutchmag.
+ fr/evenements#2026-09-10-vendredi-11-septembre-2
+LOCATION:salle toulousaine emblématique de la scène clubbing\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-10-vendredi-11-septembre-2?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d975a455-75e1-4da5-bef8-c035cc8825a3@news.lavillerose.com
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+SUMMARY:Festival Sign'Ô
+DESCRIPTION:Le festival Sign'Ô\, à sa 3e édition\, investit plusieurs li
+ eux culturels de Toulouse du 11 au 13 septembre pour mettre à l'honneur l
+ a langue des signes comme matière première créative. Théâtre bilingue
+ \, chansigne et danse sont au programme\, réunissant publics sourds et en
+ tendants. Cette année\, le parvis du Musée des Abattoirs devient l'épic
+ entre du festival\, avec animations en continu et stands en accès libre e
+ t gratuit. Les représentations se déroulent également au Sorano\, au Th
+ éâtre du Grand Ro\n\nSource\: https://www.lessentiel.fr/newsletter/toulo
+ use/2026-09-11#49561
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-11#49561?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d916b8be-91bf-43a4-a70a-0a7f6fd7ad4d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
@@ -10541,6 +10618,55 @@ URL:https://www.toulouse-tourisme.com/agenda/les-murmures-de-la-terre/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:7c8f9dce-91ab-4d06-9215-4f560a6623dd@news.lavillerose.com
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:432 Dub Rise
+DESCRIPTION:La soirée 432 Dub Rise célèbre le 25e anniversaire du Sound 
+ System du Bhale Bacce Crew le samedi 12 septembre à Pouchant\, près de S
+ eix (09140)\, en pleine nature. La nuit reggae-dub se déroulera de 19h à
+  5h du matin pour 20 € d'entrée. Deux artistes sont à l'affiche : Mari
+ na P\, chanteuse présentée comme la marraine musicale du crew\, et Weedi
+ ng Dub\, figure reconnue de la scène dub française. L'événement mise s
+ ur une ambiance conviviale et consciente\, avec réservations disponibles 
+ par téléphone au \n\nSource\: https://www.clutchmag.fr/evenements#2026-0
+ 9-10-samedi-12-septembre-0
+URL:https://www.clutchmag.fr/evenements#2026-09-10-samedi-12-septembre-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a6b47da8-b3ba-4695-a312-c12c6640d59c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Romance aux Jardins
+DESCRIPTION:L'événement «Romance aux Jardins» avec Hello Coconut se tie
+ nt aux Jardins du Museum à Borderouge le samedi 12 septembre. Au programm
+ e : DJ sets\, food truck et animations dans un cadre verdoyant. L'entrée 
+ est fixée à 10 € et les portes ouvrent à 14h. L'événement s'adresse
+  à tous ceux qui souhaitent passer un après-midi festif en plein air dan
+ s ce quartier au nord de Toulouse.\n\nSource\: https://www.clutchmag.fr/ev
+ enements#2026-09-10-samedi-12-septembre-1
+LOCATION:Jardins du Museum\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-10-samedi-12-septembre-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ae52b571-84b8-4f98-bc0f-2ac9d7692b0b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:N*Reggaeton y Perreo #8
+DESCRIPTION:La soirée N*Reggaeton y Perreo revient pour sa huitième édit
+ ion à l'Interférence\, club toulousain\, le samedi 12 septembre à parti
+ r de 23h55. La soirée est dédiée au reggaeton et au perreo\, deux style
+ s musicaux d'origine latino-américaine très populaires en club. L'entré
+ e est comprise entre 14 et 18 euros selon les conditions d'accès. L'évé
+ nement s'adresse aux amateurs de musiques latines et de danse en club.\n\n
+ Source\: https://www.clutchmag.fr/evenements#2026-09-10-samedi-12-septembr
+ e-2
+URL:https://www.clutchmag.fr/evenements#2026-09-10-samedi-12-septembre-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5ef1727d-f22b-44f7-9cdd-218e5aa7cda1@news.lavillerose.com
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
@@ -10629,6 +10755,52 @@ DESCRIPTION:Le restaurant Le Corridor\, situé au Pullman Toulouse Airport
 URL:https://www.toulouscope.fr/2026/09/07/a-blagnac-ce-resto-relance-ses-br
  unchs-thematiques-apres-le-succes-des-premieres-editions-13532881.php?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:35003dad-8c8c-4bdc-8850-09aebbc43f8f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:10 ans après
+DESCRIPTION:La pièce « 10 ans après » est jouée à la Comédie de la R
+ oseraie le dimanche 13 septembre à 18h. Il s'agit d'un spectacle de comé
+ die proposé au tarif de 22 €. L'information provient d'une seule source
+  et le descriptif est très succinct\, sans détail sur la troupe ni le sy
+ nopsis. Les amateurs de comédie à Toulouse disposent d'une séance en so
+ irée en ce début d'automne.\n\nSource\: https://www.clutchmag.fr/eveneme
+ nts#2026-09-10-dimanche-13-septembre-2
+URL:https://www.clutchmag.fr/evenements#2026-09-10-dimanche-13-septembre-2?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3ae571f1-228d-4437-8c72-7c844bd6cb62@news.lavillerose.com
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Kakophonie
+DESCRIPTION:Kakophonie est un spectacle mêlant karaoké et improvisation t
+ héâtrale\, présenté au Flashback Café à Toulouse le dimanche 13 sept
+ embre à partir de 19h30. L'entrée est fixée à 10\,80 €. Le concept a
+ ssocie la participation musicale du public à la spontanéité du jeu thé
+ âtral\, pour une soirée décalée et interactive. Ce type d'événement 
+ s'adresse aux amateurs de spectacle vivant\, d'humour et de convivialité.
+ \n\nSource\: https://www.clutchmag.fr/evenements#2026-09-10-dimanche-13-se
+ ptembre-1
+URL:https://www.clutchmag.fr/evenements#2026-09-10-dimanche-13-septembre-1?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3fad7e11-6d1b-4e93-8c2f-6cfd6052139e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Belaria b2b Secret Guest
+DESCRIPTION:Le Bikini accueille une soirée électro avec le duo Belaria en
+  back-to-back avec un invité mystère\, sous l'alias Arabian Panther. L'
+ événement est programmé le dimanche 13 septembre à partir de 18h. L'en
+ trée est tarifée entre 10\,5 et 15 euros selon les conditions d'achat. L
+ es amateurs de musique électronique toulousains sont le public visé.\n\n
+ Source\: https://www.clutchmag.fr/evenements#2026-09-10-dimanche-13-septem
+ bre-0
+URL:https://www.clutchmag.fr/evenements#2026-09-10-dimanche-13-septembre-0?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:bcbe63ba-104d-4129-b3d5-8ab4c87122db@news.lavillerose.com
@@ -11646,17 +11818,17 @@ BEGIN:VEVENT
 UID:cluster:4153be3b-6647-46bd-894f-688234cd26b5@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-SUMMARY:Journées du Patrimoine Banque de France
-DESCRIPTION:Les 19 et 20 septembre 2026\, la Banque de France de Toulouse p
- articipe aux Journées Européennes du Patrimoine en ouvrant exceptionnell
- ement ses portes au public. Les visiteurs pourront explorer librement le g
- rand hall\, la salle des coffres et les jardins\, habituellement inaccessi
- bles. Plusieurs stands thématiques sont au programme : monnaie et billets
- \, éducation financière\, services aux particuliers et aux entreprises\,
-  RSE et recrutement. Un atelier de coloriage sur fresque géante est prév
- u pour\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-du-pa
- trimoine-a-la-banque-de-france/
-LOCATION:salle des coffres\, Toulouse
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, la Ban
+ que de France de Toulouse ouvre exceptionnellement ses portes au public le
+ s 19 et 20 septembre 2026. Les visiteurs pourront explorer librement le gr
+ and hall\, la salle des coffres dédiée aux particuliers et les jardins\,
+  des espaces habituellement inaccessibles. Plusieurs stands thématiques a
+ borderont les missions régionales de l'institution : monnaie et billets\,
+  éducation financière\, services aux particuliers et aux entreprises\, R
+ SE et re\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-du-
+ patrimoine-a-la-banque-de-france/
+LOCATION:salle des coffres dédiée aux particuliers\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-la-ba
  nque-de-france/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
  agenda
@@ -12117,17 +12289,17 @@ BEGIN:VEVENT
 UID:cluster:e76ec181-0b56-47ae-96bf-e5630f8b5bcb@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-SUMMARY:Campus EDF UFPI Toulouse
-DESCRIPTION:Le campus EDF UFPI de Toulouse (Unité de professionnalisation 
+SUMMARY:Campus EDF UFPI
+DESCRIPTION:Le Campus EDF UFPI de Toulouse (Unité de professionnalisation 
  pour la performance industrielle)\, situé à l'Immeuble Golf Park\, ouvre
-  ses portes le 19 septembre 2026. Ce centre forme les salariés EDF venus 
+  ses portes le 19 septembre 2026. Ce centre forme des salariés EDF venus 
  de toute la France aux métiers de l'exploitation\, de la maintenance et d
  e l'ingénierie hydraulique. La visite est gratuite mais limitée à 60 pe
- rsonnes au total\, avec un maximum de 30 personnes par créneau horaire. E
- lle est accessible dès 12 ans\, sous réserve d'être accompagné d'un ad
- ulte pour l\n\nSource\: https://www.toulouse-tourisme.com/agenda/campus-de
- -formaion-technique-edf-de-toulouse/
-LOCATION:campus EDF UFPI de Toulouse (Unité de professionnalis\, Toulouse
+ rsonnes au total (30 par créneau)\, accessible dès 12 ans et réservée 
+ aux personnes munies d'une pièce d'identité originale en cours de validi
+ té. Des ten\n\nSource\: https://www.toulouse-tourisme.com/agenda/campus-d
+ e-formaion-technique-edf-de-toulouse/
+LOCATION:Campus EDF UFPI de Toulouse (Unité de professionnalis\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/campus-de-formaion-technique-e
  df-de-toulouse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
  agenda
@@ -12351,17 +12523,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8ce2a2d8-c08e-4704-b77c-f193ddea2343@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Journées du Patrimoine
-DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Cen
- tre Opérationnel de Proximité (COP) de la SNCF à la Gare Matabiau ouvre
-  exceptionnellement ses portes au public le 19 septembre 2026. Les visiteu
- rs pourront découvrir les coulisses de la régulation du trafic ferroviai
- re régional liO\, les outils technologiques de supervision et les métier
- s méconnus de la production ferroviaire. Des visites guidées par groupes
-  de 10 personnes maximum permettront d'échanger directement avec les équ
- ipes opér\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees-d
- u-patrimoine-a-la-gare-de-toulouse-matabiau-avec-ter/
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées du Patrimoine Matabiau
+DESCRIPTION:Pour les Journées Européennes du Patrimoine\, la Gare de Toul
+ ouse Matabiau et le Centre Opérationnel de Proximité (COP) SNCF ouvrent 
+ leurs portes les 19 et 20 septembre 2026. Deux expériences distinctes son
+ t proposées : une visite guidée de l'architecture remarquable de la gare
+  (inaugurée en 1905\, classée monument historique\, primée au Prix Vers
+ ailles 2024)\, et une immersion dans les coulisses opérationnelles du COP
+ \, qui gère en temps réel le trafic des trains régionaux liO. La visite
+  architectur\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees
+ -du-patrimoine-a-la-gare-de-toulouse-matabiau-avec-ter/
 URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-la-ga
  re-de-toulouse-matabiau-avec-ter/?utm_source=ical&utm_medium=calendar&utm_
  campaign=toulouse-agenda
@@ -12458,6 +12630,78 @@ DESCRIPTION:Les Journées Européennes du Patrimoine 2026 sont l'occasion d
 URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
  oine-a-lhotel-de-paulo/?utm_source=ical&utm_medium=calendar&utm_campaign=t
  oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:461c92a1-46b7-4efb-8be0-de9b47899f3a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20270101
+SUMMARY:La Parole des Bâtons
+DESCRIPTION:La Bibliothèque d'étude et du patrimoine de Toulouse accueill
+ e « La parole des bâtons »\, une exposition conçue par le poète et pl
+ asticien toulousain Serge Pey\, fruit d'une résidence de création menée
+  tout au long de la saison 2025-2026. Le projet investit les 24 vitrines a
+ rt déco de la bibliothèque avec des œuvres plastiques\, des livres\, ma
+ nuscrits et archives personnelles que l'artiste a donnés à l'institution
+ . L'exposition mêle poésie\, arts plastiques et mémoire\, et s'inscrit 
+ désormais dans le\n\nSource\: https://www.toulouse-tourisme.com/agenda/se
+ rgge-bey-la-parole-des-batons/
+URL:https://www.toulouse-tourisme.com/agenda/sergge-bey-la-parole-des-baton
+ s/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6b49a2c2-93f2-4200-8b39-a13a35aaa734@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Th
+ éâtre de la Cité ouvre ses portes au public ce week-end du 19 septembre
+  2026. Les visiteurs pourront explorer les coulisses et recoins secrets du
+  bâtiment\, bâtisse architecturale emblématique située en plein cœur 
+ de Toulouse. Les visites se font en compagnie d'un régisseur et d'une cha
+ rgée des relations avec le public\, offrant un regard inédit sur la fabr
+ ique du spectacle vivant. Le détail de la programmation et les horaires s
+ ont disponib\n\nSource\: https://www.toulouse-tourisme.com/agenda/journees
+ -du-patrimoine-au-theatre-de-la-cite/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-thea
+ tre-de-la-cite/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a32bdf6b-84e7-4568-abcb-90c1d1595277@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:À l'occasion des Journées du Patrimoine 2026\, la startup tou
+ lousaine Beyond Aero ouvre ses portes pour la première fois au grand publ
+ ic. Les visiteurs pourront découvrir l'histoire de l'entreprise et de Bl
+ ériot\, l'avion ayant réalisé le premier vol habité en France à propu
+ lsion 100 % hydrogène-électrique. Le parcours donne accès au démonstra
+ teur et aux bancs d'essai hydrogène-électriques\, présentés comme parm
+ i les installations les plus avancées au monde. L'inscription est obligat
+ oire et ouvre e\n\nSource\: https://www.toulouse-tourisme.com/agenda/dans-
+ les-coulisses-du-premier-vol-hydrogene-electrique-de-france-journees-du-pa
+ trimoine/
+URL:https://www.toulouse-tourisme.com/agenda/dans-les-coulisses-du-premier-
+ vol-hydrogene-electrique-de-france-journees-du-patrimoine/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b801a473-8495-456f-8721-31c42b7749e7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, l'égl
+ ise Saint-Pierre des Cuisines ouvre ses portes au public le week-end du 19
+  septembre 2026. Ce lieu\, aujourd'hui dédié à la musique et à la dans
+ e\, abrite une crypte archéologique permettant de découvrir les soubasse
+ ments d'une basilique funéraire du Ve siècle. Des fragments de mosaïque
+ s d'époque y sont également exposés\, témoignant des différentes phas
+ es de construction de cet édifice à travers les siècles. Il s'agit des 
+ seuls vestiges à T\n\nSource\: https://www.toulouse-tourisme.com/agenda/j
+ ournees-du-patrimoine-a-lauditorium-saint-pierre-des-cuisines/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-laudi
+ torium-saint-pierre-des-cuisines/?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:32b661a9-f147-44c4-be5a-da3ed4214259@news.lavillerose.com
@@ -13040,23 +13284,6 @@ DESCRIPTION:Les Commandos Percu présentent leur nouveau spectacle « Rythm
 LOCATION:Parc d'Odyssud le 24 septembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-commandos-percu/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:037b56f8-ed1f-43ab-9d5b-37bd269db254@news.lavillerose.com
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20261116
-SUMMARY:LAYUP
-DESCRIPTION:LAYUP est une exposition d'art urbain qui se tient de fin septe
- mbre à mi-novembre 2026 dans un bâtiment de 5 000 m² à Toulouse. Une c
- inquantaine d'artistes locaux\, nationaux et internationaux y investissent
-  l'espace avec fresques monumentales\, installations et créations inédit
- es. Le parcours est libre et évolutif\, accompagné d'ateliers d'initiati
- on au graffiti\, de visites guidées et d'événements annexes. L'entrée 
- est gratuite sur participation libre\, avec bar et food-truck sur place.\n
- \nSource\: https://www.toulouse-tourisme.com/agenda/layup/
-LOCATION:espace\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/layup/?utm_source=ical&utm_med
- ium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ac31f798-a756-4d4f-a2d3-99195bafb120@news.lavillerose.com
@@ -13905,6 +14132,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/david-castello-lopes-bille
  ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6296fdae-f98f-472f-830d-f3926a65535e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Mon Jardin Noté par le Hérisson
+DESCRIPTION:L'événement « Mon Jardin Noté par le Hérisson » se tient 
+ au Parc Antoine de Saint-Exupéry le 30 septembre 2026. Cette initiative s
+ ensibilise le public à la présence du hérisson en ville et aux pratique
+ s jardinières qui lui sont favorables — alimentation\, habitat\, erreur
+ s courantes à éviter. L'activité est organisée dans le cadre d'un part
+ enariat entre l'office du tourisme et la Direction du Patrimoine végétal
+  de la mairie de Toulouse. Elle s'adresse à tous les curieux de nature ur
+ baine et de bio\n\nSource\: https://www.toulouse-tourisme.com/agenda/mon-j
+ ardin-note-par-le-herisson/
+LOCATION:Jardin Noté par le Hérisson » se tient au Parc Antoin\, Toulous
+ e
+URL:https://www.toulouse-tourisme.com/agenda/mon-jardin-note-par-le-herisso
+ n/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:6627f8de-dc09-4902-9942-e979ed2bb962@news.lavillerose.com
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261005
@@ -14437,6 +14683,24 @@ URL:https://www.toulouse-tourisme.com/agenda/les-jardins-sonores/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:04570b30-5876-4141-8bfb-697d5381ec27@news.lavillerose.com
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Festival 1000 Cœurs
+DESCRIPTION:Le Festival 1000 Cœurs investit la Salle Lafourguette le 3 oct
+ obre 2026 pour une après-midi dédiée à la paix et à la non-violence. 
+ Chœurs\, groupes vocaux\, artistes et musiciens se rassemblent autour d'u
+ n message commun porté par le chant et les arts vivants. Au programme : c
+ hants du monde\, polyphonies occitanes\, poésie\, guitare\, danse et arts
+  du mouvement\, avec des artistes comme Vent de la Paix\, ChrisTaal et Nat
+ \, Blue Swan Guild\, Flamarosa\, Tolosa Cantera et Agatjo. L'événement s
+ 'adresse à tous\n\nSource\: https://www.toulouse-tourisme.com/agenda/fest
+ ival-1000-coeurs/
+LOCATION:Salle Lafourguette le 3 octobre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/festival-1000-coeurs/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1d6f341e-6660-4046-9953-82af3b15debb@news.lavillerose.com
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
@@ -14643,6 +14907,23 @@ DESCRIPTION:Le CNRS organise du 7 au 19 octobre la 6e édition de ses Visit
  1#48372
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-08-31#48372?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:78f71b11-ac26-4552-83a3-32dbb00c10ba@news.lavillerose.com
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Les Vignerons du Roussillon
+DESCRIPTION:Une vingtaine de domaines viticoles du Roussillon se réunissen
+ t à la Halle de Cobalt à Toulouse le 7 octobre 2026 pour une soirée dé
+ gustation. Parmi les participants figurent des noms reconnus comme Domaine
+  Lafage\, Les Vignerons de Maury ou encore Château Vespeille. L'événeme
+ nt mêle découverte de vins roussillonnais et ambiance festive grâce à 
+ un DJ set en simultané. Les amateurs de vins du sud et les curieux de la 
+ région Roussillon sont particulièrement concernés.\n\nSource\: https://
+ www.toulouse-tourisme.com/agenda/les-vignerons-du-roussillon/
+LOCATION:Halle de Cobalt\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-vignerons-du-roussillon/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e02a6d76-5814-4980-a454-7698c9889217@news.lavillerose.com
@@ -14973,6 +15254,25 @@ LOCATION:Halle de la Machine de Toulouse le 9 octobre 2026\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/paul-kalkbrenner-machines-
  vivantes-billet/idmanif/659902/idtier/18864121?utm_source=ical&utm_medium=
  calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:037b56f8-ed1f-43ab-9d5b-37bd269db254@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261130
+SUMMARY:LayUp Mondes Parallèles
+DESCRIPTION:LayUp revient pour sa 6e édition avec « Mondes Parallèles »
+ \, sa plus grande exposition d'art urbain à ce jour\, investissant 5 000 
+ m² sur six niveaux de l'immeuble Terra Nova\, au 22 boulevard de la Marqu
+ ette dans le quartier Compans-Caffarelli. Quelque 73 artistes locaux\, nat
+ ionaux et internationaux y créeront fresques monumentales\, installations
+  et œuvres inédites autour de thématiques variées — graffiti\, post-
+ graffiti\, art contemporain\, voyages. Le parcours est libre et évolutif\
+ , complété par d\n\nSource\: https://www.toulouse-tourisme.com/agenda/la
+ yup/
+LOCATION:boulevard de la Marquette dans le quartier Compans-Caffarel\, Toul
+ ouse
+URL:https://www.toulouse-tourisme.com/agenda/layup/?utm_source=ical&utm_med
+ ium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8@news.lavillerose.com
@@ -19357,6 +19657,24 @@ URL:https://www.toulouse-tourisme.com/agenda/hyper-duras/?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:176da581-ca61-4d37-9b02-da3bc60f8756@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20270222
+SUMMARY:Dalí et les Classiques
+DESCRIPTION:L'exposition « Il était une fois… Dalí et les Classiques 
+ » investit les salons de l'Hôtel Albert 1er\, à deux pas du Capitole\, 
+ du 4 décembre 2026 au 21 février 2027. Plus de 150 œuvres originales 
+ — gravures\, lithographies\, sculptures\, céramiques et publicités d'
+ époque — mettent en scène un dialogue entre Salvador Dalí et deux gra
+ nds textes classiques : la Divine Comédie de Dante et les Fables de La Fo
+ ntaine. Un ensemble de seize publicités réalisées pour la marque Bryans
+  sera présenté pour la pre\n\nSource\: https://www.toulouse-tourisme.com
+ /agenda/il-etait-une-fois-dali-et-les-classiques/
+URL:https://www.toulouse-tourisme.com/agenda/il-etait-une-fois-dali-et-les-
+ classiques/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:01976ac9-f03a-443c-b1ba-477c81c0e288@news.lavillerose.com
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -20470,6 +20788,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/the-musical-story-of-elvis
  &utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:44683204-2d95-40f8-925c-6fcdfed11260@news.lavillerose.com
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270108
+SUMMARY:Melha Bedia
+DESCRIPTION:L'humoriste et comédienne Melha Bedia se produit au 3T d'À C
+ ôté de Toulouse sur trois soirées consécutives : les 5\, 6 et 7 janvie
+ r 2027. Le spectacle est classé dans la catégorie Arts & Théâtre\, ce 
+ qui laisse supposer un one-woman-show ou une pièce de théâtre. Les troi
+ s sources Ticketmaster sont strictement identiques dans leur contenu\, ne 
+ fournissant pas de détails supplémentaires sur le titre du spectacle\, l
+ es horaires ou les tarifs. Les spectateurs intéressés sont invités à c
+ onsulter Ticketma\n\nSource\: https://www.ticketmaster.fr/fr/manifestation
+ /melha-bedia-billet/idmanif/672013/idseance/4412832
+URL:https://www.ticketmaster.fr/fr/manifestation/melha-bedia-billet/idmanif
+ /672013/idseance/4412832?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:09870005-a54a-40e7-bdbf-eb31d29a6c0f@news.lavillerose.com
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
@@ -20627,6 +20963,23 @@ DESCRIPTION:Le Théâtre de la Cité accueille « Les Petites Filles Modern
  www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/
 URL:https://www.toulouse-tourisme.com/agenda/les-petites-filles-modernes/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:74bfbcda-541a-465a-a856-aa028c92663f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bonnie & Clyde
+DESCRIPTION:Le Casino Barrière de Toulouse accueillera deux spectacles de 
+ danse distincts en 2027. Bonnie & Clyde est programmé le 10 janvier 2027\
+ , suivi de Boléro le 13 juin 2027. Ces deux productions s'inscrivent dans
+  la catégorie Arts & Théâtre — Danse\, offrant aux amateurs du genre 
+ deux rendez-vous échelonnés sur l'année. Les billets sont disponibles v
+ ia Ticketmaster pour ces deux événements au même lieu.\n\nSource\: http
+ s://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmanif/66626
+ 0/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/bonnie-clyde-billet/idmani
+ f/666260/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3ad8d37b-df7b-414f-812d-ffe66b9fe315@news.lavillerose.com
@@ -21394,23 +21747,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/nawell-madani-billet/idman
  =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:f70bcbb8-fba8-4702-8075-5fc11176e191@news.lavillerose.com
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
-SUMMARY:Thylacine / NTO au Bikini
-DESCRIPTION:Le Bikini à Ramonville-Saint-Agne accueille deux soirées éle
- ctroniques début 2027. Thylacine se produira le 28 janvier 2027\, suivi d
- e NTO le 12 février 2027. Ces deux artistes français sont des figures re
- connues de la scène électronique et ambient\, avec chacun un univers son
- ore distinctif. Les amateurs de musique électronique de la région toulou
- saine sont directement concernés par ces deux événements.\n\nSource\: h
- ttps://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/66004
- 3/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/6
- 60043/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
- louse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:5451a5c7-da19-4412-bcbf-33c7cdc96b90@news.lavillerose.com
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
@@ -21552,24 +21888,6 @@ LOCATION:salle toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/adele-castillon-billet/idm
  anif/656820/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:40bed356-a130-4a5b-802f-c928212adb97@news.lavillerose.com
-DTSTART;VALUE=DATE:20270201
-DTEND;VALUE=DATE:20270202
-SUMMARY:Tarmo Peltokoski / Mao Fujita
-DESCRIPTION:Le chef Tarmo Peltokoski et le pianiste Mao Fujita s'associent 
- pour un concert à la Halle aux Grains de Toulouse en février 2027. Au pr
- ogramme\, le Concerto pour piano n°27 de Mozart — dernier concerto du c
- ompositeur — confié au toucher délicat du pianiste japonais. Peltokosk
- i dirigera ensuite la Symphonie n°5 de Bruckner\, œuvre monumentale que 
- le compositeur lui-même surnommait « la Fantastique ». Ce concert réun
- it deux artistes en pleine ascension autour d'un répertoire exigeant et a
- mbitieux.\n\nSource\: https://www.toulouse-tourisme.com/agenda/tarmo-pelto
- koski-mao-fujita/
-LOCATION:Halle aux Grains de Toulouse en février 2027\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/tarmo-peltokoski-mao-fujita/?u
- tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4e04fc26-3e0f-4223-8b62-04476d83fdd0@news.lavillerose.com
@@ -22757,23 +23075,6 @@ URL:https://www.toulouse-tourisme.com/agenda/monday/?utm_source=ical&utm_me
  dium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:16cc425e-2846-45ca-a582-850adb7fc3b7@news.lavillerose.com
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270310
-SUMMARY:Deux spectacles de danse à l'Altigone de Saint-Orens
-DESCRIPTION:L'Altigone de Saint-Orens-de-Gameville accueille deux spectacle
- s de danse en mars 2027. Le premier\, « The Dancer(s) »\, est programmé
-  le 9 mars\, suivi de « Gaelic Feet » le 21 mars. Ces deux représentati
- ons s'inscrivent dans la programmation arts et théâtre de la salle\, ave
- c une orientation danse contemporaine et danse irlandaise respectivement. 
- Les habitants de Toulouse et de l'agglomération sud-est sont concernés p
- ar cette offre culturelle à proximité.\n\nSource\: https://www.ticketmas
- ter.fr/fr/manifestation/the-dancer-s-billet/idmanif/658434/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/the-dancer-s-billet/idmani
- f/658434/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:5853bce7-2364-4aec-a61e-d2fcc147ca73@news.lavillerose.com
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
@@ -22942,6 +23243,24 @@ DESCRIPTION:Le groupe Deluxe\, figure incontournable de la scène funk-R&B
  6/idtier/18864121
 URL:https://www.ticketmaster.fr/fr/manifestation/deluxe-billet/idmanif/6426
  76/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d9b162a6-a7dc-4a03-97b1-3bd0c8c15083@news.lavillerose.com
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:MADAM
+DESCRIPTION:Le groupe MADAM se produira au Bikini\, salle de concert emblé
+ matique de Ramonville-Saint-Agne\, le 13 mars 2027. L'événement s'inscri
+ t dans une programmation rock\, genre de prédilection de cette salle rép
+ utée dans la région toulousaine. Les amateurs de rock de Toulouse et ses
+  environs sont les premiers concernés par cette annonce. Les informations
+  de billetterie sont disponibles via Ticketmaster.\n\nSource\: https://www
+ .ticketmaster.fr/fr/manifestation/madam-billet/idmanif/672206/idseance/441
+ 3670
+LOCATION:salle de concert emblématique de Ramonville-Saint-Agne\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/madam-billet/idmanif/67220
+ 6/idseance/4413670?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
 END:VEVENT
 BEGIN:VEVENT

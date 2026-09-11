@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-09-12",
+  "sunday": "2026-09-13",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e72ee4f9-5f28-47c9-8746-ec8d4c97800f",
+      "title": "Les Mélodies du Canal aux Cales de Radoub : concerts solidaires sur l'eau",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:37e061d8-cdc7-4138-94f2-2202a115856b",
+      "title": "Les Murmures de la Terre au Théâtre de la Violette",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:5ef1727d-f22b-44f7-9cdd-218e5aa7cda1",
+      "title": "Visite inclusive et sensorielle de Toulouse pour tous les publics",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:bc6f040b-3138-4ebf-8546-db26fe443cec",
+      "title": "Visite guidée du quartier Marengo, laboratoire urbain du XIXe siècle",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:a2dfb43c-d610-4864-8cd7-baf662eae578",
+      "title": "Hommage à Weber sur instruments historiques à la Chapelle des Carmélites",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:aab034f4-d3ca-47cf-abab-cc9fadc14f24",
+      "title": "Canoë avec une kayakiste olympique puis brunch sur une péniche",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d916b8be-91bf-43a4-a70a-0a7f6fd7ad4d",
+      "title": "Deux événements de triathlon à Toulouse en septembre et octobre",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:44394b2c-496e-44a1-8d8f-0286ce742739",
+      "title": "Visite guidée : l'art du vitrail à travers Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:57abac53-2369-4411-b911-16ac9181cefd",
+      "title": "Parcours insolite : des ornements Virebent à la Maison Giscard",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}

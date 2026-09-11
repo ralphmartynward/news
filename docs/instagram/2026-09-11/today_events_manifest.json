@@ -1,0 +1,143 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:e705deaa-f9f1-4f24-8088-890a88bc9af4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Sign'Ô : la création en Langue des Signes à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/310721758-196768226055640-7607910327357798477-n-copie.jpg",
+    "file": "cluster_e705deaa-f9f1-4f24-8088-890a88bc9af4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:61919086-3af9-457d-9d7a-84ae9ddfd245",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Semaine Seniors et + place du Capitole : bien-être et animations gratuites",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/senior-tapis-sport-adobestock_169974355.jpg?itok=g_g0OOIU",
+    "file": "cluster_61919086-3af9-457d-9d7a-84ae9ddfd245_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:b2c91cc4-69b1-47b6-ad41-e7d617d8f83e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Spectacle théâtral sur l'amour et les liens humains au Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TENTATIVE-DE-REUNIFICATION.jpg",
+    "file": "cluster_b2c91cc4-69b1-47b6-ad41-e7d617d8f83e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0685115f-593c-494b-888d-fca2591b9e49",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Comédie « Les Clotildes » au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-CLOTILDES.jpg",
+    "file": "cluster_0685115f-593c-494b-888d-fca2591b9e49_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:97c2871b-ea0e-4d74-becd-5d594be6eed8",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Vadim Kholodenko au Cloître des Jacobins : Beethoven et Liszt",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VADYM-KHOLODENKO-PIANO-JACOBINS.jpg",
+    "file": "cluster_97c2871b-ea0e-4d74-becd-5d594be6eed8_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2537632c-72c6-4e57-b1a9-df459a02251d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Syrano fête 20 ans de carrière au Bijou avec Danielito de Tryo",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SYRANO.jpg",
+    "file": "cluster_2537632c-72c6-4e57-b1a9-df459a02251d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a99856c5-7d0c-47c3-b050-a94872f75931",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Spectacle féministe bilingue au Théâtre Sorano en septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/NOUS-SOMMES-DES-FILLES-SANS-HISTOIRE.jpg",
+    "file": "cluster_a99856c5-7d0c-47c3-b050-a94872f75931_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0cc3103e-6b28-4a0b-9fa1-148377f6190b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "CHELABÔM en concert au Taquin le 11 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CHELABOM.jpg",
+    "file": "cluster_0cc3103e-6b28-4a0b-9fa1-148377f6190b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b4aa1d4f-3a7c-4468-94bd-dfed6eff7195",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Bruno Aguiar en spectacle : « Vacances de Rêve » au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VACANCES-DE-REVE.jpg",
+    "file": "cluster_b4aa1d4f-3a7c-4468-94bd-dfed6eff7195_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:7e610022-b570-4d1e-af3e-e4a52466ba74",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "MAP Festival de photographie à la Caserne Vion en septembre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/zen-lefort-festival-map.jpg?h=29074b59&itok=WxrC-o0v",
+    "file": "cluster_7e610022-b570-4d1e-af3e-e4a52466ba74_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:d975a455-75e1-4da5-bef8-c035cc8825a3",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Festival Sign'Ô aux Abattoirs : langue des signes et culture sourde",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/multivers-credits-rivolier.jpg?h=434fda7c&itok=5BgO7Tlg",
+    "file": "cluster_d975a455-75e1-4da5-bef8-c035cc8825a3_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:bcbe63ba-104d-4129-b3d5-8ab4c87122db",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Fifigrot : le festival du film grolandais de retour en septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1753447542191-copie.jpg",
+    "file": "cluster_bcbe63ba-104d-4129-b3d5-8ab4c87122db_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
