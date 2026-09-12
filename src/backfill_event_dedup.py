@@ -1,19 +1,31 @@
-"""One-off backfill: merge event clusters that duplicate an office_tourisme
-event but predate the cross-source dedup fix (src/event_dedup.py).
+"""One-off backfill: merge event clusters that cover the same real-world
+event but predate/evaded the cross-source dedup fix (src/event_dedup.py).
 
-For each current office_tourisme event cluster, finds other event clusters
-covering the same real-world event (date-window overlap + name similarity +
-embedding similarity) anywhere in the clusters table, and merges them into
-the office_tourisme cluster: moves their items over, re-synthesises the
-survivor from the combined item set, and deletes the duplicate cluster row.
+For each event cluster that still has items, finds other event clusters
+covering the same real-world event (date-window overlap + venue match, or
+name similarity + embedding similarity when venue is ambiguous) anywhere in
+the clusters table, and merges them into it: moves their items over,
+re-synthesises the survivor from the combined item set, and deletes the
+duplicate cluster row.
+
+NOT SAFE TO BLINDLY --apply ON THE FULL DATABASE. Confirmed false positives
+during development: two different churches both named after "Saint-Pierre"
+matched on token overlap; a roundup anchor covering several separate guided
+tours swallowed unrelated single-venue events. Name/embedding similarity on
+short event names cannot reliably tell "same real event, reworded" apart
+from "different event, similarly branded" -- always read the dry-run output
+line by line before applying, and consider merging only the specific
+cluster_ids you've manually verified (see _merge_cluster/_resynthesise,
+callable directly) rather than trusting the whole plan.
 
 Usage:
     python -m src.backfill_event_dedup            # dry run, prints matches only
-    python -m src.backfill_event_dedup --apply     # actually merge
+    python -m src.backfill_event_dedup --apply     # merge EVERYTHING in the plan -- review first
 """
 from __future__ import annotations
 
 import difflib
+import re
 import sys
 import unicodedata
 from datetime import date as _date, timedelta as _timedelta
@@ -27,10 +39,22 @@ TEXT_MATCH_THRESHOLD = 0.45
 EMBED_MATCH_THRESHOLD = 0.72
 PAD_DAYS = 3
 
+# Generic words that appear in most Toulouse-area venue names (city name,
+# articles/prepositions) -- left in, a raw character-ratio comparison scores
+# two UNRELATED venues as a "match" purely from sharing them. Confirmed:
+# "Banque de France Toulouse" vs "CREPS de Toulouse" (two different real
+# buildings) scored 0.62 on SequenceMatcher ratio (>= the old 0.6 threshold)
+# just from sharing "de Toulouse".
+_VENUE_STOPWORDS = {"de", "la", "le", "les", "du", "des", "l", "d", "a", "au", "aux", "toulouse"}
+
 
 def _norm(s: str) -> str:
     s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
     return s.lower().strip()
+
+
+def _venue_tokens(s: str) -> set[str]:
+    return {t for t in re.split(r"[^a-z0-9]+", s) if t and t not in _VENUE_STOPWORDS}
 
 
 def _venue_match(a: str, b: str) -> bool:
@@ -38,7 +62,12 @@ def _venue_match(a: str, b: str) -> bool:
         return False
     if a in b or b in a:
         return True
-    return difflib.SequenceMatcher(None, a, b).ratio() >= 0.6
+    ta, tb = _venue_tokens(a), _venue_tokens(b)
+    if not ta or not tb:
+        return False
+    # Overlap on distinctive tokens only -- ignores shared city name/filler
+    # words that would otherwise inflate a raw character-ratio comparison.
+    return len(ta & tb) / len(ta | tb) >= 0.5
 
 
 def _cluster_source(conn, cluster_id: str) -> str | None:
@@ -95,16 +124,30 @@ def _resynthesise(conn, cluster_id: str) -> None:
 
 
 def find_merges(conn) -> list[tuple[dict, list[tuple[dict, float]]]]:
-    """Returns [(office_tourisme_cluster, [(dup_cluster, similarity), ...]), ...]."""
+    """Returns [(anchor_cluster, [(dup_cluster, similarity), ...]), ...].
+
+    Anchors are event clusters that still have items (so _resynthesise can
+    actually recombine text into a fresh title/summary/venue) -- a cluster
+    with 0 items (pruned) can only ever be a *duplicate*, never a merge
+    target. Originally this only anchored on office_tourisme clusters, which
+    missed duplicate groups where no member happened to have an
+    office_tourisme item (e.g. two "Festival Sign'Ô" clusters from Tourinsoft
+    + L'Essentiel would work, but four "Festival MAP" clusters where only one
+    non-empty member was office_tourisme-sourced only got caught by luck).
+    """
     all_events = _all_event_clusters(conn)
-    by_id = {e["cluster_id"]: e for e in all_events}
-    ot_events = [e for e in all_events if _cluster_source(conn, e["cluster_id"]) == "office_tourisme"]
+    anchors = sorted(
+        (e for e in all_events if cache_mod.cluster_items(conn, e["cluster_id"])),
+        key=lambda e: e["cluster_id"],
+    )
 
     plan: list[tuple[dict, list[tuple[dict, float]]]] = []
     consumed: set[str] = set()
 
-    for ot in ot_events:
+    for ot in anchors:
         ot_id = ot["cluster_id"]
+        if ot_id in consumed:
+            continue
         start = ot["event_start"]
         end = ot.get("event_end") or start
         lo = (_date.fromisoformat(start) - _timedelta(days=PAD_DAYS)).isoformat()
@@ -129,9 +172,17 @@ def find_merges(conn) -> list[tuple[dict, list[tuple[dict, float]]]]:
             c for c in candidates
             if venue_a and _venue_match(venue_a, _norm(c.get("venue") or ""))
         ]
+        # A known venue conflict disqualifies the name/embedding path outright
+        # -- generic national-brand event names ("Journées du Patrimoine",
+        # recurring festivals) embed near-identically across genuinely
+        # distinct sub-events at different real locations, so embedding
+        # similarity alone is not trustworthy once both sides name a venue
+        # and those venues don't match. Only treat it as ambiguous (and thus
+        # still checkable via embedding) when at least one side lacks a venue.
         name_candidates = [
             c for c in candidates
             if c not in venue_matched
+            and not (venue_a and c.get("venue") and not _venue_match(venue_a, _norm(c.get("venue") or "")))
             and difflib.SequenceMatcher(
                 None, name_a, _norm(c.get("event_name") or c["title"])
             ).ratio() >= TEXT_MATCH_THRESHOLD
@@ -169,7 +220,8 @@ def main() -> None:
 
     total = 0
     for ot, matches in plan:
-        print(f"\noffice_tourisme: '{ot['title'][:60]}' ({ot['cluster_id']}) "
+        anchor_src = _cluster_source(conn, ot["cluster_id"])
+        print(f"\nanchor [{anchor_src}]: '{ot['title'][:60]}' ({ot['cluster_id']}) "
               f"[{ot['event_start']} -> {ot.get('event_end')}]")
         for c, sim in matches:
             src = _cluster_source(conn, c["cluster_id"])
@@ -180,9 +232,25 @@ def main() -> None:
             for c, _ in matches:
                 _merge_cluster(conn, c["cluster_id"], ot["cluster_id"])
             _resynthesise(conn, ot["cluster_id"])
+            # Venue may have changed during resynthesis (cache.upsert_cluster
+            # resets lat/lon when it does) -- re-geocode immediately so the
+            # merged survivor doesn't sit without coordinates until the next
+            # daily run.
+            cluster = cache_mod.load_cluster(conn, ot["cluster_id"])
+            if cluster and cluster.get("venue"):
+                row = conn.execute(
+                    "SELECT lat FROM clusters WHERE cluster_id=?", (ot["cluster_id"],)
+                ).fetchone()
+                if row and row["lat"] is None:
+                    from src import geocode as geocode_mod
+                    geo_cache = geocode_mod.load_cache()
+                    coords = geocode_mod.geocode_venue(cluster["venue"], geo_cache)
+                    geocode_mod.save_cache(geo_cache)
+                    lat, lon = coords if coords else (None, None)
+                    cache_mod.set_geocode(conn, ot["cluster_id"], lat, lon)
 
     print(f"\n{'Merged' if apply else 'Would merge'} {total} duplicate cluster(s) "
-          f"into {len(plan)} office_tourisme cluster(s).")
+          f"into {len(plan)} anchor cluster(s).")
     if not apply:
         print("Dry run only — rerun with --apply to actually merge.")
 

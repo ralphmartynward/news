@@ -90,6 +90,11 @@ body { display: flex; flex-direction: column; }
 .event-card-body { min-width: 0; }
 .event-card-name { font-size: 13px; font-weight: 700; color: #0f172a; line-height: 1.3; margin-bottom: 2px; }
 .event-card-venue { font-size: 12px; color: #64748b; line-height: 1.4; }
+.event-card-link {
+  display: inline-block; margin-top: 4px; font-size: 11px; font-weight: 700;
+  color: #16a34a; text-decoration: none;
+}
+.event-card-link:hover { text-decoration: underline; }
 .event-empty { text-align: center; color: #94a3b8; font-size: 13px; padding: 40px 16px; }
 
 .map-popup { font-size: 13px; max-width: 220px; }
@@ -148,6 +153,9 @@ const map = new maplibregl.Map({
 map.addControl(new maplibregl.NavigationControl(), "top-right");
 
 let ALL_EVENTS = [];
+let currentEvents = []; // events shown for the currently-selected date; kept
+                         // fresh on every updateMap() call so the click
+                         // handler (registered once) never reads stale data.
 let popup = null;
 
 function todayStr() {
@@ -180,6 +188,7 @@ function renderPanel(events) {
       <div class="event-card-body">
         <div class="event-card-name">${esc(e.name)}</div>
         <div class="event-card-venue">${esc(e.venue || "")}</div>
+        ${e.url ? `<a class="event-card-link" href="${esc(e.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Voir l'article →</a>` : ""}
       </div>
     </div>
   `).join("");
@@ -213,6 +222,7 @@ function showPopup(e) {
 
 function updateMap(iso) {
   const events = eventsForDate(iso).filter(e => e.lat && e.lon);
+  currentEvents = events;
   const countEl = document.getElementById("date-count");
   countEl.textContent = `${events.length} événement${events.length !== 1 ? "s" : ""} — ${fmtDateLabel(iso)}`;
 
@@ -221,7 +231,7 @@ function updateMap(iso) {
     features: events.map(e => ({
       type: "Feature",
       geometry: { type: "Point", coordinates: [e.lon, e.lat] },
-      properties: { name: e.name },
+      properties: { id: e.id, name: e.name },
     })),
   };
 
@@ -236,11 +246,17 @@ function updateMap(iso) {
         "circle-stroke-width": 2, "circle-stroke-color": "#fff",
       },
     });
+    // Look the clicked feature up by its stable id in currentEvents (always
+    // fresh for whatever date is selected) rather than indexing into the
+    // geojson/events captured when this handler was registered -- MapLibre
+    // doesn't guarantee the feature object passed to the handler is the same
+    // JS reference that was put into the source, so an identity-based index
+    // lookup (geojson.features.indexOf(f)) silently fails, and closing over
+    // the events array from the first render goes stale after a date change.
     map.on("click", "events-circle", (ev) => {
       const f = ev.features?.[0];
       if (!f) return;
-      const idx = geojson.features.indexOf(f);
-      const e = events[idx];
+      const e = currentEvents.find(ev2 => ev2.id === f.properties.id);
       if (e) showPopup(e);
     });
     map.on("mouseenter", "events-circle", () => { map.getCanvas().style.cursor = "pointer"; });

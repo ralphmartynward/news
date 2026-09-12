@@ -222,7 +222,11 @@ def upsert_cluster(
              ig_mention          = COALESCE(excluded.ig_mention, clusters.ig_mention),
              listicle_items      = COALESCE(excluded.listicle_items, clusters.listicle_items),
              highlight           = COALESCE(excluded.highlight, clusters.highlight),
-             image_url           = COALESCE(excluded.image_url, clusters.image_url)""",
+             image_url           = COALESCE(excluded.image_url, clusters.image_url),
+             lat = CASE WHEN excluded.venue IS NOT NULL AND excluded.venue IS NOT clusters.venue
+                        THEN NULL ELSE clusters.lat END,
+             lon = CASE WHEN excluded.venue IS NOT NULL AND excluded.venue IS NOT clusters.venue
+                        THEN NULL ELSE clusters.lon END""",
         (
             cluster_id,
             title,
