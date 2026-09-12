@@ -154,11 +154,16 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 .news-card {
   background: #fff;
   border: 1px solid rgba(0,0,0,0.08); border-radius: 14px;
-  padding: 18px;
+  overflow: hidden;
   box-shadow: 0 1px 6px rgba(0,0,0,.05);
   text-decoration: none; color: inherit;
   display: flex; flex-direction: column;
   transition: transform 150ms, box-shadow 150ms, border-color 150ms;
+}
+.news-card-body { padding: 18px; display: flex; flex-direction: column; flex: 1; }
+.news-img {
+  width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
+  display: block; background: #f1f5f9;
 }
 .news-card:hover {
   transform: translateY(-2px);
@@ -362,11 +367,13 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
 }
 .calw-ev-card {
   background: #fff; border: 1px solid rgba(0,0,0,0.08);
-  border-radius: 10px; padding: 12px 14px; margin-bottom: 8px;
+  border-radius: 10px; margin-bottom: 8px; overflow: hidden;
   color: inherit; transition: border-color 150ms, box-shadow 150ms;
   position: relative;
 }
 .calw-ev-card:hover { border-color: #4ade80; box-shadow: 0 2px 8px rgba(74,222,128,0.12); }
+.calw-ev-img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: #f1f5f9; }
+.calw-ev-card-body { padding: 12px 14px; }
 .calw-ev-title   { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
 .calw-ev-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 10px; }
 .calw-ev-footer  { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
@@ -499,43 +506,55 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
       <div class="news-grid">
         
         <a class="news-card" href="https://www.toulouscope.fr/2026/09/06/13-sites-en-occitanie-dont-un-en-haute-garonne-selectionnes-au-loto-du-patrimoine-2026-13529806.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Toulouscope</span>
-            <span class="news-time">6 septembre, 11:36</span>
+          <img class="news-img" src="https://images.toulouscope.fr/api/v1/images/view/6a95940154139f82bc053ed4/hd/image.jpg?v=2" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-news">Toulouscope</span>
+              <span class="news-time">6 septembre, 11:36</span>
+            </div>
+            <h3 class="news-title">Le château de La Salvetat-Saint-Gilles retenu au Loto du Patrimoine 2026</h3>
+            <p class="news-summary">Pour sa neuvième édition, le Loto du patrimoine sélectionne 100 sites en péril à travers la France, dont 13 en Occitanie. En Haute-Garonne, c&#39;est le château de La Salvetat-Saint-Gilles, à l&#39;ouest de Toulouse, qui figure parmi les lauréats. La liste officielle a été annoncée le 31 août 2026, après étude de près de 650 candidatures. Le dispositif, porté par Stéphane Bern avec le soutien du ministère de la Culture et de FDJ United, existe depuis 2018 et a permis de signaler plus de 7 000 sites en…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Le château de La Salvetat-Saint-Gilles retenu au Loto du Patrimoine 2026</h3>
-          <p class="news-summary">Pour sa neuvième édition, le Loto du patrimoine sélectionne 100 sites en péril à travers la France, dont 13 en Occitanie. En Haute-Garonne, c&#39;est le château de La Salvetat-Saint-Gilles, à l&#39;ouest de Toulouse, qui figure parmi les lauréats. La liste officielle a été annoncée le 31 août 2026, après étude de près de 650 candidatures. Le dispositif, porté par Stéphane Bern avec le soutien du ministère de la Culture et de FDJ United, existe depuis 2018 et a permis de signaler plus de 7 000 sites en…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-voie-royale-vers-l-emploi-le-lycee-airbus-va-accueillir-deux-fois-plus-d-eleves_64749501.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">6 septembre, 11:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/lycee-airbus-toulouse-eleves-salle.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-news">Actu Toulouse</span>
+              <span class="news-time">6 septembre, 11:36</span>
+            </div>
+            <h3 class="news-title">Le Lycée Airbus va doubler sa capacité à 900 élèves d&#39;ici 2030</h3>
+            <p class="news-summary">Le Lycée Airbus, établissement professionnel privé unique en France implanté au sein de l&#39;usine Saint-Éloi à Toulouse, va doubler sa capacité d&#39;accueil, passant d&#39;environ 450 à 900 étudiants d&#39;ici 2030. L&#39;annonce a été faite par le président exécutif d&#39;Airbus, Guillaume Faury, le 3 septembre 2026, lors d&#39;un échange avec des journalistes de la presse régionale. Fondé il y a 77 ans sous le nom d&#39;École professionnelle de l&#39;industrie aéronautique, cet établissement est réputé pour être une voie…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Le Lycée Airbus va doubler sa capacité à 900 élèves d&#39;ici 2030</h3>
-          <p class="news-summary">Le Lycée Airbus, établissement professionnel privé unique en France implanté au sein de l&#39;usine Saint-Éloi à Toulouse, va doubler sa capacité d&#39;accueil, passant d&#39;environ 450 à 900 étudiants d&#39;ici 2030. L&#39;annonce a été faite par le président exécutif d&#39;Airbus, Guillaume Faury, le 3 septembre 2026, lors d&#39;un échange avec des journalistes de la presse régionale. Fondé il y a 77 ans sous le nom d&#39;École professionnelle de l&#39;industrie aéronautique, cet établissement est réputé pour être une voie…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/cette-place-tres-frequentee-du-centre-ville-de-toulouse-va-etre-le-theatre-de-plusieurs-semaines-de-travaux_64746762.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">6 septembre, 11:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/20260901-124105.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-news">Actu Toulouse</span>
+              <span class="news-time">6 septembre, 11:36</span>
+            </div>
+            <h3 class="news-title">Travaux rue Clémence Isaure : circulation modifiée près de la place de la Bourse</h3>
+            <p class="news-summary">Dès le lundi 7 septembre 2026 et jusqu&#39;à la mi-décembre, la rue Clémence Isaure, qui part de la place de la Bourse, sera transformée en impasse pour permettre la rénovation des branchements d&#39;eaux usées. Le sens de circulation de la rue Jacques-Cujas sera inversé, mais l&#39;accès riverain sera maintenu. Le chantier concerne notamment les abords du Goethe-Institut de Toulouse et de l&#39;Agence française des Chemins de Compostelle. La mairie assure que les nuisances (bruit, poussière) seront minimes et…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Travaux rue Clémence Isaure : circulation modifiée près de la place de la Bourse</h3>
-          <p class="news-summary">Dès le lundi 7 septembre 2026 et jusqu&#39;à la mi-décembre, la rue Clémence Isaure, qui part de la place de la Bourse, sera transformée en impasse pour permettre la rénovation des branchements d&#39;eaux usées. Le sens de circulation de la rue Jacques-Cujas sera inversé, mais l&#39;accès riverain sera maintenu. Le chantier concerne notamment les abords du Goethe-Institut de Toulouse et de l&#39;Agence française des Chemins de Compostelle. La mairie assure que les nuisances (bruit, poussière) seront minimes et…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/un-sans-abri-evacue-a-l-hopital-apres-avoir-ete-touche-par-un-parpaing-jete-d-une-hauteur-de-cinq-metres-a-toulouse_64752816.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">6 septembre, 11:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/04/a2321a3e00d96b6321a3e00d9ba321v.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-news">Actu Toulouse</span>
+              <span class="news-time">6 septembre, 11:36</span>
+            </div>
+            <h3 class="news-title">Un sans-abri grièvement blessé par un parpaing boulevard Matabiau</h3>
+            <p class="news-summary">Dans la nuit du dimanche 6 septembre 2026, vers 4h17, un homme d&#39;une quarantaine d&#39;années sans domicile fixe a été grièvement blessé à la jambe par un parpaing jeté d&#39;une hauteur de cinq mètres boulevard Matabiau à Toulouse. Les secours ont dépêché 14 sapeurs-pompiers et neuf véhicules, dont une unité spécialisée en milieu périlleux pour atteindre la victime, difficile d&#39;accès. L&#39;homme a été évacué en urgence absolue vers l&#39;hôpital de Purpan. Une enquête a été ouverte par la police pour…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Un sans-abri grièvement blessé par un parpaing boulevard Matabiau</h3>
-          <p class="news-summary">Dans la nuit du dimanche 6 septembre 2026, vers 4h17, un homme d&#39;une quarantaine d&#39;années sans domicile fixe a été grièvement blessé à la jambe par un parpaing jeté d&#39;une hauteur de cinq mètres boulevard Matabiau à Toulouse. Les secours ont dépêché 14 sapeurs-pompiers et neuf véhicules, dont une unité spécialisée en milieu périlleux pour atteindre la victime, difficile d&#39;accès. L&#39;homme a été évacué en urgence absolue vers l&#39;hôpital de Purpan. Une enquête a été ouverte par la police pour…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
       </div>
@@ -547,13 +566,16 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
       <div class="news-grid">
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/le-seul-barbecue-japonais-de-toulouse-ce-nouveau-restaurant-ludique-joue-la-carte-de-l-excellence_64731457.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-place">Actu Toulouse</span>
-            <span class="news-time">6 septembre, 11:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/20260901-132618.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-place">Actu Toulouse</span>
+              <span class="news-time">6 septembre, 11:36</span>
+            </div>
+            <h3 class="news-title">Wagyuya : le premier restaurant barbecue japonais de Toulouse</h3>
+            <p class="news-summary">Le Wagyuya a ouvert ses portes au 37 rue des Couteliers, dans les locaux du célèbre restaurant Katana, fermé en avril 2026 après une vingtaine d&#39;années d&#39;activité. Il s&#39;agit du premier établissement de Toulouse à proposer le concept du barbecue japonais, dit yakiniku : chaque table est équipée d&#39;un barbecue au charbon avec plaque chauffante et hotte aspirante. La carte met à l&#39;honneur des viandes de qualité — bœuf black Angus, porc noir de Bigorre, poulet mariné au miso rouge et wagyu japonais…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Wagyuya : le premier restaurant barbecue japonais de Toulouse</h3>
-          <p class="news-summary">Le Wagyuya a ouvert ses portes au 37 rue des Couteliers, dans les locaux du célèbre restaurant Katana, fermé en avril 2026 après une vingtaine d&#39;années d&#39;activité. Il s&#39;agit du premier établissement de Toulouse à proposer le concept du barbecue japonais, dit yakiniku : chaque table est équipée d&#39;un barbecue au charbon avec plaque chauffante et hotte aspirante. La carte met à l&#39;honneur des viandes de qualité — bœuf black Angus, porc noir de Bigorre, poulet mariné au miso rouge et wagyu japonais…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
       </div>
@@ -565,33 +587,42 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
       <div class="news-grid">
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/des-centaines-d-artistes-ont-dessine-toulouse-voici-a-quoi-ressemble-la-ville-rose-sous-leurs-pinceaux_64719812.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-culture">Actu Toulouse</span>
-            <span class="news-time">6 septembre, 11:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/08/toulouse-dessin-1.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-culture">Actu Toulouse</span>
+              <span class="news-time">6 septembre, 11:36</span>
+            </div>
+            <h3 class="news-title">Toulouse vue par des centaines d&#39;artistes au Symposium Urban Sketchers</h3>
+            <p class="news-summary">Du 15 au 18 juillet 2026, des centaines d&#39;artistes venus du monde entier ont participé au Symposium Urban Sketchers à Toulouse, croquant sur le vif les rues, bâtiments et paysages de la Ville rose. Pendant quatre jours, chaque participant a livré sa propre vision de Toulouse, des grands monuments aux recoins moins fréquentés. Actu Toulouse a recueilli des témoignages d&#39;artistes, dont Sharvey Salkar, venu d&#39;Allemagne, qui a notamment immortalisé la place Saintes-Scarbes et un coucher de soleil…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Toulouse vue par des centaines d&#39;artistes au Symposium Urban Sketchers</h3>
-          <p class="news-summary">Du 15 au 18 juillet 2026, des centaines d&#39;artistes venus du monde entier ont participé au Symposium Urban Sketchers à Toulouse, croquant sur le vif les rues, bâtiments et paysages de la Ville rose. Pendant quatre jours, chaque participant a livré sa propre vision de Toulouse, des grands monuments aux recoins moins fréquentés. Actu Toulouse a recueilli des témoignages d&#39;artistes, dont Sharvey Salkar, venu d&#39;Allemagne, qui a notamment immortalisé la place Saintes-Scarbes et un coucher de soleil…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/cinema-oklahoma-honey-faut-il-aller-voir-ce-film-entre-poesie-naturaliste-et-western-sanglant_64698853.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-culture">Actu Toulouse</span>
-            <span class="news-time">6 septembre, 11:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/08/oklaoma.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-culture">Actu Toulouse</span>
+              <span class="news-time">6 septembre, 11:36</span>
+            </div>
+            <h3 class="news-title">Oklahoma Honey : entre poésie naturaliste et western sanglant</h3>
+            <p class="news-summary">Oklahoma Honey est le second long-métrage d&#39;Andrew Patterson, réalisateur originaire de l&#39;Oklahoma, qui signe une œuvre à la croisée du conte rural et du western. Le film suit Amziah, apiculteur bienveillant vivant en marge de la société avec une petite communauté de laissés-pour-compte, unis par la musique bluegrass et le monde des abeilles. L&#39;intrigue bascule dans la violence lorsque des voleurs de ruches s&#39;en prennent à lui, forçant la communauté à réagir, notamment avec l&#39;aide de Kateri…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Oklahoma Honey : entre poésie naturaliste et western sanglant</h3>
-          <p class="news-summary">Oklahoma Honey est le second long-métrage d&#39;Andrew Patterson, réalisateur originaire de l&#39;Oklahoma, qui signe une œuvre à la croisée du conte rural et du western. Le film suit Amziah, apiculteur bienveillant vivant en marge de la société avec une petite communauté de laissés-pour-compte, unis par la musique bluegrass et le monde des abeilles. L&#39;intrigue bascule dans la violence lorsque des voleurs de ruches s&#39;en prennent à lui, forçant la communauté à réagir, notamment avec l&#39;aide de Kateri…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/cartes-pokemon-magic-figurines-et-autres-collectors-la-culture-geek-a-toulouse-en-six-boutiques-incontournables_64737385.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-culture">Actu Toulouse</span>
-            <span class="news-time">6 septembre, 11:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/20190711-103508.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-culture">Actu Toulouse</span>
+              <span class="news-time">6 septembre, 11:36</span>
+            </div>
+            <h3 class="news-title">Six boutiques geek incontournables pour collectors à Toulouse</h3>
+            <p class="news-summary">Actu Toulouse a sélectionné six boutiques spécialisées dans la culture geek à Toulouse, pour les amateurs de cartes Pokémon, figurines collectors, mangas, animés et pop culture en général. En tête de liste, Imagin&#39;ères (17 rue Sainte-Ursule), considérée comme l&#39;institution geek de la ville, avec une aile dédiée à Harry Potter et des pièces allant de quelques euros à plusieurs centaines. Liberty Toys (14 rue du Taur) est décrit comme une caverne d&#39;Ali Baba fréquentée depuis plus de 20 ans par…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Six boutiques geek incontournables pour collectors à Toulouse</h3>
-          <p class="news-summary">Actu Toulouse a sélectionné six boutiques spécialisées dans la culture geek à Toulouse, pour les amateurs de cartes Pokémon, figurines collectors, mangas, animés et pop culture en général. En tête de liste, Imagin&#39;ères (17 rue Sainte-Ursule), considérée comme l&#39;institution geek de la ville, avec une aile dédiée à Harry Potter et des pièces allant de quelques euros à plusieurs centaines. Liberty Toys (14 rue du Taur) est décrit comme une caverne d&#39;Ali Baba fréquentée depuis plus de 20 ans par…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
       </div>

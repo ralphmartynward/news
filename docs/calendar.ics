@@ -10667,6 +10667,27 @@ URL:https://www.clutchmag.fr/evenements#2026-09-10-samedi-12-septembre-2?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d709db3e-5a45-46f6-8591-5c41143a1e29@news.lavillerose.com
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20261102
+SUMMARY:Raves et free-parties interdites en Haute-Garonne jusqu'au 1er nove
+ mbre
+DESCRIPTION:La préfecture de Haute-Garonne a pris un arrêté le 12 septem
+ bre 2026 interdisant tous les rassemblements festifs non autorisés ainsi 
+ que le transport de matériel sonore sur les routes du département jusqu'
+ au 1er novembre. Cette décision fait suite à une série d'épisodes réc
+ urrents de teknival\, raves et free-parties jugés problématiques par les
+  services de l'État. La préfecture invoque des risques pour la santé pu
+ blique — consommation massive d'alcool et vente de stupéfiants — ains
+ i que des nuisa\n\nSource\: https://actu.fr/occitanie/toulouse_31555/raves
+ -et-free-parties-en-haute-garonne-jusqu-a-30-000-d-amende-pour-les-organis
+ ateurs-le-prefet-hausse-le-ton_64781316.html
+URL:https://actu.fr/occitanie/toulouse_31555/raves-et-free-parties-en-haute
+ -garonne-jusqu-a-30-000-d-amende-pour-les-organisateurs-le-prefet-hausse-l
+ e-ton_64781316.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5ef1727d-f22b-44f7-9cdd-218e5aa7cda1@news.lavillerose.com
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
@@ -13591,6 +13612,25 @@ DESCRIPTION:La pièce George Kaplan est présentée à l'Espace Roguet le 2
 LOCATION:Espace Roguet le 25 septembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/george-kaplan/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:dba83357-da99-4e81-8142-01481e0ee73d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:HEXAGONE MMA Toulouse
+DESCRIPTION:L'organisation de MMA HEXAGONE MMA\, fondée à Toulouse en 202
+ 1\, annonce son retour au Zénith de Toulouse le 25 septembre pour une gra
+ nde soirée de combats. La carte mettra largement à l'honneur les talents
+  du Sud-Ouest\, avec en tête d'affiche le Toulousain Owen Jason\, invainc
+ u en cinq combats professionnels\, qui affrontera le Moldave Nicolae Bivol
+ . Mahamadou Soukouna\, auteur de cinq victoires consécutives sous la bann
+ ière HEXAGONE MMA\, sera également de la partie face à Elie Caille. L'
+ événement c\n\nSource\: https://www.toulouscope.fr/2026/09/12/hexagone-m
+ ma-fait-son-grand-retour-a-toulouse-une-soiree-de-combats-xxl-annoncee-au-
+ zenith-13503499.php
+URL:https://www.toulouscope.fr/2026/09/12/hexagone-mma-fait-son-grand-retou
+ r-a-toulouse-une-soiree-de-combats-xxl-annoncee-au-zenith-13503499.php?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc@news.lavillerose.com
@@ -22840,24 +22880,6 @@ LOCATION:salle de spectacle de la banlieue toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/le-petit-prince-billet/idm
  anif/662126/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:08680ce0-df31-4194-ba63-9bf936dbdbfe@news.lavillerose.com
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-SUMMARY:500 Voix pour Johnny
-DESCRIPTION:Deux spectacles rendent hommage à Johnny Hallyday au Zénith T
- oulouse Métropole. Le premier\, « 500 Voix pour Johnny »\, est programm
- é le 28 février 2027 et promet un hommage choral à grande échelle. Le 
- second\, « Johnny Symphonique Tour »\, se tient le 26 février 2028\, av
- ec une formule VIP également disponible pour cet événement. Ces spectac
- les s'adressent aux fans de l'icône de la chanson française souhaitant r
- evivre son répertoire dans une version orchestrale et scénique.\n\nSourc
- e\: https://www.ticketmaster.fr/fr/manifestation/500-voix-pour-johnny-bill
- et/idmanif/652900/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/500-voix-pour-johnny-bille
- t/idmanif/652900/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_c
- ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:40cbf921-5ec4-48d4-a887-bcba57b380f5@news.lavillerose.com

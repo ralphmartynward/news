@@ -154,11 +154,16 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 .news-card {
   background: #fff;
   border: 1px solid rgba(0,0,0,0.08); border-radius: 14px;
-  padding: 18px;
+  overflow: hidden;
   box-shadow: 0 1px 6px rgba(0,0,0,.05);
   text-decoration: none; color: inherit;
   display: flex; flex-direction: column;
   transition: transform 150ms, box-shadow 150ms, border-color 150ms;
+}
+.news-card-body { padding: 18px; display: flex; flex-direction: column; flex: 1; }
+.news-img {
+  width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
+  display: block; background: #f1f5f9;
 }
 .news-card:hover {
   transform: translateY(-2px);
@@ -362,11 +367,13 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
 }
 .calw-ev-card {
   background: #fff; border: 1px solid rgba(0,0,0,0.08);
-  border-radius: 10px; padding: 12px 14px; margin-bottom: 8px;
+  border-radius: 10px; margin-bottom: 8px; overflow: hidden;
   color: inherit; transition: border-color 150ms, box-shadow 150ms;
   position: relative;
 }
 .calw-ev-card:hover { border-color: #4ade80; box-shadow: 0 2px 8px rgba(74,222,128,0.12); }
+.calw-ev-img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: #f1f5f9; }
+.calw-ev-card-body { padding: 12px 14px; }
 .calw-ev-title   { font-size: 14px; font-weight: 700; color: #0f172a; margin: 0 0 5px; line-height: 1.3; }
 .calw-ev-summary { font-size: 12px; color: #64748b; line-height: 1.5; margin: 0 0 10px; }
 .calw-ev-footer  { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
@@ -501,43 +508,55 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
       <div class="news-grid">
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/la-grand-pizzeria-placee-en-liquidation-judiciaire-la-fin-d-une-institution-qui-a-regale-toulouse-pendant-plus-de-50-ans_64756505.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/1000015831.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-news">Actu Toulouse</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">La Grand&#39;Pizzeria placée en liquidation judiciaire après 50 ans rue Castellane</h3>
+            <p class="news-summary">La Grand&#39;Pizzeria, l&#39;une des plus vieilles pizzerias de Toulouse installée rue Castellane depuis 1974, a été placée en liquidation judiciaire par le tribunal de Toulouse en août 2026. Le rideau est resté fermé à la rentrée de septembre, marquant la fin d&#39;une institution qui avait fidélisé des générations de Toulousains grâce à ses pizzas au feu de bois et ses prix accessibles. L&#39;établissement avait pourtant été repris à l&#39;automne 2023, à la veille de son cinquantième anniversaire, avec…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">La Grand&#39;Pizzeria placée en liquidation judiciaire après 50 ans rue Castellane</h3>
-          <p class="news-summary">La Grand&#39;Pizzeria, l&#39;une des plus vieilles pizzerias de Toulouse installée rue Castellane depuis 1974, a été placée en liquidation judiciaire par le tribunal de Toulouse en août 2026. Le rideau est resté fermé à la rentrée de septembre, marquant la fin d&#39;une institution qui avait fidélisé des générations de Toulousains grâce à ses pizzas au feu de bois et ses prix accessibles. L&#39;établissement avait pourtant été repris à l&#39;automne 2023, à la veille de son cinquantième anniversaire, avec…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/une-impasse-permanente-le-viol-qu-elle-denonce-ne-sera-pas-juge-son-ex-condamne-pour-violences-a-toulouse_64756845.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/tribunal-toulouse-3.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-news">Actu Toulouse</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Son ex condamné pour violences, le viol dénoncé ne sera pas jugé</h3>
+            <p class="news-summary">Bruno G. était jugé à Toulouse le 3 septembre 2026 pour violences conjugales sur son ex-compagne Amélie, qui décrit cinq ans d&#39;emprise, de coups et de harcèlement post-séparation. L&#39;accusé nie avoir jamais frappé la victime, mais le président d&#39;audience lui reproche une jalousie et un contrôle excessifs sur le quotidien d&#39;Amélie. L&#39;audience a été marquée par l&#39;absence d&#39;Amélie et par la présence persistante d&#39;un autre volet judiciaire : le viol qu&#39;elle dénonce, pour lequel les poursuites ont…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Son ex condamné pour violences, le viol dénoncé ne sera pas jugé</h3>
-          <p class="news-summary">Bruno G. était jugé à Toulouse le 3 septembre 2026 pour violences conjugales sur son ex-compagne Amélie, qui décrit cinq ans d&#39;emprise, de coups et de harcèlement post-séparation. L&#39;accusé nie avoir jamais frappé la victime, mais le président d&#39;audience lui reproche une jalousie et un contrôle excessifs sur le quotidien d&#39;Amélie. L&#39;audience a été marquée par l&#39;absence d&#39;Amélie et par la présence persistante d&#39;un autre volet judiciaire : le viol qu&#39;elle dénonce, pour lequel les poursuites ont…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/ex-joueuse-de-rugby-et-future-gendarme-qui-est-carla-rachail-qui-brigue-le-titre-de-miss-france-2027-depuis-toulouse_64754998.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/carla-rachail-miss-midi-pyrenees.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-news">Actu Toulouse</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Carla Rachail, ex-rugbywoman et future gendarme, élue Miss Midi-Pyrénées</h3>
+            <p class="news-summary">Carla Rachail, 23 ans, a été élue Miss Midi-Pyrénées le samedi 5 septembre 2026, devant 11 autres candidates. Déjà couronnée Miss Toulouse 2026 en mars dernier, elle représentera la région à l&#39;élection de Miss France 2027, diffusée sur TF1 le 12 décembre prochain. Son parcours atypique retient l&#39;attention : ancienne espoir du rugby féminin au Stade Toulousain, elle a également réussi le concours de sous-officier de gendarmerie. Elle se prépare activement à l&#39;élection nationale grâce à un…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Carla Rachail, ex-rugbywoman et future gendarme, élue Miss Midi-Pyrénées</h3>
-          <p class="news-summary">Carla Rachail, 23 ans, a été élue Miss Midi-Pyrénées le samedi 5 septembre 2026, devant 11 autres candidates. Déjà couronnée Miss Toulouse 2026 en mars dernier, elle représentera la région à l&#39;élection de Miss France 2027, diffusée sur TF1 le 12 décembre prochain. Son parcours atypique retient l&#39;attention : ancienne espoir du rugby féminin au Stade Toulousain, elle a également réussi le concours de sous-officier de gendarmerie. Elle se prépare activement à l&#39;élection nationale grâce à un…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/apres-12-ans-de-fermeture-le-chantier-de-la-renaissance-demarre-pour-l-un-des-immeubles-les-plus-atypiques-de-toulouse_64757142.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-news">Actu Toulouse</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/1000014802.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-news">Actu Toulouse</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">L&#39;immeuble Perry face à Esquirol sort enfin de 12 ans de fermeture</h3>
+            <p class="news-summary">L&#39;immeuble Perry, bâtiment emblématique du centre-ville de Toulouse avec sa façade en marbre rose de Vérone, sort enfin de sa longue torpeur : des travaux de rénovation et de réorganisation ont débuté depuis la mi-août 2026, après plus de douze ans de fermeture. L&#39;enseigne de prêt-à-porter et lingerie Perry avait fermé ses portes en 2015, laissant le rez-de-chaussée masqué derrière une palissade depuis lors. L&#39;immeuble de cinq niveaux, idéalement situé au carrefour de deux grands axes…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">L&#39;immeuble Perry face à Esquirol sort enfin de 12 ans de fermeture</h3>
-          <p class="news-summary">L&#39;immeuble Perry, bâtiment emblématique du centre-ville de Toulouse avec sa façade en marbre rose de Vérone, sort enfin de sa longue torpeur : des travaux de rénovation et de réorganisation ont débuté depuis la mi-août 2026, après plus de douze ans de fermeture. L&#39;enseigne de prêt-à-porter et lingerie Perry avait fermé ses portes en 2015, laissant le rez-de-chaussée masqué derrière une palissade depuis lors. L&#39;immeuble de cinq niveaux, idéalement situé au carrefour de deux grands axes…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
       </div>
@@ -549,163 +568,211 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
       <div class="news-grid">
         
         <a class="news-card" href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-08?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#49182" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">L&#39;Essentiel</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/compostage-adobestock_636247746.jpg?h=df2a1ca5&amp;itok=r4u7_zeG" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">L&#39;Essentiel</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Stands gratuits sur le compostage des déchets alimentaires à Toulouse</h3>
+            <p class="news-summary">Toulouse Métropole organise des stands d&#39;information gratuits pour accompagner le déploiement de bornes de collecte de déchets alimentaires sur le territoire. Un premier stand a lieu place de la Croix de Pierre (côté rue de la Digue) à 16h, suivi d&#39;un autre jeudi place du Marché aux Cochons aux Minimes de 16h à 19h, puis vendredi 11 septembre au marché des Ponts Jumeaux aux mêmes horaires. Ces événements permettent aux habitants de poser leurs questions sur le compostage et de repartir avec un…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Stands gratuits sur le compostage des déchets alimentaires à Toulouse</h3>
-          <p class="news-summary">Toulouse Métropole organise des stands d&#39;information gratuits pour accompagner le déploiement de bornes de collecte de déchets alimentaires sur le territoire. Un premier stand a lieu place de la Croix de Pierre (côté rue de la Digue) à 16h, suivi d&#39;un autre jeudi place du Marché aux Cochons aux Minimes de 16h à 19h, puis vendredi 11 septembre au marché des Ponts Jumeaux aux mêmes horaires. Ces événements permettent aux habitants de poser leurs questions sur le compostage et de repartir avec un…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-08?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#49235" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">L&#39;Essentiel</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/cloitre-augustins--charline-poullain.jpg?h=1ca577fc&amp;itok=zdxAjoXM" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">L&#39;Essentiel</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Le Dîner des Colonnes au musée des Augustins pour la restauration</h3>
+            <p class="news-summary">Ce soir à 20h, un dîner de prestige baptisé « Dîner des Colonnes » est organisé au musée des Augustins afin de lever des fonds pour la restauration des 160 colonnes et chapiteaux en marbre du grand cloître. Le chantier, lancé début 2026, vise à consolider, stabiliser et nettoyer ces colonnes dont les croûtes noires rongent progressivement le marbre et la pierre. Les travaux, menés aile par aile, s&#39;étaleront sur plusieurs années, avec une réouverture prévue au printemps 2027. À noter : le musée…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Le Dîner des Colonnes au musée des Augustins pour la restauration</h3>
-          <p class="news-summary">Ce soir à 20h, un dîner de prestige baptisé « Dîner des Colonnes » est organisé au musée des Augustins afin de lever des fonds pour la restauration des 160 colonnes et chapiteaux en marbre du grand cloître. Le chantier, lancé début 2026, vise à consolider, stabiliser et nettoyer ces colonnes dont les croûtes noires rongent progressivement le marbre et la pierre. Les travaux, menés aile par aile, s&#39;étaleront sur plusieurs années, avec une réouverture prévue au printemps 2027. À noter : le musée…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-08?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#49157" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">L&#39;Essentiel</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/piano-jacobin--c--arno---adrien.jpg?h=487999fe&amp;itok=fM7VXSzy" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">L&#39;Essentiel</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Festival Piano aux Jacobins : 47e édition au cloître toulousain</h3>
+            <p class="news-summary">Du 8 au 30 septembre 2026, le festival Piano aux Jacobins célèbre sa 47e édition sous les voûtes du cloître des Jacobins à Toulouse. Cette édition honore deux anniversaires majeurs : les 150 ans de la naissance de Manuel de Falla et les 100 ans de György Kurtág. Le programme mêle grandes signatures (Pierre-Laurent Aimard, Vadym Kholodenko, Jonathan Biss) et jeunes talents à découvrir (Magdalene Ho, Nabeel Hayek), avec une place accordée au jazz via Paul Lay et Karla Martinez. Parmi les temps…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Festival Piano aux Jacobins : 47e édition au cloître toulousain</h3>
-          <p class="news-summary">Du 8 au 30 septembre 2026, le festival Piano aux Jacobins célèbre sa 47e édition sous les voûtes du cloître des Jacobins à Toulouse. Cette édition honore deux anniversaires majeurs : les 150 ans de la naissance de Manuel de Falla et les 100 ans de György Kurtág. Le programme mêle grandes signatures (Pierre-Laurent Aimard, Vadym Kholodenko, Jonathan Biss) et jeunes talents à découvrir (Magdalene Ho, Nabeel Hayek), avec une place accordée au jazz via Paul Lay et Karla Martinez. Parmi les temps…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/preambule-du-festival-de-rue-de-ramonville-2026-a-toulouse/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/f1fd1dec39424081a0094f60cec0f6e8.full.image-30d331a9aec84ea886a4ff85ec6210c2.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Préambule du Festival de Rue de Ramonville place Bagatelle</h3>
+            <p class="news-summary">Le 39e Festival de Rue de Ramonville ouvre ses festivités avec une soirée de préambule le 9 septembre 2026, place Geneviève Anthonioz de Gaulle, à proximité de la station de métro Bagatelle. Au programme dès 15h, la chanteuse et rappeuse toulousaine Houriaa propose un concert mêlant pop urbaine, rap, jazz et soul, accessible aux personnes mal et non-voyantes. À 15h30, le spectacle RésonanceS d&#39;À Corps D&#39; met en scène la rencontre insolite d&#39;une harpiste et d&#39;un acrobate, pour un public de 3 à…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Préambule du Festival de Rue de Ramonville place Bagatelle</h3>
-          <p class="news-summary">Le 39e Festival de Rue de Ramonville ouvre ses festivités avec une soirée de préambule le 9 septembre 2026, place Geneviève Anthonioz de Gaulle, à proximité de la station de métro Bagatelle. Au programme dès 15h, la chanteuse et rappeuse toulousaine Houriaa propose un concert mêlant pop urbaine, rap, jazz et soul, accessible aux personnes mal et non-voyantes. À 15h30, le spectacle RésonanceS d&#39;À Corps D&#39; met en scène la rencontre insolite d&#39;une harpiste et d&#39;un acrobate, pour un public de 3 à…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-zenith/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/Zenith-de-Toulouse-copie.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Journées du Patrimoine : coulisses du Zénith Toulouse Métropole</h3>
+            <p class="news-summary">À l&#39;occasion des Journées Européennes du Patrimoine, le Zénith Toulouse Métropole ouvre exceptionnellement ses portes au public le 20 septembre 2026. La visite se déroule pendant la journée de montage du Festival OZ, permettant de découvrir les coulisses, les espaces backstage et les balances de concerts. Le Zénith est l&#39;une des rares salles françaises capables d&#39;accueillir plus de 10 000 spectateurs, ce qui en fait un lieu emblématique de la métropole. La visite guidée d&#39;une heure, limitée à…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Journées du Patrimoine : coulisses du Zénith Toulouse Métropole</h3>
-          <p class="news-summary">À l&#39;occasion des Journées Européennes du Patrimoine, le Zénith Toulouse Métropole ouvre exceptionnellement ses portes au public le 20 septembre 2026. La visite se déroule pendant la journée de montage du Festival OZ, permettant de découvrir les coulisses, les espaces backstage et les balances de concerts. Le Zénith est l&#39;une des rares salles françaises capables d&#39;accueillir plus de 10 000 spectateurs, ce qui en fait un lieu emblématique de la métropole. La visite guidée d&#39;une heure, limitée à…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/toulouse-triathlon-supertri/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/Superleague-Toulouse-2023-WR-0656-copie.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Toulouse Triathlon SuperTri : champions olympiques au Quai de la Daurade</h3>
+            <p class="news-summary">Le Toulouse Triathlon SuperTri investit le centre-ville de Toulouse le week-end du 4 octobre 2026. Le dimanche matin, les participants amateurs s&#39;élancent pour des courses de distance S et M avec nage dans la Garonne, vélo sur routes fermées et course à pied. L&#39;après-midi, la ligue SuperTri prend le relais avec une course professionnelle au départ du Quai de la Daurade, réunissant des champions olympiques et des athlètes de haut niveau dans un format de triathlon spectaculaire. Tout le…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Toulouse Triathlon SuperTri : champions olympiques au Quai de la Daurade</h3>
-          <p class="news-summary">Le Toulouse Triathlon SuperTri investit le centre-ville de Toulouse le week-end du 4 octobre 2026. Le dimanche matin, les participants amateurs s&#39;élancent pour des courses de distance S et M avec nage dans la Garonne, vélo sur routes fermées et course à pied. L&#39;après-midi, la ligue SuperTri prend le relais avec une course professionnelle au départ du Quai de la Daurade, réunissant des champions olympiques et des athlètes de haut niveau dans un format de triathlon spectaculaire. Tout le…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/toulouse-au-siecle-des-lumieres/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/Agenda-Toulouse-Visuel-site-internet--46--2.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Visite guidée en costume : Toulouse au siècle des Lumières, quartier Saint-Étienne</h3>
+            <p class="news-summary">Une guide-conférencière costumée incarne Mme de Cambon, descendante de Pierre-Paul Riquet, pour faire revivre la haute société toulousaine à la veille de la Révolution française. La visite se déroule dans les rues du quartier Saint-Étienne, au départ de la place de la Cathédrale. Au programme : hôtels particuliers, places secrètes et anecdotes sur la vie des familles parlementaires du XVIIIe siècle. La réservation en ligne est obligatoire, les places sont limitées et la visite est accessible…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Visite guidée en costume : Toulouse au siècle des Lumières, quartier Saint-Étienne</h3>
-          <p class="news-summary">Une guide-conférencière costumée incarne Mme de Cambon, descendante de Pierre-Paul Riquet, pour faire revivre la haute société toulousaine à la veille de la Révolution française. La visite se déroule dans les rues du quartier Saint-Étienne, au départ de la place de la Cathédrale. Au programme : hôtels particuliers, places secrètes et anecdotes sur la vie des familles parlementaires du XVIIIe siècle. La réservation en ligne est obligatoire, les places sont limitées et la visite est accessible…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/une-balade-architecturale-a-deux-voix-parcours-saint-pierre-cite-administrative-arsenal-journees-du-patrimoine/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/Agenda-Toulouse-Visuel-Site-Internet---2022-09-21T110542.474.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Balade architecturale Saint-Pierre, Cité Administrative et Arsenal</h3>
+            <p class="news-summary">Une visite guidée à deux voix explore le quartier universitaire toulousain entre la place Saint-Pierre, la Cité Administrative et l&#39;ancien Arsenal, le 19 septembre 2026. Le parcours retrace l&#39;histoire du site depuis l&#39;université médiévale de 1229 jusqu&#39;aux bâtiments contemporains des années 1970 signés Desnoyer et Le Maresquier. On y découvre notamment la Toulouse Economics School, œuvre des architectes Yvonne Farrell et Shelley McNamara, lauréats du Prix Pritzker 2020. La balade est gratuite…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Balade architecturale Saint-Pierre, Cité Administrative et Arsenal</h3>
-          <p class="news-summary">Une visite guidée à deux voix explore le quartier universitaire toulousain entre la place Saint-Pierre, la Cité Administrative et l&#39;ancien Arsenal, le 19 septembre 2026. Le parcours retrace l&#39;histoire du site depuis l&#39;université médiévale de 1229 jusqu&#39;aux bâtiments contemporains des années 1970 signés Desnoyer et Le Maresquier. On y découvre notamment la Toulouse Economics School, œuvre des architectes Yvonne Farrell et Shelley McNamara, lauréats du Prix Pritzker 2020. La balade est gratuite…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-minimes-journees-du-patrimoine/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/Copie-de-Agenda-Toulouse-Visuel-Site-Internet--11--7.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Petites Histoires de Quartier : visite guidée des Minimes pour les Journées du Patrimoine</h3>
+            <p class="news-summary">À l&#39;occasion des Journées du Patrimoine 2026 (19 septembre), l&#39;Office de Tourisme de Toulouse propose une visite guidée du quartier des Minimes, au départ du Conseil Départemental. La balade retrace l&#39;histoire du quartier depuis ses vignes et maraîchers du XIXe siècle jusqu&#39;à l&#39;arrivée des ordres religieux en 1503, dont le couvent des Minimes qui a donné son nom au secteur. La visite inclut l&#39;église classée, ornée d&#39;œuvres de la Renaissance toulousaine (François Fayet, Nicolas Tournier), ainsi…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Petites Histoires de Quartier : visite guidée des Minimes pour les Journées du Patrimoine</h3>
-          <p class="news-summary">À l&#39;occasion des Journées du Patrimoine 2026 (19 septembre), l&#39;Office de Tourisme de Toulouse propose une visite guidée du quartier des Minimes, au départ du Conseil Départemental. La balade retrace l&#39;histoire du quartier depuis ses vignes et maraîchers du XIXe siècle jusqu&#39;à l&#39;arrivée des ordres religieux en 1503, dont le couvent des Minimes qui a donné son nom au secteur. La visite inclut l&#39;église classée, ornée d&#39;œuvres de la Renaissance toulousaine (François Fayet, Nicolas Tournier), ainsi…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/les-jardins-sonores/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/Capture-d-ecran-2025-10-09-a-09.16.36-copie.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Les Jardins Sonores saison 33 au Théâtre de Verdure</h3>
+            <p class="news-summary">Les Jardins Sonores fêtent leur 33e édition les 3 et 4 octobre au Théâtre de Verdure de Toulouse. L&#39;association DME accueille pour l&#39;occasion des DJ régionaux et internationaux dans ce cadre en plein air. La soirée se veut placée sous le signe de la danse, du partage et de l&#39;émotion musicale. L&#39;événement s&#39;adresse à tous les amateurs de musiques électroniques et de culture club à Toulouse.</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Les Jardins Sonores saison 33 au Théâtre de Verdure</h3>
-          <p class="news-summary">Les Jardins Sonores fêtent leur 33e édition les 3 et 4 octobre au Théâtre de Verdure de Toulouse. L&#39;association DME accueille pour l&#39;occasion des DJ régionaux et internationaux dans ce cadre en plein air. La soirée se veut placée sous le signe de la danse, du partage et de l&#39;émotion musicale. L&#39;événement s&#39;adresse à tous les amateurs de musiques électroniques et de culture club à Toulouse.</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/danton-et-robespierre-les-racines-de-la-liberte/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/DANTON-ROBESPIERRE.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Danton et Robespierre au Centre Culturel des Minimes</h3>
+            <p class="news-summary">Une pièce de théâtre intitulée « Danton et Robespierre, les racines de la liberté » est programmée au Centre Culturel des Minimes à Toulouse le 23 septembre 2026. Le spectacle met en scène un face-à-face final entre les deux figures emblématiques de la Révolution française, dans un contexte de guerre et de Terreur. L&#39;affrontement entre Danton et Robespierre soulève les grandes questions autour de la liberté, de l&#39;égalité et de la fraternité, à l&#39;ombre de la guillotine. Ce spectacle s&#39;adresse…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Danton et Robespierre au Centre Culturel des Minimes</h3>
-          <p class="news-summary">Une pièce de théâtre intitulée « Danton et Robespierre, les racines de la liberté » est programmée au Centre Culturel des Minimes à Toulouse le 23 septembre 2026. Le spectacle met en scène un face-à-face final entre les deux figures emblématiques de la Révolution française, dans un contexte de guerre et de Terreur. L&#39;affrontement entre Danton et Robespierre soulève les grandes questions autour de la liberté, de l&#39;égalité et de la fraternité, à l&#39;ombre de la guillotine. Ce spectacle s&#39;adresse…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/romantic/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/RAMONTIC.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Concert ROMANTIC à la Chapelle Saint-Michel : folk rock en live</h3>
+            <p class="news-summary">L&#39;artiste ROMANTIC investit la Chapelle Saint-Michel le 18 septembre 2026 pour une soirée de lancement de nouveaux morceaux folk rock. Accompagné de son groupe, il propose une découverte de ses nouveaux titres dans une atmosphère conviviale mêlant riffs et énergie scénique. L&#39;événement se veut festif et chaleureux, axé sur le partage musical. Les amateurs de folk rock et de concerts en salle intimiste sont particulièrement visés.</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Concert ROMANTIC à la Chapelle Saint-Michel : folk rock en live</h3>
-          <p class="news-summary">L&#39;artiste ROMANTIC investit la Chapelle Saint-Michel le 18 septembre 2026 pour une soirée de lancement de nouveaux morceaux folk rock. Accompagné de son groupe, il propose une découverte de ses nouveaux titres dans une atmosphère conviviale mêlant riffs et énergie scénique. L&#39;événement se veut festif et chaleureux, axé sur le partage musical. Les amateurs de folk rock et de concerts en salle intimiste sont particulièrement visés.</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/bach-mendelssohn/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/BACH-MENDELSSOHN.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Concert Bach &amp; Mendelssohn à l&#39;Église Saint-Jérôme de Toulouse</h3>
+            <p class="news-summary">Le 26 septembre 2026, l&#39;Église Saint-Jérôme accueille un concert choral et orchestral réunissant deux ensembles vocaux toulousains : les Chœurs A Contretemps de Toulouse et Voix d&#39;Apamée de Pamiers, soit 50 chanteurs sur scène. Au programme, des œuvres de Bach et Mendelssohn, dont la célèbre cantate BWV 106 de Jean-Sébastien Bach. L&#39;Orchestre Les Passions accompagne les chœurs, avec Jean-Marc Andrieu à la flûte à bec et Yasuko Uyama-Bouvard à l&#39;orgue. La direction musicale est assurée par Guy…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Concert Bach &amp; Mendelssohn à l&#39;Église Saint-Jérôme de Toulouse</h3>
-          <p class="news-summary">Le 26 septembre 2026, l&#39;Église Saint-Jérôme accueille un concert choral et orchestral réunissant deux ensembles vocaux toulousains : les Chœurs A Contretemps de Toulouse et Voix d&#39;Apamée de Pamiers, soit 50 chanteurs sur scène. Au programme, des œuvres de Bach et Mendelssohn, dont la célèbre cantate BWV 106 de Jean-Sébastien Bach. L&#39;Orchestre Les Passions accompagne les chœurs, avec Jean-Marc Andrieu à la flûte à bec et Yasuko Uyama-Bouvard à l&#39;orgue. La direction musicale est assurée par Guy…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/festival-international-du-film-denvironnement-fredd/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/462028504-942641557889200-5364938293269929800-n--1--copie.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Le festival FReDD : cinéma environnemental dans toute Toulouse</h3>
+            <p class="news-summary">Le Festival International du Film d&#39;Environnement FReDD se tient du 12 au 20 novembre 2026 à Toulouse et dans toute la région. La programmation réunit une quarantaine de films — documentaires, fictions, courts et longs métrages — sélectionnés pour sensibiliser aux enjeux environnementaux. Au-delà des projections, le festival propose des performances artistiques, de la musique, des concerts et des DJ sets dans un esprit festif et engagé. Les séances se déroulent dans une vingtaine de lieux…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Le festival FReDD : cinéma environnemental dans toute Toulouse</h3>
-          <p class="news-summary">Le Festival International du Film d&#39;Environnement FReDD se tient du 12 au 20 novembre 2026 à Toulouse et dans toute la région. La programmation réunit une quarantaine de films — documentaires, fictions, courts et longs métrages — sélectionnés pour sensibiliser aux enjeux environnementaux. Au-delà des projections, le festival propose des performances artistiques, de la musique, des concerts et des DJ sets dans un esprit festif et engagé. Les séances se déroulent dans une vingtaine de lieux…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/francoise-lacoste-1953-2025-artiste-peintre-et-curatrice-dart-contemporain/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/FRANCOISE-LACOSTE.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Rétrospective Françoise Lacoste à la Chapelle des Cordeliers</h3>
+            <p class="news-summary">La Chapelle des Cordeliers accueille du 16 au 18 octobre 2026 une exposition consacrée à Françoise Lacoste (1953-2025), artiste peintre et curatrice d&#39;art contemporain profondément ancrée dans la scène culturelle toulousaine. Pour la première fois, son travail pictural, longtemps resté confidentiel, est réuni avec les archives retraçant son parcours et ses engagements. Peintures, œuvres graphiques, collages, photographies, documents et témoignages composent un portrait sensible de cette femme…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Rétrospective Françoise Lacoste à la Chapelle des Cordeliers</h3>
-          <p class="news-summary">La Chapelle des Cordeliers accueille du 16 au 18 octobre 2026 une exposition consacrée à Françoise Lacoste (1953-2025), artiste peintre et curatrice d&#39;art contemporain profondément ancrée dans la scène culturelle toulousaine. Pour la première fois, son travail pictural, longtemps resté confidentiel, est réuni avec les archives retraçant son parcours et ses engagements. Peintures, œuvres graphiques, collages, photographies, documents et témoignages composent un portrait sensible de cette femme…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://www.toulouse-tourisme.com/agenda/au-fil-du-canal-du-midi/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-event">Office de Tourisme</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://cdt31.media.tourinsoft.eu/upload/BALADE-AU-FIL-DU-CANAL-DU-MIDI.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-event">Office de Tourisme</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Balade patrimoniale au fil du Canal du Midi depuis les Archives départementales</h3>
+            <p class="news-summary">Une promenade guidée à pied est organisée dans le quartier Pont des Demoiselles, au départ et retour des Archives départementales de la Haute-Garonne. L&#39;itinéraire longe le Canal du Midi et mène jusqu&#39;au port Saint-Sauveur et la passerelle des Soupirs, en passant près des cales de Radoub. La balade invite à découvrir l&#39;histoire et le patrimoine industriel et fluvial du quartier, tout en s&#39;imprégnant de son ambiance singulière. À noter : le parcours n&#39;est pas adapté aux personnes à mobilité…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Balade patrimoniale au fil du Canal du Midi depuis les Archives départementales</h3>
-          <p class="news-summary">Une promenade guidée à pied est organisée dans le quartier Pont des Demoiselles, au départ et retour des Archives départementales de la Haute-Garonne. L&#39;itinéraire longe le Canal du Midi et mène jusqu&#39;au port Saint-Sauveur et la passerelle des Soupirs, en passant près des cales de Radoub. La balade invite à découvrir l&#39;histoire et le patrimoine industriel et fluvial du quartier, tout en s&#39;imprégnant de son ambiance singulière. À noter : le parcours n&#39;est pas adapté aux personnes à mobilité…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
       </div>
@@ -717,33 +784,42 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
       <div class="news-grid">
         
         <a class="news-card" href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-08?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#49181" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-place">L&#39;Essentiel</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/tandem-credit-photo-tandem---mathieu-arnal.jpg?h=b99d550b&amp;itok=Ta8xxcpQ" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-place">L&#39;Essentiel</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Tandem, le nouveau bar à vins place du Parlement</h3>
+            <p class="news-summary">Charlie Noraz et Enzo Lasserre, anciens cavistes de Chai Vincent, ont ouvert Tandem au 4 de la place du Parlement fin août. L&#39;établissement, ouvert du mardi au samedi de 17h à 2h, propose près de 250 références dont une sélection renouvelée chaque semaine au verre — blancs, rouges, rosés et bulles, des crus haut de gamme aux vins plus accessibles. La philosophie du lieu est de « décomplexer l&#39;accès au vin » sans proposer de restauration sur place, ce qui le distingue de nombreuses caves à…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Tandem, le nouveau bar à vins place du Parlement</h3>
-          <p class="news-summary">Charlie Noraz et Enzo Lasserre, anciens cavistes de Chai Vincent, ont ouvert Tandem au 4 de la place du Parlement fin août. L&#39;établissement, ouvert du mardi au samedi de 17h à 2h, propose près de 250 références dont une sélection renouvelée chaque semaine au verre — blancs, rouges, rosés et bulles, des crus haut de gamme aux vins plus accessibles. La philosophie du lieu est de « décomplexer l&#39;accès au vin » sans proposer de restauration sur place, ce qui le distingue de nombreuses caves à…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/toulouse-est-devenue-ma-deuxieme-maison-ninmar-a-fui-la-guerre-en-syrie-pour-ouvrir-son-cafe-dans-le-centre-ville_64757403.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-place">Actu Toulouse</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/20260907-142944.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-place">Actu Toulouse</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">Ninmar a fui la Syrie pour ouvrir le Mesopotamia Coffee à Toulouse</h3>
+            <p class="news-summary">Ninmar, trentenaire d&#39;origine syrienne, a inauguré il y a quelques semaines le Mesopotamia Coffee au 6 rue des Trois Piliers, dans le quartier Arnaud Bernard. Arrivé à Toulouse en 2014 à l&#39;âge de 18 ans avec sa famille pour fuir la guerre et le service militaire, il a reconstruit sa vie depuis zéro dans la Ville rose. Son coffee shop propose une carte gourmande et dépaysante — cafés allongés, lattes et créations plus élaborées — dans une atmosphère chaleureuse qui lui a déjà valu une clientèle…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">Ninmar a fui la Syrie pour ouvrir le Mesopotamia Coffee à Toulouse</h3>
-          <p class="news-summary">Ninmar, trentenaire d&#39;origine syrienne, a inauguré il y a quelques semaines le Mesopotamia Coffee au 6 rue des Trois Piliers, dans le quartier Arnaud Bernard. Arrivé à Toulouse en 2014 à l&#39;âge de 18 ans avec sa famille pour fuir la guerre et le service militaire, il a reconstruit sa vie depuis zéro dans la Ville rose. Son coffee shop propose une carte gourmande et dépaysante — cafés allongés, lattes et créations plus élaborées — dans une atmosphère chaleureuse qui lui a déjà valu une clientèle…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
         <a class="news-card" href="https://actu.fr/occitanie/toulouse_31555/cette-celebre-franchise-de-pressings-fait-un-retour-en-force-a-toulouse-avec-l-ouverture-de-quatre-nouvelles-boutiques_64755426.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-place">Actu Toulouse</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://static.actu.fr/uploads/2026/09/img-16211.jpg" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-place">Actu Toulouse</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">5àSec ouvre quatre nouveaux pressings dans l&#39;agglomération toulousaine</h3>
+            <p class="news-summary">La franchise de pressings 5àSec fait son grand retour à Toulouse avec l&#39;ouverture simultanée de quatre boutiques, à Purpan, Labège, Portet-sur-Garonne et dans le centre-ville. La marque avait largement déserté l&#39;agglomération ces dernières années, seul un point de vente au Leclerc de Blagnac subsistait. Ce retour est porté par un duo frère-sœur, forts d&#39;une dizaine d&#39;années d&#39;expérience dans le pressing et la blanchisserie. Ils ont saisi l&#39;opportunité de reprendre plusieurs emplacements laissés…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">5àSec ouvre quatre nouveaux pressings dans l&#39;agglomération toulousaine</h3>
-          <p class="news-summary">La franchise de pressings 5àSec fait son grand retour à Toulouse avec l&#39;ouverture simultanée de quatre boutiques, à Purpan, Labège, Portet-sur-Garonne et dans le centre-ville. La marque avait largement déserté l&#39;agglomération ces dernières années, seul un point de vente au Leclerc de Blagnac subsistait. Ce retour est porté par un duo frère-sœur, forts d&#39;une dizaine d&#39;années d&#39;expérience dans le pressing et la blanchisserie. Ils ont saisi l&#39;opportunité de reprendre plusieurs emplacements laissés…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
       </div>
@@ -755,13 +831,16 @@ a.calw-dn-link:hover { background: #0f172a !important; color: #fff !important; }
       <div class="news-grid">
         
         <a class="news-card" href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-08?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#49236" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-culture">L&#39;Essentiel</span>
-            <span class="news-time">8 septembre, 08:36</span>
+          <img class="news-img" src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/rue-de-bayard-credit-mathieu-arnal---mathieu-arnal.jpg?itok=dQifMndr" loading="lazy" alt=""/>
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-culture">L&#39;Essentiel</span>
+              <span class="news-time">8 septembre, 08:36</span>
+            </div>
+            <h3 class="news-title">L&#39;histoire méconnue de la rue de Bayard à Toulouse</h3>
+            <p class="news-summary">La rue de Bayard, artère centrale de Toulouse reliant le boulevard de Strasbourg à celui de Bonrepos près de la gare Matabiau, tient son nom non d&#39;un personnage historique célèbre mais d&#39;une famille toulousaine propriétaire, les Bayard. À la fin du XVIIe siècle, l&#39;écuyer François Bayard y exploitait une vaste métairie comprenant maisons, vignes, jardin et un moulin sur le canal du Midi, détruit en 1909. L&#39;ancien chemin rural, antérieur au XVIe siècle, faisait partie du capitoulat de…</p>
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">L&#39;histoire méconnue de la rue de Bayard à Toulouse</h3>
-          <p class="news-summary">La rue de Bayard, artère centrale de Toulouse reliant le boulevard de Strasbourg à celui de Bonrepos près de la gare Matabiau, tient son nom non d&#39;un personnage historique célèbre mais d&#39;une famille toulousaine propriétaire, les Bayard. À la fin du XVIIe siècle, l&#39;écuyer François Bayard y exploitait une vaste métairie comprenant maisons, vignes, jardin et un moulin sur le canal du Midi, détruit en 1909. L&#39;ancien chemin rural, antérieur au XVIe siècle, faisait partie du capitoulat de…</p>
-          <div class="news-cta">Lire l'article →</div>
         </a>
         
       </div>
