@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-09-11T06:36:18.470792+00:00</updated>
+  <updated>2026-09-12T06:32:24.490638+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,332 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:3d1bbe0b-c8ef-4b28-9749-56785f350551</id>
-    <title>Capharnaüm : un café culturel et solidaire ouvre à Barrière-de-Paris</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Collectif Salade Suprême inaugure Capharnaüm, un café culturel et solidaire de 500 m² au 67 boulevard Silvio-Trentin, dans le quartier Barrière-de-Paris. Le projet, deux ans dans les cartons, prend place dans un bâtiment vacant aux couleurs flashy que le collectif avait repéré depuis ses locaux voisins au Timbre. Le lieu propose un café, des espaces d&amp;#x27;exposition renouvelés tous les deux à trois mois, des ateliers d&amp;#x27;initiation artistique, un atelier couture, ainsi qu&amp;#x27;une programmation de concerts, animations et spectacles vivants. L&amp;#x27;ambition affichée : dépasser le cercle des initiés de l&amp;#x27;art et créer un vrai point de rencontre pour les habitants du quartier.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48914"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48914"/>
-    <summary>Le Collectif Salade Suprême inaugure Capharnaüm, un café culturel et solidaire de 500 m² au 67 boulevard Silvio-Trentin, dans le quartier Barrière-de-Paris. Le projet, deux ans dans les cartons, prend place dans un bâtiment vacant aux couleurs flashy que le collectif avait repéré depuis ses locaux voisins au Timbre. Le lieu propose un café, des espaces d'exposition renouvelés tous les deux à trois mois, des ateliers d'initiation artistique, un atelier couture, ainsi qu'une programmation de concerts, animations et spectacles vivants. L'ambition affichée : dépasser le cercle des initiés de l'art et créer un vrai point de rencontre pour les habitants du quartier.</summary>
-    <category term="place"/>
-    <published>2026-09-04T04:08:56.160000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:57a37f3e-9afb-4080-b252-30f720602cde</id>
-    <title>Les Pétanque Days reviennent sur l'esplanade Alain Savary</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Du 4 au 6 septembre 2026, les Pétanque Days fêtent leur 3e édition sur l&amp;#x27;esplanade Alain Savary à Toulouse, avec 40 terrains accueillant jusqu&amp;#x27;à 160 triplettes en tournoi amateur. L&amp;#x27;événement est organisé en partenariat avec La Pétanque des Copains, la guinguette cofondée par les rugbymen Antoine Dupont et Cyril Baille. Accessible à tous sans licence ni niveau requis, le tournoi se joue en équipes de trois pour 30 € par équipe. Autour des matchs, un village festif mêlé aux terrains proposera DJ sets, foodtrucks, buvette et, nouveauté cette année, des tournois de fléchettes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48913"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48913"/>
-    <summary>Du 4 au 6 septembre 2026, les Pétanque Days fêtent leur 3e édition sur l'esplanade Alain Savary à Toulouse, avec 40 terrains accueillant jusqu'à 160 triplettes en tournoi amateur. L'événement est organisé en partenariat avec La Pétanque des Copains, la guinguette cofondée par les rugbymen Antoine Dupont et Cyril Baille. Accessible à tous sans licence ni niveau requis, le tournoi se joue en équipes de trois pour 30 € par équipe. Autour des matchs, un village festif mêlé aux terrains proposera DJ sets, foodtrucks, buvette et, nouveauté cette année, des tournois de fléchettes.</summary>
-    <category term="event"/>
-    <published>2026-09-04T04:08:56.160000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:99c4e3be-9f8d-4b64-bf6b-bd8105e68a92</id>
-    <title>Salon Auto Moto Classic au MEETT : 2 500 véhicules et vente aux enchères</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Salon Auto Moto Classic se tient au MEETT du 4 au 6 septembre 2026, sur 68 000 m² de halls couverts et d&amp;#x27;esplanades, avec plus de 2 500 voitures et motos anciennes exposées. Cette édition est enrichie par l&amp;#x27;ouverture d&amp;#x27;un 7e hall pour accueillir les nouveautés, dont une exposition sur les cyclos sportifs des années 1960–1980 et un plateau dédié aux motos de compétition historiques. Une vente aux enchères, confiée aux maisons toulousaines Primardeco et Enchères VO, proposera des véhicules de collection — parmi lesquels une Citroën Rosalie, une Mercedes 280 SL et une Porsche 924 — avec exposition dès le vendredi à 14h et vente dimanche à 15h. L&amp;#x27;American Day, les samedis et dimanches, est parrainé par Gerry Blyenberg et Sandy Gallant et rassemble plus de 1 200 véhicules américains venus de toute la France, avec concerts, défilés pin-up et food-trucks.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;L&amp;#x27;office du tourisme donne une vue d&amp;#x27;ensemble du salon et de sa programmation générale ; lessentiel détaille les nouveautés de l&amp;#x27;édition 2026 (7e hall, thématiques spécifiques, vente aux enchères avec modèles précis) et signale une nocturne le vendredi soir, absente de l&amp;#x27;autre source.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Vue d&amp;#x27;ensemble du salon, ambiance et public visé&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Nouveautés 2026, détails de la vente aux enchères et programme précis&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48912"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48912"/>
-    <summary>Le Salon Auto Moto Classic se tient au MEETT du 4 au 6 septembre 2026, sur 68 000 m² de halls couverts et d'esplanades, avec plus de 2 500 voitures et motos anciennes exposées. Cette édition est enrichie par l'ouverture d'un 7e hall pour accueillir les nouveautés, dont une exposition sur les cyclos sportifs des années 1960–1980 et un plateau dédié aux motos de compétition historiques. Une vente aux enchères, confiée aux maisons toulousaines Primardeco et Enchères VO, proposera des véhicules de collection — parmi lesquels une Citroën Rosalie, une Mercedes 280 SL et une Porsche 924 — avec exposition dès le vendredi à 14h et vente dimanche à 15h. L'American Day, les samedis et dimanches, est parrainé par Gerry Blyenberg et Sandy Gallant et rassemble plus de 1 200 véhicules américains venus de toute la France, avec concerts, défilés pin-up et food-trucks.</summary>
-    <category term="event"/>
-    <published>2026-09-04T04:08:56.160000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b085c087-ba42-481a-93b4-d0c2631f68e2</id>
-    <title>Slim Paul en concert blues gratuit au Boudu Pont</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le musicien Slim Paul se produit en concert blues au Boudu Pont, ce dimanche 6 septembre à partir de 19h. L&amp;#x27;entrée est gratuite, ce qui en fait une sortie accessible à tous les amateurs de blues toulousains. L&amp;#x27;événement se tient en bord de Garonne dans une atmosphère conviviale. À noter que l&amp;#x27;extrait source mentionne également en encart publicitaire un ciné-concert Star Wars à venir au Zénith, sans lien direct avec ce concert.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-dimanche-6-septembre-2"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-dimanche-6-septembre-2"/>
-    <summary>Le musicien Slim Paul se produit en concert blues au Boudu Pont, ce dimanche 6 septembre à partir de 19h. L'entrée est gratuite, ce qui en fait une sortie accessible à tous les amateurs de blues toulousains. L'événement se tient en bord de Garonne dans une atmosphère conviviale. À noter que l'extrait source mentionne également en encart publicitaire un ciné-concert Star Wars à venir au Zénith, sans lien direct avec ce concert.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a768cdc3-453f-456b-a0ca-e427e3ef4a19</id>
-    <title>Jardin Musical de Bouloc : cithare chinoise guzheng en concert</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Jardin Musical de Bouloc propose un concert mêlant musique chinoise et autres influences le dimanche 6 septembre à 16h30 dans la commune de Bouloc (31). Au programme figurent l&amp;#x27;ensemble Jiang Nan avec une cithare chinoise guzheng, une parade et l&amp;#x27;artiste Lakhdar Hanou. L&amp;#x27;entrée est fixée à 12 €. Cet événement s&amp;#x27;adresse aux amateurs de musiques du monde et de découvertes culturelles aux portes de Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-dimanche-6-septembre-1"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-dimanche-6-septembre-1"/>
-    <summary>Le Jardin Musical de Bouloc propose un concert mêlant musique chinoise et autres influences le dimanche 6 septembre à 16h30 dans la commune de Bouloc (31). Au programme figurent l'ensemble Jiang Nan avec une cithare chinoise guzheng, une parade et l'artiste Lakhdar Hanou. L'entrée est fixée à 12 €. Cet événement s'adresse aux amateurs de musiques du monde et de découvertes culturelles aux portes de Toulouse.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c03654a7-c502-45e1-8b61-e24894e4847f</id>
-    <title>Fripe &amp; Spritz Grand Format au Bar Le Ravelin ce dimanche</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Bar Le Ravelin accueille une édition « Grand Format » de l&amp;#x27;événement Fripe &amp;amp; Spritz le dimanche 6 septembre, à partir de 14h. Au programme : friperies, tatouage et sets de DJ, le tout en entrée gratuite. L&amp;#x27;événement s&amp;#x27;adresse aux amateurs de mode vintage, de musique et de bonne ambiance estivale. Une après-midi festive et accessible à tous les curieux de passage.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-dimanche-6-septembre-0"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-dimanche-6-septembre-0"/>
-    <summary>Le Bar Le Ravelin accueille une édition « Grand Format » de l'événement Fripe &amp; Spritz le dimanche 6 septembre, à partir de 14h. Au programme : friperies, tatouage et sets de DJ, le tout en entrée gratuite. L'événement s'adresse aux amateurs de mode vintage, de musique et de bonne ambiance estivale. Une après-midi festive et accessible à tous les curieux de passage.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:ee78f21e-dc19-4ff0-8809-af456dad7234</id>
-    <title>Soirée Nanométrages en plein air au Jardin Michelet</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;La Forêt Électrique, dans le cadre de la programmation estivale « Un été hors les murs », organise une soirée Nanométrages au Jardin Michelet le samedi 5 septembre à partir de 18h30. La soirée comprend des projections de courts métrages, un vote du public et une remise des prix. L&amp;#x27;entrée est gratuite, ce qui la rend accessible à tous les Toulousains curieux de cinéma de format court. Un rendez-vous estival en plein air porté par une structure culturelle locale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-samedi-5-septembre-2"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-samedi-5-septembre-2"/>
-    <summary>La Forêt Électrique, dans le cadre de la programmation estivale « Un été hors les murs », organise une soirée Nanométrages au Jardin Michelet le samedi 5 septembre à partir de 18h30. La soirée comprend des projections de courts métrages, un vote du public et une remise des prix. L'entrée est gratuite, ce qui la rend accessible à tous les Toulousains curieux de cinéma de format court. Un rendez-vous estival en plein air porté par une structure culturelle locale.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:65da0649-b54c-4b8b-8de6-d39204ac2694</id>
-    <title>Le Taquin Jazz Club fête ses 10 ans avec Gardel, Doumerc et Leclerc</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Taquin Jazz Club célèbre ses 10 ans d&amp;#x27;existence avec un concert jazz et funk exceptionnel le samedi 5 septembre à partir de 18h. L&amp;#x27;événement réunit plusieurs artistes de renom : N. Gardel, F. Doumerc et R. Leclerc, entre autres. L&amp;#x27;entrée est gratuite, ce qui en fait une soirée accessible à tous les amateurs de jazz toulousains. Un rendez-vous festif pour marquer une décennie de programmation musicale au cœur de Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-samedi-5-septembre-1"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-samedi-5-septembre-1"/>
-    <summary>Le Taquin Jazz Club célèbre ses 10 ans d'existence avec un concert jazz et funk exceptionnel le samedi 5 septembre à partir de 18h. L'événement réunit plusieurs artistes de renom : N. Gardel, F. Doumerc et R. Leclerc, entre autres. L'entrée est gratuite, ce qui en fait une soirée accessible à tous les amateurs de jazz toulousains. Un rendez-vous festif pour marquer une décennie de programmation musicale au cœur de Toulouse.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:046f888f-2a09-480f-afd5-43d5355c9a3f</id>
-    <title>Cordillera Jazz et Waikiflow au Jardin Raymond VI</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le festival Cordillera Jazz propose un concert gratuit au Jardin Raymond VI le samedi 5 septembre à 17h. Au programme, deux formations : Waikiflow et le Nervi Trio, pour une plongée dans le jazz sudaméricain aux influences chiliennes. L&amp;#x27;entrée est libre, ce qui rend l&amp;#x27;événement accessible à tous les amateurs de musiques du monde et de jazz. Un bel après-midi musical en plein air dans un cadre verdoyant toulousain.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-samedi-5-septembre-0"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-samedi-5-septembre-0"/>
-    <summary>Le festival Cordillera Jazz propose un concert gratuit au Jardin Raymond VI le samedi 5 septembre à 17h. Au programme, deux formations : Waikiflow et le Nervi Trio, pour une plongée dans le jazz sudaméricain aux influences chiliennes. L'entrée est libre, ce qui rend l'événement accessible à tous les amateurs de musiques du monde et de jazz. Un bel après-midi musical en plein air dans un cadre verdoyant toulousain.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6daa5310-1445-4b98-898c-54ff843133d5</id>
-    <title>Soirée darkwave et mix gratuite au Dada avec Years of Shame</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Dada accueille une soirée darkwave et mix le vendredi 4 septembre à partir de 22h. Trois acts sont au programme : Years of Shame, Canal Froid et Konstroy. L&amp;#x27;entrée est gratuite, ce qui en fait une sortie accessible pour les amateurs de musiques sombres et électroniques. Une soirée à noter pour les habitués de la scène alternative toulousaine.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-vendredi-4-septembre-2"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-vendredi-4-septembre-2"/>
-    <summary>Le Dada accueille une soirée darkwave et mix le vendredi 4 septembre à partir de 22h. Trois acts sont au programme : Years of Shame, Canal Froid et Konstroy. L'entrée est gratuite, ce qui en fait une sortie accessible pour les amateurs de musiques sombres et électroniques. Une soirée à noter pour les habitués de la scène alternative toulousaine.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b6569855-cee3-491e-a56d-3982f374e194</id>
-    <title>Concert Aether à l'Auditorium St-Pierre des Cuisines</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le groupe Aether se produit à l&amp;#x27;Auditorium Saint-Pierre des Cuisines le vendredi 4 septembre à 20h30. Le concert propose un mélange de musique classique, de jazz et d&amp;#x27;atmosphères féeriques. L&amp;#x27;entrée est fixée à 15 €. Une soirée à destination des amateurs de musique aux croisements des genres, dans l&amp;#x27;une des salles de spectacle emblématiques du centre de Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-vendredi-4-septembre-1"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-vendredi-4-septembre-1"/>
-    <summary>Le groupe Aether se produit à l'Auditorium Saint-Pierre des Cuisines le vendredi 4 septembre à 20h30. Le concert propose un mélange de musique classique, de jazz et d'atmosphères féeriques. L'entrée est fixée à 15 €. Une soirée à destination des amateurs de musique aux croisements des genres, dans l'une des salles de spectacle emblématiques du centre de Toulouse.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5fb61f3f-1269-4e06-9309-c5acee516490</id>
-    <title>Concert pop gratuit à l'Interférence : La Flemme &amp; Danger Zoo</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le vendredi 4 septembre, la salle Interférence accueille un double concert pop avec La Flemme et Danger Zoo à partir de 17h. L&amp;#x27;entrée est gratuite, ce qui en fait une soirée accessible à tous les amateurs de pop toulousaine. L&amp;#x27;information provient d&amp;#x27;une fiche de programmation très succincte, sans détails supplémentaires sur les artistes ou le contexte de l&amp;#x27;événement. Les curieux de scène locale et les amateurs de pop sont les premiers concernés.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-vendredi-4-septembre-0"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-vendredi-4-septembre-0"/>
-    <summary>Le vendredi 4 septembre, la salle Interférence accueille un double concert pop avec La Flemme et Danger Zoo à partir de 17h. L'entrée est gratuite, ce qui en fait une soirée accessible à tous les amateurs de pop toulousaine. L'information provient d'une fiche de programmation très succincte, sans détails supplémentaires sur les artistes ou le contexte de l'événement. Les curieux de scène locale et les amateurs de pop sont les premiers concernés.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5801e778-cdd8-4fa0-b36d-14adc6a3be36</id>
-    <title>Tropical Discoteq avec Émile Omar au Petit Bikini</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>clutch</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Petit Bikini accueille la soirée Tropical Discoteq animée par Émile Omar et ses invités le jeudi 3 septembre. L&amp;#x27;événement propose une sélection musicale aux accents tropicaux, disco et global groove. L&amp;#x27;entrée est gratuite et la soirée commence à 18h, ce qui en fait une option accessible à un large public toulousain. Un rendez-vous festif en début de soirée pour les amateurs de sonorités ensoleillées et dansantes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-09-03-jeudi-3-septembre-0"&gt;Clutch&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#2026-09-03-jeudi-3-septembre-0"/>
-    <summary>Le Petit Bikini accueille la soirée Tropical Discoteq animée par Émile Omar et ses invités le jeudi 3 septembre. L'événement propose une sélection musicale aux accents tropicaux, disco et global groove. L'entrée est gratuite et la soirée commence à 18h, ce qui en fait une option accessible à un large public toulousain. Un rendez-vous festif en début de soirée pour les amateurs de sonorités ensoleillées et dansantes.</summary>
-    <category term="event"/>
-    <published>2026-09-03T10:06:21.342000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5a3eefd6-2e06-4515-8454-b1a3a1f0498f</id>
-    <title>Fête de l'arbre au Jardin Félix Tisserand : biodiversité et ateliers gratuits</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;p&gt;La 2e édition de la Fête de l&amp;#x27;arbre se tiendra le 26 septembre 2026 au Jardin Félix Tisserand (parc de la Colonne), de 10h à 18h. Organisée par Toulouse-en-Transition, cette journée citoyenne entièrement gratuite rassemblera associations, familles et habitants autour de la biodiversité urbaine et de la place des arbres en ville. Au programme : ateliers participatifs et pédagogiques, balades botaniques, jeux de société, expositions et rencontres avec des associations comme Nature en Occitanie, le GNSA, Partageons les Jardins ou le Groupe Micro-forêt. L&amp;#x27;événement s&amp;#x27;adresse à tous les publics, petits et grands, avec une ambition de sensibilisation et d&amp;#x27;action concrète à l&amp;#x27;échelle individuelle.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/04/a-toulouse-cest-quoi-cette-fete-gratuite-dediee-aux-arbres-et-a-la-biodiversite-13529767.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/09/04/a-toulouse-cest-quoi-cette-fete-gratuite-dediee-aux-arbres-et-a-la-biodiversite-13529767.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La 2e édition de la Fête de l'arbre se tiendra le 26 septembre 2026 au Jardin Félix Tisserand (parc de la Colonne), de 10h à 18h. Organisée par Toulouse-en-Transition, cette journée citoyenne entièrement gratuite rassemblera associations, familles et habitants autour de la biodiversité urbaine et de la place des arbres en ville. Au programme : ateliers participatifs et pédagogiques, balades botaniques, jeux de société, expositions et rencontres avec des associations comme Nature en Occitanie, le GNSA, Partageons les Jardins ou le Groupe Micro-forêt. L'événement s'adresse à tous les publics, petits et grands, avec une ambition de sensibilisation et d'action concrète à l'échelle individuelle.</summary>
-    <category term="event"/>
-    <published>2026-09-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:881c8dd6-0e4b-41a2-b49a-30a79b955bae</id>
-    <title>Bellefontaine inauguré : place végétalisée, pistes cyclables et nouveaux aménagements</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le quartier Bellefontaine, quartier prioritaire de la politique de la Ville de Toulouse, vient d&amp;#x27;achever deux ans de travaux d&amp;#x27;aménagement urbain. L&amp;#x27;inauguration a eu lieu le mercredi 2 septembre 2026 avec la mise en valeur de la toute nouvelle place commerciale et de plusieurs réaménagements majeurs. Les transformations concernent l&amp;#x27;allée de Bellefontaine, les parvis du métro et de la médiathèque Grand M, ainsi que le parc Clairfont, avec pour fil directeur la végétalisation et la débitumisation. Le maire de quartier Gaëtan Cognard et le maire Jean-Luc Moudenc ont salué cette mutation profonde d&amp;#x27;un grand ensemble historique, désormais doté d&amp;#x27;espaces piétonnisés, d&amp;#x27;arbres, de bancs et de cheminements cyclables.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/place-vegetalisee-pistes-cyclables-ce-quartier-de-toulouse-fait-peau-neuve-decouvrez-les-changements-en-images_64739949.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/place-vegetalisee-pistes-cyclables-ce-quartier-de-toulouse-fait-peau-neuve-decouvrez-les-changements-en-images_64739949.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le quartier Bellefontaine, quartier prioritaire de la politique de la Ville de Toulouse, vient d'achever deux ans de travaux d'aménagement urbain. L'inauguration a eu lieu le mercredi 2 septembre 2026 avec la mise en valeur de la toute nouvelle place commerciale et de plusieurs réaménagements majeurs. Les transformations concernent l'allée de Bellefontaine, les parvis du métro et de la médiathèque Grand M, ainsi que le parc Clairfont, avec pour fil directeur la végétalisation et la débitumisation. Le maire de quartier Gaëtan Cognard et le maire Jean-Luc Moudenc ont salué cette mutation profonde d'un grand ensemble historique, désormais doté d'espaces piétonnisés, d'arbres, de bancs et de cheminements cyclables.</summary>
-    <category term="news"/>
-    <published>2026-09-03T12:33:35+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8897aeae-6345-4436-9306-a614efecbc13</id>
-    <title>ATR Blagnac décroche sa plus grande commande en dix ans : un milliard de dollars</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;L&amp;#x27;avionneur ATR, dont le siège est à Blagnac près de Toulouse, a annoncé le 3 septembre 2026 une commande ferme historique de 40 appareils ATR 72-600 par la compagnie indienne FLY91, pour un montant d&amp;#x27;environ un milliard de dollars. ATR qualifie cette commande de « la plus importante ferme enregistrée depuis près de dix ans » et de « la plus grande jamais passée par une compagnie aérienne régionale ». Les livraisons sont prévues entre 2027 et 2032, avec pour objectif de desservir les liaisons régionales courtes en Inde à moindre coût. La dernière commande d&amp;#x27;ampleur comparable remontait à 2016, lorsque l&amp;#x27;Iran avait acquis 40 avions pour un montant similaire.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cet-avionneur-de-toulouse-annonce-sa-plus-importante-commande-depuis-pres-de-dix-ans-et-va-gagner-un-milliard-d-euros_64742192.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cet-avionneur-de-toulouse-annonce-sa-plus-importante-commande-depuis-pres-de-dix-ans-et-va-gagner-un-milliard-d-euros_64742192.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'avionneur ATR, dont le siège est à Blagnac près de Toulouse, a annoncé le 3 septembre 2026 une commande ferme historique de 40 appareils ATR 72-600 par la compagnie indienne FLY91, pour un montant d'environ un milliard de dollars. ATR qualifie cette commande de « la plus importante ferme enregistrée depuis près de dix ans » et de « la plus grande jamais passée par une compagnie aérienne régionale ». Les livraisons sont prévues entre 2027 et 2032, avec pour objectif de desservir les liaisons régionales courtes en Inde à moindre coût. La dernière commande d'ampleur comparable remontait à 2016, lorsque l'Iran avait acquis 40 avions pour un montant similaire.</summary>
-    <category term="news"/>
-    <published>2026-09-03T15:02:04+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:52d06ef4-a78c-4c39-9b06-eab30244a1d2</id>
-    <title>Policiers encerclés au Mirail : vaste opération dans un camp de gens du voyage</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Dans la nuit du 30 au 31 août 2026, des policiers de la Brigade spécialisée de terrain ont été encerclés et menacés de mort par une cinquantaine d&amp;#x27;hommes près du Grand Mirail, après avoir tenté d&amp;#x27;interpeller un conducteur en fuite qui avait percuté un scooter. Le chauffard s&amp;#x27;était réfugié dans le camp de gens du voyage de la Mounède, forçant les agents à repartir sans l&amp;#x27;avoir arrêté. Trois jours plus tard, plus de 100 policiers ont mené une opération d&amp;#x27;ampleur dans ce même camp, ciblant la détention illégale d&amp;#x27;armes et le recel de véhicules volés. Une arme a été saisie et plusieurs véhicules confisqués, dont un volé — mais l&amp;#x27;auteur du refus d&amp;#x27;obtempérer n&amp;#x27;a pas été interpellé. L&amp;#x27;incident s&amp;#x27;inscrit dans un contexte tendu cet été dans le secteur du Grand Mirail, marqué par des fusillades répétées et un important point de vente de protoxyde d&amp;#x27;azote.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article retrace en détail le déroulé de la nuit du 30 août (la fuite, l&amp;#x27;accident, l&amp;#x27;encerclement). Le second se concentre sur la réponse policière trois jours plus tard et les résultats de l&amp;#x27;opération d&amp;#x27;ampleur dans le camp.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Récit détaillé de l&amp;#x27;incident nocturne et de l&amp;#x27;encerclement des policiers&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: L&amp;#x27;opération de police qui a suivi : moyens déployés, bilan des saisies&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/grosse-operation-dans-un-camp-de-gens-du-voyage-a-toulouse-plus-de-100-policiers-deployes-apres-un-refus-d-obtemperer_64742194.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/grosse-operation-dans-un-camp-de-gens-du-voyage-a-toulouse-plus-de-100-policiers-deployes-apres-un-refus-d-obtemperer_64742194.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Dans la nuit du 30 au 31 août 2026, des policiers de la Brigade spécialisée de terrain ont été encerclés et menacés de mort par une cinquantaine d'hommes près du Grand Mirail, après avoir tenté d'interpeller un conducteur en fuite qui avait percuté un scooter. Le chauffard s'était réfugié dans le camp de gens du voyage de la Mounède, forçant les agents à repartir sans l'avoir arrêté. Trois jours plus tard, plus de 100 policiers ont mené une opération d'ampleur dans ce même camp, ciblant la détention illégale d'armes et le recel de véhicules volés. Une arme a été saisie et plusieurs véhicules confisqués, dont un volé — mais l'auteur du refus d'obtempérer n'a pas été interpellé. L'incident s'inscrit dans un contexte tendu cet été dans le secteur du Grand Mirail, marqué par des fusillades répétées et un important point de vente de protoxyde d'azote.</summary>
-    <category term="news"/>
-    <published>2026-09-03T16:12:49+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:eda453c5-d86c-4315-8f6b-0a22da0946f3</id>
-    <title>Un homme condamné pour extorsion armée contre des prostituées à Toulouse</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Un quadragénaire toulousain a été condamné à quatre ans d&amp;#x27;emprisonnement, dont trois ferme, pour avoir extorqué de l&amp;#x27;argent à des travailleuses du sexe dominicaines sous la menace d&amp;#x27;un couteau. Entre le 18 et le 29 mai 2026, il a ciblé trois femmes âgées de 27, 29 et 45 ans, dont certaines appartiennent à la même famille, contactées via des sites de prostitution. À chaque fois, il honorait le rendez-vous avant de refuser de payer et de brandir une arme blanche pour leur voler argent et téléphones — soit environ 3 000 euros au total. Déjà incarcéré pour d&amp;#x27;autres faits, il a été identifié grâce aux images de vidéosurveillance et interpellé dans sa cellule le 2 septembre avant d&amp;#x27;être jugé dès le lendemain au tribunal correctionnel de Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-s-offrait-les-services-de-prostituees-dominicaines-pour-leur-extorquer-de-l-argent-arme-d-un-couteau-a-toulouse_64741475.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/il-s-offrait-les-services-de-prostituees-dominicaines-pour-leur-extorquer-de-l-argent-arme-d-un-couteau-a-toulouse_64741475.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Un quadragénaire toulousain a été condamné à quatre ans d'emprisonnement, dont trois ferme, pour avoir extorqué de l'argent à des travailleuses du sexe dominicaines sous la menace d'un couteau. Entre le 18 et le 29 mai 2026, il a ciblé trois femmes âgées de 27, 29 et 45 ans, dont certaines appartiennent à la même famille, contactées via des sites de prostitution. À chaque fois, il honorait le rendez-vous avant de refuser de payer et de brandir une arme blanche pour leur voler argent et téléphones — soit environ 3 000 euros au total. Déjà incarcéré pour d'autres faits, il a été identifié grâce aux images de vidéosurveillance et interpellé dans sa cellule le 2 septembre avant d'être jugé dès le lendemain au tribunal correctionnel de Toulouse.</summary>
-    <category term="news"/>
-    <published>2026-09-03T17:01:29+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:44fe0a4d-286b-4397-aeb7-e1da88c286f2</id>
-    <title>Hélène Rollès rejoint la programmation du Toulouse Game Show 2026</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Le Toulouse Game Show (TGS) revient au MEETT à Aussonne les 28 et 29 novembre 2026 pour sa 19e édition, rassemblant jeux vidéo, mangas, BD, séries et culture japonaise. Parmi les invités confirmés figure Hélène Rollès, star de la sitcom « Hélène et les garçons » diffusée entre 1992 et 1994, qui a marqué toute une génération. L&amp;#x27;actrice et chanteuse avait déjà participé à l&amp;#x27;édition 2021 du TGS et sera présente uniquement le dimanche 29 novembre. Le festival propose également cosplays, tests de jeux, expériences zombie et conférences pour les fans de pop culture.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/elle-a-marque-toute-une-generation-cette-grande-star-de-la-tele-des-annees-90-revient-au-toulouse-game-show_64742789.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/elle-a-marque-toute-une-generation-cette-grande-star-de-la-tele-des-annees-90-revient-au-toulouse-game-show_64742789.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Toulouse Game Show (TGS) revient au MEETT à Aussonne les 28 et 29 novembre 2026 pour sa 19e édition, rassemblant jeux vidéo, mangas, BD, séries et culture japonaise. Parmi les invités confirmés figure Hélène Rollès, star de la sitcom « Hélène et les garçons » diffusée entre 1992 et 1994, qui a marqué toute une génération. L'actrice et chanteuse avait déjà participé à l'édition 2021 du TGS et sera présente uniquement le dimanche 29 novembre. Le festival propose également cosplays, tests de jeux, expériences zombie et conférences pour les fans de pop culture.</summary>
-    <category term="event"/>
-    <published>2026-09-03T18:57:42+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:4584224c-1824-4086-83d7-abbda72130f7</id>
-    <title>Le Kepplair 72 effectue ses premiers vols avant sa conversion en bombardier d'eau</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;La start-up toulousaine Kepplair Evolution a franchi une étape majeure en réalisant les deux premiers vols de pré-modification de son ATR 72, fin août. Ces vols de calibration lancent officiellement la campagne d&amp;#x27;essais du Kepplair 72, futur bombardier d&amp;#x27;eau multi-rôle dédié à la sécurité civile. L&amp;#x27;appareil restera au sol jusqu&amp;#x27;à la fin de l&amp;#x27;année pour être converti : un réservoir de 7 500 litres et un système de largage seront intégrés, ce dernier ayant été développé avec l&amp;#x27;Institut de Mécanique des Fluides de Toulouse (IMFT) et testé à l&amp;#x27;échelle 1/1. Le projet illustre l&amp;#x27;ambition de Kepplair Evolution de transformer des avions régionaux en outils de lutte contre les incendies, dans un contexte de risques croissants.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-une-etape-cle-le-kepplair-72-effectue-ses-premiers-vols-avant-d-etre-transforme-en-bombardier-d-eau-a-toulouse_64741091.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-une-etape-cle-le-kepplair-72-effectue-ses-premiers-vols-avant-d-etre-transforme-en-bombardier-d-eau-a-toulouse_64741091.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La start-up toulousaine Kepplair Evolution a franchi une étape majeure en réalisant les deux premiers vols de pré-modification de son ATR 72, fin août. Ces vols de calibration lancent officiellement la campagne d'essais du Kepplair 72, futur bombardier d'eau multi-rôle dédié à la sécurité civile. L'appareil restera au sol jusqu'à la fin de l'année pour être converti : un réservoir de 7 500 litres et un système de largage seront intégrés, ce dernier ayant été développé avec l'Institut de Mécanique des Fluides de Toulouse (IMFT) et testé à l'échelle 1/1. Le projet illustre l'ambition de Kepplair Evolution de transformer des avions régionaux en outils de lutte contre les incendies, dans un contexte de risques croissants.</summary>
-    <category term="news"/>
-    <published>2026-09-03T19:43:22+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6089de94-02d3-4da5-9639-42959dead3ca</id>
-    <title>L'aide à la cantine élargie à 6 000 nouveaux collégiens de Haute-Garonne</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;À la rentrée de septembre 2026, le Département de la Haute-Garonne réforme son Aide à la Restauration Scolaire (ARS) pour en élargir l&amp;#x27;accès. Le système passe de deux niveaux de prise en charge (50 % et 100 %) à six tranches progressives allant de 20 % à 100 %, permettant de mieux s&amp;#x27;adapter à la diversité des situations familiales. Cette évolution, annoncée par le président du Département Sébastien Vincini la veille de la rentrée, bénéficiera à près de 6 000 collégiens supplémentaires. Sur les 69 000 collégiens de Haute-Garonne, environ 54 000 sont demi-pensionnaires, ce qui fait de cette aide un levier concret contre la pression sur le pouvoir d&amp;#x27;achat des familles modestes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/6-000-nouveaux-collegiens-de-toulouse-et-de-haute-garonne-beneficient-d-un-tarif-reduit-sur-les-repas-voici-pourquoi_64732275.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/6-000-nouveaux-collegiens-de-toulouse-et-de-haute-garonne-beneficient-d-un-tarif-reduit-sur-les-repas-voici-pourquoi_64732275.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>À la rentrée de septembre 2026, le Département de la Haute-Garonne réforme son Aide à la Restauration Scolaire (ARS) pour en élargir l'accès. Le système passe de deux niveaux de prise en charge (50 % et 100 %) à six tranches progressives allant de 20 % à 100 %, permettant de mieux s'adapter à la diversité des situations familiales. Cette évolution, annoncée par le président du Département Sébastien Vincini la veille de la rentrée, bénéficiera à près de 6 000 collégiens supplémentaires. Sur les 69 000 collégiens de Haute-Garonne, environ 54 000 sont demi-pensionnaires, ce qui fait de cette aide un levier concret contre la pression sur le pouvoir d'achat des familles modestes.</summary>
-    <category term="news"/>
-    <published>2026-09-04T07:39:41+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:aa5e8e2d-e1bc-4581-80f8-f3467e009a5e</id>
-    <title>Vaccin contre le cancer : résultats prometteurs pour l'essai de l'Oncopole</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Un vaccin individualisé contre les rechutes de cancer de la tête et du cou, le TG4050, donne des résultats encourageants après plusieurs années d&amp;#x27;essai clinique international auquel l&amp;#x27;Oncopole de Toulouse participe activement. Sur 16 patients vaccinés, tous sont encore en rémission clinique au bout de trois ans, sans effets indésirables signalés. En revanche, trois des seize patients non vaccinés ont rechuté, ce qui renforce l&amp;#x27;intérêt du dispositif. Ces résultats, publiés dans une revue scientifique internationale, sont qualifiés d&amp;#x27;« espoir majeur » par le Pr Jean-Pierre Delord, qui coordonne l&amp;#x27;essai à Toulouse et rappelle que l&amp;#x27;Oncopole a inclus le premier patient mondial dans cet essai clinique.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-espoir-majeur-un-vaccin-contre-le-cancer-experimente-a-toulouse-donne-des-resultats-tres-prometteurs_64741395.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/un-espoir-majeur-un-vaccin-contre-le-cancer-experimente-a-toulouse-donne-des-resultats-tres-prometteurs_64741395.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Un vaccin individualisé contre les rechutes de cancer de la tête et du cou, le TG4050, donne des résultats encourageants après plusieurs années d'essai clinique international auquel l'Oncopole de Toulouse participe activement. Sur 16 patients vaccinés, tous sont encore en rémission clinique au bout de trois ans, sans effets indésirables signalés. En revanche, trois des seize patients non vaccinés ont rechuté, ce qui renforce l'intérêt du dispositif. Ces résultats, publiés dans une revue scientifique internationale, sont qualifiés d'« espoir majeur » par le Pr Jean-Pierre Delord, qui coordonne l'essai à Toulouse et rappelle que l'Oncopole a inclus le premier patient mondial dans cet essai clinique.</summary>
-    <category term="news"/>
-    <published>2026-09-04T06:42:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b94073d6-06f4-4bf3-b52f-e6108a2e1f5b</id>
-    <title>Tirs sur une voiture à La Reynerie : deux suspects arrêtés</title>
-    <updated>2026-09-04T09:52:07.129214+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;p&gt;Dans la nuit du jeudi 3 septembre, deux hommes à bord d&amp;#x27;une moto électrique Sur Ron ont ouvert le feu sur une voiture occupée par quatre jeunes femmes, au cheminement Edgard-Varèse derrière l&amp;#x27;avenue de la Reynerie. Selon les témoignages des victimes, l&amp;#x27;un des passagers a tiré sur la lunette arrière du véhicule après une altercation. Miraculeusement, aucune des quatre jeunes femmes, âgées de 19 à 21 ans, n&amp;#x27;a été blessée. Après avoir alerté le 17, les forces de l&amp;#x27;ordre ont retrouvé la moto cachée place de Milan, puis interpellé les deux suspects — l&amp;#x27;un dissimulé dans un hall d&amp;#x27;immeuble, l&amp;#x27;autre dans un buisson — avant de les conduire en garde à vue.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-police-appelee-pour-des-tirs-sur-une-voiture-occupee-par-4-personnes-a-toulouse-deux-suspects-retrouves-et-arretes_64745473.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/la-police-appelee-pour-des-tirs-sur-une-voiture-occupee-par-4-personnes-a-toulouse-deux-suspects-retrouves-et-arretes_64745473.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Dans la nuit du jeudi 3 septembre, deux hommes à bord d'une moto électrique Sur Ron ont ouvert le feu sur une voiture occupée par quatre jeunes femmes, au cheminement Edgard-Varèse derrière l'avenue de la Reynerie. Selon les témoignages des victimes, l'un des passagers a tiré sur la lunette arrière du véhicule après une altercation. Miraculeusement, aucune des quatre jeunes femmes, âgées de 19 à 21 ans, n'a été blessée. Après avoir alerté le 17, les forces de l'ordre ont retrouvé la moto cachée place de Milan, puis interpellé les deux suspects — l'un dissimulé dans un hall d'immeuble, l'autre dans un buisson — avant de les conduire en garde à vue.</summary>
-    <category term="news"/>
-    <published>2026-09-04T10:13:38+02:00</published>
-  </entry>
   <entry>
     <id>cluster:8a848688-6c1a-40a0-a58e-5691ed18529f</id>
     <title>Jean-François Zygel met en musique le Canal du Midi à la Halle aux Grains</title>
@@ -1703,27 +1377,35 @@
     <published>2026-09-05T09:14:19.812709+00:00</published>
   </entry>
   <entry>
-    <id>cluster:afe5923a-e119-43e6-ba12-983fa5802ded</id>
-    <title>Bons plans</title>
+    <id>cluster:760d2405-d4fe-484f-b998-5d77e0828bf8</id>
+    <title>Sélection de sorties à Toulouse ce week-end</title>
     <updated>2026-09-11T06:36:18.470792+00:00</updated>
     <author>
       <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-09-11-1?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-09-11-1?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
+    <content type="html">&lt;p&gt;Un large programme de sorties anime Toulouse et sa métropole ce week-end, entre forums des associations dans de nombreuses communes (Cornebarrieu, Colomiers, Tournefeuille, Blagnac et d&amp;#x27;autres), grande braderie au centre-ville et foire à Tournefeuille. Côté festivités, le MIWA Festival célèbre les arts et cultures du Japon au jardin japonais, tandis que le Festival Arto investit les rues avec plus de 30 compagnies mêlant cirque, danse, théâtre et musique. Les amateurs de bonne table et de plein air pourront rejoindre le grand banquet cassoulet de « Toulouse à table » au Jardin du Grand Rond, ou participer aux vendanges à la main au domaine de Candie. Zumba géante à la Cartoucherie, friperies, vide-greniers, Mélodies du Canal et événement fripes &amp;amp; spritz place Saint-Pierre complètent un week-end particulièrement chargé.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux articles sont issus de la même source (lessentiel) et couvrent le même week-end de sorties, mais avec des sélections thématiques distinctes : le premier est centré sur les forums d&amp;#x27;associations, braderies et événements gastronomiques/culturels de plein air ; le second met l&amp;#x27;accent sur la musique, la danse, le festival de rue et les bons plans créateurs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;lessentiel (Les sorties du week-end 🏯)&lt;/strong&gt;: Forums des associations en métropole, braderie, banquet cassoulet, MIWA Festival et fête des vendanges&lt;/li&gt;&lt;li&gt;&lt;strong&gt;lessentiel (Les sorties du week-end 🕺🏽)&lt;/strong&gt;: Zumba géante, Festival Arto, Mélodies du Canal, vide-grenier et créateurs occitans&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-11?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#49564"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-11?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#49564"/>
+    <summary>Un large programme de sorties anime Toulouse et sa métropole ce week-end, entre forums des associations dans de nombreuses communes (Cornebarrieu, Colomiers, Tournefeuille, Blagnac et d'autres), grande braderie au centre-ville et foire à Tournefeuille. Côté festivités, le MIWA Festival célèbre les arts et cultures du Japon au jardin japonais, tandis que le Festival Arto investit les rues avec plus de 30 compagnies mêlant cirque, danse, théâtre et musique. Les amateurs de bonne table et de plein air pourront rejoindre le grand banquet cassoulet de « Toulouse à table » au Jardin du Grand Rond, ou participer aux vendanges à la main au domaine de Candie. Zumba géante à la Cartoucherie, friperies, vide-greniers, Mélodies du Canal et événement fripes &amp; spritz place Saint-Pierre complètent un week-end particulièrement chargé.</summary>
+    <category term="news"/>
     <published>2026-09-11T04:10:05.913000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:070cd795-841c-441a-880e-71a2d636c4f4</id>
-    <title>Musique</title>
+    <id>cluster:f4e59014-f947-4309-b03f-8959ddeb459d</id>
+    <title>Un week-end sportif chargé à Toulouse : rugby, foot féminin et triathlon</title>
     <updated>2026-09-11T06:36:18.470792+00:00</updated>
     <author>
       <name>lessentiel</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-09-11-0?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-09-11-0?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
+    <content type="html">&lt;p&gt;Ce week-end est particulièrement dense sur le plan sportif à Toulouse. Le TOXIII dispute son dernier match à domicile de la saison en Super League face à Hull FC, ce soir à 19h à Ernest Wallon, avec un concert de M Pokora en clôture. Les Violettes du TFC font leur retour dans l&amp;#x27;élite du foot féminin (Arkéma Première Ligue) avec un match gratuit au Stadium face au Havre, mais inscription obligatoire. Le Stade Toulousain ouvre quant à lui la saison de Top 14 à La Rochelle dimanche soir. Enfin, la base de loisirs de La Ramée accueille la 16e édition du triathlon de Toulouse, organisée par le TUC Toulouse, avec 3 000 participants attendus et sept épreuves pour tous les niveaux.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article (🏉) se concentre sur le rugby à XIII et donne un aperçu du hockey sur glace et de la pétanque à Fenouillet. Le second (⚽) met en avant le foot féminin et le triathlon comme temps forts du week-end.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;lessentiel (🏉)&lt;/strong&gt;: Rugby à XIII (TOXIII vs Hull FC), concert M Pokora, Top 14 et hockey sur glace&lt;/li&gt;&lt;li&gt;&lt;strong&gt;lessentiel (⚽)&lt;/strong&gt;: Retour des Violettes en Arkéma Première Ligue et triathlon de Toulouse à La Ramée&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-11?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#49563"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-11?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#49563"/>
+    <summary>Ce week-end est particulièrement dense sur le plan sportif à Toulouse. Le TOXIII dispute son dernier match à domicile de la saison en Super League face à Hull FC, ce soir à 19h à Ernest Wallon, avec un concert de M Pokora en clôture. Les Violettes du TFC font leur retour dans l'élite du foot féminin (Arkéma Première Ligue) avec un match gratuit au Stadium face au Havre, mais inscription obligatoire. Le Stade Toulousain ouvre quant à lui la saison de Top 14 à La Rochelle dimanche soir. Enfin, la base de loisirs de La Ramée accueille la 16e édition du triathlon de Toulouse, organisée par le TUC Toulouse, avec 3 000 participants attendus et sept épreuves pour tous les niveaux.</summary>
+    <category term="news"/>
     <published>2026-09-11T04:10:05.913000+00:00</published>
   </entry>
   <entry>
@@ -2123,19 +1805,16 @@
     <title>Sélection de sorties à Toulouse ce week-end de mi-septembre</title>
     <updated>2026-09-11T06:36:18.470792+00:00</updated>
     <author>
-      <name>tourinsoft.com</name>
-    </author>
-    <author>
       <name>actu_toulouse</name>
     </author>
     <content type="html">&lt;p&gt;Les deux sources proposent une sélection de sorties à Toulouse pour le week-end des 12 et 13 septembre, couvrant des événements variés : concerts, expositions, sport et spectacles. Piano aux Jacobins (47e édition, jusqu&amp;#x27;au 30 septembre) figure en tête des deux listes, avec au programme des compositeurs classiques comme Bach et Beethoven mais aussi du jazz et de la musique cubaine. Actu Toulouse met également en avant des événements plus populaires ou insolites — un comedy club, une balade olfactive le long du Canal du Midi, un tournoi de poker — absents de la sélection institutionnelle de Toulouse Métropole. Côté Métropole, des rendez-vous comme le Triathlon de Toulouse, le Festival Sign&amp;#x27;ô (culture sourde) ou le Canoë-Brunch avec une championne olympique complètent un programme éclectique s&amp;#x27;adressant à tous les publics.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Tourinsoft/Toulouse Métropole adopte un ton institutionnel et couvre surtout les grands événements labellisés ou soutenus par la collectivité. Actu Toulouse vise un public plus large avec une sélection plus spontanée incluant humour, poker et balades.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;tourinsoft.com&lt;/strong&gt;: Programme officiel et événements culturels institutionnels (festivals, sport, expos)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Sélection éditoriale grand public : comedy, balade, marchés, sorties plus insolites&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="http://cdt31.tourinsoft.com/view.ashx?email=98ce5d0f-1bbe-4a4e-8453-1383f93e273c&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;tourinsoft.com&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/concerts-humour-balade-tournoi-de-poker-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine_64761383.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="http://cdt31.tourinsoft.com/view.ashx?email=98ce5d0f-1bbe-4a4e-8453-1383f93e273c&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/concerts-humour-balade-tournoi-de-poker-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine_64761383.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/concerts-humour-balade-tournoi-de-poker-notre-selection-de-sorties-a-faire-a-toulouse-en-cette-fin-de-semaine_64761383.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>Les deux sources proposent une sélection de sorties à Toulouse pour le week-end des 12 et 13 septembre, couvrant des événements variés : concerts, expositions, sport et spectacles. Piano aux Jacobins (47e édition, jusqu'au 30 septembre) figure en tête des deux listes, avec au programme des compositeurs classiques comme Bach et Beethoven mais aussi du jazz et de la musique cubaine. Actu Toulouse met également en avant des événements plus populaires ou insolites — un comedy club, une balade olfactive le long du Canal du Midi, un tournoi de poker — absents de la sélection institutionnelle de Toulouse Métropole. Côté Métropole, des rendez-vous comme le Triathlon de Toulouse, le Festival Sign'ô (culture sourde) ou le Canoë-Brunch avec une championne olympique complètent un programme éclectique s'adressant à tous les publics.</summary>
     <category term="news"/>
-    <published>2026-09-10T10:55:21.542000+00:00</published>
+    <published>2026-09-10T17:44:37+02:00</published>
   </entry>
   <entry>
     <id>cluster:254eed16-a3dc-4640-8373-65cc152ccf0c</id>
@@ -2264,35 +1943,201 @@
     <published>2026-09-05T09:15:01.703652+00:00</published>
   </entry>
   <entry>
-    <id>cluster:760d2405-d4fe-484f-b998-5d77e0828bf8</id>
-    <title>Sélection de sorties à Toulouse ce week-end</title>
-    <updated>2026-09-11T06:36:18.470792+00:00</updated>
+    <id>cluster:d7fedc69-6127-4ece-b224-5c77eb21131e</id>
+    <title>3 Trios - 3 Univers à la Halle aux Grains le 18 décembre</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
     <author>
-      <name>lessentiel</name>
+      <name>ticketmaster</name>
     </author>
-    <content type="html">&lt;p&gt;Un large programme de sorties anime Toulouse et sa métropole ce week-end, entre forums des associations dans de nombreuses communes (Cornebarrieu, Colomiers, Tournefeuille, Blagnac et d&amp;#x27;autres), grande braderie au centre-ville et foire à Tournefeuille. Côté festivités, le MIWA Festival célèbre les arts et cultures du Japon au jardin japonais, tandis que le Festival Arto investit les rues avec plus de 30 compagnies mêlant cirque, danse, théâtre et musique. Les amateurs de bonne table et de plein air pourront rejoindre le grand banquet cassoulet de « Toulouse à table » au Jardin du Grand Rond, ou participer aux vendanges à la main au domaine de Candie. Zumba géante à la Cartoucherie, friperies, vide-greniers, Mélodies du Canal et événement fripes &amp;amp; spritz place Saint-Pierre complètent un week-end particulièrement chargé.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux articles sont issus de la même source (lessentiel) et couvrent le même week-end de sorties, mais avec des sélections thématiques distinctes : le premier est centré sur les forums d&amp;#x27;associations, braderies et événements gastronomiques/culturels de plein air ; le second met l&amp;#x27;accent sur la musique, la danse, le festival de rue et les bons plans créateurs.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;lessentiel (Les sorties du week-end 🏯)&lt;/strong&gt;: Forums des associations en métropole, braderie, banquet cassoulet, MIWA Festival et fête des vendanges&lt;/li&gt;&lt;li&gt;&lt;strong&gt;lessentiel (Les sorties du week-end 🕺🏽)&lt;/strong&gt;: Zumba géante, Festival Arto, Mélodies du Canal, vide-grenier et créateurs occitans&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48916"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-11?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#49564"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48916"/>
-    <summary>Un large programme de sorties anime Toulouse et sa métropole ce week-end, entre forums des associations dans de nombreuses communes (Cornebarrieu, Colomiers, Tournefeuille, Blagnac et d'autres), grande braderie au centre-ville et foire à Tournefeuille. Côté festivités, le MIWA Festival célèbre les arts et cultures du Japon au jardin japonais, tandis que le Festival Arto investit les rues avec plus de 30 compagnies mêlant cirque, danse, théâtre et musique. Les amateurs de bonne table et de plein air pourront rejoindre le grand banquet cassoulet de « Toulouse à table » au Jardin du Grand Rond, ou participer aux vendanges à la main au domaine de Candie. Zumba géante à la Cartoucherie, friperies, vide-greniers, Mélodies du Canal et événement fripes &amp; spritz place Saint-Pierre complètent un week-end particulièrement chargé.</summary>
-    <category term="news"/>
-    <published>2026-09-04T04:08:56.160000+00:00</published>
+    <content type="html">&lt;p&gt;Le concert « 3 Trios - 3 Univers » est programmé à la Halle aux Grains de Toulouse le 18 décembre 2026. La soirée met à l&amp;#x27;honneur la musique du monde à travers la formule du trio, proposant trois formations aux univers distincts sur une même scène. La Halle aux Grains, salle de référence pour les musiques classiques et du monde à Toulouse, accueille cet événement au cœur de la saison hivernale. Les amateurs de musiques du monde et de formats intimistes de chambre sont particulièrement concernés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/3-trios-3-univers-billet/idmanif/671401/idseance/4405133?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/3-trios-3-univers-billet/idmanif/671401/idseance/4405133?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le concert « 3 Trios - 3 Univers » est programmé à la Halle aux Grains de Toulouse le 18 décembre 2026. La soirée met à l'honneur la musique du monde à travers la formule du trio, proposant trois formations aux univers distincts sur une même scène. La Halle aux Grains, salle de référence pour les musiques classiques et du monde à Toulouse, accueille cet événement au cœur de la saison hivernale. Les amateurs de musiques du monde et de formats intimistes de chambre sont particulièrement concernés.</summary>
+    <category term="event"/>
+    <published>2026-09-12T06:32:12.156063+00:00</published>
   </entry>
   <entry>
-    <id>cluster:f4e59014-f947-4309-b03f-8959ddeb459d</id>
-    <title>Un week-end sportif chargé à Toulouse : rugby, foot féminin et triathlon</title>
-    <updated>2026-09-11T06:36:18.470792+00:00</updated>
+    <id>cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db</id>
+    <title>SONoKRAFT pour enfants au Bascala de Bruguières</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
     <author>
-      <name>lessentiel</name>
+      <name>ticketmaster</name>
     </author>
-    <content type="html">&lt;p&gt;Ce week-end est particulièrement dense sur le plan sportif à Toulouse. Le TOXIII dispute son dernier match à domicile de la saison en Super League face à Hull FC, ce soir à 19h à Ernest Wallon, avec un concert de M Pokora en clôture. Les Violettes du TFC font leur retour dans l&amp;#x27;élite du foot féminin (Arkéma Première Ligue) avec un match gratuit au Stadium face au Havre, mais inscription obligatoire. Le Stade Toulousain ouvre quant à lui la saison de Top 14 à La Rochelle dimanche soir. Enfin, la base de loisirs de La Ramée accueille la 16e édition du triathlon de Toulouse, organisée par le TUC Toulouse, avec 3 000 participants attendus et sept épreuves pour tous les niveaux.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article (🏉) se concentre sur le rugby à XIII et donne un aperçu du hockey sur glace et de la pétanque à Fenouillet. Le second (⚽) met en avant le foot féminin et le triathlon comme temps forts du week-end.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;lessentiel (🏉)&lt;/strong&gt;: Rugby à XIII (TOXIII vs Hull FC), concert M Pokora, Top 14 et hockey sur glace&lt;/li&gt;&lt;li&gt;&lt;strong&gt;lessentiel (⚽)&lt;/strong&gt;: Retour des Violettes en Arkéma Première Ligue et triathlon de Toulouse à La Ramée&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#48915"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-11?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#49563"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-04?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#48915"/>
-    <summary>Ce week-end est particulièrement dense sur le plan sportif à Toulouse. Le TOXIII dispute son dernier match à domicile de la saison en Super League face à Hull FC, ce soir à 19h à Ernest Wallon, avec un concert de M Pokora en clôture. Les Violettes du TFC font leur retour dans l'élite du foot féminin (Arkéma Première Ligue) avec un match gratuit au Stadium face au Havre, mais inscription obligatoire. Le Stade Toulousain ouvre quant à lui la saison de Top 14 à La Rochelle dimanche soir. Enfin, la base de loisirs de La Ramée accueille la 16e édition du triathlon de Toulouse, organisée par le TUC Toulouse, avec 3 000 participants attendus et sept épreuves pour tous les niveaux.</summary>
+    <content type="html">&lt;p&gt;Le spectacle SONoKRAFT est programmé au Bascala de Bruguières le 22 novembre 2026. Classé dans la catégorie théâtre jeune public, cet événement s&amp;#x27;adresse principalement aux familles et aux enfants. Le Bascala est une salle de spectacle bien connue du nord de la métropole toulousaine. Peu de détails supplémentaires sont disponibles à partir de la seule source Ticketmaster.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/sonokraft-billet/idmanif/671865/idseance/4410922?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/sonokraft-billet/idmanif/671865/idseance/4410922?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le spectacle SONoKRAFT est programmé au Bascala de Bruguières le 22 novembre 2026. Classé dans la catégorie théâtre jeune public, cet événement s'adresse principalement aux familles et aux enfants. Le Bascala est une salle de spectacle bien connue du nord de la métropole toulousaine. Peu de détails supplémentaires sont disponibles à partir de la seule source Ticketmaster.</summary>
+    <category term="event"/>
+    <published>2026-09-12T06:32:11.220144+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:0d45f6bb-b148-4b5e-b153-40c802aa626d</id>
+    <title>Doc Gynéco en concert au Bikini à Ramonville</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;p&gt;Le rappeur Doc Gynéco se produira au Bikini, salle de concert emblématique de Ramonville Saint-Agne, le 6 novembre 2026. Figure incontournable du rap français des années 1990-2000, il est notamment connu pour ses albums cultes comme &amp;#x27;Première Consultation&amp;#x27;. Ce concert s&amp;#x27;inscrit dans la programmation hip-hop/rap du Bikini, qui accueille régulièrement des artistes de la scène urbaine française. Les amateurs de rap old school et de scène française sont particulièrement concernés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/doc-gyneco-billet/idmanif/672189/idseance/4413646?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/doc-gyneco-billet/idmanif/672189/idseance/4413646?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le rappeur Doc Gynéco se produira au Bikini, salle de concert emblématique de Ramonville Saint-Agne, le 6 novembre 2026. Figure incontournable du rap français des années 1990-2000, il est notamment connu pour ses albums cultes comme 'Première Consultation'. Ce concert s'inscrit dans la programmation hip-hop/rap du Bikini, qui accueille régulièrement des artistes de la scène urbaine française. Les amateurs de rap old school et de scène française sont particulièrement concernés.</summary>
+    <category term="event"/>
+    <published>2026-09-12T06:32:11.219463+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:6012a000-ce3d-4865-86b8-6c7f31c34914</id>
+    <title>Pyrénicimes 2026 au Théâtre Musical de Pibrac</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;p&gt;Le festival Pyrénicimes investit le Théâtre Musical de Pibrac les 27 et 28 novembre 2026 pour célébrer la montagne, la nature et les grands espaces. Au programme : ciné-débats, salon photo nature, spectacle inédit, village montagnard gourmand et artisanal, démonstrations, ateliers et conférences. L&amp;#x27;événement se distingue par ses valeurs affichées de convivialité, d&amp;#x27;éco-responsabilité et d&amp;#x27;inclusion, dans un esprit de cordée solidaire. Il s&amp;#x27;adresse à tous les amoureux de montagne et de nature sauvage de la région toulousaine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/pyrenicimes-2026/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/pyrenicimes-2026/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le festival Pyrénicimes investit le Théâtre Musical de Pibrac les 27 et 28 novembre 2026 pour célébrer la montagne, la nature et les grands espaces. Au programme : ciné-débats, salon photo nature, spectacle inédit, village montagnard gourmand et artisanal, démonstrations, ateliers et conférences. L'événement se distingue par ses valeurs affichées de convivialité, d'éco-responsabilité et d'inclusion, dans un esprit de cordée solidaire. Il s'adresse à tous les amoureux de montagne et de nature sauvage de la région toulousaine.</summary>
+    <category term="event"/>
+    <published>2026-09-12T06:32:09.882159+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3aae62f0-f57d-4533-8c97-9841f780d1ae</id>
+    <title>Beethoven Bicentenaire à l'Auditorium Saint-Pierre des Cuisines</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;p&gt;Pour marquer le 200ème anniversaire de la mort de Beethoven, deux concerts intitulés « Beethoven : Le Bicentenaire » sont programmés les 1er et 2 mars 2027 à Toulouse. Le programme met à l&amp;#x27;honneur la 7ème Symphonie et le Concerto pour piano « L&amp;#x27;Empereur », présentés comme parmi les œuvres les plus représentatives du compositeur. Les deux sources signalent des lieux différents : l&amp;#x27;Auditorium Saint-Pierre des Cuisines d&amp;#x27;un côté, et L&amp;#x27;Escale de l&amp;#x27;autre, ce qui laisse supposer que l&amp;#x27;événement se décline sur deux sites distincts. Les amateurs de musique classique sont invités à célébrer un compositeur présenté comme le premier à s&amp;#x27;être affranchi de tout mécénat, écrivant librement pour la postérité.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux sources partagent un texte de présentation identique mais indiquent des lieux différents — Auditorium Saint-Pierre des Cuisines et L&amp;#x27;Escale — suggérant deux représentations distinctes dans le cadre du même événement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (Auditorium Saint-Pierre des Cuisines)&lt;/strong&gt;: Représentation à l&amp;#x27;Auditorium Saint-Pierre des Cuisines&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (L&amp;#x27;Escale)&lt;/strong&gt;: Représentation à L&amp;#x27;Escale&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/beethoven-le-bicentenaire/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/beethoven-le-bicentenaire-2/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/beethoven-le-bicentenaire/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Pour marquer le 200ème anniversaire de la mort de Beethoven, deux concerts intitulés « Beethoven : Le Bicentenaire » sont programmés les 1er et 2 mars 2027 à Toulouse. Le programme met à l'honneur la 7ème Symphonie et le Concerto pour piano « L'Empereur », présentés comme parmi les œuvres les plus représentatives du compositeur. Les deux sources signalent des lieux différents : l'Auditorium Saint-Pierre des Cuisines d'un côté, et L'Escale de l'autre, ce qui laisse supposer que l'événement se décline sur deux sites distincts. Les amateurs de musique classique sont invités à célébrer un compositeur présenté comme le premier à s'être affranchi de tout mécénat, écrivant librement pour la postérité.</summary>
+    <category term="event"/>
+    <published>2026-09-12T06:31:26.359599+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d7d85c4d-ef71-4224-8dc9-ffe09cedfe6d</id>
+    <title>La Fondation des Femmes programme soirées et conférences à Toulouse</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Pour la rentrée, la branche toulousaine de la Fondation des Femmes propose une série de rendez-vous engagés dès le 15 septembre, mêlant quiz féministe, conférences-débats avec des associations locales et une soirée musicale au Metronum. Le premier événement se tient le 15 septembre à partir de 19h au Flashback Café, avec un quiz autour des grandes questions féministes et un blind test dédié aux artistes féministes. Fondée en 2016 et reconnue d&amp;#x27;utilité publique, la Fondation des Femmes soutient financièrement, matériellement et juridiquement des associations féministes de terrain à travers la France. Ces événements visent à sensibiliser le grand public au travail de ces associations locales tout en récoltant des fonds pour leurs actions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/11/la-fondation-des-femmes-devoile-une-belle-programmation-pour-la-rentree-soirees-festives-conferences-13531036.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/09/11/la-fondation-des-femmes-devoile-une-belle-programmation-pour-la-rentree-soirees-festives-conferences-13531036.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Pour la rentrée, la branche toulousaine de la Fondation des Femmes propose une série de rendez-vous engagés dès le 15 septembre, mêlant quiz féministe, conférences-débats avec des associations locales et une soirée musicale au Metronum. Le premier événement se tient le 15 septembre à partir de 19h au Flashback Café, avec un quiz autour des grandes questions féministes et un blind test dédié aux artistes féministes. Fondée en 2016 et reconnue d'utilité publique, la Fondation des Femmes soutient financièrement, matériellement et juridiquement des associations féministes de terrain à travers la France. Ces événements visent à sensibiliser le grand public au travail de ces associations locales tout en récoltant des fonds pour leurs actions.</summary>
     <category term="news"/>
-    <published>2026-09-04T04:08:56.160000+00:00</published>
+    <published>2026-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:be62bb4d-5f8b-4487-95b0-4ac5e41d2aa9</id>
+    <title>Spectacle de feu gratuit des Commandos Percu au parc d'Odyssud</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;p&gt;Le jeudi 24 septembre, le parc d&amp;#x27;Odyssud à Blagnac accueille « Rythme Feu », la nouvelle création des Commandos Percu, compagnie fondée en 1994. À partir de 20h30, pendant une heure, le public découvrira un spectacle sans paroles mêlant percussions, flammes, étincelles et pyrotechnie, où le feu devient lui-même un instrument de musique. L&amp;#x27;entrée est entièrement gratuite et en plein air ; des food trucks seront présents dès 19h30 pour profiter du cadre. Cette soirée, organisée par la Ville de Blagnac et Odyssud Spectacles, marque officiellement le début du compte à rebours vers la réouverture de la Grande Salle d&amp;#x27;Odyssud, attendue à l&amp;#x27;automne 2027 après plusieurs années de travaux.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/11/un-spectacle-de-feu-gratuit-va-faire-vibrer-blagnac-le-24-septembre-13541154.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/09/11/un-spectacle-de-feu-gratuit-va-faire-vibrer-blagnac-le-24-septembre-13541154.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le jeudi 24 septembre, le parc d'Odyssud à Blagnac accueille « Rythme Feu », la nouvelle création des Commandos Percu, compagnie fondée en 1994. À partir de 20h30, pendant une heure, le public découvrira un spectacle sans paroles mêlant percussions, flammes, étincelles et pyrotechnie, où le feu devient lui-même un instrument de musique. L'entrée est entièrement gratuite et en plein air ; des food trucks seront présents dès 19h30 pour profiter du cadre. Cette soirée, organisée par la Ville de Blagnac et Odyssud Spectacles, marque officiellement le début du compte à rebours vers la réouverture de la Grande Salle d'Odyssud, attendue à l'automne 2027 après plusieurs années de travaux.</summary>
+    <category term="event"/>
+    <published>2026-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d08f2381-3bfd-4e97-abcb-577cdc4f3986</id>
+    <title>Airbus lance un rachat d'actions pour protéger ses actionnaires</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Airbus a annoncé le 11 septembre 2026 le lancement d&amp;#x27;un programme de rachat d&amp;#x27;actions portant sur jusqu&amp;#x27;à 4,1 millions de titres, une opération devant s&amp;#x27;achever au plus tard le 6 novembre. L&amp;#x27;objectif principal est d&amp;#x27;alimenter les plans d&amp;#x27;actionnariat salarié et les programmes de rémunération en actions, sans créer de nouvelles actions qui dilueraient les actionnaires existants. Ce rachat s&amp;#x27;inscrit dans le cadre d&amp;#x27;un mandat approuvé lors de l&amp;#x27;assemblée générale du 14 avril 2026, autorisant le conseil d&amp;#x27;administration à racheter jusqu&amp;#x27;à 10 % du capital. L&amp;#x27;opération est exécutée sur le marché ouvert via un prestataire financier indépendant, et s&amp;#x27;inscrit dans une pratique récurrente chez l&amp;#x27;avionneur toulousain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/airbus-pourquoi-l-avionneur-lance-un-nouveau-programme-de-rachat-d-actions_64775790.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/airbus-pourquoi-l-avionneur-lance-un-nouveau-programme-de-rachat-d-actions_64775790.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Airbus a annoncé le 11 septembre 2026 le lancement d'un programme de rachat d'actions portant sur jusqu'à 4,1 millions de titres, une opération devant s'achever au plus tard le 6 novembre. L'objectif principal est d'alimenter les plans d'actionnariat salarié et les programmes de rémunération en actions, sans créer de nouvelles actions qui dilueraient les actionnaires existants. Ce rachat s'inscrit dans le cadre d'un mandat approuvé lors de l'assemblée générale du 14 avril 2026, autorisant le conseil d'administration à racheter jusqu'à 10 % du capital. L'opération est exécutée sur le marché ouvert via un prestataire financier indépendant, et s'inscrit dans une pratique récurrente chez l'avionneur toulousain.</summary>
+    <category term="news"/>
+    <published>2026-09-11T08:58:52+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:21513305-f46a-418a-81b7-c15be8234218</id>
+    <title>Moudenc répond aux critiques : « Piquemal est un mauvais perdant »</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Six mois après sa réélection aux municipales de Toulouse, le maire Jean-Luc Moudenc fait le bilan de son nouveau mandat et annonce notamment l&amp;#x27;expérimentation d&amp;#x27;une brigade anti-points de deal pour lutter contre le trafic de drogue. Il en profite pour répondre fermement à son rival, le député LFI François Piquemal, qui présente simultanément un livre intitulé « Élection sous influence » alléguant des ingérences étrangères dans la campagne. L&amp;#x27;été a été marqué par plusieurs passes d&amp;#x27;armes entre les deux camps : Piquemal a critiqué le couvre-feu pour mineurs pendant la Coupe du monde et la non-distribution de lunettes pour l&amp;#x27;éclipse du 12 août, tandis que l&amp;#x27;adjoint Bolzan accusait les Insoumis de « soutenir la malbouffe ». La rivalité entre les deux camps, engagée depuis plusieurs années, ne montre aucun signe d&amp;#x27;apaisement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/polemiques-jean-luc-moudenc-le-maire-de-toulouse-repond-aux-attaques-francois-piquemal-est-un-mauvais-perdant_64773019.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/polemiques-jean-luc-moudenc-le-maire-de-toulouse-repond-aux-attaques-francois-piquemal-est-un-mauvais-perdant_64773019.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Six mois après sa réélection aux municipales de Toulouse, le maire Jean-Luc Moudenc fait le bilan de son nouveau mandat et annonce notamment l'expérimentation d'une brigade anti-points de deal pour lutter contre le trafic de drogue. Il en profite pour répondre fermement à son rival, le député LFI François Piquemal, qui présente simultanément un livre intitulé « Élection sous influence » alléguant des ingérences étrangères dans la campagne. L'été a été marqué par plusieurs passes d'armes entre les deux camps : Piquemal a critiqué le couvre-feu pour mineurs pendant la Coupe du monde et la non-distribution de lunettes pour l'éclipse du 12 août, tandis que l'adjoint Bolzan accusait les Insoumis de « soutenir la malbouffe ». La rivalité entre les deux camps, engagée depuis plusieurs années, ne montre aucun signe d'apaisement.</summary>
+    <category term="news"/>
+    <published>2026-09-11T14:17:10+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b632f9c3-9a02-47c5-8f28-df67d7002574</id>
+    <title>Contre-soirée Céline Dion aux Munitionnettes pour la paralysie cérébrale</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Le samedi 19 septembre 2026, une soirée festive et décalée intitulée « contre-soirée Céline Dion » se tiendra aux Munitionnettes, dans le quartier de la Cartoucherie à Toulouse. L&amp;#x27;événement est organisé par Camille Fourré (alias Mother FeuCoeur sur Instagram), ambassadrice de STEPtember, le défi solidaire de la Fondation Paralysie Cérébrale. Au programme : repas, jeux, animations, DJ, karaoké et surprises — le tout sans Céline Dion, mais avec l&amp;#x27;esprit festif de ses concerts en toile de fond, puisque la chanteuse reprend la scène le même mois à Nanterre. Les bénéfices soutiennent la recherche sur la paralysie cérébrale, première cause de handicap moteur chez l&amp;#x27;enfant en France.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-contre-soiree-celine-dion-va-avoir-lieu-a-toulouse-et-c-est-pour-une-bonne-cause_64776806.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/une-contre-soiree-celine-dion-va-avoir-lieu-a-toulouse-et-c-est-pour-une-bonne-cause_64776806.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le samedi 19 septembre 2026, une soirée festive et décalée intitulée « contre-soirée Céline Dion » se tiendra aux Munitionnettes, dans le quartier de la Cartoucherie à Toulouse. L'événement est organisé par Camille Fourré (alias Mother FeuCoeur sur Instagram), ambassadrice de STEPtember, le défi solidaire de la Fondation Paralysie Cérébrale. Au programme : repas, jeux, animations, DJ, karaoké et surprises — le tout sans Céline Dion, mais avec l'esprit festif de ses concerts en toile de fond, puisque la chanteuse reprend la scène le même mois à Nanterre. Les bénéfices soutiennent la recherche sur la paralysie cérébrale, première cause de handicap moteur chez l'enfant en France.</summary>
+    <category term="event"/>
+    <published>2026-09-11T16:33:36+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:089b305a-349c-481b-905e-e70b14e8e004</id>
+    <title>James et Oliver Phelps (Weasley) invités au TGS Toulouse 2026</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Les acteurs James et Oliver Phelps, interprètes des jumeaux Fred et George Weasley dans la saga Harry Potter, seront présents au Toulouse Game Show les 28 et 29 novembre 2026. L&amp;#x27;annonce s&amp;#x27;inscrit dans la programmation progressive de cette édition, quelques jours après la confirmation de la venue d&amp;#x27;Hélène Rollès. Les deux frères apparaissent dans les huit films de la franchise et sont considérés parmi les personnages les plus populaires de l&amp;#x27;univers Harry Potter. Ce n&amp;#x27;est pas la première visite de membres du casting HP au TGS : Devon Murray (Seamus Finnigan) était venu en 2023, et Tom Felton (Drago Malefoy) en 2021. La billetterie pour l&amp;#x27;événement, qui se tiendra au MEETT, est déjà ouverte.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-sont-les-jumeaux-les-plus-celebres-du-cinema-deux-acteurs-de-la-saga-harry-potter-invites-au-tgs-a-toulouse_64779832.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ce-sont-les-jumeaux-les-plus-celebres-du-cinema-deux-acteurs-de-la-saga-harry-potter-invites-au-tgs-a-toulouse_64779832.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les acteurs James et Oliver Phelps, interprètes des jumeaux Fred et George Weasley dans la saga Harry Potter, seront présents au Toulouse Game Show les 28 et 29 novembre 2026. L'annonce s'inscrit dans la programmation progressive de cette édition, quelques jours après la confirmation de la venue d'Hélène Rollès. Les deux frères apparaissent dans les huit films de la franchise et sont considérés parmi les personnages les plus populaires de l'univers Harry Potter. Ce n'est pas la première visite de membres du casting HP au TGS : Devon Murray (Seamus Finnigan) était venu en 2023, et Tom Felton (Drago Malefoy) en 2021. La billetterie pour l'événement, qui se tiendra au MEETT, est déjà ouverte.</summary>
+    <category term="event"/>
+    <published>2026-09-11T18:14:36+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:19c1cd02-d862-4f4c-a9ad-1b6a6c5c1e26</id>
+    <title>Vol d'un mouton la nuit dans un Ehpad de Saint-Simon</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Dans la nuit du 29 juillet dernier, deux individus ont escaladé les grillages d&amp;#x27;un Ehpad du quartier Saint-Simon à Toulouse pour dérober l&amp;#x27;un des trois moutons utilisés en éco-pâturage dans les jardins de l&amp;#x27;établissement. Les images de vidéosurveillance montrent les deux hommes attraper l&amp;#x27;animal par les cornes, le traîner au sol sur plusieurs mètres, puis le jeter par-dessus le portail. La gérante de l&amp;#x27;établissement a déposé plainte auprès du commissariat au lendemain des faits. Le mouton a finalement été retrouvé, mais blessé — il aurait perdu une corne lors de la manipulation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/vol-de-mouton-dans-un-ehpad-a-toulouse-deux-individus-ont-attrape-traine-et-jete-l-animal-qui-a-perdu-une-corne_64779482.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/vol-de-mouton-dans-un-ehpad-a-toulouse-deux-individus-ont-attrape-traine-et-jete-l-animal-qui-a-perdu-une-corne_64779482.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Dans la nuit du 29 juillet dernier, deux individus ont escaladé les grillages d'un Ehpad du quartier Saint-Simon à Toulouse pour dérober l'un des trois moutons utilisés en éco-pâturage dans les jardins de l'établissement. Les images de vidéosurveillance montrent les deux hommes attraper l'animal par les cornes, le traîner au sol sur plusieurs mètres, puis le jeter par-dessus le portail. La gérante de l'établissement a déposé plainte auprès du commissariat au lendemain des faits. Le mouton a finalement été retrouvé, mais blessé — il aurait perdu une corne lors de la manipulation.</summary>
+    <category term="news"/>
+    <published>2026-09-11T18:46:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1404d24f-8660-4791-aa8e-bc828c02bf0a</id>
+    <title>Grève des postiers de Rangueil : retards de courrier lundi 14 septembre</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Les postiers du centre courrier de Rangueil, à Toulouse, seront en grève le lundi 14 septembre 2026, entraînant des retards de livraison de lettres et colis. Un piquet de grève est prévu dès 7h30 devant le centre. Les grévistes, soutenus par le syndicat Sud-PTT, dénoncent un sous-effectif chronique lié au non-remplacement des absences, une surcharge de travail et un management qualifié de « toxique et répressif ». Les agents chargés de la collecte en entreprises et les livreurs de repas à domicile pour personnes âgées (« petits plats portés ») participent également au mouvement. Des négociations ont eu lieu avec la direction, mais aucune avancée concrète n&amp;#x27;a été obtenue à ce stade.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pourquoi-les-lettres-et-les-colis-pourraient-avoir-du-retard-en-debut-de-semaine-prochaine-a-toulouse_64778546.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/pourquoi-les-lettres-et-les-colis-pourraient-avoir-du-retard-en-debut-de-semaine-prochaine-a-toulouse_64778546.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les postiers du centre courrier de Rangueil, à Toulouse, seront en grève le lundi 14 septembre 2026, entraînant des retards de livraison de lettres et colis. Un piquet de grève est prévu dès 7h30 devant le centre. Les grévistes, soutenus par le syndicat Sud-PTT, dénoncent un sous-effectif chronique lié au non-remplacement des absences, une surcharge de travail et un management qualifié de « toxique et répressif ». Les agents chargés de la collecte en entreprises et les livreurs de repas à domicile pour personnes âgées (« petits plats portés ») participent également au mouvement. Des négociations ont eu lieu avec la direction, mais aucune avancée concrète n'a été obtenue à ce stade.</summary>
+    <category term="news"/>
+    <published>2026-09-12T06:46:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:081edbe4-aa46-40b8-9dbe-8cafd43bf859</id>
+    <title>8 expositions à ne pas manquer dans les musées toulousains</title>
+    <updated>2026-09-12T06:32:24.490638+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;p&gt;Actu Toulouse propose un tour d&amp;#x27;horizon de huit expositions à découvrir dans les musées de Toulouse, à l&amp;#x27;occasion de la rentrée. Les Abattoirs accueillent jusqu&amp;#x27;au 1er novembre « À l&amp;#x27;écoute du vivant – Biomimétisme, entre arts et sciences », coproduite avec le Quai des Savoirs, qui explore 3,5 milliards d&amp;#x27;années d&amp;#x27;évolution du vivant. Dès le 3 octobre 2026, le même musée lancera « Joan Miró – Protestation », une exposition très attendue réunissant près de 200 œuvres de l&amp;#x27;artiste, rarement montrées en France, jusqu&amp;#x27;au 7 mars 2027. La sélection s&amp;#x27;adresse aussi bien aux nouveaux étudiants fraîchement installés dans la Ville rose qu&amp;#x27;aux Toulousains curieux d&amp;#x27;art, d&amp;#x27;histoire ou de sciences.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-expositions-exceptionnelles-a-decouvrir-dans-les-musees-de-toulouse-8-rendez-vous-a-ne-pas-manquer_64772805.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/des-expositions-exceptionnelles-a-decouvrir-dans-les-musees-de-toulouse-8-rendez-vous-a-ne-pas-manquer_64772805.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Actu Toulouse propose un tour d'horizon de huit expositions à découvrir dans les musées de Toulouse, à l'occasion de la rentrée. Les Abattoirs accueillent jusqu'au 1er novembre « À l'écoute du vivant – Biomimétisme, entre arts et sciences », coproduite avec le Quai des Savoirs, qui explore 3,5 milliards d'années d'évolution du vivant. Dès le 3 octobre 2026, le même musée lancera « Joan Miró – Protestation », une exposition très attendue réunissant près de 200 œuvres de l'artiste, rarement montrées en France, jusqu'au 7 mars 2027. La sélection s'adresse aussi bien aux nouveaux étudiants fraîchement installés dans la Ville rose qu'aux Toulousains curieux d'art, d'histoire ou de sciences.</summary>
+    <category term="news"/>
+    <published>2026-09-12T07:12:02+02:00</published>
   </entry>
 </feed>

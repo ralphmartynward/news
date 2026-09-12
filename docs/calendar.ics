@@ -10855,6 +10855,27 @@ URL:https://www.toulouse-tourisme.com/agenda/paul-lay-piano-aux-jacobins/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1404d24f-8660-4791-aa8e-bc828c02bf0a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Grève des postiers de Rangueil : retards de courrier lundi 14 sept
+ embre
+DESCRIPTION:Les postiers du centre courrier de Rangueil\, à Toulouse\, ser
+ ont en grève le lundi 14 septembre 2026\, entraînant des retards de livr
+ aison de lettres et colis. Un piquet de grève est prévu dès 7h30 devant
+  le centre. Les grévistes\, soutenus par le syndicat Sud-PTT\, dénoncent
+  un sous-effectif chronique lié au non-remplacement des absences\, une su
+ rcharge de travail et un management qualifié de « toxique et répressif 
+ ». Les agents chargés de la collecte en entreprises et les livreurs de r
+ epas à domici\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pourqu
+ oi-les-lettres-et-les-colis-pourraient-avoir-du-retard-en-debut-de-semaine
+ -prochaine-a-toulouse_64778546.html
+URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-les-lettres-et-les-co
+ lis-pourraient-avoir-du-retard-en-debut-de-semaine-prochaine-a-toulouse_64
+ 778546.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d2539b25-0fdc-433d-a4c3-209fef718ae5@news.lavillerose.com
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
@@ -10870,6 +10891,26 @@ DESCRIPTION:Le pianiste Pierre Laurent Aimard se produit au Cloître des Ja
 URL:https://www.toulouse-tourisme.com/agenda/pierre-laurent-aimard-piano-au
  x-jacobins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
  da
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d7d85c4d-ef71-4224-8dc9-ffe09cedfe6d@news.lavillerose.com
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:La Fondation des Femmes programme soirées et conférences à Toulo
+ use
+DESCRIPTION:Pour la rentrée\, la branche toulousaine de la Fondation des F
+ emmes propose une série de rendez-vous engagés dès le 15 septembre\, m
+ êlant quiz féministe\, conférences-débats avec des associations locale
+ s et une soirée musicale au Metronum. Le premier événement se tient le 
+ 15 septembre à partir de 19h au Flashback Café\, avec un quiz autour des
+  grandes questions féministes et un blind test dédié aux artistes fémi
+ nistes. Fondée en 2016 et reconnue d'utilité publique\, la Fondation des
+  Femmes soutient f\n\nSource\: https://www.toulouscope.fr/2026/09/11/la-fo
+ ndation-des-femmes-devoile-une-belle-programmation-pour-la-rentree-soirees
+ -festives-conferences-13531036.php
+URL:https://www.toulouscope.fr/2026/09/11/la-fondation-des-femmes-devoile-u
+ ne-belle-programmation-pour-la-rentree-soirees-festives-conferences-135310
+ 36.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:501894f9-2deb-4047-883e-4d53d7802ff4@news.lavillerose.com
@@ -12634,7 +12675,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:461c92a1-46b7-4efb-8be0-de9b47899f3a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20260920
 SUMMARY:La Parole des Bâtons
 DESCRIPTION:La Bibliothèque d'étude et du patrimoine de Toulouse accueill
  e « La parole des bâtons »\, une exposition conçue par le poète et pl
@@ -12702,6 +12743,26 @@ DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, l'égl
 URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-laudi
  torium-saint-pierre-des-cuisines/?utm_source=ical&utm_medium=calendar&utm_
  campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b632f9c3-9a02-47c5-8f28-df67d7002574@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Contre-soirée Céline Dion
+DESCRIPTION:Le samedi 19 septembre 2026\, une soirée festive et décalée 
+ intitulée « contre-soirée Céline Dion » se tiendra aux Munitionnettes
+ \, dans le quartier de la Cartoucherie à Toulouse. L'événement est orga
+ nisé par Camille Fourré (alias Mother FeuCoeur sur Instagram)\, ambassad
+ rice de STEPtember\, le défi solidaire de la Fondation Paralysie Cérébr
+ ale. Au programme : repas\, jeux\, animations\, DJ\, karaoké et surprises
+  — le tout sans Céline Dion\, mais avec l'esprit festif de ses concerts
+  en toile de fond\, pui\n\nSource\: https://actu.fr/occitanie/toulouse_315
+ 55/une-contre-soiree-celine-dion-va-avoir-lieu-a-toulouse-et-c-est-pour-un
+ e-bonne-cause_64776806.html
+LOCATION:quartier de la Cartoucherie\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/une-contre-soiree-celine-dion-
+ va-avoir-lieu-a-toulouse-et-c-est-pour-une-bonne-cause_64776806.html?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:32b661a9-f147-44c4-be5a-da3ed4214259@news.lavillerose.com
@@ -13284,6 +13345,26 @@ DESCRIPTION:Les Commandos Percu présentent leur nouveau spectacle « Rythm
 LOCATION:Parc d'Odyssud le 24 septembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-commandos-percu/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:be62bb4d-5f8b-4487-95b0-4ac5e41d2aa9@news.lavillerose.com
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Rythme Feu
+DESCRIPTION:Le jeudi 24 septembre\, le parc d'Odyssud à Blagnac accueille 
+ « Rythme Feu »\, la nouvelle création des Commandos Percu\, compagnie f
+ ondée en 1994. À partir de 20h30\, pendant une heure\, le public découv
+ rira un spectacle sans paroles mêlant percussions\, flammes\, étincelles
+  et pyrotechnie\, où le feu devient lui-même un instrument de musique. L
+ 'entrée est entièrement gratuite et en plein air \; des food trucks sero
+ nt présents dès 19h30 pour profiter du cadre. Cette soirée\, organisée
+  par la Ville de Bla\n\nSource\: https://www.toulouscope.fr/2026/09/11/un-
+ spectacle-de-feu-gratuit-va-faire-vibrer-blagnac-le-24-septembre-13541154.
+ php
+LOCATION:parc d'Odyssud\, Toulouse
+URL:https://www.toulouscope.fr/2026/09/11/un-spectacle-de-feu-gratuit-va-fa
+ ire-vibrer-blagnac-le-24-septembre-13541154.php?utm_source=ical&utm_medium
+ =calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ac31f798-a756-4d4f-a2d3-99195bafb120@news.lavillerose.com
@@ -17326,6 +17407,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/sabrina-lhypnose-ensorcele
  r&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:0d45f6bb-b148-4b5e-b153-40c802aa626d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Doc Gynéco
+DESCRIPTION:Le rappeur Doc Gynéco se produira au Bikini\, salle de concert
+  emblématique de Ramonville Saint-Agne\, le 6 novembre 2026. Figure incon
+ tournable du rap français des années 1990-2000\, il est notamment connu 
+ pour ses albums cultes comme 'Première Consultation'. Ce concert s'inscri
+ t dans la programmation hip-hop/rap du Bikini\, qui accueille régulièrem
+ ent des artistes de la scène urbaine française. Les amateurs de rap old 
+ school et de scène française sont particulièrement concernés.\n\nSourc
+ e\: https://www.ticketmaster.fr/fr/manifestation/doc-gyneco-billet/idmanif
+ /672189/idseance/4413646
+LOCATION:salle de concert emblématique de Ramonville Saint-Agne\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/doc-gyneco-billet/idmanif/
+ 672189/idseance/4413646?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2152ac9a-db63-4bfe-8125-192a450254bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
@@ -18702,6 +18802,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/the-depeche-mode-experienc
  r&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db@news.lavillerose.com
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:SONoKRAFT
+DESCRIPTION:Le spectacle SONoKRAFT est programmé au Bascala de Bruguières
+  le 22 novembre 2026. Classé dans la catégorie théâtre jeune public\, 
+ cet événement s'adresse principalement aux familles et aux enfants. Le B
+ ascala est une salle de spectacle bien connue du nord de la métropole tou
+ lousaine. Peu de détails supplémentaires sont disponibles à partir de l
+ a seule source Ticketmaster.\n\nSource\: https://www.ticketmaster.fr/fr/ma
+ nifestation/sonokraft-billet/idmanif/671865/idseance/4410922
+LOCATION:salle de spectacle bien connue du nord de la métropole\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/sonokraft-billet/idmanif/6
+ 71865/idseance/4410922?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:cf8da38b-8090-4010-8d1a-f0728e1f892d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261128
@@ -19109,6 +19226,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/william-pilet-billet/idman
  =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6012a000-ce3d-4865-86b8-6c7f31c34914@news.lavillerose.com
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:Pyrénicimes 2026
+DESCRIPTION:Le festival Pyrénicimes investit le Théâtre Musical de Pibra
+ c les 27 et 28 novembre 2026 pour célébrer la montagne\, la nature et le
+ s grands espaces. Au programme : ciné-débats\, salon photo nature\, spec
+ tacle inédit\, village montagnard gourmand et artisanal\, démonstrations
+ \, ateliers et conférences. L'événement se distingue par ses valeurs af
+ fichées de convivialité\, d'éco-responsabilité et d'inclusion\, dans u
+ n esprit de cordée solidaire. Il s'adresse à tous les amoureux de montag
+ ne et de nature sau\n\nSource\: https://www.toulouse-tourisme.com/agenda/p
+ yrenicimes-2026/
+URL:https://www.toulouse-tourisme.com/agenda/pyrenicimes-2026/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e00c73cd-495e-47fa-b107-36d2ac9ec001@news.lavillerose.com
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
@@ -19196,6 +19330,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/elle-a-marque-toute-une-genera
  tion-cette-grande-star-de-la-tele-des-annees-90-revient-au-toulouse-game-s
  how_64742789.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
  e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:089b305a-349c-481b-905e-e70b14e8e004@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Toulouse Game Show
+DESCRIPTION:Les acteurs James et Oliver Phelps\, interprètes des jumeaux F
+ red et George Weasley dans la saga Harry Potter\, seront présents au Toul
+ ouse Game Show les 28 et 29 novembre 2026. L'annonce s'inscrit dans la pro
+ grammation progressive de cette édition\, quelques jours après la confir
+ mation de la venue d'Hélène Rollès. Les deux frères apparaissent dans 
+ les huit films de la franchise et sont considérés parmi les personnages 
+ les plus populaires de l'univers Harry Potter. Ce n'est pas la première v
+ isite d\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-sont-les-j
+ umeaux-les-plus-celebres-du-cinema-deux-acteurs-de-la-saga-harry-potter-in
+ vites-au-tgs-a-toulouse_64779832.html
+URL:https://actu.fr/occitanie/toulouse_31555/ce-sont-les-jumeaux-les-plus-c
+ elebres-du-cinema-deux-acteurs-de-la-saga-harry-potter-invites-au-tgs-a-to
+ ulouse_64779832.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9dac9cd2-4c69-4b59-ad10-ffc1ec5c7fb3@news.lavillerose.com
@@ -20440,6 +20594,25 @@ LOCATION:salle incontournable de la scène musicale toulousain\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/tnt-ac-dc-tribute-band-bil
  let/idmanif/655212/idtier/18864121?utm_source=ical&utm_medium=calendar&utm
  _campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d7fedc69-6127-4ece-b224-5c77eb21131e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:3 Trios - 3 Univers
+DESCRIPTION:Le concert « 3 Trios - 3 Univers » est programmé à la Halle
+  aux Grains de Toulouse le 18 décembre 2026. La soirée met à l'honneur 
+ la musique du monde à travers la formule du trio\, proposant trois format
+ ions aux univers distincts sur une même scène. La Halle aux Grains\, sal
+ le de référence pour les musiques classiques et du monde à Toulouse\, a
+ ccueille cet événement au cœur de la saison hivernale. Les amateurs de 
+ musiques du monde et de formats intimistes de chambre sont particulièreme
+ nt concernés.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/3-
+ trios-3-univers-billet/idmanif/671401/idseance/4405133
+LOCATION:Halle aux Grains de Toulouse le 18 décembre 2026\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/3-trios-3-univers-billet/i
+ dmanif/671401/idseance/4405133?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1cf1677a-9867-431f-be58-b7412e31ce6a@news.lavillerose.com
@@ -21747,6 +21920,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/nawell-madani-billet/idman
  =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f70bcbb8-fba8-4702-8075-5fc11176e191@news.lavillerose.com
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Thylacine / NTO au Bikini
+DESCRIPTION:Le Bikini à Ramonville-Saint-Agne accueille deux soirées éle
+ ctroniques début 2027. Thylacine se produira le 28 janvier 2027\, suivi d
+ e NTO le 12 février 2027. Ces deux artistes français sont des figures re
+ connues de la scène électronique et ambient\, avec chacun un univers son
+ ore distinctif. Les amateurs de musique électronique de la région toulou
+ saine sont directement concernés par ces deux événements.\n\nSource\: h
+ ttps://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/66004
+ 3/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/6
+ 60043/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5451a5c7-da19-4412-bcbf-33c7cdc96b90@news.lavillerose.com
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
@@ -22724,6 +22914,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/festival-partances-billet/
  paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:3aae62f0-f57d-4533-8c97-9841f780d1ae@news.lavillerose.com
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270303
+SUMMARY:Beethoven : Le Bicentenaire
+DESCRIPTION:Pour marquer le 200ème anniversaire de la mort de Beethoven\, 
+ deux concerts intitulés « Beethoven : Le Bicentenaire » sont programmé
+ s les 1er et 2 mars 2027 à Toulouse. Le programme met à l'honneur la 7è
+ me Symphonie et le Concerto pour piano « L'Empereur »\, présentés comm
+ e parmi les œuvres les plus représentatives du compositeur. Les deux sou
+ rces signalent des lieux différents : l'Auditorium Saint-Pierre des Cuisi
+ nes d'un côté\, et L'Escale de l'autre\, ce qui laisse supposer que l'é
+ vénement se déc\n\nSource\: https://www.toulouse-tourisme.com/agenda/bee
+ thoven-le-bicentenaire/
+URL:https://www.toulouse-tourisme.com/agenda/beethoven-le-bicentenaire/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:38d781e1-83b6-4ce6-8cfe-3b3f5b937883@news.lavillerose.com
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
@@ -23073,6 +23280,23 @@ DESCRIPTION:Le chorégraphe néerlandais Arno Schuitemaker présente Monday
  ay/
 URL:https://www.toulouse-tourisme.com/agenda/monday/?utm_source=ical&utm_me
  dium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:16cc425e-2846-45ca-a582-850adb7fc3b7@news.lavillerose.com
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Deux spectacles de danse à l'Altigone de Saint-Orens
+DESCRIPTION:L'Altigone de Saint-Orens-de-Gameville accueille deux spectacle
+ s de danse en mars 2027. Le premier\, « The Dancer(s) »\, est programmé
+  le 9 mars\, suivi de « Gaelic Feet » le 21 mars. Ces deux représentati
+ ons s'inscrivent dans la programmation arts et théâtre de la salle\, ave
+ c une orientation danse contemporaine et danse irlandaise respectivement. 
+ Les habitants de Toulouse et de l'agglomération sud-est sont concernés p
+ ar cette offre culturelle à proximité.\n\nSource\: https://www.ticketmas
+ ter.fr/fr/manifestation/the-dancer-s-billet/idmanif/658434/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/the-dancer-s-billet/idmani
+ f/658434/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5853bce7-2364-4aec-a61e-d2fcc147ca73@news.lavillerose.com

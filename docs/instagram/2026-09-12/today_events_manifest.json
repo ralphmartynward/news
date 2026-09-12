@@ -1,0 +1,154 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:e705deaa-f9f1-4f24-8088-890a88bc9af4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Sign'Ô : la création en Langue des Signes à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/310721758-196768226055640-7607910327357798477-n-copie.jpg",
+    "file": "cluster_e705deaa-f9f1-4f24-8088-890a88bc9af4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:61919086-3af9-457d-9d7a-84ae9ddfd245",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Semaine Seniors et + place du Capitole : bien-être et animations gratuites",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/senior-tapis-sport-adobestock_169974355.jpg?itok=g_g0OOIU",
+    "file": "cluster_61919086-3af9-457d-9d7a-84ae9ddfd245_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:b2c91cc4-69b1-47b6-ad41-e7d617d8f83e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Spectacle théâtral sur l'amour et les liens humains au Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TENTATIVE-DE-REUNIFICATION.jpg",
+    "file": "cluster_b2c91cc4-69b1-47b6-ad41-e7d617d8f83e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d975a455-75e1-4da5-bef8-c035cc8825a3",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Festival Sign'Ô aux Abattoirs : langue des signes et culture sourde",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/multivers-credits-rivolier.jpg?h=434fda7c&itok=5BgO7Tlg",
+    "file": "cluster_d975a455-75e1-4da5-bef8-c035cc8825a3_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:d916b8be-91bf-43a4-a70a-0a7f6fd7ad4d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Deux événements de triathlon à Toulouse en septembre et octobre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/triathlon-de-toulouse.jpg",
+    "file": "cluster_d916b8be-91bf-43a4-a70a-0a7f6fd7ad4d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:44394b2c-496e-44a1-8d8f-0286ce742739",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée : l'art du vitrail à travers Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Saint-Pierre-des-Chartreux-copie-2.jpg",
+    "file": "cluster_44394b2c-496e-44a1-8d8f-0286ce742739_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:57abac53-2369-4411-b911-16ac9181cefd",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Parcours insolite : des ornements Virebent à la Maison Giscard",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Fabrique-Giscard--Remi-Deligeon-copie-5.jpg",
+    "file": "cluster_57abac53-2369-4411-b911-16ac9181cefd_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:38382bc7-6e9d-4561-aefe-bdcb2a257822",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Mon Petit Chaperon : spectacle jeunesse à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MON-PETIT-CHAPERON.jpg",
+    "file": "cluster_38382bc7-6e9d-4561-aefe-bdcb2a257822_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9d0be56c-7c98-4405-bf96-66c470ab9c63",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Fils de ta Mère en cabaret improvisé au Bijou",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-FILS-DE-TA-MERE.jpg",
+    "file": "cluster_9d0be56c-7c98-4405-bf96-66c470ab9c63_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:e72ee4f9-5f28-47c9-8746-ec8d4c97800f",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Mélodies du Canal aux Cales de Radoub : concerts solidaires sur l'eau",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-MELODIES-DU-CANAL-2026.jpg",
+    "file": "cluster_e72ee4f9-5f28-47c9-8746-ec8d4c97800f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:244fa901-593f-4947-b119-ff74be5841df",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Deli Zirzop en concert au Taquin le 12 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DELI-ZIRZOP-2.jpg",
+    "file": "cluster_244fa901-593f-4947-b119-ff74be5841df_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2498fbbe-28b7-41cd-8e46-b6fab195a1b3",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Grain de Quartier fête sa rentrée avec un week-end éthiopien à Saint-Cyprien",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a9e75122fceaa009a060c51/hd/image.jpg?v=2",
+    "file": "cluster_2498fbbe-28b7-41cd-8e46-b6fab195a1b3_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:37e061d8-cdc7-4138-94f2-2202a115856b",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Murmures de la Terre au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Design-sans-titre---2025-12-19T102641.190---copie.jpg",
+    "file": "cluster_37e061d8-cdc7-4138-94f2-2202a115856b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
