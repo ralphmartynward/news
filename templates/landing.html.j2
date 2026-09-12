@@ -154,11 +154,16 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
 .news-card {
   background: #fff;
   border: 1px solid rgba(0,0,0,0.08); border-radius: 14px;
-  padding: 18px;
+  overflow: hidden;
   box-shadow: 0 1px 6px rgba(0,0,0,.05);
   text-decoration: none; color: inherit;
   display: flex; flex-direction: column;
   transition: transform 150ms, box-shadow 150ms, border-color 150ms;
+}
+.news-card-body { padding: 18px; display: flex; flex-direction: column; flex: 1; }
+.news-img {
+  width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
+  display: block; background: #f1f5f9;
 }
 .news-card:hover {
   transform: translateY(-2px);
@@ -351,13 +356,16 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
       <div class="news-grid">
         {% for entry in section.entries %}
         <a class="news-card" href="{{ entry.url }}" target="_blank" rel="noopener">
-          <div class="news-meta">
-            <span class="news-source cat-{{ section.key }}">{{ entry.source_label }}</span>
-            <span class="news-time">{{ entry.published_label }}</span>
+          {% if entry.image_url %}<img class="news-img" src="{{ entry.image_url }}" loading="lazy" alt=""/>{% endif %}
+          <div class="news-card-body">
+            <div class="news-meta">
+              <span class="news-source cat-{{ section.key }}">{{ entry.source_label }}</span>
+              <span class="news-time">{{ entry.published_label }}</span>
+            </div>
+            <h3 class="news-title">{{ entry.title }}</h3>
+            {% if entry.summary %}<p class="news-summary">{{ entry.summary }}</p>{% endif %}
+            <div class="news-cta">Lire l'article →</div>
           </div>
-          <h3 class="news-title">{{ entry.title }}</h3>
-          {% if entry.summary %}<p class="news-summary">{{ entry.summary }}</p>{% endif %}
-          <div class="news-cta">Lire l'article →</div>
         </a>
         {% endfor %}
       </div>

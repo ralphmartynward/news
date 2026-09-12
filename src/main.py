@@ -70,6 +70,7 @@ def _item_to_entry(item: dict[str, Any]) -> dict[str, Any]:
         "summary": summary,
         "framing_note": None,
         "read_for": None,
+        "image_url": item.get("image_url"),
         "sources": [{"source": item["source"], "url": item["url"], "title": item["title"]}],
     }
 
@@ -96,6 +97,14 @@ def _cluster_to_entry(cluster_id: str, items: list[dict[str, Any]], synth: dict[
         framing_note = None
         read_for = None
         item_type = primary.get("item_type", "news")
+    # Cluster's persisted image_url (source-ranked, survives item pruning)
+    # takes priority; fall back to the earliest item that has one.
+    image_url = (synth or {}).get("image_url")
+    if not image_url:
+        with_image = sorted(
+            (i for i in items if i.get("image_url")), key=lambda i: i["published_at"]
+        )
+        image_url = with_image[0]["image_url"] if with_image else None
     return {
         "id": cluster_id,
         "title": title,
@@ -107,6 +116,7 @@ def _cluster_to_entry(cluster_id: str, items: list[dict[str, Any]], synth: dict[
         "summary": summary,
         "framing_note": framing_note,
         "read_for": read_for,
+        "image_url": image_url,
         "sources": [
             {"source": i["source"], "url": i["url"], "title": i["title"]}
             for i in sorted(items, key=lambda x: x["published_at"])

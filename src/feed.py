@@ -48,6 +48,16 @@ def _source_label(key: str) -> str:
 
 def _content_html(entry: dict[str, Any]) -> str:
     parts: list[str] = []
+    # feedgen's Atom link() serialisation drops rel/type on every link
+    # (a variable-shadowing bug in FeedEntry.atom_entry: the loop reassigns
+    # `link` from the source dict to the freshly built XML element before
+    # reading link.get('rel')/('type') off it), so an enclosure-style
+    # <link rel="enclosure"> silently loses its rel and is indistinguishable
+    # from the alternate link on parse. Embed the image as a plain <img> in
+    # the content HTML instead — landing.py extracts it back out.
+    image_url = entry.get("image_url")
+    if image_url:
+        parts.append(f'<img src="{escape(image_url)}"/>')
     summary = entry.get("summary", "").strip()
     if summary:
         parts.append(f"<p>{escape(summary)}</p>")

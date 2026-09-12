@@ -2,7 +2,9 @@ from __future__ import annotations
 
 import json as _json
 import os
+import re
 from datetime import date, datetime, timedelta
+from html import unescape as _html_unescape
 from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
@@ -14,6 +16,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 PARIS = ZoneInfo("Europe/Paris")
 TEMPLATE_DIR = Path("templates")
 SUMMARY_MAX_CHARS = 500
+_CONTENT_IMG_RE = re.compile(r'<img\s+src="([^"]+)"')
 WORKER_SUBSCRIBE_URL = os.environ.get("WORKER_SUBSCRIBE_URL", "").strip()
 
 # (key, eyebrow label, section title)
@@ -267,9 +270,9 @@ def _build_entry(e: Any) -> dict[str, Any]:
         else published
     )
     source_key = _entry_source(e)
-    summary_text = e.get("summary", "") or (
-        e.get("content", [{}])[0].get("value", "") if e.get("content") else ""
-    )
+    content_html = e.get("content", [{}])[0].get("value", "") if e.get("content") else ""
+    summary_text = e.get("summary", "") or content_html
+    image_match = _CONTENT_IMG_RE.search(content_html)
     return {
         "url": e.link,
         "title": e.title,
@@ -278,6 +281,7 @@ def _build_entry(e: Any) -> dict[str, Any]:
         "published_label": _french_short_date(updated) if updated else "",
         "published_iso": published.isoformat() if published else "",
         "summary": _summarise(summary_text) if summary_text else "",
+        "image_url": _html_unescape(image_match.group(1)) if image_match else None,
     }
 
 

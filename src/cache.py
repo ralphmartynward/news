@@ -278,6 +278,7 @@ def load_cluster(conn: sqlite3.Connection, cluster_id: str) -> dict[str, Any] | 
         "event_start": r["event_start"] if "event_start" in keys else None,
         "event_end": r["event_end"] if "event_end" in keys else None,
         "event_name": r["event_name"] if "event_name" in keys else None,
+        "image_url": r["image_url"] if "image_url" in keys else None,
         "last_synthesised_at": r["last_synthesised_at"],
     }
 
