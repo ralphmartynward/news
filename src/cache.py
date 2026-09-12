@@ -57,6 +57,8 @@ MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN listicle_items TEXT",
     "ALTER TABLE clusters ADD COLUMN highlight TEXT",
     "ALTER TABLE clusters ADD COLUMN image_url TEXT",
+    "ALTER TABLE items ADD COLUMN event_start TEXT",
+    "ALTER TABLE items ADD COLUMN event_end TEXT",
 ]
 
 
@@ -147,6 +149,8 @@ def _row_to_item(r: sqlite3.Row) -> dict[str, Any]:
         "seen_at": r["seen_at"],
         "shown_in_feed": bool(r["shown_in_feed"]),
         "image_url": r["image_url"] if "image_url" in keys else None,
+        "event_start": r["event_start"] if "event_start" in keys else None,
+        "event_end": r["event_end"] if "event_end" in keys else None,
     }
 
 
@@ -296,13 +300,15 @@ def upsert(conn: sqlite3.Connection, items: Iterable[dict[str, Any]]) -> None:
                 it.get("seen_at", now),
                 int(it.get("shown_in_feed", False)),
                 it.get("image_url"),
+                it.get("_event_start"),
+                it.get("_event_end"),
             )
         )
     conn.executemany(
         "INSERT OR REPLACE INTO items "
         "(url, source, title, published_at, item_type, summary, extracted_text, "
-        "embedding, cluster_id, seen_at, shown_in_feed, image_url) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "embedding, cluster_id, seen_at, shown_in_feed, image_url, event_start, event_end) "
+        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         rows,
     )
     conn.commit()

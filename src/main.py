@@ -244,6 +244,21 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
                 # so the event spans from when it was published to the end date.
                 if event_end and not event_start:
                     event_start = primary["published_at"][:10]
+                # Union with any structured per-item dates (currently only
+                # Tourinsoft/Ticketmaster items carry these). Guards against a
+                # source that only mentions a start date narrowing the range
+                # after merging with a source that has the full span — e.g.
+                # one source says "from May 22", another says "May 22-30".
+                structured_starts = [i["event_start"] for i in items if i.get("event_start")]
+                structured_ends = [i["event_end"] for i in items if i.get("event_end")]
+                if structured_starts:
+                    widest_start = min(structured_starts)
+                    if not event_start or widest_start < event_start:
+                        event_start = widest_start
+                if structured_ends:
+                    widest_end = max(structured_ends)
+                    if not event_end or widest_end > event_end:
+                        event_end = widest_end
                 # Earliest item that actually has an image (not necessarily
                 # `primary`, which may itself lack one) — persisted onto the
                 # cluster row so it survives item pruning (RETENTION_DAYS),
