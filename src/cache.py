@@ -534,7 +534,7 @@ def find_event_cluster_candidates(
     lo = (_date.fromisoformat(start) - _timedelta(days=pad_days)).isoformat()
     hi = (_date.fromisoformat(end or start) + _timedelta(days=pad_days)).isoformat()
     rows = conn.execute(
-        """SELECT c.cluster_id, c.title, c.event_name, c.event_start, c.event_end
+        """SELECT c.cluster_id, c.title, c.event_name, c.event_start, c.event_end, c.summary
            FROM clusters c
            WHERE c.category = 'event' AND c.event_start IS NOT NULL
              AND c.event_start <= ?

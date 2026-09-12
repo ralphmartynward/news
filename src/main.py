@@ -171,12 +171,16 @@ def _cluster_today(items: list[dict[str, Any]]):
     # Cross-day event dedup: assign_clusters only compares against the last 7
     # days of *items*, but event clusters routinely outlive their items (e.g.
     # three separate un-merged "Rose Festival" clusters were found covering
-    # the same real event from different sources). Items carrying a
-    # structured _event_start (currently only src/fetchers/tourinsoft.py) get
-    # a second check against the clusters table itself.
+    # the same real event from different sources). Every item that landed in
+    # a brand-new cluster gets a second check against the clusters table
+    # itself — not just ones with a structured _event_start, since a source
+    # without one (e.g. L'Essentiel) still needs to be checked against an
+    # existing Tourinsoft/Ticketmaster-sourced cluster for the same event
+    # (confirmed gap: two un-merged "Festival Sign'Ô" clusters, one per
+    # source, both posted to Stories on the same day).
     merged = 0
     for k in kept:
-        if k["cluster_id"] in cached_cluster_ids or not k.get("_event_start"):
+        if k["cluster_id"] in cached_cluster_ids:
             continue
         match = event_dedup.find_duplicate_event_cluster(conn, k, k["embedding"])
         if match and match != k["cluster_id"]:
