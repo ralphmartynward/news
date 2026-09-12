@@ -127,6 +127,9 @@ def _calendar_events_json(calendar_events: list[dict[str, Any]] | None) -> str:
             "url": url,
             "source_label": SOURCE_LABELS.get(src, src or "Source"),
             "image_url": ev.get("image_url") or None,
+            "venue": ev.get("venue") or None,
+            "lat": ev.get("lat"),
+            "lon": ev.get("lon"),
         })
     return _json.dumps(items, ensure_ascii=False)
 

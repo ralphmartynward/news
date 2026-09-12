@@ -335,6 +335,27 @@ def _synthesise_clusters(conn, touched_cluster_ids: set[str]) -> None:
             print(f"  {cid}: date backfill FAILED — {e}", file=sys.stderr)
 
 
+def _geocode_venues(conn) -> None:
+    """Resolve venue names to (lat, lon) for event clusters that don't have
+    coordinates yet. Dedupes by venue text first (many clusters share the
+    same venue) so repeat runs and the persistent on-disk cache only ever
+    pay the geocoding cost once per distinct venue name."""
+    from src import geocode as geocode_mod
+
+    pending = cache_mod.clusters_needing_geocode(conn)
+    if not pending:
+        return
+    venues = sorted({p["venue"] for p in pending})
+    print(f"geocode: {len(pending)} cluster(s), {len(venues)} distinct venue(s) need coordinates")
+    resolved = geocode_mod.geocode_venues(venues)
+    hits = sum(1 for v in resolved.values() if v)
+    print(f"geocode: resolved {hits}/{len(venues)} distinct venue(s)")
+    for p in pending:
+        coords = resolved.get(p["venue"])
+        lat, lon = coords if coords else (None, None)
+        cache_mod.set_geocode(conn, p["cluster_id"], lat, lon)
+
+
 def _close_conn(conn: Any) -> None:
     if conn is not None:
         try:
@@ -391,6 +412,10 @@ def main() -> None:
                 _synthesise_clusters(conn, touched)
             else:
                 print("synthesise: skipped (ANTHROPIC_API_KEY not set)")
+            try:
+                _geocode_venues(conn)
+            except Exception as _geo_err:
+                print(f"geocode: FAILED — {type(_geo_err).__name__}: {_geo_err}", file=sys.stderr)
             # Generate Instagram images (Graph API posting happens after git push)
             try:
                 from src.instagram import run as instagram_run, render_weekend_carousel, render_today_events, render_listicle_carousels

@@ -59,6 +59,8 @@ MIGRATIONS = [
     "ALTER TABLE clusters ADD COLUMN image_url TEXT",
     "ALTER TABLE items ADD COLUMN event_start TEXT",
     "ALTER TABLE items ADD COLUMN event_end TEXT",
+    "ALTER TABLE clusters ADD COLUMN lat REAL",
+    "ALTER TABLE clusters ADD COLUMN lon REAL",
 ]
 
 
@@ -407,11 +409,27 @@ def clusters_needing_event_dates(conn: sqlite3.Connection) -> list[str]:
     return [r["cluster_id"] for r in rows]
 
 
+def clusters_needing_geocode(conn: sqlite3.Connection) -> list[dict[str, Any]]:
+    """Event clusters with a venue but no resolved coordinates yet."""
+    rows = conn.execute(
+        "SELECT cluster_id, venue FROM clusters "
+        "WHERE category = 'event' AND venue IS NOT NULL AND venue != '' AND lat IS NULL"
+    ).fetchall()
+    return [dict(r) for r in rows]
+
+
+def set_geocode(conn: sqlite3.Connection, cluster_id: str, lat: float | None, lon: float | None) -> None:
+    conn.execute(
+        "UPDATE clusters SET lat = ?, lon = ? WHERE cluster_id = ?", (lat, lon, cluster_id)
+    )
+    conn.commit()
+
+
 def load_calendar_events(conn: sqlite3.Connection) -> list[dict[str, Any]]:
     """All event clusters with a structured event_start date, with their primary item URL/source."""
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.event_start, c.event_end, c.event_name,
-                  c.image_url,
+                  c.image_url, c.venue, c.lat, c.lon,
                   COALESCE(c.primary_url,
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,
