@@ -126,6 +126,7 @@ def _calendar_events_json(calendar_events: list[dict[str, Any]] | None) -> str:
             "summary": _summarise(ev.get("summary") or ""),
             "url": url,
             "source_label": SOURCE_LABELS.get(src, src or "Source"),
+            "image_url": ev.get("image_url") or None,
         })
     return _json.dumps(items, ensure_ascii=False)
 

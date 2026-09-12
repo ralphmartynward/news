@@ -411,6 +411,7 @@ def load_calendar_events(conn: sqlite3.Connection) -> list[dict[str, Any]]:
     """All event clusters with a structured event_start date, with their primary item URL/source."""
     rows = conn.execute(
         """SELECT c.cluster_id, c.title, c.summary, c.event_start, c.event_end, c.event_name,
+                  c.image_url,
                   COALESCE(c.primary_url,
                     (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
                   ) AS url,
