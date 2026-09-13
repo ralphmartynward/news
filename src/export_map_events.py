@@ -22,7 +22,13 @@ DB_PATH = ROOT / "data" / "items_seen.db"
 OUT_PATH = ROOT / "docs" / "events.json"
 
 
-def main():
+def export_events() -> int:
+    """Write docs/events.json from the clusters table. Returns the event count.
+
+    Opens its own short-lived connection (same pattern as the .ics export in
+    main.py) so it can be called standalone or from within the main pipeline
+    without needing main()'s connection passed around.
+    """
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
@@ -56,10 +62,15 @@ def main():
             "url": r["primary_url"],
             "summary": r["highlight"],
         })
+    conn.close()
 
     OUT_PATH.write_text(json.dumps(events, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"Wrote {OUT_PATH} — {len(events)} events "
-          f"({events[0]['start'] if events else '—'} to {events[-1]['start'] if events else '—'})")
+    return len(events)
+
+
+def main():
+    n = export_events()
+    print(f"Wrote {OUT_PATH} — {n} events")
 
 
 if __name__ == "__main__":

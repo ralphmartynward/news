@@ -9,6 +9,7 @@ from zoneinfo import ZoneInfo
 
 from src import cache as cache_mod
 from src.fetchers import actu_toulouse, inbox, ticketmaster, toulouscope, tourinsoft
+from src.export_map_events import export_events
 from src.feed import write_atom
 from src.landing import PARIS, _french_long_date, render as render_landing, render_calendar_page
 from src.render_email import render as render_email
@@ -493,6 +494,13 @@ def main() -> None:
 
     render_calendar_page(calendar_events, CALENDAR_OUTPUT)
     print(f"wrote {CALENDAR_OUTPUT} ({CALENDAR_OUTPUT.stat().st_size} bytes)")
+
+    try:
+        from src.export_map_events import export_events as export_map_events
+        n_map_events = export_map_events()
+        print(f"wrote docs/events.json ({n_map_events} events)")
+    except Exception as _map_err:
+        print(f"map export: FAILED — {type(_map_err).__name__}: {_map_err}", file=sys.stderr)
 
     from gen_ics import build_ics
     if conn:
