@@ -1,0 +1,99 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:a872c5c4-b8d3-4145-8de5-166f3e4a2a04",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Woori Festival fête la Corée à l'Île du Ramier",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/WOORI-FESTIVAL-TOULOUSE.jpg",
+    "file": "cluster_a872c5c4-b8d3-4145-8de5-166f3e4a2a04_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d7baac59-46bb-442e-a1e4-d2690512d63f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cartoon Forum 2026 : 66 séries d'animation européennes à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/cartoon-forum-2.jpg",
+    "file": "cluster_d7baac59-46bb-442e-a1e4-d2690512d63f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ed70d69e-687f-42e7-85f3-086c404b5891",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Paul Lay en concert au Cloître des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PAUL-LAY-PIANO-JACOBINS-2.jpg",
+    "file": "cluster_ed70d69e-687f-42e7-85f3-086c404b5891_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:051209e3-0144-4f30-aacc-0a6e3bd3fb55",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "30 ans UNESCO : le Canal du Midi célébré à la Galerie 24 et Capitainerie Saint-Sauveur",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a96bbb217cd2e7bbe03e634/hd/image.jpg?v=1",
+    "file": "cluster_051209e3-0144-4f30-aacc-0a6e3bd3fb55_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:5c9e037a-9e2f-4296-b890-b25260712318",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Journées du Patrimoine : ouverture du Noviciat à la Daurade",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/ostal-occitanie---charline-poullain.jpg?itok=gm4O9rVg",
+    "file": "cluster_5c9e037a-9e2f-4296-b890-b25260712318_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:78ea1e70-d4ec-40fd-b57f-90367632eab2",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Septembre bouge : activités sportives gratuites à la Cépière et Tournefeuille",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/sport--adobe-.jpg?itok=PZeCoKbY",
+    "file": "cluster_78ea1e70-d4ec-40fd-b57f-90367632eab2_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:8f265ba6-15ba-4c85-990f-9555e5067c1c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Ligam, exposition collective de savoir-faire à la Maison Olpé",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/expo-olpe.jpg?h=992b9245&itok=5CEXGhUj",
+    "file": "cluster_8f265ba6-15ba-4c85-990f-9555e5067c1c_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:a6d7bca7-5bf9-4105-ab79-b7d61499d28b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Quinzaine Littéraire : rencontres gratuites dans les bibliothèques toulousaines",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/QUINZAINE-LITTERAIRE.jpg",
+    "file": "cluster_a6d7bca7-5bf9-4105-ab79-b7d61499d28b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
