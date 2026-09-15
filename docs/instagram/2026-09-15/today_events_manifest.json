@@ -1,0 +1,66 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d7baac59-46bb-442e-a1e4-d2690512d63f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cartoon Forum 2026 : 66 séries d'animation européennes à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/cartoon-forum-2.jpg",
+    "file": "cluster_d7baac59-46bb-442e-a1e4-d2690512d63f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d2539b25-0fdc-433d-a4c3-209fef718ae5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pierre Laurent Aimard interprète Bach et Kurtág au Cloître des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PIERRE-LAURENT-AIMARD-PIANO-JACOBINS.jpg",
+    "file": "cluster_d2539b25-0fdc-433d-a4c3-209fef718ae5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:286bb576-78f4-4180-ae52-5fc97f0b4d02",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Documentaire sur Annie Ernaux projeté ce soir à l'ABC",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/ecrirelavie.jpg?itok=zO8miXRp",
+    "file": "cluster_286bb576-78f4-4180-ae52-5fc97f0b4d02_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:9f27b59b-14c1-48c0-937b-304ddb9057cb",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence « Les ratés de la science » à la médiathèque Cabanis",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/science-rigolo-h---magnific.jpg?itok=msE1vgp8",
+    "file": "cluster_9f27b59b-14c1-48c0-937b-304ddb9057cb_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:e9f29fab-64c5-4e79-8a6a-1e9936e585ad",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence à la Cité de l'espace sur le Sommet international de l'espace",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/espace-adobestock_302537769.jpg?itok=XUppP5fW",
+    "file": "cluster_e9f29fab-64c5-4e79-8a6a-1e9936e585ad_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

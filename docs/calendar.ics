@@ -10936,6 +10936,27 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-14#49694?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:86c4f19d-f194-4ff7-b728-def124313c75@news.lavillerose.com
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260917
+SUMMARY:Tramway T1 interrompu trois soirs : bus de remplacement prévu
+DESCRIPTION:La ligne T1 du tramway de Toulouse sera perturbée les soirs du
+  14\, 15 et 16 septembre 2026 en raison de travaux sur les voies\, selon T
+ isséo. Les derniers départs seront avancés : 21h59 depuis Palais de Jus
+ tice\, 20h58 depuis le MEETT et 21h01 depuis Odyssud-Ritouret\, au lieu de
+  0h40 habituellement en semaine. Un bus de substitution\, la ligne T1'\, c
+ irculera entre Palais de Justice et le MEETT à partir de 21h25. La ligne 
+ 31 est également modifiée : remplacée par la ligne 31'\, elle assurera 
+ une liai\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-ligne-t1-
+ du-tramway-de-toulouse-va-etre-interrompue-les-trois-prochains-soirs-voici
+ -ce-qu-il-faut-savoir_64788487.html
+LOCATION:Palais de Justice\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/la-ligne-t1-du-tramway-de-toul
+ ouse-va-etre-interrompue-les-trois-prochains-soirs-voici-ce-qu-il-faut-sav
+ oir_64788487.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d2539b25-0fdc-433d-a4c3-209fef718ae5@news.lavillerose.com
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
@@ -12626,19 +12647,19 @@ BEGIN:VEVENT
 UID:cluster:a7e7682e-44f7-4ca5-a934-efc07e9f6e8d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-SUMMARY:Journées Européennes du Patrimoine
+SUMMARY:Journées du Patrimoine
 DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, l'Offi
- ce de Tourisme de Toulouse propose quatre visites guidées thématiques da
- ns la ville. Au programme : affaires criminelles sous l'Ancien Régime (20
-  septembre)\, l'architecture Art déco des Années Folles (20 septembre)\,
-  la renaissance de Toulouse après l'incendie de 1463 (19 septembre\, déj
- à complet)\, et une balade « Toulouse Secrète » aux découvertes impr
- évisibles selon l'humeur du guide (19 septembre). La réservation est obl
- igatoire et les \n\nSource\: https://www.toulouse-tourisme.com/agenda/gran
- des-et-petites-affaires-criminelles-journees-du-patrimoine/
-URL:https://www.toulouse-tourisme.com/agenda/grandes-et-petites-affaires-cr
- iminelles-journees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_
- campaign=toulouse-agenda
+ ce de Tourisme de Toulouse propose plusieurs visites guidées thématiques
+  dans le cœur historique de la ville. Parmi les circuits : « Toulouse à
+  la Renaissance »\, qui retrace la reconstruction de la ville après l'in
+ cendie de 1463 et l'essor du pastel \; « Toulouse Secrète »\, une balad
+ e surprenante au programme variable selon l'humeur du guide \; et « Toulo
+ use dans les Années Folles »\, consacrée à l'architecture Art déco de
+ s années 1920-1940\n\nSource\: https://www.toulouse-tourisme.com/agenda/t
+ oulouse-a-la-renaissance-journees-du-patrimoine/
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-a-la-renaissance-jour
+ nees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:65fc0a96-5226-497a-b8a9-194f74ace787@news.lavillerose.com
@@ -12826,6 +12847,27 @@ LOCATION:places\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-
  match-entre-le-tfc-et-le-havre-au-stadium-de-toulouse-2_64772516.html?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f4b3658f-52f2-47d9-b73a-6bc6ef4aeb60@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Le Noviciat
+DESCRIPTION:Le Noviciat\, futur Centre de l'Architecture et du Patrimoine d
+ e Toulouse\, s'apprête à ouvrir ses portes le 19 septembre 2026 place de
+  la Daurade. Installé dans un ancien couvent de Jésuites du XVIe siècle
+  — successivement transformé en caserne\, école et atelier de costumes
+  du Théâtre du Capitole — il proposera un espace de 300 m² sur deux n
+ iveaux avec scénographie interactive\, expositions permanentes et vues pa
+ noramiques sur la Garonne. Une fresque du XVIIe siècle\, découverte dura
+ nt les travaux\,\n\nSource\: https://actu.fr/occitanie/toulouse_31555/qu-e
+ st-ce-que-le-noviciat-le-nouvel-espace-culturel-qui-s-apprete-a-ouvrir-ses
+ -portes-dans-le-centre-de-toulouse_64769065.html
+LOCATION:place de la Daurade\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/qu-est-ce-que-le-noviciat-le-n
+ ouvel-espace-culturel-qui-s-apprete-a-ouvrir-ses-portes-dans-le-centre-de-
+ toulouse_64769065.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:32b661a9-f147-44c4-be5a-da3ed4214259@news.lavillerose.com
@@ -13656,6 +13698,24 @@ DESCRIPTION:HEXAGONE MMA\, organisation née à Toulouse en 2021\, annonce
 URL:https://www.toulouscope.fr/2026/09/12/hexagone-mma-fait-son-grand-retou
  r-a-toulouse-une-soiree-de-combats-xxl-annoncee-au-zenith-13503499.php?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1ead54d7-4b55-49a4-a71d-70f197cf11c6@news.lavillerose.com
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Toulouse Basket Club
+DESCRIPTION:Le Toulouse Basket Club (TBC) ouvre sa saison ce soir au Palais
+  des Sports face à La Rochelle en Coupe de France\, avant une première j
+ ournée de Nationale 1 prévue le 25 septembre contre Rennes à domicile. 
+ L'effectif a été renforcé par huit recrues\, dont Alexis Ville (ex-Vitr
+ é) et le meneur Tre Jackson III\, élu MVP du championnat polonais la sai
+ son passée. Hors du parquet\, le club annonce un partenariat majeur : Nik
+ e devient équipementier officiel\, KICKZ assure la distribution des produ
+ its dérivé\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-09-15#49859
+LOCATION:Palais des Sports face\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-15#49859?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc@news.lavillerose.com
@@ -14845,6 +14905,27 @@ DESCRIPTION:Le Festival 1000 Cœurs investit la Salle Lafourguette le 3 oct
 LOCATION:Salle Lafourguette le 3 octobre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/festival-1000-coeurs/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fe451d3c-e48a-4dd7-9ba0-97b76378aa03@news.lavillerose.com
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Le musée des Augustins referme brièvement avant de nouvelles sall
+ es
+DESCRIPTION:Le musée des Augustins\, rouvert en décembre 2025 après six 
+ ans de travaux\, va fermer temporairement du 21 septembre au 2 octobre inc
+ lus pour permettre le déplacement d'échafaudages liés à la restauratio
+ n du grand cloître. La boutique restera ouverte pendant cette courte inte
+ rruption. Dès la réouverture le 3 octobre à 10h\, les visiteurs pourron
+ t découvrir de nouvelles espaces : les salles gothiques redeviendront acc
+ essibles\, dont la sacristie\, la salle Notre-Dame de Pitié et la salle c
+ apitulaire\,\n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-musee
+ -des-augustins-va-brievement-refermer-ses-portes-a-toulouse-voici-la-grand
+ e-nouveaute-qui-se-pr_64785064.html
+URL:https://actu.fr/occitanie/toulouse_31555/le-musee-des-augustins-va-brie
+ vement-refermer-ses-portes-a-toulouse-voici-la-grande-nouveaute-qui-se-pr_
+ 64785064.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
+ enda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d6f341e-6660-4046-9953-82af3b15debb@news.lavillerose.com
@@ -16345,6 +16426,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/elies-zoghlami-billet/idma
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:95a4d12b-7017-4375-b120-ab084e28998b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:West Comedy - La Tournée
+DESCRIPTION:Le spectacle West Comedy - La Tournée fait étape à Toulouse 
+ le 22 octobre 2026\, aux Espaces Vanel de la Médiathèque José Cabanis. 
+ Il s'agit d'un show de comédie stand-up inscrit dans une tournée nationa
+ le. Le lieu\, habituellement dédié à la culture et à la lecture\, accu
+ eille ici un événement d'humour grand public. Les amateurs de comédie t
+ oulousains sont directement concernés par cette date.\n\nSource\: https:/
+ /www.ticketmaster.fr/fr/manifestation/west-comedy-la-tournee-billet/idmani
+ f/672040/idseance/4412875
+URL:https://www.ticketmaster.fr/fr/manifestation/west-comedy-la-tournee-bil
+ let/idmanif/672040/idseance/4412875?utm_source=ical&utm_medium=calendar&ut
+ m_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:90bce3fa-68b9-44b7-9167-6a70284d913d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
@@ -16631,6 +16729,24 @@ DESCRIPTION:Le pianiste et auteur-compositeur Chilly Gonzales se produit à
 LOCATION:Halle de la Machine\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-concerts-enflammes-chili-g
  onzales/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9a78e8ee-0892-410c-9cd7-1e421e0176f8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Jonathan Lambert Vu d'en Haut
+DESCRIPTION:Jonathan Lambert\, humoriste et comédien français bien connu\
+ , présente son spectacle « Jonathan Lambert Vu d'en Haut » au Grand Th
+ éâtre 3T de Toulouse le 26 octobre 2026. Ce one-man-show s'annonce comme
+  une nouvelle création scénique de l'artiste\, connu pour son sens de l'
+ observation et ses personnages décalés. La représentation se tient dans
+  l'une des salles de théâtre incontournables de la ville. Les amateurs d
+ e comédie et de théâtre humoristique sont particulièrement visés par 
+ cet événement.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ jonathan-lambert-billet/idmanif/672360/idseance/4414084
+URL:https://www.ticketmaster.fr/fr/manifestation/jonathan-lambert-billet/id
+ manif/672360/idseance/4414084?utm_source=ical&utm_medium=calendar&utm_camp
+ aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a8502b01-4955-434e-a706-d8e4e561952d@news.lavillerose.com
@@ -19911,6 +20027,25 @@ URL:https://www.toulouse-tourisme.com/agenda/il-etait-une-fois-dali-et-les-
  da
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:04ae4680-95d5-45d4-929d-a3fec023dd1c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Toulouse FC / PSG
+DESCRIPTION:Le Toulouse FC affronte le Paris Saint-Germain le 4 décembre 2
+ 026 au Stadium de Toulouse\, pour ce qui s'annonce comme l'un des matchs l
+ es plus attendus de la saison. La rencontre oppose le club violet à l'un 
+ des géants du football français\, ce qui en fait un événement incontou
+ rnable pour les supporters toulousains. Les billets sont disponibles sur T
+ icketmaster. Ce match intéressera aussi bien les abonnés du TFC que les 
+ amateurs de grands spectacles sportifs de passage à Toulouse.\n\nSource\:
+  https://www.ticketmaster.fr/fr/manifestation/toulouse-fc-paris-saint-germ
+ ain-billet/idmanif/672138/idseance/4413575
+LOCATION:Stadium de Toulouse\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/toulouse-fc-paris-saint-ge
+ rmain-billet/idmanif/672138/idseance/4413575?utm_source=ical&utm_medium=ca
+ lendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:01976ac9-f03a-443c-b1ba-477c81c0e288@news.lavillerose.com
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -21111,6 +21246,25 @@ DESCRIPTION:La pièce « La Thérapie d'Emmanuel Macron » sera jouée les
  -therapie-demmanuel-macron/
 URL:https://www.toulouse-tourisme.com/agenda/la-therapie-demmanuel-macron/?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3a29c289-8d19-4ad1-949f-26b2e43e39d4@news.lavillerose.com
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Agenda comédie au Casino Barrière de Toulouse : six spectacles à
+  venir
+DESCRIPTION:Le Casino Barrière de Toulouse accueille une série de six spe
+ ctacles comiques échelonnés de janvier 2027 à janvier 2028. La programm
+ ation inclut Rodrigue (7 janvier 2027)\, Roland Magdane (25 avril 2027)\, 
+ Un Château de Cartes (28 avril 2027)\, Paul de Saint Sernin (3 juin 2027)
+ \, Marc-Antoine Le Bret (25 novembre 2027) et Ana Godefroy (5 janvier 2028
+ ). Ces représentations couvrent un large spectre de la comédie français
+ e\, des humoristes solo aux spectacles en compagnie. Les amateurs de spect
+ acle vi\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/rodrigue-
+ billet/idmanif/664261/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/rodrigue-billet/idmanif/66
+ 4261/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:57b5355d-2a9a-422f-a02d-2ec5d9e56f73@news.lavillerose.com
@@ -23889,6 +24043,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/ninho-billet/idmanif/66503
  e-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2bf1373b-26cc-4e58-83b1-6b4f20c0af90@news.lavillerose.com
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Daniel Morin
+DESCRIPTION:Le comédien et humoriste Daniel Morin se produira au Centre de
+  Congrès Diagora de Labège le 20 mars 2027. Connu notamment pour ses chr
+ oniques humoristiques à la radio\, Daniel Morin propose un spectacle de s
+ tand-up dans la catégorie Arts & Théâtre / Comédie. L'événement se t
+ ient dans une salle de congrès bien desservie en périphérie de Toulouse
+ . Les billets sont disponibles via Ticketmaster.\n\nSource\: https://www.t
+ icketmaster.fr/fr/manifestation/daniel-morin-billet/idmanif/672244/idseanc
+ e/4413767
+LOCATION:salle de con\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/daniel-morin-billet/idmani
+ f/672244/idseance/4413767?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:0e71157e-76fc-4ab5-9299-41116178ff36@news.lavillerose.com
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
@@ -25836,6 +26008,22 @@ DESCRIPTION:L'artiste franco-rwandais Gaël Faye se produira au Zénith Tou
 URL:https://www.ticketmaster.fr/fr/manifestation/gael-faye-billet/idmanif/6
  61378/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:475f6b92-798a-47a3-9455-f6f69804e6ed@news.lavillerose.com
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:Greg Duth
+DESCRIPTION:Le comédien Greg Duth se produira au Casino Barrière de Toulo
+ use le 24 novembre 2027 dans le cadre d'un spectacle d'humour. L'événeme
+ nt est référencé dans la catégorie Arts & Théâtre / Comédie sur Tic
+ ketmaster. Peu de détails supplémentaires sont disponibles sur le conten
+ u du show ou la durée de la représentation. Les amateurs de stand-up et 
+ d'humour toulousains sont le public visé.\n\nSource\: https://www.ticketm
+ aster.fr/fr/manifestation/greg-duth-billet/idmanif/672295/idseance/4414004
+URL:https://www.ticketmaster.fr/fr/manifestation/greg-duth-billet/idmanif/6
+ 72295/idseance/4414004?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5943ca3a-f020-46e5-8956-74fb32f03703@news.lavillerose.com
