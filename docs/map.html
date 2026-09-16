@@ -74,9 +74,10 @@ body { display: flex; flex-direction: column; }
   overflow-y: auto; padding: 12px;
 }
 @media (max-width: 720px) {
-  .map-layout { flex-direction: column; }
-  #map { height: 46vh; }
-  .event-panel { width: auto; border-left: none; border-top: 1px solid #e2e8f0; max-height: 40vh; }
+  html, body { height: auto; min-height: 100%; }
+  .map-layout { flex-direction: column; flex: none; min-height: 0; }
+  #map { flex: none; height: 46vh; min-height: 260px; }
+  .event-panel { width: auto; border-left: none; border-top: 1px solid #e2e8f0; max-height: 40vh; flex: none; }
 }
 
 .event-card {
