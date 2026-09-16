@@ -1,0 +1,110 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d7baac59-46bb-442e-a1e4-d2690512d63f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cartoon Forum 2026 : 66 séries d'animation européennes à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/cartoon-forum-2.jpg",
+    "file": "cluster_d7baac59-46bb-442e-a1e4-d2690512d63f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:501894f9-2deb-4047-883e-4d53d7802ff4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Balade naturaliste le long du canal à Rangueil",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Le-canal-du-midi-P.nIN.jpg",
+    "file": "cluster_501894f9-2deb-4047-883e-4d53d7802ff4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0a265f28-4e6a-4c57-8b38-52dc291e7063",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "TABANAR en concert au Taquin le 16 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TABANAR.jpg",
+    "file": "cluster_0a265f28-4e6a-4c57-8b38-52dc291e7063_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:06ec2b49-6be2-4ce1-9299-3628bfbd999d",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le cirque Cugnaux en piste à la place de la Libération",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/pexels-photo-17856543.jpeg?itok=sibApXyL",
+    "file": "cluster_06ec2b49-6be2-4ce1-9299-3628bfbd999d_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:12a9569c-6a3a-4872-9410-0aaad47af0bf",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Les ailes du lac au domaine de la Reynerie : balade faune et oiseaux",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/fdff64c2-b44a-4bea-a3d7-82e780b174e1.png?itok=Ab6wQ-qo",
+    "file": "cluster_12a9569c-6a3a-4872-9410-0aaad47af0bf_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:2648c8d7-42ff-43af-8b71-deb1d7bbfad0",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Village des Recruteurs : 500 offres d'emploi à la salle Jean-Mermoz",
+    "image_url": "https://static.actu.fr/uploads/2026/06/bf8dd1b4153a6a49dd1b4153a699ddv.jpg",
+    "file": "cluster_2648c8d7-42ff-43af-8b71-deb1d7bbfad0_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 916
+  },
+  {
+    "cluster_id": "cluster:5e8b620e-ecb1-4496-861a-75681fdbb102",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "World Cleanup Day démarre à Saint-Orens-de-Gameville et Léguevin",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/nettoyage-berges---charline-poullain..jpg?h=50ca6c4e&itok=2zhETM-L",
+    "file": "cluster_5e8b620e-ecb1-4496-861a-75681fdbb102_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:bd86f921-5ddf-41ac-b8cf-4c6dfdf5bc92",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Forum Santé de proximité place Belfort : gratuit et ouvert à tous",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/medecin-adobestock_117340441.jpg?itok=UpDeqMeZ",
+    "file": "cluster_bd86f921-5ddf-41ac-b8cf-4c6dfdf5bc92_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:461c92a1-46b7-4efb-8be0-de9b47899f3a",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« La parole des bâtons » de Serge Pey à la Bibliothèque d'étude et du patrimoine",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/EXPOSITION-SERGE-PEY.jpg",
+    "file": "cluster_461c92a1-46b7-4efb-8be0-de9b47899f3a_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

@@ -9,6 +9,23 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:cluster:f1e6a25d-0695-4cf9-b8f7-2249271b4623@news.lavillerose.com
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Toulouse Polars du Sud
+DESCRIPTION:Le festival international des littératures noires et policièr
+ es Toulouse Polars du Sud revient au Forum de la Renaissance à Basso Camb
+ o. Cette édition est parrainée par Valentine Imhof\, autrice française\
+ , et Abir Mukherjee\, auteur britannique\, entourés d'une quarantaine d'a
+ uteurs français et étrangers parmi lesquels Didier Daeninckx\, Gwenaël 
+ Bulteau ou encore Anne-Gaëlle Balpe. En amont du festival\, une semaine d
+ 'animations « hors-les-murs » se déploie dans plus de 70 sites de la r
+ égion Occitani\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulo
+ use-polars-du-sud/
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-polars-du-sud/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -10326,17 +10343,17 @@ UID:cluster:fac8a3f5-0796-46bb-a7ae-d1302be3a1f9@news.lavillerose.com
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20261005
 SUMMARY:Prix Photo Social 2026
-DESCRIPTION:Le festival Prix Photo Social investit le Château d'Eau du 11 
- septembre au 4 octobre 2026 avec une exposition réunissant trois photogra
- phes : François Le Guen\, Naïma Lecomte et Valérie Horwitz. Leurs œuvr
- es documentent des réalités sociales difficiles — exclusion\, adolesce
- nts suivis par l'Aide sociale à l'enfance\, jeunes filles incarcérées. 
- L'exposition mêle photographies\, peintures\, œuvres graphiques\, collag
- es et archives pour rendre visibles des parcours de vie fragilisés. Ce re
- ndez-vous s'adr\n\nSource\: https://www.toulouse-tourisme.com/agenda/prix-
- photo-social-2026/
-URL:https://www.toulouse-tourisme.com/agenda/prix-photo-social-2026/?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Le Château d'Eau accueille le Prix Photo Social 2026 du 11 sep
+ tembre au 4 octobre\, avec les travaux de trois photographes engagés : Fr
+ ançois Le Guen\, Naïma Lecomte et Valérie Horwitz. Leurs séries docume
+ ntent des réalités sociales sensibles — exclusion\, reconstruction\, a
+ dolescents placés à l'ASE\, jeunes filles incarcérées. L'exposition m
+ êle photographies\, peintures\, œuvres graphiques\, collages et archives
+  pour donner à voir des parcours souvent invisibilisés. Un événement q
+ ui invite le public to\n\nSource\: https://www.toulouse-tourisme.com/agend
+ a/prix-photo-sociale-2026/
+URL:https://www.toulouse-tourisme.com/agenda/prix-photo-sociale-2026/?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7d768a58-acef-49e7-9409-f462310f8e23@news.lavillerose.com
@@ -10957,6 +10974,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/la-ligne-t1-du-tramway-de-toul
  e-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:601c428c-578e-4b96-859a-8b1fbf276405@news.lavillerose.com
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20270101
+SUMMARY:Takara
+DESCRIPTION:Le rappeur toulousain Bigflo installe Takara\, un pop-up store 
+ de 60 m² dédié aux cartes à collectionner et à la pop culture\, au ce
+ ntre commercial Labège 2. Du 14 au 26 septembre\, la boutique se concentr
+ e sur les TCG (Trading Card Games)\, avant de s'ouvrir aux mangas et à la
+  pop culture du 27 septembre au 31 décembre. Le concept\, baptisé Takara
+  (« trésor » en japonais)\, est une initiative personnelle de Bigflo\, 
+ collectionneur passionné depuis l'enfance. C'est une montée en gamme par
+  rapport à son\n\nSource\: https://www.toulouscope.fr/2026/09/15/le-rappe
+ ur-bigflo-ouvre-takara-un-pop-up-store-inedit-dedie-aux-cartes-et-aux-mang
+ as-a-labege-2-13539789.php
+URL:https://www.toulouscope.fr/2026/09/15/le-rappeur-bigflo-ouvre-takara-un
+ -pop-up-store-inedit-dedie-aux-cartes-et-aux-mangas-a-labege-2-13539789.ph
+ p?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d2539b25-0fdc-433d-a4c3-209fef718ae5@news.lavillerose.com
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
@@ -10994,6 +11030,27 @@ URL:https://www.toulouscope.fr/2026/09/11/la-fondation-des-femmes-devoile-u
  36.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:14c34ae3-0a64-450c-baee-39e497cc9648@news.lavillerose.com
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Des policiers manifestent devant l'Hôtel de police de Toulouse
+DESCRIPTION:Une centaine de policiers du syndicat Unité31 se sont rassembl
+ és devant le commissariat central de Toulouse\, boulevard de l'Embouchure
+ \, le mardi 15 septembre 2026\, sous la bannière « Pas d'austérité pou
+ r la sécurité ». Leur mobilisation s'inscrit dans un mouvement national
+  plus large\, aux côtés d'autres corps de métier comme les électricien
+ s\, les chercheurs et les gaziers. La colère est notamment attisée par l
+ a récente revalorisation salariale des commissaires et hauts commissaires
+  — jusqu'à 1 3\n\nSource\: https://actu.fr/occitanie/toulouse_31555/on-
+ ne-peut-pas-entendre-qu-il-n-y-a-pas-de-moyens-des-policiers-manifestent-d
+ evant-l-hotel-de-police-de-toulouse_64793169.html
+LOCATION:boulevard de l'Embouchure\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/on-ne-peut-pas-entendre-qu-il-
+ n-y-a-pas-de-moyens-des-policiers-manifestent-devant-l-hotel-de-police-de-
+ toulouse_64793169.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:501894f9-2deb-4047-883e-4d53d7802ff4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
@@ -11024,6 +11081,27 @@ DESCRIPTION:Le groupe TABANAR se produira au Taquin\, à Toulouse\, le 16 s
  rce\: https://www.toulouse-tourisme.com/agenda/tabanar/
 URL:https://www.toulouse-tourisme.com/agenda/tabanar/?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2648c8d7-42ff-43af-8b71-deb1d7bbfad0@news.lavillerose.com
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260918
+SUMMARY:Village des Recruteurs
+DESCRIPTION:Le Village des Recruteurs s'installe à la salle Jean-Mermoz à
+  Toulouse les 16 et 17 septembre 2026\, avec plus de 500 offres d'emploi 
+ à pourvoir dans des secteurs variés : aéronautique\, grande distributio
+ n\, vente et plus. De nombreux employeurs seront présents\, parmi lesquel
+ s Aura Aéro\, Aldi\, Primark\, Promod\, Tarmac Aerosave ou encore l'armé
+ e de l'air et de l'espace\, avec des contrats en CDI\, CDD\, intérim et a
+ lternance. Des partenaires institutionnels — France Travail\, Mission Lo
+ cale\, Apec\, Métro\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
+ aeronautique-grande-distribution-vente-500-offres-d-emploi-a-pourvoir-dans
+ -un-grand-job-dating-organise-a-toulouse_64789321.html
+LOCATION:salle Jean-Mermoz\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/aeronautique-grande-distributi
+ on-vente-500-offres-d-emploi-a-pourvoir-dans-un-grand-job-dating-organise-
+ a-toulouse_64789321.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a6d7bca7-5bf9-4105-ab79-b7d61499d28b@news.lavillerose.com
@@ -11885,20 +11963,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2d30799b-1f5b-436a-a228-af9d717298fa@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-SUMMARY:Journées du Patrimoine Toulouse
-DESCRIPTION:Pour les Journées Européennes du Patrimoine 2026\, l'office d
- e tourisme de Toulouse propose deux visites guidées insolites plongeant d
- ans l'histoire judiciaire et archéologique de la ville. La première retr
- ace quatre affaires criminelles emblématiques de l'Ancien Régime — don
- t l'affaire Calas qui inspira Voltaire — en parcourant les rues de la ci
- té judiciaire royale. La seconde\, au Palais de Justice\, permet de desce
- ndre dans une crypte archéologique de 600 m² révélant des vestiges de 
- la ville ant\n\nSource\: https://www.toulouse-tourisme.com/agenda/grandes-
- et-petites-affaires-criminelles-journees-du-patrimoine/
-URL:https://www.toulouse-tourisme.com/agenda/grandes-et-petites-affaires-cr
- iminelles-journees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_
- campaign=toulouse-agenda
+DTEND;VALUE=DATE:20260920
+SUMMARY:Palais de Justice ou la Ville Enfouie
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Pal
+ ais de Justice de Toulouse propose une visite guidée exceptionnelle de se
+ s sous-sols archéologiques. Les visiteurs peuvent descendre dans une cryp
+ te de 600 m² mise au jour après près de dix ans de fouilles\, retraçan
+ t l'histoire du site depuis la Tolosa gallo-romaine jusqu'au château méd
+ iéval disparu à la Renaissance. La visite se termine dans la Grand Chamb
+ re\, plus ancienne salle de procès de la ville (1490)\, toujours en activ
+ ité aujourd\n\nSource\: https://www.toulouse-tourisme.com/agenda/palais-d
+ e-justice-ou-la-ville-enfouie-journees-du-patrimoine/
+LOCATION:Palais de Justice de Toulouse propose une visite guidée\, Toulous
+ e
+URL:https://www.toulouse-tourisme.com/agenda/palais-de-justice-ou-la-ville-
+ enfouie-journees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_ca
+ mpaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2ed0de9f-ad1f-4c14-942a-8b0bab0ca91e@news.lavillerose.com
@@ -11980,15 +12060,15 @@ UID:cluster:60f8e721-61e2-4b10-ab72-41c67c7dac5a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Petites Histoires de Quartier
-DESCRIPTION:Dans le cadre des Journées du Patrimoine 2026\, une visite gui
- dée proposée par l'Office de Tourisme de Toulouse invite à découvrir l
- 'histoire et les monuments du quartier des Carmes. Le parcours débute dev
- ant la fontaine et traverse la place de la Trinité et la rue des Filatier
- s avant de rejoindre la place des Carmes. Le quartier\, connu pour son mar
- ché animé\, ses rues pavées et ses terrasses\, sera exploré sous l'ang
- le de son patrimoine historique. La réservation est obligatoire et les pl
- aces sont\n\nSource\: https://www.toulouse-tourisme.com/agenda/petites-his
- toires-de-quartier-carmes-journees-du-patrimoine/
+DESCRIPTION:À l'occasion des Journées du Patrimoine 2026\, l'Office de To
+ urisme de Toulouse propose une visite guidée à pied dans le quartier des
+  Carmes. Le circuit part devant la Fontaine et explore l'histoire et les m
+ onuments de la place de la Trinité et de la rue des Filatiers\, avant de 
+ se conclure place des Carmes. La balade met en lumière l'architecture et 
+ le passé d'un quartier animé\, entre rues pavées\, marché et terrasses
+ . La réservation est obligatoire et les places sont limitées.\n\nSource\
+ : https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-c
+ armes-journees-du-patrimoine/
 LOCATION:quartier des Carmes\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
  carmes-journees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_cam
@@ -12070,16 +12150,17 @@ BEGIN:VEVENT
 UID:cluster:8f16ddc6-4944-49e2-951a-c05d1128b4d6@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-SUMMARY:Journées du Patrimoine Noviciat
-DESCRIPTION:Pour les Journées européennes du Patrimoine 2026\, le Novicia
- t — siège du centre de l'architecture et du patrimoine de Toulouse\, au
-  cœur du quartier de la Daurade — ouvre ses portes au public pour la to
- ute première fois. Les visiteurs pourront explorer le lieu en visite libr
- e\, sans réservation imposée. L'événement se déroule sur deux jours\,
-  les 19 et 20 septembre 2026. C'est une occasion rare de découvrir un bâ
- timent patrimonial habituellement fermé au grand public.\n\nSource\: http
- s://www.toulouse-tourisme.com/agenda/le-noviciat-journees-du-patrimoine/
-LOCATION:quartier de la Daurade — ouvre ses portes au public\, Toulouse
+SUMMARY:Journées du Patrimoine
+DESCRIPTION:Pour les Journées Européennes du Patrimoine 2026\, le Novicia
+ t\, situé au cœur du quartier de la Daurade\, ouvre ses portes au public
+  pour la toute première fois. C'est le Centre de l'architecture et du pat
+ rimoine de Toulouse qui accueille les visiteurs dans ce lieu habituellemen
+ t inaccessible. La visite se fait en toute liberté\, sans guide imposé\,
+  sur les deux jours de l'événement. Les Toulousains curieux de découvri
+ r ce patrimoine architectural inédit sont particulièrement concernés.\n
+ \nSource\: https://www.toulouse-tourisme.com/agenda/le-noviciat-journees-d
+ u-patrimoine/
+LOCATION:quartier de la Daurade\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/le-noviciat-journees-du-patrim
  oine/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -12103,20 +12184,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ae1755cc-608c-4ae0-835d-ec2020e580ee@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-SUMMARY:Journées du Patrimoine Ligne C
-DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, Tissé
- o ouvre quatre chantiers de la future ligne C du métro toulousain les 20 
- et 21 septembre 2026. Les visiteurs pourront descendre jusqu'aux quais en 
- construction à Blagnac\, Bonnefoy\, Labège Madron et Limayrac - Cité de
-  l'espace\, accompagnés par les équipes de Tisséo Ingénierie. La ligne
-  C reliera Colomiers à Labège sur 27 km avec 21 stations\, et est attend
- ue pour 2028. Une tenue de chantier est obligatoire (manches longues\, pan
- talon\, chauss\n\nSource\: https://www.toulouse-tourisme.com/agenda/journe
- es-du-patrimoine-sur-les-chantiers-de-la-ligne-c-du-metro/
-URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-sur-les
- -chantiers-de-la-ligne-c-du-metro/?utm_source=ical&utm_medium=calendar&utm
- _campaign=toulouse-agenda
+DTEND;VALUE=DATE:20260920
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:La station Montaudran Gare – Piste des Géants\, sur la futur
+ e ligne C du métro de Toulouse\, sera exceptionnellement ouverte au publi
+ c le 19 septembre 2026 dans le cadre des Journées européennes du patrimo
+ ine\, de 10h à 17h. Actu Toulouse a visité le chantier en avant-premièr
+ e et décrit une emprise de plus de 40 000 m² jouxtant la gare SNCF de Mo
+ ntaudran\, ce qui en fera une plateforme multimodale unique sur le tracé.
+  Particularité architecturale notable : la salle des billets sera en surf
+ ace\, au re\n\nSource\: https://actu.fr/occitanie/toulouse_31555/video-voi
+ ci-a-quoi-ressemble-le-tunnel-du-metro-de-toulouse-dans-cette-station-embl
+ ematique-de-la-ligne-c_64790513.html
+URL:https://actu.fr/occitanie/toulouse_31555/video-voici-a-quoi-ressemble-l
+ e-tunnel-du-metro-de-toulouse-dans-cette-station-emblematique-de-la-ligne-
+ c_64790513.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:affc96b6-7bc0-4d25-929b-f87308ecf883@news.lavillerose.com
@@ -12157,17 +12240,17 @@ BEGIN:VEVENT
 UID:cluster:bd765dcf-d68e-4726-8c9f-7e52a14c0f91@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-SUMMARY:Petites Histoires de Quartier : Ozenne
-DESCRIPTION:À l'occasion des Journées du Patrimoine 2026\, l'Office du To
- urisme de Toulouse propose une visite guidée de la rue Ozenne\, un axe pa
- trimonial remarquable du centre-ville. Le parcours invite les participants
-  à découvrir les hôtels particuliers aux architectures variées qui cô
- toient harmonieusement bâtiments contemporains\, squares et jardins urbai
- ns. La visite se déroule au départ de la sortie du métro\, facilitant l
- 'accès pour tous les Toulousains curieux de leur patrimoine. La réservat
- ion est obl\n\nSource\: https://www.toulouse-tourisme.com/agenda/petites-h
- istoires-de-quartier-ozenne-journees-du-patrimoine/
-LOCATION:rue Ozenne\, Toulouse
+SUMMARY:Petites Histoires de Quartier
+DESCRIPTION:Dans le cadre des Journées du Patrimoine 2026\, une visite gui
+ dée de quartier est proposée rue Ozenne\, à la sortie du métro. Le par
+ cours plonge les participants dans l'histoire architecturale du quartier\,
+  entre hôtels particuliers aux styles variés\, bâtiments contemporains\
+ , squares et jardins urbains. L'événement\, intitulé « Petites histoir
+ es de quartier »\, met en valeur la cohabitation entre patrimoine ancien 
+ et urbanisme moderne. La réservation est obligatoire et les places sont l
+ imitées\, donc \n\nSource\: https://www.toulouse-tourisme.com/agenda/peti
+ tes-histoires-de-quartier-ozenne-journees-du-patrimoine/
+LOCATION:quartier est proposée rue Ozenne\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
  ozenne-journees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_cam
  paign=toulouse-agenda
@@ -12287,17 +12370,17 @@ DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 SUMMARY:Nuit des Monuments
 DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, le Ch
- âteau de Thégra\, situé à Balma\, ouvre ses portes les 19 et 20 septem
- bre 2026. Cette bâtisse du XVIe siècle est inscrite à l'inventaire supp
- lémentaire des Monuments Historiques. Les visiteurs pourront profiter d'u
- ne visite libre pour découvrir ses plafonds peints et ses cheminées monu
- mentales. Les horaires détaillés et la programmation complète sont disp
- onibles sur le site officiel des Journées Européennes du Patrimoine.\n\n
- Source\: https://www.toulouse-tourisme.com/agenda/nuit-des-monuments-au-ch
- ateau-de-thegra/
-URL:https://www.toulouse-tourisme.com/agenda/nuit-des-monuments-au-chateau-
- de-thegra/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
- a
+ âteau de Thégra\, situé sur la commune de Balma\, ouvre ses portes les 
+ 19 et 20 septembre 2026. Cette demeure du XVIe siècle est inscrite à l'i
+ nventaire supplémentaire des Monuments Historiques. Les visiteurs pourron
+ t profiter d'une visite libre pour découvrir ses plafonds peints et ses c
+ heminées monumentales. Les horaires détaillés sont à consulter sur le 
+ site officiel des Journées Européennes du Patrimoine.\n\nSource\: https:
+ //www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-chateau-de-th
+ egra/
+URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-au-chat
+ eau-de-thegra/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c4d7cc68-6f95-4d80-ba76-0f3b708b8839@news.lavillerose.com
@@ -12432,15 +12515,15 @@ UID:cluster:ed3ac6cc-5b42-4b9c-a7f5-14bd20e06749@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Journées du Patrimoine
-DESCRIPTION:À l'occasion des Journées du Patrimoine\, une visite guidée 
- du cimetière de Terre-Cabade est proposée le 19 septembre 2026\, au dép
- art de l'entrée principale. Inauguré en 1840 sur les plans de l'architec
- te Urbain Vitry\, ce vaste cimetière de 33 hectares est souvent surnommé
-  le « Père Lachaise » toulousain. La visite explore l'architecture fun
- éraire parfois théâtrale du site — notamment son entrée ornée d'ob
- élisques néo-égyptiens en briques dorées — et retrace les destins de
-  personnalités toulousai\n\nSource\: https://www.toulouse-tourisme.com/ag
- enda/le-cimetiere-de-terre-cabade-journees-du-patrimoine/
+DESCRIPTION:À l'occasion des Journées du Patrimoine 2026\, une visite gui
+ dée est proposée au cimetière de Terre-Cabade\, le « Père Lachaise »
+  toulousain. Conçu dans les années 1830 par l'architecte Urbain Vitry su
+ r le coteau du même nom\, ce cimetière de 33 hectares fut inauguré en 1
+ 840 et se distingue par son entrée ornée d'obélisques néo-égyptiens e
+ n brique dorée. La visite initie le public à l'architecture funéraire 
+ — parfois théâtrale\, toujours émouvante — et retrace les destins d
+ e personnalités toulousain\n\nSource\: https://www.toulouse-tourisme.com/
+ agenda/le-cimetiere-de-terre-cabade-journees-du-patrimoine/
 URL:https://www.toulouse-tourisme.com/agenda/le-cimetiere-de-terre-cabade-j
  ournees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
@@ -12739,17 +12822,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:461c92a1-46b7-4efb-8be0-de9b47899f3a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:La Parole des Bâtons
-DESCRIPTION:La Bibliothèque d'étude et du patrimoine de Toulouse accueill
- e « La parole des bâtons »\, une exposition conçue par le poète et pl
- asticien toulousain Serge Pey\, fruit d'une résidence de création menée
-  tout au long de la saison 2025-2026. Le projet investit les 24 vitrines a
- rt déco de la bibliothèque avec des œuvres plastiques\, des livres\, ma
- nuscrits et archives personnelles que l'artiste a donnés à l'institution
- . L'exposition mêle poésie\, arts plastiques et mémoire\, et s'inscrit 
- désormais dans le\n\nSource\: https://www.toulouse-tourisme.com/agenda/se
- rgge-bey-la-parole-des-batons/
+DTEND;VALUE=DATE:20270101
+SUMMARY:La parole des bâtons
+DESCRIPTION:L'exposition « La parole des bâtons » du poète et plasticie
+ n toulousain Serge Pey ouvre à la Bibliothèque d'étude et du patrimoine
+  de Toulouse\, investissant les 24 vitrines art déco du bâtiment. Fruit 
+ d'une résidence de création menée tout au long de la saison 2025-2026\,
+  le projet présente ses bâtons de poésie — des branches de châtaigni
+ er ou de noisetier sur lesquelles il grave ses poèmes à la plume métall
+ ique — ainsi que livres\, manuscrits et archives personnelles donnés à
+  la bibliothèque. Cha\n\nSource\: https://www.toulouse-tourisme.com/agend
+ a/sergge-bey-la-parole-des-batons/
 URL:https://www.toulouse-tourisme.com/agenda/sergge-bey-la-parole-des-baton
  s/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -12809,6 +12892,26 @@ URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-laudi
  campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:081edbe4-aa46-40b8-9dbe-8cafd43bf859@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Journées Européennes du Patrimoine
+DESCRIPTION:Le week-end des 19 et 20 septembre 2026\, Toulouse célèbre le
+ s Journées européennes du Patrimoine avec plus de 170 animations et ouve
+ rtures gratuites de sites habituellement fermés au public\, dont la Banqu
+ e de France et le musée Aeroscopia. Toulouscope en sélectionne dix\, met
+ tant en avant des visites inédites dans la Ville rose sous le thème de l
+ a photographie et du patrimoine en péril. Actu Toulouse\, de son côté\,
+  propose un panorama plus large des expositions à l'affiche dans les mus
+ ées toulousa\n\nSource\: https://actu.fr/occitanie/toulouse_31555/des-exp
+ ositions-exceptionnelles-a-decouvrir-dans-les-musees-de-toulouse-8-rendez-
+ vous-a-ne-pas-manquer_64772805.html
+URL:https://actu.fr/occitanie/toulouse_31555/des-expositions-exceptionnelle
+ s-a-decouvrir-dans-les-musees-de-toulouse-8-rendez-vous-a-ne-pas-manquer_6
+ 4772805.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b632f9c3-9a02-47c5-8f28-df67d7002574@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
@@ -12853,14 +12956,14 @@ UID:cluster:f4b3658f-52f2-47d9-b73a-6bc6ef4aeb60@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Le Noviciat
-DESCRIPTION:Le Noviciat\, futur Centre de l'Architecture et du Patrimoine d
- e Toulouse\, s'apprête à ouvrir ses portes le 19 septembre 2026 place de
-  la Daurade. Installé dans un ancien couvent de Jésuites du XVIe siècle
-  — successivement transformé en caserne\, école et atelier de costumes
-  du Théâtre du Capitole — il proposera un espace de 300 m² sur deux n
- iveaux avec scénographie interactive\, expositions permanentes et vues pa
- noramiques sur la Garonne. Une fresque du XVIIe siècle\, découverte dura
- nt les travaux\,\n\nSource\: https://actu.fr/occitanie/toulouse_31555/qu-e
+DESCRIPTION:Toulouse inaugurera le 19 septembre 2026 le Noviciat — Centre
+  de l'Architecture et du Patrimoine — place de la Daurade\, à l'occasio
+ n des Journées européennes du Patrimoine. Installé dans un ancien couve
+ nt de Jésuites du XVIe siècle\, l'espace de 300 m² propose un parcours 
+ sur deux niveaux\, une scénographie interactive\, des expositions permane
+ ntes et une chapelle remarquable\, ainsi qu'une fresque du XVIIe siècle d
+ écouverte lors des travaux. Le lieu succède à l'Espace Patrimoine\, fer
+ mé depuis fin a\n\nSource\: https://actu.fr/occitanie/toulouse_31555/qu-e
  st-ce-que-le-noviciat-le-nouvel-espace-culturel-qui-s-apprete-a-ouvrir-ses
  -portes-dans-le-centre-de-toulouse_64769065.html
 LOCATION:place de la Daurade\, Toulouse
@@ -12868,6 +12971,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/qu-est-ce-que-le-noviciat-le-n
  ouvel-espace-culturel-qui-s-apprete-a-ouvrir-ses-portes-dans-le-centre-de-
  toulouse_64769065.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:af62ab35-ddf3-4314-968b-74b4ae111d53@news.lavillerose.com
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260925
+SUMMARY:La grande marche de Lucie
+DESCRIPTION:Samedi 19 septembre à 9h30\, Lucie Bonnay s'élance des Ponts-
+ Jumeaux à Toulouse pour le quatrième et dernier tronçon de « La grande
+  marche de Lucie »\, un défi entamé en 2023. Ce dernier segment de 80 k
+ m la mènera de Toulouse à Castelsarrasin en longeant le canal du Midi et
+  le canal latéral à la Garonne\, avec une arrivée prévue le jeudi 24 s
+ eptembre. Cette habitante de La Salvetat-Saint-Gilles\, âgée de 48 ans\,
+  souffre de spondylarthrite ankylosante et de fibromyalgie\, et parcourt c
+ e chemin pour se\n\nSource\: https://actu.fr/occitanie/toulouse_31555/cela
+ -concerne-23-millions-de-francais-lucie-bonnay-va-boucler-son-defi-de-500-
+ km-a-pied-en-partant-de-toulouse_64791799.html
+URL:https://actu.fr/occitanie/toulouse_31555/cela-concerne-23-millions-de-f
+ rancais-lucie-bonnay-va-boucler-son-defi-de-500-km-a-pied-en-partant-de-to
+ ulouse_64791799.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:32b661a9-f147-44c4-be5a-da3ed4214259@news.lavillerose.com
@@ -13051,15 +13174,15 @@ UID:cluster:f4aa9d4f-cf3d-4798-bc1a-426a77f02114@news.lavillerose.com
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Les Cathares à Toulouse
-DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée con
- sacrée à l'histoire des Cathares dans le cadre des Journées Européenne
- s du Patrimoine\, le 20 septembre 2026. La visite retrace le contexte méd
- iéval du XIIe siècle dans le sud de la France : l'essor de la langue d'o
- c\, l'émergence du catharisme et la réaction de l'Église catholique et 
- du roi de France. Origines et croyances cathares\, croisade albigeoise\, I
- nquisition et rôle des familles nobles toulousaines sont au programme. La
-  réservat\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-cathar
- es-a-toulouse-journees-du-patrimoine/
+DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine 2026\, l
+ 'Office de Tourisme de Toulouse propose une visite guidée consacrée à l
+ 'histoire des Cathares et de la croisade albigeoise. La sortie retrace les
+  origines du catharisme\, ses croyances\, les batailles et sièges marquan
+ ts\, ainsi que le rôle de l'Inquisition et des grandes familles nobles to
+ ulousaines. Cette période du XIIe-XIIIe siècle\, profondément ancrée d
+ ans la mémoire collective occitane\, est replacée dans le contexte cultu
+ rel et lingui\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-cat
+ hares-a-toulouse-journees-du-patrimoine/
 URL:https://www.toulouse-tourisme.com/agenda/les-cathares-a-toulouse-journe
  es-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
  e-agenda
@@ -13718,6 +13841,26 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-15#49859?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2b4a422d-2307-47d6-9dc5-de8c699eeb2a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Le Cube
+DESCRIPTION:L'ancien emplacement du G-Boy\, discothèque LGBTQIA+ emblémat
+ ique fermée en avril après 13 ans\, a rouvert en juin sous le nom Le Cub
+ e\, qui s'apprête lui-même à changer de cap dès le 25 septembre. Sous 
+ la direction de Dylan Hany — créateur du collectif Rar —\, le club mi
+ sera sur la culture underground : techno\, hard techno\, drum and bass\, b
+ ass music\, rave et eurodance. L'objectif affiché est de remettre la musi
+ que au centre avec des prix accessibles : entrée à 10 € maximum (15 
+ € avec un guest)\, ves\n\nSource\: https://actu.fr/occitanie/toulouse_31
+ 555/cette-boite-de-nuit-historique-de-toulouse-change-d-ambiance-voici-ce-
+ qu-elle-va-proposer-a-partir-du-25-septembre_64792145.html
+URL:https://actu.fr/occitanie/toulouse_31555/cette-boite-de-nuit-historique
+ -de-toulouse-change-d-ambiance-voici-ce-qu-elle-va-proposer-a-partir-du-25
+ -septembre_64792145.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc@news.lavillerose.com
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
@@ -14037,6 +14180,23 @@ URL:https://www.toulouse-tourisme.com/agenda/bach-mendelssohn/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2c1e3b03-8a1b-4a32-aeed-1de833e5d002@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Pastel'Xtrem
+DESCRIPTION:Le Club athlétique de Balma organise la première édition du 
+ Pastel'Xtrem le samedi 26 septembre à Pin-Balma\, une course d'endurance 
+ inspirée du format américain « backyard ultra ». Le principe : enchaî
+ ner des boucles de 8 km en moins d'une heure\, de 9h à 21h\, soit jusqu'
+ à 12 boucles et 96 km au total. Inventé par le créateur de la légendai
+ re Barkley\, ce format dure habituellement 24 heures\, mais l'édition loc
+ ale a été limitée à 12 heures pour faciliter l'organisation et ménage
+ r les bénévoles. Le\n\nSource\: https://www.lessentiel.fr/newsletter/tou
+ louse/2026-09-16#49927
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-16#49927?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
@@ -14104,6 +14264,25 @@ DESCRIPTION:Le Rex de Toulouse accueille deux concerts metal les 27 et 28 s
 URL:https://www.ticketmaster.fr/fr/manifestation/forever-nu-billet/idmanif/
  644088/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:73e4125f-1930-46fd-a5da-c749c413d34e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Élections sénatoriales 2026
+DESCRIPTION:Les élections sénatoriales du 27 septembre 2026 approchent et
+  la Haute-Garonne doit renouveler ses cinq sièges au Sénat\, pourvus au 
+ scrutin de liste à la proportionnelle. Les listes officielles viennent d'
+ être validées par les services de l'État\, révélant 70 candidats rép
+ artis sur plusieurs formations politiques. Le scrutin est réservé aux gr
+ ands électeurs — maires et autres élus locaux — et non au suffrage u
+ niversel direct. Actu Toulouse publie la liste complète des candidats et 
+ de leurs étique\n\nSource\: https://actu.fr/occitanie/toulouse_31555/elec
+ tions-senatoriales-2026-la-liste-complete-de-tous-les-candidats-devoilee-e
+ n-haute-garonne_64790129.html
+URL:https://actu.fr/occitanie/toulouse_31555/elections-senatoriales-2026-la
+ -liste-complete-de-tous-les-candidats-devoilee-en-haute-garonne_64790129.h
+ tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:35bd7fcd-3a2a-446f-92bc-31b883fd252a@news.lavillerose.com
@@ -18287,6 +18466,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/stanislas-billet/idmanif/6
  louse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:efb3778b-f387-4f74-85f4-03e29febc09e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Morgan Poitrot
+DESCRIPTION:Le comédien Morgan Poitrot se produira à La Petite Comédie d
+ e Toulouse le 14 novembre 2026. Il s'agit d'un spectacle de comédie/humou
+ r dans cette salle toulousaine dédiée aux one-man-shows et aux arts de l
+ a scène. L'information provient d'une fiche Ticketmaster\, ce qui laisse 
+ peu de détails sur le contenu du spectacle ou son format exact. Les amate
+ urs d'humour et de stand-up toulousains sont les premiers concernés par c
+ et événement.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/m
+ organ-poitrot-billet/idmanif/672449/idseance/4417050
+LOCATION:salle toulousaine dédiée aux one-man-shows\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/morgan-poitrot-billet/idma
+ nif/672449/idseance/4417050?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4@news.lavillerose.com
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -18424,6 +18621,25 @@ LOCATION:salle de référence de la région toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/slift-billet/idmanif/64428
  9/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
  e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:bdfcda9c-0381-4e2e-8a96-e52816820804@news.lavillerose.com
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Juste pour un soir
+DESCRIPTION:Le comédien Jérémy Lorca se produit au 3T d'À Côté à Tou
+ louse le 17 novembre 2026 dans un spectacle intitulé « Juste pour un soi
+ r ». Le format suggère un one-man-show ou une soirée de théâtre intim
+ iste\, à l'image de la salle qui accueille régulièrement des artistes e
+ n format scène proche du public. Les informations disponibles sont limit
+ ées à la fiche Ticketmaster\, sans détails sur la durée\, le contenu d
+ u spectacle ou la billetterie. Les amateurs de théâtre et de scène humo
+ ristique toulousaine s\n\nSource\: https://www.ticketmaster.fr/fr/manifest
+ ation/jeremy-lorca-billet/idmanif/672361/idseance/4414085
+LOCATION:salle qui accueille régulièrement des artistes en fo\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/jeremy-lorca-billet/idmani
+ f/672361/idseance/4414085?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a948b680-c5d6-49f6-974c-3b92e2839bd9@news.lavillerose.com
@@ -24099,6 +24315,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/veritable-phenomene-mondial-le
  agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:e88eca9a-ab39-49f4-ab22-b44086dcb1e3@news.lavillerose.com
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Clair Obscur : Expédition 33
+DESCRIPTION:Un événement intitulé « Clair Obscur : Expédition 33 » es
+ t programmé au Zénith Toulouse Métropole le 22 mars 2027\, à la crois
+ ée du film et de la musique. Le format exact — projection ciné-concert
+ \, soirée musicale thématique ou autre — n'est pas précisé dans les 
+ informations disponibles. L'événement s'inscrit dans la catégorie « Fi
+ lm — Music »\, suggérant une expérience combinant image et musique li
+ ve ou synchronisée. Les amateurs de cinéma et de musique du grand Toulou
+ se sont concernés par cette \n\nSource\: https://www.ticketmaster.fr/fr/m
+ anifestation/clair-obscur-expedition-33-billet/idmanif/671650/idseance/440
+ 6981
+URL:https://www.ticketmaster.fr/fr/manifestation/clair-obscur-expedition-33
+ -billet/idmanif/671650/idseance/4406981?utm_source=ical&utm_medium=calenda
+ r&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2864e930-0acc-47b2-a31e-6526a178fa8f@news.lavillerose.com
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270325
@@ -24951,6 +25186,25 @@ DESCRIPTION:Charlie Haid se produit au Casino Barrière de Toulouse le 21 a
 URL:https://www.ticketmaster.fr/fr/manifestation/charlie-haid-billet/idmani
  f/663980/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9edce462-e92e-41c2-b735-6e18cc4c0578@news.lavillerose.com
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:JAIN
+DESCRIPTION:La chanteuse française JAIN se produira au Bikini à Ramonvill
+ e-Saint-Agne le 21 avril 2027. Ce concert s'inscrit dans la programmation 
+ rock/musique du Bikini\, l'une des salles de spectacle incontournables de 
+ l'agglomération toulousaine. JAIN\, connue pour ses tubes mêlant pop\, a
+ frobeat et électro\, attire un public large et fidèle. Les amateurs de m
+ usique live aux alentours de Toulouse sont directement concernés.\n\nSour
+ ce\: https://www.ticketmaster.fr/fr/manifestation/jain-billet/idmanif/6718
+ 43/idseance/4410829
+LOCATION:salles de spectacle incontournables de l'agglomération t\, Toulou
+ se
+URL:https://www.ticketmaster.fr/fr/manifestation/jain-billet/idmanif/671843
+ /idseance/4410829?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:87d90b79-fc5a-4aa9-884f-5323fbd98ac2@news.lavillerose.com
@@ -26026,6 +26280,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/greg-duth-billet/idmanif/6
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:40bc4e90-be8c-46fb-a7f4-9862d2aa3a13@news.lavillerose.com
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:Alex Vizorek
+DESCRIPTION:Le comédien et chroniqueur belge Alex Vizorek se produira au Z
+ énith Toulouse Métropole le 25 novembre 2027. Connu pour ses one-man-sho
+ ws mêlant humour absurde et références culturelles pointues\, Vizorek e
+ st une figure familière des scènes francophones. L'événement est class
+ é dans la catégorie Arts & Théâtre / Comédie\, avec une billetterie d
+ isponible via Ticketmaster. Les amateurs de stand-up et d'humour belge son
+ t donc invités à réserver leurs places en avance pour cette grande sall
+ e toulousaine\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/ale
+ x-vizorek-billet/idmanif/672072/idseance/4412909
+URL:https://www.ticketmaster.fr/fr/manifestation/alex-vizorek-billet/idmani
+ f/672072/idseance/4412909?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5943ca3a-f020-46e5-8956-74fb32f03703@news.lavillerose.com
 DTSTART;VALUE=DATE:20271205
 DTEND;VALUE=DATE:20271206
@@ -26040,6 +26312,25 @@ DESCRIPTION:Le spectacle THE RISE sera présenté au Zénith Toulouse Métr
 URL:https://www.ticketmaster.fr/fr/manifestation/the-rise-billet/idmanif/65
  4660/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4a144999-56c3-4636-b73c-ebf1864950e5@news.lavillerose.com
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
+SUMMARY:Clément Blouin
+DESCRIPTION:Clément Blouin se produira au Bascala à Bruguières\, salle d
+ e spectacle située au nord de Toulouse\, le 19 décembre 2027. L'événem
+ ent est classé dans la catégorie Arts & Théâtre — Spectacular\, sans
+  plus de précision sur le contenu exact du show. Les informations disponi
+ bles se limitent à la date\, au lieu et à la catégorie\, sans détail s
+ ur la billetterie ou le programme. Cet événement s'adresse aux amateurs 
+ de spectacle vivant de l'agglomération toulousaine.\n\nSource\: https://w
+ ww.ticketmaster.fr/fr/manifestation/clement-blouin-billet/idmanif/672410/i
+ dseance/4414201
+LOCATION:salle de spectacle située au nord de Toulouse\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/clement-blouin-billet/idma
+ nif/672410/idseance/4414201?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dfdc9ee4-36d7-4e4f-ad3e-eb17a19642fe@news.lavillerose.com
