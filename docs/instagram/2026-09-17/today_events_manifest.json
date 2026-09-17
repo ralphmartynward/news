@@ -1,0 +1,121 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:d7baac59-46bb-442e-a1e4-d2690512d63f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cartoon Forum 2026 : 66 séries d'animation européennes à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/cartoon-forum-2.jpg",
+    "file": "cluster_d7baac59-46bb-442e-a1e4-d2690512d63f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2648c8d7-42ff-43af-8b71-deb1d7bbfad0",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Village des Recruteurs : 500 offres d'emploi à la salle Jean-Mermoz",
+    "image_url": "https://static.actu.fr/uploads/2026/06/bf8dd1b4153a6a49dd1b4153a699ddv.jpg",
+    "file": "cluster_2648c8d7-42ff-43af-8b71-deb1d7bbfad0_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 916
+  },
+  {
+    "cluster_id": "cluster:602fc564-50dd-4f62-937f-7afa09018927",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Anna Petrova-Forster joue Voříšek et Schubert au Cloître des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ANNA-PETROVA-FORSTER-PIANO-JACOBINS.jpg",
+    "file": "cluster_602fc564-50dd-4f62-937f-7afa09018927_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:278170a7-f7a8-45b5-b051-5a2d8e52c2b8",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Loto Rigolo du Studio 55 : rires et cadeaux au programme",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-LOTO-DU-STUDIO.jpg",
+    "file": "cluster_278170a7-f7a8-45b5-b051-5a2d8e52c2b8_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:87f5e756-86fe-4328-8d4a-b7e1d3371eb6",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Hommage à Grant Green au Taquin, le 17 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FEELING-THE-SPIRIT-OF-GRANT-GREEN.jpg",
+    "file": "cluster_87f5e756-86fe-4328-8d4a-b7e1d3371eb6_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b90f0db8-a796-47c8-b9a0-555420414ff5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Yuri Buenaventura en concert à Saint-Orens-de-Gameville",
+    "image_url": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_b90f0db8-a796-47c8-b9a0-555420414ff5_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:11d8d743-829b-41b7-9993-ddfeae8ef029",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Soirée stand-up au Petit London avec six humoristes toulousains",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/micro-h---freepik.jpg?itok=tuVKRqdV",
+    "file": "cluster_11d8d743-829b-41b7-9993-ddfeae8ef029_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:5887079b-c33f-4ec8-8802-9890ddd06374",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence « L'Invité des Savoirs » au Muséum d'histoire naturelle",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/voiture-electronique-embarque-adobestock_730191223.jpg?itok=z-OkxnFr",
+    "file": "cluster_5887079b-c33f-4ec8-8802-9890ddd06374_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:d81cb749-e3a1-4070-a6bb-462f329bbb24",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Journée des familles France Alzheimer 31 à Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/alzheimer-adobestock_377802251.jpg?itok=7on_uBsb",
+    "file": "cluster_d81cb749-e3a1-4070-a6bb-462f329bbb24_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:a5a4a145-7aeb-491d-a26f-05af2786a6d8",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Super Fête Foraine Saint-Michel au MEETT : 150 attractions",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/fete-saint-michel-toulouse-fete-foraine-mlc-6-960x640-copie.jpg",
+    "file": "cluster_a5a4a145-7aeb-491d-a26f-05af2786a6d8_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

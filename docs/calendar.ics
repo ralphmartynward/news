@@ -9,23 +9,6 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:cluster:f1e6a25d-0695-4cf9-b8f7-2249271b4623@news.lavillerose.com
-DTSTART;VALUE=DATE:20251010
-DTEND;VALUE=DATE:20261012
-SUMMARY:Toulouse Polars du Sud
-DESCRIPTION:Le festival international des littératures noires et policièr
- es Toulouse Polars du Sud revient au Forum de la Renaissance à Basso Camb
- o. Cette édition est parrainée par Valentine Imhof\, autrice française\
- , et Abir Mukherjee\, auteur britannique\, entourés d'une quarantaine d'a
- uteurs français et étrangers parmi lesquels Didier Daeninckx\, Gwenaël 
- Bulteau ou encore Anne-Gaëlle Balpe. En amont du festival\, une semaine d
- 'animations « hors-les-murs » se déploie dans plus de 70 sites de la r
- égion Occitani\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulo
- use-polars-du-sud/
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-polars-du-sud/?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -10859,26 +10842,6 @@ URL:https://www.toulouse-tourisme.com/agenda/paul-lay-piano-aux-jacobins/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:051209e3-0144-4f30-aacc-0a6e3bd3fb55@news.lavillerose.com
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20261212
-SUMMARY:Canal du Midi\, 30 ans UNESCO
-DESCRIPTION:À l'occasion des 30 ans de l'inscription du canal du Midi au p
- atrimoine mondial de l'UNESCO\, Toulouse accueille plusieurs expositions e
- t événements autour de ce patrimoine emblématique. La Galerie 24 de l'
- École nationale supérieure d'architecture de Toulouse présente du 17 se
- ptembre au 11 décembre 2026 l'exposition « Le canal du Midi\, un patrimo
- ine à réinventer »\, avec plans\, maquettes\, archives et projets d'ét
- udiants imaginant de nouveaux usages pour 15 sites en friche ou inutilisé
- s. Du 14 au 2\n\nSource\: https://www.toulouscope.fr/2026/09/09/a-toulouse
- -cette-exposition-imagine-un-futur-pour-le-canal-du-midi-a-travers-les-reg
- ards-des-architectes-de-demain-13522679.php
-URL:https://www.toulouscope.fr/2026/09/09/a-toulouse-cette-exposition-imagi
- ne-un-futur-pour-le-canal-du-midi-a-travers-les-regards-des-architectes-de
- -demain-13522679.php?utm_source=ical&utm_medium=calendar&utm_campaign=toul
- ouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:1404d24f-8660-4791-aa8e-bc828c02bf0a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
@@ -11104,21 +11067,41 @@ URL:https://actu.fr/occitanie/toulouse_31555/aeronautique-grande-distributi
  toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a33839af-dd20-47c1-a85e-e1b6d82a0c9a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Test de sirène SAIP au quartier Lalande ce mercredi après-midi
+DESCRIPTION:La préfecture de la Haute-Garonne annonce un test sonore excep
+ tionnel de la sirène du Système d'alerte et d'information des population
+ s (SAIP) dans le quartier Lalande\, située au 3 place Paul-Riché. Ce tes
+ t aura lieu le mercredi 16 septembre 2026\, entre 15h et 17h\, en dehors d
+ u créneau habituel des premiers mercredis du mois. Le signal sera identiq
+ ue à celui des essais mensuels : un cycle de 1 minute 41 secondes\, rép
+ été trois fois. Aucune action n'est attendue de la part des habitants\, 
+ ce signal\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pourquoi-le
+ s-sirenes-vont-retentir-dans-ce-quartier-de-toulouse-au-beau-milieu-de-l-a
+ pres-midi_64795488.html
+LOCATION:quartier Lalande\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-les-sirenes-vont-rete
+ ntir-dans-ce-quartier-de-toulouse-au-beau-milieu-de-l-apres-midi_64795488.
+ html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:a6d7bca7-5bf9-4105-ab79-b7d61499d28b@news.lavillerose.com
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20261005
-SUMMARY:La Quinzaine Littéraire
-DESCRIPTION:La Quinzaine Littéraire se déroule du 17 septembre au 4 octob
- re 2026 dans divers lieux de Toulouse et de sa métropole. L'événement p
- ropose de nombreuses rencontres gratuites avec des auteurs et des éditeur
- s\, sous forme de lectures\, spectacles et ateliers. Les bibliothèques de
-  la ville et de la métropole\, ainsi que la Cave Poésie\, accueillent le
- s différentes manifestations. Cet événement s'adresse à tous les amate
- urs de littérature\, et l'entrée libre en facilite l'accès au plus gran
- d nombre.\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-quinzain
- e-litteraire/
-URL:https://www.toulouse-tourisme.com/agenda/la-quinzaine-litteraire/?utm_s
- ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Quinzaine littéraire toulousaine
+DESCRIPTION:Toulouse Métropole et la Cave Poésie organisent du 17 septemb
+ re au 4 octobre la 4e édition de la Quinzaine littéraire toulousaine\, a
+ vec 21 rencontres gratuites programmées dans plus de 20 bibliothèques de
+  la métropole. Au menu : rencontres avec auteurs et éditeurs\, lectures 
+ musicalisées\, conférences dansées\, ateliers et dégustations\, access
+ ibles à tous les publics. Ce week-end (samedi 19 et dimanche 20)\, le Baz
+ ar littéraire « Chez René » revient pour sa douzième édition à la C
+ ave Poésie\, mettant\n\nSource\: https://www.lessentiel.fr/newsletter/tou
+ louse/2026-09-17#50209
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-17#50209?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:602fc564-50dd-4f62-937f-7afa09018927@news.lavillerose.com
@@ -11205,6 +11188,26 @@ DESCRIPTION:Le chanteur colombien Yuri Buenaventura se produira à l'Altigo
 URL:https://www.ticketmaster.fr/fr/manifestation/yuri-buenaventura-billet/i
  dmanif/660587/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_camp
  aign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:051209e3-0144-4f30-aacc-0a6e3bd3fb55@news.lavillerose.com
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20261212
+SUMMARY:Le Canal du Midi\, un patrimoine à réinventer
+DESCRIPTION:À l'occasion du 30e anniversaire de l'inscription du canal du 
+ Midi au patrimoine mondial de l'UNESCO\, l'École nationale supérieure d'
+ architecture de Toulouse présente l'exposition « Le Canal du Midi\, un p
+ atrimoine à réinventer » à la Galerie 24\, du 17 septembre au 11 déce
+ mbre 2026. Des étudiants en architecture y exposent maquettes\, plans\, p
+ hotographies et archives imaginant de nouveaux usages pour 15 sites patrim
+ oniaux peu connus – écluses\, châteaux\, ports – aujourd'hui en fric
+ he ou inutilisés.\n\nSource\: https://www.toulouscope.fr/2026/09/09/a-tou
+ louse-cette-exposition-imagine-un-futur-pour-le-canal-du-midi-a-travers-le
+ s-regards-des-architectes-de-demain-13522679.php
+URL:https://www.toulouscope.fr/2026/09/09/a-toulouse-cette-exposition-imagi
+ ne-un-futur-pour-le-canal-du-midi-a-travers-les-regards-des-architectes-de
+ -demain-13522679.php?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:297d3508-3a84-4b10-a247-67951313ae3d@news.lavillerose.com
@@ -11431,6 +11434,23 @@ DESCRIPTION:Du 18 au 20 septembre 2026\, le festival MéditerranéO' fête
 URL:https://www.toulouscope.fr/2026/09/14/treize-concerts-gratuits-pour-voy
  ager-autour-de-la-mediterranee-a-portet-sur-garonne-13534044.php?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a5a4a145-7aeb-491d-a26f-05af2786a6d8@news.lavillerose.com
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20261012
+SUMMARY:Super Fête Foraine Saint-Michel
+DESCRIPTION:La Super Fête Foraine Saint-Michel\, présentée comme la plus
+  grande fête foraine de Toulouse\, se tient au MEETT du 18 septembre au 1
+ 1 octobre 2026. Elle propose plus de 150 attractions allant des classiques
+  (manèges\, train fantôme\, château hanté\, pêche aux canards) aux no
+ uveautés spectaculaires comme la Mega King Tower\, une tour de chute de 8
+ 0 mètres à 100 km/h. Parmi les temps forts\, des parades chaque week-end
+  sur des thèmes Disney\, Transformers\, Avengers ou Pat' Patrouille sont 
+ au programme. L\n\nSource\: https://www.toulouse-tourisme.com/agenda/super
+ -fete-foraine-saint-michel/
+URL:https://www.toulouse-tourisme.com/agenda/super-fete-foraine-saint-miche
+ l/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3024b39b-ebb6-467b-b7b5-18c123fdd37b@news.lavillerose.com
@@ -12186,16 +12206,16 @@ UID:cluster:ae1755cc-608c-4ae0-835d-ec2020e580ee@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Journées Européennes du Patrimoine
-DESCRIPTION:La station Montaudran Gare – Piste des Géants\, sur la futur
- e ligne C du métro de Toulouse\, sera exceptionnellement ouverte au publi
- c le 19 septembre 2026 dans le cadre des Journées européennes du patrimo
- ine\, de 10h à 17h. Actu Toulouse a visité le chantier en avant-premièr
- e et décrit une emprise de plus de 40 000 m² jouxtant la gare SNCF de Mo
- ntaudran\, ce qui en fera une plateforme multimodale unique sur le tracé.
-  Particularité architecturale notable : la salle des billets sera en surf
- ace\, au re\n\nSource\: https://actu.fr/occitanie/toulouse_31555/video-voi
- ci-a-quoi-ressemble-le-tunnel-du-metro-de-toulouse-dans-cette-station-embl
- ematique-de-la-ligne-c_64790513.html
+DESCRIPTION:À l'occasion des Journées européennes du patrimoine\, Tissé
+ o ouvre gratuitement cinq chantiers de la future ligne C du métro (et du 
+ prolongement de la ligne B) au grand public\, le samedi 19 septembre de 10
+  h à 17 h. Les visiteurs\, équipés de casque et gilet fluorescent\, pou
+ rront découvrir les stations en construction de Blagnac\, Bonnefoy\, Lima
+ yrac – Cité de l'Espace\, Montaudran Gare – Piste des Géants et Lab
+ ège Madron. La station Montaudran Gare – Piste des Géants est mise en 
+ avant pour ses spéci\n\nSource\: https://actu.fr/occitanie/toulouse_31555
+ /video-voici-a-quoi-ressemble-le-tunnel-du-metro-de-toulouse-dans-cette-st
+ ation-emblematique-de-la-ligne-c_64790513.html
 URL:https://actu.fr/occitanie/toulouse_31555/video-voici-a-quoi-ressemble-l
  e-tunnel-du-metro-de-toulouse-dans-cette-station-emblematique-de-la-ligne-
  c_64790513.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
@@ -12822,7 +12842,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:461c92a1-46b7-4efb-8be0-de9b47899f3a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20260920
 SUMMARY:La parole des bâtons
 DESCRIPTION:L'exposition « La parole des bâtons » du poète et plasticie
  n toulousain Serge Pey ouvre à la Bibliothèque d'étude et du patrimoine
@@ -12956,16 +12976,16 @@ UID:cluster:f4b3658f-52f2-47d9-b73a-6bc6ef4aeb60@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Le Noviciat
-DESCRIPTION:Toulouse inaugurera le 19 septembre 2026 le Noviciat — Centre
-  de l'Architecture et du Patrimoine — place de la Daurade\, à l'occasio
- n des Journées européennes du Patrimoine. Installé dans un ancien couve
- nt de Jésuites du XVIe siècle\, l'espace de 300 m² propose un parcours 
- sur deux niveaux\, une scénographie interactive\, des expositions permane
- ntes et une chapelle remarquable\, ainsi qu'une fresque du XVIIe siècle d
- écouverte lors des travaux. Le lieu succède à l'Espace Patrimoine\, fer
- mé depuis fin a\n\nSource\: https://actu.fr/occitanie/toulouse_31555/qu-e
- st-ce-que-le-noviciat-le-nouvel-espace-culturel-qui-s-apprete-a-ouvrir-ses
- -portes-dans-le-centre-de-toulouse_64769065.html
+DESCRIPTION:Toulouse inaugure le Noviciat — Centre de l'Architecture et d
+ u Patrimoine — le 19 septembre 2026\, place de la Daurade\, à l'occasio
+ n des Journées européennes du Patrimoine. Installé dans l'ancien couven
+ t des Jésuites du XVIe siècle\, le lieu de 300 m² propose expositions p
+ ermanentes et temporaires sur deux niveaux\, une maquette interactive retr
+ açant l'évolution de Toulouse en 7 minutes\, et une fresque du XVIIe si
+ ècle découverte lors des travaux. Il succède à l'Espace Patrimoine\, f
+ ermé depuis fin a\n\nSource\: https://actu.fr/occitanie/toulouse_31555/qu
+ -est-ce-que-le-noviciat-le-nouvel-espace-culturel-qui-s-apprete-a-ouvrir-s
+ es-portes-dans-le-centre-de-toulouse_64769065.html
 LOCATION:place de la Daurade\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/qu-est-ce-que-le-noviciat-le-n
  ouvel-espace-culturel-qui-s-apprete-a-ouvrir-ses-portes-dans-le-centre-de-
@@ -14270,16 +14290,16 @@ UID:cluster:73e4125f-1930-46fd-a5da-c749c413d34e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Élections sénatoriales 2026
-DESCRIPTION:Les élections sénatoriales du 27 septembre 2026 approchent et
-  la Haute-Garonne doit renouveler ses cinq sièges au Sénat\, pourvus au 
- scrutin de liste à la proportionnelle. Les listes officielles viennent d'
- être validées par les services de l'État\, révélant 70 candidats rép
- artis sur plusieurs formations politiques. Le scrutin est réservé aux gr
- ands électeurs — maires et autres élus locaux — et non au suffrage u
- niversel direct. Actu Toulouse publie la liste complète des candidats et 
- de leurs étique\n\nSource\: https://actu.fr/occitanie/toulouse_31555/elec
- tions-senatoriales-2026-la-liste-complete-de-tous-les-candidats-devoilee-e
- n-haute-garonne_64790129.html
+DESCRIPTION:Les élections sénatoriales du 27 septembre 2026 verront 10 li
+ stes s'affronter en Haute-Garonne pour cinq sièges à pourvoir au scrutin
+  de liste à la proportionnelle. C'est deux listes de plus qu'en 2020 et 2
+ 014\, dans un contexte de recomposition politique post-municipales. À dro
+ ite et au centre\, les deux sénateurs sortants Pierre Médevielle (Horizo
+ ns) et Brigitte Micouleau (LR) font face à la concurrence inattendue de l
+ 'ex-ministre Dominique Faure (Parti radical) et d'une liste menée par le 
+ maire\n\nSource\: https://actu.fr/occitanie/toulouse_31555/elections-senat
+ oriales-2026-la-liste-complete-de-tous-les-candidats-devoilee-en-haute-gar
+ onne_64790129.html
 URL:https://actu.fr/occitanie/toulouse_31555/elections-senatoriales-2026-la
  -liste-complete-de-tous-les-candidats-devoilee-en-haute-garonne_64790129.h
  tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -21500,6 +21520,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/celia-pelluet-billet/idman
  =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f671bb94-d3b4-42ae-8837-eab516d26eb8@news.lavillerose.com
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Nick Mukoko Chronic
+DESCRIPTION:Le spectacle « Nick Mukoko Chronic » est programmé au 3T D'
+ À Côté\, salle de théâtre toulousaine\, le 7 janvier 2027. Il s'agit 
+ d'une création relevant des arts de la scène et du théâtre. Les inform
+ ations disponibles sont limitées : aucun détail sur le contenu du specta
+ cle\, le metteur en scène ou les artistes impliqués n'est fourni dans la
+  source. Les amateurs de théâtre souhaitant réserver à l'avance peuven
+ t consulter Ticketmaster pour les billets.\n\nSource\: https://www.ticketm
+ aster.fr/fr/manifestation/nick-mukoko-chronic-billet/idmanif/672672/idsean
+ ce/4422562
+LOCATION:salle de théâtre toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/nick-mukoko-chronic-billet
+ /idmanif/672672/idseance/4422562?utm_source=ical&utm_medium=calendar&utm_c
+ ampaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:822bf47a-59c9-40b7-ad5a-8b3b7675bae7@news.lavillerose.com
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
@@ -25650,6 +25689,24 @@ LOCATION:salle toulousaine dédiée aux arts de la scène\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/cedric-salaun-billet/idman
  if/654109/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign
  =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f94a09d8-7506-4b4c-bd5b-df16c7b3a5c1@news.lavillerose.com
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Gauchiasse
+DESCRIPTION:Le comédien Pierre Metzger présente son spectacle « Gauchias
+ se » au 3T d'À Côté\, salle de théâtre toulousaine. Le titre\, mêla
+ nt humour et engagement politique\, laisse deviner un one-man-show aux acc
+ ents satiriques sur la gauche et ses contradictions. La date retenue est l
+ e 13 mai 2027. Peu d'informations supplémentaires sont disponibles dans l
+ a source\, mais l'événement s'inscrit dans la programmation théâtrale 
+ du 3T.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/pierre-met
+ zger-gauchiasse-billet/idmanif/672673/idseance/4422563
+LOCATION:salle de théâtre toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/pierre-metzger-gauchiasse-
+ billet/idmanif/672673/idseance/4422563?utm_source=ical&utm_medium=calendar
+ &utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:928d1aa4-3033-4e14-b2b8-7e625a2502bc@news.lavillerose.com
