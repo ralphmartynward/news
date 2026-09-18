@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-09-19",
+  "sunday": "2026-09-20",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:f4aa9d4f-cf3d-4798-bc1a-426a77f02114",
+      "title": "Visite guidée « Les Cathares à Toulouse » à l'Office de Tourisme",
+      "img_width": 860,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2d30799b-1f5b-436a-a228-af9d717298fa",
+      "title": "Visite guidée « La Ville Enfouie » au Palais de Justice",
+      "img_width": 860,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:60f8e721-61e2-4b10-ab72-41c67c7dac5a",
+      "title": "Petites Histoires de Quartier : visite guidée des Carmes",
+      "img_width": 860,
+      "img_height": 645
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8f16ddc6-4944-49e2-951a-c05d1128b4d6",
+      "title": "Journées du Patrimoine au Noviciat de la Daurade",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:bd765dcf-d68e-4726-8c9f-7e52a14c0f91",
+      "title": "Petites Histoires de Quartier : balade guidée rue Ozenne",
+      "img_width": 860,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:abdbe790-cbe1-4e81-be68-61933ca154ff",
+      "title": "Journées du Patrimoine au Château de Thégra à Balma",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ed3ac6cc-5b42-4b9c-a7f5-14bd20e06749",
+      "title": "Journées du Patrimoine : visite guidée du cimetière de Terre-Cabade",
+      "img_width": 860,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:1037cd8d-25ae-4a9b-abbf-9854130ddd52",
+      "title": "Journées du Patrimoine : visite guidée des Espaces EDF Bazacle",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:f248cf2a-e982-46f9-9a6f-d48048a1b2a6",
+      "title": "Balade architecturale à deux voix, parcours Carmes centre-ville",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}

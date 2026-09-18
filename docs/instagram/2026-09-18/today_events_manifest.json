@@ -1,0 +1,154 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:297d3508-3a84-4b10-a247-67951313ae3d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Journées du Patrimoine : visites et balades architecturales à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JOURNEES-DU-PATRIMOINE-BOURSE-DU-TRAVAIL.jpg",
+    "file": "cluster_297d3508-3a84-4b10-a247-67951313ae3d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:35976157-c727-4a28-8096-df70c36b9aa7",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "Brass dans la Garonne : fanfares gratuites au Jardin des Plantes",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/tb.jpg?h=2cfa7202&itok=B9FP6Lsi",
+    "file": "cluster_35976157-c727-4a28-8096-df70c36b9aa7_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:09982710-772b-444f-b0e4-ae912eb28d57",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Récital d'Elisabeth Pion au Cloître des Jacobins : cinq compositrices à l'honneur",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ELISABETH-PION-PIANO-JACOBINS.jpg",
+    "file": "cluster_09982710-772b-444f-b0e4-ae912eb28d57_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a00086ae-4a0c-4cf0-8292-9389a71a3d4a",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Lecture théâtrale des entretiens Duras-Mitterrand au Castelet",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/entretient-duras--CAST.png",
+    "file": "cluster_a00086ae-4a0c-4cf0-8292-9389a71a3d4a_event_story.jpg",
+    "img_width": 813,
+    "img_height": 652
+  },
+  {
+    "cluster_id": "cluster:32e6b79a-81ab-49fd-a835-bcc39a0dda8c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "MELBA et TELMA en concert au Bijou le 18 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MELBA-TELMA.jpg",
+    "file": "cluster_32e6b79a-81ab-49fd-a835-bcc39a0dda8c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5f1bdd03-d8be-4ecd-af6b-c262b78df201",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Journées du Patrimoine à la Cave Poésie : guinguette, lectures et concerts",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BAZAR-LITTERAIRE-JEP-CAVE-PO.jpg",
+    "file": "cluster_5f1bdd03-d8be-4ecd-af6b-c262b78df201_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:72ecb288-1c92-414c-82a0-f978a8803376",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Boomer ! » : spectacle nostalgique des années 80-90 au Studio 55",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BOOMER.jpg",
+    "file": "cluster_72ecb288-1c92-414c-82a0-f978a8803376_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b47292f2-caf8-4156-ab1f-38fb8d595f14",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Mòssa + Sollùna au Festival Occitania, au Taquin",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-MOSSA-SOLLUNA.jpg",
+    "file": "cluster_b47292f2-caf8-4156-ab1f-38fb8d595f14_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:76c26b5f-7c84-499d-9e6f-aaf76e3cf5fc",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "The Young Gods en concert rock au Bikini",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_76c26b5f-7c84-499d-9e6f-aaf76e3cf5fc_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:9b3b4393-69f7-45d4-bb0e-aaf48f045894",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Burlesk et Festival Burlesque à la Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/360/89e64469-b2d6-421b-9237-94493e677360_105971_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_9b3b4393-69f7-45d4-bb0e-aaf48f045894_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:e61feec5-5951-4c66-95bf-bbae00aafca2",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Kody en spectacle au Grand Théâtre 3T en septembre",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_e61feec5-5951-4c66-95bf-bbae00aafca2_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:2fccc71f-246d-4f3a-8d4a-c919eb6ff43b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Concert ROMANTIC à la Chapelle Saint-Michel : folk rock en live",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RAMONTIC.jpg",
+    "file": "cluster_2fccc71f-246d-4f3a-8d4a-c919eb6ff43b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:964565ee-a5d7-4edb-8026-ad3e99991ca9",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Festival MéditerranéO' : 13 concerts gratuits à Portet-sur-Garonne",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6a99877ff864d5ecde0863f0/hd/image.png?v=2",
+    "file": "cluster_964565ee-a5d7-4edb-8026-ad3e99991ca9_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  }
+]
