@@ -373,19 +373,24 @@ def clusters_needing_synthesis(conn: sqlite3.Connection) -> list[str]:
 
 
 def reset_wrong_year_event_dates(conn: sqlite3.Connection, expected_year: int | None = None) -> int:
-    """Clear event_start/end for clusters whose year doesn't match expected_year.
+    """Clear event_start/end for clusters whose year has already passed.
 
     Synthesis sometimes infers the wrong year when the source text says 'samedi 23 mai'
-    without an explicit year.  Resetting lets the backfill re-extract with the correct
-    year assumption.  Defaults to the current calendar year.
+    without an explicit year -- the failure mode always lands on a year that's already
+    passed (Claude defaults to a year it "knows about" rather than projecting forward),
+    never a year too far in the future.  Resetting lets the backfill re-extract with the
+    correct year assumption.  Legitimately far-out events (e.g. festivals/residencies
+    already announced a year or more ahead, which Ticketmaster surfaces well in advance)
+    are not wrong and must be left alone, so there is deliberately no upper bound here --
+    only reject years strictly before the current one.
     """
     if expected_year is None:
         expected_year = datetime.now(timezone.utc).year
     cur = conn.execute(
         "UPDATE clusters SET event_start = NULL, event_end = NULL "
         "WHERE category = 'event' AND event_start IS NOT NULL "
-        "AND event_start NOT LIKE ?",
-        (f"{expected_year}%",),
+        "AND event_start < ?",
+        (f"{expected_year}-01-01",),
     )
     conn.commit()
     return cur.rowcount
