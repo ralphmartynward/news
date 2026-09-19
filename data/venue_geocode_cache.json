@@ -1,5 +1,9 @@
 {
   "144 dance studio": null,
+  "18 rue kepler": [
+    43.6134878,
+    1.4630934
+  ],
   "3t d'à côté": [
     43.621661,
     1.468254
@@ -29,6 +33,10 @@
     43.5995343,
     1.4517784
   ],
+  "allées paul-sabatier": [
+    43.596582,
+    1.454716
+  ],
   "altigone": [
     43.5536406,
     1.5289
@@ -50,6 +58,7 @@
     43.5903547,
     1.4604583
   ],
+  "arrêt de tram t1 odyssud": null,
   "artilect toulouse": [
     43.6017432,
     1.4428278
@@ -232,6 +241,10 @@
   "chapelle saint-michel": [
     43.5817015,
     1.4439892
+  ],
+  "chapiteau de l'agit, empalot": [
+    43.571876,
+    1.437704
   ],
   "château d'eau": [
     43.5985363,
@@ -746,6 +759,10 @@
   ],
   "mac de la résidence chapou": null,
   "magma musée des arts graphiques et des musiques actuelles": null,
+  "mairie de colomiers": [
+    43.6108697,
+    1.3347577
+  ],
   "maison calas": [
     43.5993565,
     1.4441026
@@ -984,6 +1001,10 @@
     1.4501982
   ],
   "place de la cathédrale": null,
+  "place de la cathédrale saint-étienne": [
+    43.599782,
+    1.448962
+  ],
   "place de la croix de pierre": [
     43.5850425,
     1.4278282
@@ -1110,6 +1131,10 @@
     43.5460533,
     1.4749101
   ],
+  "rue du taur": [
+    43.60592,
+    1.4425913
+  ],
   "rue ozenne": [
     43.5971152,
     1.4463328
@@ -1151,6 +1176,7 @@
     43.566467,
     1.485295
   ],
+  "statue riquet, canal du midi": null,
   "studio 55": [
     43.5771882,
     1.4755286
