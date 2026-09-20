@@ -13671,6 +13671,26 @@ URL:https://www.toulouse-tourisme.com/agenda/danton-et-robespierre-les-raci
  se-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:10889ba0-2064-4a6b-aa54-5c91f9dab728@news.lavillerose.com
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Zénith de Toulouse : bilan record et nouveautés pour 2026-2027
+DESCRIPTION:Le Zénith Toulouse Métropole a tenu une conférence de presse
+  pour présenter son bilan exceptionnel et la saison à venir. Pour la pre
+ mière fois de son histoire\, la salle a accueilli plus de cent manifestat
+ ions et dépassé le demi-million de spectateurs en 2025\, avec un chiffre
+  d'affaires de 6\,5 millions d'euros\, en hausse de 31 % par rapport à 20
+ 24. La saison 2026-2027 débutera le 23 septembre avec le spectacle musica
+ l La Dame de Pierre. Parmi les têtes d'affiche annoncées figurent Placeb
+ o (5 octo\n\nSource\: https://actu.fr/occitanie/toulouse_31555/zenith-de-t
+ oulouse-apres-une-annee-record-voici-les-nouveautes-qui-attendent-les-spec
+ tateurs_64790605.html
+LOCATION:salle a accueilli plus de cent manifestations\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/zenith-de-toulouse-apres-une-a
+ nnee-record-voici-les-nouveautes-qui-attendent-les-spectateurs_64790605.ht
+ ml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c28807c3-1dd6-4e0a-9cc6-47d1c2d2d590@news.lavillerose.com
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
