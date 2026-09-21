@@ -1,0 +1,44 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:bed6eb16-7486-4f1e-aaef-e70e53669320",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Concert « Les Contes à rebours » à la Chapelle des Carmélites",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/chapelle-des-carmelites---mairie-de-toulouse--c-p.nin_.jpg?h=7c3e531b&itok=0lazyPit",
+    "file": "cluster_bed6eb16-7486-4f1e-aaef-e70e53669320_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:6349d251-7f83-4e78-ae5a-dd7abee27f33",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Snake expose « À Cœur ouvert » au 2 rue Malbec",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/snake.jpg?h=c72c9c3e&itok=464xKmj1",
+    "file": "cluster_6349d251-7f83-4e78-ae5a-dd7abee27f33_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:f19cebaa-f91a-4e6e-b280-ee3b578e805f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "LAYUP : exposition d'art urbain gratuite dans un espace de 5 000 m²",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LAYUP-AO.jpg",
+    "file": "cluster_f19cebaa-f91a-4e6e-b280-ee3b578e805f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

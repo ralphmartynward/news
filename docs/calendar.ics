@@ -9,6 +9,25 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:cluster:008022c6-0358-4e4c-9e78-9469b589eff0@news.lavillerose.com
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:Supertri Toulouse
+DESCRIPTION:Depuis un arrêté municipal de 1976\, la baignade dans la Garo
+ nne est officiellement interdite à Toulouse. Pourtant\, certains événem
+ ents sportifs exceptionnels\, comme le Supertri triathlon ou le WateRugby\
+ , obtiennent une tolérance temporaire pour nager dans le fleuve. Cette d
+ érogation est strictement encadrée : la Fédération française de triat
+ hlon impose des analyses de qualité de l'eau dans le mois précédant la 
+ compétition\, ainsi que des prélèvements supplémentaires durant la sem
+ aine de l'événeme\n\nSource\: https://actu.fr/occitanie/toulouse_31555/p
+ ourquoi-les-athletes-du-supertri-triathlon-de-toulouse-ont-le-droit-de-nag
+ er-dans-la-garonne_64801323.html
+URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-les-athletes-du-super
+ tri-triathlon-de-toulouse-ont-le-droit-de-nager-dans-la-garonne_64801323.h
+ tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -6726,24 +6745,6 @@ DESCRIPTION:Un atelier de marbling (papier marbré) est proposé à la Chap
 LOCATION:rue de la Garonne de 1875\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/marbling-peindre-sur-leau/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:bed6eb16-7486-4f1e-aaef-e70e53669320@news.lavillerose.com
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260928
-SUMMARY:Saison Musicale Carmélites
-DESCRIPTION:La Chapelle des Carmélites accueille une saison musicale estiv
- ale allant du 18 juillet au 27 septembre 2026\, avec une programmation var
- iée mêlant concerts intimistes et grandes œuvres chorales. Au programme
-  : groove pop\, musiques orientales\, récitals de piano romantique\, bal 
- traditionnel\, soirée immersive et cuivres\, pour un total d'une dizaine 
- de rendez-vous. La saison affiche une volonté de faire dialoguer patrimoi
- ne architectural et création artistique contemporaine\, s'adressant aussi
-  bien au\n\nSource\: https://www.toulouse-tourisme.com/agenda/saison-music
- ale-a-la-chapelle-des-carmelites/
-URL:https://www.toulouse-tourisme.com/agenda/saison-musicale-a-la-chapelle-
- des-carmelites/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
- agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3e54e4c7-5342-4176-b477-c104e8c31388@news.lavillerose.com
@@ -13498,6 +13499,58 @@ URL:https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-la-defense-ch
  nda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:bed6eb16-7486-4f1e-aaef-e70e53669320@news.lavillerose.com
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:Les Contes à rebours
+DESCRIPTION:Les Clefs de Saint-Pierre programment ce soir à 19h30 un conce
+ rt intitulé « Les Contes à rebours » à la chapelle des Carmélites\, 
+ rue du Périgord. Le duo est formé de Sandrine Tilly et Jean-Sébastien B
+ orsarello\, tous deux solistes du Capitole de Toulouse\, qui jouent ensemb
+ le plusieurs instruments. Au programme figurent des œuvres classiques et 
+ modernes\, dont la création de la version complète de « Contes à rebou
+ rs »\, pièce composée spécialement pour eux par le Toulousain Patrick 
+ Burgan en miroir \n\nSource\: https://www.lessentiel.fr/newsletter/toulous
+ e/2026-09-21#50457
+LOCATION:rue du Périgord\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-21#50457?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8e155c9e-9174-43ad-826e-61faae54713c@news.lavillerose.com
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:25 ans après l'explosion d'AZF à Toulouse
+DESCRIPTION:Le 21 septembre 2001\, à 10h17\, l'usine AZF d'Azote Fertilisa
+ nts explose à Toulouse\, provoquant la mort de 31 personnes — dont 21 e
+ mployés — et faisant plus de 10 000 blessés. L'explosion d'un stock de
+  300 à 400 tonnes d'ammonitrate dans le hangar 221 génère une onde sism
+ ique de 3\,4 sur l'échelle de Richter\, perceptible jusqu'à 80 kilomètr
+ es. Survenant dix jours après les attentats du 11 septembre\, la piste te
+ rroriste est d'abord évoquée\, avant que la thèse de l'accident industr
+ iel ne soit retenu\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-09-21#50455
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-21#50455?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9d068821-6358-419e-9c3c-94e47b784703@news.lavillerose.com
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261011
+SUMMARY:Semaine européenne de la mobilité
+DESCRIPTION:La Semaine européenne de la mobilité bat son plein dans la m
+ étropole toulousaine\, avec des événements à Balma\, Saint-Orens-de-Ga
+ meville et Plaisance-du-Touch. Le thème 2026\, identique à 2025\, est «
+  La mobilité pour tous ! »\, avec un accent particulier sur l'équité i
+ ntergénérationnelle. À Balma\, un challenge virtuel gratuit permet de t
+ ransformer chaque kilomètre parcouru en arbres plantés dans la commune. 
+ À Plaisance-du-Touch\, la Maison des Mobilités propose un atelier d'init
+ iation à la mécanique\n\nSource\: https://www.lessentiel.fr/newsletter/t
+ oulouse/2026-09-21#50458
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-21#50458?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5c6bbc09-a868-42da-b98e-8aed1cdc9ab5@news.lavillerose.com
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
@@ -13925,18 +13978,19 @@ BEGIN:VEVENT
 UID:cluster:b053dcb7-6594-47a2-a42e-5e889ee39d37@news.lavillerose.com
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
-SUMMARY:Salon des Gourmets de Lettres
-DESCRIPTION:Le Salon du Livre des Gourmets de Lettres se tient du 25 au 27 
- septembre 2026 à l'Hôtel d'Assézat\, à Toulouse. Cette édition accuei
- lle Guillaume Sire comme invité d'honneur. Le programme débute le vendre
- di soir par une soirée poésie animée par l'Académie des Jeux Floraux\,
-  suivie d'un verre de l'amitié. Le samedi\, les portes ouvrent à 10h ave
- c la remise des prix des concours littéraires (roman\, poésie\, nouvelle
- s\, biographie\, coup de cœur) à 11h\, et des conférences l'après-midi
- \, notamment sur la l\n\nSource\: https://www.toulouse-tourisme.com/agenda
- /salon-du-livre-des-gourmets-de-lettres/
-URL:https://www.toulouse-tourisme.com/agenda/salon-du-livre-des-gourmets-de
- -lettres/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Gourmets de Lettres
+DESCRIPTION:La 20e édition du salon du livre Gourmets de Lettres se tient 
+ du vendredi 25 au dimanche 27 septembre à l'Hôtel d'Assézat\, à Toulou
+ se. L'événement rassemble plus de 40 auteurs\, éditeurs et libraires po
+ ur des rencontres et séances de dédicaces. Des conférences et lectures 
+ publiques sont également au programme. Les amateurs de littérature et le
+  grand public sont invités à profiter de ce rendez-vous annuel dans l'un
+  des plus beaux hôtels particuliers de la ville.\n\nSource\: https://news
+ letter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab
+ 68FAzUy7xeRx2XylkUA0_ueglPXEI3ea6Y360_PJV~Fs1o2kit9wj-s
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
+ _b3wuwxkaHLJqab68FAzUy7xeRx2XylkUA0_ueglPXEI3ea6Y360_PJV~Fs1o2kit9wj-s?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9b297a45-0581-4db7-95b5-f2f1f544b4ea@news.lavillerose.com
@@ -14174,16 +14228,16 @@ UID:cluster:6587795a-c72d-4730-8b96-30e7b1b5950c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:Arts en Balade
-DESCRIPTION:Les 26 et 27 septembre 2026\, les Arts en Balade fêtent leur 1
- 0e édition avec 206 artistes qui ouvriront gratuitement les portes de 105
-  ateliers à Toulouse et dans 15 communes voisines\, de 10 h à 19 h. Le t
- hème de cette édition anniversaire est « L'Atelier »\, et une programm
- ation d'avant-premières est prévue dès le début du mois pour marquer l
- 'occasion. Les visiteurs pourront explorer une grande variété de discipl
- ines — peinture\, sculpture\, photographie\, céramique\, gravure\, vid
- éo\, collage\, graff \n\nSource\: https://www.toulouscope.fr/2026/09/18/a
- -toulouse-plus-de-200-artistes-ouvrent-les-portes-de-leurs-ateliers-pour-l
- es-arts-en-balade-13534342.php
+DESCRIPTION:Pour sa 10e édition\, les Arts en Balade investissent Toulouse
+  et 15 communes voisines les 26 et 27 septembre 2026\, avec 206 artistes o
+ uvrant gratuitement les portes de 105 ateliers de 10 h à 19 h. Peinture\,
+  sculpture\, photographie\, céramique\, gravure\, graff et art numérique
+  sont au programme\, permettant aux visiteurs de découvrir œuvres\, mat
+ ériaux et coulisses de la création locale. Une carte interactive aide à
+  préparer son parcours par quartier et discipline. En amont du week-end p
+ rincipal\, des\n\nSource\: https://www.toulouscope.fr/2026/09/18/a-toulous
+ e-plus-de-200-artistes-ouvrent-les-portes-de-leurs-ateliers-pour-les-arts-
+ en-balade-13534342.php
 URL:https://www.toulouscope.fr/2026/09/18/a-toulouse-plus-de-200-artistes-o
  uvrent-les-portes-de-leurs-ateliers-pour-les-arts-en-balade-13534342.php?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -14211,18 +14265,20 @@ BEGIN:VEVENT
 UID:cluster:fa5ee1bf-4bcd-4df8-ac74-880f2e994231@news.lavillerose.com
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:La Grande Course de Trottinettes
-DESCRIPTION:La Grande Course de Trottinettes se tiendra le 26 septembre 202
- 6 devant le Muséum de Toulouse. Devenue la plus grande course de trottine
- ttes de France au fil des années\, elle est entièrement gratuite et ouve
- rte aux enfants de 6 à 10 ans. L'objectif est de récolter des fonds pour
-  lutter contre les cancers pédiatriques\, les enfants valides trottinant 
- symboliquement pour leurs pairs malades. Un Trotti'village proposera des a
- nimations familiales sur place (parcours pour tout-petits\, maquillage\, L
- ego\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-grande-course-
- de-trottinettes/
-URL:https://www.toulouse-tourisme.com/agenda/la-grande-course-de-trottinett
- es/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Grande Course de Trottinettes
+DESCRIPTION:La 6e édition de la Grande Course de Trottinettes se tiendra l
+ e samedi 26 septembre\, de 9h30 à 13h30\, devant le Muséum sur les allé
+ es Jules Guesde. L'événement est gratuit et ouvert aux enfants de 6 à 1
+ 0 ans. Au-delà de l'aspect ludique\, les jeunes participants collectent d
+ es fonds pour lutter contre les cancers pédiatriques. Une belle occasion 
+ de mêler sport\, solidarité et plein air pour les familles toulousaines.
+ \n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM
+ 5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeRx2XylkUA0_ueglPXEI3ea6Y360_PJV~Fs1o2ki
+ t9wj-k
+LOCATION:allées Jules Guesde\, Toulouse
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
+ _b3wuwxkaHLJqab68FAzUy7xeRx2XylkUA0_ueglPXEI3ea6Y360_PJV~Fs1o2kit9wj-k?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1de6081a-3c73-4b12-85f9-1504169fb922@news.lavillerose.com
@@ -14487,6 +14543,27 @@ DESCRIPTION:Le Club athlétique de Balma organise la première édition du
  louse/2026-09-16#49927
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-16#49927?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:16855de5-f8d8-4856-92c7-7069c6b93084@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:In Bikini Dura Electro XXL
+DESCRIPTION:Pour sa deuxième édition\, In Bikini Dura Electro XXL revient
+  le samedi 26 septembre 2026 à Ramonville-Saint-Agne\, avec 12 heures de 
+ musique électronique locale en continu. L'open-air se tient de 18h à min
+ uit sur la Place du Canal\, entièrement gratuit et sans réservation. Dou
+ ze collectifs toulousains — dont Champ'caine\, Forward\, Moontrip\, La G
+ ayguette ou encore Karnage Records — se succèdent sur scène pour repr
+ ésenter la diversité de la scène électronique locale. Pour les plus co
+ urageux\, un after\n\nSource\: https://www.toulouscope.fr/2026/09/20/12-he
+ ures-de-musique-electronique-en-open-air-et-en-after-un-grand-rendez-vous-
+ gratuit-revient-au-bikini-13544485.php
+LOCATION:Place du Canal\, Toulouse
+URL:https://www.toulouscope.fr/2026/09/20/12-heures-de-musique-electronique
+ -en-open-air-et-en-after-un-grand-rendez-vous-gratuit-revient-au-bikini-13
+ 544485.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e@news.lavillerose.com
