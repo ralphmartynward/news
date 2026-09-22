@@ -1,0 +1,82 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:aa6a9234-f0b9-4b6e-8e27-e50d47659ac8",
+  "title": "Entrée gratuite dans 8 musées et monuments toulousains",
+  "ig_caption": "8 musées toulousains en accès libre ce dimanche\nCollections permanentes gratuites, expos tempo payantes\nJacobins, Augustins, Abattoirs… à ne pas rater !",
+  "ig_caption_long": "Ce dimanche 5 avril, c'est le bon plan culture à Toulouse : huit musées et monuments de la ville ouvrent leurs collections permanentes gratuitement ! Du Cloître des Jacobins au Muséum d'Histoire Naturelle, en passant par le musée des Augustins et le Quai des Savoirs, il y a de quoi se perdre dans le patrimoine toulousain toute la journée. Attention, les expositions temporaires restent payantes, et les musées Georges-Labit et Saint-Raymond sont toujours fermés pour travaux. Une belle occasion pour les familles, les curieux et les habitués de (re)découvrir les trésors de la Ville rose sans dépenser un centime.",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"museetoulouse\", \"gratuit\", \"patrimoine\", \"culturelibre\", \"jacobins\", \"museedesaugustins\", \"abattoirs\", \"muséumtoulouse\", \"quaidessavoirs\", \"museepauldupuy\", \"chateaudeau\", \"chapellesaintjoseph\", \"sortiretoulouse\", \"familletoulouse\", \"weekendtoulouse\", \"museegratuit\", \"toulousepatrimoine\", \"visitetoulouse\", \"art\", \"histoire\", \"architecture\", \"villerosetoulouse\"]",
+  "ig_mention": "toulouse_tourisme",
+  "venue": "Divers lieux, Toulouse",
+  "slides": [
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_cover.jpg",
+      "type": "cover",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_01.jpg",
+      "type": "item",
+      "title": "Cloître des Jacobins",
+      "location": "Cloître des Jacobins, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_02.jpg",
+      "type": "item",
+      "title": "Musée des Abattoirs",
+      "location": "Musée des Abattoirs, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_03.jpg",
+      "type": "item",
+      "title": "Musée des Augustins",
+      "location": "Musée des Augustins, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_04.jpg",
+      "type": "item",
+      "title": "Muséum d'Histoire Naturelle",
+      "location": "Muséum d'Histoire Naturelle, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_05.jpg",
+      "type": "item",
+      "title": "Quai des Savoirs",
+      "location": "Quai des Savoirs, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_06.jpg",
+      "type": "item",
+      "title": "Musée Paul Dupuy",
+      "location": "Musée Paul Dupuy, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_07.jpg",
+      "type": "item",
+      "title": "Château d'eau",
+      "location": "Château d'eau, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_08.jpg",
+      "type": "item",
+      "title": "Chapelle Saint-Joseph de la Grave",
+      "location": "Chapelle Saint-Joseph de la Grave, Toulouse",
+      "img_width": 860,
+      "img_height": 650
+    }
+  ]
+}

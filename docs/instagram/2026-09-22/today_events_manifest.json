@@ -1,0 +1,110 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:5c6bbc09-a868-42da-b98e-8aed1cdc9ab5",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Pianip-Pianop : danse hip-hop et piano à l'Auditorium Saint-Pierre des Cuisines",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PIANIP-PIANOP-PIANO-JACOBINS.jpg",
+    "file": "cluster_5c6bbc09-a868-42da-b98e-8aed1cdc9ab5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0e85fd9f-32bb-47e9-8064-eebdf1b9a6f6",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Alex Vizorek en stand-up au Théâtre Musical de Pibrac",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ALEX-VIZOREK.jpg",
+    "file": "cluster_0e85fd9f-32bb-47e9-8064-eebdf1b9a6f6_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3bb0251c-5e95-4687-a6d1-6c00e6baa3cb",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Forum des associations « Septembre en or » au CHU de Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/adobe.jpg?itok=opW-jQen",
+    "file": "cluster_3bb0251c-5e95-4687-a6d1-6c00e6baa3cb_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:68e9afb9-4cab-4453-82ac-0ac6064a6958",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le salon Cfia sur l'agroalimentaire revient au MEETT Aussonne",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/cfia---gl-events.jpg?itok=Gp7vm_xd",
+    "file": "cluster_68e9afb9-4cab-4453-82ac-0ac6064a6958_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:7792afb4-d41d-4845-a7fe-5434ab5f2b75",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La fête foraine Saint-Michel s'installe au MEETT avec 150 attractions",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/..jpg?itok=72ZndOgb",
+    "file": "cluster_7792afb4-d41d-4845-a7fe-5434ab5f2b75_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:7f02917b-4894-4034-a42d-d16bfe273843",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Inoubliable Édith Piaf : hommage musical à L'Escale",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/INOUBLIABLE-EDITH-PIAF.jpg",
+    "file": "cluster_7f02917b-4894-4034-a42d-d16bfe273843_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8312366f-06c4-40eb-a6cf-dee8b8f26d89",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Colloque sur les Annales des Capitouls à la salle du Sénéchal",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/programme_chroniques_toulouse-1.jpg?h=4acd2aaa&itok=Q4Jqei5-",
+    "file": "cluster_8312366f-06c4-40eb-a6cf-dee8b8f26d89_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:ba28e6bf-d5b9-48b5-b702-6a658a798e7e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Place de la Danse dévoile sa saison 2026-2027 au Théâtre des Mazades",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/4-balatata_magda-kachouche--c-sandykorzekwa.jpg?itok=-L2tEUAU",
+    "file": "cluster_ba28e6bf-d5b9-48b5-b702-6a658a798e7e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:bc9184bf-d0f2-44eb-b820-4beea729c898",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Rentrée cinéphile au cinéma L'ABC : avant-première et programme automnal",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/abc--premiere_l_innocent_louis_garrel_2022--1-.jpg?itok=9kWi6xKS",
+    "file": "cluster_bc9184bf-d0f2-44eb-b820-4beea729c898_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  }
+]
