@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
@@ -132,6 +133,32 @@ def _build_excerpt(event: dict[str, Any], start: str | None, end: str | None) ->
     return "\n".join(lines)
 
 
+def _signature(event: dict[str, Any]) -> str:
+    """Content-based change signature, independent of sitemap `lastmod`.
+    toulouse-tourisme.com bumps `lastmod` on hundreds of already-published
+    event pages every night with no actual content change (confirmed: ~35-40%
+    of tracked URLs get a fresh lastmod daily while the site's true daily
+    delta is a handful of events) -- without this, every one of those pages
+    gets re-emitted as a "new" item and re-clustered/re-synthesised/re-emailed
+    daily, relying entirely on event_dedup's fuzzy cross-day merge as a
+    safety net instead of not re-triggering the pipeline in the first place."""
+    digest = hashlib.sha1((event.get("extracted_text") or "").encode("utf-8")).hexdigest()[:12]
+    return f"{event.get('_event_name')}|{event.get('_event_start')}|{event.get('_event_end')}|{event.get('image_url')}|{digest}"
+
+
+def _state_lastmod(entry: Any) -> str | None:
+    """State entries were originally bare lastmod strings; now dicts with a
+    content signature too. Accept both so existing committed state doesn't
+    need a migration step."""
+    if isinstance(entry, dict):
+        return entry.get("lastmod")
+    return entry
+
+
+def _state_sig(entry: Any) -> str | None:
+    return entry.get("sig") if isinstance(entry, dict) else None
+
+
 def _parse_event(url: str, html: str) -> dict[str, Any] | None:
     event = _find_event_jsonld(html)
     if not event:
@@ -172,7 +199,7 @@ def fetch() -> list[dict[str, Any]]:
         return []
 
     state = _load_state()
-    changed = [url for url, lastmod in current.items() if state.get(url) != lastmod]
+    changed = [url for url, lastmod in current.items() if _state_lastmod(state.get(url)) != lastmod]
     truncated = len(changed) > MAX_CHANGED_PER_RUN
     if truncated:
         print(
@@ -183,26 +210,29 @@ def fetch() -> list[dict[str, Any]]:
         changed = changed[:MAX_CHANGED_PER_RUN]
 
     items: list[dict[str, Any]] = []
-    fetched_ok: list[str] = []
+    unchanged_content = 0
     for i, url in enumerate(changed):
         try:
             html = _fetch(url)
             parsed = _parse_event(url, html)
-            if parsed:
+            sig = _signature(parsed) if parsed else None
+            if parsed and sig != _state_sig(state.get(url)):
                 items.append(parsed)
-            fetched_ok.append(url)
+            elif parsed:
+                unchanged_content += 1
+            state[url] = {"lastmod": current[url], "sig": sig}
         except Exception as e:
             print(f"tourinsoft: failed on {url} — {type(e).__name__}: {e}", file=sys.stderr)
         if i < len(changed) - 1:
             time.sleep(CRAWL_DELAY_S)
 
-    # Save progress for whatever was actually fetched, truncated or not —
-    # a truncated run is expected (multi-day backfill), not a failure, and
-    # gating the save on "not truncated" meant it would never save while
-    # changed > cap, so the backfill would re-fetch the same first batch
-    # forever instead of advancing.
-    for url in fetched_ok:
-        state[url] = current[url]
+    if unchanged_content:
+        print(
+            f"tourinsoft: {unchanged_content} page(s) had a lastmod bump but unchanged "
+            "content — skipped re-emitting as new items",
+            file=sys.stderr,
+        )
+
     try:
         _save_state(state)
     except Exception as e:
