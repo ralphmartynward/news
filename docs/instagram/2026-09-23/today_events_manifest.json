@@ -1,0 +1,187 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:68e9afb9-4cab-4453-82ac-0ac6064a6958",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le salon Cfia sur l'agroalimentaire revient au MEETT Aussonne",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/cfia---gl-events.jpg?itok=Gp7vm_xd",
+    "file": "cluster_68e9afb9-4cab-4453-82ac-0ac6064a6958_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:7f02917b-4894-4034-a42d-d16bfe273843",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Inoubliable Édith Piaf : hommage musical à L'Escale",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/INOUBLIABLE-EDITH-PIAF.jpg",
+    "file": "cluster_7f02917b-4894-4034-a42d-d16bfe273843_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:73c23a6d-9886-4e61-bfc7-7aeced708cb0",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Figuré.e à la Maison Olpé : design graphique et illustration",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-FIGUREE.jpg",
+    "file": "cluster_73c23a6d-9886-4e61-bfc7-7aeced708cb0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a7a05f33-c2e1-4e91-9d60-fb16b888b2b3",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Ô Mon Païs » : comédie sur le choc des cultures au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/O-MON-PAIS.jpg",
+    "file": "cluster_a7a05f33-c2e1-4e91-9d60-fb16b888b2b3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d7136037-edf4-4927-ac4d-ad37033e2687",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Qui som ? » : un triptyque céramique et onirique au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Design-sans-titre---2024-04-23T154231.159---copie.jpg",
+    "file": "cluster_d7136037-edf4-4927-ac4d-ad37033e2687_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:56848d74-bc34-4707-81ec-5d34e34394ba",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Une fresque théâtrale sur l'industrie et le travail au Théâtre du Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-USINE-2.jpg",
+    "file": "cluster_56848d74-bc34-4707-81ec-5d34e34394ba_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ee114bf9-748c-4784-a36b-aa71bd8f5310",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Acides en soirée impro hilarante au Bijou",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-ACIDES.jpg",
+    "file": "cluster_ee114bf9-748c-4784-a36b-aa71bd8f5310_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f417767e-1fd6-4b3a-90ba-80866686c24e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Aéro Malgré Lui : comédie au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AERO-MALGRE-LUI-3T-TOULOUSE.jpg",
+    "file": "cluster_f417767e-1fd6-4b3a-90ba-80866686c24e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2924a41b-e60f-4035-82c6-bfd11901385e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Valentin Pommeray Trio en concert au Taquin",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VALENTIN-POMMERAY-TRIO.jpg",
+    "file": "cluster_2924a41b-e60f-4035-82c6-bfd11901385e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b0200da4-9c33-43e4-afd6-d00067a5baf7",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "La comédie musicale « La Dame de Pierre » au Zénith de Toulouse",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6aaa4a737d685e558f0d7ada/hd/image.jpg?v=1",
+    "file": "cluster_b0200da4-9c33-43e4-afd6-d00067a5baf7_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:d41b56b3-18c6-4de2-950f-a27ff3dec55c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Danton et Robespierre au Centre Culturel des Minimes",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DANTON-ROBESPIERRE.jpg",
+    "file": "cluster_d41b56b3-18c6-4de2-950f-a27ff3dec55c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:35fbda30-36f5-4f9e-8d4a-aa3e128f4d3f",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Aime-moi si tu peux ! » à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AIME-MOI-SI-TU-PEUX.jpg",
+    "file": "cluster_35fbda30-36f5-4f9e-8d4a-aa3e128f4d3f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b9537041-e69a-4574-b24f-65749884e797",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Chez Tonton lance un run club depuis la place Saint-Pierre",
+    "image_url": "https://static.actu.fr/uploads/2026/09/whatsapp-image-2026-09-22-at-122353.jpg",
+    "file": "cluster_b9537041-e69a-4574-b24f-65749884e797_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 853
+  },
+  {
+    "cluster_id": "cluster:cfe7e19b-3a4e-482c-991d-2680edac96c4",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Documentaire \"Fini de rire ?\" et débat à l'Utopia Tournefeuille",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/fini-de-rire.jpg?itok=NWvJEFzx",
+    "file": "cluster_cfe7e19b-3a4e-482c-991d-2680edac96c4_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:ff4e304b-8c3a-4e6a-be78-1b6ad3b9c9a0",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "L'Histoire incroyable de l'Usine TU au Théâtre du Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-USINE-2.jpg",
+    "file": "cluster_ff4e304b-8c3a-4e6a-be78-1b6ad3b9c9a0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6658d48c-202d-44d2-9985-a257ff990fc4",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Menu végétal 5 temps aux Halles de la Transition pour le Festival Mieux Manger Végétal",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ab24906abab51830a0d0417/hd/image.png?v=6",
+    "file": "cluster_6658d48c-202d-44d2-9985-a257ff990fc4_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  }
+]
