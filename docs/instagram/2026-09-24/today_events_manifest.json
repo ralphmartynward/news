@@ -1,0 +1,198 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:68e9afb9-4cab-4453-82ac-0ac6064a6958",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le salon Cfia sur l'agroalimentaire revient au MEETT Aussonne",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/cfia---gl-events.jpg?itok=Gp7vm_xd",
+    "file": "cluster_68e9afb9-4cab-4453-82ac-0ac6064a6958_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:73c23a6d-9886-4e61-bfc7-7aeced708cb0",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Figuré.e à la Maison Olpé : design graphique et illustration",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-FIGUREE.jpg",
+    "file": "cluster_73c23a6d-9886-4e61-bfc7-7aeced708cb0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d7136037-edf4-4927-ac4d-ad37033e2687",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Qui som ? » : un triptyque céramique et onirique au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Design-sans-titre---2024-04-23T154231.159---copie.jpg",
+    "file": "cluster_d7136037-edf4-4927-ac4d-ad37033e2687_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:56848d74-bc34-4707-81ec-5d34e34394ba",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Une fresque théâtrale sur l'industrie et le travail au Théâtre du Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-USINE-2.jpg",
+    "file": "cluster_56848d74-bc34-4707-81ec-5d34e34394ba_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ff4e304b-8c3a-4e6a-be78-1b6ad3b9c9a0",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "L'Histoire incroyable de l'Usine TU au Théâtre du Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-USINE-2.jpg",
+    "file": "cluster_ff4e304b-8c3a-4e6a-be78-1b6ad3b9c9a0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c28807c3-1dd6-4e0a-9cc6-47d1c2d2d590",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Ciné-concert Star Wars au Zénith avec l'Orchestre du Capitole",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/whatsapp-image-2025-09-28-at-11.02.02--7-.jpg?h=df3c6bf4&itok=RXAPhMLL",
+    "file": "cluster_c28807c3-1dd6-4e0a-9cc6-47d1c2d2d590_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:12b27ddf-1308-4c93-8aad-027f413e12e3",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Ignasi Combra au piano dans le Cloître des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/IGNASI-CAMBRA-PIANO-JACOBINS.jpg",
+    "file": "cluster_12b27ddf-1308-4c93-8aad-027f413e12e3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:73f3667c-f868-4170-bc63-d27803c099f6",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Tom Baldetti en stand-up au Hall Comminges de Colomiers",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_73f3667c-f868-4170-bc63-d27803c099f6_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:da8b7e28-8761-44f6-b129-b610549c745c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Star Wars L'Empire Contre-Attaque en concert au Zénith Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/maxresdefault-14.jpg",
+    "file": "cluster_da8b7e28-8761-44f6-b129-b610549c745c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a7136a78-a785-4f61-8b71-ea8d61108888",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "San-Nom en concert au Bijou avec son album « Sans succès »",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SAN-NOM.jpg",
+    "file": "cluster_a7136a78-a785-4f61-8b71-ea8d61108888_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8ba69d16-e865-4fc3-ba5a-e33bd6fd5c35",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Bernard Sellam and the Boyz from the Hood au Taquin",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/bernard-sellam.jpg",
+    "file": "cluster_8ba69d16-e865-4fc3-ba5a-e33bd6fd5c35_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b02ad363-348e-46aa-9d7a-618ba922aeed",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Gabrielle Giraud au naturel sur scène au 3T d'À Côté",
+    "image_url": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_b02ad363-348e-46aa-9d7a-618ba922aeed_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:dc26dc4c-64f5-4a35-8b2c-72a86076cb00",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Deux soirées comiques à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_dc26dc4c-64f5-4a35-8b2c-72a86076cb00_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:1a4a4aa6-7d7d-42e6-ac39-19a0fdbc4025",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Rythme Feu : les Commandos Percu au Parc d'Odyssud",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-COMMANDOS-PERCU.jpg",
+    "file": "cluster_1a4a4aa6-7d7d-42e6-ac39-19a0fdbc4025_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:be62bb4d-5f8b-4487-95b0-4ac5e41d2aa9",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "Commandos Percu : Rythme Feu au parc d'Odyssud à Blagnac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/capture-d-ecran-2026-09-23-093236.png?itok=9Yp4Mrrh",
+    "file": "cluster_be62bb4d-5f8b-4487-95b0-4ac5e41d2aa9_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:05b49ea2-f6bd-479b-8e61-7c658186f692",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Rencontre sur les pesticides et la santé à la médiathèque Cabanis",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/9782095053123_1_75.jpg?itok=jF5GHGLn",
+    "file": "cluster_05b49ea2-f6bd-479b-8e61-7c658186f692_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:6a24dcfc-3d0d-4b41-9e9b-e75e86c7828b",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Double concert festif à l'auditorium Saint-Pierre des Cuisines",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/adelante_affiche_24_septembre2_1_.jpg?h=3214da80&itok=qmreC6OG",
+    "file": "cluster_6a24dcfc-3d0d-4b41-9e9b-e75e86c7828b_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

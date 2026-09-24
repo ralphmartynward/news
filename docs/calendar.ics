@@ -423,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:41e005fd-1412-481c-b42a-867d93eb425f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260418
 SUMMARY:Ivresse – Musée Paul Dupuy
 DESCRIPTION:Le Musée des Arts Précieux Paul Dupuy accueille « Ivresse »
  \, une exposition à découvrir jusqu'au 1er septembre 2026. L'exposition 
@@ -13065,7 +13065,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:461c92a1-46b7-4efb-8be0-de9b47899f3a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20260920
 SUMMARY:La Parole des Bâtons – Bibliothèque d'Étude et du Patrimoine
 DESCRIPTION:La Bibliothèque d'étude et du patrimoine de Toulouse accueill
  e « La parole des bâtons »\, une exposition du poète et plasticien tou
@@ -13578,6 +13578,24 @@ URL:https://actu.fr/occitanie/toulouse_31555/affaire-jubillar-la-defense-ch
  nda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6349d251-7f83-4e78-ae5a-dd7abee27f33@news.lavillerose.com
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261003
+SUMMARY:À Cœur ouvert
+DESCRIPTION:Le street artiste toulousain Snake (Xavier Fischer) présente 
+ « À Cœur ouvert »\, une exposition inédite et gratuite à la Communau
+ té Municipale de Santé\, 2 rue Malbec\, du 21 septembre au 2 octobre 202
+ 6. L'événement est organisé à l'occasion de la Journée mondiale du c
+ œur (29 septembre) et mêle art urbain\, prévention cardiovasculaire et 
+ sensibilisation aux cardiopathies congénitales. Snake\, figure majeure du
+  graffiti toulousain depuis les années 1990\, avait déjà réalisé une 
+ fresque pour l'Hôpital d\n\nSource\: https://www.lessentiel.fr/newsletter
+ /toulouse/2026-09-21#50456
+LOCATION:rue Malbec\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-21#50456?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:8e155c9e-9174-43ad-826e-61faae54713c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
@@ -13897,7 +13915,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:35fbda30-36f5-4f9e-8d4a-aa3e128f4d3f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20260924
 SUMMARY:Aime-moi si tu peux !
 DESCRIPTION:La Comédie de la Roseraie propose « Aime-moi si tu peux ! »\
  , une comédie romantique qui met en scène Hervé Pauchard\, ingénieur d
@@ -13966,25 +13984,6 @@ DESCRIPTION:Le Théâtre du Pont Neuf accueille du 23 au 25 septembre 2026
 URL:https://www.toulouse-tourisme.com/agenda/lhistoire-incroyable-et-presqu
  e-vraie-de-lusine-tu/?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:c28807c3-1dd6-4e0a-9cc6-47d1c2d2d590@news.lavillerose.com
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Star Wars Ciné-Concert
-DESCRIPTION:L'Orchestre du Capitole propose un ciné-concert exceptionnel l
- e jeudi 24 septembre 2026 au Zénith de Toulouse\, avec la projection de S
- tar Wars épisode V : L'Empire contre-attaque accompagnée en direct par l
- 'orchestre. C'est la deuxième édition de ce format après le succès de 
- l'épisode IV\, Un nouvel espoir. Les quelque trente partitions de John Wi
- lliams — dont la célèbre Marche Impériale et le thème principal — 
- seront interprétées live\, reprenant le travail originel du London Symph
- ony Orchestra. \n\nSource\: https://actu.fr/occitanie/toulouse_31555/avis-
- aux-fans-un-episode-de-star-wars-va-etre-diffuse-au-zenith-de-toulouse-pou
- r-un-cine-concert_64605405.html
-URL:https://actu.fr/occitanie/toulouse_31555/avis-aux-fans-un-episode-de-st
- ar-wars-va-etre-diffuse-au-zenith-de-toulouse-pour-un-cine-concert_6460540
- 5.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:f19cebaa-f91a-4e6e-b280-ee3b578e805f@news.lavillerose.com
@@ -14147,20 +14146,18 @@ BEGIN:VEVENT
 UID:cluster:be62bb4d-5f8b-4487-95b0-4ac5e41d2aa9@news.lavillerose.com
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Rythme Feu
-DESCRIPTION:Le jeudi 24 septembre\, le parc d'Odyssud à Blagnac accueiller
- a « Rythme Feu »\, la nouvelle création des Commandos Percu\, compagnie
-  fondée en 1994. Ce spectacle en plein air\, gratuit et sans paroles\, m
- êle percussions\, tambours\, flammes et pyrotechnie pendant environ une h
- eure à partir de 20h30. Les portes ouvrent dès 19h30 avec des food truck
- s pour profiter de la soirée avant le début du show. L'événement\, org
- anisé par la Ville de Blagnac et Odyssud Spectacles\, marque aussi symbol
- iquement le lanc\n\nSource\: https://www.toulouscope.fr/2026/09/11/un-spec
- tacle-de-feu-gratuit-va-faire-vibrer-blagnac-le-24-septembre-13541154.php
-LOCATION:parc d'Odyssud\, Toulouse
-URL:https://www.toulouscope.fr/2026/09/11/un-spectacle-de-feu-gratuit-va-fa
- ire-vibrer-blagnac-le-24-septembre-13541154.php?utm_source=ical&utm_medium
- =calendar&utm_campaign=toulouse-agenda
+SUMMARY:Rythme Feu – Commandos Percu
+DESCRIPTION:Les Commandos Percu présentent leur nouvelle création « Ryth
+ me Feu » au parc d'Odyssud (parc du Ritouret) à Blagnac\, le 24 septembr
+ e à partir de 19h30. Au programme : spectacle en plein air mêlant musiqu
+ e\, percussions et pyrotechnie\, avec des food trucks dès 19h30 et le spe
+ ctacle à 20h30. L'entrée est entièrement gratuite. Cet événement marq
+ ue également le coup d'envoi du compte à rebours vers la réouverture de
+  la Grande salle d'Odyssud\, attendue à l'automne 2027.\n\nSource\: https
+ ://www.clutchmag.fr/evenements#2026-09-17-dimanche-20-septembre-2
+LOCATION:parc d'Odyssud (parc du Ritouret)\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-17-dimanche-20-septembre-2?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ac31f798-a756-4d4f-a2d3-99195bafb120@news.lavillerose.com
@@ -14857,6 +14854,23 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-16#49927?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:fb1a20af-2ff3-420a-9b7d-852fdd16233f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Que faire à Toulouse ce week-end du 26 et 27 septembre ?
+DESCRIPTION:Ce week-end à Toulouse propose une offre culturelle et festive
+  dense\, couverte par deux sources complémentaires. Le Fifigrot fête ses
+  15 ans avec une Marche des pubertés au départ de la Daurade\, tandis qu
+ e le festival Woori célèbre la culture coréenne sur l'île du Ramier av
+ ec K-Pop\, arts martiaux et street food. On retrouve aussi les Arts en Bal
+ ade (10e édition)\, des concerts gratuits aux Jardins du Muséum\, la con
+ vention du disque au Bikini\, le Bazar Littéraire à la Cave Poésie\, et
+  le lancement \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2
+ 026-09-18#50318
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-18#50318?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:16855de5-f8d8-4856-92c7-7069c6b93084@news.lavillerose.com
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
@@ -15073,6 +15087,24 @@ DESCRIPTION:La troisième édition de la Journée de la santé se tient au
  louse/2026-09-23#50731
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-23#50731?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:413ad266-cf3e-48bf-bf68-76ad99738f47@news.lavillerose.com
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Journée des Chiens Guides
+DESCRIPTION:Le dimanche 27 septembre 2026\, de 13h à 18h\, l'Association d
+ es Chiens Guides délocalise pour la première fois son événement annuel
+  en plein centre-ville de Toulouse\, allées Jules Guesde\, en face du Qua
+ i des Savoirs. Au programme : démonstrations de guidage avec des éducate
+ urs et leurs chiens élèves\, rencontres avec des équipes maître-chien 
+ guide\, et stands d'information sur les familles d'accueil et les dons. De
+ s ateliers pratiques sont proposés : initiation à la canne blanche élec
+ tronique\, à la\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-j
+ ournee-des-chiens-guides/
+LOCATION:allées Jules Guesde\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/la-journee-des-chiens-guides/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:35bd7fcd-3a2a-446f-92bc-31b883fd252a@news.lavillerose.com
@@ -15322,6 +15354,28 @@ LOCATION:Jardin Noté par le Hérisson » se tiendra au Parc Anto\, Toulous
  e
 URL:https://www.toulouse-tourisme.com/agenda/mon-jardin-note-par-le-herisso
  n/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d3d6dd7c-d5c3-4e7b-a9c7-eca72680b291@news.lavillerose.com
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Job dating aéronautique au stade Ernest-Wallon : 2 500 postes à p
+ ourvoir
+DESCRIPTION:Un grand salon de l'emploi dédié à l'aéronautique et au spa
+ tial est organisé le mercredi 30 septembre 2026 au stade Ernest-Wallon à
+  Toulouse. Plus de 70 exposants sont attendus\, dont Airbus\, Safran\, Dah
+ er\, Collins Aerospace ou encore Delair\, pour un total de 2 500 postes à
+  pourvoir dans la région toulousaine. L'événement est piloté par le gr
+ oupe Synergie et cible un large public\, des ouvriers de production aux in
+ génieurs\, en passant par les techniciens aéronautiques\, inspecteurs qu
+ alité et profi\n\nSource\: https://actu.fr/occitanie/toulouse_31555/emplo
+ i-airbus-safran-daher-2-500-postes-a-pourvoir-a-toulouse-et-aux-alentours-
+ un-immense-job-dating-organise_64825402.html
+LOCATION:stade Ernest-Wallon\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/emploi-airbus-safran-daher-2-5
+ 00-postes-a-pourvoir-a-toulouse-et-aux-alentours-un-immense-job-dating-org
+ anise_64825402.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6627f8de-dc09-4902-9942-e979ed2bb962@news.lavillerose.com
@@ -15603,7 +15657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:549eeb6d-2af6-4852-8925-27755a8b0ee8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20261003
 SUMMARY:Profondeur de Champ
 DESCRIPTION:L'exposition « Profondeur de Champ » investit le Pavillon Bla
  nc Henri Molina de Colomiers d'octobre 2026 à février 2027. Elle célèb
@@ -15709,6 +15763,44 @@ LOCATION:salle dédiée aux musiques\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/puppetmastaz-billet/idmani
  f/667067/idseance/4380520?utm_source=ical&utm_medium=calendar&utm_campaign
  =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Pokémon – Cité de l'espace
+DESCRIPTION:La Cité de l'espace accueille une nouvelle exposition Pokémon
+  à partir du vendredi 2 octobre 2026\, développée en partenariat avec l
+ 'Agence spatiale européenne (ESA). L'exposition mêle personnages iconiqu
+ es de la franchise — avec Pikachu en astronaute en tête d'affiche — e
+ t contenu scientifique sérieux sur les missions spatiales européennes. 
+ À travers des panneaux thématiques intégrant des Pokémon\, les visiteu
+ rs découvriront les activités de l'ESA : lancements\, Station spatiale i
+ nternationale\, ex\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ch
+ asse-aux-pokemon-nouvelle-exposition-pikachu-et-ses-amis-debarquent-a-la-c
+ ite-de-l-espace-a-toulouse_64824560.html
+LOCATION:espace accueille une nouvelle exposition Pokémon\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/chasse-aux-pokemon-nouvelle-ex
+ position-pikachu-et-ses-amis-debarquent-a-la-cite-de-l-espace-a-toulouse_6
+ 4824560.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:dbed2b54-4164-4488-b32b-997f98973c01@news.lavillerose.com
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Cantadas – COMDT
+DESCRIPTION:Le COMDT organise chaque troisième vendredi du mois les Cantad
+ as\, des soirées de chant collectif ouvertes à tous. Inspirées des Cant
+ èras pyrénéennes\, ces rencontres effacent la frontière entre scène e
+ t public pour faire vivre le patrimoine vocal occitan dans une atmosphère
+  conviviale et festive. Animées par des professionnels et étudiants du C
+ OMDT et du CRR\, elles mettent à l'honneur chaque mois un répertoire sp
+ écifique. En partenariat avec l'application Ethos\, les soirées s'enrich
+ issent progres\n\nSource\: https://www.toulouse-tourisme.com/agenda/cantad
+ a/
+URL:https://www.toulouse-tourisme.com/agenda/cantada/?utm_source=ical&utm_m
+ edium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4116e74f-77fa-46a9-967c-5375739fa003@news.lavillerose.com
@@ -16252,6 +16344,24 @@ URL:https://www.toulouse-tourisme.com/agenda/empalot-sagite/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f17b8bd2-7a33-4c44-a4e2-0c15d7182c45@news.lavillerose.com
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Atelier biodiversité urbaine à la Maison du Métro
+DESCRIPTION:La Maison du Métro accueille un atelier pratique pour apprendr
+ e à transformer jardins\, terrasses et balcons en refuges favorables à l
+ a biodiversité. Les participants découvriront des aménagements simples 
+ adaptés aux espaces urbains\, pensés pour répondre aux besoins spécifi
+ ques de différentes espèces. L'atelier est proposé à deux dates distin
+ ctes : le 7 octobre et le 9 décembre 2026. Il s'adresse à tous ceux qui 
+ souhaitent agir concrètement pour la nature en milieu urbain\, même sans
+  grand espace \n\nSource\: https://www.toulouse-tourisme.com/agenda/commen
+ t-apporter-la-nature-dans-son-jardin-balcon-et-la-preserver-2/
+URL:https://www.toulouse-tourisme.com/agenda/comment-apporter-la-nature-dan
+ s-son-jardin-balcon-et-la-preserver-2/?utm_source=ical&utm_medium=calendar
+ &utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e02a6d76-5814-4980-a454-7698c9889217@news.lavillerose.com
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
@@ -16510,6 +16620,27 @@ DESCRIPTION:Une promenade en gabarre est proposée au départ du port Saint
  \: https://www.toulouse-tourisme.com/agenda/le-canal-du-midi-en-gabarre/
 URL:https://www.toulouse-tourisme.com/agenda/le-canal-du-midi-en-gabarre/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:55741ab4-59cc-47a2-8cee-92e004001e98@news.lavillerose.com
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Nocturne du marché Saint-Cyprien
+DESCRIPTION:Le marché Saint-Cyprien organise sa dernière nocturne de l'an
+ née le jeudi 8 octobre 2026\, de 18h à 23h\, sous la halle historique du
+  quartier Saint-Cyprien. Au programme : animations gastronomiques et produ
+ its locaux de saison dans la tradition du Sud-Ouest. Le marché avait déj
+ à proposé deux nocturnes thématiques cette année\, sur les années 70/
+ 80 en avril et 80/90 en juin\, saluées pour leur ambiance conviviale. L'
+ événement est décrit comme accessible à tous les âges et constitue un
+ e bonne occasio\n\nSource\: https://actu.fr/occitanie/toulouse_31555/c-est
+ -la-derniere-de-l-annee-voici-quand-se-tiendra-la-prochaine-nocturne-du-ma
+ rche-saint-cyprien-a-toulouse_64827903.html
+LOCATION:halle historique du quartier Saint-Cyprien\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/c-est-la-derniere-de-l-annee-v
+ oici-quand-se-tiendra-la-prochaine-nocturne-du-marche-saint-cyprien-a-toul
+ ouse_64827903.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7622c685-e7cb-4422-a6d0-840ae3967944@news.lavillerose.com
@@ -16806,6 +16937,58 @@ URL:https://www.ticketmaster.fr/fr/manifestation/pour-le-meilleur-et-pour-b
  =calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:5e659d3c-94ac-48c9-a8b7-af818558cdcf@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Bourrasque
+DESCRIPTION:Le duo Bourrasque se produit au COMDT (Centre Occitan des Musiq
+ ues et Danses Traditionnelles) de Toulouse le 10 octobre 2026. Formé de d
+ eux musiciennes aux affinités profondes\, le groupe puise dans les réper
+ toires des cultures populaires du Quercy et du Massif Central. Leur musiqu
+ e mêle banjo\, violon et voix\, avec une place centrale accordée à l'im
+ provisation\, à la langue occitane et à la danse. Ce concert offre une p
+ longée dans un univers sonore ancré dans le territoire\, nourri d'expér
+ imentatio\n\nSource\: https://www.toulouse-tourisme.com/agenda/bourrasque/
+URL:https://www.toulouse-tourisme.com/agenda/bourrasque/?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cf8691f1-fded-451a-9b12-ba728157f27c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Salon des Minéraux et des Fossiles
+DESCRIPTION:Le Salon des Minéraux et des Fossiles se tient les 10 et 11 oc
+ tobre 2026 à la Grande Halle de Toulouse. L'événement rassemble exposan
+ ts et collectionneurs autour de minéraux\, fossiles\, plantes et insectes
+ \, avec un naturaliste proposant une belle diversité de spécimens. Le pu
+ blic pourra également découvrir une exposition thématique dédiée aux 
+ Dinosaures ainsi que des conférences. Ce rendez-vous s'adresse aux passio
+ nnés de sciences naturelles\, aux familles et aux curieux de tout âge.\n
+ \nSource\: https://www.toulouse-tourisme.com/agenda/salon-des-mineraux-et-
+ des-fossiles/
+LOCATION:Halle de Toulouse\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/salon-des-mineraux-et-des-foss
+ iles/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e297b0b4-674f-40fe-bd15-9dd71a2a083a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Veronica Antonelli chante la paix
+DESCRIPTION:La soprano Veronica Antonelli se produira à l'église Saint-J
+ érôme de Toulouse le 10 octobre 2026 dans un concert intitulé « Chante
+  la paix ». La soirée est organisée au profit de l'association Les Amis
+  de l'Oncopole\, qui soutient les patients atteints de cancer et leurs pro
+ ches. Le concert est tout particulièrement dédié aux malades\, à leurs
+  aidants et à leurs familles. Un événement à la fois musical et solida
+ ire\, qui s'adresse à tous ceux qui souhaitent soutenir cette cause.\n\nS
+ ource\: https://www.toulouse-tourisme.com/agenda/la-soprano-veronica-anton
+ elli-chante-la-paix/
+URL:https://www.toulouse-tourisme.com/agenda/la-soprano-veronica-antonelli-
+ chante-la-paix/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:744ac576-64bd-4a05-bfbd-13ed818d31da@news.lavillerose.com
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
@@ -16999,6 +17182,23 @@ DESCRIPTION:Le Sunshine Coast Guitar Orchestra (SCGO)\, ensemble australien
  -coast-guitar-orchestra/
 URL:https://www.toulouse-tourisme.com/agenda/sunshine-coast-guitar-orchestr
  a/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3ec20a74-bf95-442f-a5f6-38ed01c4fcf5@news.lavillerose.com
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:30 ans du Chœur Franco-Slave
+DESCRIPTION:Le Chœur Franco-Slave de Toulouse célèbre ses 30 ans avec un
+ e soirée de chant choral à la Chapelle des Carmélites le 14 octobre 202
+ 6. Cet anniversaire marque trois décennies d'existence pour cette formati
+ on vocale qui mêle répertoires français et slave. La Chapelle des Carm
+ élites\, écrin baroque du centre-ville\, offre un cadre idéal pour ce t
+ ype de concert choral. L'événement s'adresse à tous les amateurs de mus
+ ique chorale et de patrimoine musical toulousain.\n\nSource\: https://www.
+ toulouse-tourisme.com/agenda/30-ans-du-choeur-franco-slave-de-toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/30-ans-du-choeur-franco-slave-
+ de-toulouse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ab3fa524-5643-4ddd-a2df-3a914be5b569@news.lavillerose.com
@@ -17337,6 +17537,22 @@ URL:https://www.toulouse-tourisme.com/agenda/francoise-lacoste-1953-2025-ar
  alendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6ba78840-122e-4d07-962e-9219a3787c68@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sesilhas – COMDT
+DESCRIPTION:Le COMDT (Centre Occitan des Musiques et Danses Traditionnelles
+ ) lance les « sesilhas »\, des rassemblements acoustiques informels orga
+ nisés chaque premier vendredi du mois\, inspirés des sessions irlandaise
+ s et des jams. Ces soirées sont dédiées à la transmission orale du ré
+ pertoire de musiques traditionnelles occitanes\, dans un esprit convivial 
+ où chacun peut proposer un morceau quel que soit son niveau. Ouvertes aux
+  élèves du COMDT\, aux étudiants et aux musiciens toulousains de tous h
+ orizons\, e\n\nSource\: https://www.toulouse-tourisme.com/agenda/sesilha/
+URL:https://www.toulouse-tourisme.com/agenda/sesilha/?utm_source=ical&utm_m
+ edium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:62a440df-ab71-40af-8e0a-38176a1a8102@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261102
@@ -17473,6 +17689,24 @@ DESCRIPTION:Le 17 octobre 2026\, une visite guidée exclusive ouvre les por
 URL:https://www.toulouse-tourisme.com/agenda/de-braqueville-a-marchant-une-
  architecture-modele-au-service-du-soin/?utm_source=ical&utm_medium=calenda
  r&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1bd05c20-5fd8-41bd-a075-643d80a89639@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Festival Sozinho
+DESCRIPTION:Le Festival Sozinho se tient au Parc des Anges le 17 octobre 20
+ 26\, proposant une journée mêlant concerts\, spectacles vivants et anima
+ tions pour tous les publics. Au programme figurent un atelier sérigraphie
+  ouvert à tous\, une kermesse pour les enfants et une battle organisée p
+ ar Fidia Diala. La compagnie Les Points Nommée investit l'espace public a
+ vec une performance avant de laisser place à une soirée musicale\, tandi
+ s que le collectif LVL UP bénéficie d'une carte blanche artistique. La j
+ ournée \n\nSource\: https://www.toulouse-tourisme.com/agenda/festival-soz
+ inho/
+LOCATION:Parc des Anges le 17 octobre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/festival-sozinho/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:87e80657-6b66-4dc6-a3e6-623a4285620b@news.lavillerose.com
@@ -17971,6 +18205,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/toulouse-fc-estac-troyes-b
  utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:af5b92c9-e52f-431a-bb7c-6677f51cea74@news.lavillerose.com
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Le Voyage de Titi le Hérisson
+DESCRIPTION:« Le Voyage de Titi le Hérisson » est un conte musical parti
+ cipatif destiné aux enfants\, présenté à la Maison du Métro le 24 oct
+ obre 2026. Le spectacle mêle sons\, histoires interactives et instruments
+  de musique pour offrir un voyage sensoriel aux plus jeunes. L'animation\,
+  ludique et poétique\, a pour fil conducteur la sensibilisation à la pro
+ tection de la planète\, dans une approche accessible et joyeuse. Une sort
+ ie idéale pour les familles souhaitant éveiller leurs enfants à l'écol
+ ogie tout en s\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-voy
+ age-de-titi-le-herisson/
+URL:https://www.toulouse-tourisme.com/agenda/le-voyage-de-titi-le-herisson/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:53477bd2-5075-4e96-8985-b03c76141dc5@news.lavillerose.com
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
@@ -18450,6 +18701,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/wallace-cleaver-billet/idm
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:113cef67-1872-43b2-b1f8-7bc6102ac7f9@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:Grand Week-End de la Peur
+DESCRIPTION:Le restaurant Barricot et l'Hôtel Mercure Toulouse Centre Comp
+ ans organisent leur Grand Week-End de la Peur du 30 octobre au 1er novembr
+ e 2026\, dans une nouvelle édition intitulée « Zombie Attack Edition »
+ . Au programme : escape game immersif\, laser game\, buffets à volonté e
+ n décors trompe-l'œil et ateliers pour enfants le samedi et dimanche. Le
+ s vendredi et samedi soirs sont réservés aux adultes avec des soirées f
+ risson\, tandis que les journées du samedi et dimanche accueillent les fa
+ milles pou\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-grand-w
+ eek-end-de-la-peur/
+URL:https://www.toulouse-tourisme.com/agenda/le-grand-week-end-de-la-peur/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:96db22f7-864a-4709-a8e5-88039a38df10@news.lavillerose.com
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
@@ -18586,6 +18854,23 @@ URL:https://www.toulouse-tourisme.com/agenda/drag-of-the-dead/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:db9375fd-117c-476d-b748-27b3fab4b483@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Histoire et Mémoires – Seconde Guerre mondiale
+DESCRIPTION:Un parcours historique guidé explore la mémoire de la Seconde
+  Guerre mondiale à Toulouse\, en partant du Monument à la Gloire de la R
+ ésistance. L'itinéraire passe en revue plaques commémoratives et monume
+ nts pour interroger les formes d'hommage rendues aux victimes. Il met auss
+ i en lumière les silences et oublis qui ont façonné cette construction 
+ mémorielle collective. La visite est accessible dès 10 ans.\n\nSource\: 
+ https://www.toulouse-tourisme.com/agenda/histoire-et-memoires-de-la-second
+ e-guerre-mondiale/
+URL:https://www.toulouse-tourisme.com/agenda/histoire-et-memoires-de-la-sec
+ onde-guerre-mondiale/?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:dae7c373-449d-4028-b310-f791285cc323@news.lavillerose.com
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
@@ -18620,6 +18905,23 @@ DESCRIPTION:Le comédien Pierre Arditi sera en représentation au Casino Ba
 URL:https://www.ticketmaster.fr/fr/manifestation/un-soir-avec-pierre-arditi
  -billet/idmanif/653530/idtier/18864121?utm_source=ical&utm_medium=calendar
  &utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:55459b20-3ea7-4f23-b2ec-279b912a3006@news.lavillerose.com
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261123
+SUMMARY:Parle-moi d'Elles 2
+DESCRIPTION:L'exposition collective « Parle-moi d'Elles 2 » investit l'A
+ érochrome du 2 au 22 novembre 2026\, autour de la figure féminine explor
+ ée avec authenticité\, loin des clichés. Portée par trois artistes tou
+ lousaines — Miadana\, Lucce et Massa —\, l'exposition rassemble des ar
+ tistes majoritairement féminines venues de toute la France\, de Paris à 
+ Rennes en passant par Montpellier. Beaucoup sont membres du collectif Les 
+ Bombasphères. Quelques artistes masculins participent également\, invit
+ és à poser leur r\n\nSource\: https://www.toulouse-tourisme.com/agenda/p
+ arle-moi-delles-2/
+URL:https://www.toulouse-tourisme.com/agenda/parle-moi-delles-2/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:730113a7-1d9c-4d21-a133-69dc70316062@news.lavillerose.com
@@ -19011,6 +19313,23 @@ DESCRIPTION:Le spectacle « The World of Hans Zimmer – A New Dimension »
 URL:https://www.ticketmaster.fr/fr/manifestation/the-world-of-hans-zimmer-b
  illet/idmanif/617518/idtier/18864121?utm_source=ical&utm_medium=calendar&u
  tm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:105d20b1-690b-4762-80d9-9b2b7f522e41@news.lavillerose.com
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:Women Metronum Academy
+DESCRIPTION:La sixième édition du Women Metronum Academy Festival se tien
+ t du 5 au 8 novembre 2026 au Metronum de Toulouse. Pendant quatre jours\, 
+ le programme mêle concerts\, DJ-sets\, rencontres\, ciné-club\, fresque 
+ dans le patio\, foodtrucks et paillettes\, dans un esprit de bienveillance
+ \, d'inclusion et de sororité. Le festival célèbre la création fémini
+ ne dans les musiques actuelles et s'inscrit dans un dispositif de mentorat
+  destiné aux femmes portant un projet solo dans ce domaine. Pour cette é
+ dition\, les \n\nSource\: https://www.toulouse-tourisme.com/agenda/women-m
+ etronum-academy/
+URL:https://www.toulouse-tourisme.com/agenda/women-metronum-academy/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d609d4a-8f17-4ef0-87b4-f6177466bc67@news.lavillerose.com
@@ -19891,6 +20210,23 @@ URL:https://www.toulouse-tourisme.com/agenda/cap-sur-toulouse-metropole-col
  omiers/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:b6e6634a-5c01-4341-9c43-50aeee44e7a8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Duo Baudoin Lassouque
+DESCRIPTION:Le Duo Baudoin Lassouque se produit au COMDT (Conservatoire Occ
+ itan / Centre Occitan des Musiques et Danses Traditionnelles) à Toulouse 
+ le 14 novembre 2026. Le concert propose une musique de territoire alliant 
+ techniques de jeu contemporaines et instruments historiques\, à la crois
+ ée de l'ethnomusicologie et de la musique expérimentale. L'approche sono
+ re est qualifiée d'impressionnisme musical\, susceptible d'évoquer des c
+ ollectes anciennes\, du minimalisme\, de la musique répétitive ou même 
+ du spec\n\nSource\: https://www.toulouse-tourisme.com/agenda/duo-baudoin-l
+ assouque/
+URL:https://www.toulouse-tourisme.com/agenda/duo-baudoin-lassouque/?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4@news.lavillerose.com
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -20293,6 +20629,23 @@ URL:https://www.toulouse-tourisme.com/agenda/perds-pas-le-fil/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:8bea20ce-a53b-4d3d-a1f0-dd5c4752e213@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Bal avec La Malène
+DESCRIPTION:Le COMDT accueille une soirée de bal folk le 19 novembre 2026\
+ , avec une scène découverte à 20h suivie du bal La Malène à 21h. Le d
+ uo est composé d'Anaïs Perrinel au violon et au chant\, et de Léonie Ch
+ evalaz aux cornemuses\, au chant et aux percussions de pieds. La soirée s
+ 'inscrit dans la tradition des bals trad/folk\, idéale pour les amateurs 
+ de danses collectives et de musique acoustique. L'événement se déroule 
+ au COMDT\, centre dédié aux musiques et danses traditionnelles à Toulou
+ se.\n\nSource\: https://www.toulouse-tourisme.com/agenda/bal-avec-la-malen
+ e/
+URL:https://www.toulouse-tourisme.com/agenda/bal-avec-la-malene/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:6f9e24cf-02c9-4c24-8d19-9b65fb047902@news.lavillerose.com
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -20681,6 +21034,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/la-fille-du-7eme-billet/id
  aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:00bcb367-5f2e-4884-8e02-781b8e1c36b0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Battements du Vivant
+DESCRIPTION:L'atelier « Battements du Vivant » propose aux participants d
+ e découvrir des instruments fabriqués à partir de matériaux naturels\,
+  puis d'expérimenter collectivement rythmes et sons du vivant. L'expérie
+ nce invite à tisser des liens entre nature\, culture et patrimoine dans u
+ n cadre ludique et fédérateur. Chaque participant joue un rôle dans la 
+ création d'un rythme collectif\, illustrant symboliquement le fonctionnem
+ ent d'un écosystème. L'atelier se tient à la Maison du Métro et est pr
+ ogrammé à deu\n\nSource\: https://www.toulouse-tourisme.com/agenda/batte
+ ments-du-vivant/
+URL:https://www.toulouse-tourisme.com/agenda/battements-du-vivant/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db@news.lavillerose.com
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
@@ -21019,6 +21389,24 @@ LOCATION:Halle aux Grains le 26 novembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/jean-francois-zygel-met-en-mus
  ique-le-canal-du-midi/?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d434b93c-1584-4c95-bda0-bbcf3d71d0cc@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Serada Musicaire·as Dançaire·as
+DESCRIPTION:Le COMDT organise chaque quatrième jeudi du mois des « balèt
+ is »\, des soirées conviviales mêlant musiciens et danseurs dans un cad
+ re de bal en situation réelle. Ces rencontres s'inscrivent en écho aux b
+ als de la MJC du Pont des Demoiselles et sont ouvertes aux élèves\, prof
+ esseurs et groupes en création\, sur inscription en ligne. Chaque soirée
+  débute par une initiation à une danse folklorique ou traditionnelle\, a
+ nimée par Françoise Farenc ou des élèves confirmés\, accompagnée de 
+ diffusions vidéo i\n\nSource\: https://www.toulouse-tourisme.com/agenda/s
+ erada-musicaire%c2%b7as-dancaire%c2%b7as/
+URL:https://www.toulouse-tourisme.com/agenda/serada-musicaire%c2%b7as-danca
+ ire%c2%b7as/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
@@ -22320,6 +22708,23 @@ DESCRIPTION:La Compagnie Synapse investit le Théâtre de Poche pour une so
 URL:https://www.toulouse-tourisme.com/agenda/la-carte-blanche-de-la-compagn
  ie-synapse-2/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:76b85c92-720b-4906-a73b-ce4afc70a552@news.lavillerose.com
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Nawras Ibrahim Trio
+DESCRIPTION:Le Nawras Ibrahim Trio se produit au COMDT (Conservatoire Occit
+ an de Musiques et Danses Traditionnelles) à Toulouse le 12 décembre 2026
+ . Le trio propose un voyage musical autour des maqâms\, ces modes orienta
+ ux fondateurs de la musique du Proche et Moyen-Orient\, mêlant pièces tr
+ aditionnelles\, compositions originales et improvisation. Entre voix\, cor
+ des et percussions\, l'ensemble crée un dialogue intime entre héritage e
+ t réinvention musicale. Un concert à ne pas manquer pour les amateurs de
+  musiqu\n\nSource\: https://www.toulouse-tourisme.com/agenda/nawras-ibrahi
+ m-trio/
+URL:https://www.toulouse-tourisme.com/agenda/nawras-ibrahim-trio/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
@@ -24048,6 +24453,41 @@ DESCRIPTION:« Mon Frère » est un spectacle autobiographique dans lequel
  frere/
 URL:https://www.toulouse-tourisme.com/agenda/mon-frere/?utm_source=ical&utm
  _medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:126710a7-7f5f-467f-adda-1ba54caf0b8d@news.lavillerose.com
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Musiques des Films de Miyazaki
+DESCRIPTION:Un quatuor musical spécialisé dans les bandes originales de f
+ ilms se produira à l'Auditorium Saint-Pierre des Cuisines le 26 janvier 2
+ 027\, avec un programme entièrement dédié aux univers de Hayao Miyazaki
+ . Le groupe\, qui rassemble plusieurs centaines de milliers d'abonnés\, p
+ ropose une tournée rare centrée sur les compositions emblématiques du s
+ tudio Ghibli. L'événement s'inscrit dans une tournée nationale très at
+ tendue\, présentée comme un rendez-vous exceptionnel pour les amateurs d
+ e musique à l\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-pl
+ us-belles-musiques-des-films-de-miyazaki/
+URL:https://www.toulouse-tourisme.com/agenda/les-plus-belles-musiques-des-f
+ ilms-de-miyazaki/?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:caa54743-7698-4324-b782-3b9fe437e3a0@news.lavillerose.com
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:On Titan
+DESCRIPTION:Le Grissini Project\, ensemble spécialisé dans la musique de 
+ film et de série\, propose un concert intégralement consacré aux bandes
+  originales de L'Attaque des Titans à l'Auditorium Saint-Pierre des Cuisi
+ nes le 26 janvier 2027. Au programme\, les thèmes les plus emblématiques
+  de la saga — Call Your Name\, Bauklötze\, Vogel im Käfig\, Shinzō wo
+  Sasageyo — interprétés live par quatre musiciens dans toute leur inte
+ nsité. Le concert est conçu pour être accessible même aux non-initiés
+ \, les émotions véhicu\n\nSource\: https://www.toulouse-tourisme.com/age
+ nda/on-titan/
+URL:https://www.toulouse-tourisme.com/agenda/on-titan/?utm_source=ical&utm_
+ medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3b172da0-91ba-41a6-9a9c-cd05197f92bd@news.lavillerose.com
@@ -28311,6 +28751,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/en-therapie-billet/idmanif
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2fbdb9e5-a191-48ab-b2b9-4d5412288f76@news.lavillerose.com
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Eliès Zoghlami
+DESCRIPTION:Le comédien Eliès Zoghlami se produira au Casino Barrière de
+  Toulouse le 15 mai 2027 dans le cadre d'un spectacle classé Arts & Thé
+ âtre / Comédie. L'événement est référencé sur Ticketmaster\, ce qui
+  laisse supposer que les billets sont disponibles à la vente en ligne. Pe
+ u de détails supplémentaires sont fournis dans la source : ni horaire pr
+ écis\, ni description du programme. Les amateurs de one-man-show et de co
+ médie sont les premiers concernés.\n\nSource\: https://www.ticketmaster.
+ fr/fr/manifestation/elies-zoghlami-billet/idmanif/626085/idseance/4113942
+URL:https://www.ticketmaster.fr/fr/manifestation/elies-zoghlami-billet/idma
+ nif/626085/idseance/4113942?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:f1974ddb-b024-4e41-885a-8fda25eb7e66@news.lavillerose.com
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
@@ -28955,6 +29412,24 @@ DESCRIPTION:Le spectacle « I Gotta Feeling » revient pour une troisième
 URL:https://www.ticketmaster.fr/fr/manifestation/i-gotta-feeling-saison-3-b
  illet/idmanif/654304/idtier/18864121?utm_source=ical&utm_medium=calendar&u
  tm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:32455476-5c60-4417-ba62-4162760797c8@news.lavillerose.com
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:Sergio Cortes
+DESCRIPTION:Le tribute artist Sergio Cortès\, reconnu pour son imitation d
+ e Michael Jackson\, se produira au Casino Barrière de Toulouse le 13 octo
+ bre 2027. Le spectacle est classé dans la catégorie rock/musique. Le Cas
+ ino Barrière est une salle de spectacle établie à Toulouse\, accueillan
+ t régulièrement des concerts et shows de variétés. L'événement s'adr
+ esse aux fans de Michael Jackson et aux amateurs de performances de tribut
+ e live.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/sergio-co
+ rtes-billet/idmanif/673082/idseance/4425647
+LOCATION:salle de spectacle établie\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/sergio-cortes-billet/idman
+ if/673082/idseance/4425647?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:f3d78eb6-aa63-4798-98e1-2ad4fb6cc820@news.lavillerose.com
