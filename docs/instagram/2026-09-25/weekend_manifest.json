@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-09-26",
+  "sunday": "2026-09-27",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e",
+      "title": "Vide atelier de La Garonne Expose : peintures, sculptures et photos",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d26aca35-6c5d-450c-8c67-ff4852d279d3",
+      "title": "Triathlon des Roses à la Zone Verte des Argoulets pour la recherche",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:f07a7cbe-7f89-45e6-854c-06dfdc295a1d",
+      "title": "Concert Mozart à L'Escale : Symphonies n°40 et n°41",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e92383ea-75a1-4d53-a739-f393d2757315",
+      "title": "Cont'Opéra : balade contée et chantée au 18 rue Kepler",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ac83a9e7-ff6e-49ef-8b30-faa96117b033",
+      "title": "Pianomuses : deux concerts romantiques à la Chapelle des Carmélites",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8ae67c30-3032-4a26-816e-86b1d88cc38e",
+      "title": "Metronum Côté Jardins aux Jardins du Muséum de Borderouge",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:413ad266-cf3e-48bf-bf68-76ad99738f47",
+      "title": "Journée des Chiens Guides allées Jules Guesde, face au Quai des Savoirs",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc",
+      "title": "Visite guidée « Petites Histoires de Quartier » à Saint-Cyprien",
+      "img_width": 860,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:f698d62b-60c6-44f1-b43e-2af5d32b64e4",
+      "title": "Les Allées Céramiques fêtent leur 10e anniversaire allées François Verdier",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}

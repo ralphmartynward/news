@@ -1,0 +1,242 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:73c23a6d-9886-4e61-bfc7-7aeced708cb0",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Figuré.e à la Maison Olpé : design graphique et illustration",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-FIGUREE.jpg",
+    "file": "cluster_73c23a6d-9886-4e61-bfc7-7aeced708cb0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d7136037-edf4-4927-ac4d-ad37033e2687",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Qui som ? » : un triptyque céramique et onirique au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Design-sans-titre---2024-04-23T154231.159---copie.jpg",
+    "file": "cluster_d7136037-edf4-4927-ac4d-ad37033e2687_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:56848d74-bc34-4707-81ec-5d34e34394ba",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Une fresque théâtrale sur l'industrie et le travail au Théâtre du Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-USINE-2.jpg",
+    "file": "cluster_56848d74-bc34-4707-81ec-5d34e34394ba_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ff4e304b-8c3a-4e6a-be78-1b6ad3b9c9a0",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "L'Histoire incroyable de l'Usine TU au Théâtre du Pont Neuf",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-USINE-2.jpg",
+    "file": "cluster_ff4e304b-8c3a-4e6a-be78-1b6ad3b9c9a0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9b8eb15e-00a9-4ba1-8f2e-d356c558b78c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Nicolas Stavy en récital piano au Cloître des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/NICOLAS-STAVY-PIANO-JACOBINS.jpg",
+    "file": "cluster_9b8eb15e-00a9-4ba1-8f2e-d356c558b78c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b053dcb7-6594-47a2-a42e-5e889ee39d37",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Salon des Gourmets de Lettres à l'Hôtel d'Assézat",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/IMG-2991-dimanche-apres-midi-il-aurait-fallu-un-sens-de-circulation-dans-les-allees-scaled-copie.jpg",
+    "file": "cluster_b053dcb7-6594-47a2-a42e-5e889ee39d37_event_story.jpg",
+    "img_width": 860,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9b297a45-0581-4db7-95b5-f2f1f544b4ea",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Concert de Mel au Bijou : soul et pop alternative",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MEL.jpg",
+    "file": "cluster_9b297a45-0581-4db7-95b5-f2f1f544b4ea_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c63f8ef8-d460-423b-9ec2-7dfe9d093572",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Zinée en concert au Metronum pour présenter son EP BIL",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ZINEE.jpg",
+    "file": "cluster_c63f8ef8-d460-423b-9ec2-7dfe9d093572_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d99b3a5c-d585-413f-8e2f-798a75e72e5e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Jérémy Rollando présente « Polen » à la Salle Nougaro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JEREMY-ROLLANDO.jpg",
+    "file": "cluster_d99b3a5c-d585-413f-8e2f-798a75e72e5e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:4f280750-fcec-4f7b-9ef7-b1334eefe1aa",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Gabriel Delmas invite Jakob Manz au Taquin",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/GABRIEL-DELMAS.jpg",
+    "file": "cluster_4f280750-fcec-4f7b-9ef7-b1334eefe1aa_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8e4ed58f-77fb-4036-8482-f1a7584581bf",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Arts en Balade chez AHPY, galerie éphémère rue des Lois",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ARTS-EN-BALADE-AHPY.jpg",
+    "file": "cluster_8e4ed58f-77fb-4036-8482-f1a7584581bf_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:36125786-1bdc-431c-b1b6-5447c9503343",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "\"Ennemies pour la vie\" : une pièce à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/393/b74d3ddc-a5f3-4e09-a801-89c36b774393_106071_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_36125786-1bdc-431c-b1b6-5447c9503343_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:41623f1b-5d87-46ab-8b2d-7bce1e77c9a6",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cinq humoristes féminines à l'affiche à Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_41623f1b-5d87-46ab-8b2d-7bce1e77c9a6_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:6c860d6f-aad2-4bf2-b228-837242bd1a0b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Lisa Perrio en spectacle au Grand Théâtre 3T en septembre",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_6c860d6f-aad2-4bf2-b228-837242bd1a0b_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:452ee353-6180-4f11-b44e-ed7bcba3628f",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "George Kaplan : satire théâtrale gratuite à l'Espace Roguet",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/GEORGE-HAPLAN.jpg",
+    "file": "cluster_452ee353-6180-4f11-b44e-ed7bcba3628f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:dba83357-da99-4e81-8142-01481e0ee73d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "HEXAGONE MMA de retour au Zénith de Toulouse le 25 septembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MMA.jpg",
+    "file": "cluster_dba83357-da99-4e81-8142-01481e0ee73d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:315344c7-86bd-42f9-8be2-68041cd1e455",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Balade nocturne à vélo depuis la Basilique Saint-Sernin",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/aUN3SmXgXUsbjmrgdua2wRSIDXs8wW8BADFpqeLW-copie.jpg",
+    "file": "cluster_315344c7-86bd-42f9-8be2-68041cd1e455_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a57ba0f8-9cd4-4542-a49a-1e7b516d3951",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "TGD Quest : 45 jeux vidéo toulousains en direct sur Twitch",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/jeux---adrien.jpg?itok=xvcGibwe",
+    "file": "cluster_a57ba0f8-9cd4-4542-a49a-1e7b516d3951_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:72e5c0da-0348-496f-aa27-e0ea4c2907f2",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Jérémy Rollando présente « Polen » à la Salle Nougaro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JEREMY-ROLLANDO.jpg",
+    "file": "cluster_72e5c0da-0348-496f-aa27-e0ea4c2907f2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:20b8381c-f1ef-48fc-8f9c-98e19e26d514",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Conciergerie Solidaire de Montaudran officiellement inaugurée",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/1000005004.jpg?itok=3CgPWj9d",
+    "file": "cluster_20b8381c-f1ef-48fc-8f9c-98e19e26d514_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:e8e0803d-8465-4c16-8598-052c1ff6be9b",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Trophée Revault-Kunavore : foot, rugby et solidarité à Balma",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/les-anciens-du-tfc-et-du-stade-toulousain-se-retrouvent-pour-la-bonne-cause.-credit--1-maillot-pour-la-vie---marina-paris.jpg?h=fa5c8b09&itok=5DWY70GS",
+    "file": "cluster_e8e0803d-8465-4c16-8598-052c1ff6be9b_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

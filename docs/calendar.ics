@@ -9,6 +9,26 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:cluster:964a9c15-61c8-4c99-bb21-d0e7cf561834@news.lavillerose.com
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:Hexagone MMA
+DESCRIPTION:Alison Canot\, 41 ans\, profeseure de français dans un collèg
+ e de Montesquieu-Volvestre et mère de deux enfants\, monte sur le ring ce
+  vendredi 25 septembre au Zénith de Toulouse pour un combat MMA dans la c
+ atégorie des moins de 56 kg. Elle affronte Morgane Dehaye\, 29 ans\, orig
+ inaire de Tarbes\, lors de la soirée organisée par la ligue Hexagone MMA
+  à partir de 19h. Ce duel féminin est le seul du programme\, qui compte 
+ 11 combats au total. Sociétaire du Pyrénées Fighting Club de Salies-du-
+ Salat\, Aliso\n\nSource\: https://actu.fr/occitanie/toulouse_31555/j-ai-le
+ s-trois-casquettes-a-la-fois-alison-canot-allie-mma-vie-de-famille-et-de-p
+ rof-de-college-pres-de-toulouse_64834793.html
+URL:https://actu.fr/occitanie/toulouse_31555/j-ai-les-trois-casquettes-a-la
+ -fois-alison-canot-allie-mma-vie-de-famille-et-de-prof-de-college-pres-de-
+ toulouse_64834793.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:008022c6-0358-4e4c-9e78-9469b589eff0@news.lavillerose.com
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
@@ -14160,6 +14180,23 @@ URL:https://www.clutchmag.fr/evenements#2026-09-17-dimanche-20-septembre-2?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:5f5aff4a-50e7-4062-bffa-e203cb9780ee@news.lavillerose.com
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260928
+SUMMARY:Bleu Citron fête ses 40 ans avec 40 % de remise sur ses spectacles
+DESCRIPTION:La billetterie toulousaine Bleu Citron célèbre ses 40 ans d'e
+ xistence avec une offre anniversaire : 40 % de réduction sur une sélecti
+ on de concerts et spectacles jusqu'à la fin de l'année 2026. La promotio
+ n est disponible exclusivement sur la billetterie en ligne Bleu Citron\, v
+ ia une page dédiée. L'offre est valable jusqu'au 27 septembre 2026\, dat
+ e limite pour en profiter. Les amateurs de live music et de spectacles à 
+ Toulouse ont donc jusqu'à fin septembre pour saisir cette remise exceptio
+ nnell\n\nSource\: https://www.clutchmag.fr/evenements#2026-09-24-jeudi-24-
+ septembre-0
+URL:https://www.clutchmag.fr/evenements#2026-09-24-jeudi-24-septembre-0?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ac31f798-a756-4d4f-a2d3-99195bafb120@news.lavillerose.com
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
@@ -14201,15 +14238,15 @@ UID:cluster:b053dcb7-6594-47a2-a42e-5e889ee39d37@news.lavillerose.com
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
 SUMMARY:Salon des Gourmets de Lettres
-DESCRIPTION:Le Salon du Livre des Gourmets de Lettres se tient du 25 au 27 
- septembre 2026 à l'Hôtel d'Assézat\, à Toulouse. Cette édition reçoi
- t Guillaume Sire comme invité d'honneur. Le vendredi soir est dédié à 
- une soirée poésie animée par l'Académie des Jeux Floraux\, suivie d'un
-  verre de l'amitié. Le samedi dès 10h\, le salon ouvre ses portes avec l
- a remise des prix des concours littéraires (roman\, poésie\, nouvelles\,
-  biographie\, coup de cœur) à 11h\, et des conférences l'après-midi su
- r des thèmes comme la l\n\nSource\: https://www.toulouse-tourisme.com/age
- nda/salon-du-livre-des-gourmets-de-lettres/
+DESCRIPTION:Le XXe Salon des Gourmets de Lettres se tient à l'Hôtel d'Ass
+ ézat du 25 au 27 septembre\, réunissant une quarantaine d'autrices et au
+ teurs régionaux et nationaux. Organisé sous l'égide de l'Académie des 
+ Jeux Floraux — la plus ancienne société savante européenne\, fondée 
+ à Toulouse en 1323 — l'événement couvre des genres variés : roman\, 
+ polar\, poésie\, nouvelles\, BD et biographie. Cette édition a pour parr
+ ain l'écrivain toulousain Pascal Dessaint\, lauréat du Grand Prix de lit
+ térature policière\, qui \n\nSource\: https://www.toulouse-tourisme.com/
+ agenda/salon-du-livre-des-gourmets-de-lettres/
 URL:https://www.toulouse-tourisme.com/agenda/salon-du-livre-des-gourmets-de
  -lettres/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -14233,16 +14270,15 @@ BEGIN:VEVENT
 UID:cluster:c63f8ef8-d460-423b-9ec2-7dfe9d093572@news.lavillerose.com
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Zinée + Etane
-DESCRIPTION:La rappeuse et chanteuse toulousaine Zinée se produira au Metr
- onum le vendredi 25 septembre 2026 pour présenter son nouvel EP intitulé
-  BIL. Artiste associée du Metronum pour l'année 2026\, elle sera égalem
- ent impliquée dans plusieurs actions et ateliers au sein de la salle. BIL
- \, composé de sept titres\, est décrit comme un disque de renaissance et
-  de liberté retrouvée\, où Zinée se défait des freins à sa créativi
- té. Ce concert est l'occasion de découvrir un univers artistique singuli
- er\, à la croisé\n\nSource\: https://www.toulouse-tourisme.com/agenda/zi
- nee-etane/
+SUMMARY:Zinée – BIL
+DESCRIPTION:La rappeuse et chanteuse toulousaine Zinée se produit au Metro
+ num le vendredi 25 septembre 2026 pour présenter son nouvel EP intitulé 
+ BIL. Ce projet de sept titres marque une renaissance artistique et personn
+ elle\, Zinée s'y montrant plus libre que jamais\, tant musicalement que d
+ ans sa vie. Pour 2026\, elle est également artiste associée du Metronum\
+ , impliquée dans des actions et ateliers au sein de la structure. Les bil
+ lets sont proposés entre 19 et 22 €\, avec une ouverture des portes à 
+ 20h.\n\nSource\: https://www.toulouse-tourisme.com/agenda/zinee-etane/
 URL:https://www.toulouse-tourisme.com/agenda/zinee-etane/?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -14485,16 +14521,16 @@ UID:cluster:6658d48c-202d-44d2-9985-a257ff990fc4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261002
 SUMMARY:Festival Mieux Manger Végétal
-DESCRIPTION:Les Halles de la Transition\, en plein cœur de Toulouse\, accu
- eillent le Festival Mieux Manger Végétal du 25 septembre au 1er octobre 
- 2026\, avec dégustations\, ateliers\, conférences\, marché et rencontre
- s autour de la cuisine végétale. Le point d'orgue est une soirée gastro
- nomique le jeudi 1er octobre : un menu maison en cinq temps\, entièrement
-  végétal\, proposé à 35 euros. L'événement est pensé pour tous les 
- publics — curieux\, flexitariens ou amateurs de cuisine — et non pas e
- xclusivement pour les v\n\nSource\: https://www.toulouscope.fr/2026/09/22/
- ce-restaurant-propose-un-menu-en-5-temps-100-vegetal-lors-dans-le-cadre-du
- -festival-mieux-manger-vegetal-13561295.php
+DESCRIPTION:Le Festival Mieux Manger Végétal se tient aux Halles de la Tr
+ ansition à Toulouse du 25 septembre au 1er octobre 2026\, avec dégustati
+ ons\, ateliers\, conférences et un marché autour de l'alimentation vég
+ étale. La soirée phare du jeudi 1er octobre propose un menu en cinq temp
+ s 100 % végétal et fait maison au tarif de 35 euros. L'événement s'ins
+ crit dans la Grande Semaine Végétale (édition 2)\, organisée à l'éch
+ elle nationale par Make.org\, l'association végétarienne de France et In
+ terveg\, qui court ju\n\nSource\: https://www.toulouscope.fr/2026/09/22/ce
+ -restaurant-propose-un-menu-en-5-temps-100-vegetal-lors-dans-le-cadre-du-f
+ estival-mieux-manger-vegetal-13561295.php
 LOCATION:Halles de la Transition\, Toulouse
 URL:https://www.toulouscope.fr/2026/09/22/ce-restaurant-propose-un-menu-en-
  5-temps-100-vegetal-lors-dans-le-cadre-du-festival-mieux-manger-vegetal-13
@@ -14518,6 +14554,38 @@ DESCRIPTION:Le musicien Jérémy Rollando se produit à la Salle Nougaro le
 LOCATION:Salle Nougaro le 25 septembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/jeremy-rollando/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2e33d9af-2b9d-4bb4-a82f-132f05119b8f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:DUB VERSION #4
+DESCRIPTION:La soirée DUB VERSION #4\, organisée par Critical Hi-Fi\, se 
+ tient à l'Interference un vendredi 25 septembre à partir de 23h59. L'év
+ énement est consacré au dub\, genre musical ancré dans les cultures sou
+ nd system et reggae. L'entrée est fixée à 19\,8 €. Les amateurs de mu
+ sique dub et de soirées nocturnes toulousaines sont directement concerné
+ s.\n\nSource\: https://www.clutchmag.fr/evenements#2026-09-24-vendredi-25-
+ septembre-2
+URL:https://www.clutchmag.fr/evenements#2026-09-24-vendredi-25-septembre-2?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2fad4382-b9ec-4719-a2e0-56ebdfca6ded@news.lavillerose.com
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Fête de la Place de l'Estrapade
+DESCRIPTION:Une fête de quartier se tient place de l'Estrapade à Toulouse
+  le vendredi 25 septembre à partir de 19h. L'événement est gratuit et s
+ e déroule en soirée en plein air. Les informations disponibles sont trè
+ s succinctes — format exact\, programme et organisateurs ne sont pas pr
+ écisés dans la source. L'événement s'adresse aux habitants du quartier
+  et à tous ceux qui souhaitent profiter d'une soirée conviviale et sans 
+ frais.\n\nSource\: https://www.clutchmag.fr/evenements#2026-09-24-vendredi
+ -25-septembre-1
+LOCATION:quartier se tient place de l'Estrapade\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-24-vendredi-25-septembre-1?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc@news.lavillerose.com
@@ -14857,16 +14925,17 @@ BEGIN:VEVENT
 UID:cluster:fb1a20af-2ff3-420a-9b7d-852fdd16233f@news.lavillerose.com
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
-SUMMARY:Que faire à Toulouse ce week-end du 26 et 27 septembre ?
-DESCRIPTION:Ce week-end à Toulouse propose une offre culturelle et festive
-  dense\, couverte par deux sources complémentaires. Le Fifigrot fête ses
-  15 ans avec une Marche des pubertés au départ de la Daurade\, tandis qu
- e le festival Woori célèbre la culture coréenne sur l'île du Ramier av
- ec K-Pop\, arts martiaux et street food. On retrouve aussi les Arts en Bal
- ade (10e édition)\, des concerts gratuits aux Jardins du Muséum\, la con
- vention du disque au Bikini\, le Bazar Littéraire à la Cave Poésie\, et
-  le lancement \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2
- 026-09-18#50318
+SUMMARY:Que faire à Toulouse ce week-end du 26-27 septembre ?
+DESCRIPTION:Le week-end du 26 et 27 septembre s'annonce très chargé à To
+ ulouse avec une programmation éclectique mêlant culture\, musique\, spor
+ t et marchés. Parmi les temps forts : la 10e édition des Arts en Balade 
+ avec 206 artistes ouvrant leurs ateliers\, les concerts gratuits « Cats &
+  Flowers » aux Jardins du Muséum en partenariat avec le Metronum\, et le
+  Salon du livre des Gourmets de Lettres à l'Hôtel d'Assézat. Le Woori F
+ estival célèbre sa 5e édition sur l'île du Ramier avec K-Pop\, arts ma
+ rtiaux et stree\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-09-18#50318
+LOCATION:Jardins du\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-18#50318?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -14908,6 +14977,55 @@ DESCRIPTION:Le Festival Sens et Nature investit le Jardin des Plantes de To
 LOCATION:Jardin des Plantes de Toulouse les 26\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/festival-sens-et-nature/?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1312fcc1-5496-457b-b816-8a0c3a106b93@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Sextant – SN Albi
+DESCRIPTION:La Scène Nationale Albi-Tarn lance sa saison 2026-2027 avec SE
+ XTANT\, une soirée gratuite en plein air le samedi 26 septembre dès 18h 
+ sur le parvis du Grand Théâtre d'Albi. Au programme : un duo de danseuse
+ s bretonnes (DISTRO)\, un pique-nique géant convivial\, et un concert él
+ ectro de cuivres survitaminés (FÜLÜ) aux accents de carnaval et de tran
+ se percussive. L'événement se veut festif et accessible à tous\, avec u
+ ne énergie collective pour marquer le cap d'une nouvelle saison culturell
+ e. L'entrée\n\nSource\: https://www.clutchmag.fr/evenements#2026-09-24-sa
+ medi-26-septembre-0
+URL:https://www.clutchmag.fr/evenements#2026-09-24-samedi-26-septembre-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:35c4dbb1-da35-44bc-bf38-7810f658284a@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:NNANA Light Fever
+DESCRIPTION:La soirée NNANA Light Fever est organisée spécialement pour 
+ les femmes à L'Évasion\, un club toulousain\, le samedi 26 septembre à 
+ partir de 21h. L'événement est gratuit et propose une ambiance festive a
+ nimée par le DJ Youyou. Un atelier maquillage « yeux de bitch » est ég
+ alement au programme\, ajoutant une touche originale à la soirée. L'év
+ énement s'adresse principalement aux femmes souhaitant passer une nuit en
+ tre elles dans une ambiance lumineuse et festive.\n\nSource\: https://www.
+ clutchmag.fr/evenements#2026-09-24-samedi-26-septembre-1
+URL:https://www.clutchmag.fr/evenements#2026-09-24-samedi-26-septembre-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:dc6e8966-b7fc-478a-8f11-c69aa4adbcf8@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:MOWGLI – NAAMLOZE
+DESCRIPTION:Le Taquin Jazz Club accueille une soirée de jazz organique et 
+ électrique avec les groupes MOWGLI et NAAMLOZE\, le samedi 26 septembre 
+ à partir de 21h. L'entrée est comprise entre 8 et 12 euros selon les con
+ ditions. Ce type de double affiche dans un club de jazz intimiste est une 
+ occasion rare de découvrir deux formations dans une même soirée. L'év
+ énement s'adresse aux amateurs de jazz contemporain et aux curieux de mus
+ iques improvisées à Toulouse.\n\nSource\: https://www.clutchmag.fr/evene
+ ments#2026-09-24-samedi-26-septembre-2
+URL:https://www.clutchmag.fr/evenements#2026-09-24-samedi-26-septembre-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e@news.lavillerose.com
@@ -14966,18 +15084,17 @@ BEGIN:VEVENT
 UID:cluster:6dfc7f55-f3fd-4847-a401-abf9b7a24254@news.lavillerose.com
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:Forever Nu / Xandria
-DESCRIPTION:Le Rex de Toulouse accueille deux concerts metal les 27 et 28 s
- eptembre 2026. Forever Nu se produit le dimanche 27 septembre\, suivi de X
- andria le lundi 28 septembre. Ces deux dates consécutives font du Rex un 
- rendez-vous incontournable pour les amateurs de metal en fin septembre. Le
- s fans du genre auront ainsi l'occasion de profiter de deux ambiances dist
- inctes en deux soirées successives dans la même salle.\n\nSource\: https
- ://www.ticketmaster.fr/fr/manifestation/forever-nu-billet/idmanif/644088/i
- dtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/forever-nu-billet/idmanif/
- 644088/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=to
- ulouse-agenda
+SUMMARY:Forever Nu !
+DESCRIPTION:Le groupe FOREVER NU ! se produit au Rex à Toulouse le dimanch
+ e 27 septembre pour une soirée tribute metal. Le concert commence à 19h 
+ et les billets sont proposés à 24 €. L'événement s'adresse aux amate
+ urs de metal et de reprises\, dans l'une des salles de concert incontourna
+ bles de la ville. Peu d'informations supplémentaires sont disponibles sur
+  la nature exacte du tribute ou les groupes couverts.\n\nSource\: https://
+ www.clutchmag.fr/evenements#2026-09-24-dimanche-27-septembre-1
+LOCATION:salles de concert incontournables de la ville\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-09-24-dimanche-27-septembre-1?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:73e4125f-1930-46fd-a5da-c749c413d34e@news.lavillerose.com
@@ -15107,6 +15224,38 @@ URL:https://www.toulouse-tourisme.com/agenda/la-journee-des-chiens-guides/?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:79647b8a-c76e-48d2-a43f-8396ef031e45@news.lavillerose.com
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:9 ans du Black Lion
+DESCRIPTION:Le Black Lion célèbre ses 9 ans avec un 7e jour de festivité
+ s le dimanche 27 septembre\, proposant quiz\, blind test et cadeaux à par
+ tir de 20h30\, entrée gratuite. L'événement se tient dans ce bar toulou
+ sain connu pour sa programmation musicale et festive. L'article signale é
+ galement en « date à retenir » le concert d'ouverture de saison de l'Or
+ chestre national du Capitole à la Halle aux Grains le 1er octobre. Ce dig
+ est se concentre sur la soirée anniversaire du Black Lion\, accessible à
+  tous sans \n\nSource\: https://www.clutchmag.fr/evenements#2026-09-24-dim
+ anche-27-septembre-2
+URL:https://www.clutchmag.fr/evenements#2026-09-24-dimanche-27-septembre-2?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:93d776bf-dd4e-4871-9ac3-998adf09db76@news.lavillerose.com
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Le Tunnel des Fashions
+DESCRIPTION:Le Tunnel des Fashions organise un vide dressing sur fond de mu
+ sique électro au Flashback Café\, dimanche 27 septembre à partir de 14h
+ . L'entrée est à participation libre\, rendant l'événement accessible 
+ à tous les budgets. Ce format mêle seconde main et ambiance clubbing dan
+ s un cadre convivial. Les amateurs de mode vintage et de musique électron
+ ique sont particulièrement visés.\n\nSource\: https://www.clutchmag.fr/e
+ venements#2026-09-24-dimanche-27-septembre-0
+URL:https://www.clutchmag.fr/evenements#2026-09-24-dimanche-27-septembre-0?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:35bd7fcd-3a2a-446f-92bc-31b883fd252a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
@@ -15196,6 +15345,26 @@ DESCRIPTION:Le pianiste américain Jonathan Biss se produit au Cloître des
  an-biss-piano-aux-jacobins/
 URL:https://www.toulouse-tourisme.com/agenda/jonathan-biss-piano-aux-jacobi
  ns/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:392f5917-782c-459f-89d0-86d24d26fb94@news.lavillerose.com
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Premier vol A350F
+DESCRIPTION:L'A350F\, le nouvel avion-cargo long-courrier d'Airbus\, a effe
+ ctué le lundi 21 septembre 2026 son premier allumage moteur sur le tarmac
+  de Blagnac\, une étape majeure avant le premier vol d'essai. Concurrent 
+ direct du Boeing 777F\, cet appareil est motorisé par deux Rolls-Royce Tr
+ ent XWB-97\, se compose à plus de 70 % de matériaux composites et peut t
+ ransporter jusqu'à 111 tonnes sur 8 700 km avec 20 % d'économies de carb
+ urant. Le premier vol est programmé pour le mardi 29 septembre 2026 à 10
+ h30\, av\n\nSource\: https://actu.fr/occitanie/toulouse_31555/video-l-a350
+ f-nouvel-avion-d-airbus-fait-pour-la-premiere-fois-rugir-ses-moteurs-avant
+ -les-vol-d-essai-a-toulouse_64831109.html
+URL:https://actu.fr/occitanie/toulouse_31555/video-l-a350f-nouvel-avion-d-a
+ irbus-fait-pour-la-premiere-fois-rugir-ses-moteurs-avant-les-vol-d-essai-a
+ -toulouse_64831109.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7951e5d2-26c3-45ff-8e50-3171c7da17b0@news.lavillerose.com
@@ -15381,18 +15550,18 @@ BEGIN:VEVENT
 UID:cluster:6627f8de-dc09-4902-9942-e979ed2bb962@news.lavillerose.com
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261005
-SUMMARY:Salon de l'Immobilier – MEETT
-DESCRIPTION:Le Salon de l'Immobilier revient au MEETT du 2 au 4 octobre\, r
- éunissant promoteurs\, constructeurs\, courtiers et experts du financemen
- t pour accompagner les futurs acheteurs et investisseurs toulousains. Un E
- space Conseils gratuit proposera des consultations individuelles sans rend
- ez-vous avec des avocats\, notaires\, juristes de l'ADIL et conseillers Fr
- ance Rénov'. Parmi les exposants annoncés figurent Bouygues Immobilier\,
-  GreenCity Immobilier et Sporting Promotion\, aux côtés de spécialistes
-  de la\n\nSource\: https://www.toulouscope.fr/2026/09/21/le-salon-de-limmo
- bilier-est-de-retour-au-meett-avec-des-reponses-concretes-pour-les-futurs-
- acheteurs-et-investisseurs-13553567.php
-LOCATION:Espace Conseils gratuit proposera des consultations i\, Toulouse
+SUMMARY:Salon de l'Habitat – MEETT
+DESCRIPTION:Deux salons se tiennent simultanément au MEETT du 1er au 4 oct
+ obre 2026 : le Salon de l'Habitat et le Salon de l'Immobilier. Le Salon de
+  l'Immobilier (2 au 4 octobre) rassemble promoteurs\, constructeurs\, cour
+ tiers et experts du financement\, avec un Espace Conseils gratuit offrant 
+ des consultations individuelles sans rendez-vous auprès d'avocats\, notai
+ res\, juristes et conseillers France Rénov'. Le Salon de l'Habitat (1er a
+ u 4 octobre) revient avec plusieurs nouveautés\, dont un nouveau pavillon
+  « \n\nSource\: https://www.toulouscope.fr/2026/09/21/le-salon-de-limmobi
+ lier-est-de-retour-au-meett-avec-des-reponses-concretes-pour-les-futurs-ac
+ heteurs-et-investisseurs-13553567.php
+LOCATION:Espace Conseils gratuit offrant des consultations i\, Toulouse
 URL:https://www.toulouscope.fr/2026/09/21/le-salon-de-limmobilier-est-de-re
  tour-au-meett-avec-des-reponses-concretes-pour-les-futurs-acheteurs-et-inv
  estisseurs-13553567.php?utm_source=ical&utm_medium=calendar&utm_campaign=t
@@ -26699,6 +26868,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/fabrice-eboue-billet/idman
  =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:9129812b-2ba5-4acf-b8b6-a1b1f28c2178@news.lavillerose.com
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:ORIA
+DESCRIPTION:L'artiste ORIA se produira au Rex de Toulouse le 17 mars 2027 d
+ ans le cadre d'un concert de chanson française. Le Rex\, salle incontourn
+ able de la scène musicale toulousaine\, accueille cet événement pour le
+ s amateurs du genre. Une seule source couvre l'information\, issue de la b
+ illetterie Ticketmaster\, sans détails supplémentaires sur le programme 
+ ou les horaires. Les fans de chanson française à Toulouse sont invités 
+ à réserver leurs places en avance.\n\nSource\: https://www.ticketmaster.
+ fr/fr/manifestation/oria-billet/idmanif/673433/idseance/4427567
+LOCATION:salle incontournable de la scène musicale toulousain\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/oria-billet/idmanif/673433
+ /idseance/4427567?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9f33bd6b-5688-45a5-b36b-ca2f5a07ee03@news.lavillerose.com
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
@@ -29173,6 +29360,23 @@ URL:https://www.toulouse-tourisme.com/agenda/frank-beermann-adam-laloum/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:3f3cf079-670d-4ccc-89fd-82e1cef701e5@news.lavillerose.com
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Nicolas Canteloup
+DESCRIPTION:L'imitateur et humoriste Nicolas Canteloup se produira au Casin
+ o Barrière de Toulouse le 6 juin 2027. Connu pour ses imitations politiqu
+ es et ses sketches diffusés sur Europe 1 et TF1\, Canteloup est l'une des
+  figures les plus populaires de l'humour français. Le spectacle est class
+ é Arts & Théâtre – Comédie\, et se déroulera dans la salle de spect
+ acle du Casino Barrière. Les amateurs d'humour et d'imitation sont le pub
+ lic ciblé par cet événement.\n\nSource\: https://www.ticketmaster.fr/fr
+ /manifestation/nicolas-canteloup-billet/idmanif/669793/idseance/4393657
+URL:https://www.ticketmaster.fr/fr/manifestation/nicolas-canteloup-billet/i
+ dmanif/669793/idseance/4393657?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5f8d567a-18fb-495e-831c-1bce22870586@news.lavillerose.com
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
@@ -29623,6 +29827,24 @@ DESCRIPTION:Le spectacle THE RISE sera présenté au Zénith Toulouse Métr
 URL:https://www.ticketmaster.fr/fr/manifestation/the-rise-billet/idmanif/65
  4660/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0855ddc1-566a-4d18-a9d9-61a767f21b20@news.lavillerose.com
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
+SUMMARY:Laurent Gerra
+DESCRIPTION:L'humoriste et imitateur Laurent Gerra se produira au Zénith T
+ oulouse Métropole le 9 décembre 2027. Connu pour ses imitations percutan
+ tes de personnalités politiques et médiatiques\, Gerra est l'une des val
+ eurs sûres du one-man-show à la française. La soirée s'inscrit dans la
+  catégorie Arts & Théâtre – Comédie\, promettant un spectacle de div
+ ertissement grand public. Les billets sont disponibles via Ticketmaster po
+ ur les Toulousains souhaitant réserver à l'avance.\n\nSource\: https://w
+ ww.ticketmaster.fr/fr/manifestation/laurent-gerra-billet/idmanif/672966/id
+ seance/4425257
+URL:https://www.ticketmaster.fr/fr/manifestation/laurent-gerra-billet/idman
+ if/672966/idseance/4425257?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4a144999-56c3-4636-b73c-ebf1864950e5@news.lavillerose.com
