@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-09-25T06:35:17.934949+00:00</updated>
+  <updated>2026-09-26T06:39:06.701209+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,528 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:f3d78eb6-aa63-4798-98e1-2ad4fb6cc820</id>
-    <title>Agnes Obel en concert à la Halle aux Grains</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>ticketmaster</name>
-    </author>
-    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/820/96cc0818-f7e7-47b7-bf49-a2ce772c7820_SOURCE"/&gt;
-&lt;p&gt;La pianiste et compositrice danoise Agnes Obel se produira à la Halle aux Grains de Toulouse le 17 octobre 2027. Connue pour son style intimiste mêlant piano, cordes et voix éthérée, elle offre des concerts d&amp;#x27;une grande intensité émotionnelle. La Halle aux Grains, salle de référence pour la musique classique et les artistes exigeants, constitue un écrin idéal pour son univers sonore. Un rendez-vous à ne pas manquer pour les amateurs de musique de chambre, d&amp;#x27;indie classique et de pop atmosphérique.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/agnes-obel-billet/idmanif/670773/idseance/4401067?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.ticketmaster.fr/fr/manifestation/agnes-obel-billet/idmanif/670773/idseance/4401067?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La pianiste et compositrice danoise Agnes Obel se produira à la Halle aux Grains de Toulouse le 17 octobre 2027. Connue pour son style intimiste mêlant piano, cordes et voix éthérée, elle offre des concerts d'une grande intensité émotionnelle. La Halle aux Grains, salle de référence pour la musique classique et les artistes exigeants, constitue un écrin idéal pour son univers sonore. Un rendez-vous à ne pas manquer pour les amateurs de musique de chambre, d'indie classique et de pop atmosphérique.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:42:43.104363+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f98b23ec-3a3e-451d-89bf-048dd5a5db0f</id>
-    <title>Visite guidée et dégustation au Domaine de Candie</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Domaine-de-Candie---Chloe-Sabatier-2.jpg"/&gt;
-&lt;p&gt;Le Domaine de Candie, vaste propriété agricole municipale de 250 hectares située à Toulouse, propose des visites guidées ouvertes au public. Ce domaine abrite un château fort en briques du XIIIe siècle, ancien bien de capitouls, ainsi qu&amp;#x27;un chai avec foudres et barriques en chêne. Géré par la Ville depuis 1975 en régie agricole municipale, il œuvre pour la biodiversité urbaine et une alimentation locale et durable. La visite se conclut par une dégustation, et le domaine accueille également une guinguette en saison, des vendanges festives et des animations pédagogiques.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/domaine-de-candie/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/domaine-de-candie/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Domaine de Candie, vaste propriété agricole municipale de 250 hectares située à Toulouse, propose des visites guidées ouvertes au public. Ce domaine abrite un château fort en briques du XIIIe siècle, ancien bien de capitouls, ainsi qu'un chai avec foudres et barriques en chêne. Géré par la Ville depuis 1975 en régie agricole municipale, il œuvre pour la biodiversité urbaine et une alimentation locale et durable. La visite se conclut par une dégustation, et le domaine accueille également une guinguette en saison, des vendanges festives et des animations pédagogiques.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:41:33.110310+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:7497517b-a0e3-41a5-9d61-595eae16e8f5</id>
-    <title>Visite guidée au cœur du quartier Saint-Étienne</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Place-Saint-Etienne---Remi-Deligeon-copie.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;office de tourisme propose une exploration du quartier Saint-Étienne, l&amp;#x27;un des secteurs les plus prestigieux de Toulouse, centré sur la place de la Cathédrale. Ce quartier, dit « des antiquaires », s&amp;#x27;est développé à partir du XVIIe siècle autour du pouvoir parlementaire installé en 1444, attirant magistrats et noblesse de robe. Les hôtels particuliers de style classique, avec leurs cours, jardins, ferronneries et la bichromie brique-pierre blanche, en font un ensemble architectural remarquable. La visite est programmée le 13 mars 2026 et s&amp;#x27;adresse à tous ceux qui souhaitent mieux connaître l&amp;#x27;histoire judiciaire et aristocratique de Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/au-coeur-du-quartier-saint-etienne/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/au-coeur-du-quartier-saint-etienne/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'office de tourisme propose une exploration du quartier Saint-Étienne, l'un des secteurs les plus prestigieux de Toulouse, centré sur la place de la Cathédrale. Ce quartier, dit « des antiquaires », s'est développé à partir du XVIIe siècle autour du pouvoir parlementaire installé en 1444, attirant magistrats et noblesse de robe. Les hôtels particuliers de style classique, avec leurs cours, jardins, ferronneries et la bichromie brique-pierre blanche, en font un ensemble architectural remarquable. La visite est programmée le 13 mars 2026 et s'adresse à tous ceux qui souhaitent mieux connaître l'histoire judiciaire et aristocratique de Toulouse.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:40:51.133923+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6ddaf096-73e3-49a1-9336-b75d5a6d28f6</id>
-    <title>Visites guidées inclusives de Toulouse par l'Office de Tourisme</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Hotel-de-Felzins----Remi-Deligeon---Agence-d-Attractivite-Toulouse-copie.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose plusieurs visites guidées du centre historique adaptées à différents publics, dont deux en langue des signes française (LSF) et une visite inclusive multisensorielle. Les balades couvrent les incontournables — place du Capitole, église des Jacobins, hôtels particuliers Renaissance, bords de Garonne — ainsi que des cours intérieures et passages cachés du vieux Toulouse. La visite &amp;quot;Toulouse dans tous les sens&amp;quot; est spécialement conçue pour les personnes à mobilité réduite et les déficients visuels, tandis que les visites LSF portent le label &amp;quot;Ville pour Tous&amp;quot;. Ces propositions s&amp;#x27;échelonnent sur plusieurs dates tout au long de l&amp;#x27;année 2026, rendant Toulouse accessible à un public très large.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;La version standard de &amp;quot;Toulouse : l&amp;#x27;Essentiel&amp;quot; inclut l&amp;#x27;hôtel d&amp;#x27;Assézat en plus de l&amp;#x27;hôtel de Bernuy, contrairement à la version LSF qui ne cite que Bernuy. Petit détail de contenu entre les deux formats de la même visite.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Visite LSF &amp;#x27;Petit Tour dans les Cours&amp;#x27; (21 oct.)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Visite LSF &amp;#x27;Toulouse l&amp;#x27;Essentiel&amp;#x27; (14 nov.)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Visite inclusive multisensorielle (29 déc.)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Visite standard &amp;#x27;Petit Tour dans les Cours&amp;#x27; (15 juil.)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Visite standard &amp;#x27;Toulouse : l&amp;#x27;Essentiel&amp;#x27; (14 mars)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/toulouse-lessentiel/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/toulouse-lessentiel/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office de Tourisme de Toulouse propose plusieurs visites guidées du centre historique adaptées à différents publics, dont deux en langue des signes française (LSF) et une visite inclusive multisensorielle. Les balades couvrent les incontournables — place du Capitole, église des Jacobins, hôtels particuliers Renaissance, bords de Garonne — ainsi que des cours intérieures et passages cachés du vieux Toulouse. La visite "Toulouse dans tous les sens" est spécialement conçue pour les personnes à mobilité réduite et les déficients visuels, tandis que les visites LSF portent le label "Ville pour Tous". Ces propositions s'échelonnent sur plusieurs dates tout au long de l'année 2026, rendant Toulouse accessible à un public très large.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:40:27.871193+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d2c7b0d9-91be-42b9-9201-62839a034ac3</id>
-    <title>Festival CinéSpaña 2026 : cinéma espagnol en divers lieux</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1759412899111-copie.jpg"/&gt;
-&lt;p&gt;Le Festival CinéSpaña revient à Toulouse du 2 au 11 octobre 2026, avec une programmation dédiée au cinéma espagnol contemporain. L&amp;#x27;événement se déroulera dans plusieurs lieux de la ville, dont le détail reste à confirmer. La programmation n&amp;#x27;a pas encore été dévoilée au moment de la publication de cette fiche. Les amateurs de cinéma hispanophone sont invités à suivre les annonces à venir pour découvrir les films et événements prévus.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/festival-cinespana/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/festival-cinespana/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Festival CinéSpaña revient à Toulouse du 2 au 11 octobre 2026, avec une programmation dédiée au cinéma espagnol contemporain. L'événement se déroulera dans plusieurs lieux de la ville, dont le détail reste à confirmer. La programmation n'a pas encore été dévoilée au moment de la publication de cette fiche. Les amateurs de cinéma hispanophone sont invités à suivre les annonces à venir pour découvrir les films et événements prévus.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:38:57.163052+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b72002f7-4a73-4020-99ff-f4ce4a8d335a</id>
-    <title>Le Sunshine Coast Guitar Orchestra en concert à l'église Saint-Jérôme</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/SUNSHINE.jpg"/&gt;
-&lt;p&gt;Le Sunshine Coast Guitar Orchestra (SCGO), ensemble australien fondé en 2014 sur la Sunshine Coast du Queensland, se produit à l&amp;#x27;église Saint-Jérôme de Toulouse le 14 octobre 2026. Dirigé par le guitariste et compositeur Andrew Veivers, l&amp;#x27;orchestre réunit des guitaristes de tous niveaux, des débutants aux musiciens aguerris. Son répertoire éclectique mêle musiques du monde, surf music des années 1950-60, classique, pop et musiques de films. Le concert s&amp;#x27;annonce comme un moment chaleureux et convivial, célébrant la guitare comme langage universel et rassembleur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/sunshine-coast-guitar-orchestra/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/sunshine-coast-guitar-orchestra/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Sunshine Coast Guitar Orchestra (SCGO), ensemble australien fondé en 2014 sur la Sunshine Coast du Queensland, se produit à l'église Saint-Jérôme de Toulouse le 14 octobre 2026. Dirigé par le guitariste et compositeur Andrew Veivers, l'orchestre réunit des guitaristes de tous niveaux, des débutants aux musiciens aguerris. Son répertoire éclectique mêle musiques du monde, surf music des années 1950-60, classique, pop et musiques de films. Le concert s'annonce comme un moment chaleureux et convivial, célébrant la guitare comme langage universel et rassembleur.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:38:33.475584+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:83690098-491c-4282-921b-ca00978ade02</id>
-    <title>Les Créas Taur : marché créateurs en plein cœur de Toulouse</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Agenda-Toulouse-Visuel-Site-Internet--3--31.jpg"/&gt;
-&lt;p&gt;Les Créas Taur est un marché artisanal et artistique itinérant qui se tient à plusieurs dates dans le centre de Toulouse, sur des places emblématiques : place Saint-Étienne (3 octobre), place de la Trinité (10 octobre), place Arnaud-Bernard (29 novembre) et rue du Taur, près de la basilique Saint-Sernin (6 décembre). À chaque édition, 12 à 15 créateurs et créatrices proposent directement au public leurs productions — vêtements, bijoux, céramiques, cosmétiques bio, photographie, jouets et décoration. La formule est entièrement sans intermédiaire, ce qui favorise l&amp;#x27;échange direct avec les artisans. L&amp;#x27;édition rue du Taur se distingue par un concert gratuit proposé à partir de 18h pour renforcer l&amp;#x27;ambiance conviviale.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les quatre sources sont quasi-identiques dans leur descriptif général. Seule la fiche de la rue du Taur mentionne le concert gratuit à 18h — détail absent des trois autres éditions.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (Rue du Taur)&lt;/strong&gt;: Édition la plus complète, avec concert gratuit à 18h et contexte géographique détaillé&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (Place Saint-Étienne, Trinité, Arnaud-Bernard)&lt;/strong&gt;: Dates et lieux des autres éditions de l&amp;#x27;automne&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/les-creas-taur/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/les-creas-taur-place-de-la-trinite/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/les-creas-taur-place-saint-etienne/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/les-creas-taur-place-arnaud-bernard/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/les-creas-taur/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les Créas Taur est un marché artisanal et artistique itinérant qui se tient à plusieurs dates dans le centre de Toulouse, sur des places emblématiques : place Saint-Étienne (3 octobre), place de la Trinité (10 octobre), place Arnaud-Bernard (29 novembre) et rue du Taur, près de la basilique Saint-Sernin (6 décembre). À chaque édition, 12 à 15 créateurs et créatrices proposent directement au public leurs productions — vêtements, bijoux, céramiques, cosmétiques bio, photographie, jouets et décoration. La formule est entièrement sans intermédiaire, ce qui favorise l'échange direct avec les artisans. L'édition rue du Taur se distingue par un concert gratuit proposé à partir de 18h pour renforcer l'ambiance conviviale.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:37:09.580589+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:0e708bee-38c6-42c7-b1d7-362011e7a2ca</id>
-    <title>Empalot s'Agit(e) : arts de rue et spectacles dans le quartier</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/459174493-1103494135109488-617567438786715549-n-copie.jpg"/&gt;
-&lt;p&gt;Du 7 au 11 octobre, le festival Empalot s&amp;#x27;Agit(e) investit le quartier Empalot avec une programmation pluridisciplinaire mêlant théâtre, cirque, cinéma, concerts, chant et breakdance. Le principe est celui d&amp;#x27;une implantation artistique dans l&amp;#x27;espace public, visant une réappropriation positive du quartier par ses habitants. Sous le chapiteau de l&amp;#x27;Agit ou en plein air, des formes éphémères — gradins temporaires, tentes, guinguettes, déambulations poétiques — font surgir le spectacle là où les habitants ne l&amp;#x27;attendent pas. L&amp;#x27;événement s&amp;#x27;adresse autant aux riverains d&amp;#x27;Empalot qu&amp;#x27;aux amateurs de formes artistiques hybrides à la frontière de la rue.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/empalot-sagite/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/empalot-sagite/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Du 7 au 11 octobre, le festival Empalot s'Agit(e) investit le quartier Empalot avec une programmation pluridisciplinaire mêlant théâtre, cirque, cinéma, concerts, chant et breakdance. Le principe est celui d'une implantation artistique dans l'espace public, visant une réappropriation positive du quartier par ses habitants. Sous le chapiteau de l'Agit ou en plein air, des formes éphémères — gradins temporaires, tentes, guinguettes, déambulations poétiques — font surgir le spectacle là où les habitants ne l'attendent pas. L'événement s'adresse autant aux riverains d'Empalot qu'aux amateurs de formes artistiques hybrides à la frontière de la rue.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:36:46.700779+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:e92383ea-75a1-4d53-a739-f393d2757315</id>
-    <title>Cont'Opéra : balade contée et chantée au 18 rue Kepler</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/VOIX-PARTAGEES-2.jpg"/&gt;
-&lt;p&gt;Cont&amp;#x27;Opéra propose une balade contée et chantée ouverte à tous au 18 rue Kepler à Toulouse, le 27 septembre 2026. Contes, devinettes et chants s&amp;#x27;entremêleront pour faire découvrir ce lieu sous un angle insolite, avec peut-être la visite d&amp;#x27;êtres féeriques. L&amp;#x27;événement est tout public et gratuit d&amp;#x27;accès, mais les places peuvent être limitées — une liste d&amp;#x27;attente est disponible sur demande par e-mail. Une belle occasion de mêler patrimoine local, imaginaire et musique pour petits et grands.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/contopera-balade-contee-et-chantee-pour-tous/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/contopera-balade-contee-et-chantee-pour-tous/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Cont'Opéra propose une balade contée et chantée ouverte à tous au 18 rue Kepler à Toulouse, le 27 septembre 2026. Contes, devinettes et chants s'entremêleront pour faire découvrir ce lieu sous un angle insolite, avec peut-être la visite d'êtres féeriques. L'événement est tout public et gratuit d'accès, mais les places peuvent être limitées — une liste d'attente est disponible sur demande par e-mail. Une belle occasion de mêler patrimoine local, imaginaire et musique pour petits et grands.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:36:23.112830+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:aee065d4-2f63-468b-829a-3033415b178c</id>
-    <title>Cap sur Toulouse Métropole : balade découverte à Blagnac</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Copie-de-Agenda-Toulouse-Visuel-Site-Internet--16--5.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Office de tourisme propose une balade guidée à Blagnac au départ de l&amp;#x27;arrêt de tram T1 Odyssud, le 3 octobre 2026. La visite explore le patrimoine historique de la commune : l&amp;#x27;église Saint-Pierre édifiée du XIIe au XVe siècle, la maison commune consulaire et le château aux tuiles vernissées polychromes. La balade passe également par l&amp;#x27;ancienne île du Ramier, évoquant le passé maraîcher de Blagnac et son emblématique Confrérie souveraine et jubilatoire de la Carotte. Un ancien four à briques, témoin rare de la fabrication des matériaux qui ont bâti la ville rose, ainsi que des œuvres de street-art signées Toutain complètent ce parcours entre histoire et modernité.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/cap-sur-toulouse-metropole-blagnac/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/cap-sur-toulouse-metropole-blagnac/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office de tourisme propose une balade guidée à Blagnac au départ de l'arrêt de tram T1 Odyssud, le 3 octobre 2026. La visite explore le patrimoine historique de la commune : l'église Saint-Pierre édifiée du XIIe au XVe siècle, la maison commune consulaire et le château aux tuiles vernissées polychromes. La balade passe également par l'ancienne île du Ramier, évoquant le passé maraîcher de Blagnac et son emblématique Confrérie souveraine et jubilatoire de la Carotte. Un ancien four à briques, témoin rare de la fabrication des matériaux qui ont bâti la ville rose, ainsi que des œuvres de street-art signées Toutain complètent ce parcours entre histoire et modernité.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:36:02.126009+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:fb7dc5a8-3193-4f78-bce3-a79cc2fe8451</id>
-    <title>Visite guidée de Colomiers : du village à la ville aéronautique</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Pavillon-Blanc-credit-photo-ville-de-colomiers-Yann-Gachet-copie.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Office de tourisme de Toulouse Métropole propose une visite guidée de Colomiers, commune de 35 000 habitants qui n&amp;#x27;était encore qu&amp;#x27;un village de deux rues en 1950. Le parcours emmène les participants devant la mairie, la chapelle du Cimetière, la place de la Bascule, le parc Duroch et l&amp;#x27;église Sainte-Radegonde, en retraçant la transformation urbaine et le développement économique lié à l&amp;#x27;industrie aéronautique. La visite inclut une entrée dans le Pavillon blanc, médiathèque et centre d&amp;#x27;art aux façades ondulantes, réalisé avec des techniques de construction innovantes. L&amp;#x27;événement se tient le 14 novembre 2026 au départ de la mairie de Colomiers.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/cap-sur-toulouse-metropole-colomiers/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/cap-sur-toulouse-metropole-colomiers/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office de tourisme de Toulouse Métropole propose une visite guidée de Colomiers, commune de 35 000 habitants qui n'était encore qu'un village de deux rues en 1950. Le parcours emmène les participants devant la mairie, la chapelle du Cimetière, la place de la Bascule, le parc Duroch et l'église Sainte-Radegonde, en retraçant la transformation urbaine et le développement économique lié à l'industrie aéronautique. La visite inclut une entrée dans le Pavillon blanc, médiathèque et centre d'art aux façades ondulantes, réalisé avec des techniques de construction innovantes. L'événement se tient le 14 novembre 2026 au départ de la mairie de Colomiers.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:35:41.150296+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d21c3c69-e69e-4db6-bfe7-9aec7cae2784</id>
-    <title>Parcours « Ornements en Série » jusqu'à la Maison Giscard</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Fabrique-Giscard--Remi-Deligeon-copie-5.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose un parcours guidé retraçant l&amp;#x27;histoire de la plinthotomie, procédé industriel inventé par Auguste Virebent en 1831 pour produire en série des ornements en terre cuite destinés aux façades bourgeoises. Le circuit part de la rue de la Pomme et remonte les allées Jean Jaurès jusqu&amp;#x27;au quartier Marengo, où les décors de certains immeubles rivalisent avec Versailles ou la Renaissance. Le clou du parcours est l&amp;#x27;ouverture exceptionnelle de la cour de la Maison Giscard, ancienne manufacture fermée depuis 2005 et héritière de la tradition Virebent. Cette sortie s&amp;#x27;adresse à tous les curieux de patrimoine architectural toulousain et de l&amp;#x27;histoire industrielle locale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/des-ornements-en-serie-de-la-rue-de-la-pomme-a-la-maison-giscard/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/des-ornements-en-serie-de-la-rue-de-la-pomme-a-la-maison-giscard/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office de Tourisme de Toulouse propose un parcours guidé retraçant l'histoire de la plinthotomie, procédé industriel inventé par Auguste Virebent en 1831 pour produire en série des ornements en terre cuite destinés aux façades bourgeoises. Le circuit part de la rue de la Pomme et remonte les allées Jean Jaurès jusqu'au quartier Marengo, où les décors de certains immeubles rivalisent avec Versailles ou la Renaissance. Le clou du parcours est l'ouverture exceptionnelle de la cour de la Maison Giscard, ancienne manufacture fermée depuis 2005 et héritière de la tradition Virebent. Cette sortie s'adresse à tous les curieux de patrimoine architectural toulousain et de l'histoire industrielle locale.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:35:20.190416+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8f0fa306-a686-4634-8cf5-97bfb018fae4</id>
-    <title>Visite guidée « Grandes et Petites Affaires Criminelles » à l'Office de Tourisme</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Cour-Henri-IV---Capitole-copie-2.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose une visite guidée insolite centrée sur quatre affaires criminelles emblématiques de l&amp;#x27;histoire toulousaine, du crime passionnel à la manipulation politique menaçant Louis XIII. Le parcours convoque également l&amp;#x27;affaire qui inspira à Voltaire l&amp;#x27;un de ses essais philosophiques les plus célèbres, ainsi qu&amp;#x27;un mystère non élucidé. Les participants découvriront au passage les méthodes judiciaires de l&amp;#x27;Ancien Régime — contumace, estrapade, bouton de Géhenne — dans une ville riche d&amp;#x27;archives parlementaires royales. La visite est déconseillée aux âmes sensibles et ne couvre pas les affaires récentes, s&amp;#x27;inscrivant résolument dans une approche patrimoniale et historique.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/grandes-et-petites-affaires-criminelles/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/grandes-et-petites-affaires-criminelles/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office de Tourisme de Toulouse propose une visite guidée insolite centrée sur quatre affaires criminelles emblématiques de l'histoire toulousaine, du crime passionnel à la manipulation politique menaçant Louis XIII. Le parcours convoque également l'affaire qui inspira à Voltaire l'un de ses essais philosophiques les plus célèbres, ainsi qu'un mystère non élucidé. Les participants découvriront au passage les méthodes judiciaires de l'Ancien Régime — contumace, estrapade, bouton de Géhenne — dans une ville riche d'archives parlementaires royales. La visite est déconseillée aux âmes sensibles et ne couvre pas les affaires récentes, s'inscrivant résolument dans une approche patrimoniale et historique.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:34:28.866092+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f4aa9d4f-cf3d-4798-bc1a-426a77f02114</id>
-    <title>Visite guidée « Les Cathares à Toulouse » par l'Office de Tourisme</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Copie-de-Agenda-Toulouse-Visuel-Site-Internet---2023-03-20T172419.295.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose une visite guidée thématique intitulée « Les Cathares à Toulouse », retraçant l&amp;#x27;histoire du catharisme dans le sud de la France au XIIe siècle. La visite aborde les origines et croyances cathares, la croisade lancée par le pape, le tribunal de l&amp;#x27;Inquisition et le rôle des grandes familles nobles toulousaines. Une session est programmée dans le cadre des Journées Européennes du Patrimoine le 20 septembre 2026, et une autre le 22 novembre 2026, ce qui indique que la visite est proposée à plusieurs reprises au fil de l&amp;#x27;année. La réservation est obligatoire et les places sont limitées, du moins pour la session de septembre.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;La première occurrence (20 septembre) est rattachée aux Journées Européennes du Patrimoine et précise que la réservation est obligatoire ; la seconde (22 novembre) présente le même contenu sans mention de cet événement cadre ni de contrainte de réservation explicite.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (20 sept.)&lt;/strong&gt;: Session Journées du Patrimoine — réservation obligatoire, places limitées&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (22 nov.)&lt;/strong&gt;: Session hors programme patrimonial — offre récurrente de l&amp;#x27;office de tourisme&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/les-cathares-a-toulouse/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/les-cathares-a-toulouse/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office de Tourisme de Toulouse propose une visite guidée thématique intitulée « Les Cathares à Toulouse », retraçant l'histoire du catharisme dans le sud de la France au XIIe siècle. La visite aborde les origines et croyances cathares, la croisade lancée par le pape, le tribunal de l'Inquisition et le rôle des grandes familles nobles toulousaines. Une session est programmée dans le cadre des Journées Européennes du Patrimoine le 20 septembre 2026, et une autre le 22 novembre 2026, ce qui indique que la visite est proposée à plusieurs reprises au fil de l'année. La réservation est obligatoire et les places sont limitées, du moins pour la session de septembre.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:34:06.035403+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:09b3ba1e-164c-4ecc-b3b8-599dc384dce7</id>
-    <title>Visite guidée « Virtuose » de la Halle aux Grains</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Halle-aux-grains---Remi-Deligeon-copie-2.jpg"/&gt;
-&lt;p&gt;La visite guidée « Virtuose » invite le public à découvrir l&amp;#x27;histoire fascinante de la Halle aux Grains, emblème de la place Dupuy depuis son inauguration en 1861. En une heure, le parcours retrace les multiples vies du bâtiment — entrepôt commercial, salle de boxe, école d&amp;#x27;agronomie, scène de ballet — avant de devenir le temple du spectacle qu&amp;#x27;il est aujourd&amp;#x27;hui grâce à Michel Plasson. Les visiteurs explorent également une mini-ville souterraine construite dans les années 1970, cachée sous la salle de concert. La visite est organisée en partenariat avec l&amp;#x27;Opéra national et l&amp;#x27;Orchestre national du Capitole de Toulouse, résidents du lieu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/virtuose-halle-aux-grains/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/virtuose-halle-aux-grains/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La visite guidée « Virtuose » invite le public à découvrir l'histoire fascinante de la Halle aux Grains, emblème de la place Dupuy depuis son inauguration en 1861. En une heure, le parcours retrace les multiples vies du bâtiment — entrepôt commercial, salle de boxe, école d'agronomie, scène de ballet — avant de devenir le temple du spectacle qu'il est aujourd'hui grâce à Michel Plasson. Les visiteurs explorent également une mini-ville souterraine construite dans les années 1970, cachée sous la salle de concert. La visite est organisée en partenariat avec l'Opéra national et l'Orchestre national du Capitole de Toulouse, résidents du lieu.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:33:22.172376+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:674f58d5-f80d-4325-8e2a-465cd980b0ec</id>
-    <title>Sombres Flâneries : visite Halloween dans les ruelles de Toulouse</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/SOMBRES-FLANERIES-VISITE-D-HALLOWEEN.jpg"/&gt;
-&lt;p&gt;Le 31 octobre, l&amp;#x27;Office de Tourisme de Toulouse propose une balade nocturne et frissonnante à travers le vieux centre-ville, sur les traces de fantômes, momies, rituels ésotériques et exécutions publiques. Le parcours débute aux ruines de l&amp;#x27;église des Cordeliers, lieu de conservation de corps embaumés depuis le XVIe siècle, avant de traverser la place Wilson — hantée par les victimes du massacre protestant de 1562 — et la place Saint-Georges, ancienne scène des grandes exécutions publiques. La visite se conclut après la fermeture officielle au Donjon de la ville, qui se pare pour l&amp;#x27;occasion d&amp;#x27;une ambiance rouge sang plutôt que rose. Une sortie pensée pour les amateurs de légendes urbaines, d&amp;#x27;histoire sombre et d&amp;#x27;Halloween en famille ou entre amis.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/sombres-flaneries-visite-dhalloween/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/sombres-flaneries-visite-dhalloween/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le 31 octobre, l'Office de Tourisme de Toulouse propose une balade nocturne et frissonnante à travers le vieux centre-ville, sur les traces de fantômes, momies, rituels ésotériques et exécutions publiques. Le parcours débute aux ruines de l'église des Cordeliers, lieu de conservation de corps embaumés depuis le XVIe siècle, avant de traverser la place Wilson — hantée par les victimes du massacre protestant de 1562 — et la place Saint-Georges, ancienne scène des grandes exécutions publiques. La visite se conclut après la fermeture officielle au Donjon de la ville, qui se pare pour l'occasion d'une ambiance rouge sang plutôt que rose. Une sortie pensée pour les amateurs de légendes urbaines, d'histoire sombre et d'Halloween en famille ou entre amis.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:32:58.825757+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a4757e16-bca6-449f-85ad-d56f8e91a5b5</id>
-    <title>Ave Tolosa : l'histoire antique au Musée Saint-Raymond</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/VISITE-GUIDEE-AVE-TOLOSA.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;événement « Ave Tolosa » propose une exploration de l&amp;#x27;histoire antique de Toulouse, entre la ville et le musée Saint-Raymond, place Esquirol. L&amp;#x27;initiative invite le public à retracer l&amp;#x27;époque gallo-romaine de Tolosa, nom antique de Toulouse. L&amp;#x27;expérience semble combiner une découverte en plein air dans la ville et une visite muséale. L&amp;#x27;événement est prévu le 10 décembre 2026 et s&amp;#x27;adresse à tous ceux qui souhaitent en apprendre davantage sur les origines antiques de la ville.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-ave-tolosa/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-ave-tolosa/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'événement « Ave Tolosa » propose une exploration de l'histoire antique de Toulouse, entre la ville et le musée Saint-Raymond, place Esquirol. L'initiative invite le public à retracer l'époque gallo-romaine de Tolosa, nom antique de Toulouse. L'expérience semble combiner une découverte en plein air dans la ville et une visite muséale. L'événement est prévu le 10 décembre 2026 et s'adresse à tous ceux qui souhaitent en apprendre davantage sur les origines antiques de la ville.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:32:37.862293+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:adee3430-6c16-473e-81e2-3a60c90c8f79</id>
-    <title>Balade automnale sur les arbres remarquables de Toulouse</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/DECOUVERTE-AUTOMNALE-DE-NOS-PLUS-BEAUX-ARBRES.jpg"/&gt;
-&lt;p&gt;Une visite guidée propose de découvrir les plus beaux arbres de Toulouse à l&amp;#x27;automne, depuis la place du Capitole jusqu&amp;#x27;au jardin des Plantes. L&amp;#x27;événement réunit les gestionnaires des arbres de la ville, l&amp;#x27;Association des Arbres et Paysages d&amp;#x27;Autan et une guide de l&amp;#x27;Office de tourisme. Ensemble, ils racontent l&amp;#x27;histoire de Toulouse à travers son patrimoine arboré. La sortie s&amp;#x27;adresse à tous les curieux souhaitant redécouvrir la ville sous un angle botanique et historique.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/decouverte-automnale-de-nos-plus-beaux-arbres/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/decouverte-automnale-de-nos-plus-beaux-arbres/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Une visite guidée propose de découvrir les plus beaux arbres de Toulouse à l'automne, depuis la place du Capitole jusqu'au jardin des Plantes. L'événement réunit les gestionnaires des arbres de la ville, l'Association des Arbres et Paysages d'Autan et une guide de l'Office de tourisme. Ensemble, ils racontent l'histoire de Toulouse à travers son patrimoine arboré. La sortie s'adresse à tous les curieux souhaitant redécouvrir la ville sous un angle botanique et historique.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:32:14.824544+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8ca4d1b6-de1e-4b81-a120-0572fb6a2a97</id>
-    <title>Visite flash du Noviciat : plongez dans l'histoire de Toulouse</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/VISITE-FLASH-DU-NOVICIAT.jpg"/&gt;
-&lt;p&gt;Le Noviciat propose une visite flash immersive pour découvrir l&amp;#x27;histoire de Toulouse, de ses origines jusqu&amp;#x27;à ses transformations contemporaines. Le format est accessible et sans contrainte : aucune réservation n&amp;#x27;est nécessaire, il suffit de se présenter sur place. Ce type de visite courte et spontanée s&amp;#x27;adresse à un large public, curieux de l&amp;#x27;histoire locale ou simplement de passage. C&amp;#x27;est une occasion rare d&amp;#x27;explorer ce lieu chargé d&amp;#x27;histoire dans un cadre informel.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/visite-flash-du-noviciat/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/visite-flash-du-noviciat/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Noviciat propose une visite flash immersive pour découvrir l'histoire de Toulouse, de ses origines jusqu'à ses transformations contemporaines. Le format est accessible et sans contrainte : aucune réservation n'est nécessaire, il suffit de se présenter sur place. Ce type de visite courte et spontanée s'adresse à un large public, curieux de l'histoire locale ou simplement de passage. C'est une occasion rare d'explorer ce lieu chargé d'histoire dans un cadre informel.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:31:53.851734+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:52dc4ddf-3bfa-4647-9c2d-9839f43bbb91</id>
-    <title>6 bonnes adresses pour un repas de groupe à Toulouse</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6aaba147ba7936d7930c713e/hd/image.jpg?v=2"/&gt;
-&lt;p&gt;Toulouscope propose une sélection de six restaurants toulousains adaptés aux grandes tablées, que ce soit pour un repas d&amp;#x27;entreprise, un anniversaire ou une réunion de famille. Parmi les adresses citées, le Bota Pub (Compans-Caffarelli) peut accueillir jusqu&amp;#x27;à 100 personnes, avec des formules de groupe à partir de 32 euros incluant tapas et vin. Le Black Lion, situé côté Palais de Justice, propose une ambiance british chic avec des capacités similaires. L&amp;#x27;article met en avant la praticité des formules groupes et les atouts de chaque établissement pour simplifier l&amp;#x27;organisation de grands repas à Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/18/6-bonnes-adresses-pour-un-repas-de-groupe-a-toulouse-13550477.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/09/18/6-bonnes-adresses-pour-un-repas-de-groupe-a-toulouse-13550477.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouscope propose une sélection de six restaurants toulousains adaptés aux grandes tablées, que ce soit pour un repas d'entreprise, un anniversaire ou une réunion de famille. Parmi les adresses citées, le Bota Pub (Compans-Caffarelli) peut accueillir jusqu'à 100 personnes, avec des formules de groupe à partir de 32 euros incluant tapas et vin. Le Black Lion, situé côté Palais de Justice, propose une ambiance british chic avec des capacités similaires. L'article met en avant la praticité des formules groupes et les atouts de chaque établissement pour simplifier l'organisation de grands repas à Toulouse.</summary>
-    <category term="news"/>
-    <published>2026-09-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a5a4a145-7aeb-491d-a26f-05af2786a6d8</id>
-    <title>La Super Fête Foraine Saint-Michel s'installe au MEETT</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/fete-saint-michel-toulouse-fete-foraine-mlc-6-960x640-copie.jpg"/&gt;
-&lt;p&gt;La Super Fête Foraine Saint-Michel, la plus grande fête foraine de Toulouse, revient du 18 septembre au 11 octobre 2026 aux abords du MEETT à Aussonne. Plus de 150 attractions sont au programme, allant des classiques (train fantôme, château hanté, manèges, pêche aux canards) aux nouveautés spectaculaires de cette édition. Parmi les temps forts : la Mega King Tower, une tour de chute de 80 mètres à 100 km/h en 4 secondes, et l&amp;#x27;attraction Star Wars qui emmène les passagers à 30 mètres de hauteur tête en bas. La grande roue fait également son retour, et des parades Disney, Transformers, Avengers et Pat&amp;#x27; Patrouille animent chaque week-end — un événement pensé pour toute la famille.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux sources couvrent l&amp;#x27;événement de façon très similaire. Toulouscope détaille davantage les nouvelles attractions (Xtreme Top Scan, Horror Show, Mr Insomniac, Black Pearl, etc.) tandis que l&amp;#x27;Office du tourisme reste plus synthétique et renvoie vers le site officiel pour les informations pratiques.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Détail complet des nouvelles attractions et description de l&amp;#x27;ambiance&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Informations pratiques et lien vers le site officiel de la fête foraine&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/18/la-plus-grande-fete-foraine-de-toulouse-revient-avec-plus-de-150-attractions-13557587.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/09/18/la-plus-grande-fete-foraine-de-toulouse-revient-avec-plus-de-150-attractions-13557587.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Super Fête Foraine Saint-Michel, la plus grande fête foraine de Toulouse, revient du 18 septembre au 11 octobre 2026 aux abords du MEETT à Aussonne. Plus de 150 attractions sont au programme, allant des classiques (train fantôme, château hanté, manèges, pêche aux canards) aux nouveautés spectaculaires de cette édition. Parmi les temps forts : la Mega King Tower, une tour de chute de 80 mètres à 100 km/h en 4 secondes, et l'attraction Star Wars qui emmène les passagers à 30 mètres de hauteur tête en bas. La grande roue fait également son retour, et des parades Disney, Transformers, Avengers et Pat' Patrouille animent chaque week-end — un événement pensé pour toute la famille.</summary>
-    <category term="event"/>
-    <published>2026-09-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:056d986c-a4b7-4034-9846-56512ca4e50c</id>
-    <title>Gare Matabiau évacuée après un bagage abandonné, trafic interrompu une heure</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/img-20260918-084310.jpg"/&gt;
-&lt;p&gt;Vendredi 18 septembre 2026, vers 8h20, la gare Matabiau de Toulouse a été entièrement évacuée en raison d&amp;#x27;un bagage abandonné repéré dans l&amp;#x27;enceinte. Les voyageurs ont dû quitter les lieux et attendre sur le trottoir du boulevard Semard pendant l&amp;#x27;intervention des équipes spécialisées. La SNCF a confirmé à 8h40 l&amp;#x27;interruption totale des circulations à l&amp;#x27;arrivée et au départ de Toulouse-Matabiau. La reprise progressive du trafic n&amp;#x27;a été annoncée qu&amp;#x27;à partir de 9h15, après près d&amp;#x27;une heure d&amp;#x27;arrêt complet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-gare-matabiau-evacuee-a-toulouse-les-trains-totalement-a-l-arret-ce-qu-il-se-passe_64805883.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/la-gare-matabiau-evacuee-a-toulouse-les-trains-totalement-a-l-arret-ce-qu-il-se-passe_64805883.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Vendredi 18 septembre 2026, vers 8h20, la gare Matabiau de Toulouse a été entièrement évacuée en raison d'un bagage abandonné repéré dans l'enceinte. Les voyageurs ont dû quitter les lieux et attendre sur le trottoir du boulevard Semard pendant l'intervention des équipes spécialisées. La SNCF a confirmé à 8h40 l'interruption totale des circulations à l'arrivée et au départ de Toulouse-Matabiau. La reprise progressive du trafic n'a été annoncée qu'à partir de 9h15, après près d'une heure d'arrêt complet.</summary>
-    <category term="news"/>
-    <published>2026-09-18T08:52:29+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6a128f8a-0d99-4834-8121-fb5561bc9fb4</id>
-    <title>Bus rétro SEMVAT dans Toulouse pour les Journées du Patrimoine</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/bus-toulouse-patrimoine-circulation.jpg"/&gt;
-&lt;p&gt;À l&amp;#x27;occasion des Journées européennes du patrimoine, Tisséo Voyageurs et l&amp;#x27;association ASPTUIT remettent en circulation d&amp;#x27;anciens bus de la SEMVAT dans le centre-ville de Toulouse les 19 et 20 septembre 2026. Le samedi, une navette vintage relie les allées Paul-Sabatier au chantier de la future station Limayrac – Cité de l&amp;#x27;Espace (ligne C du métro), ouverte exceptionnellement aux visites de 10h à 17h. Le dimanche, deux bus SC10 de 1979, à plateforme ouverte à l&amp;#x27;arrière, effectuent sept rotations sur l&amp;#x27;ancienne ligne circulaire des boulevards autour de l&amp;#x27;hypercentre, au départ du Grand Rond. L&amp;#x27;événement s&amp;#x27;adresse aux nostalgiques des transports toulousains d&amp;#x27;antan comme aux curieux souhaitant découvrir le futur réseau de métro.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/avez-vous-connu-ces-vieux-bus-ils-circuleront-ce-week-end-dans-le-centre-ville-de-toulouse_64792147.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/avez-vous-connu-ces-vieux-bus-ils-circuleront-ce-week-end-dans-le-centre-ville-de-toulouse_64792147.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>À l'occasion des Journées européennes du patrimoine, Tisséo Voyageurs et l'association ASPTUIT remettent en circulation d'anciens bus de la SEMVAT dans le centre-ville de Toulouse les 19 et 20 septembre 2026. Le samedi, une navette vintage relie les allées Paul-Sabatier au chantier de la future station Limayrac – Cité de l'Espace (ligne C du métro), ouverte exceptionnellement aux visites de 10h à 17h. Le dimanche, deux bus SC10 de 1979, à plateforme ouverte à l'arrière, effectuent sept rotations sur l'ancienne ligne circulaire des boulevards autour de l'hypercentre, au départ du Grand Rond. L'événement s'adresse aux nostalgiques des transports toulousains d'antan comme aux curieux souhaitant découvrir le futur réseau de métro.</summary>
-    <category term="event"/>
-    <published>2026-09-18T10:41:50+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:13ed5da9-d798-40ec-b003-3e62eb29a923</id>
-    <title>Jubillar de nouveau entendu au Palais de justice de Toulouse</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/10/delphine-jubillar-albi-cagnac-proces.png"/&gt;
-&lt;p&gt;Cédric Jubillar a été entendu ce vendredi 18 septembre 2026 au Palais de justice de Toulouse, deux semaines avant une reconstitution prévue au pavillon de Cagnac-les-Mines dans le Tarn. Cette audition, confirmée par l&amp;#x27;AFP et La Dépêche, était très attendue par les avocats des parties civiles afin de préciser le déroulé de la nuit du 15 au 16 septembre 2020. Cinq ans et demi après les faits, Jubillar avait avoué en juillet dernier avoir étranglé son épouse Delphine lors d&amp;#x27;une dispute, livrant un premier récit aux enquêteurs. La nouvelle audition doit permettre d&amp;#x27;approfondir ce récit avant la reconstitution judiciaire.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cedric-jubillar-de-nouveau-entendu-par-la-justice-a-toulouse-que-dira-t-il-de-plus-sur-la-nuit-du-drame_64807658.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cedric-jubillar-de-nouveau-entendu-par-la-justice-a-toulouse-que-dira-t-il-de-plus-sur-la-nuit-du-drame_64807658.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Cédric Jubillar a été entendu ce vendredi 18 septembre 2026 au Palais de justice de Toulouse, deux semaines avant une reconstitution prévue au pavillon de Cagnac-les-Mines dans le Tarn. Cette audition, confirmée par l'AFP et La Dépêche, était très attendue par les avocats des parties civiles afin de préciser le déroulé de la nuit du 15 au 16 septembre 2020. Cinq ans et demi après les faits, Jubillar avait avoué en juillet dernier avoir étranglé son épouse Delphine lors d'une dispute, livrant un premier récit aux enquêteurs. La nouvelle audition doit permettre d'approfondir ce récit avant la reconstitution judiciaire.</summary>
-    <category term="news"/>
-    <published>2026-09-18T13:32:56+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:081edbe4-aa46-40b8-9dbe-8cafd43bf859</id>
-    <title>Journées du Patrimoine 2026 : 170 animations gratuites à Toulouse</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Equipe-guide-Hotel-d-Assezat-copie.jpg"/&gt;
-&lt;p&gt;Les 19 et 20 septembre 2026, Toulouse accueille la 43e édition des Journées européennes du patrimoine, placée sous le signe de la photographie et du patrimoine en péril. Plus de 170 animations, visites et ouvertures exceptionnelles sont prévues dans toute la métropole, la grande majorité gratuites. Parmi les temps forts : l&amp;#x27;ouverture inédite du Noviciat (nouvel espace dédié au patrimoine place de la Daurade), la première ouverture de la mosquée du Mirail au public patrimonial, et la visite des chantiers de la future Ligne C du métro. Des sites habituellement fermés — Banque de France, Palais Niel, Couvent des Dominicains, Bourse du travail, Académie des Jeux Floraux — dévoilent également leurs coulisses.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Toulouscope et Actu Toulouse proposent des sélections éditoriales de sites à ne pas manquer, tandis que l&amp;#x27;Office du tourisme et Tourinsoft.com offrent une vue d&amp;#x27;ensemble pratique avec horaires et modalités. L&amp;#x27;Essentiel met davantage l&amp;#x27;accent sur les premières fois et les événements du vendredi soir (table ronde au musée des Augustins, ouverture anticipée de l&amp;#x27;École d&amp;#x27;économie).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Lieux insolites et rarement accessibles, dont le chantier Ligne C du métro et le Noviciat&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Sélection éditoriale de 10 visites coups de cœur, dont Aeroscopia et la Banque de France&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Événements du vendredi soir et premières fois (mosquée du Mirail, table ronde musée des Augustins)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;tourinsoft.com&lt;/strong&gt;: Liste pratique des sites avec horaires et accès direct aux fiches détaillées&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/journees-europeennes-du-patrimoine-a-toulouse-ces-lieux-insolites-n-ouvrent-presque-jamais-leurs-portes-au-public_64772459.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/journees-europeennes-du-patrimoine-a-toulouse-ces-lieux-insolites-n-ouvrent-presque-jamais-leurs-portes-au-public_64772459.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les 19 et 20 septembre 2026, Toulouse accueille la 43e édition des Journées européennes du patrimoine, placée sous le signe de la photographie et du patrimoine en péril. Plus de 170 animations, visites et ouvertures exceptionnelles sont prévues dans toute la métropole, la grande majorité gratuites. Parmi les temps forts : l'ouverture inédite du Noviciat (nouvel espace dédié au patrimoine place de la Daurade), la première ouverture de la mosquée du Mirail au public patrimonial, et la visite des chantiers de la future Ligne C du métro. Des sites habituellement fermés — Banque de France, Palais Niel, Couvent des Dominicains, Bourse du travail, Académie des Jeux Floraux — dévoilent également leurs coulisses.</summary>
-    <category term="event"/>
-    <published>2026-09-18T13:38:31+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:03da96f2-524a-419f-80f1-5571116da00d</id>
-    <title>Deux affaires de coups de couteau secouent Toulouse en septembre</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/police-nuit-jb-intervention.jpg"/&gt;
-&lt;p&gt;Deux incidents distincts impliquant des agressions à l&amp;#x27;arme blanche ont marqué Toulouse en septembre 2026. Le 11 septembre, place de Milan à La Reynerie, un trentenaire retrouvé poignardé s&amp;#x27;est révélé être l&amp;#x27;auteur de ses propres blessures : les caméras de surveillance ont montré qu&amp;#x27;il avait frappé sa compagne avant de se poignarder lui-même, accusant ensuite faussement cette dernière. À son réveil dans l&amp;#x27;ambulance, il a agressé soignants et policiers, blessant trois agents dont un évacué à l&amp;#x27;hôpital. Le 17 septembre, dans un bureau de tabac du quartier Empalot, un homme de 51 ans a reçu plusieurs coups de couteau pour avoir simplement demandé à un individu bruyant de se calmer devant le commerce Le Havane ; le suspect, interpellé à un arrêt de bus par la BAC, était connu de la victime, et cette dernière s&amp;#x27;en est finalement sortie avec des blessures superficielles.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux premiers articles couvrent l&amp;#x27;affaire de La Reynerie : le premier se concentre sur l&amp;#x27;agression des secouristes, le second révèle la mise en scène du suspect et le rôle des caméras. Les deux derniers articles couvrent l&amp;#x27;affaire d&amp;#x27;Empalot : le premier relate les faits à chaud, le second apporte le motif dérisoire et l&amp;#x27;état de santé rassurant de la victime.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 1 (La Reynerie)&lt;/strong&gt;: L&amp;#x27;agression des policiers et soignants venus porter secours&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 2 (La Reynerie)&lt;/strong&gt;: La révélation par vidéosurveillance : l&amp;#x27;homme s&amp;#x27;était poignardé lui-même&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 3 (Empalot)&lt;/strong&gt;: Le récit de l&amp;#x27;agression dans le bureau de tabac Le Havane&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 4 (Empalot)&lt;/strong&gt;: Le motif de l&amp;#x27;agression et l&amp;#x27;état de santé de la victime&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-homme-poignarde-dans-un-bureau-de-tabac-a-toulouse-va-mieux-l-agression-a-demarre-pour-un-fait-derisoire_64807618.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/l-homme-poignarde-dans-un-bureau-de-tabac-a-toulouse-va-mieux-l-agression-a-demarre-pour-un-fait-derisoire_64807618.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Deux incidents distincts impliquant des agressions à l'arme blanche ont marqué Toulouse en septembre 2026. Le 11 septembre, place de Milan à La Reynerie, un trentenaire retrouvé poignardé s'est révélé être l'auteur de ses propres blessures : les caméras de surveillance ont montré qu'il avait frappé sa compagne avant de se poignarder lui-même, accusant ensuite faussement cette dernière. À son réveil dans l'ambulance, il a agressé soignants et policiers, blessant trois agents dont un évacué à l'hôpital. Le 17 septembre, dans un bureau de tabac du quartier Empalot, un homme de 51 ans a reçu plusieurs coups de couteau pour avoir simplement demandé à un individu bruyant de se calmer devant le commerce Le Havane ; le suspect, interpellé à un arrêt de bus par la BAC, était connu de la victime, et cette dernière s'en est finalement sortie avec des blessures superficielles.</summary>
-    <category term="news"/>
-    <published>2026-09-18T13:45:47+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:14a03861-a2b5-431e-9ec0-3e9d844f77fd</id>
-    <title>Le TFC célèbre ses 40 ans de victoire contre le Naples de Maradona</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/naples-1.png"/&gt;
-&lt;p&gt;Le Toulouse FC lance la campagne « Octobre 86 » pour commémorer le 40e anniversaire d&amp;#x27;un exploit mémorable : le 1er octobre 1986, le club toulousain avait éliminé le Naples de Diego Maradona au Stadium, en Coupe de l&amp;#x27;UEFA, grâce à un but de Yannick Stopyra puis une victoire aux tirs au but (4-3), Maradona ayant raté sa tentative sur le poteau. Le club sort pour l&amp;#x27;occasion une collection dédiée et un film inédit avec des témoins de l&amp;#x27;époque, dont le joueur Jean-Philippe Delpech et des supporters historiques. La campagne mêle souvenirs authentiques, anecdotes transmises de génération en génération et une dose de passion collective. Elle s&amp;#x27;adresse à toute la communauté violette, des anciens qui ont vécu la soirée aux jeunes supporters qui en ont hérité la légende.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/40-ans-apres-le-match-mythique-contre-le-naples-de-maradona-le-tfc-lance-une-collection-dediee-a-un-exploit-inoubliable_64807891.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/40-ans-apres-le-match-mythique-contre-le-naples-de-maradona-le-tfc-lance-une-collection-dediee-a-un-exploit-inoubliable_64807891.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Toulouse FC lance la campagne « Octobre 86 » pour commémorer le 40e anniversaire d'un exploit mémorable : le 1er octobre 1986, le club toulousain avait éliminé le Naples de Diego Maradona au Stadium, en Coupe de l'UEFA, grâce à un but de Yannick Stopyra puis une victoire aux tirs au but (4-3), Maradona ayant raté sa tentative sur le poteau. Le club sort pour l'occasion une collection dédiée et un film inédit avec des témoins de l'époque, dont le joueur Jean-Philippe Delpech et des supporters historiques. La campagne mêle souvenirs authentiques, anecdotes transmises de génération en génération et une dose de passion collective. Elle s'adresse à toute la communauté violette, des anciens qui ont vécu la soirée aux jeunes supporters qui en ont hérité la légende.</summary>
-    <category term="news"/>
-    <published>2026-09-18T15:27:43+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:73ecd5b3-402b-48d1-9dbb-35d63bccb0de</id>
-    <title>La préfecture interdit une conférence négationniste secrète à Toulouse</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/vincent-reynouard-tribunal-saverne.jpg"/&gt;
-&lt;p&gt;Le préfet de la Haute-Garonne Fabrice Rigoulet-Roze a pris un arrêté le vendredi 18 septembre 2026 pour interdire une conférence prévue le lendemain à Toulouse par Vincent Reynouard, négationniste multicondamné. L&amp;#x27;événement, intitulé « Un homme face à la répression », était organisé par l&amp;#x27;association toulousaine France Patrie, décrite par la préfecture comme une structure à idéologie complotiste et négationniste. Le lieu de la conférence était délibérément tenu secret, l&amp;#x27;association ne devant communiquer l&amp;#x27;adresse aux inscrits que quelques heures avant via SMS. La préfecture rappelle que Reynouard, présenté par l&amp;#x27;association comme un « historien », a été révoqué de l&amp;#x27;Éducation nationale dès 1997 pour des méthodes d&amp;#x27;enseignement négationnistes et compte de multiples condamnations à son actif.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-negationniste-multicondamne-voulait-tenir-une-conference-secrete-a-toulouse-la-prefecture-l-interdit_64808790.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/un-negationniste-multicondamne-voulait-tenir-une-conference-secrete-a-toulouse-la-prefecture-l-interdit_64808790.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le préfet de la Haute-Garonne Fabrice Rigoulet-Roze a pris un arrêté le vendredi 18 septembre 2026 pour interdire une conférence prévue le lendemain à Toulouse par Vincent Reynouard, négationniste multicondamné. L'événement, intitulé « Un homme face à la répression », était organisé par l'association toulousaine France Patrie, décrite par la préfecture comme une structure à idéologie complotiste et négationniste. Le lieu de la conférence était délibérément tenu secret, l'association ne devant communiquer l'adresse aux inscrits que quelques heures avant via SMS. La préfecture rappelle que Reynouard, présenté par l'association comme un « historien », a été révoqué de l'Éducation nationale dès 1997 pour des méthodes d'enseignement négationnistes et compte de multiples condamnations à son actif.</summary>
-    <category term="news"/>
-    <published>2026-09-18T18:02:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:bd9f54ac-3693-42d8-834a-2304471f0eea</id>
-    <title>Guillaume Restes du TFC appelé pour la première fois en équipe de France</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/guillaume-restes-tfc-appele-par-lequipe-de-france-de-zinedine-zidane.jpg"/&gt;
-&lt;p&gt;Zinédine Zidane, nommé sélectionneur de l&amp;#x27;équipe de France en août, a dévoilé sa première liste pour la Ligue des Nations le vendredi 18 septembre, avec une surprise de taille pour Toulouse : la première convocation du gardien Guillaume Restes, formé au TFC. Il sera la doublure de Mike Maignan, en concurrence avec Robin Risser. Cette sélection doit beaucoup à Fabien Barthez, lui aussi formé au TFC et récemment nommé entraîneur des gardiens dans le staff de Zidane, qui avait repéré Restes dès ses 13 ou 14 ans au centre de formation. C&amp;#x27;est la première fois depuis octobre 2012 — et les sélections d&amp;#x27;Étienne Capoue et Moussa Sissoko — qu&amp;#x27;un joueur du TFC est appelé en équipe de France.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/guillaume-restes-le-gardien-du-toulouse-football-club-appele-par-zinedine-zidane-en-equipe-de-france_64810167.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/guillaume-restes-le-gardien-du-toulouse-football-club-appele-par-zinedine-zidane-en-equipe-de-france_64810167.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Zinédine Zidane, nommé sélectionneur de l'équipe de France en août, a dévoilé sa première liste pour la Ligue des Nations le vendredi 18 septembre, avec une surprise de taille pour Toulouse : la première convocation du gardien Guillaume Restes, formé au TFC. Il sera la doublure de Mike Maignan, en concurrence avec Robin Risser. Cette sélection doit beaucoup à Fabien Barthez, lui aussi formé au TFC et récemment nommé entraîneur des gardiens dans le staff de Zidane, qui avait repéré Restes dès ses 13 ou 14 ans au centre de formation. C'est la première fois depuis octobre 2012 — et les sélections d'Étienne Capoue et Moussa Sissoko — qu'un joueur du TFC est appelé en équipe de France.</summary>
-    <category term="news"/>
-    <published>2026-09-18T18:21:00+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:049f25b1-f5a4-43e1-afd5-6ddea20b0273</id>
-    <title>Fermeture prévue de l'école maternelle Petit Gragnague en 2027</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/ecole-toulouse-sept-deniers.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;école maternelle du Petit Gragnague, accolée au collège des Ponts-Jumeaux à Toulouse, doit fermer ses portes à la rentrée 2027, selon une annonce faite par la mairie lors d&amp;#x27;une réunion le 17 septembre 2026. La décision est motivée par la baisse démographique : les naissances dans ce secteur ont chuté de 16 % entre 2020 et 2025, et l&amp;#x27;école ne devrait accueillir que 30 élèves en 2027, contre 41 actuellement. Face à cette annonce, les habitants se sont organisés : un collectif « Sauvons Petit Gragnague » a vu le jour et une pétition a recueilli plus de 1 024 signatures en une semaine. L&amp;#x27;adjointe à l&amp;#x27;éducation Marion Lalane de Laubadère défend la décision au nom de l&amp;#x27;équité des moyens, mais les parents d&amp;#x27;élèves insistent sur le rôle de lien social que joue cette école de quartier.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-petite-ecole-de-quartier-va-fermer-ses-portes-a-toulouse-face-a-l-annonce-ces-habitants-montent-au-creneau_64798196.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/une-petite-ecole-de-quartier-va-fermer-ses-portes-a-toulouse-face-a-l-annonce-ces-habitants-montent-au-creneau_64798196.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'école maternelle du Petit Gragnague, accolée au collège des Ponts-Jumeaux à Toulouse, doit fermer ses portes à la rentrée 2027, selon une annonce faite par la mairie lors d'une réunion le 17 septembre 2026. La décision est motivée par la baisse démographique : les naissances dans ce secteur ont chuté de 16 % entre 2020 et 2025, et l'école ne devrait accueillir que 30 élèves en 2027, contre 41 actuellement. Face à cette annonce, les habitants se sont organisés : un collectif « Sauvons Petit Gragnague » a vu le jour et une pétition a recueilli plus de 1 024 signatures en une semaine. L'adjointe à l'éducation Marion Lalane de Laubadère défend la décision au nom de l'équité des moyens, mais les parents d'élèves insistent sur le rôle de lien social que joue cette école de quartier.</summary>
-    <category term="news"/>
-    <published>2026-09-18T18:56:08+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:70c2567c-df65-4af5-a58e-ed7050d48d3e</id>
-    <title>Jeune femme secourue en urgence sur les rives de la Garonne</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/whatsapp-image-2026-08-21-at-142233-2.jpeg"/&gt;
-&lt;p&gt;Ce vendredi 18 septembre 2026, peu avant 11h, les pompiers de Toulouse ont été appelés pour secourir une femme de 21 ans retrouvée en contrebas du boulevard Richard-Wagner, sur les rives de la Garonne dans le secteur de la Cartoucherie. Son état de santé était jugé « dégradé » au moment de la découverte. La zone, difficilement accessible, a nécessité l&amp;#x27;intervention de spécialistes en milieux périlleux pour atteindre la victime et procéder à son extraction. Elle a été transportée en urgence absolue au CHU de Purpan, avec un dispositif de onze pompiers et sept engins mobilisés. Les circonstances exactes de sa présence dans cette zone restent floues à ce stade.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-femme-de-21-ans-secourue-sur-les-rives-de-la-garonne-a-toulouse-des-specialistes-des-milieux-perilleux-deployes_64810426.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/une-femme-de-21-ans-secourue-sur-les-rives-de-la-garonne-a-toulouse-des-specialistes-des-milieux-perilleux-deployes_64810426.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce vendredi 18 septembre 2026, peu avant 11h, les pompiers de Toulouse ont été appelés pour secourir une femme de 21 ans retrouvée en contrebas du boulevard Richard-Wagner, sur les rives de la Garonne dans le secteur de la Cartoucherie. Son état de santé était jugé « dégradé » au moment de la découverte. La zone, difficilement accessible, a nécessité l'intervention de spécialistes en milieux périlleux pour atteindre la victime et procéder à son extraction. Elle a été transportée en urgence absolue au CHU de Purpan, avec un dispositif de onze pompiers et sept engins mobilisés. Les circonstances exactes de sa présence dans cette zone restent floues à ce stade.</summary>
-    <category term="news"/>
-    <published>2026-09-18T19:21:37+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:2e2224ee-6b87-47e2-944e-9ac16bf0668f</id>
-    <title>La Fnac déménage de 43 mètres dans l'immeuble des Variétés</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/fnac-varietes-toulouse-gr.jpg"/&gt;
-&lt;p&gt;La Fnac Toulouse s&amp;#x27;apprête à ouvrir son nouveau magasin dans l&amp;#x27;immeuble des Variétés, entièrement réhabilité par Caso Patrimoine, face à la station de métro Jean-Jaurès. Le déménagement est l&amp;#x27;un des plus courts de l&amp;#x27;histoire commerciale toulousaine : seulement 43 mètres séparent l&amp;#x27;actuel emplacement, dans l&amp;#x27;immeuble dit des « Américains » occupé depuis 1993, du nouveau site. Le nouvel écrin s&amp;#x27;installe dans un bâtiment à façade Art-Déco qui accueillit autrefois un cinéma UGC puis un théâtre, désormais entièrement rénové et agrandi. L&amp;#x27;ouverture est attendue d&amp;#x27;ici quelques jours, ce qui en fait l&amp;#x27;événement commercial le plus attendu de 2026 à Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-fnac-demenage-de-43-metres-quand-ouvre-le-nouveau-magasin-a-toulouse-quand-ferme-l-actuel-ce-qu-il-faut-savoir_64795821.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/la-fnac-demenage-de-43-metres-quand-ouvre-le-nouveau-magasin-a-toulouse-quand-ferme-l-actuel-ce-qu-il-faut-savoir_64795821.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Fnac Toulouse s'apprête à ouvrir son nouveau magasin dans l'immeuble des Variétés, entièrement réhabilité par Caso Patrimoine, face à la station de métro Jean-Jaurès. Le déménagement est l'un des plus courts de l'histoire commerciale toulousaine : seulement 43 mètres séparent l'actuel emplacement, dans l'immeuble dit des « Américains » occupé depuis 1993, du nouveau site. Le nouvel écrin s'installe dans un bâtiment à façade Art-Déco qui accueillit autrefois un cinéma UGC puis un théâtre, désormais entièrement rénové et agrandi. L'ouverture est attendue d'ici quelques jours, ce qui en fait l'événement commercial le plus attendu de 2026 à Toulouse.</summary>
-    <category term="news"/>
-    <published>2026-09-19T06:04:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:14f30f0d-abf0-4f5d-884a-816cec0b347e</id>
-    <title>Raphaël, greffé après un cancer du sang, se mobilise pour le don de moelle</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/raphael-don-moelle-ossuese-toulouse-lf.jpeg"/&gt;
-&lt;p&gt;Raphaël, un jeune Toulousain d&amp;#x27;une vingtaine d&amp;#x27;années atteint d&amp;#x27;un cancer du sang depuis 2017, a pu bénéficier d&amp;#x27;une greffe de moelle osseuse le 2 décembre dernier à l&amp;#x27;Oncopole de Toulouse, après avoir lancé un appel public à l&amp;#x27;été 2025 faute de donneur compatible. Son donneur, retrouvé en fin d&amp;#x27;année, est originaire des États-Unis et d&amp;#x27;origine asiatique. Rétabli, Raphaël a repris ses études et est retourné à l&amp;#x27;Oncopole pour soutenir la Fédération Leucémie Espoir et encourager le don de moelle osseuse. Sa mobilisation coïncide avec la Journée mondiale du don de moelle osseuse, célébrée le 19 septembre.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cancer-du-sang-apres-sa-greffe-raphael-a-repris-ses-etudes-et-se-mobilise-pour-le-don-de-moelle-osseuse_64804565.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cancer-du-sang-apres-sa-greffe-raphael-a-repris-ses-etudes-et-se-mobilise-pour-le-don-de-moelle-osseuse_64804565.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Raphaël, un jeune Toulousain d'une vingtaine d'années atteint d'un cancer du sang depuis 2017, a pu bénéficier d'une greffe de moelle osseuse le 2 décembre dernier à l'Oncopole de Toulouse, après avoir lancé un appel public à l'été 2025 faute de donneur compatible. Son donneur, retrouvé en fin d'année, est originaire des États-Unis et d'origine asiatique. Rétabli, Raphaël a repris ses études et est retourné à l'Oncopole pour soutenir la Fédération Leucémie Espoir et encourager le don de moelle osseuse. Sa mobilisation coïncide avec la Journée mondiale du don de moelle osseuse, célébrée le 19 septembre.</summary>
-    <category term="news"/>
-    <published>2026-09-19T06:42:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:9a62753e-ffd3-435c-826f-9c4dbd356dd2</id>
-    <title>Le vélo bat des records à Toulouse, porté par la hausse des carburants</title>
-    <updated>2026-09-19T06:43:08.740763+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/velo-toulouse-piste-cyclable-lf-matabiau.jpg"/&gt;
-&lt;p&gt;Depuis la rentrée de septembre 2026, les pistes cyclables de Toulouse connaissent une fréquentation record, portée par la hausse des prix des carburants et le développement continu du Réseau Express Vélo (REV). Le totem de comptage situé boulevard de Bonrepos a franchi le seuil du million de passages le 10 septembre 2026, soit près d&amp;#x27;un mois avant la même date en 2025. Maxime Boyer, adjoint au maire en charge du vélo, confirme que la quasi-totalité des compteurs affichent des chiffres sans précédent, notamment là où le REV s&amp;#x27;est étendu. Ce phénomène concerne l&amp;#x27;ensemble de l&amp;#x27;agglomération toulousaine et est corroboré par les données de Toulouse Métropole et Tisséo.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/en-pleine-envolee-du-prix-des-carburants-la-pratique-du-velo-bat-des-records-a-toulouse_64806909.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/en-pleine-envolee-du-prix-des-carburants-la-pratique-du-velo-bat-des-records-a-toulouse_64806909.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Depuis la rentrée de septembre 2026, les pistes cyclables de Toulouse connaissent une fréquentation record, portée par la hausse des prix des carburants et le développement continu du Réseau Express Vélo (REV). Le totem de comptage situé boulevard de Bonrepos a franchi le seuil du million de passages le 10 septembre 2026, soit près d'un mois avant la même date en 2025. Maxime Boyer, adjoint au maire en charge du vélo, confirme que la quasi-totalité des compteurs affichent des chiffres sans précédent, notamment là où le REV s'est étendu. Ce phénomène concerne l'ensemble de l'agglomération toulousaine et est corroboré par les données de Toulouse Métropole et Tisséo.</summary>
-    <category term="news"/>
-    <published>2026-09-19T07:12:01+02:00</published>
-  </entry>
   <entry>
     <id>cluster:660529a4-5e49-4942-83ab-aa91277b707f</id>
     <title>Louise et Gabriel, prénoms préférés des Français en 2027</title>
@@ -3230,6 +2708,23 @@
     <published>2026-09-22T07:31:11.952667+00:00</published>
   </entry>
   <entry>
+    <id>cluster:1fd5f0f0-c28d-4db0-9a6d-0d8c70a881d2</id>
+    <title>Visites guidées thématiques de Toulouse par l'Office de Tourisme</title>
+    <updated>2026-09-22T08:25:20.893031+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Hotel-de-pierre--Remi-Deligeon.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose plusieurs visites guidées thématiques pour découvrir la ville sous différents angles historiques et architecturaux. « Toulouse à la Renaissance » retrace la reconstruction de la ville après le grand incendie de 1463 et l&amp;#x27;essor du commerce du pastel. « Toulouse dans les Années Folles » explore le patrimoine Art déco des années 1920-1940 à travers immeubles, mosaïques et ferronneries. « Toulouse by Night » accompagne les visiteurs de nuit, du Capitole aux Jacobins et aux bords de Garonne, tandis que « Toulouse à l&amp;#x27;aube du soir » propose une balade crépusculaire le long des quais, du port Viguerie à la Daurade. Ces visites s&amp;#x27;adressent aussi bien aux touristes qu&amp;#x27;aux Toulousains curieux de leur propre patrimoine, avec des dates échelonnées de juillet à décembre 2026.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les quatre items sont des fiches de visites guidées distinctes, chacune avec sa propre thématique, son lieu de départ et sa date. Elles partagent le même organisateur (Office de Tourisme) mais couvrent des périodes et des quartiers différents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE A LA RENAISSANCE)&lt;/strong&gt;: Histoire de la Renaissance toulousaine et du pastel, quartier historique&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE DANS LES ANNÉES FOLLES)&lt;/strong&gt;: Architecture Art déco entre-deux-guerres&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE BY NIGHT)&lt;/strong&gt;: Balade nocturne et illuminations de la ville&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE À L&amp;#x27;AUBE DU SOIR)&lt;/strong&gt;: Promenade crépusculaire le long de la Garonne&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/toulouse-a-laube-du-soir/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/toulouse-a-laube-du-soir/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'Office de Tourisme de Toulouse propose plusieurs visites guidées thématiques pour découvrir la ville sous différents angles historiques et architecturaux. « Toulouse à la Renaissance » retrace la reconstruction de la ville après le grand incendie de 1463 et l'essor du commerce du pastel. « Toulouse dans les Années Folles » explore le patrimoine Art déco des années 1920-1940 à travers immeubles, mosaïques et ferronneries. « Toulouse by Night » accompagne les visiteurs de nuit, du Capitole aux Jacobins et aux bords de Garonne, tandis que « Toulouse à l'aube du soir » propose une balade crépusculaire le long des quais, du port Viguerie à la Daurade. Ces visites s'adressent aussi bien aux touristes qu'aux Toulousains curieux de leur propre patrimoine, avec des dates échelonnées de juillet à décembre 2026.</summary>
+    <category term="event"/>
+    <published>2026-09-22T07:30:34.983985+00:00</published>
+  </entry>
+  <entry>
     <id>cluster:73f3667c-f868-4170-bc63-d27803c099f6</id>
     <title>Tom Baldetti en stand-up au Hall Comminges de Colomiers</title>
     <updated>2026-09-22T08:25:20.893031+00:00</updated>
@@ -3407,6 +2902,21 @@
     <summary>Le cycle Pianomuses propose deux concerts de musique de salon du XIXe siècle à la Chapelle des Carmélites. Le 27 septembre, le duo G. Hecher et E. Jedlička-Gogova interprétera des ouvertures et transcriptions orchestrales pour piano à quatre mains, notamment sur un Streicher viennois de 1860 restauré par Hecher lui-même. Le 4 octobre, P. Langot au violoncelle Bernardel de 1829 et F. Henry au piano mettront en lumière les œuvres pour cette formation de Chopin et Schumann, deux compositeurs romantiques qui voyaient dans le violoncelle l'instrument idéal pour imiter la voix humaine. Ces concerts s'adressent aux amateurs de musique classique et de patrimoine instrumental rare.</summary>
     <category term="event"/>
     <published>2026-09-22T07:24:35.217088+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:35900ab6-0628-4e1e-bf41-b72e2c730958</id>
+    <title>Randos-vélo gratuites de Toulouse Métropole : graffitis et passerelle de Gagnac</title>
+    <updated>2026-09-22T08:25:20.893031+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Paulette-bike---Remi-Deligeon-copie.jpg"/&gt;
+&lt;p&gt;Toulouse Métropole propose deux randonnées vélo gratuites au départ de la statue Riquet, côté Canal du Midi. Le premier parcours, le 4 octobre 2026, longe les bords de Garonne jusqu&amp;#x27;à la passerelle de Gagnac pour plus de 30 km. Le second, le 8 novembre 2026, invite à découvrir les graffitis de la ville sur un trajet de 15 à 20 km. Les deux sorties sont encadrées par des accompagnateurs de Toulouse Métropole, l&amp;#x27;inscription est obligatoire sur metropole.toulouse.fr, et une annulation reste possible en cas de mauvais temps ou de faible participation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/rando-velo-passerelle-de-gagnac/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/rando-velo-passerelle-de-gagnac/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse Métropole propose deux randonnées vélo gratuites au départ de la statue Riquet, côté Canal du Midi. Le premier parcours, le 4 octobre 2026, longe les bords de Garonne jusqu'à la passerelle de Gagnac pour plus de 30 km. Le second, le 8 novembre 2026, invite à découvrir les graffitis de la ville sur un trajet de 15 à 20 km. Les deux sorties sont encadrées par des accompagnateurs de Toulouse Métropole, l'inscription est obligatoire sur metropole.toulouse.fr, et une annulation reste possible en cas de mauvais temps ou de faible participation.</summary>
+    <category term="event"/>
+    <published>2026-09-22T07:23:52.134711+00:00</published>
   </entry>
   <entry>
     <id>cluster:fa754892-6d09-41d9-9c06-a69519fb1b6c</id>
@@ -3934,21 +3444,6 @@
     <published>2026-09-22T07:08:25.009245+00:00</published>
   </entry>
   <entry>
-    <id>cluster:dba83357-da99-4e81-8142-01481e0ee73d</id>
-    <title>HEXAGONE MMA de retour au Zénith de Toulouse le 25 septembre</title>
-    <updated>2026-09-22T08:25:20.893031+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/MMA.jpg"/&gt;
-&lt;p&gt;HEXAGONE MMA, fondée en 2021 et devenue la première organisation de MMA en France, revient à Toulouse pour une soirée de combats au Zénith Métropole le 25 septembre 2026. L&amp;#x27;événement met à l&amp;#x27;honneur les talents locaux, avec en tête d&amp;#x27;affiche le Toulousain Owen Jason, présenté comme l&amp;#x27;un des plus grands espoirs du MMA français. Un combattant local sera représenté dans presque chaque combat de la soirée, faisant de ce gala un événement particulièrement ancré dans la scène toulousaine. Les amateurs de sports de combat de la région sont directement concernés par ce retour de la ligue dans sa ville d&amp;#x27;origine.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/hexagone-mma/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/hexagone-mma/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>HEXAGONE MMA, fondée en 2021 et devenue la première organisation de MMA en France, revient à Toulouse pour une soirée de combats au Zénith Métropole le 25 septembre 2026. L'événement met à l'honneur les talents locaux, avec en tête d'affiche le Toulousain Owen Jason, présenté comme l'un des plus grands espoirs du MMA français. Un combattant local sera représenté dans presque chaque combat de la soirée, faisant de ce gala un événement particulièrement ancré dans la scène toulousaine. Les amateurs de sports de combat de la région sont directement concernés par ce retour de la ligue dans sa ville d'origine.</summary>
-    <category term="event"/>
-    <published>2026-09-22T07:07:42.522991+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:a2bfb256-4262-4577-acf9-f6cb4833ce0f</id>
     <title>Spectacle comique « Le Meilleur de l'Homme » au Café Théâtre Les 3T</title>
     <updated>2026-09-22T08:25:20.893031+00:00</updated>
@@ -4431,6 +3926,23 @@
     <published>2026-09-22T06:41:31.942153+00:00</published>
   </entry>
   <entry>
+    <id>cluster:3308be04-d0a0-4863-ad8c-0677632705bc</id>
+    <title>Visite guidée des grands monuments de Toulouse avec l'Office de Tourisme</title>
+    <updated>2026-09-22T08:25:20.893031+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Place-du-Capitole---Remi-Deligeon-copie-7.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose une visite guidée à pied des principaux monuments de la ville rose. Le parcours passe par la place du Capitole, la basilique Saint-Sernin (classée au patrimoine mondial sur le chemin de Saint-Jacques-de-Compostelle), le couvent des Jacobins et les bords de la Garonne. La version anglophone inclut également une halte dans la cour de l&amp;#x27;Hôtel d&amp;#x27;Assézat, l&amp;#x27;un des plus beaux hôtels particuliers de Toulouse. La visite est à la fois historique et accessible, idéale pour les nouveaux arrivants comme pour les touristes de passage.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;La version espagnole part de l&amp;#x27;Office de Tourisme et met l&amp;#x27;accent sur la Garonne et l&amp;#x27;ambiance de la ville ; la version anglaise se termine à l&amp;#x27;Hôtel d&amp;#x27;Assézat et insiste davantage sur le côté ludique et photographique de la visite. Les itinéraires peuvent légèrement différer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE Y SUS MONUMENTOS)&lt;/strong&gt;: Version en espagnol, avec détails sur le code vestimentaire à Saint-Sernin et ambiance bords de Garonne&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (GREAT MONUMENTS OF TOULOUSE)&lt;/strong&gt;: Version en anglais, avec halte à l&amp;#x27;Hôtel d&amp;#x27;Assézat et ton décontracté pour les anglophones&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/great-monuments-of-toulouse/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/great-monuments-of-toulouse/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'Office de Tourisme de Toulouse propose une visite guidée à pied des principaux monuments de la ville rose. Le parcours passe par la place du Capitole, la basilique Saint-Sernin (classée au patrimoine mondial sur le chemin de Saint-Jacques-de-Compostelle), le couvent des Jacobins et les bords de la Garonne. La version anglophone inclut également une halte dans la cour de l'Hôtel d'Assézat, l'un des plus beaux hôtels particuliers de Toulouse. La visite est à la fois historique et accessible, idéale pour les nouveaux arrivants comme pour les touristes de passage.</summary>
+    <category term="event"/>
+    <published>2026-09-22T06:40:47.301678+00:00</published>
+  </entry>
+  <entry>
     <id>cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc</id>
     <title>Visite guidée « Petites Histoires de Quartier » à Saint-Cyprien</title>
     <updated>2026-09-22T08:25:20.893031+00:00</updated>
@@ -4549,21 +4061,6 @@
     <summary>Le Festival de Photo MAP investit le quartier Saint-Cyprien du 11 au 27 septembre 2026 pour plus de deux semaines de programmation artistique en accès libre. Deux artistes phares sont à l'honneur : Edward Curtis et Zen Lefort, tous deux ayant exploré les cultures amérindiennes pour inviter le public à revisiter l'histoire. Le directeur artistique Ulrich Lebeuf a conçu une sélection mêlant expositions, rencontres et projections. La programmation complète est disponible sur le site du festival.</summary>
     <category term="event"/>
     <published>2026-09-22T06:34:40.508759+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:4c5181a7-2f5c-4b2c-b898-83b41337047d</id>
-    <title>Salon Créateurs &amp; Artisans d'Art au MEETT : 160 exposants Made in France</title>
-    <updated>2026-09-22T08:25:20.893031+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/-MG-1560-copie.jpg"/&gt;
-&lt;p&gt;Le Salon Créateurs &amp;amp; Artisans d&amp;#x27;Art investit le MEETT de Toulouse du 9 au 13 décembre 2026, à quelques semaines des fêtes de fin d&amp;#x27;année. Quelque 160 artisans et créateurs sélectionnés par un comité d&amp;#x27;experts y présenteront vêtements, bijoux, meubles, sculptures, sacs et objets fait-main venus de tout l&amp;#x27;Hexagone. Une « Allée des artistes » permettra d&amp;#x27;admirer des œuvres uniques, tandis qu&amp;#x27;un espace dédié met en avant les jeunes créateurs. L&amp;#x27;événement constitue une opportunité idéale pour dénicher des cadeaux originaux et soutenir la création artisanale française.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/salon-createurs-et-artisans-dart/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/salon-createurs-et-artisans-dart/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Salon Créateurs &amp; Artisans d'Art investit le MEETT de Toulouse du 9 au 13 décembre 2026, à quelques semaines des fêtes de fin d'année. Quelque 160 artisans et créateurs sélectionnés par un comité d'experts y présenteront vêtements, bijoux, meubles, sculptures, sacs et objets fait-main venus de tout l'Hexagone. Une « Allée des artistes » permettra d'admirer des œuvres uniques, tandis qu'un espace dédié met en avant les jeunes créateurs. L'événement constitue une opportunité idéale pour dénicher des cadeaux originaux et soutenir la création artisanale française.</summary>
-    <category term="event"/>
-    <published>2026-09-22T06:33:56.394464+00:00</published>
   </entry>
   <entry>
     <id>cluster:96db22f7-864a-4709-a8e5-88039a38df10</id>
@@ -4831,55 +4328,6 @@
     <summary>La Chapelle des Carmélites accueille une saison musicale variée jusqu'au 27 septembre 2026, mêlant musique classique, groove pop, danse, bal traditionnel et soirées immersives. L'événement phare mis en avant par L'Essentiel est le concert des Clefs de Saint-Pierre, avec les solistes du Capitole Sandrine Tilly et Jean-Sébastien Borsarello, qui interprèteront notamment la version complète de « Contes à rebours », pièce inédite du compositeur toulousain Patrick Burgan, en miroir de Ma Mère l'Oye de Ravel. L'office du tourisme fournit le programme complet de la saison, avec une douzaine de rendez-vous entre juillet et fin septembre dans ce cadre intimiste du 1, rue du Périgord. La programmation s'adresse aussi bien aux amateurs de classique qu'aux curieux en quête de découvertes musicales inattendues.</summary>
     <category term="event"/>
     <published>2026-09-21T04:04:54.356000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:35900ab6-0628-4e1e-bf41-b72e2c730958</id>
-    <title>Randos-vélo gratuites de Toulouse Métropole : graffitis et passerelle de Gagnac</title>
-    <updated>2026-09-22T08:25:20.893031+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Paulette-bike---Remi-Deligeon-copie.jpg"/&gt;
-&lt;p&gt;Toulouse Métropole propose deux randonnées vélo gratuites au départ de la statue Riquet, côté Canal du Midi. Le premier parcours, le 4 octobre 2026, longe les bords de Garonne jusqu&amp;#x27;à la passerelle de Gagnac pour plus de 30 km. Le second, le 8 novembre 2026, invite à découvrir les graffitis de la ville sur un trajet de 15 à 20 km. Les deux sorties sont encadrées par des accompagnateurs de Toulouse Métropole, l&amp;#x27;inscription est obligatoire sur metropole.toulouse.fr, et une annulation reste possible en cas de mauvais temps ou de faible participation.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/rando-velo-a-la-decouverte-des-graffitis/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/rando-velo-passerelle-de-gagnac/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/rando-velo-a-la-decouverte-des-graffitis/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse Métropole propose deux randonnées vélo gratuites au départ de la statue Riquet, côté Canal du Midi. Le premier parcours, le 4 octobre 2026, longe les bords de Garonne jusqu'à la passerelle de Gagnac pour plus de 30 km. Le second, le 8 novembre 2026, invite à découvrir les graffitis de la ville sur un trajet de 15 à 20 km. Les deux sorties sont encadrées par des accompagnateurs de Toulouse Métropole, l'inscription est obligatoire sur metropole.toulouse.fr, et une annulation reste possible en cas de mauvais temps ou de faible participation.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:42:39.590236+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:3308be04-d0a0-4863-ad8c-0677632705bc</id>
-    <title>Visite guidée des grands monuments de Toulouse avec l'Office de Tourisme</title>
-    <updated>2026-09-22T08:25:20.893031+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Place-du-Capitole---Remi-Deligeon-copie-7.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose une visite guidée à pied des principaux monuments de la ville rose. Le parcours passe par la place du Capitole, la basilique Saint-Sernin (classée au patrimoine mondial sur le chemin de Saint-Jacques-de-Compostelle), le couvent des Jacobins et les bords de la Garonne. La version anglophone inclut également une halte dans la cour de l&amp;#x27;Hôtel d&amp;#x27;Assézat, l&amp;#x27;un des plus beaux hôtels particuliers de Toulouse. La visite est à la fois historique et accessible, idéale pour les nouveaux arrivants comme pour les touristes de passage.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;La version espagnole part de l&amp;#x27;Office de Tourisme et met l&amp;#x27;accent sur la Garonne et l&amp;#x27;ambiance de la ville ; la version anglaise se termine à l&amp;#x27;Hôtel d&amp;#x27;Assézat et insiste davantage sur le côté ludique et photographique de la visite. Les itinéraires peuvent légèrement différer.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE Y SUS MONUMENTOS)&lt;/strong&gt;: Version en espagnol, avec détails sur le code vestimentaire à Saint-Sernin et ambiance bords de Garonne&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (GREAT MONUMENTS OF TOULOUSE)&lt;/strong&gt;: Version en anglais, avec halte à l&amp;#x27;Hôtel d&amp;#x27;Assézat et ton décontracté pour les anglophones&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/toulouse-y-sus-monumentos/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/great-monuments-of-toulouse/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/toulouse-y-sus-monumentos/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office de Tourisme de Toulouse propose une visite guidée à pied des principaux monuments de la ville rose. Le parcours passe par la place du Capitole, la basilique Saint-Sernin (classée au patrimoine mondial sur le chemin de Saint-Jacques-de-Compostelle), le couvent des Jacobins et les bords de la Garonne. La version anglophone inclut également une halte dans la cour de l'Hôtel d'Assézat, l'un des plus beaux hôtels particuliers de Toulouse. La visite est à la fois historique et accessible, idéale pour les nouveaux arrivants comme pour les touristes de passage.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:39:19.952368+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:1fd5f0f0-c28d-4db0-9a6d-0d8c70a881d2</id>
-    <title>Visites guidées thématiques de Toulouse par l'Office de Tourisme</title>
-    <updated>2026-09-22T08:25:20.893031+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Hotel-de-pierre--Remi-Deligeon.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose plusieurs visites guidées thématiques pour découvrir la ville sous différents angles historiques et architecturaux. « Toulouse à la Renaissance » retrace la reconstruction de la ville après le grand incendie de 1463 et l&amp;#x27;essor du commerce du pastel. « Toulouse dans les Années Folles » explore le patrimoine Art déco des années 1920-1940 à travers immeubles, mosaïques et ferronneries. « Toulouse by Night » accompagne les visiteurs de nuit, du Capitole aux Jacobins et aux bords de Garonne, tandis que « Toulouse à l&amp;#x27;aube du soir » propose une balade crépusculaire le long des quais, du port Viguerie à la Daurade. Ces visites s&amp;#x27;adressent aussi bien aux touristes qu&amp;#x27;aux Toulousains curieux de leur propre patrimoine, avec des dates échelonnées de juillet à décembre 2026.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les quatre items sont des fiches de visites guidées distinctes, chacune avec sa propre thématique, son lieu de départ et sa date. Elles partagent le même organisateur (Office de Tourisme) mais couvrent des périodes et des quartiers différents.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE A LA RENAISSANCE)&lt;/strong&gt;: Histoire de la Renaissance toulousaine et du pastel, quartier historique&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE DANS LES ANNÉES FOLLES)&lt;/strong&gt;: Architecture Art déco entre-deux-guerres&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE BY NIGHT)&lt;/strong&gt;: Balade nocturne et illuminations de la ville&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (TOULOUSE À L&amp;#x27;AUBE DU SOIR)&lt;/strong&gt;: Promenade crépusculaire le long de la Garonne&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/toulouse-dans-les-annees-folles/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/toulouse-a-laube-du-soir/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/toulouse-dans-les-annees-folles/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Office de Tourisme de Toulouse propose plusieurs visites guidées thématiques pour découvrir la ville sous différents angles historiques et architecturaux. « Toulouse à la Renaissance » retrace la reconstruction de la ville après le grand incendie de 1463 et l'essor du commerce du pastel. « Toulouse dans les Années Folles » explore le patrimoine Art déco des années 1920-1940 à travers immeubles, mosaïques et ferronneries. « Toulouse by Night » accompagne les visiteurs de nuit, du Capitole aux Jacobins et aux bords de Garonne, tandis que « Toulouse à l'aube du soir » propose une balade crépusculaire le long des quais, du port Viguerie à la Daurade. Ces visites s'adressent aussi bien aux touristes qu'aux Toulousains curieux de leur propre patrimoine, avec des dates échelonnées de juillet à décembre 2026.</summary>
-    <category term="event"/>
-    <published>2026-09-19T06:34:49.837747+00:00</published>
   </entry>
   <entry>
     <id>cluster:c76d37a3-81aa-4633-8e6c-6dd5d6d3b89d</id>
@@ -8636,19 +8084,21 @@
     <published>2026-09-22T13:16:01+02:00</published>
   </entry>
   <entry>
-    <id>cluster:9cf02840-4a96-4d57-9c54-456dc3626ac0</id>
-    <title>La Garonne à Toulouse frôle le seuil d'alerte renforcée</title>
+    <id>cluster:d19e77c6-2bc4-4008-9c8c-3b84a908f68a</id>
+    <title>Carburant à Toulouse : files d'attente et prix records à la pompe</title>
     <updated>2026-09-23T08:11:42.567750+00:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/1000017474.jpg"/&gt;
-&lt;p&gt;En ce mois de septembre 2026, la Garonne atteint des niveaux historiquement bas à Toulouse, avec des rochers émergés et des dizaines de mètres de lit asséché accessibles à pied. Actu Toulouse a pu marcher longuement dans le lit du fleuve au pied du pont du périphérique, un phénomène possible à cette saison mais d&amp;#x27;une ampleur rarement observée depuis le début du siècle. À Portet-sur-Garonne, les niveaux enregistrés cet été n&amp;#x27;ont jamais été aussi bas. L&amp;#x27;Établissement Public Garonne avertit que sans précipitations, le débit à Toulouse passera sous le seuil d&amp;#x27;alerte renforcée dans les prochains jours, et que seul l&amp;#x27;apport des lacs pyrénéens empêche actuellement de tomber sous le seuil de crise.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/on-a-marche-dans-la-garonne-assechee-a-toulouse-le-niveau-du-fleuve-va-atteindre-le-seuil-d-alerte-renforcee_64822014.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/on-a-marche-dans-la-garonne-assechee-a-toulouse-le-niveau-du-fleuve-va-atteindre-le-seuil-d-alerte-renforcee_64822014.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>En ce mois de septembre 2026, la Garonne atteint des niveaux historiquement bas à Toulouse, avec des rochers émergés et des dizaines de mètres de lit asséché accessibles à pied. Actu Toulouse a pu marcher longuement dans le lit du fleuve au pied du pont du périphérique, un phénomène possible à cette saison mais d'une ampleur rarement observée depuis le début du siècle. À Portet-sur-Garonne, les niveaux enregistrés cet été n'ont jamais été aussi bas. L'Établissement Public Garonne avertit que sans précipitations, le débit à Toulouse passera sous le seuil d'alerte renforcée dans les prochains jours, et que seul l'apport des lacs pyrénéens empêche actuellement de tomber sous le seuil de crise.</summary>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/pxl-20260918-084705805mp-censored.jpg"/&gt;
+&lt;p&gt;Les prix du carburant atteignent des niveaux records à Toulouse, alimentés par les tensions au Moyen-Orient et l&amp;#x27;envolée du cours du pétrole. La station Dyneff de l&amp;#x27;avenue des États-Unis affiche le gazole à 2,690 €/l, tandis que la moyenne toulousaine dépasse 2,40 €/l, au-dessus de la moyenne nationale de 2,348 €/l. Face à ces tarifs, les stations TotalEnergies pratiquant des prix plafonnés à 2,250 €/l attirent des files d&amp;#x27;attente considérables, au point que certains carburants tombent en rupture de stock dès la matinée. Les automobilistes toulousains font face à un dilemme entre patienter dans de longues queues ou payer significativement plus cher ailleurs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Un article adopte l&amp;#x27;angle terrain/reportage (témoignages d&amp;#x27;automobilistes en queue à la Roseraie, pénuries constatées sur place), tandis que l&amp;#x27;autre propose une analyse chiffrée comparative (prix maxi, mini, moyennes locales et nationales, données gouvernementales).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (reportage Roseraie)&lt;/strong&gt;: Témoignages d&amp;#x27;automobilistes et situation en temps réel dans les stations bon marché&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (analyse prix)&lt;/strong&gt;: Comparatif chiffré des prix toulousains et mise en perspective avec la moyenne nationale&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pres-de-2-70-le-litre-de-gazole-a-toulouse-les-prix-a-la-pompe-battent-des-records-dans-les-stations-essence_64819607.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/pres-de-2-70-le-litre-de-gazole-a-toulouse-les-prix-a-la-pompe-battent-des-records-dans-les-stations-essence_64819607.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les prix du carburant atteignent des niveaux records à Toulouse, alimentés par les tensions au Moyen-Orient et l'envolée du cours du pétrole. La station Dyneff de l'avenue des États-Unis affiche le gazole à 2,690 €/l, tandis que la moyenne toulousaine dépasse 2,40 €/l, au-dessus de la moyenne nationale de 2,348 €/l. Face à ces tarifs, les stations TotalEnergies pratiquant des prix plafonnés à 2,250 €/l attirent des files d'attente considérables, au point que certains carburants tombent en rupture de stock dès la matinée. Les automobilistes toulousains font face à un dilemme entre patienter dans de longues queues ou payer significativement plus cher ailleurs.</summary>
     <category term="news"/>
-    <published>2026-09-22T17:55:44+02:00</published>
+    <published>2026-09-22T13:32:01+02:00</published>
   </entry>
   <entry>
     <id>cluster:3488b1dd-7660-46f9-aafe-7356d3d8a84f</id>
@@ -8774,6 +8224,26 @@
     <published>2026-09-22T07:16:50.049749+00:00</published>
   </entry>
   <entry>
+    <id>cluster:6587795a-c72d-4730-8b96-30e7b1b5950c</id>
+    <title>Les Arts en Balade : 206 artistes ouvrent leurs ateliers à Toulouse</title>
+    <updated>2026-09-23T08:11:42.567750+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/-2024-09-28AEB-24-creditVeroniqueBrill--1--copie-2.jpg"/&gt;
+&lt;p&gt;Pour leur 10e édition, les Arts en Balade se tiendront les 26 et 27 septembre 2026 à Toulouse et dans 16 communes alentour, avec 206 artistes répartis dans 105 ateliers ouverts gratuitement de 10h à 19h. Peinture, sculpture, céramique, photographie, gravure, vidéo, installation et art numérique seront au programme, avec la possibilité d&amp;#x27;échanger directement avec les artistes et d&amp;#x27;acquérir des œuvres au prix atelier. L&amp;#x27;édition anniversaire est enrichie d&amp;#x27;un programme d&amp;#x27;avant-premières tout au long du mois de septembre autour du thème « L&amp;#x27;Atelier », incluant des ateliers créatifs dans dix lieux emblématiques de la métropole, une exposition au marché Victor-Hugo (70 artistes investissant 40 loges), un atelier de gravure éphémère à la librairie Ombres Blanches et une rencontre à Sciences Po Toulouse sur l&amp;#x27;art contemporain. Une carte interactive permet aux visiteurs de préparer leur parcours selon les quartiers et les disciplines.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Toulouscope donne le chiffre de 15 communes voisines tandis que L&amp;#x27;essentiel et l&amp;#x27;Office du tourisme mentionnent 16 communes — légère divergence non expliquée.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Détail complet du programme des avant-premières et des activités en atelier&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Résumé concis avec focus sur les événements d&amp;#x27;avant-première en cours&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Contexte de l&amp;#x27;édition anniversaire et description de l&amp;#x27;expérience de la balade&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/les-arts-en-balade-a-toulouse/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#50732"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/les-arts-en-balade-a-toulouse/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Pour leur 10e édition, les Arts en Balade se tiendront les 26 et 27 septembre 2026 à Toulouse et dans 16 communes alentour, avec 206 artistes répartis dans 105 ateliers ouverts gratuitement de 10h à 19h. Peinture, sculpture, céramique, photographie, gravure, vidéo, installation et art numérique seront au programme, avec la possibilité d'échanger directement avec les artistes et d'acquérir des œuvres au prix atelier. L'édition anniversaire est enrichie d'un programme d'avant-premières tout au long du mois de septembre autour du thème « L'Atelier », incluant des ateliers créatifs dans dix lieux emblématiques de la métropole, une exposition au marché Victor-Hugo (70 artistes investissant 40 loges), un atelier de gravure éphémère à la librairie Ombres Blanches et une rencontre à Sciences Po Toulouse sur l'art contemporain. Une carte interactive permet aux visiteurs de préparer leur parcours selon les quartiers et les disciplines.</summary>
+    <category term="event"/>
+    <published>2026-09-22T06:37:01.044592+00:00</published>
+  </entry>
+  <entry>
     <id>cluster:54440a02-7fc3-4e5c-9179-0e50459233ca</id>
     <title>Perturbations sur les lignes SNCF Toulouse-Carcassonne et Toulouse-Saint-Sulpice</title>
     <updated>2026-09-23T08:11:42.567750+00:00</updated>
@@ -8806,46 +8276,6 @@
     <summary>Ce dimanche 20 septembre 2026, des policiers toulousains dépêchés quartier Lespinet pour un tapage nocturne ont découvert le corps d'un homme de 43 ans gisant dans le salon d'un appartement insalubre de l'allée du Lieutenant Lucien-Lafay. Le défunt présentait des traces de coups à la tête et était décédé depuis plusieurs jours, sans qu'aucune des trois personnes présentes sur place — vraisemblablement des toxicomanes — n'ait prévenu les secours. Une enquête pour homicide a été ouverte et les trois individus placés en garde à vue. L'autopsie réalisée le lendemain a finalement écarté l'hypothèse d'une intervention d'un tiers, le décès n'étant « pas incompatible avec une overdose ».</summary>
     <category term="news"/>
     <published>2026-09-21T16:38:00+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6587795a-c72d-4730-8b96-30e7b1b5950c</id>
-    <title>Les Arts en Balade : 206 artistes ouvrent leurs ateliers à Toulouse</title>
-    <updated>2026-09-23T08:11:42.567750+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/-2024-09-28AEB-24-creditVeroniqueBrill--1--copie-2.jpg"/&gt;
-&lt;p&gt;Pour leur 10e édition, les Arts en Balade se tiendront les 26 et 27 septembre 2026 à Toulouse et dans 16 communes alentour, avec 206 artistes répartis dans 105 ateliers ouverts gratuitement de 10h à 19h. Peinture, sculpture, céramique, photographie, gravure, vidéo, installation et art numérique seront au programme, avec la possibilité d&amp;#x27;échanger directement avec les artistes et d&amp;#x27;acquérir des œuvres au prix atelier. L&amp;#x27;édition anniversaire est enrichie d&amp;#x27;un programme d&amp;#x27;avant-premières tout au long du mois de septembre autour du thème « L&amp;#x27;Atelier », incluant des ateliers créatifs dans dix lieux emblématiques de la métropole, une exposition au marché Victor-Hugo (70 artistes investissant 40 loges), un atelier de gravure éphémère à la librairie Ombres Blanches et une rencontre à Sciences Po Toulouse sur l&amp;#x27;art contemporain. Une carte interactive permet aux visiteurs de préparer leur parcours selon les quartiers et les disciplines.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Toulouscope donne le chiffre de 15 communes voisines tandis que L&amp;#x27;essentiel et l&amp;#x27;Office du tourisme mentionnent 16 communes — légère divergence non expliquée.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Détail complet du programme des avant-premières et des activités en atelier&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Résumé concis avec focus sur les événements d&amp;#x27;avant-première en cours&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Contexte de l&amp;#x27;édition anniversaire et description de l&amp;#x27;expérience de la balade&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/18/a-toulouse-plus-de-200-artistes-ouvrent-les-portes-de-leurs-ateliers-pour-les-arts-en-balade-13534342.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/les-arts-en-balade-a-toulouse/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#50732"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/09/18/a-toulouse-plus-de-200-artistes-ouvrent-les-portes-de-leurs-ateliers-pour-les-arts-en-balade-13534342.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Pour leur 10e édition, les Arts en Balade se tiendront les 26 et 27 septembre 2026 à Toulouse et dans 16 communes alentour, avec 206 artistes répartis dans 105 ateliers ouverts gratuitement de 10h à 19h. Peinture, sculpture, céramique, photographie, gravure, vidéo, installation et art numérique seront au programme, avec la possibilité d'échanger directement avec les artistes et d'acquérir des œuvres au prix atelier. L'édition anniversaire est enrichie d'un programme d'avant-premières tout au long du mois de septembre autour du thème « L'Atelier », incluant des ateliers créatifs dans dix lieux emblématiques de la métropole, une exposition au marché Victor-Hugo (70 artistes investissant 40 loges), un atelier de gravure éphémère à la librairie Ombres Blanches et une rencontre à Sciences Po Toulouse sur l'art contemporain. Une carte interactive permet aux visiteurs de préparer leur parcours selon les quartiers et les disciplines.</summary>
-    <category term="event"/>
-    <published>2026-09-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d19e77c6-2bc4-4008-9c8c-3b84a908f68a</id>
-    <title>Carburant à Toulouse : files d'attente et prix records à la pompe</title>
-    <updated>2026-09-23T08:11:42.567750+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/pxl-20260918-084705805mp-censored.jpg"/&gt;
-&lt;p&gt;Les prix du carburant atteignent des niveaux records à Toulouse, alimentés par les tensions au Moyen-Orient et l&amp;#x27;envolée du cours du pétrole. La station Dyneff de l&amp;#x27;avenue des États-Unis affiche le gazole à 2,690 €/l, tandis que la moyenne toulousaine dépasse 2,40 €/l, au-dessus de la moyenne nationale de 2,348 €/l. Face à ces tarifs, les stations TotalEnergies pratiquant des prix plafonnés à 2,250 €/l attirent des files d&amp;#x27;attente considérables, au point que certains carburants tombent en rupture de stock dès la matinée. Les automobilistes toulousains font face à un dilemme entre patienter dans de longues queues ou payer significativement plus cher ailleurs.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Un article adopte l&amp;#x27;angle terrain/reportage (témoignages d&amp;#x27;automobilistes en queue à la Roseraie, pénuries constatées sur place), tandis que l&amp;#x27;autre propose une analyse chiffrée comparative (prix maxi, mini, moyennes locales et nationales, données gouvernementales).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (reportage Roseraie)&lt;/strong&gt;: Témoignages d&amp;#x27;automobilistes et situation en temps réel dans les stations bon marché&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (analyse prix)&lt;/strong&gt;: Comparatif chiffré des prix toulousains et mise en perspective avec la moyenne nationale&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-tel-prix-ca-paraissait-inimaginable-a-toulouse-la-galere-des-automobilistes-pour-faire-le-plein-d-essence_64806960.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/pres-de-2-70-le-litre-de-gazole-a-toulouse-les-prix-a-la-pompe-battent-des-records-dans-les-stations-essence_64819607.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/un-tel-prix-ca-paraissait-inimaginable-a-toulouse-la-galere-des-automobilistes-pour-faire-le-plein-d-essence_64806960.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les prix du carburant atteignent des niveaux records à Toulouse, alimentés par les tensions au Moyen-Orient et l'envolée du cours du pétrole. La station Dyneff de l'avenue des États-Unis affiche le gazole à 2,690 €/l, tandis que la moyenne toulousaine dépasse 2,40 €/l, au-dessus de la moyenne nationale de 2,348 €/l. Face à ces tarifs, les stations TotalEnergies pratiquant des prix plafonnés à 2,250 €/l attirent des files d'attente considérables, au point que certains carburants tombent en rupture de stock dès la matinée. Les automobilistes toulousains font face à un dilemme entre patienter dans de longues queues ou payer significativement plus cher ailleurs.</summary>
-    <category term="news"/>
-    <published>2026-09-18T17:31:59+02:00</published>
   </entry>
   <entry>
     <id>cluster:5e772030-5292-4a05-83e7-e9c0af4c4d03</id>
@@ -9561,55 +8991,6 @@ https://click.email.secretmedianetw</summary>
     <published>2026-09-21T04:04:54.356000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:2958d599-5695-43a7-8c53-845f46759e38</id>
-    <title>Les coulisses de l'infos</title>
-    <updated>2026-09-25T06:35:17.934949+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-09-25-3?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-09-25-3?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-09-25T04:06:03.558000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:00c1bc27-9f2a-4464-b863-b14c07cef5a7</id>
-    <title>Seconde main</title>
-    <updated>2026-09-25T06:35:17.934949+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-09-25-2?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-09-25-2?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-09-25T04:06:03.558000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:53e1ee92-010b-4cd0-9806-1b6fe5e6b629</id>
-    <title>Artistique</title>
-    <updated>2026-09-25T06:35:17.934949+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-09-25-1?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-09-25-1?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-09-25T04:06:03.558000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:aa99cab6-d2d6-4f70-8a3d-dd38db44520b</id>
-    <title>En musique</title>
-    <updated>2026-09-25T06:35:17.934949+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/affiche-rock-sing-lajeannette.jpg?h=f3367e3f&amp;amp;itok=KTnxV8zA"/&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-09-25-0?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-09-25-0?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-09-25T04:06:03.558000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:e8e0803d-8465-4c16-8598-052c1ff6be9b</id>
     <title>Trophée Revault-Kunavore : foot, rugby et solidarité à Balma</title>
     <updated>2026-09-25T06:35:17.934949+00:00</updated>
@@ -9959,14 +9340,11 @@ https://click.email.secretmedianetw</summary>
     <author>
       <name>lessentiel</name>
     </author>
-    <author>
-      <name>tourinsoft.com</name>
-    </author>
     <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/rallye.jpg?h=1b06519c&amp;amp;itok=5YxdasFF"/&gt;
 &lt;p&gt;Le week-end du 26 et 27 septembre s&amp;#x27;annonce très chargé à Toulouse avec une programmation éclectique mêlant culture, musique, sport et marchés. Parmi les temps forts : la 10e édition des Arts en Balade avec 206 artistes ouvrant leurs ateliers, les concerts gratuits « Cats &amp;amp; Flowers » aux Jardins du Muséum en partenariat avec le Metronum, et le Salon du livre des Gourmets de Lettres à l&amp;#x27;Hôtel d&amp;#x27;Assézat. Le Woori Festival célèbre sa 5e édition sur l&amp;#x27;île du Ramier avec K-Pop, arts martiaux et street food coréenne, tandis que le Fifigrot prolonge ses projections et son Gro&amp;#x27;village au port Viguerie jusqu&amp;#x27;à dimanche. On notera aussi le retour du Bazar Littéraire à la Cave Poésie, la convention du disque au Bikini, le Salon du Vintage avec 200 exposants au Grand Marché MIN, et le lancement de la fête foraine Saint-Michel au MEETT jusqu&amp;#x27;au 11 octobre.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Les trois sources couvrent globalement les mêmes événements mais avec des angles différents : lessentiel propose deux sélections thématiques (festivals/culture et musique/artistique), actu_toulouse structure sa liste en rubriques numérotées avec commentaires éditoriaux, et tourinsoft.com présente un agenda institutionnel plus factuel avec mentions de gratuité et de dates précises.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Présentation éditoriale avec contexte et ambiance pour chaque événement&lt;/li&gt;&lt;li&gt;&lt;strong&gt;tourinsoft.com&lt;/strong&gt;: Vue d&amp;#x27;ensemble pratique avec dates, tarifs et liens vers les événements&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Sélections thématiques concises incluant des événements moins couverts ailleurs (Woori Festival, rallye Toulouse–Saint-Louis, La Jeannette)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/portes-ouvertes-d-ateliers-litterature-gourmandise-musique-et-jardins-que-faire-ce-week-end-a-toulouse_64820309.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="http://cdt31.tourinsoft.com/view.ashx?email=566b552d-efab-4bf3-ba27-47ca4df68c96&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;tourinsoft.com&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-25?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#51006"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/portes-ouvertes-d-ateliers-litterature-gourmandise-musique-et-jardins-que-faire-ce-week-end-a-toulouse_64820309.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-09-25?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#51006"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://actu.fr/occitanie/toulouse_31555/portes-ouvertes-d-ateliers-litterature-gourmandise-musique-et-jardins-que-faire-ce-week-end-a-toulouse_64820309.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>Le week-end du 26 et 27 septembre s'annonce très chargé à Toulouse avec une programmation éclectique mêlant culture, musique, sport et marchés. Parmi les temps forts : la 10e édition des Arts en Balade avec 206 artistes ouvrant leurs ateliers, les concerts gratuits « Cats &amp; Flowers » aux Jardins du Muséum en partenariat avec le Metronum, et le Salon du livre des Gourmets de Lettres à l'Hôtel d'Assézat. Le Woori Festival célèbre sa 5e édition sur l'île du Ramier avec K-Pop, arts martiaux et street food coréenne, tandis que le Fifigrot prolonge ses projections et son Gro'village au port Viguerie jusqu'à dimanche. On notera aussi le retour du Bazar Littéraire à la Cave Poésie, la convention du disque au Bikini, le Salon du Vintage avec 200 exposants au Grand Marché MIN, et le lancement de la fête foraine Saint-Michel au MEETT jusqu'au 11 octobre.</summary>
     <category term="news"/>
@@ -10051,5 +9429,344 @@ https://click.email.secretmedianetw</summary>
     <summary>Deux salons se tiennent simultanément au MEETT du 1er au 4 octobre 2026 : le Salon de l'Habitat et le Salon de l'Immobilier. Le Salon de l'Immobilier (2 au 4 octobre) rassemble promoteurs, constructeurs, courtiers et experts du financement, avec un Espace Conseils gratuit offrant des consultations individuelles sans rendez-vous auprès d'avocats, notaires, juristes et conseillers France Rénov'. Le Salon de l'Habitat (1er au 4 octobre) revient avec plusieurs nouveautés, dont un nouveau pavillon « Mieux vivre chez soi » et une exposition photographique de maisons toulousaines imaginée par le magazine MA Maison. Les sources ne s'accordent pas tout à fait sur les dates exactes du Salon de l'Immobilier : Toulouscope indique du 2 au 4 octobre, tandis qu'Office du Tourisme mentionne du 1er au 4 octobre — la date de démarrage du Salon de l'Immobilier reste donc à confirmer.</summary>
     <category term="event"/>
     <published>2026-09-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a547d27c-ca22-4c7c-895a-7e62fcdff969</id>
+    <title>Zazie en concert au Zénith Toulouse Métropole</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/dd9/c4790008-82ae-4342-a795-35fa5f609dd9_SOURCE"/&gt;
+&lt;p&gt;La chanteuse Zazie se produira au Zénith Toulouse Métropole le 16 octobre 2027. Ce concert s&amp;#x27;inscrit dans le registre de la chanson française, un genre qu&amp;#x27;elle incarne depuis plus de trente ans avec succès. Le Zénith est la grande salle de spectacle incontournable de l&amp;#x27;agglomération toulousaine, capable d&amp;#x27;accueillir plusieurs milliers de spectateurs. Les fans de Zazie dans la région toulousaine sont invités à surveiller les billets disponibles sur Ticketmaster.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/zazie-billet/idmanif/673284/idseance/4426751?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/zazie-billet/idmanif/673284/idseance/4426751?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La chanteuse Zazie se produira au Zénith Toulouse Métropole le 16 octobre 2027. Ce concert s'inscrit dans le registre de la chanson française, un genre qu'elle incarne depuis plus de trente ans avec succès. Le Zénith est la grande salle de spectacle incontournable de l'agglomération toulousaine, capable d'accueillir plusieurs milliers de spectateurs. Les fans de Zazie dans la région toulousaine sont invités à surveiller les billets disponibles sur Ticketmaster.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:38:47.467968+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:098273d2-b498-4784-a3f7-aa7ba04d179d</id>
+    <title>Girls Don't Cry Festival à La Cabane : trois jours de création queer</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/GDCFEST2024--65-copie.jpg"/&gt;
+&lt;p&gt;Le Girls Don&amp;#x27;t Cry Festival revient à Toulouse du 27 au 29 novembre 2026, porté par l&amp;#x27;association La Petite et son média éponyme, qui militent pour l&amp;#x27;égalité des genres dans les arts. Pendant trois jours, le festival propose concerts, performances, expositions et rencontres autour de la création artistique des personnes minorisées de genre. La programmation réunit notamment THX4CRYING, GATAFIERA, SUKKUBE, VANDA FORTE, OONAGH HAINES, BRIZITOS, Louise Pétrouchka et LE KAIJU. Les vendredi et samedi se déroulent à La Cabane, la récente salle de concert toulousaine, tandis que le dimanche se tient au Centre Culturel Bonnefoy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/girls-dont-cry-festival/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/girls-dont-cry-festival/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Girls Don't Cry Festival revient à Toulouse du 27 au 29 novembre 2026, porté par l'association La Petite et son média éponyme, qui militent pour l'égalité des genres dans les arts. Pendant trois jours, le festival propose concerts, performances, expositions et rencontres autour de la création artistique des personnes minorisées de genre. La programmation réunit notamment THX4CRYING, GATAFIERA, SUKKUBE, VANDA FORTE, OONAGH HAINES, BRIZITOS, Louise Pétrouchka et LE KAIJU. Les vendredi et samedi se déroulent à La Cabane, la récente salle de concert toulousaine, tandis que le dimanche se tient au Centre Culturel Bonnefoy.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:34:45.284917+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:72915c3c-4372-4ad0-9cf6-b4edff00a18b</id>
+    <title>Marché Ubuntu aux Halles de la Cartoucherie : créateurs africains et caribéens</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1757060895093-copie.jpg"/&gt;
+&lt;p&gt;Le Marché Ubuntu investit les Halles de la Cartoucherie les 10 et 11 octobre 2026 pour célébrer les marques africaines et caribéennes éco-responsables fabriquées en France. Ce marché met à l&amp;#x27;honneur l&amp;#x27;artisanat, la culture et l&amp;#x27;innovation à travers des stands venus de toute la France, parmi lesquels Tanguy Semvo, qui produit le seul ananas labellisé au monde issu du Bénin, et Helza Design, créatrice de pièces contemporaines mêlant bois et raphia. Au-delà des exposants, des animations et des rencontres authentiques sont prévues dans une ambiance chaleureuse. L&amp;#x27;événement s&amp;#x27;adresse à tous les curieux de cultures afro-caribéennes et de consommation responsable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/marche-ubuntu/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/marche-ubuntu/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Marché Ubuntu investit les Halles de la Cartoucherie les 10 et 11 octobre 2026 pour célébrer les marques africaines et caribéennes éco-responsables fabriquées en France. Ce marché met à l'honneur l'artisanat, la culture et l'innovation à travers des stands venus de toute la France, parmi lesquels Tanguy Semvo, qui produit le seul ananas labellisé au monde issu du Bénin, et Helza Design, créatrice de pièces contemporaines mêlant bois et raphia. Au-delà des exposants, des animations et des rencontres authentiques sont prévues dans une ambiance chaleureuse. L'événement s'adresse à tous les curieux de cultures afro-caribéennes et de consommation responsable.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:34:04.106348+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:2a19bc2d-6334-46d8-9fd5-a43aff8625e3</id>
+    <title>Le Petit Marché du Lab'Oïkos : créateurs et producteurs locaux</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/MARCHE-DE-CREATEURS-2.jpg"/&gt;
+&lt;p&gt;Le Lab&amp;#x27;Oïkos accueille le Petit Marché du Lab, un marché de créateurs et producteurs locaux prévu le 4 octobre 2026. On y trouvera une sélection variée : bijoux, illustrations, bougies, plantes, miel, café, accessoires et gourmandises. L&amp;#x27;événement est une occasion de soutenir l&amp;#x27;artisanat et la production locale toulousaine en un seul lieu. Il s&amp;#x27;adresse aussi bien aux amateurs de créations originales qu&amp;#x27;aux curieux en quête de produits du terroir.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/le-petit-marche-du-lab/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/le-petit-marche-du-lab/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Lab'Oïkos accueille le Petit Marché du Lab, un marché de créateurs et producteurs locaux prévu le 4 octobre 2026. On y trouvera une sélection variée : bijoux, illustrations, bougies, plantes, miel, café, accessoires et gourmandises. L'événement est une occasion de soutenir l'artisanat et la production locale toulousaine en un seul lieu. Il s'adresse aussi bien aux amateurs de créations originales qu'aux curieux en quête de produits du terroir.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:33:43.496641+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:db83f732-8386-4446-86da-058089711d35</id>
+    <title>La Mékanik du Rire : 30 spectacles de rue à l'Esplanade Sainte-Germaine</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Actenrue-Mekanik-du-rire-2019-Pibrac-11-Cie-du-Vide-Rosemonde---Alain-Fouillade-scaled-copie.jpg"/&gt;
+&lt;p&gt;La Mékanik du Rire investit l&amp;#x27;Esplanade Sainte-Germaine du 9 au 11 octobre 2026 pour un festival de spectacles de rue. Trente moments de spectacle sont au programme, avec des compagnies variées comme Plip, Clowning Out, Naine Rouge, le G.O.P, L&amp;#x27;Évitation, Sacrés Cathares ou encore Fée. La soirée d&amp;#x27;ouverture du vendredi accueillera A La One Again et Le Concert à Juli, deux spectacles réservés à cette seule date. L&amp;#x27;événement s&amp;#x27;adresse à tous les publics désireux de découvrir les arts de la rue en plein air dans un quartier toulousain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/la-mekanik-du-rire/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/la-mekanik-du-rire/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Mékanik du Rire investit l'Esplanade Sainte-Germaine du 9 au 11 octobre 2026 pour un festival de spectacles de rue. Trente moments de spectacle sont au programme, avec des compagnies variées comme Plip, Clowning Out, Naine Rouge, le G.O.P, L'Évitation, Sacrés Cathares ou encore Fée. La soirée d'ouverture du vendredi accueillera A La One Again et Le Concert à Juli, deux spectacles réservés à cette seule date. L'événement s'adresse à tous les publics désireux de découvrir les arts de la rue en plein air dans un quartier toulousain.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:33:22.916927+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:61aeb00d-29d0-4dd5-8af3-d4df23b5b6c7</id>
+    <title>Festival du Film des Toiles du Nord au Cinéma Le Lumière</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-LES-TOILES-DU-NORD.jpg"/&gt;
+&lt;p&gt;Le Festival du Film des Toiles du Nord se tient du 7 au 11 octobre 2026 au Cinéma Le Lumière, avec 13 films projetés sur 4 jours. La programmation mêle fictions, documentaires et avant-premières, dont plusieurs séances d&amp;#x27;un même titre à des horaires variés pour faciliter l&amp;#x27;accès. Parmi les films à découvrir : *La maison de nos rêves*, *Gabin*, *Marianne*, *À jamais les premières* (en VO) ou encore *Où vont les âmes*. Le festival s&amp;#x27;étend également aux cinémas Le Méliès de Castelmaurou et Le Venture de Saint-Geniès-Bellevue, dont la programmation est disponible sur le site du festival.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/festival-du-film-des-toiles-du-nord/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/festival-du-film-des-toiles-du-nord/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Festival du Film des Toiles du Nord se tient du 7 au 11 octobre 2026 au Cinéma Le Lumière, avec 13 films projetés sur 4 jours. La programmation mêle fictions, documentaires et avant-premières, dont plusieurs séances d'un même titre à des horaires variés pour faciliter l'accès. Parmi les films à découvrir : *La maison de nos rêves*, *Gabin*, *Marianne*, *À jamais les premières* (en VO) ou encore *Où vont les âmes*. Le festival s'étend également aux cinémas Le Méliès de Castelmaurou et Le Venture de Saint-Geniès-Bellevue, dont la programmation est disponible sur le site du festival.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:33:02.334081+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:dd32fc65-f4b4-4486-9122-098630da8310</id>
+    <title>Exposition Primitae au Domaine de Rochemontès : 35 artistes européens</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/expo-primitae.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;exposition Primitae investit le Domaine de Rochemontès du 8 au 12 octobre 2026 dans une mise en scène immersive et ambitieuse. Trente-cinq artistes et designers venus de toute l&amp;#x27;Europe, ainsi que deux galeries toulousaines, prennent possession des différents espaces du domaine. L&amp;#x27;événement se distingue par son ancrage dans un lieu patrimonial et par l&amp;#x27;ampleur internationale de sa programmation artistique. Une occasion rare de découvrir création contemporaine et design dans un cadre naturel et architectural d&amp;#x27;exception aux portes de Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/exposition-primitae/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/exposition-primitae/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'exposition Primitae investit le Domaine de Rochemontès du 8 au 12 octobre 2026 dans une mise en scène immersive et ambitieuse. Trente-cinq artistes et designers venus de toute l'Europe, ainsi que deux galeries toulousaines, prennent possession des différents espaces du domaine. L'événement se distingue par son ancrage dans un lieu patrimonial et par l'ampleur internationale de sa programmation artistique. Une occasion rare de découvrir création contemporaine et design dans un cadre naturel et architectural d'exception aux portes de Toulouse.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:32:21.157250+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d5f4987e-e9e8-4150-a5bb-6e41f8d241f3</id>
+    <title>Biblis en Folie : fête des bibliothèques dans la métropole toulousaine</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/BIBLIS-EN-FOLIE.jpg"/&gt;
+&lt;p&gt;Du 2 au 4 octobre 2026, le festival Biblis en Folie investit cinq bibliothèques et médiathèques de la métropole toulousaine pour un week-end de découvertes culturelles. Au programme : visites insolites mêlant théâtre de rue, danse et chant à la médiathèque José Cabanis, ciné-spectacle Babel Rhapsodie dès 6 ans, exposition sonore avec Émeline Rétif, et lectures-performances sur les secrets des bibliothèques la nuit. Les tout-petits (0–3 ans) sont également conviés à la Médiathèque du Muséum, tandis que les enfants de Fenouillet peuvent participer à un café littéraire à la Médiathèque Georges Wolinski. L&amp;#x27;événement s&amp;#x27;adresse à tous les âges, de la petite enfance aux adultes, avec des activités en accès libre ou sur réservation selon les cas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/biblis-en-folie/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/biblis-en-folie/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Du 2 au 4 octobre 2026, le festival Biblis en Folie investit cinq bibliothèques et médiathèques de la métropole toulousaine pour un week-end de découvertes culturelles. Au programme : visites insolites mêlant théâtre de rue, danse et chant à la médiathèque José Cabanis, ciné-spectacle Babel Rhapsodie dès 6 ans, exposition sonore avec Émeline Rétif, et lectures-performances sur les secrets des bibliothèques la nuit. Les tout-petits (0–3 ans) sont également conviés à la Médiathèque du Muséum, tandis que les enfants de Fenouillet peuvent participer à un café littéraire à la Médiathèque Georges Wolinski. L'événement s'adresse à tous les âges, de la petite enfance aux adultes, avec des activités en accès libre ou sur réservation selon les cas.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:32:00.569625+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:4d2a0449-521f-48d3-9d0c-eaaff055c36d</id>
+    <title>Expérience sonore noise à la Chapelle des Carmélites</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/SOIREE-DE-RENTREE-AUX-CARMELITES.jpg"/&gt;
+&lt;p&gt;Fanny Marcon et Marc Sens se réunissent pour la première fois le 8 octobre 2026 à la Chapelle des Carmélites pour une performance musicale inédite à deux guitares électriques. Les deux artistes explorent l&amp;#x27;improvisation, les distorsions et les dissonances, utilisant archets et objets détournés pour repousser les frontières du son. L&amp;#x27;événement s&amp;#x27;inscrit dans la soirée de rentrée de la Maison de l&amp;#x27;Architecture Occitanie - Pyrénées, association engagée dans la diffusion de la culture architecturale. La soirée commence à 19h avec l&amp;#x27;ouverture du bar associatif, suivie du concert noise (20h–21h), d&amp;#x27;un repas et d&amp;#x27;un DJ set jusqu&amp;#x27;à 23h30.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/experience-sonore-de-fanny-marcon-marc-sens/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/experience-sonore-de-fanny-marcon-marc-sens/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Fanny Marcon et Marc Sens se réunissent pour la première fois le 8 octobre 2026 à la Chapelle des Carmélites pour une performance musicale inédite à deux guitares électriques. Les deux artistes explorent l'improvisation, les distorsions et les dissonances, utilisant archets et objets détournés pour repousser les frontières du son. L'événement s'inscrit dans la soirée de rentrée de la Maison de l'Architecture Occitanie - Pyrénées, association engagée dans la diffusion de la culture architecturale. La soirée commence à 19h avec l'ouverture du bar associatif, suivie du concert noise (20h–21h), d'un repas et d'un DJ set jusqu'à 23h30.</summary>
+    <category term="event"/>
+    <published>2026-09-26T06:31:39.992173+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:98b275b6-2881-4e61-9df2-c190d5c00b34</id>
+    <title>Menu étoilé à 25€ au Comptoir des Jardins de l'Opéra</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6a96b9ce5b4330f46b0ef360/hd/image.jpg?v=2"/&gt;
+&lt;p&gt;Le chef étoilé Stéphane Tournié propose depuis quelques mois un menu entrée-plat-dessert à 25 euros au Comptoir des Jardins de l&amp;#x27;Opéra, servi midi et soir. La formule s&amp;#x27;inspire des arrivages du jour et change régulièrement, avec des plats comme un poulet basquaise, une rillette de poisson ou un merlu façon paella. Malgré le prix accessible, Tournié maintient la même exigence dans le choix des produits que pour sa table gastronomique étoilée. Cette initiative vise à rendre la cuisine de haut niveau accessible à un public plus large, sans sacrifier la qualité.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/25/a-toulouse-ce-chef-etoile-propose-un-menu-entree-plat-dessert-a-seulement-25-euros-13529715.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/09/25/a-toulouse-ce-chef-etoile-propose-un-menu-entree-plat-dessert-a-seulement-25-euros-13529715.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le chef étoilé Stéphane Tournié propose depuis quelques mois un menu entrée-plat-dessert à 25 euros au Comptoir des Jardins de l'Opéra, servi midi et soir. La formule s'inspire des arrivages du jour et change régulièrement, avec des plats comme un poulet basquaise, une rillette de poisson ou un merlu façon paella. Malgré le prix accessible, Tournié maintient la même exigence dans le choix des produits que pour sa table gastronomique étoilée. Cette initiative vise à rendre la cuisine de haut niveau accessible à un public plus large, sans sacrifier la qualité.</summary>
+    <category term="place"/>
+    <published>2026-09-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:490d10a4-e208-4fa2-8847-d2ec7b840974</id>
+    <title>Fermetures nocturnes de l'A64 au sud de Toulouse fin septembre</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/04/autoroute-fermeture-panneau.jpg"/&gt;
+&lt;p&gt;Les travaux de renforcement du pont de l&amp;#x27;échangeur Le Chapitre (n°38) sur l&amp;#x27;A64, engagés depuis le 6 juillet 2026, entrent dans une nouvelle phase avec des fermetures nocturnes programmées entre 21h et 6h. Dans la nuit du 30 septembre au 1er octobre, l&amp;#x27;A64 sera coupée en direction de Tarbes entre la bifurcation de Bordelongue et l&amp;#x27;échangeur de Francazal, et l&amp;#x27;avenue du Général Eisenhower sera également fermée dans les deux sens. La nuit suivante (1er au 2 octobre), c&amp;#x27;est la direction Toulouse qui sera impactée sur le même tronçon. Par ailleurs, une bretelle d&amp;#x27;accès à l&amp;#x27;A64 vers Toulouse depuis l&amp;#x27;échangeur du Chapitre est déjà restreinte depuis le 14 septembre et le restera jusqu&amp;#x27;au 23 octobre.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-autoroute-a64-en-partie-fermee-au-sud-de-toulouse-dans-les-nuits-a-venir-quelles-sont-les-zones-concernees_64836879.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/l-autoroute-a64-en-partie-fermee-au-sud-de-toulouse-dans-les-nuits-a-venir-quelles-sont-les-zones-concernees_64836879.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les travaux de renforcement du pont de l'échangeur Le Chapitre (n°38) sur l'A64, engagés depuis le 6 juillet 2026, entrent dans une nouvelle phase avec des fermetures nocturnes programmées entre 21h et 6h. Dans la nuit du 30 septembre au 1er octobre, l'A64 sera coupée en direction de Tarbes entre la bifurcation de Bordelongue et l'échangeur de Francazal, et l'avenue du Général Eisenhower sera également fermée dans les deux sens. La nuit suivante (1er au 2 octobre), c'est la direction Toulouse qui sera impactée sur le même tronçon. Par ailleurs, une bretelle d'accès à l'A64 vers Toulouse depuis l'échangeur du Chapitre est déjà restreinte depuis le 14 septembre et le restera jusqu'au 23 octobre.</summary>
+    <category term="news"/>
+    <published>2026-09-25T12:27:59+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c51e7909-be50-4bf5-91d8-7528dc29386b</id>
+    <title>Tournage du film étudiant « Opération Kühlschrank » place Saint-Pierre ce dimanche</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/4524a3a8-8517-46e0-8ebb-912203bb503b1.jpg"/&gt;
+&lt;p&gt;Ce dimanche 27 septembre 2026, la place Saint-Pierre et le pont Saint-Pierre accueilleront le tournage d&amp;#x27;un film étudiant intitulé Opération Kühlschrank, de 7h à 18h. Le pont Saint-Pierre sera interdit à la circulation par arrêté municipal, obligeant les cyclistes à mettre pied à terre, tandis que les piétons devront suivre les consignes des organisateurs. La place Saint-Pierre restera accessible mais le stationnement y sera limité à un seul véhicule à la fois. Le tournage se poursuivra le mardi 29 septembre rue Jacques-Matthieu Delpech (place Saint-Étienne), où circulation et stationnement resteront autorisés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-circulation-sur-cette-place-mythique-de-toulouse-sera-perturbee-ce-dimanche-voici-pourquoi_64825712.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/la-circulation-sur-cette-place-mythique-de-toulouse-sera-perturbee-ce-dimanche-voici-pourquoi_64825712.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Ce dimanche 27 septembre 2026, la place Saint-Pierre et le pont Saint-Pierre accueilleront le tournage d'un film étudiant intitulé Opération Kühlschrank, de 7h à 18h. Le pont Saint-Pierre sera interdit à la circulation par arrêté municipal, obligeant les cyclistes à mettre pied à terre, tandis que les piétons devront suivre les consignes des organisateurs. La place Saint-Pierre restera accessible mais le stationnement y sera limité à un seul véhicule à la fois. Le tournage se poursuivra le mardi 29 septembre rue Jacques-Matthieu Delpech (place Saint-Étienne), où circulation et stationnement resteront autorisés.</summary>
+    <category term="news"/>
+    <published>2026-09-25T13:06:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5e3fdbff-9325-45a2-b9e6-e086852867f7</id>
+    <title>Marche pour le climat à Toulouse le 26 septembre, allées Jean-Jaurès</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/manif-climat-toulouse8-lf.jpg"/&gt;
+&lt;p&gt;Toulouse vient de vivre l&amp;#x27;été le plus chaud depuis 1947, avec des séries de huit journées consécutives au-dessus de 35°C et des températures moyennes maximales dépassant de 5,5°C les normales. En réponse, une marche pour le climat, le vivant, la paix et la justice sociale est organisée samedi 26 septembre, dans le cadre d&amp;#x27;une mobilisation nationale réunissant 261 manifestations à travers le pays. Le départ est fixé à 14h depuis la statue Pierre-Paul Riquet, sur les allées Jean-Jaurès, avec une arrivée prévue au jardin Compans-Caffarelli où se tiendra une assemblée ouverte à tous. L&amp;#x27;appel, signé par près de 46 000 personnes, est apartisan mais accueille syndicats, partis politiques et associations, et réclame trois plans d&amp;#x27;urgence financés par la taxation des superprofits fossiles et un impôt climatique sur les grandes fortunes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/apres-un-ete-de-tous-les-records-une-marche-pour-le-climat-organisee-a-toulouse-le-26-septembre_64819423.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/apres-un-ete-de-tous-les-records-une-marche-pour-le-climat-organisee-a-toulouse-le-26-septembre_64819423.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse vient de vivre l'été le plus chaud depuis 1947, avec des séries de huit journées consécutives au-dessus de 35°C et des températures moyennes maximales dépassant de 5,5°C les normales. En réponse, une marche pour le climat, le vivant, la paix et la justice sociale est organisée samedi 26 septembre, dans le cadre d'une mobilisation nationale réunissant 261 manifestations à travers le pays. Le départ est fixé à 14h depuis la statue Pierre-Paul Riquet, sur les allées Jean-Jaurès, avec une arrivée prévue au jardin Compans-Caffarelli où se tiendra une assemblée ouverte à tous. L'appel, signé par près de 46 000 personnes, est apartisan mais accueille syndicats, partis politiques et associations, et réclame trois plans d'urgence financés par la taxation des superprofits fossiles et un impôt climatique sur les grandes fortunes.</summary>
+    <category term="event"/>
+    <published>2026-09-25T13:24:41+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:cdb5a03f-9758-4452-a758-b232424712de</id>
+    <title>Un homme jugé pour six braquages de supérettes à Toulouse</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/07/img-1173.jpg"/&gt;
+&lt;p&gt;Un homme de 31 ans comparaissait devant le tribunal correctionnel de Toulouse le 24 septembre 2026, accusé d&amp;#x27;avoir braqué six petites supérettes dans la ville entre mars et juillet 2026. Armé d&amp;#x27;un revolver et cagoulé, il forçait les employés à lui remettre le contenu des caisses, emportant billets et pièces dans un sac plastique. Sa fuite peu soigneuse — il abandonna une cagoule et un pantalon dans une rue voisine — permit aux enquêteurs de l&amp;#x27;identifier grâce à une analyse ADN. Les investigations établirent ensuite un lien entre ce braquage, commis dans un Petit Casino, et cinq autres faits similaires dans des commerces de proximité, tous avec le même mode opératoire. Les motivations financières semblent liées à l&amp;#x27;achat de drogues, selon les éléments rapportés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-braquait-les-petites-superettes-pour-s-acheter-de-la-drogue-un-homme-de-31-ans-juge-a-toulouse_64838678.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/il-braquait-les-petites-superettes-pour-s-acheter-de-la-drogue-un-homme-de-31-ans-juge-a-toulouse_64838678.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un homme de 31 ans comparaissait devant le tribunal correctionnel de Toulouse le 24 septembre 2026, accusé d'avoir braqué six petites supérettes dans la ville entre mars et juillet 2026. Armé d'un revolver et cagoulé, il forçait les employés à lui remettre le contenu des caisses, emportant billets et pièces dans un sac plastique. Sa fuite peu soigneuse — il abandonna une cagoule et un pantalon dans une rue voisine — permit aux enquêteurs de l'identifier grâce à une analyse ADN. Les investigations établirent ensuite un lien entre ce braquage, commis dans un Petit Casino, et cinq autres faits similaires dans des commerces de proximité, tous avec le même mode opératoire. Les motivations financières semblent liées à l'achat de drogues, selon les éléments rapportés.</summary>
+    <category term="news"/>
+    <published>2026-09-25T14:21:54+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:6682fa99-806d-4fdb-8bd9-504860f1a69d</id>
+    <title>Les deux seuls papes ayant visité Toulouse à travers l'histoire</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/basilique-saint-sernin-960x640-1.jpg"/&gt;
+&lt;p&gt;À l&amp;#x27;occasion de l&amp;#x27;annonce de la visite du pape Léon XIV en France (Paris, Lourdes, Metz) en septembre 2026, actu_toulouse rappelle que Toulouse ne figure pas au programme. L&amp;#x27;article retrace les deux seuls souverains pontifes qui ont fait un détour par la Ville rose ou ses environs, en s&amp;#x27;appuyant sur les archives du diocèse. Le premier est Urbain II, qui vint consacrer l&amp;#x27;autel et le chœur de la basilique Saint-Sernin le 24 mai 1096, alors que le chantier de l&amp;#x27;édifice roman était encore en cours. Un second pape est également mentionné, sans que l&amp;#x27;extrait disponible permette de l&amp;#x27;identifier précisément.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/a-la-difference-de-leon-xiv-voici-les-deux-seuls-papes-qui-sont-passes-par-toulouse-ou-ses-environs_64825997.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/a-la-difference-de-leon-xiv-voici-les-deux-seuls-papes-qui-sont-passes-par-toulouse-ou-ses-environs_64825997.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>À l'occasion de l'annonce de la visite du pape Léon XIV en France (Paris, Lourdes, Metz) en septembre 2026, actu_toulouse rappelle que Toulouse ne figure pas au programme. L'article retrace les deux seuls souverains pontifes qui ont fait un détour par la Ville rose ou ses environs, en s'appuyant sur les archives du diocèse. Le premier est Urbain II, qui vint consacrer l'autel et le chœur de la basilique Saint-Sernin le 24 mai 1096, alors que le chantier de l'édifice roman était encore en cours. Un second pape est également mentionné, sans que l'extrait disponible permette de l'identifier précisément.</summary>
+    <category term="culture"/>
+    <published>2026-09-25T17:52:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7a7aab2d-34bc-4937-8a9f-743a1c5dcad4</id>
+    <title>Fœtus et bébé découverts dans un conteneur à l'hôpital Rangueil</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2017/09/rangueil-Florian-Martinez-630x0.jpg"/&gt;
+&lt;p&gt;Le mercredi 23 septembre 2026, un nouveau-né et des fœtus ont été retrouvés dans un conteneur destiné aux déchets de soins, au sein de la chambre mortuaire de l&amp;#x27;hôpital Rangueil à Toulouse. Des pièces anatomiques ont également été mises au jour sur place. Le CHU de Toulouse a immédiatement alerté la police, l&amp;#x27;Agence régionale de santé (ARS) et le procureur de la République, et a engagé une enquête administrative interne. Un membre du personnel soignant est suspecté d&amp;#x27;un acte isolé ; il a été suspendu à titre conservatoire, dans l&amp;#x27;attente des conclusions de l&amp;#x27;enquête judiciaire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinq-foetus-retrouves-dans-un-conteneur-de-la-morgue-de-l-hopital-a-toulouse-un-membre-du-personnel-suspecte_64840421.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cinq-foetus-retrouves-dans-un-conteneur-de-la-morgue-de-l-hopital-a-toulouse-un-membre-du-personnel-suspecte_64840421.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le mercredi 23 septembre 2026, un nouveau-né et des fœtus ont été retrouvés dans un conteneur destiné aux déchets de soins, au sein de la chambre mortuaire de l'hôpital Rangueil à Toulouse. Des pièces anatomiques ont également été mises au jour sur place. Le CHU de Toulouse a immédiatement alerté la police, l'Agence régionale de santé (ARS) et le procureur de la République, et a engagé une enquête administrative interne. Un membre du personnel soignant est suspecté d'un acte isolé ; il a été suspendu à titre conservatoire, dans l'attente des conclusions de l'enquête judiciaire.</summary>
+    <category term="news"/>
+    <published>2026-09-25T18:20:34+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1685f161-4fe3-48ae-b2e4-0d5d2f8594b3</id>
+    <title>Ligne C du métro : influence déjà visible sur l'immobilier toulousain ?</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/01/ligne-c-toulouse.jpg"/&gt;
+&lt;p&gt;La future ligne C du métro de Toulouse, prévue pour 2028, reliera Colomiers à Labège sur 27 kilomètres et 21 stations, avec près de 30 000 logements à construire le long du tracé. La Chambre des notaires de Toulouse a analysé plusieurs quartiers concernés pour détecter une éventuelle hausse des prix immobiliers anticipant l&amp;#x27;arrivée de cette infrastructure. Selon les premières observations, les acheteurs et vendeurs ne semblent pas encore intégrer pleinement la plus-value potentielle liée à la nouvelle desserte, les travaux visibles dominant plutôt la perception du terrain. L&amp;#x27;article interroge si la ligne C pourra relancer la vivacité du marché immobilier toulousain dans les quartiers nouvellement desservis comme Bonnefoy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/immobilier-a-toulouse-la-prochaine-arrivee-de-la-ligne-c-du-metro-a-t-elle-deja-une-influence-sur-les-prix_64838035.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/immobilier-a-toulouse-la-prochaine-arrivee-de-la-ligne-c-du-metro-a-t-elle-deja-une-influence-sur-les-prix_64838035.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La future ligne C du métro de Toulouse, prévue pour 2028, reliera Colomiers à Labège sur 27 kilomètres et 21 stations, avec près de 30 000 logements à construire le long du tracé. La Chambre des notaires de Toulouse a analysé plusieurs quartiers concernés pour détecter une éventuelle hausse des prix immobiliers anticipant l'arrivée de cette infrastructure. Selon les premières observations, les acheteurs et vendeurs ne semblent pas encore intégrer pleinement la plus-value potentielle liée à la nouvelle desserte, les travaux visibles dominant plutôt la perception du terrain. L'article interroge si la ligne C pourra relancer la vivacité du marché immobilier toulousain dans les quartiers nouvellement desservis comme Bonnefoy.</summary>
+    <category term="news"/>
+    <published>2026-09-26T06:08:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7597a65d-56b3-49b2-8c46-7a40bea93406</id>
+    <title>Un restaurant en rooftop avec vue panoramique à l'immeuble des Variétés</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/vue-rooftop-varietes-toulouse-saint-sernin-gl.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;immeuble des Variétés, qui accueillera bientôt une nouvelle Fnac en centre-ville, hébergera également un restaurant au 4e étage avec une terrasse en rooftop de 400 m². Le projet, conçu par le cabinet Taillandier pour la foncière Caso Patrimoine, offre une vue inédite sur les toits de Toulouse, avec notamment la basilique Saint-Sernin et le marché Victor-Hugo. Le restaurant disposera de 700 m² de surface intérieure, et sera accessible depuis la rue d&amp;#x27;Austerlitz. Le nom de l&amp;#x27;établissement n&amp;#x27;a pas encore été officialisé au moment de la publication.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/depuis-son-rooftop-decouvrez-la-vue-spectaculaire-que-ce-futur-restaurant-offrira-sur-les-toits-de-toulouse_64838687.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/depuis-son-rooftop-decouvrez-la-vue-spectaculaire-que-ce-futur-restaurant-offrira-sur-les-toits-de-toulouse_64838687.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'immeuble des Variétés, qui accueillera bientôt une nouvelle Fnac en centre-ville, hébergera également un restaurant au 4e étage avec une terrasse en rooftop de 400 m². Le projet, conçu par le cabinet Taillandier pour la foncière Caso Patrimoine, offre une vue inédite sur les toits de Toulouse, avec notamment la basilique Saint-Sernin et le marché Victor-Hugo. Le restaurant disposera de 700 m² de surface intérieure, et sera accessible depuis la rue d'Austerlitz. Le nom de l'établissement n'a pas encore été officialisé au moment de la publication.</summary>
+    <category term="place"/>
+    <published>2026-09-26T06:42:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:912f287e-fdeb-411c-9e0a-cd3e416a97b8</id>
+    <title>Figlia : Jenny ouvre un comptoir à panuozzo napolitain rue du Fourbastard</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/20260922-153906.jpg"/&gt;
+&lt;p&gt;Jenny vient d&amp;#x27;inaugurer Figlia, un petit restaurant-comptoir situé au 23 rue du Fourbastard, en plein centre de Toulouse, entièrement dédié au panuozzo, une spécialité napolitaine encore peu connue en France, à mi-chemin entre le sandwich et la pizza. Fille d&amp;#x27;un boulanger toulousain, Jenny a une longue expérience de la restauration — pizzeria, salon de thé-sandwicherie — et a souhaité revenir à quelque chose de plus intime et personnel avec ce projet. Elle a entièrement rénové le local, anciennement occupé par Mon Graillou, en y installant un comptoir rétractable, une vitrine à desserts et un four à pain. L&amp;#x27;ouverture a été marquée par des épreuves personnelles, notamment la maladie de son père, boulanger lui-même, dont elle cherche à perpétuer l&amp;#x27;héritage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/perpetuer-l-heritage-de-ma-famille-a-toulouse-jenny-sublime-le-panuozzo-une-specialite-italienne-meconnue_64828588.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/perpetuer-l-heritage-de-ma-famille-a-toulouse-jenny-sublime-le-panuozzo-une-specialite-italienne-meconnue_64828588.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Jenny vient d'inaugurer Figlia, un petit restaurant-comptoir situé au 23 rue du Fourbastard, en plein centre de Toulouse, entièrement dédié au panuozzo, une spécialité napolitaine encore peu connue en France, à mi-chemin entre le sandwich et la pizza. Fille d'un boulanger toulousain, Jenny a une longue expérience de la restauration — pizzeria, salon de thé-sandwicherie — et a souhaité revenir à quelque chose de plus intime et personnel avec ce projet. Elle a entièrement rénové le local, anciennement occupé par Mon Graillou, en y installant un comptoir rétractable, une vitrine à desserts et un four à pain. L'ouverture a été marquée par des épreuves personnelles, notamment la maladie de son père, boulanger lui-même, dont elle cherche à perpétuer l'héritage.</summary>
+    <category term="place"/>
+    <published>2026-09-26T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9cf02840-4a96-4d57-9c54-456dc3626ac0</id>
+    <title>La Garonne à Toulouse atteint un niveau de sécheresse historique</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/1000017474.jpg"/&gt;
+&lt;p&gt;En septembre 2026, la Garonne connaît un étiage exceptionnel à Toulouse : le sol du lit du fleuve est visible sur plusieurs dizaines de mètres depuis les berges, et les débits atteignent des records secs jamais enregistrés depuis le début du siècle. Sans les lâchers quotidiens depuis les lacs pyrénéens, la Garonne serait déjà sous le seuil de débit de crise. Le vendredi 25 septembre, la préfecture de Haute-Garonne a placé 136 communes en gestion de crise, évoquant « un niveau d&amp;#x27;alerte inédit » entre les Pyrénées et Toulouse. Le secrétaire général de la préfecture a qualifié l&amp;#x27;été 2026 de sans précédent, combinant chaleur record et pluviométrie historiquement basse.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article (22 septembre) adopte un angle de reportage terrain — journalistes descendus dans le lit du fleuve, constats visuels et données hydrologiques. Le second (25 septembre) est davantage institutionnel, centré sur la réponse de la préfecture et le passage en gestion de crise de 136 communes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (vidéo)&lt;/strong&gt;: Constat visuel et données de débit : marcher dans le lit asséché de la Garonne&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (sécheresse)&lt;/strong&gt;: Réponse administrative et déclarations de la préfecture sur l&amp;#x27;état de crise&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/on-a-marche-dans-la-garonne-assechee-a-toulouse-le-niveau-du-fleuve-va-atteindre-le-seuil-d-alerte-renforcee_64822014.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/secheresse-niveau-d-alerte-inedit-sur-la-garonne-la-prefecture-passe-136-communes-en-gestion-de-crise_64840607.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/on-a-marche-dans-la-garonne-assechee-a-toulouse-le-niveau-du-fleuve-va-atteindre-le-seuil-d-alerte-renforcee_64822014.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>En septembre 2026, la Garonne connaît un étiage exceptionnel à Toulouse : le sol du lit du fleuve est visible sur plusieurs dizaines de mètres depuis les berges, et les débits atteignent des records secs jamais enregistrés depuis le début du siècle. Sans les lâchers quotidiens depuis les lacs pyrénéens, la Garonne serait déjà sous le seuil de débit de crise. Le vendredi 25 septembre, la préfecture de Haute-Garonne a placé 136 communes en gestion de crise, évoquant « un niveau d'alerte inédit » entre les Pyrénées et Toulouse. Le secrétaire général de la préfecture a qualifié l'été 2026 de sans précédent, combinant chaleur record et pluviométrie historiquement basse.</summary>
+    <category term="news"/>
+    <published>2026-09-22T17:55:44+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:dba83357-da99-4e81-8142-01481e0ee73d</id>
+    <title>Hexagone MMA au Zénith : 5 000 spectateurs attendus le 25 septembre</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/MMA.jpg"/&gt;
+&lt;p&gt;La première organisation française de MMA, Hexagone MMA, tient une grande soirée au Zénith de Toulouse le 25 septembre à partir de 19h, avec près de 5 000 spectateurs attendus. Au programme : 11 combats dont 7 professionnels, avec la tête d&amp;#x27;affiche toulousaine Owen Jason parmi les principaux combattants. L&amp;#x27;organisation a été fondée en 2021 par les frères toulousains Jérôme et Laurent Pourrut, qui ont délibérément choisi de rester basés à Toulouse plutôt que de s&amp;#x27;installer à Paris. Un combattant local figure sur presque chaque combat de la soirée, confirmant la place forte que représente la Ville rose dans le MMA français.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;L&amp;#x27;office du tourisme se concentre sur l&amp;#x27;événement et la mise en avant d&amp;#x27;Owen Jason ; Actu Toulouse offre un contexte éditorial plus riche avec une interview des fondateurs et le récit de l&amp;#x27;essor du MMA à Toulouse.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Interview des fondateurs et analyse du positionnement de Toulouse dans le MMA français&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Infos pratiques sur l&amp;#x27;événement : lieu, date, têtes d&amp;#x27;affiche&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/hexagone-mma/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-est-une-terre-de-mma-pourquoi-la-ville-rose-s-impose-comme-une-place-forte-de-ce-sport-de-combat-en-france_64837057.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/hexagone-mma/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La première organisation française de MMA, Hexagone MMA, tient une grande soirée au Zénith de Toulouse le 25 septembre à partir de 19h, avec près de 5 000 spectateurs attendus. Au programme : 11 combats dont 7 professionnels, avec la tête d'affiche toulousaine Owen Jason parmi les principaux combattants. L'organisation a été fondée en 2021 par les frères toulousains Jérôme et Laurent Pourrut, qui ont délibérément choisi de rester basés à Toulouse plutôt que de s'installer à Paris. Un combattant local figure sur presque chaque combat de la soirée, confirmant la place forte que représente la Ville rose dans le MMA français.</summary>
+    <category term="event"/>
+    <published>2026-09-22T07:07:42.522991+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:4c5181a7-2f5c-4b2c-b898-83b41337047d</id>
+    <title>Deux salons créatifs au MEETT : artisanat et loisirs créatifs</title>
+    <updated>2026-09-26T06:39:06.701209+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/-MG-1560-copie.jpg"/&gt;
+&lt;p&gt;Le MEETT accueille deux salons distincts dédiés à la créativité et au fait-main en 2026. En octobre (du 8 au 11), la 27e édition de Tendances Créatives propose 110 exposants, 150 ateliers pratiques et de nouveaux espaces comme le Couture Lab&amp;#x27;, le Tricot&amp;#x27;Lab et le Scrap Lab&amp;#x27;, ouverts à tous les niveaux. En décembre (du 9 au 13), le Salon Créateurs &amp;amp; Artisans d&amp;#x27;Art réunit 160 artisans sélectionnés pour leur originalité, venus de toute la France avec vêtements, bijoux, meubles et objets uniques — idéal pour les cadeaux de fin d&amp;#x27;année. Les deux événements s&amp;#x27;adressent aussi bien aux passionnés qu&amp;#x27;aux familles et aux curieux.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux sources couvrent des événements distincts au même lieu (MEETT) : l&amp;#x27;une un salon de loisirs créatifs en octobre, l&amp;#x27;autre un salon d&amp;#x27;artisanat en décembre. Aucune contradiction entre elles.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (Tendances Créatives)&lt;/strong&gt;: Ateliers pratiques, exposants matières premières, animations gratuites en octobre&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (Salon Créateurs &amp;amp; Artisans d&amp;#x27;Art)&lt;/strong&gt;: Artisans d&amp;#x27;art sélectionnés, cadeaux de Noël, pièces uniques en décembre&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/salon-createurs-et-artisans-dart/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/27eme-edition-tendances-creatives-le-salon-des-loisirs-creatifs/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/salon-createurs-et-artisans-dart/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le MEETT accueille deux salons distincts dédiés à la créativité et au fait-main en 2026. En octobre (du 8 au 11), la 27e édition de Tendances Créatives propose 110 exposants, 150 ateliers pratiques et de nouveaux espaces comme le Couture Lab', le Tricot'Lab et le Scrap Lab', ouverts à tous les niveaux. En décembre (du 9 au 13), le Salon Créateurs &amp; Artisans d'Art réunit 160 artisans sélectionnés pour leur originalité, venus de toute la France avec vêtements, bijoux, meubles et objets uniques — idéal pour les cadeaux de fin d'année. Les deux événements s'adressent aussi bien aux passionnés qu'aux familles et aux curieux.</summary>
+    <category term="event"/>
+    <published>2026-09-22T06:33:56.394464+00:00</published>
   </entry>
 </feed>

@@ -10,8 +10,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:cluster:964a9c15-61c8-4c99-bb21-d0e7cf561834@news.lavillerose.com
-DTSTART;VALUE=DATE:20250925
-DTEND;VALUE=DATE:20250926
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
 SUMMARY:Hexagone MMA
 DESCRIPTION:Alison Canot\, 41 ans\, profeseure de français dans un collèg
  e de Montesquieu-Volvestre et mère de deux enfants\, monte sur le ring ce
@@ -14409,16 +14409,16 @@ BEGIN:VEVENT
 UID:cluster:dba83357-da99-4e81-8142-01481e0ee73d@news.lavillerose.com
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:HEXAGONE MMA
-DESCRIPTION:HEXAGONE MMA\, fondée en 2021 et devenue la première organisa
- tion de MMA en France\, revient à Toulouse pour une soirée de combats au
-  Zénith Métropole le 25 septembre 2026. L'événement met à l'honneur l
- es talents locaux\, avec en tête d'affiche le Toulousain Owen Jason\, pr
- ésenté comme l'un des plus grands espoirs du MMA français. Un combattan
- t local sera représenté dans presque chaque combat de la soirée\, faisa
- nt de ce gala un événement particulièrement ancré dans la scène toulo
- usaine. Les amateurs\n\nSource\: https://www.toulouse-tourisme.com/agenda/
- hexagone-mma/
+SUMMARY:Hexagone MMA
+DESCRIPTION:La première organisation française de MMA\, Hexagone MMA\, ti
+ ent une grande soirée au Zénith de Toulouse le 25 septembre à partir de
+  19h\, avec près de 5 000 spectateurs attendus. Au programme : 11 combats
+  dont 7 professionnels\, avec la tête d'affiche toulousaine Owen Jason pa
+ rmi les principaux combattants. L'organisation a été fondée en 2021 par
+  les frères toulousains Jérôme et Laurent Pourrut\, qui ont délibéré
+ ment choisi de rester basés à Toulouse plutôt que de s'installer à Par
+ is. Un combattant \n\nSource\: https://www.toulouse-tourisme.com/agenda/he
+ xagone-mma/
 URL:https://www.toulouse-tourisme.com/agenda/hexagone-mma/?utm_source=ical&
  utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -15028,6 +15028,25 @@ URL:https://www.clutchmag.fr/evenements#2026-09-24-samedi-26-septembre-2?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:5e3fdbff-9325-45a2-b9e6-e086852867f7@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Marche pour le climat
+DESCRIPTION:Toulouse vient de vivre l'été le plus chaud depuis 1947\, ave
+ c des séries de huit journées consécutives au-dessus de 35°C et des te
+ mpératures moyennes maximales dépassant de 5\,5°C les normales. En rép
+ onse\, une marche pour le climat\, le vivant\, la paix et la justice socia
+ le est organisée samedi 26 septembre\, dans le cadre d'une mobilisation n
+ ationale réunissant 261 manifestations à travers le pays. Le départ est
+  fixé à 14h depuis la statue Pierre-Paul Riquet\, sur les allées Jean-J
+ aurès\, avec une a\n\nSource\: https://actu.fr/occitanie/toulouse_31555/a
+ pres-un-ete-de-tous-les-records-une-marche-pour-le-climat-organisee-a-toul
+ ouse-le-26-septembre_64819423.html
+URL:https://actu.fr/occitanie/toulouse_31555/apres-un-ete-de-tous-les-recor
+ ds-une-marche-pour-le-climat-organisee-a-toulouse-le-26-septembre_64819423
+ .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e@news.lavillerose.com
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
@@ -15254,6 +15273,26 @@ DESCRIPTION:Le Tunnel des Fashions organise un vide dressing sur fond de mu
  venements#2026-09-24-dimanche-27-septembre-0
 URL:https://www.clutchmag.fr/evenements#2026-09-24-dimanche-27-septembre-0?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c51e7909-be50-4bf5-91d8-7528dc29386b@news.lavillerose.com
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Opération Kühlschrank
+DESCRIPTION:Ce dimanche 27 septembre 2026\, la place Saint-Pierre et le pon
+ t Saint-Pierre accueilleront le tournage d'un film étudiant intitulé Op
+ ération Kühlschrank\, de 7h à 18h. Le pont Saint-Pierre sera interdit 
+ à la circulation par arrêté municipal\, obligeant les cyclistes à mett
+ re pied à terre\, tandis que les piétons devront suivre les consignes de
+ s organisateurs. La place Saint-Pierre restera accessible mais le stationn
+ ement y sera limité à un seul véhicule à la fois. Le tournage se pours
+ uivra le mardi\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-cir
+ culation-sur-cette-place-mythique-de-toulouse-sera-perturbee-ce-dimanche-v
+ oici-pourquoi_64825712.html
+LOCATION:place Saint-Pierre\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/la-circulation-sur-cette-place
+ -mythique-de-toulouse-sera-perturbee-ce-dimanche-voici-pourquoi_64825712.h
+ tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:35bd7fcd-3a2a-446f-92bc-31b883fd252a@news.lavillerose.com
@@ -15545,6 +15584,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/emploi-airbus-safran-daher-2-5
  00-postes-a-pourvoir-a-toulouse-et-aux-alentours-un-immense-job-dating-org
  anise_64825402.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:490d10a4-e208-4fa2-8847-d2ec7b840974@news.lavillerose.com
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261003
+SUMMARY:Fermetures nocturnes de l'A64 au sud de Toulouse fin septembre
+DESCRIPTION:Les travaux de renforcement du pont de l'échangeur Le Chapitre
+  (n°38) sur l'A64\, engagés depuis le 6 juillet 2026\, entrent dans une 
+ nouvelle phase avec des fermetures nocturnes programmées entre 21h et 6h.
+  Dans la nuit du 30 septembre au 1er octobre\, l'A64 sera coupée en direc
+ tion de Tarbes entre la bifurcation de Bordelongue et l'échangeur de Fran
+ cazal\, et l'avenue du Général Eisenhower sera également fermée dans l
+ es deux sens. La nuit suivante (1er au 2 octobre)\, c'est la direction Tou
+ louse qu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/l-autoroute-
+ a64-en-partie-fermee-au-sud-de-toulouse-dans-les-nuits-a-venir-quelles-son
+ t-les-zones-concernees_64836879.html
+URL:https://actu.fr/occitanie/toulouse_31555/l-autoroute-a64-en-partie-ferm
+ ee-au-sud-de-toulouse-dans-les-nuits-a-venir-quelles-sont-les-zones-concer
+ nees_64836879.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6627f8de-dc09-4902-9942-e979ed2bb962@news.lavillerose.com
@@ -15972,6 +16031,23 @@ URL:https://www.toulouse-tourisme.com/agenda/cantada/?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d5f4987e-e9e8-4150-a5bb-6e41f8d241f3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+SUMMARY:Biblis en Folie
+DESCRIPTION:Du 2 au 4 octobre 2026\, le festival Biblis en Folie investit c
+ inq bibliothèques et médiathèques de la métropole toulousaine pour un 
+ week-end de découvertes culturelles. Au programme : visites insolites mê
+ lant théâtre de rue\, danse et chant à la médiathèque José Cabanis\,
+  ciné-spectacle Babel Rhapsodie dès 6 ans\, exposition sonore avec Émel
+ ine Rétif\, et lectures-performances sur les secrets des bibliothèques l
+ a nuit. Les tout-petits (0–3 ans) sont également conviés à la Médiat
+ hèque du Muséum\, tand\n\nSource\: https://www.toulouse-tourisme.com/age
+ nda/biblis-en-folie/
+URL:https://www.toulouse-tourisme.com/agenda/biblis-en-folie/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4116e74f-77fa-46a9-967c-5375739fa003@news.lavillerose.com
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
@@ -16269,6 +16345,22 @@ URL:https://www.toulouse-tourisme.com/agenda/rando-velo-a-la-decouverte-des
  da
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2a19bc2d-6334-46d8-9fd5-a43aff8625e3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Le Petit Marché du Lab
+DESCRIPTION:Le Lab'Oïkos accueille le Petit Marché du Lab\, un marché de
+  créateurs et producteurs locaux prévu le 4 octobre 2026. On y trouvera 
+ une sélection variée : bijoux\, illustrations\, bougies\, plantes\, miel
+ \, café\, accessoires et gourmandises. L'événement est une occasion de 
+ soutenir l'artisanat et la production locale toulousaine en un seul lieu. 
+ Il s'adresse aussi bien aux amateurs de créations originales qu'aux curie
+ ux en quête de produits du terroir.\n\nSource\: https://www.toulouse-tour
+ isme.com/agenda/le-petit-marche-du-lab/
+URL:https://www.toulouse-tourisme.com/agenda/le-petit-marche-du-lab/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:83e87ec4-f869-4b78-a59a-665a73468527@news.lavillerose.com
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261023
@@ -16531,6 +16623,23 @@ URL:https://www.toulouse-tourisme.com/agenda/comment-apporter-la-nature-dan
  &utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:61aeb00d-29d0-4dd5-8af3-d4df23b5b6c7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261012
+SUMMARY:Festival du Film des Toiles du Nord
+DESCRIPTION:Le Festival du Film des Toiles du Nord se tient du 7 au 11 octo
+ bre 2026 au Cinéma Le Lumière\, avec 13 films projetés sur 4 jours. La 
+ programmation mêle fictions\, documentaires et avant-premières\, dont pl
+ usieurs séances d'un même titre à des horaires variés pour faciliter l
+ 'accès. Parmi les films à découvrir : *La maison de nos rêves*\, *Gabi
+ n*\, *Marianne*\, *À jamais les premières* (en VO) ou encore *Où vont l
+ es âmes*. Le festival s'étend également aux cinémas Le Méliès de Cas
+ telmaurou et Le Ventu\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /festival-du-film-des-toiles-du-nord/
+URL:https://www.toulouse-tourisme.com/agenda/festival-du-film-des-toiles-du
+ -nord/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e02a6d76-5814-4980-a454-7698c9889217@news.lavillerose.com
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
@@ -16791,6 +16900,23 @@ URL:https://www.toulouse-tourisme.com/agenda/le-canal-du-midi-en-gabarre/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4c5181a7-2f5c-4b2c-b898-83b41337047d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261214
+SUMMARY:Deux salons créatifs au MEETT : artisanat et loisirs créatifs
+DESCRIPTION:Le MEETT accueille deux salons distincts dédiés à la créati
+ vité et au fait-main en 2026. En octobre (du 8 au 11)\, la 27e édition d
+ e Tendances Créatives propose 110 exposants\, 150 ateliers pratiques et d
+ e nouveaux espaces comme le Couture Lab'\, le Tricot'Lab et le Scrap Lab'\
+ , ouverts à tous les niveaux. En décembre (du 9 au 13)\, le Salon Créat
+ eurs & Artisans d'Art réunit 160 artisans sélectionnés pour leur origin
+ alité\, venus de toute la France avec vêtements\, bijoux\, meubles et ob
+ jets uniques — i\n\nSource\: https://www.toulouse-tourisme.com/agenda/sa
+ lon-createurs-et-artisans-dart/
+URL:https://www.toulouse-tourisme.com/agenda/salon-createurs-et-artisans-da
+ rt/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:55741ab4-59cc-47a2-8cee-92e004001e98@news.lavillerose.com
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
@@ -16810,6 +16936,41 @@ URL:https://actu.fr/occitanie/toulouse_31555/c-est-la-derniere-de-l-annee-v
  oici-quand-se-tiendra-la-prochaine-nocturne-du-marche-saint-cyprien-a-toul
  ouse_64827903.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4d2a0449-521f-48d3-9d0c-eaaff055c36d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Expérience Sonore Marcon & Sens
+DESCRIPTION:Fanny Marcon et Marc Sens se réunissent pour la première fois
+  le 8 octobre 2026 à la Chapelle des Carmélites pour une performance mus
+ icale inédite à deux guitares électriques. Les deux artistes explorent 
+ l'improvisation\, les distorsions et les dissonances\, utilisant archets e
+ t objets détournés pour repousser les frontières du son. L'événement 
+ s'inscrit dans la soirée de rentrée de la Maison de l'Architecture Occit
+ anie - Pyrénées\, association engagée dans la diffusion de la culture a
+ rchitecturale\n\nSource\: https://www.toulouse-tourisme.com/agenda/experie
+ nce-sonore-de-fanny-marcon-marc-sens/
+URL:https://www.toulouse-tourisme.com/agenda/experience-sonore-de-fanny-mar
+ con-marc-sens/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:dd32fc65-f4b4-4486-9122-098630da8310@news.lavillerose.com
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261013
+SUMMARY:Exposition Primitae
+DESCRIPTION:L'exposition Primitae investit le Domaine de Rochemontès du 8 
+ au 12 octobre 2026 dans une mise en scène immersive et ambitieuse. Trente
+ -cinq artistes et designers venus de toute l'Europe\, ainsi que deux galer
+ ies toulousaines\, prennent possession des différents espaces du domaine.
+  L'événement se distingue par son ancrage dans un lieu patrimonial et pa
+ r l'ampleur internationale de sa programmation artistique. Une occasion ra
+ re de découvrir création contemporaine et design dans un cadre naturel e
+ t \n\nSource\: https://www.toulouse-tourisme.com/agenda/exposition-primita
+ e/
+URL:https://www.toulouse-tourisme.com/agenda/exposition-primitae/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7622c685-e7cb-4422-a6d0-840ae3967944@news.lavillerose.com
@@ -16948,6 +17109,24 @@ LOCATION:boulevard de la Marquette dans le quartier Compans-Caffarel\, Toul
  ouse
 URL:https://www.toulouse-tourisme.com/agenda/layup/?utm_source=ical&utm_med
  ium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:db83f732-8386-4446-86da-058089711d35@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:La Mékanik du Rire
+DESCRIPTION:La Mékanik du Rire investit l'Esplanade Sainte-Germaine du 9 a
+ u 11 octobre 2026 pour un festival de spectacles de rue. Trente moments de
+  spectacle sont au programme\, avec des compagnies variées comme Plip\, C
+ lowning Out\, Naine Rouge\, le G.O.P\, L'Évitation\, Sacrés Cathares ou 
+ encore Fée. La soirée d'ouverture du vendredi accueillera A La One Again
+  et Le Concert à Juli\, deux spectacles réservés à cette seule date. L
+ 'événement s'adresse à tous les publics désireux de découvrir les art
+ s de la rue en \n\nSource\: https://www.toulouse-tourisme.com/agenda/la-me
+ kanik-du-rire/
+LOCATION:Esplanade Sainte-Germaine du 9 au 11 octobre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/la-mekanik-du-rire/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8@news.lavillerose.com
@@ -17156,6 +17335,24 @@ DESCRIPTION:La soprano Veronica Antonelli se produira à l'église Saint-J
 URL:https://www.toulouse-tourisme.com/agenda/la-soprano-veronica-antonelli-
  chante-la-paix/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
  agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:72915c3c-4372-4ad0-9cf6-b4edff00a18b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Marché Ubuntu
+DESCRIPTION:Le Marché Ubuntu investit les Halles de la Cartoucherie les 10
+  et 11 octobre 2026 pour célébrer les marques africaines et caribéennes
+  éco-responsables fabriquées en France. Ce marché met à l'honneur l'ar
+ tisanat\, la culture et l'innovation à travers des stands venus de toute 
+ la France\, parmi lesquels Tanguy Semvo\, qui produit le seul ananas label
+ lisé au monde issu du Bénin\, et Helza Design\, créatrice de pièces co
+ ntemporaines mêlant bois et raphia. Au-delà des exposants\, des animatio
+ ns et des renc\n\nSource\: https://www.toulouse-tourisme.com/agenda/marche
+ -ubuntu/
+LOCATION:Halles de la Cartoucherie les 10\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/marche-ubuntu/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:744ac576-64bd-4a05-bfbd-13ed818d31da@news.lavillerose.com
@@ -21716,6 +21913,23 @@ URL:https://www.toulouse-tourisme.com/agenda/pyrenicimes-2026/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:098273d2-b498-4784-a3f7-aa7ba04d179d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Girls Don't Cry Festival
+DESCRIPTION:Le Girls Don't Cry Festival revient à Toulouse du 27 au 29 nov
+ embre 2026\, porté par l'association La Petite et son média éponyme\, q
+ ui militent pour l'égalité des genres dans les arts. Pendant trois jours
+ \, le festival propose concerts\, performances\, expositions et rencontres
+  autour de la création artistique des personnes minorisées de genre. La 
+ programmation réunit notamment THX4CRYING\, GATAFIERA\, SUKKUBE\, VANDA F
+ ORTE\, OONAGH HAINES\, BRIZITOS\, Louise Pétrouchka et LE KAIJU. Les vend
+ redi et samedi\n\nSource\: https://www.toulouse-tourisme.com/agenda/girls-
+ dont-cry-festival/
+URL:https://www.toulouse-tourisme.com/agenda/girls-dont-cry-festival/?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e00c73cd-495e-47fa-b107-36d2ac9ec001@news.lavillerose.com
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
@@ -22566,23 +22780,6 @@ LOCATION:salles de musique a\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/axel-bauer-billet/idmanif/
  647331/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:4c5181a7-2f5c-4b2c-b898-83b41337047d@news.lavillerose.com
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261214
-SUMMARY:Salon Créateurs & Artisans d'Art
-DESCRIPTION:Le Salon Créateurs & Artisans d'Art investit le MEETT de Toulo
- use du 9 au 13 décembre 2026\, à quelques semaines des fêtes de fin d'a
- nnée. Quelque 160 artisans et créateurs sélectionnés par un comité d'
- experts y présenteront vêtements\, bijoux\, meubles\, sculptures\, sacs 
- et objets fait-main venus de tout l'Hexagone. Une « Allée des artistes 
- » permettra d'admirer des œuvres uniques\, tandis qu'un espace dédié m
- et en avant les jeunes créateurs. L'événement constitue une opportunit
- é idéale pour déniche\n\nSource\: https://www.toulouse-tourisme.com/age
- nda/salon-createurs-et-artisans-dart/
-URL:https://www.toulouse-tourisme.com/agenda/salon-createurs-et-artisans-da
- rt/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:05ca7e33-1e4e-46a0-aafd-117b38dabeea@news.lavillerose.com
@@ -29634,6 +29831,25 @@ LOCATION:salle de spectacle établie\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/sergio-cortes-billet/idman
  if/673082/idseance/4425647?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a547d27c-ca22-4c7c-895a-7e62fcdff969@news.lavillerose.com
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Zazie
+DESCRIPTION:La chanteuse Zazie se produira au Zénith Toulouse Métropole l
+ e 16 octobre 2027. Ce concert s'inscrit dans le registre de la chanson fra
+ nçaise\, un genre qu'elle incarne depuis plus de trente ans avec succès.
+  Le Zénith est la grande salle de spectacle incontournable de l'agglomér
+ ation toulousaine\, capable d'accueillir plusieurs milliers de spectateurs
+ . Les fans de Zazie dans la région toulousaine sont invités à surveille
+ r les billets disponibles sur Ticketmaster.\n\nSource\: https://www.ticket
+ master.fr/fr/manifestation/zazie-billet/idmanif/673284/idseance/4426751
+LOCATION:salle de spectacle incontournable de l'agglomération to\, Toulous
+ e
+URL:https://www.ticketmaster.fr/fr/manifestation/zazie-billet/idmanif/67328
+ 4/idseance/4426751?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:f3d78eb6-aa63-4798-98e1-2ad4fb6cc820@news.lavillerose.com
