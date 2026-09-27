@@ -1,0 +1,220 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:b053dcb7-6594-47a2-a42e-5e889ee39d37",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Salon des Gourmets de Lettres à l'Hôtel d'Assézat",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/IMG-2991-dimanche-apres-midi-il-aurait-fallu-un-sens-de-circulation-dans-les-allees-scaled-copie.jpg",
+    "file": "cluster_b053dcb7-6594-47a2-a42e-5e889ee39d37_event_story.jpg",
+    "img_width": 860,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8e4ed58f-77fb-4036-8482-f1a7584581bf",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Arts en Balade chez AHPY, galerie éphémère rue des Lois",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ARTS-EN-BALADE-AHPY.jpg",
+    "file": "cluster_8e4ed58f-77fb-4036-8482-f1a7584581bf_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a57ba0f8-9cd4-4542-a49a-1e7b516d3951",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "TGD Quest : 45 jeux vidéo toulousains en direct sur Twitch",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/jeux---adrien.jpg?itok=xvcGibwe",
+    "file": "cluster_a57ba0f8-9cd4-4542-a49a-1e7b516d3951_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:6587795a-c72d-4730-8b96-30e7b1b5950c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Arts en Balade : 206 artistes ouvrent leurs ateliers à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/-2024-09-28AEB-24-creditVeroniqueBrill--1--copie-2.jpg",
+    "file": "cluster_6587795a-c72d-4730-8b96-30e7b1b5950c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f698d62b-60c6-44f1-b43e-2af5d32b64e4",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Allées Céramiques fêtent leur 10e anniversaire allées François Verdier",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-ALLEES-CERAMIQUES-2026.jpg",
+    "file": "cluster_f698d62b-60c6-44f1-b43e-2af5d32b64e4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1de6081a-3c73-4b12-85f9-1504169fb922",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Salon du Vintage au Grand Marché MIN : 100 exposants sur 3 000 m²",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/salon-vintage-toulouse.jpg",
+    "file": "cluster_1de6081a-3c73-4b12-85f9-1504169fb922_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:305e5697-5f18-466f-a150-b7fb796d4ee0",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Solo Circus à la Comédie de la Roseraie : spectacle familial tour du monde",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SOLO-CIRCUS.jpg",
+    "file": "cluster_305e5697-5f18-466f-a150-b7fb796d4ee0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:37993a8a-c26a-4201-9b0d-34a6b4798895",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Sens et Nature au Jardin des Plantes : bien-être et artisanat",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-SENS-ET-NATURE.jpg",
+    "file": "cluster_37993a8a-c26a-4201-9b0d-34a6b4798895_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Vide atelier de La Garonne Expose : peintures, sculptures et photos",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/453924376-1021019350026326-7189141735270014538-n-copie.jpg",
+    "file": "cluster_7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d26aca35-6c5d-450c-8c67-ff4852d279d3",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Triathlon des Roses à la Zone Verte des Argoulets pour la recherche",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/--Vincent-Krieger-240929-155126-VK9-4712-bd-copie.jpg",
+    "file": "cluster_d26aca35-6c5d-450c-8c67-ff4852d279d3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f07a7cbe-7f89-45e6-854c-06dfdc295a1d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Concert Mozart à L'Escale : Symphonies n°40 et n°41",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MOZART---JENKINS.jpg",
+    "file": "cluster_f07a7cbe-7f89-45e6-854c-06dfdc295a1d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6dfc7f55-f3fd-4847-a401-abf9b7a24254",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "Concert tribute metal FOREVER NU ! au Rex Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_6dfc7f55-f3fd-4847-a401-abf9b7a24254_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:e92383ea-75a1-4d53-a739-f393d2757315",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cont'Opéra : balade contée et chantée au 18 rue Kepler",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VOIX-PARTAGEES-2.jpg",
+    "file": "cluster_e92383ea-75a1-4d53-a739-f393d2757315_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:278e6197-6cfd-4c89-b7dc-fc07e500fffc",
+    "format": "story",
+    "source": "ticketmaster",
+    "category": "event",
+    "title": "Les Chevaliers du Fiel en spectacle à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/8e4/21ca86eb-b4d0-4310-b6e1-dd62f93668e4_SOURCE",
+    "file": "cluster_278e6197-6cfd-4c89-b7dc-fc07e500fffc_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:ac83a9e7-ff6e-49ef-8b30-faa96117b033",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Pianomuses : deux concerts romantiques à la Chapelle des Carmélites",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PIANOMUSES-27-SEPTEMBRE-TOULOUSE.jpg",
+    "file": "cluster_ac83a9e7-ff6e-49ef-8b30-faa96117b033_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8ae67c30-3032-4a26-816e-86b1d88cc38e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Metronum Côté Jardins aux Jardins du Muséum de Borderouge",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1759754448420-copie.jpg",
+    "file": "cluster_8ae67c30-3032-4a26-816e-86b1d88cc38e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9cd02f52-306f-445f-9bb6-40adf7907cea",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "3e Journée de la santé au Grand Rond : prévention et sport gratuits",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/adobestock_2091566680.jpg?h=04444170&itok=hRVkGAwE",
+    "file": "cluster_9cd02f52-306f-445f-9bb6-40adf7907cea_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:413ad266-cf3e-48bf-bf68-76ad99738f47",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Journée des Chiens Guides allées Jules Guesde, face au Quai des Savoirs",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JOURNEE-DES-CHIENS-GUIDES.jpg",
+    "file": "cluster_413ad266-cf3e-48bf-bf68-76ad99738f47_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3be29930-6731-4798-8bfd-0551daad02d5",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Lascaux 5 : ultime célébration à Lieu-Commun avant effacement",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LASCAUX-5.jpg",
+    "file": "cluster_3be29930-6731-4798-8bfd-0551daad02d5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

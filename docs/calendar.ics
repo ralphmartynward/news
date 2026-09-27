@@ -9,26 +9,6 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:cluster:964a9c15-61c8-4c99-bb21-d0e7cf561834@news.lavillerose.com
-DTSTART;VALUE=DATE:20250926
-DTEND;VALUE=DATE:20250927
-SUMMARY:Hexagone MMA
-DESCRIPTION:Alison Canot\, 41 ans\, profeseure de français dans un collèg
- e de Montesquieu-Volvestre et mère de deux enfants\, monte sur le ring ce
-  vendredi 25 septembre au Zénith de Toulouse pour un combat MMA dans la c
- atégorie des moins de 56 kg. Elle affronte Morgane Dehaye\, 29 ans\, orig
- inaire de Tarbes\, lors de la soirée organisée par la ligue Hexagone MMA
-  à partir de 19h. Ce duel féminin est le seul du programme\, qui compte 
- 11 combats au total. Sociétaire du Pyrénées Fighting Club de Salies-du-
- Salat\, Aliso\n\nSource\: https://actu.fr/occitanie/toulouse_31555/j-ai-le
- s-trois-casquettes-a-la-fois-alison-canot-allie-mma-vie-de-famille-et-de-p
- rof-de-college-pres-de-toulouse_64834793.html
-URL:https://actu.fr/occitanie/toulouse_31555/j-ai-les-trois-casquettes-a-la
- -fois-alison-canot-allie-mma-vie-de-famille-et-de-prof-de-college-pres-de-
- toulouse_64834793.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
- ulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:008022c6-0358-4e4c-9e78-9469b589eff0@news.lavillerose.com
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
@@ -14588,6 +14568,26 @@ URL:https://www.clutchmag.fr/evenements#2026-09-24-vendredi-25-septembre-1?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:964a9c15-61c8-4c99-bb21-d0e7cf561834@news.lavillerose.com
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Hexagone MMA
+DESCRIPTION:Alison Canot\, 41 ans\, profeseure de français dans un collèg
+ e de Montesquieu-Volvestre et mère de deux enfants\, monte sur le ring ce
+  vendredi 25 septembre au Zénith de Toulouse pour un combat MMA dans la c
+ atégorie des moins de 56 kg. Elle affronte Morgane Dehaye\, 29 ans\, orig
+ inaire de Tarbes\, lors de la soirée organisée par la ligue Hexagone MMA
+  à partir de 19h. Ce duel féminin est le seul du programme\, qui compte 
+ 11 combats au total. Sociétaire du Pyrénées Fighting Club de Salies-du-
+ Salat\, Aliso\n\nSource\: https://actu.fr/occitanie/toulouse_31555/j-ai-le
+ s-trois-casquettes-a-la-fois-alison-canot-allie-mma-vie-de-famille-et-de-p
+ rof-de-college-pres-de-toulouse_64834793.html
+URL:https://actu.fr/occitanie/toulouse_31555/j-ai-les-trois-casquettes-a-la
+ -fois-alison-canot-allie-mma-vie-de-famille-et-de-prof-de-college-pres-de-
+ toulouse_64834793.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:07a1854a-c45c-41e2-9f14-098903d3a5dc@news.lavillerose.com
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
@@ -15045,6 +15045,26 @@ DESCRIPTION:Toulouse vient de vivre l'été le plus chaud depuis 1947\, ave
 URL:https://actu.fr/occitanie/toulouse_31555/apres-un-ete-de-tous-les-recor
  ds-une-marche-pour-le-climat-organisee-a-toulouse-le-26-septembre_64819423
  .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:71e5a985-5747-47a8-bce4-f1047af23f3f@news.lavillerose.com
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:7 300 pèlerins de Haute-Garonne attendus à Lourdes pour le pape
+DESCRIPTION:Le pape Léon XIV est attendu à Lourdes le samedi 26 septembre
+ \, avec une arrivée à l'aéroport de Tarbes-Lourdes-Pyrénées à 19 h 0
+ 5 et une prière à la grotte de Massabielle à 19 h 40. Le temps fort pou
+ r les fidèles sera la messe dominicale du 27 septembre à 11 heures sur l
+ a prairie du sanctuaire. Le diocèse de Toulouse mobilise 118 bus depuis t
+ oute la Haute-Garonne\, avec pour consigne d'arriver avant 8 h 30. Quelque
+  7 300 pèlerins sont attendus au total — chiffre estimé d'après le no
+ mbre de foular\n\nSource\: https://actu.fr/occitanie/toulouse_31555/plus-d
+ e-7000-pelerins-de-haute-garonne-attendus-pour-la-visite-du-pape-a-lourdes
+ -ils-seront-facilement-reconnaissables_64828404.html
+URL:https://actu.fr/occitanie/toulouse_31555/plus-de-7000-pelerins-de-haute
+ -garonne-attendus-pour-la-visite-du-pape-a-lourdes-ils-seront-facilement-r
+ econnaissables_64828404.html?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7b2e3af8-6aa9-4859-bc95-a2d62e80dc1e@news.lavillerose.com
@@ -15763,6 +15783,28 @@ DESCRIPTION:Le groupe La Colonie de Vacances se produira au Bikini à Ramon
 URL:https://www.ticketmaster.fr/fr/manifestation/la-colonie-de-vacances-bil
  let/idmanif/652764/idtier/18864121?utm_source=ical&utm_medium=calendar&utm
  _campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a944785a-b60c-407c-9020-d689eb3488cb@news.lavillerose.com
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:La nouvelle saison du Rex Toulouse : metal\, techno et punk au prog
+ ramme
+DESCRIPTION:La salle de concerts le Rex à Toulouse dévoile une nouvelle s
+ aison particulièrement chargée\, couvrant un large spectre de styles mus
+ icaux. DJ Pone lancera les festivités le 1er octobre pour ses 30 ans de c
+ arrière\, avant une série de soirées hard-techno et hard trance avec TB
+ M et Girls on rave. Le metal sera bien représenté avec Primal Fear le 6 
+ octobre\, puis les Suédois de Hällas le 14 octobre\, groupe de rock prog
+ ressif aux influences King Crimson et Uriah Heep. La saison se prolonge en
+  novembre\n\nSource\: https://actu.fr/occitanie/toulouse_31555/cette-salle
+ -de-concerts-a-toulouse-fait-plus-que-jamais-rugir-la-musique-a-l-occasion
+ -de-sa-nouvelle-saison_64817754.html
+LOCATION:salle de concerts le Rex\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/cette-salle-de-concerts-a-toul
+ ouse-fait-plus-que-jamais-rugir-la-musique-a-l-occasion-de-sa-nouvelle-sai
+ son_64817754.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d2c7b0d9-91be-42b9-9201-62839a034ac3@news.lavillerose.com
