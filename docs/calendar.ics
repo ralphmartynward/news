@@ -9911,15 +9911,15 @@ UID:cluster:4bdad896-4082-4dc8-b397-87dd5b389359@news.lavillerose.com
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20261001
 SUMMARY:Piano aux Jacobins
-DESCRIPTION:Le festival Piano aux Jacobins revient du 8 au 30 septembre 202
- 6 dans plusieurs lieux toulousains\, mêlant pianistes de renommée intern
- ationale et talents émergents. L'édition est inaugurée par l'Espagnol J
- avier Perianes\, et réunit des artistes confirmés comme Vadim Kholodenko
- \, Pierre-Laurent Aimard\, Jonathan Biss et Jean-François Heisser. Le jaz
- z trouve également sa place grâce au soutien de la Fondation BNP-Paris\,
-  avec notamment Paul Lay et Karla Martínez pour une soirée aux couleurs 
- de La Hava\n\nSource\: https://www.toulouse-tourisme.com/agenda/piano-aux-
- jacobins/
+DESCRIPTION:Le festival Piano aux Jacobins\, qui célèbre cette année sa 
+ 47e édition\, se poursuit jusqu'au 30 septembre 2026 avec une programmati
+ on mêlant pianistes de renommée internationale et talents émergents\, d
+ u classique au jazz. La dernière semaine compte encore cinq concerts\, av
+ ec notamment Nicolas Stavy\, Karla Martinez\, Nabeel Hayek\, Jonathan Biss
+  et Jean-François Heisser. Le pianiste catalan Ignasi Cambra\, aveugle de
+  naissance et formé à la Juilliard School\, à l'Indiana University et 
+ à la Royal Acad\n\nSource\: https://www.toulouse-tourisme.com/agenda/pian
+ o-aux-jacobins/
 URL:https://www.toulouse-tourisme.com/agenda/piano-aux-jacobins/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -15389,6 +15389,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/kevin-levy-cocu-billet/idm
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:32fad51e-1280-47cf-af3b-5625faef386e@news.lavillerose.com
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261003
+SUMMARY:La Mêlée Numérique
+DESCRIPTION:La Mêlée Numérique\, festival du numérique et de l'innovati
+ on d'Occitanie\, revient du 28 septembre au 2 octobre aux Espaces Vanel à
+  Toulouse\, ainsi qu'en ligne. L'édition 2026 s'articule autour de plus d
+ e 22 thématiques — IA\, cybersécurité\, souveraineté numérique\, fu
+ tur du travail\, numérique durable — avec plus de 230 événements au p
+ rogramme (conférences\, ateliers\, pitchs\, networking). L'événement pe
+ ut réunir jusqu'à 9 800 participants sur cinq jours\, avec notamment une
+  session de pitchs de 180 s\n\nSource\: https://www.lessentiel.fr/newslett
+ er/toulouse/2026-09-28#51027
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-09-28#51027?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e6144a70-276c-494d-a754-d50b386b0d09@news.lavillerose.com
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
@@ -16090,6 +16107,26 @@ URL:https://www.toulouse-tourisme.com/agenda/biblis-en-folie/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:8f650df2-ae4f-47f9-9662-56d31a31eeff@news.lavillerose.com
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261102
+SUMMARY:Installations artistiques de YllH<++ au Monument à la Gloire de la
+  Résistance
+DESCRIPTION:Du 2 octobre au 1er novembre 2026\, l'artiste YllH<++ investit 
+ le Monument à la Gloire de la Résistance à Toulouse avec une série d'i
+ nstallations in situ. L'œuvre met en dialogue mémoire\, résistance et c
+ réation contemporaine\, jouant sur ce qui est visible et ce qui ne l'est 
+ pas. Des visites guidées sont proposées sur réservation\, permettant un
+ e expérience approfondie du lieu et des œuvres. L'événement s'adresse 
+ à tous ceux qu'intéressent l'art contemporain et la mémoire historique.
+ \n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5
+ JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRy2HApjkA0_ueglPXEI3iZ7q360NxKVvFs1o2ki
+ tHvk-c
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeRy2HApjkA0_ueglPXEI3iZ7q360NxKVvFs1o2kitHvk-c?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4116e74f-77fa-46a9-967c-5375739fa003@news.lavillerose.com
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
@@ -16352,19 +16389,38 @@ URL:https://www.toulouse-tourisme.com/agenda/cap-sur-toulouse-metropole-bla
  gnac/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:df3e397f-8a8d-4082-a09d-c645fe2a9a1a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Place de la Danse
+DESCRIPTION:Le festival Place de la Danse investit l'Université Toulouse C
+ apitole à La Reynerie les 3 et 4 octobre. Le programme complet est dispon
+ ible en ligne. L'événement propose des ateliers ouverts à tous les nive
+ aux ainsi qu'un bal-fête chorégraphique. Cet événement s'adresse aussi
+  bien aux amateurs qu'aux curieux souhaitant découvrir la danse sous tout
+ es ses formes.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~
+ GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRy2HApjkA0_ueglPXEI3iZ7q3
+ 60NxKVvFs1o2kitHukuk
+LOCATION:Place de la Danse investit l'Université Toulouse Capito\, Toulous
+ e
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeRy2HApjkA0_ueglPXEI3iZ7q360NxKVvFs1o2kitHukuk?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1d6f341e-6660-4046-9953-82af3b15debb@news.lavillerose.com
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-SUMMARY:Toulouse Triathlon SuperTri
-DESCRIPTION:Le Toulouse Triathlon SuperTri investit le centre-ville de Toul
- ouse le week-end du 4 octobre 2026. Le dimanche matin\, les participants a
- mateurs s'élancent pour des courses de distance S et M avec nage dans la 
- Garonne\, vélo sur routes fermées et course à pied. L'après-midi\, la 
- compétition professionnelle de la ligue SuperTri prend le départ du Quai
-  de la Daurade\, réunissant des champions olympiques et des athlètes de 
- haut niveau dans un format de triathlon réputé particulièrement spectac
- ulaire. T\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-tr
- iathlon-supertri/
+SUMMARY:Supertri Toulouse
+DESCRIPTION:Le dimanche 4 octobre 2026\, le Supertri Toulouse tient sa 2e 
+ édition avec des courses de triathlon en pleine ville. Au programme : nag
+ e dans la Garonne au niveau du Pont-Neuf et de la Prairie des Filtres\, ci
+ rcuit vélo vers Vieille-Toulouse sur routes fermées\, et course à pied 
+ urbaine en centre-ville — départ à 8h. L'après-midi\, place à la cou
+ rse professionnelle de la ligue Supertri au départ du Quai de la Daurade\
+ , avec des champions olympiques et athlètes de haut niveau. Tout le week-
+ end\, un vil\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse
+ -triathlon-supertri/
 URL:https://www.toulouse-tourisme.com/agenda/toulouse-triathlon-supertri/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -17157,16 +17213,16 @@ UID:cluster:db83f732-8386-4446-86da-058089711d35@news.lavillerose.com
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
 SUMMARY:La Mékanik du Rire
-DESCRIPTION:La Mékanik du Rire investit l'Esplanade Sainte-Germaine du 9 a
- u 11 octobre 2026 pour un festival de spectacles de rue. Trente moments de
-  spectacle sont au programme\, avec des compagnies variées comme Plip\, C
- lowning Out\, Naine Rouge\, le G.O.P\, L'Évitation\, Sacrés Cathares ou 
- encore Fée. La soirée d'ouverture du vendredi accueillera A La One Again
-  et Le Concert à Juli\, deux spectacles réservés à cette seule date. L
- 'événement s'adresse à tous les publics désireux de découvrir les art
- s de la rue en \n\nSource\: https://www.toulouse-tourisme.com/agenda/la-me
- kanik-du-rire/
-LOCATION:Esplanade Sainte-Germaine du 9 au 11 octobre 2026\, Toulouse
+DESCRIPTION:Du 9 au 11 octobre 2026\, le festival La Mékanik du Rire s'ins
+ talle pour trois jours sur l'Esplanade Sainte-Germaine à Pibrac\, à quel
+ ques kilomètres de Toulouse. Organisé par l'association Act En Rue\, cet
+  événement familial propose une trentaine de spectacles de rue\, de thé
+ âtre\, de clown et d'humour\, accessibles dès 4 ans. Parmi les temps for
+ ts : GOP – Grand Orchestre de Poche\, Fée\, À la One Again\, et Street
+  Soul Train des Toulousains Wab et les Étincelles. Le festival vise 14 00
+ 0 spectateurs et \n\nSource\: https://www.toulouse-tourisme.com/agenda/la-
+ mekanik-du-rire/
+LOCATION:Esplanade Sainte-Germaine\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/la-mekanik-du-rire/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -25245,6 +25301,24 @@ DESCRIPTION:La Halle aux Grains accueille un concert réunissant la violoni
 LOCATION:Halle aux Grains accueille un concert réunissant la\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/ryan-bancroft-clara-jumi-kang/
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:40bed356-a130-4a5b-802f-c928212adb97@news.lavillerose.com
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Tarmo Peltokoski / Mao Fujita
+DESCRIPTION:Le chef Tarmo Peltokoski et le pianiste Mao Fujita s'associent 
+ pour un concert à la Halle aux Grains de Toulouse en février 2027. Au pr
+ ogramme\, le Concerto pour piano n°27 de Mozart — dernier concerto du c
+ ompositeur — confié au toucher délicat du pianiste japonais. Peltokosk
+ i dirigera ensuite la Symphonie n°5 de Bruckner\, œuvre monumentale que 
+ le compositeur lui-même surnommait « la Fantastique ». Ce concert réun
+ it deux artistes en pleine ascension autour d'un répertoire exigeant et a
+ mbitieux.\n\nSource\: https://www.toulouse-tourisme.com/agenda/tarmo-pelto
+ koski-mao-fujita/
+LOCATION:Halle aux Grains de Toulouse en février 2027\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/tarmo-peltokoski-mao-fujita/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:18c31da7-b86b-46dd-b802-274775ceb66c@news.lavillerose.com

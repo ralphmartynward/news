@@ -1,0 +1,88 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:35bd7fcd-3a2a-446f-92bc-31b883fd252a",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Nabeel Hayek en récital au Cloître des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/NABEEL-HAYEK-PIANO-JACOBINS.jpg",
+    "file": "cluster_35bd7fcd-3a2a-446f-92bc-31b883fd252a_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:91109f3d-023a-4a28-b412-d0a991339e87",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Marie Benoliel en spectacle au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_91109f3d-023a-4a28-b412-d0a991339e87_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:aadceb1f-a313-417f-9f02-1f6fe399b5b3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Kevin Levy Cocu au 3T d'à Côté en septembre",
+    "image_url": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_aadceb1f-a313-417f-9f02-1f6fe399b5b3_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:32fad51e-1280-47cf-af3b-5625faef386e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Mêlée Numérique 2026 aux Espaces Vanel du 28 septembre au 2 octobre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/img_1287-grande---la-melee-numerique.jpg?h=b5367966&itok=LLFvOYEY",
+    "file": "cluster_32fad51e-1280-47cf-af3b-5625faef386e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:71b9d05f-70aa-41ed-a845-73e2b6bce67d",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Fresque des Nouveaux Récits ce soir aux Mazades",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/jeunes-entreprise-adobestock_611718964.jpg?itok=vnsjFbDZ",
+    "file": "cluster_71b9d05f-70aa-41ed-a845-73e2b6bce67d_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:c56bf3dc-6535-4644-9956-8be6b2003c3a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "15e Journées franco-algériennes à l'Espace diversité laïcité",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/l-espace_diversites_laicite--rue-d-aubuisson--a-toulouse--credit-mairie-de-toulouse-.jpg?itok=Vcqi1_L5",
+    "file": "cluster_c56bf3dc-6535-4644-9956-8be6b2003c3a_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:da51181d-1307-4abf-94c2-552bd660e0b6",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Soirée-débat sur la désinformation scientifique au Novotel Compans",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/ia-adobe.jpg?itok=t1HK01Se",
+    "file": "cluster_da51181d-1307-4abf-94c2-552bd660e0b6_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
