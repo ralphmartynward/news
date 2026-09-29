@@ -1,0 +1,99 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:32fad51e-1280-47cf-af3b-5625faef386e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Mêlée Numérique 2026 aux Espaces Vanel du 28 septembre au 2 octobre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/img_1287-grande---la-melee-numerique.jpg?h=b5367966&itok=LLFvOYEY",
+    "file": "cluster_32fad51e-1280-47cf-af3b-5625faef386e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:e6144a70-276c-494d-a754-d50b386b0d09",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Jonathan Biss en récital piano au Cloître des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JOHATHAN-BLISS-PIANO-JACOBINS.jpg",
+    "file": "cluster_e6144a70-276c-494d-a754-d50b386b0d09_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3f5ee9c7-b3cc-4067-b9b4-a69d62b5a3c7",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Soirée de rentrée des Nénettes & Co au Bascala à Bruguières",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/adobestock_663487678.jpg?itok=f8Y-rLfq",
+    "file": "cluster_3f5ee9c7-b3cc-4067-b9b4-a69d62b5a3c7_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:51c3dfa0-ec09-4893-800e-1116766cb656",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Débat sur le plastique à la Toulouse School of Economics",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/plastique---adobestock_123780524.jpeg?itok=HTjfKh_8",
+    "file": "cluster_51c3dfa0-ec09-4893-800e-1116766cb656_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:c38a6f13-8899-4536-978f-bbe56ac5b8ff",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition Magnum sur les fêtes valenciennes à l'Instituto Cervantes",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/cristina-de-middle_llibrets.jpg?itok=yVPc6irG",
+    "file": "cluster_c38a6f13-8899-4536-978f-bbe56ac5b8ff_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:41bf6827-103a-4f49-9bc6-9de0733c84ff",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Les Illupotes rouvrent leur boutique éphémère d'illustrations rue du Taur",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6aba163dc005a607440d4a2e/hd/image.jpg?v=2",
+    "file": "cluster_41bf6827-103a-4f49-9bc6-9de0733c84ff_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:94fea65d-729a-4e03-80c2-5195b3c3d906",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Occitania : concerts, bals et expos à Toulouse en octobre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-OCCITANIA-2.jpg",
+    "file": "cluster_94fea65d-729a-4e03-80c2-5195b3c3d906_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d2c7b0d9-91be-42b9-9201-62839a034ac3",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival CinéSpaña 2026 dans divers lieux à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1759412899111-copie.jpg",
+    "file": "cluster_d2c7b0d9-91be-42b9-9201-62839a034ac3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
