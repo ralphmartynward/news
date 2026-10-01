@@ -1,0 +1,198 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:32fad51e-1280-47cf-af3b-5625faef386e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Mêlée Numérique 2026 aux Espaces Vanel du 28 septembre au 2 octobre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/img_1287-grande---la-melee-numerique.jpg?h=b5367966&itok=LLFvOYEY",
+    "file": "cluster_32fad51e-1280-47cf-af3b-5625faef386e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:3aa8bc01-83d6-4ad9-9051-a4d261fa97c2",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Portrait de Rita au Théâtre Sorano : racisme et violence systémique",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PORTRAIT-DE-RITA-SORANO.jpg",
+    "file": "cluster_3aa8bc01-83d6-4ad9-9051-a4d261fa97c2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:43fc1e36-245b-4785-b2f0-310610d48069",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Tentative d'Épuisement #1 à La Cave Poésie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TENTATIVE-D-EPUISEMENT-2.jpg",
+    "file": "cluster_43fc1e36-245b-4785-b2f0-310610d48069_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6627f8de-dc09-4902-9942-e979ed2bb962",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Salon de l'Habitat et de l'Immobilier au MEETT : les nouveautés 2026",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/IMG-4147-copie.jpg",
+    "file": "cluster_6627f8de-dc09-4902-9942-e979ed2bb962_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:124a0b03-6c5c-4249-b15b-fc7176c5365e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Peltokoski et Lozakovich à la Halle aux Grains : oiseaux et feu",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TARMO-PELTOKOSKI-2.jpg",
+    "file": "cluster_124a0b03-6c5c-4249-b15b-fc7176c5365e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2106da75-8851-4cad-8a5c-b26528423853",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "TRIPLICATA au Théâtre Le Fil à Plomb : femmes et fiction",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Triplicata.jpg",
+    "file": "cluster_2106da75-8851-4cad-8a5c-b26528423853_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:39840b7c-ee31-4571-a219-9382640f62eb",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Super Parquet + Peldrut au Metronum : fête collective sans étiquette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SUPER-PARQUET.png",
+    "file": "cluster_39840b7c-ee31-4571-a219-9382640f62eb_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:aae5168d-8fbb-4815-a21b-6665f1b2ebd2",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Comédie déjantée de braquage à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MANA-J-AI-RATE-LA-BANQUE.jpg",
+    "file": "cluster_aae5168d-8fbb-4815-a21b-6665f1b2ebd2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3d77e6fa-36d6-49c7-a78d-5623c63e4510",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Mike Andersen en concert à l'Altigone de Saint-Orens",
+    "image_url": "https://s1.ticketm.net/dam/a/5a9/76640878-d8e8-401e-be85-e706ded785a9_SOURCE",
+    "file": "cluster_3d77e6fa-36d6-49c7-a78d-5623c63e4510_event_story.jpg",
+    "img_width": 4240,
+    "img_height": 2832
+  },
+  {
+    "cluster_id": "cluster:614c01c0-0e8e-4d3b-ab25-d87f08e55443",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Letz Zep en concert au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/393/cbec8965-5da8-4648-b919-66a1a234a393_SOURCE",
+    "file": "cluster_614c01c0-0e8e-4d3b-ab25-d87f08e55443_event_story.jpg",
+    "img_width": 800,
+    "img_height": 535
+  },
+  {
+    "cluster_id": "cluster:9d4aa2d7-2906-4bb6-bc32-db0dfbf4bc39",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Djadja & Dinaz en concert au Zénith de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/146/6b3df6f7-d167-4df5-a474-15835b8b2146_SOURCE",
+    "file": "cluster_9d4aa2d7-2906-4bb6-bc32-db0dfbf4bc39_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:fe64d959-8f35-4c74-aee5-aad9ebaf9690",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Colonie de Vacances en concert au Bikini",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_fe64d959-8f35-4c74-aee5-aad9ebaf9690_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:11a1325d-2991-4f2b-9a98-72cb2bd4efb2",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Super Parquet au Metronum pour le festival Occitania",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/affiche-festival-occitania-2026.jpg?itok=-sK94Q3V",
+    "file": "cluster_11a1325d-2991-4f2b-9a98-72cb2bd4efb2_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:323da853-8793-497b-af86-a87635fcf3a5",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "L'Orchestre du Capitole en rentrée à la Halle aux Grains",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-09/musique--adobe-stock-.jpg?itok=g7afSibd",
+    "file": "cluster_323da853-8793-497b-af86-a87635fcf3a5_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:49250e6c-6d95-4d46-88b2-9f71a2195ebe",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Festival du Film de Montagne de Banff s'arrête au Pathé",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/unnamed--2-_0.jpg?h=731e6f41&itok=RXCgAIFF",
+    "file": "cluster_49250e6c-6d95-4d46-88b2-9f71a2195ebe_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:80a66c8d-a69e-4ab0-abb8-f74bab399c78",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition \"Trajets de vie\" à la station Capitole pour Octobre Rose",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-09/7t5a8547bd--c--lydie-lecarpentier.JPG?itok=k63l3CnV",
+    "file": "cluster_80a66c8d-a69e-4ab0-abb8-f74bab399c78_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:42265605-077e-4896-9bb1-6c7d962fa5f6",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "« Minéraux, bien plus que des cailloux » s'ouvre au Muséum de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MINERAUX-BIEN-PLUS-QUE-DES-CAILLOUX.jpg",
+    "file": "cluster_42265605-077e-4896-9bb1-6c7d962fa5f6_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
