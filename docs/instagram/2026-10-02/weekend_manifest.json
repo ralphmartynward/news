@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-10-03",
+  "sunday": "2026-10-04",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:35900ab6-0628-4e1e-bf41-b72e2c730958",
+      "title": "Rando-vélo gratuite jusqu'à la Passerelle de Gagnac",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2a19bc2d-6334-46d8-9fd5-a43aff8625e3",
+      "title": "Le Petit Marché du Lab'Oïkos : créateurs et producteurs locaux",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:a0ddd794-2047-4aa8-bb7b-2fbc68e3a74c",
+      "title": "Metronum Market : vinyles, fripes, expo et DJ sets au Metronum",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:b8be9ae3-acc1-460f-a2ec-181764d7f078",
+      "title": "Vide-grenier rue Alsace Lorraine au cœur de Toulouse",
+      "img_width": 3264,
+      "img_height": 2448
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:cf0807a6-9bff-4161-b269-f1cc149cf1e4",
+      "title": "Concert Pianomuses à la Chapelle des Carmélites : Chopin et Schumann",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ff682043-c12d-4cd0-a370-901644f37f58",
+      "title": "Toulouse Triathlon SuperTri : champions olympiques au cœur de la ville",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:4116e74f-77fa-46a9-967c-5375739fa003",
+      "title": "La Danse au Grand Jour : spectacles gratuits dans Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:51db56cb-c361-4d5e-af1a-9c82ade32027",
+      "title": "Comédie « J'aime beaucoup ce que vous faites » au Café Théâtre Les 3T",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:63bbc1a4-5780-4e4d-893f-7928f553b6cf",
+      "title": "Le Tour du Monde en 80 Jours au Café Théâtre Les 3T",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}
