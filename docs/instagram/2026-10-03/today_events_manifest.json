@@ -1,0 +1,253 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:43fc1e36-245b-4785-b2f0-310610d48069",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Tentative d'Épuisement #1 à La Cave Poésie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TENTATIVE-D-EPUISEMENT-2.jpg",
+    "file": "cluster_43fc1e36-245b-4785-b2f0-310610d48069_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6627f8de-dc09-4902-9942-e979ed2bb962",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Salon de l'Habitat et de l'Immobilier au MEETT : les nouveautés 2026",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/IMG-4147-copie.jpg",
+    "file": "cluster_6627f8de-dc09-4902-9942-e979ed2bb962_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2106da75-8851-4cad-8a5c-b26528423853",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "TRIPLICATA au Théâtre Le Fil à Plomb : entre réel et fiction",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Triplicata.jpg",
+    "file": "cluster_2106da75-8851-4cad-8a5c-b26528423853_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:456e14ff-92f7-4e98-b064-21d1f482cb5d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Carte Blanche de la Compagnie Synapse au Centre Culturel des Minimes",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CARTE-BLANCHE-MINIMES.jpg",
+    "file": "cluster_456e14ff-92f7-4e98-b064-21d1f482cb5d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2b38677c-e113-4654-be8d-25cc4ec4138c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Maîtresse en Maillot de Bain, comédie au Studio 55",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-MAITRESSE-EN-MAILLOT-DE-BAIN.jpg",
+    "file": "cluster_2b38677c-e113-4654-be8d-25cc4ec4138c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d5f4987e-e9e8-4150-a5bb-6e41f8d241f3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Biblis en Folie : fête des bibliothèques dans la métropole toulousaine",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BIBLIS-EN-FOLIE.jpg",
+    "file": "cluster_d5f4987e-e9e8-4150-a5bb-6e41f8d241f3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:4116e74f-77fa-46a9-967c-5375739fa003",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Danse au Grand Jour : spectacles gratuits dans Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-DANSE-AU-GRAND-JOUR-2.jpg",
+    "file": "cluster_4116e74f-77fa-46a9-967c-5375739fa003_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6a1f2dac-9bec-43f6-bfee-49559572fe94",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Jardins Sonores fêtent leur 33e saison au Théâtre de Verdure",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Capture-d-ecran-2025-10-09-a-09.16.36-copie.jpg",
+    "file": "cluster_6a1f2dac-9bec-43f6-bfee-49559572fe94_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:51db56cb-c361-4d5e-af1a-9c82ade32027",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Comédie « J'aime beaucoup ce que vous faites » au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Design-sans-titre---2025-06-27T104339.570---copie.jpg",
+    "file": "cluster_51db56cb-c361-4d5e-af1a-9c82ade32027_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:63bbc1a4-5780-4e4d-893f-7928f553b6cf",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Tour du Monde en 80 Jours au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-TOUR-DU-MONDE-EN-80-JOURS-3T.jpg",
+    "file": "cluster_63bbc1a4-5780-4e4d-893f-7928f553b6cf_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a1a779c1-fc7a-44bc-8ebf-c69e32c046a2",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Atelier nature « Les Petits Explorateurs de la Forêt » pour enfants",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-PETITS-EXPLORATEURS.jpg",
+    "file": "cluster_a1a779c1-fc7a-44bc-8ebf-c69e32c046a2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0e498458-e948-4724-b8ad-c43541997ff4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Charlie Winston en solo à Saint-Orens-de-Gameville en octobre",
+    "image_url": "https://s1.ticketm.net/dam/a/bee/0266b6ba-ac87-4260-a74e-2b62c5f8abee_SOURCE",
+    "file": "cluster_0e498458-e948-4724-b8ad-c43541997ff4_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:7bdbccc8-349a-4100-8b2e-d8bd472baa72",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Trois spectacles d'humour et de théâtre à Toulouse en 2026-2027",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_7bdbccc8-349a-4100-8b2e-d8bd472baa72_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:a27d7d42-4837-49c0-893b-661cd57800bc",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Ludwig Von 88 et Didier Super en concert au Bikini",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_a27d7d42-4837-49c0-893b-661cd57800bc_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:75d6d46d-0469-4d8f-8e6d-ec51bfad2a25",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Week-end aux Ailes Anciennes Toulouse : cockpits ouverts et marine nationale",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/n706-12-copie.jpg",
+    "file": "cluster_75d6d46d-0469-4d8f-8e6d-ec51bfad2a25_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:74e302f1-ada5-464a-aab6-adc39cc04801",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Jardins Sonores saison 33 au Théâtre de Verdure",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Capture-d-ecran-2025-10-09-a-09.16.36-copie.jpg",
+    "file": "cluster_74e302f1-ada5-464a-aab6-adc39cc04801_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:58b5bb24-e7e5-4ee6-8fb4-87a2cc727b92",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Balade architecturale à deux voix sur l'Île du Ramier",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Copie-de-Agenda-Toulouse-Visuel-Site-Internet--4--5.jpg",
+    "file": "cluster_58b5bb24-e7e5-4ee6-8fb4-87a2cc727b92_event_story.jpg",
+    "img_width": 860,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:83690098-491c-4282-921b-ca00978ade02",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Créas Taur : marché créateurs en plein cœur de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Agenda-Toulouse-Visuel-Site-Internet--3--31.jpg",
+    "file": "cluster_83690098-491c-4282-921b-ca00978ade02_event_story.jpg",
+    "img_width": 860,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:aee065d4-2f63-468b-829a-3033415b178c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cap sur Toulouse Métropole : balade découverte à Blagnac",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Copie-de-Agenda-Toulouse-Visuel-Site-Internet--16--5.jpg",
+    "file": "cluster_aee065d4-2f63-468b-829a-3033415b178c_event_story.jpg",
+    "img_width": 860,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5f972e16-8809-47fa-8ce6-f20c1985129b",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Secrets d'arbres en jardin : balade contée au Jardin des Plantes",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Jardin-des-plantes---Remi-Deligeon--1--copie.jpg",
+    "file": "cluster_5f972e16-8809-47fa-8ce6-f20c1985129b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1dd391dd-b972-4598-bb63-9adc65ad6257",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les salles gothiques du Musée des Augustins rouvrent restaurées",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/REOUVERTURE-AUGUSTINS.jpg",
+    "file": "cluster_1dd391dd-b972-4598-bb63-9adc65ad6257_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:635f2d3b-53a5-4028-921d-754201fc8c9e",
+    "format": "story",
+    "source": "ticketmaster",
+    "category": "event",
+    "title": "Stef Mazières en spectacle à La Petite Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_635f2d3b-53a5-4028-921d-754201fc8c9e_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  }
+]
