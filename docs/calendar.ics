@@ -16293,16 +16293,16 @@ UID:cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270501
 SUMMARY:Pokémon x ESA – Cité de l'espace
-DESCRIPTION:À partir du 2 octobre 2026\, la Cité de l'espace accueille «
-  Pokémon x ESA »\, une exposition inédite née de la collaboration entr
- e la franchise Pokémon et l'Agence spatiale européenne\, à l'occasion d
- e la Semaine mondiale de l'espace. Le point de départ est original : une 
- peluche Pikachu a réellement séjourné dans l'espace avant d'inspirer ce
- tte exposition. Le parcours met en parallèle la curiosité scientifique d
- es astronautes et celle des dresseurs\, avec des focus sur les missions ac
- tuelles et fu\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+DESCRIPTION:La Cité de l'espace accueille depuis le 2 octobre et jusqu'au 
+ 30 avril 2027 l'exposition inédite « Pokémon x ESA »\, fruit d'un part
+ enariat entre la franchise Pokémon et l'Agence spatiale européenne. Le c
+ lou du spectacle : la peluche Pikachu qui a réellement séjourné 67 jour
+ s à bord de la Station spatiale internationale aux côtés de l'astronaut
+ e Sophie Adenot. Le parcours explore les missions actuelles et futures de 
+ l'ESA à travers le prisme de l'univers Pokémon\, et une expérience Pok
+ émon Go dans\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
  26-10-01#51601
-LOCATION:espace accueille « Pokémon x ESA »\, Toulouse
+LOCATION:espace accueille depuis le 2 octobre\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-01#51601?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -17993,6 +17993,26 @@ DESCRIPTION:Le Couvent des Jacobins propose une visite guidée de ce monume
  es-jacobins/
 URL:https://www.toulouse-tourisme.com/agenda/visite-guidee-au-couvent-des-j
  acobins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6dcd1b3c-317e-40dd-b1ab-65ce0bbe4cdf@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Mecanik Paradize
+DESCRIPTION:DeLaurentis\, artiste électro née à Toulouse\, se confie à 
+ Actu Toulouse à l'occasion de son passage en première partie de Paul Kal
+ kbrenner lors du festival Mecanik Paradize. Elle évoque sa musique mélod
+ ique et atmosphérique\, forgée autour de synthétiseurs et de pads color
+ és\, et sa singularité de synesthète qui associe sons et couleurs. L'ar
+ tiste\, reconnue en France et à l'international\, décrit ses performance
+ s scéniques comme un acte pictural : chaque morceau correspond à une ton
+ alité de couleur \n\nSource\: https://actu.fr/occitanie/toulouse_31555/j-
+ ai-un-lien-particulier-avec-l-image-delaurentis-l-artiste-electro-a-l-affi
+ che-de-mecanik-paradize-a-toulouse_64816684.html
+URL:https://actu.fr/occitanie/toulouse_31555/j-ai-un-lien-particulier-avec-
+ l-image-delaurentis-l-artiste-electro-a-l-affiche-de-mecanik-paradize-a-to
+ ulouse_64816684.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8@news.lavillerose.com
@@ -21238,7 +21258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:75b1ae3b-86bb-4aa8-ae63-e4d5771656a8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20261108
 SUMMARY:Bal au Grand Hôtel
 DESCRIPTION:Le Couvent des Jacobins accueille l'exposition immersive « Bal
   au Grand Hôtel : se divertir à Toulouse à la Belle Époque »\, du 7 n
@@ -26763,6 +26783,23 @@ DESCRIPTION:Le violoniste Sergey Khachatryan et le pianiste Alexandre Kanto
 LOCATION:Halle aux Grains le 2 février 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/sergey-khachatryan-alexandre-k
  antorow/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d658c50f-824c-4b60-b28a-d16a073e8428@news.lavillerose.com
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Christophe Maé
+DESCRIPTION:Christophe Maé se produira au Zénith Toulouse Métropole le 2
+  février 2027. Le chanteur pop français\, connu pour ses tubes comme « 
+ Il est où le bonheur » et « Mon paradis »\, s'inscrit dans une tourné
+ e de grande salle. Les amateurs de pop-chanson française auront l'occasio
+ n de le retrouver dans l'une des plus grandes salles de spectacle de la r
+ égion. Les billets sont disponibles via Ticketmaster.\n\nSource\: https:/
+ /www.ticketmaster.fr/fr/manifestation/christophe-mae-billet/idmanif/642076
+ /idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/christophe-mae-billet/idma
+ nif/642076/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e3cb34d5-81e3-4a8f-b9cd-529c8f58b598@news.lavillerose.com

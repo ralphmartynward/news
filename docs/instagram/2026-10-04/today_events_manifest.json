@@ -1,0 +1,209 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:6627f8de-dc09-4902-9942-e979ed2bb962",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Salon de l'Habitat et de l'Immobilier au MEETT : les nouveautés 2026",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/IMG-4147-copie.jpg",
+    "file": "cluster_6627f8de-dc09-4902-9942-e979ed2bb962_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d5f4987e-e9e8-4150-a5bb-6e41f8d241f3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Biblis en Folie : fête des bibliothèques dans la métropole toulousaine",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BIBLIS-EN-FOLIE.jpg",
+    "file": "cluster_d5f4987e-e9e8-4150-a5bb-6e41f8d241f3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:4116e74f-77fa-46a9-967c-5375739fa003",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Danse au Grand Jour : spectacles gratuits dans Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-DANSE-AU-GRAND-JOUR-2.jpg",
+    "file": "cluster_4116e74f-77fa-46a9-967c-5375739fa003_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6a1f2dac-9bec-43f6-bfee-49559572fe94",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Jardins Sonores fêtent leur 33e saison au Théâtre de Verdure",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Capture-d-ecran-2025-10-09-a-09.16.36-copie.jpg",
+    "file": "cluster_6a1f2dac-9bec-43f6-bfee-49559572fe94_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:75d6d46d-0469-4d8f-8e6d-ec51bfad2a25",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Week-end aux Ailes Anciennes Toulouse : cockpits ouverts et marine nationale",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/n706-12-copie.jpg",
+    "file": "cluster_75d6d46d-0469-4d8f-8e6d-ec51bfad2a25_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:74e302f1-ada5-464a-aab6-adc39cc04801",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Jardins Sonores saison 33 au Théâtre de Verdure",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Capture-d-ecran-2025-10-09-a-09.16.36-copie.jpg",
+    "file": "cluster_74e302f1-ada5-464a-aab6-adc39cc04801_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5f972e16-8809-47fa-8ce6-f20c1985129b",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Secrets d'arbres en jardin : balade contée au Jardin des Plantes",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Jardin-des-plantes---Remi-Deligeon--1--copie.jpg",
+    "file": "cluster_5f972e16-8809-47fa-8ce6-f20c1985129b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1d6f341e-6660-4046-9953-82af3b15debb",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Supertri Toulouse revient le 4 octobre en centre-ville",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Superleague-Toulouse-2023-WR-0656-copie.jpg",
+    "file": "cluster_1d6f341e-6660-4046-9953-82af3b15debb_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:35900ab6-0628-4e1e-bf41-b72e2c730958",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Rando-vélo gratuite jusqu'à la Passerelle de Gagnac",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Paulette-bike---Remi-Deligeon-copie.jpg",
+    "file": "cluster_35900ab6-0628-4e1e-bf41-b72e2c730958_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2a19bc2d-6334-46d8-9fd5-a43aff8625e3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Petit Marché du Lab'Oïkos : créateurs et producteurs locaux",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MARCHE-DE-CREATEURS-2.jpg",
+    "file": "cluster_2a19bc2d-6334-46d8-9fd5-a43aff8625e3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a0ddd794-2047-4aa8-bb7b-2fbc68e3a74c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Metronum Market : vinyles, fripes, expo et DJ sets au Metronum",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/METRONUM-MARKET.jpg",
+    "file": "cluster_a0ddd794-2047-4aa8-bb7b-2fbc68e3a74c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b8be9ae3-acc1-460f-a2ec-181764d7f078",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Vide-grenier rue Alsace Lorraine au cœur de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Brocante-des-Capitouls.JPG",
+    "file": "cluster_b8be9ae3-acc1-460f-a2ec-181764d7f078_event_story.jpg",
+    "img_width": 3264,
+    "img_height": 2448
+  },
+  {
+    "cluster_id": "cluster:bb538852-d78e-4bc3-8376-5d50f0a3ebc1",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Un social run club pour familles se lance au jardin Monplaisir",
+    "image_url": "https://static.actu.fr/uploads/2023/02/running-g83237b5cd-1920.jpg",
+    "file": "cluster_bb538852-d78e-4bc3-8376-5d50f0a3ebc1_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 853
+  },
+  {
+    "cluster_id": "cluster:cf0807a6-9bff-4161-b269-f1cc149cf1e4",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Concert Pianomuses à la Chapelle des Carmélites : Chopin et Schumann",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PIANOMUSES-4-OCTOBRE-TOULOUSE.jpg",
+    "file": "cluster_cf0807a6-9bff-4161-b269-f1cc149cf1e4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ff682043-c12d-4cd0-a370-901644f37f58",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Toulouse Triathlon SuperTri : champions olympiques au cœur de la ville",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Superleague-Toulouse-2023-WR-0656-copie.jpg",
+    "file": "cluster_ff682043-c12d-4cd0-a370-901644f37f58_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:32135f50-3762-4d7c-9e1b-6fd4a3791829",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Animations surprises médiévales au Couvent des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JAC---Les-batisseurs-au-Moyen-Age---Alexandre-Ollier.jpg",
+    "file": "cluster_32135f50-3762-4d7c-9e1b-6fd4a3791829_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:65cb3bf1-d9bb-48b4-96d7-da4a8fc09f05",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Toulouse les Orgues : 12 jours de festival international en octobre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-NUIT-DES-DUELS---BASILIQUE-SAINT-SERNIN---CLEMENT-FUMEY---TOULOUSE-MAGAZINE-78-copie.jpg",
+    "file": "cluster_65cb3bf1-d9bb-48b4-96d7-da4a8fc09f05_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f0826281-62f8-481b-9f1e-d800cb9ab430",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Visites insolites du CNRS ouvrent leurs inscriptions à Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-08/adobestock_2108707583-l.jpeg?itok=1vpmfcSn",
+    "file": "cluster_f0826281-62f8-481b-9f1e-d800cb9ab430_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

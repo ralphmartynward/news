@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-10-03T06:42:48.338984+00:00</updated>
+  <updated>2026-10-04T06:32:18.531240+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,171 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:92f4eb2d-7caf-4cbf-8310-68f803190b79</id>
-    <title>Florian Casteran, l'autodidacte qui peint Toulouse en direct</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6aabd19aa4bc7012d8042e6e/hd/image.jpg?v=2"/&gt;
-&lt;p&gt;Florian Casteran est un artiste toulousain autodidacte qui peint la ville en plein air, notamment depuis la place Saint-Pierre face au dôme de La Grave et au pont Saint-Pierre. Ingénieur dans l&amp;#x27;aéronautique le jour, il consacre ses heures libres à la peinture à l&amp;#x27;huile, discipline qu&amp;#x27;il a découverte par hasard après être passé par le dessin et le graffiti. Sans formation académique, il a développé son propre langage pictural à force d&amp;#x27;expérimentation, faisant de la toile un exutoire personnel durant une période difficile de sa vie. Ses œuvres mêlent observation du réel et interprétation émotionnelle, avec Toulouse comme sujet de prédilection.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/26/il-transforme-toulouse-en-tableaux-florian-casteran-lartiste-a-suivre-13555519.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/09/26/il-transforme-toulouse-en-tableaux-florian-casteran-lartiste-a-suivre-13555519.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Florian Casteran est un artiste toulousain autodidacte qui peint la ville en plein air, notamment depuis la place Saint-Pierre face au dôme de La Grave et au pont Saint-Pierre. Ingénieur dans l'aéronautique le jour, il consacre ses heures libres à la peinture à l'huile, discipline qu'il a découverte par hasard après être passé par le dessin et le graffiti. Sans formation académique, il a développé son propre langage pictural à force d'expérimentation, faisant de la toile un exutoire personnel durant une période difficile de sa vie. Ses œuvres mêlent observation du réel et interprétation émotionnelle, avec Toulouse comme sujet de prédilection.</summary>
-    <category term="culture"/>
-    <published>2026-09-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:1b37d393-6b53-4c8a-9a03-86237f4e8c3d</id>
-    <title>V and B Purpan : cave, bar et afterworks à Toulouse</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6a9acc1098c6327d280006e4/hd/image.webp?v=2"/&gt;
-&lt;p&gt;Le V and B de Toulouse Purpan, installé au 47 route de Bayonne, propose un concept original qui combine cave à boissons et bar de dégustation sur deux niveaux. L&amp;#x27;enseigne, créée en 2001 et qui se revendique premier concept cave &amp;amp; bar en France, ouvre ici sa 11e adresse toulousaine. Avec plus de 1 000 références de bières, vins et spiritueux, le lieu mise sur la convivialité : afterworks, dégustations et soirées à thème y sont régulièrement organisés. Les produits sont disponibles à la dégustation sur place, à emporter, en livraison ou en click &amp;amp; collect.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/09/26/a-purpan-le-concept-v-and-b-mele-cave-bar-et-afterworks-avec-plus-de-1000-references-de-bieres-vins-et-spiritueux-13531594.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/09/26/a-purpan-le-concept-v-and-b-mele-cave-bar-et-afterworks-avec-plus-de-1000-references-de-bieres-vins-et-spiritueux-13531594.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le V and B de Toulouse Purpan, installé au 47 route de Bayonne, propose un concept original qui combine cave à boissons et bar de dégustation sur deux niveaux. L'enseigne, créée en 2001 et qui se revendique premier concept cave &amp; bar en France, ouvre ici sa 11e adresse toulousaine. Avec plus de 1 000 références de bières, vins et spiritueux, le lieu mise sur la convivialité : afterworks, dégustations et soirées à thème y sont régulièrement organisés. Les produits sont disponibles à la dégustation sur place, à emporter, en livraison ou en click &amp; collect.</summary>
-    <category term="place"/>
-    <published>2026-09-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:ae582177-733b-4bc5-bfe3-0aee6a9c070e</id>
-    <title>Virus West Nile : la Haute-Garonne parmi les départements les plus touchés</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/adobestock-301944169.jpeg"/&gt;
-&lt;p&gt;Cinq nouveaux cas de virus West Nile ont été recensés en Haute-Garonne au 23 septembre, portant le total départemental à 11 cas, soit huit de plus en deux semaines. La Haute-Garonne se place ainsi au troisième rang national des départements les plus affectés, derrière les Bouches-du-Rhône (22 cas) et le Vaucluse (14 cas), à égalité avec le Var. En Occitanie, 28 cas humains ont été détectés au total, répartis sur cinq départements : Haute-Garonne, Aude, Pyrénées-Orientales, Hérault et Gard. L&amp;#x27;ARS Occitanie indique que les mesures habituelles de prévention sont en place, notamment la sécurisation des dons de sang et de greffes, le virus étant transmis par des moustiques du genre Culex.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/virus-west-nile-cinq-nouveaux-cas-autochtones-signales-en-haute-garonne-l-un-des-departements-les-plus-touches_64838920.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/virus-west-nile-cinq-nouveaux-cas-autochtones-signales-en-haute-garonne-l-un-des-departements-les-plus-touches_64838920.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Cinq nouveaux cas de virus West Nile ont été recensés en Haute-Garonne au 23 septembre, portant le total départemental à 11 cas, soit huit de plus en deux semaines. La Haute-Garonne se place ainsi au troisième rang national des départements les plus affectés, derrière les Bouches-du-Rhône (22 cas) et le Vaucluse (14 cas), à égalité avec le Var. En Occitanie, 28 cas humains ont été détectés au total, répartis sur cinq départements : Haute-Garonne, Aude, Pyrénées-Orientales, Hérault et Gard. L'ARS Occitanie indique que les mesures habituelles de prévention sont en place, notamment la sécurisation des dons de sang et de greffes, le virus étant transmis par des moustiques du genre Culex.</summary>
-    <category term="news"/>
-    <published>2026-09-26T12:02:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:71e5a985-5747-47a8-bce4-f1047af23f3f</id>
-    <title>7 300 pèlerins de Haute-Garonne attendus à Lourdes pour le pape</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/sanctuaire-de-lourdes.jpg"/&gt;
-&lt;p&gt;Le pape Léon XIV est attendu à Lourdes le samedi 26 septembre, avec une arrivée à l&amp;#x27;aéroport de Tarbes-Lourdes-Pyrénées à 19 h 05 et une prière à la grotte de Massabielle à 19 h 40. Le temps fort pour les fidèles sera la messe dominicale du 27 septembre à 11 heures sur la prairie du sanctuaire. Le diocèse de Toulouse mobilise 118 bus depuis toute la Haute-Garonne, avec pour consigne d&amp;#x27;arriver avant 8 h 30. Quelque 7 300 pèlerins sont attendus au total — chiffre estimé d&amp;#x27;après le nombre de foulards orange siglés du diocèse vendus à 1,85 € l&amp;#x27;unité, arborant la devise « Pour que le monde ait la vie ».&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/plus-de-7000-pelerins-de-haute-garonne-attendus-pour-la-visite-du-pape-a-lourdes-ils-seront-facilement-reconnaissables_64828404.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/plus-de-7000-pelerins-de-haute-garonne-attendus-pour-la-visite-du-pape-a-lourdes-ils-seront-facilement-reconnaissables_64828404.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le pape Léon XIV est attendu à Lourdes le samedi 26 septembre, avec une arrivée à l'aéroport de Tarbes-Lourdes-Pyrénées à 19 h 05 et une prière à la grotte de Massabielle à 19 h 40. Le temps fort pour les fidèles sera la messe dominicale du 27 septembre à 11 heures sur la prairie du sanctuaire. Le diocèse de Toulouse mobilise 118 bus depuis toute la Haute-Garonne, avec pour consigne d'arriver avant 8 h 30. Quelque 7 300 pèlerins sont attendus au total — chiffre estimé d'après le nombre de foulards orange siglés du diocèse vendus à 1,85 € l'unité, arborant la devise « Pour que le monde ait la vie ».</summary>
-    <category term="news"/>
-    <published>2026-09-26T13:02:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:4dea53cc-0e28-47c1-9b6b-c2822bc48117</id>
-    <title>L'Astronef, cantine de quartier entre convivialité et solidarité</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/astronef-photo-1.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Astronef est un café-restaurant atypique situé entre les quartiers Rangueil et Saouzelong, dans un secteur résidentiel où il fait figure de lieu de vie incontournable. Sa terrasse ombragée sous les platanes affiche complet dès l&amp;#x27;ouverture, et la carte courte — plat à 14€, dessert compris à 18€ — mise sur une cuisine généreuse et sans chichis, à l&amp;#x27;image d&amp;#x27;un sauté de canard aux olives avec purée maison. L&amp;#x27;endroit se distingue aussi par sa dimension solidaire : un dimanche sur deux, en partenariat avec l&amp;#x27;association Les Étonné·es, des bénévoles cuisinent contre le gaspillage et proposent des plats chauds à prix libre. L&amp;#x27;article brosse le portrait d&amp;#x27;un lieu qui tient autant du café de quartier que de la cantine populaire, où l&amp;#x27;ambiance humaine compte autant que l&amp;#x27;assiette.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/entre-cuisine-et-independance-a-la-table-de-l-astronef-a-toulouse-le-spectacle-n-est-pas-seulement-dans-l-assiette_64820231.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/entre-cuisine-et-independance-a-la-table-de-l-astronef-a-toulouse-le-spectacle-n-est-pas-seulement-dans-l-assiette_64820231.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Astronef est un café-restaurant atypique situé entre les quartiers Rangueil et Saouzelong, dans un secteur résidentiel où il fait figure de lieu de vie incontournable. Sa terrasse ombragée sous les platanes affiche complet dès l'ouverture, et la carte courte — plat à 14€, dessert compris à 18€ — mise sur une cuisine généreuse et sans chichis, à l'image d'un sauté de canard aux olives avec purée maison. L'endroit se distingue aussi par sa dimension solidaire : un dimanche sur deux, en partenariat avec l'association Les Étonné·es, des bénévoles cuisinent contre le gaspillage et proposent des plats chauds à prix libre. L'article brosse le portrait d'un lieu qui tient autant du café de quartier que de la cantine populaire, où l'ambiance humaine compte autant que l'assiette.</summary>
-    <category term="place"/>
-    <published>2026-09-26T13:26:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:04a11aa2-8dc5-4d2d-a17b-74e535e58bf1</id>
-    <title>Jubillar surpris en plein rapport sexuel au parloir de Seysses</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/10/cedric-jubillar-mareva-laville.jpg"/&gt;
-&lt;p&gt;Cédric Jubillar, incarcéré à la maison d&amp;#x27;arrêt de Toulouse-Seysses depuis juin 2021 pour le meurtre de son épouse Delphine Aussaguel, a été surpris cette semaine par des agents pénitentiaires en plein acte sexuel avec une nouvelle visiteuse au parloir. Les faits ont été découverts lors d&amp;#x27;une ronde de surveillance, les deux personnes étant en contact physique explicite. En France, les relations sexuelles sont strictement interdites dans les parloirs ordinaires ; seules les Unités de vie familiale, auxquelles Jubillar n&amp;#x27;a pas accès en raison de son placement à l&amp;#x27;isolement, permettent une telle intimité. La visiteuse s&amp;#x27;est vu suspendre son permis de visite à titre conservatoire, et des sanctions disciplinaires pourraient être prononcées à l&amp;#x27;encontre du détenu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cedric-jubillar-surpris-en-plein-rapport-sexuel-au-parloir-avec-une-nouvelle-visiteuse_64842837.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cedric-jubillar-surpris-en-plein-rapport-sexuel-au-parloir-avec-une-nouvelle-visiteuse_64842837.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Cédric Jubillar, incarcéré à la maison d'arrêt de Toulouse-Seysses depuis juin 2021 pour le meurtre de son épouse Delphine Aussaguel, a été surpris cette semaine par des agents pénitentiaires en plein acte sexuel avec une nouvelle visiteuse au parloir. Les faits ont été découverts lors d'une ronde de surveillance, les deux personnes étant en contact physique explicite. En France, les relations sexuelles sont strictement interdites dans les parloirs ordinaires ; seules les Unités de vie familiale, auxquelles Jubillar n'a pas accès en raison de son placement à l'isolement, permettent une telle intimité. La visiteuse s'est vu suspendre son permis de visite à titre conservatoire, et des sanctions disciplinaires pourraient être prononcées à l'encontre du détenu.</summary>
-    <category term="news"/>
-    <published>2026-09-26T14:51:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a944785a-b60c-407c-9020-d689eb3488cb</id>
-    <title>La nouvelle saison du Rex Toulouse : metal, techno et punk au programme</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2024/08/c06c842b90b66f86c842b90b6aa7c8v.jpg"/&gt;
-&lt;p&gt;La salle de concerts le Rex à Toulouse dévoile une nouvelle saison particulièrement chargée, couvrant un large spectre de styles musicaux. DJ Pone lancera les festivités le 1er octobre pour ses 30 ans de carrière, avant une série de soirées hard-techno et hard trance avec TBM et Girls on rave. Le metal sera bien représenté avec Primal Fear le 6 octobre, puis les Suédois de Hällas le 14 octobre, groupe de rock progressif aux influences King Crimson et Uriah Heep. La saison se prolonge en novembre avec les Roadrunners, Spike and the Gimme Gimmes (ex-Me First and the Gimme Gimmes, reprises punk mélodique) et Imperial Triumphant avec Knoll.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cette-salle-de-concerts-a-toulouse-fait-plus-que-jamais-rugir-la-musique-a-l-occasion-de-sa-nouvelle-saison_64817754.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cette-salle-de-concerts-a-toulouse-fait-plus-que-jamais-rugir-la-musique-a-l-occasion-de-sa-nouvelle-saison_64817754.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La salle de concerts le Rex à Toulouse dévoile une nouvelle saison particulièrement chargée, couvrant un large spectre de styles musicaux. DJ Pone lancera les festivités le 1er octobre pour ses 30 ans de carrière, avant une série de soirées hard-techno et hard trance avec TBM et Girls on rave. Le metal sera bien représenté avec Primal Fear le 6 octobre, puis les Suédois de Hällas le 14 octobre, groupe de rock progressif aux influences King Crimson et Uriah Heep. La saison se prolonge en novembre avec les Roadrunners, Spike and the Gimme Gimmes (ex-Me First and the Gimme Gimmes, reprises punk mélodique) et Imperial Triumphant avec Knoll.</summary>
-    <category term="news"/>
-    <published>2026-09-26T17:30:57+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:3f550d6b-b1c2-45ca-948c-cf1d76952120</id>
-    <title>Les nouvelles rames Oxygène Toulouse-Paris : ce qui change dès 2027</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/chatgpt-image-26-sept-2026-11-12-03.png"/&gt;
-&lt;p&gt;La SNCF mène actuellement des tests de fiabilisation sur ses futures rames Oxygène, qui doivent remplacer les rames Corail sur la ligne POLT (Paris-Orléans-Limoges-Toulouse) d&amp;#x27;ici la fin du premier semestre 2027. Initialement prévue pour 2024, la mise en service a pris du retard en raison de dysfonctionnements survenus lors d&amp;#x27;essais antérieurs. Plus de 300 000 km de tests sont planifiés en coordination avec SNCF Réseau, notamment dans la région de Brive, avant d&amp;#x27;obtenir les autorisations nécessaires auprès du constructeur CAF. Les nouvelles rames offriront 418 places (20 de plus qu&amp;#x27;actuellement), des sièges plus larges et inclinables avec accoudoirs, des stores individuels, un Wi-Fi amélioré ainsi qu&amp;#x27;une prise électrique et un port USB à chaque place.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/prises-usb-stores-individuels-voici-les-nouveautes-des-futures-rames-oxygene-qui-relieront-toulouse-a-paris-des-2027_64842524.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/prises-usb-stores-individuels-voici-les-nouveautes-des-futures-rames-oxygene-qui-relieront-toulouse-a-paris-des-2027_64842524.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La SNCF mène actuellement des tests de fiabilisation sur ses futures rames Oxygène, qui doivent remplacer les rames Corail sur la ligne POLT (Paris-Orléans-Limoges-Toulouse) d'ici la fin du premier semestre 2027. Initialement prévue pour 2024, la mise en service a pris du retard en raison de dysfonctionnements survenus lors d'essais antérieurs. Plus de 300 000 km de tests sont planifiés en coordination avec SNCF Réseau, notamment dans la région de Brive, avant d'obtenir les autorisations nécessaires auprès du constructeur CAF. Les nouvelles rames offriront 418 places (20 de plus qu'actuellement), des sièges plus larges et inclinables avec accoudoirs, des stores individuels, un Wi-Fi amélioré ainsi qu'une prise électrique et un port USB à chaque place.</summary>
-    <category term="news"/>
-    <published>2026-09-26T17:57:30+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:ff254b8b-1d18-450d-a144-b9aa558bf8cf</id>
-    <title>Airbus Defence and Space accélère la modernisation de ses sites toulousains</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/airbusds-20260522-hg-constellation-photos-oneweb.jpg"/&gt;
-&lt;p&gt;Airbus lance une vaste campagne de transformation de ses sites toulousains dédiés à la division Defence and Space, qui emploie environ 5 000 salariés au sud de Toulouse. Le programme d&amp;#x27;investissement, chiffré à plusieurs dizaines de millions d&amp;#x27;euros selon Actu Toulouse, vise à moderniser les installations sur plusieurs années. Parmi les réalisations déjà visibles : le nouveau bâtiment AL30 sur le site d&amp;#x27;Astrolabe et la remise en activité de l&amp;#x27;usine d&amp;#x27;assemblage de OneWeb. Cette dynamique s&amp;#x27;inscrit dans un écosystème spatial toulousain en pleine effervescence, marqué par l&amp;#x27;arrivée récente du Commandement de l&amp;#x27;espace et d&amp;#x27;un centre d&amp;#x27;excellence de l&amp;#x27;OTAN.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/airbus-mene-une-enorme-campagne-de-transformation-de-ses-sites-defence-and-space-ce-qui-se-trame-a-toulouse_64836989.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/airbus-mene-une-enorme-campagne-de-transformation-de-ses-sites-defence-and-space-ce-qui-se-trame-a-toulouse_64836989.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Airbus lance une vaste campagne de transformation de ses sites toulousains dédiés à la division Defence and Space, qui emploie environ 5 000 salariés au sud de Toulouse. Le programme d'investissement, chiffré à plusieurs dizaines de millions d'euros selon Actu Toulouse, vise à moderniser les installations sur plusieurs années. Parmi les réalisations déjà visibles : le nouveau bâtiment AL30 sur le site d'Astrolabe et la remise en activité de l'usine d'assemblage de OneWeb. Cette dynamique s'inscrit dans un écosystème spatial toulousain en pleine effervescence, marqué par l'arrivée récente du Commandement de l'espace et d'un centre d'excellence de l'OTAN.</summary>
-    <category term="news"/>
-    <published>2026-09-27T06:08:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:72a2c71b-25a6-43d0-ac99-1c256c2a7289</id>
-    <title>Nouvelles salles de sport fitness, crossfit et Hyrox à Toulouse</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/zone-salle-de-sport-verfeil.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;agglomération toulousaine voit émerger plusieurs nouvelles salles de sport spécialisées en fitness, crossfit et Hyrox, dans un marché déjà dense d&amp;#x27;une centaine d&amp;#x27;établissements. Parmi les ouvertures récentes, We Body inaugure une seconde salle près de Saint-Orens-de-Gameville, sur plus de 2 000 m², avec équipements Technogym connectés, cours collectifs, yoga, stretching et sauna. L&amp;#x27;Orange Bleue s&amp;#x27;installe à Pinsaguel, au 1 chemin des Moles, en misant sur les cours collectifs Yako. La salle Zone a également ouvert ses portes à Verfeil, illustrant la dynamique des structures indépendantes face aux grandes franchises comme Basic Fit ou Fitness Park.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/hyrox-fitness-crossfit-ces-nouvelles-salles-de-sport-qui-ont-ouvert-dans-l-agglomeration-de-toulouse_64820720.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/hyrox-fitness-crossfit-ces-nouvelles-salles-de-sport-qui-ont-ouvert-dans-l-agglomeration-de-toulouse_64820720.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'agglomération toulousaine voit émerger plusieurs nouvelles salles de sport spécialisées en fitness, crossfit et Hyrox, dans un marché déjà dense d'une centaine d'établissements. Parmi les ouvertures récentes, We Body inaugure une seconde salle près de Saint-Orens-de-Gameville, sur plus de 2 000 m², avec équipements Technogym connectés, cours collectifs, yoga, stretching et sauna. L'Orange Bleue s'installe à Pinsaguel, au 1 chemin des Moles, en misant sur les cours collectifs Yako. La salle Zone a également ouvert ses portes à Verfeil, illustrant la dynamique des structures indépendantes face aux grandes franchises comme Basic Fit ou Fitness Park.</summary>
-    <category term="place"/>
-    <published>2026-09-27T06:42:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:fe6e67bd-c94f-4b35-acfe-a66aff21c6a3</id>
-    <title>Fusillades en série au Grand Mirail : les riverains lancent une pétition</title>
-    <updated>2026-09-27T06:32:08.755044+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/04/tic-floutes-bellefontaine-fusillade.jpg"/&gt;
-&lt;p&gt;Des habitants du Grand Mirail ont lancé une pétition intitulée « Nos quartiers veulent vivre en paix » pour dénoncer la multiplication des fusillades dans les quartiers de Bellefontaine, Bagatelle, La Reynerie et La Faourette. Depuis le début de l&amp;#x27;année, près de 30 épisodes de tirs ont été recensés, faisant quatre morts et une dizaine de blessés, avec des incidents devenus quasi hebdomadaires depuis le mois d&amp;#x27;août. La pétition est portée par trois figures engagées dans les quartiers populaires, dont un conseiller régional, qui refusent que cette violence liée au narcotrafic soit perçue comme une fatalité. Le syndicat de police Alliance souligne lui aussi la gravité de la situation, évoquant un manque de moyens pour « tenir la ville ».&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/face-a-la-multiplication-des-fusillades-a-toulouse-ces-riverains-en-ont-ras-le-bol-et-lancent-une-petition_64827262.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/face-a-la-multiplication-des-fusillades-a-toulouse-ces-riverains-en-ont-ras-le-bol-et-lancent-une-petition_64827262.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Des habitants du Grand Mirail ont lancé une pétition intitulée « Nos quartiers veulent vivre en paix » pour dénoncer la multiplication des fusillades dans les quartiers de Bellefontaine, Bagatelle, La Reynerie et La Faourette. Depuis le début de l'année, près de 30 épisodes de tirs ont été recensés, faisant quatre morts et une dizaine de blessés, avec des incidents devenus quasi hebdomadaires depuis le mois d'août. La pétition est portée par trois figures engagées dans les quartiers populaires, dont un conseiller régional, qui refusent que cette violence liée au narcotrafic soit perçue comme une fatalité. Le syndicat de police Alliance souligne lui aussi la gravité de la situation, évoquant un manque de moyens pour « tenir la ville ».</summary>
-    <category term="news"/>
-    <published>2026-09-27T07:12:01+02:00</published>
-  </entry>
   <entry>
     <id>cluster:12cf55d3-889b-4c28-aded-437d676431b6</id>
     <title>Tourisme en berne à Toulouse : -15% à -30% en juillet 2026</title>
@@ -298,21 +133,6 @@
     <summary>Le domaine de Candie, situé près de Francazal et Portet-sur-Garonne, est le plus ancien domaine agricole de Toulouse, avec des origines remontant à la fin du XIIIe siècle. Fondé par la famille Ysalguier, puissants marchands toulousains du Moyen Âge, le site comprenait une vaste seigneurie de près de 3 km². Aujourd'hui, le domaine abrite 25 hectares de vignes produisant 30 000 bouteilles par an sous l'appellation Comté Tolosan, une maison de maître reconvertie en Maison du Bien Manger, et un chai logé dans une bâtisse médiévale inscrite aux monuments historiques depuis 2001. Le site recèle également une chapelle avec un bas-relief du XIVe siècle et une Pietà des XVe-XVIe siècles, pièces méconnues du grand public.</summary>
     <category term="culture"/>
     <published>2026-09-27T17:02:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:e7509e58-548d-40bc-9811-b37bf668bde3</id>
-    <title>Le Stade Toulousain s'impose largement face à Montpellier (40-18)</title>
-    <updated>2026-09-28T06:32:18.759356+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/le-stade-toulousain-sest-montre-lent-a-lallumage-mais-termine-devant-a-la-fin.jpg"/&gt;
-&lt;p&gt;Le Stade Toulousain a dominé Montpellier 40-18 au Stadium malgré un début de match très perturbé. Les Rouge et Noir ont été réduits à quatorze joueurs à deux reprises en moins de vingt minutes, avec les exclusions temporaires de Teddy Thomas et Alexandre Roumat. Malgré ce handicap, Toulouse s&amp;#x27;est montré clinique sur ses rares occasions en première mi-temps, avant de faire le break en seconde période grâce notamment à un doublé d&amp;#x27;Antoine Dupont. La rencontre était aussi marquée par la 250e apparition de Dorian Aldegheri sous le maillot toulousain.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-deroule-face-a-montpellier-malgre-une-entame-mouvementee_64845337.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-deroule-face-a-montpellier-malgre-une-entame-mouvementee_64845337.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Stade Toulousain a dominé Montpellier 40-18 au Stadium malgré un début de match très perturbé. Les Rouge et Noir ont été réduits à quatorze joueurs à deux reprises en moins de vingt minutes, avec les exclusions temporaires de Teddy Thomas et Alexandre Roumat. Malgré ce handicap, Toulouse s'est montré clinique sur ses rares occasions en première mi-temps, avant de faire le break en seconde période grâce notamment à un doublé d'Antoine Dupont. La rencontre était aussi marquée par la 250e apparition de Dorian Aldegheri sous le maillot toulousain.</summary>
-    <category term="news"/>
-    <published>2026-09-27T22:54:40+02:00</published>
   </entry>
   <entry>
     <id>cluster:58786b9d-2d18-414e-a280-227ff84f2806</id>
@@ -8784,29 +8604,6 @@
     <published>2026-10-03T07:02:02+02:00</published>
   </entry>
   <entry>
-    <id>cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0</id>
-    <title>L'exposition Pokémon x ESA ouvre à la Cité de l'espace</title>
-    <updated>2026-10-03T06:42:48.338984+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <author>
-      <name>clutch</name>
-    </author>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/POKEMON-ESA.jpg"/&gt;
-&lt;p&gt;À partir du 2 octobre 2026, la Cité de l&amp;#x27;espace accueille « Pokémon x ESA », une exposition inédite née de la collaboration entre la franchise Pokémon et l&amp;#x27;Agence spatiale européenne, à l&amp;#x27;occasion de la Semaine mondiale de l&amp;#x27;espace. Le point de départ est original : une peluche Pikachu a réellement séjourné dans l&amp;#x27;espace avant d&amp;#x27;inspirer cette exposition. Le parcours met en parallèle la curiosité scientifique des astronautes et celle des dresseurs, avec des focus sur les missions actuelles et futures de l&amp;#x27;ESA et des liens inattendus entre certains Pokémon et leurs environnements. Dès le 4 octobre, une expérience Pokémon Go sur le thème spatial prolonge la visite. L&amp;#x27;exposition est prévue jusqu&amp;#x27;au 30 avril 2027, avec des horaires variables selon les jours (10h–17h en semaine, 10h–18h le week-end) et un tarif allant de gratuit à 29 €.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;lessentiel contextualise largement l&amp;#x27;histoire de la franchise Pokémon et le phénomène local toulousain (dresseurs, scalping de cartes) ; clutch se concentre sur le programme de l&amp;#x27;exposition et l&amp;#x27;expérience Pokémon Go ; office_tourisme fournit les dates officielles et la durée complète de l&amp;#x27;exposition.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Contexte culturel Pokémon et anecdotes locales toulousaines&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Clutch&lt;/strong&gt;: Programme détaillé, horaires et billeterie&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Dates officielles et durée de l&amp;#x27;exposition&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-01?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#51601"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-10-01-vendredi-2-octobre-0"&gt;Clutch&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/pokemon-x-esa/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-01?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#51601"/>
-    <summary>À partir du 2 octobre 2026, la Cité de l'espace accueille « Pokémon x ESA », une exposition inédite née de la collaboration entre la franchise Pokémon et l'Agence spatiale européenne, à l'occasion de la Semaine mondiale de l'espace. Le point de départ est original : une peluche Pikachu a réellement séjourné dans l'espace avant d'inspirer cette exposition. Le parcours met en parallèle la curiosité scientifique des astronautes et celle des dresseurs, avec des focus sur les missions actuelles et futures de l'ESA et des liens inattendus entre certains Pokémon et leurs environnements. Dès le 4 octobre, une expérience Pokémon Go sur le thème spatial prolonge la visite. L'exposition est prévue jusqu'au 30 avril 2027, avec des horaires variables selon les jours (10h–17h en semaine, 10h–18h le week-end) et un tarif allant de gratuit à 29 €.</summary>
-    <category term="event"/>
-    <published>2026-10-01T04:05:47.921000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:d2c7b0d9-91be-42b9-9201-62839a034ac3</id>
     <title>Cinespaña fête ses 30 ans à la Cinémathèque de Toulouse</title>
     <updated>2026-10-03T06:42:48.338984+00:00</updated>
@@ -8848,5 +8645,183 @@
     <summary>La journée de grève interprofessionnelle du 29 septembre 2026 a mobilisé entre 6 800 et 11 000 manifestants à Toulouse, avec un cortège parti de la place Saint-Cyprien sans incident majeur. En marge, un mouvement lycéen a provoqué des perturbations importantes : blocus de 15 établissements, incidents devant le lycée Déodat-de-Séverac ayant interrompu le tramway, et 16 interpellations ce premier jour. Le lendemain, jeudi 1er octobre, la mobilisation lycéenne a encore escaladé — 3 000 participants, 57 interpellations, 35 blessés dont 13 élèves, 54 feux allumés — forçant la mise en sécurité de plusieurs écoles primaires et crèches. Vendredi 2 octobre, malgré la fermeture préventive de 18 lycées, les incidents ont repris avec 70 nouvelles interpellations en Haute-Garonne, portant le total à 124 arrestations depuis le début des blocages, dont 90 % de mineurs.</summary>
     <category term="news"/>
     <published>2026-09-28T19:09:26+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d658c50f-824c-4b60-b28a-d16a073e8428</id>
+    <title>Christophe Maé en concert au Zénith Toulouse Métropole</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/6dc/03e50748-93e2-4891-b9cf-9762086ce6dc_SOURCE"/&gt;
+&lt;p&gt;Christophe Maé se produira au Zénith Toulouse Métropole le 2 février 2027. Le chanteur pop français, connu pour ses tubes comme « Il est où le bonheur » et « Mon paradis », s&amp;#x27;inscrit dans une tournée de grande salle. Les amateurs de pop-chanson française auront l&amp;#x27;occasion de le retrouver dans l&amp;#x27;une des plus grandes salles de spectacle de la région. Les billets sont disponibles via Ticketmaster.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/christophe-mae-billet/idmanif/642076/idtier/18864121?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/christophe-mae-billet/idmanif/642076/idtier/18864121?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Christophe Maé se produira au Zénith Toulouse Métropole le 2 février 2027. Le chanteur pop français, connu pour ses tubes comme « Il est où le bonheur » et « Mon paradis », s'inscrit dans une tournée de grande salle. Les amateurs de pop-chanson française auront l'occasion de le retrouver dans l'une des plus grandes salles de spectacle de la région. Les billets sont disponibles via Ticketmaster.</summary>
+    <category term="event"/>
+    <published>2026-10-04T06:32:03.571792+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c01acf24-818f-456c-8cd0-c296e1511d74</id>
+    <title>Flyone Armenia passe sa première commande directe auprès d'Airbus</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/07/logo-airbus-toulouse-gl.jpg"/&gt;
+&lt;p&gt;Flyone Armenia, la principale compagnie aérienne d&amp;#x27;Arménie fondée en 2021, vient de formaliser sa première commande directe auprès d&amp;#x27;Airbus pour deux appareils A321neo. L&amp;#x27;accord avait été annoncé sous forme de protocole d&amp;#x27;accord lors de la visite d&amp;#x27;Emmanuel Macron à Erevan le 5 mai 2026. Les deux avions seront équipés de moteurs LEAP de CFM International et configurés en classe unique avec 239 sièges. Cette commande s&amp;#x27;inscrit dans la stratégie de modernisation de la flotte de la compagnie, qui exploite déjà des appareils de la famille A320, et confirme le succès mondial de cette gamme avec plus de 20 000 commandes enregistrées.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cette-petite-compagnie-passe-sa-premiere-commande-directe-aupres-d-airbus-voici-les-appareils-qu-elle-a-choisis_64875359.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cette-petite-compagnie-passe-sa-premiere-commande-directe-aupres-d-airbus-voici-les-appareils-qu-elle-a-choisis_64875359.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Flyone Armenia, la principale compagnie aérienne d'Arménie fondée en 2021, vient de formaliser sa première commande directe auprès d'Airbus pour deux appareils A321neo. L'accord avait été annoncé sous forme de protocole d'accord lors de la visite d'Emmanuel Macron à Erevan le 5 mai 2026. Les deux avions seront équipés de moteurs LEAP de CFM International et configurés en classe unique avec 239 sièges. Cette commande s'inscrit dans la stratégie de modernisation de la flotte de la compagnie, qui exploite déjà des appareils de la famille A320, et confirme le succès mondial de cette gamme avec plus de 20 000 commandes enregistrées.</summary>
+    <category term="news"/>
+    <published>2026-10-03T12:03:40+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:273e6c10-4959-43f4-8d5d-fa6a11d67043</id>
+    <title>Nicolas Cazenave ouvre bientôt son premier restaurant à Toulouse</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/photo-1-cazenave.jpg"/&gt;
+&lt;p&gt;Nicolas Cazenave, jeune chef toulousain, s&amp;#x27;apprête à ouvrir son premier restaurant à Toulouse. Formé auprès de grandes tables — Christophe Bacquié sur la Côte d&amp;#x27;Azur, Michaël Arnoult en Savoie (3 étoiles), et le restaurant Geranium à Copenhague — il a ensuite officié aux cuisines de CASA BOMBA place Dupuy, avant de partir plus d&amp;#x27;un an comme chef itinérant en France et en Europe. L&amp;#x27;article dresse son portrait et retrace un parcours forgé entre rigueur de la haute gastronomie et soif de liberté créative. L&amp;#x27;ouverture de son établissement est imminente mais la date exacte et le nom du restaurant ne sont pas précisés dans l&amp;#x27;extrait.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/faire-le-plein-d-energie-le-jeune-chef-nicolas-cazenave-va-bientot-ouvrir-son-premier-restaurant-a-toulouse_64851594.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/faire-le-plein-d-energie-le-jeune-chef-nicolas-cazenave-va-bientot-ouvrir-son-premier-restaurant-a-toulouse_64851594.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Nicolas Cazenave, jeune chef toulousain, s'apprête à ouvrir son premier restaurant à Toulouse. Formé auprès de grandes tables — Christophe Bacquié sur la Côte d'Azur, Michaël Arnoult en Savoie (3 étoiles), et le restaurant Geranium à Copenhague — il a ensuite officié aux cuisines de CASA BOMBA place Dupuy, avant de partir plus d'un an comme chef itinérant en France et en Europe. L'article dresse son portrait et retrace un parcours forgé entre rigueur de la haute gastronomie et soif de liberté créative. L'ouverture de son établissement est imminente mais la date exacte et le nom du restaurant ne sont pas précisés dans l'extrait.</summary>
+    <category term="place"/>
+    <published>2026-10-03T12:26:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c8892447-7292-4b04-885e-3764d894127b</id>
+    <title>Accident tramway-voiture avenue Raymond-Badiou : circulation perturbée</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/20260407-144307.jpg"/&gt;
+&lt;p&gt;Un accident entre un tramway et une voiture s&amp;#x27;est produit vers 13h30 ce samedi 3 octobre 2026, avenue Raymond-Badiou, à proximité du Zénith à Toulouse. Sept pompiers ont été mobilisés sur place ; l&amp;#x27;accident est qualifié de « faible cinétique » par le SDIS de Haute-Garonne. La conductrice du tramway, âgée de 32 ans, a été prise en charge sous le choc, tandis que l&amp;#x27;état du conducteur de la voiture restait en cours d&amp;#x27;évaluation au moment de la publication. En conséquence, plusieurs stations ne sont pas desservies — Hippodrome, Zénith et Cartoucherie — le tram circulant normalement entre Palais de Justice et Arènes, ainsi qu&amp;#x27;entre Purpan et MEETT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/accident-entre-une-voiture-et-un-tramway-a-toulouse-la-circulation-perturbee-la-conductrice-sous-le-choc_64875677.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/accident-entre-une-voiture-et-un-tramway-a-toulouse-la-circulation-perturbee-la-conductrice-sous-le-choc_64875677.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un accident entre un tramway et une voiture s'est produit vers 13h30 ce samedi 3 octobre 2026, avenue Raymond-Badiou, à proximité du Zénith à Toulouse. Sept pompiers ont été mobilisés sur place ; l'accident est qualifié de « faible cinétique » par le SDIS de Haute-Garonne. La conductrice du tramway, âgée de 32 ans, a été prise en charge sous le choc, tandis que l'état du conducteur de la voiture restait en cours d'évaluation au moment de la publication. En conséquence, plusieurs stations ne sont pas desservies — Hippodrome, Zénith et Cartoucherie — le tram circulant normalement entre Palais de Justice et Arènes, ainsi qu'entre Purpan et MEETT.</summary>
+    <category term="news"/>
+    <published>2026-10-03T14:42:50+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c68d0254-a47b-4fe2-8551-89b9e0347234</id>
+    <title>Airbus livre 32 satellites OneWeb d'Eutelsat depuis Toulouse</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/satellites-eutelsats-oneweb-constellation-ready-shipped-3.jpg"/&gt;
+&lt;p&gt;Airbus Defence and Space a livré ce vendredi 2 octobre 2026 les 32 premiers satellites du programme de renouvellement OneWeb à Eutelsat, produits sur le site toulousain de constellation du constructeur européen. Ces satellites en orbite terrestre basse (LEO) seront expédiés aux États-Unis pour leur prochain lancement. Ils s&amp;#x27;inscrivent dans une commande massive de 669 satellites passée par Eutelsat en trois vagues successives depuis le rachat de OneWeb. Ce programme doit assurer la continuité et le renforcement du service de connectivité sécurisée destiné aux entreprises, gouvernements et institutions dans le monde entier.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/leur-production-a-ete-rapatriee-des-etats-unis-a-toulouse-airbus-livre-les-nouveaux-satellites-oneweb-d-eutelsat_64873517.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/leur-production-a-ete-rapatriee-des-etats-unis-a-toulouse-airbus-livre-les-nouveaux-satellites-oneweb-d-eutelsat_64873517.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Airbus Defence and Space a livré ce vendredi 2 octobre 2026 les 32 premiers satellites du programme de renouvellement OneWeb à Eutelsat, produits sur le site toulousain de constellation du constructeur européen. Ces satellites en orbite terrestre basse (LEO) seront expédiés aux États-Unis pour leur prochain lancement. Ils s'inscrivent dans une commande massive de 669 satellites passée par Eutelsat en trois vagues successives depuis le rachat de OneWeb. Ce programme doit assurer la continuité et le renforcement du service de connectivité sécurisée destiné aux entreprises, gouvernements et institutions dans le monde entier.</summary>
+    <category term="news"/>
+    <published>2026-10-03T16:56:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:6dcd1b3c-317e-40dd-b1ab-65ce0bbe4cdf</id>
+    <title>DeLaurentis en interview avant Mecanik Paradize à la Halle de la Machine</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/delaurentis.jpg"/&gt;
+&lt;p&gt;DeLaurentis, artiste électro née à Toulouse, se confie à Actu Toulouse à l&amp;#x27;occasion de son passage en première partie de Paul Kalkbrenner lors du festival Mecanik Paradize. Elle évoque sa musique mélodique et atmosphérique, forgée autour de synthétiseurs et de pads colorés, et sa singularité de synesthète qui associe sons et couleurs. L&amp;#x27;artiste, reconnue en France et à l&amp;#x27;international, décrit ses performances scéniques comme un acte pictural : chaque morceau correspond à une tonalité de couleur retranscrite dans les lumières de scène. Le rendez-vous est fixé le vendredi 9 octobre 2026 à la Halle de la Machine, Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/j-ai-un-lien-particulier-avec-l-image-delaurentis-l-artiste-electro-a-l-affiche-de-mecanik-paradize-a-toulouse_64816684.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/j-ai-un-lien-particulier-avec-l-image-delaurentis-l-artiste-electro-a-l-affiche-de-mecanik-paradize-a-toulouse_64816684.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>DeLaurentis, artiste électro née à Toulouse, se confie à Actu Toulouse à l'occasion de son passage en première partie de Paul Kalkbrenner lors du festival Mecanik Paradize. Elle évoque sa musique mélodique et atmosphérique, forgée autour de synthétiseurs et de pads colorés, et sa singularité de synesthète qui associe sons et couleurs. L'artiste, reconnue en France et à l'international, décrit ses performances scéniques comme un acte pictural : chaque morceau correspond à une tonalité de couleur retranscrite dans les lumières de scène. Le rendez-vous est fixé le vendredi 9 octobre 2026 à la Halle de la Machine, Toulouse.</summary>
+    <category term="culture"/>
+    <published>2026-10-03T19:02:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:83c5452f-4a9c-4f8f-929d-e643982c59c2</id>
+    <title>Résidence Envergure à Montaudran : 109 logements dès 129 000 € près du métro</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/residence-envergure-montaudran-toulouse.jpg"/&gt;
+&lt;p&gt;La résidence Envergure, portée par le bailleur Promologis, va sortir de terre dans l&amp;#x27;écoquartier Montaudran Aerospace à Toulouse, juste en face de la future Tour Altiplano. Le programme prévoit 109 logements collectifs allant du T2 au T5, sur 8 238 m² de surface de plancher, avec des prix affichés à partir de 129 000 euros pour un deux-pièces. L&amp;#x27;emplacement est présenté comme stratégique : à quelques minutes à pied de la future station Aerospace Campus sur la ligne C du métro. Ce développement s&amp;#x27;inscrit dans l&amp;#x27;urbanisation continue du quartier Montaudran, ancien berceau de l&amp;#x27;aéropostale, où commerces et équipements peinent encore à pleinement s&amp;#x27;implanter.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/129-000-euros-le-t2-cette-nouvelle-residence-a-prix-abordables-va-sortir-de-terre-a-deux-pas-du-metro-a-toulouse_64849269.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/129-000-euros-le-t2-cette-nouvelle-residence-a-prix-abordables-va-sortir-de-terre-a-deux-pas-du-metro-a-toulouse_64849269.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La résidence Envergure, portée par le bailleur Promologis, va sortir de terre dans l'écoquartier Montaudran Aerospace à Toulouse, juste en face de la future Tour Altiplano. Le programme prévoit 109 logements collectifs allant du T2 au T5, sur 8 238 m² de surface de plancher, avec des prix affichés à partir de 129 000 euros pour un deux-pièces. L'emplacement est présenté comme stratégique : à quelques minutes à pied de la future station Aerospace Campus sur la ligne C du métro. Ce développement s'inscrit dans l'urbanisation continue du quartier Montaudran, ancien berceau de l'aéropostale, où commerces et équipements peinent encore à pleinement s'implanter.</summary>
+    <category term="news"/>
+    <published>2026-10-04T06:06:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:dbb77327-64b3-46dc-9206-6864c070c1fb</id>
+    <title>La Laiterie Toulousaine : ateliers fromage et vente artisanale à Saint-Aubin</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/pxl-20260918-141439861-edit.jpg"/&gt;
+&lt;p&gt;Anthony Lefébure, ancien ingénieur ferroviaire reconverti artisan-fromager, a ouvert la Laiterie Toulousaine au 55 rue Pierre-Paul Riquet, dans le quartier Saint-Aubin. Sa boutique fait à la fois office d&amp;#x27;atelier de fabrication, d&amp;#x27;espace de vente et de lieu d&amp;#x27;ateliers ouverts au public. Il propose des sessions de deux heures pour apprendre à fabriquer mozzarella, beurre, ricotta ou burrata autour d&amp;#x27;un grand îlot central pouvant accueillir jusqu&amp;#x27;à dix participants, avec dégustation de fromages et vins à la clé. Diplômé de l&amp;#x27;École de fromagerie d&amp;#x27;Aurillac, il s&amp;#x27;approvisionne auprès de fermiers d&amp;#x27;Occitanie et crée également ses propres fromages originaux, comme des crottins de chèvre à la verveine bleue ou des sucettes di bufala.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/artisan-fromager-en-plein-coeur-de-toulouse-il-apprend-a-ses-clients-a-fabriquer-leur-propre-fromage_64867589.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/artisan-fromager-en-plein-coeur-de-toulouse-il-apprend-a-ses-clients-a-fabriquer-leur-propre-fromage_64867589.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Anthony Lefébure, ancien ingénieur ferroviaire reconverti artisan-fromager, a ouvert la Laiterie Toulousaine au 55 rue Pierre-Paul Riquet, dans le quartier Saint-Aubin. Sa boutique fait à la fois office d'atelier de fabrication, d'espace de vente et de lieu d'ateliers ouverts au public. Il propose des sessions de deux heures pour apprendre à fabriquer mozzarella, beurre, ricotta ou burrata autour d'un grand îlot central pouvant accueillir jusqu'à dix participants, avec dégustation de fromages et vins à la clé. Diplômé de l'École de fromagerie d'Aurillac, il s'approvisionne auprès de fermiers d'Occitanie et crée également ses propres fromages originaux, comme des crottins de chèvre à la verveine bleue ou des sucettes di bufala.</summary>
+    <category term="place"/>
+    <published>2026-10-04T06:42:02+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:53826eea-7f09-427b-87b7-4a6522f08c25</id>
+    <title>Urgences vétérinaires à Toulouse : où aller la nuit et le week-end</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/20161218-152312.jpg"/&gt;
+&lt;p&gt;Trouver un vétérinaire disponible en dehors des heures ouvrables est un défi auquel de nombreux propriétaires d&amp;#x27;animaux toulousains ont été confrontés. L&amp;#x27;article recense les dispositifs d&amp;#x27;urgence vétérinaire accessibles la nuit, le week-end et les jours fériés à Toulouse. Parmi les solutions mentionnées figure le groupe Vet-Urgentys, qui dispose de deux cliniques ouvertes en soirée et la nuit, situées à Purpan et à Montaudran. L&amp;#x27;article met également en garde contre les numéros surtaxés qui prolifèrent en ligne et qui peuvent faire perdre du temps et de l&amp;#x27;argent dans des situations critiques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/urgences-veterinaires-a-toulouse-la-nuit-le-week-end-et-les-jours-feries-ou-emmener-son-animal-pour-le-soigner_64858960.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/urgences-veterinaires-a-toulouse-la-nuit-le-week-end-et-les-jours-feries-ou-emmener-son-animal-pour-le-soigner_64858960.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Trouver un vétérinaire disponible en dehors des heures ouvrables est un défi auquel de nombreux propriétaires d'animaux toulousains ont été confrontés. L'article recense les dispositifs d'urgence vétérinaire accessibles la nuit, le week-end et les jours fériés à Toulouse. Parmi les solutions mentionnées figure le groupe Vet-Urgentys, qui dispose de deux cliniques ouvertes en soirée et la nuit, situées à Purpan et à Montaudran. L'article met également en garde contre les numéros surtaxés qui prolifèrent en ligne et qui peuvent faire perdre du temps et de l'argent dans des situations critiques.</summary>
+    <category term="news"/>
+    <published>2026-10-04T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0</id>
+    <title>Exposition Pokémon x ESA à la Cité de l'espace jusqu'en avril</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <author>
+      <name>clutch</name>
+    </author>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/POKEMON-ESA.jpg"/&gt;
+&lt;p&gt;La Cité de l&amp;#x27;espace accueille depuis le 2 octobre et jusqu&amp;#x27;au 30 avril 2027 l&amp;#x27;exposition inédite « Pokémon x ESA », fruit d&amp;#x27;un partenariat entre la franchise Pokémon et l&amp;#x27;Agence spatiale européenne. Le clou du spectacle : la peluche Pikachu qui a réellement séjourné 67 jours à bord de la Station spatiale internationale aux côtés de l&amp;#x27;astronaute Sophie Adenot. Le parcours explore les missions actuelles et futures de l&amp;#x27;ESA à travers le prisme de l&amp;#x27;univers Pokémon, et une expérience Pokémon Go dans les jardins est accessible à partir du 4 octobre. L&amp;#x27;exposition s&amp;#x27;accompagne d&amp;#x27;une boutique de produits dérivés en édition limitée — patch de mission, peluches astronaute, figurines — déjà victimes de scalping, certains articles étant déjà en rupture de stock sur le site de l&amp;#x27;ESA.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse se concentre sur l&amp;#x27;angle économique et sociétal du scalping des produits dérivés, tandis que Clutch et l&amp;#x27;office du tourisme présentent l&amp;#x27;exposition comme un événement à ne pas manquer. Lessentiel apporte le contexte culturel large sur la franchise Pokémon et la communauté locale de dresseurs à Toulouse.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Le phénomène des produits dérivés en édition limitée et le risque de scalping en boutique&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Les dates exactes et le descriptif officiel du parcours de l&amp;#x27;exposition&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Le contexte culturel de la franchise Pokémon et la communauté toulousaine de dresseurs&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Clutch&lt;/strong&gt;: Les horaires, tarifs et l&amp;#x27;expérience Pokémon Go dans les jardins&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-01?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#51601"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://www.clutchmag.fr/evenements?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#2026-10-01-vendredi-2-octobre-0"&gt;Clutch&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/pokemon-x-esa/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/expo-pokemon-a-toulouse-comment-la-cite-de-l-espace-gere-la-convoitise-autour-des-produits-derives-en-edition-limitee_64873488.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-01?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#51601"/>
+    <summary>La Cité de l'espace accueille depuis le 2 octobre et jusqu'au 30 avril 2027 l'exposition inédite « Pokémon x ESA », fruit d'un partenariat entre la franchise Pokémon et l'Agence spatiale européenne. Le clou du spectacle : la peluche Pikachu qui a réellement séjourné 67 jours à bord de la Station spatiale internationale aux côtés de l'astronaute Sophie Adenot. Le parcours explore les missions actuelles et futures de l'ESA à travers le prisme de l'univers Pokémon, et une expérience Pokémon Go dans les jardins est accessible à partir du 4 octobre. L'exposition s'accompagne d'une boutique de produits dérivés en édition limitée — patch de mission, peluches astronaute, figurines — déjà victimes de scalping, certains articles étant déjà en rupture de stock sur le site de l'ESA.</summary>
+    <category term="event"/>
+    <published>2026-10-01T04:05:47.921000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:e7509e58-548d-40bc-9811-b37bf668bde3</id>
+    <title>Le Stade Toulousain enchaîne les victoires en Top 14</title>
+    <updated>2026-10-04T06:32:18.531240+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/le-stade-toulousain-sest-montre-lent-a-lallumage-mais-termine-devant-a-la-fin.jpg"/&gt;
+&lt;p&gt;Le Stade Toulousain a réalisé deux belles performances en Top 14, s&amp;#x27;imposant d&amp;#x27;abord largement face à Montpellier (40-18) à domicile malgré deux passages à quatorze en début de match, puis en s&amp;#x27;extrayant d&amp;#x27;un derby serré à Castres (7-8). Contre Montpellier, Antoine Dupont a inscrit un doublé lors de la 250e apparition de Dorian Aldegheri sous le maillot rouge et noir. Face à Castres, les Toulousains ont dû composer avec une équipe rajeunie et réduite à quatorze hommes à deux reprises, s&amp;#x27;en remettant à un essai chanceux de Matthis Lebel juste avant la mi-temps. Ces deux succès confirment la solidité collective du Stade Toulousain, capable de s&amp;#x27;imposer dans des contextes très différents.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux articles couvrent des matchs distincts : le premier détaille une victoire bonus offensive et spectaculaire contre Montpellier, le second met en avant la solidité défensive et la résilience dans un derby castrais beaucoup plus tendu.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (match Montpellier)&lt;/strong&gt;: Performance offensive et milestones individuels (Dupont, Aldegheri)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (match Castres)&lt;/strong&gt;: Derby serré, solidité défensive et montée des jeunes joueurs&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-deroule-face-a-montpellier-malgre-une-entame-mouvementee_64845337.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-tient-bon-et-s-impose-a-castres-dans-un-match-serre_64876191.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-deroule-face-a-montpellier-malgre-une-entame-mouvementee_64845337.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Stade Toulousain a réalisé deux belles performances en Top 14, s'imposant d'abord largement face à Montpellier (40-18) à domicile malgré deux passages à quatorze en début de match, puis en s'extrayant d'un derby serré à Castres (7-8). Contre Montpellier, Antoine Dupont a inscrit un doublé lors de la 250e apparition de Dorian Aldegheri sous le maillot rouge et noir. Face à Castres, les Toulousains ont dû composer avec une équipe rajeunie et réduite à quatorze hommes à deux reprises, s'en remettant à un essai chanceux de Matthis Lebel juste avant la mi-temps. Ces deux succès confirment la solidité collective du Stade Toulousain, capable de s'imposer dans des contextes très différents.</summary>
+    <category term="news"/>
+    <published>2026-09-27T22:54:40+02:00</published>
   </entry>
 </feed>
