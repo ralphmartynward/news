@@ -1,0 +1,55 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:db37fae0-f863-4778-b2cc-1f3a894c21cd",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Placebo en concert au Zénith de Toulouse en octobre",
+    "image_url": "https://s1.ticketm.net/dam/a/210/64dcd852-811c-470a-a70c-a7b47fda0210_SOURCE",
+    "file": "cluster_db37fae0-f863-4778-b2cc-1f3a894c21cd_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1800
+  },
+  {
+    "cluster_id": "cluster:911ff886-626e-436a-8dc2-e16172548b45",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Nuit du Droit à l'Université Toulouse Capitole",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_140949627.jpg?h=19a913f8&itok=AXpIeqQq",
+    "file": "cluster_911ff886-626e-436a-8dc2-e16172548b45_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:a6de5ee6-8aa7-41a8-a704-08edaac1ae67",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Fête de la Science : « Saveurs gourmandes » sur le campus de Rangueil",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_84384889.jpg?itok=7OCrUjRL",
+    "file": "cluster_a6de5ee6-8aa7-41a8-a704-08edaac1ae67_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:4c5181a7-2f5c-4b2c-b898-83b41337047d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Deux salons créatifs et artisanaux au MEETT en 2026",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SALON-TENDANCES-CREATIVES.jpg",
+    "file": "cluster_4c5181a7-2f5c-4b2c-b898-83b41337047d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

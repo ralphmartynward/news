@@ -28,6 +28,24 @@ URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-les-athletes-du-super
  tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:3b5b079d-267c-4990-b58d-9434ddca3828@news.lavillerose.com
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Toulouse Polars du Sud
+DESCRIPTION:Le festival Toulouse Polars du Sud revient du 9 au 11 octobre 2
+ 026 au Forum de la Renaissance\, à Basso-Cambo\, pour une 18e édition pl
+ acée sous le thème de la guerre. Une quarantaine d'auteurs venus de sept
+  pays sont au programme\, dont Andreï Kourkov\, R. J. Ellory\, Carlos Sal
+ em et Susana Fortes\, parrainés par Valentine Imhof et Abir Mukherjee. Qu
+ atorze tables rondes\, des rencontres intimistes dans un bus de collection
+  transformé en « parloir »\, et une exposition photo sont prévus\, en 
+ plus d'anima\n\nSource\: https://www.toulouscope.fr/2026/09/28/toulouse-po
+ lars-du-sud-le-polar-passe-en-mode-guerre-pour-sa-18e-edition-13563362.php
+URL:https://www.toulouscope.fr/2026/09/28/toulouse-polars-du-sud-le-polar-p
+ asse-en-mode-guerre-pour-sa-18e-edition-13563362.php?utm_source=ical&utm_m
+ edium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -16291,7 +16309,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20261003
 SUMMARY:Pokémon x ESA – Cité de l'espace
 DESCRIPTION:La Cité de l'espace accueille depuis le 2 octobre et jusqu'au 
  30 avril 2027 l'exposition inédite « Pokémon x ESA »\, fruit d'un part
@@ -16774,18 +16792,17 @@ BEGIN:VEVENT
 UID:cluster:1dd391dd-b972-4598-bb63-9adc65ad6257@news.lavillerose.com
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:Salles Gothiques – Musée des Augustins
-DESCRIPTION:Le Musée des Augustins présente ses salles gothiques entière
- ment repensées après une importante campagne de restauration. La sacrist
- ie\, la salle Notre-Dame de Pitié et la salle capitulaire\, situées au c
- œur de l'ancien couvent\, accueillent à nouveau leurs œuvres avec une n
- ouvelle scénographie. Le parcours couvre du XIIIe au début du XVIe sièc
- le\, mêlant sculptures et peintures médiévales\, dont le chef-d'œuvre 
- Notre-Dame de Grâce\, figure emblématique de la sculpture gothique méri
- dionale. La visite \n\nSource\: https://www.toulouse-tourisme.com/agenda/d
- ecouvrez-les-salles-gothiques-du-musee-des-augustins/
-LOCATION:salles gothiques entièrement repensées après une impo\, Toulous
- e
+SUMMARY:Salles gothiques – Musée des Augustins
+DESCRIPTION:Le musée des Augustins rouvre ses salles gothiques après une 
+ fermeture de quinze jours\, à l'issue d'une importante campagne de restau
+ ration de 25 ans. La sacristie\, la salle Notre-Dame de Pitié et la salle
+  capitulaire accueillent à nouveau les collections médiévales du musée
+ \, avec une nouvelle scénographie chronologique allant du XIIIe au XVIe s
+ iècle. Parmi les pièces mises en valeur figurent Notre-Dame de Grâce\, 
+ chef-d'œuvre de la sculpture gothique méridionale\, ainsi que des œuvre
+ s jusqu'alors\n\nSource\: https://www.toulouse-tourisme.com/agenda/decouvr
+ ez-les-salles-gothiques-du-musee-des-augustins/
+LOCATION:salles gothiques après une fermeture de quinze jours\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/decouvrez-les-salles-gothiques
  -du-musee-des-augustins/?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
@@ -17093,6 +17110,62 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-02#51700?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:911ff886-626e-436a-8dc2-e16172548b45@news.lavillerose.com
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Nuit du Droit – Toulouse Capitole
+DESCRIPTION:La 9e édition de la Nuit du Droit se tient à Toulouse avec pl
+ usieurs rendez-vous autour de la justice et de ses métiers. Organisée so
+ us l'égide du Conseil constitutionnel à l'occasion de l'anniversaire de 
+ la Constitution du 4 octobre\, l'événement vise à rendre le droit acces
+ sible au grand public. À Toulouse\, l'École de droit pilote la programma
+ tion avec le Tribunal judiciaire\, la Cour administrative d'appel et le Ba
+ rreau\, notamment une visite des salons du Capitole le matin sur inscripti
+ on. L'ap\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-10
+ -05#51836
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-05#51836?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a6de5ee6-8aa7-41a8-a704-08edaac1ae67@news.lavillerose.com
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Fête de la Science – Campus Rangueil
+DESCRIPTION:La Fête de la science démarre ce lundi sur le campus de Rangu
+ eil de l'Université de Toulouse\, avec une édition thématisée autour d
+ es « Saveurs gourmandes ». Le lancement officiel a lieu à 17h30 dans le
+  hall du bâtiment administratif\, avec des ateliers en accès libre sur l
+ a fermentation\, le kombucha\, la microbiologie du vin et la chimie des co
+ cktails. À 20h\, le parfumeur Pierre Bénard Ségu anime une conférence 
+ olfactive intitulée « Tous les chemins mènent arômes » à l'auditoriu
+ m Marthe-Condat\, en\n\nSource\: https://www.lessentiel.fr/newsletter/toul
+ ouse/2026-10-05#51833
+LOCATION:campus de Rangueil de l'Université de Toulouse\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-05#51833?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:aa9fff38-1458-4cb5-a331-d7db7202a02a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Travaux nocturnes sur l'A64 : fermetures partielles du 5 au 9 octob
+ re
+DESCRIPTION:Des travaux de maintenance réalisés par Vinci Autoroutes entr
+ aîneront des fermetures nocturnes sur l'A64 à proximité de Toulouse du 
+ 5 au 8 octobre 2026 (jusqu'au matin du 9). Chaque nuit\, entre 21h et 6h\,
+  des tronçons alternés seront fermés selon le sens de circulation\, ave
+ c des fermetures d'entrées dès 20h30. Les sections concernées vont de l
+ a bifurcation de Bordelongue jusqu'à Muret nord\, en passant par les éch
+ angeurs de Francazal et Roques-sur-Garonne. Des déviations seront mises e
+ n place à c\n\nSource\: https://actu.fr/occitanie/toulouse_31555/des-trav
+ aux-de-maintenance-doivent-y-etre-realises-des-fermetures-annoncees-sur-ce
+ tte-autoroute-proche-de-toulouse_64876632.html
+URL:https://actu.fr/occitanie/toulouse_31555/des-travaux-de-maintenance-doi
+ vent-y-etre-realises-des-fermetures-annoncees-sur-cette-autoroute-proche-d
+ e-toulouse_64876632.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:49d7423b-f120-4ed5-8186-b6869d7b6e0e@news.lavillerose.com
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261010
@@ -17199,16 +17272,15 @@ UID:cluster:65cb3bf1-d9bb-48b4-96d7-da4a8fc09f05@news.lavillerose.com
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261019
 SUMMARY:Toulouse les Orgues
-DESCRIPTION:Le Festival international Toulouse les Orgues célèbre cette a
- nnée ses trois décennies d'existence\, du 7 au 18 octobre 2026\, dans di
- vers lieux de la ville. Pendant une douzaine de jours\, Toulouse devient l
- a capitale mondiale de l'orgue\, accueillant des organistes du monde entie
- r grâce à son parc instrumental exceptionnel. La programmation mêle ré
- pertoire classique\, baroque\, symphonique\, occitan et musiques expérime
- ntales\, associant grandes stars et artistes émergents. Le concert d'ouve
- rture\, le 7\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse
- -les-orgues/
-LOCATION:parc inst\, Toulouse
+DESCRIPTION:Le festival international Toulouse les Orgues ouvre le 7 octobr
+ e 2026 à la basilique Notre-Dame de la Daurade et se déroule jusqu'au 18
+  octobre dans de multiples lieux toulousains. Pour ses trente ans\, le fes
+ tival fait rayonner Toulouse comme capitale mondiale de l'orgue\, attirant
+  des organistes du monde entier grâce à un parc instrumental exceptionne
+ l. La programmation mêle répertoires classique\, baroque\, symphonique\,
+  occitan et expérimental\, associant grandes stars et artistes émergents
+ . Le co\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-les-
+ orgues/
 URL:https://www.toulouse-tourisme.com/agenda/toulouse-les-orgues/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -17323,16 +17395,16 @@ UID:cluster:0e708bee-38c6-42c7-b1d7-362011e7a2ca@news.lavillerose.com
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261012
 SUMMARY:Empalot s'Agit(e)
-DESCRIPTION:Du 7 au 11 octobre 2026\, le festival Empalot s'Agit(e) investi
- t le quartier Empalot à Toulouse avec une programmation pluridisciplinair
- e mêlant théâtre\, cirque\, cinéma\, concerts\, chant et breakdance. L
- 'événement prend place sous et autour du chapiteau de l'Agit\, avec des 
- installations éphémères — gradins\, tentes\, guinguettes — qui font
-  surgir le spectacle dans le quotidien des habitants. L'ambition affichée
-  est une réappropriation positive de l'espace public\, en faisant venir l
- es arts au plus pr\n\nSource\: https://www.toulouse-tourisme.com/agenda/em
- palot-sagite/
-LOCATION:quartier Empalot\, Toulouse
+DESCRIPTION:La compagnie toulousaine de théâtre itinérant L'Agit install
+ e son chapiteau et ses tentes place André-Daste\, dans le quartier Empalo
+ t\, pour la 24e édition du festival biennal Empalot s'Agit(e). Du 7 au 11
+  octobre\, l'événement investit l'espace public avec une programmation v
+ ariée : théâtre\, cirque\, cinéma\, concerts\, chant et breakdance. L'
+ objectif est une réappropriation positive du quartier\, avec des spectacl
+ es qui surgissent dans le quotidien des habitants — gradins éphémères
+ \, déambulations po\n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ empalot-sagite/
+LOCATION:place André-Daste\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/empalot-sagite/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -17944,24 +18016,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/qui-sera-le-prochain-mister-fr
  enda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:3b5b079d-267c-4990-b58d-9434ddca3828@news.lavillerose.com
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261012
-SUMMARY:Toulouse Polars du Sud
-DESCRIPTION:Le festival Toulouse Polars du Sud revient du 9 au 11 octobre 2
- 026 pour sa 18e édition\, cette année placée sous le thème de la guerr
- e — conflits historiques\, géopolitique\, espionnage et combats intimes
-  à travers la littérature noire. Une quarantaine d'auteurs venus de sept
-  pays sont attendus\, dont Andreï Kourkov\, R. J. Ellory et Carlos Salem\
- , sous le parrainage de Valentine Imhof et Abir Mukherjee. Le programme pr
- incipal se tient au Forum de la Renaissance à Basso Cambo\, avec 14 table
- s rondes et\n\nSource\: https://www.toulouscope.fr/2026/09/28/toulouse-pol
- ars-du-sud-le-polar-passe-en-mode-guerre-pour-sa-18e-edition-13563362.php
-URL:https://www.toulouscope.fr/2026/09/28/toulouse-polars-du-sud-le-polar-p
- asse-en-mode-guerre-pour-sa-18e-edition-13563362.php?utm_source=ical&utm_m
- edium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:dd3ac5f3-a043-4168-b14e-3fd614d0d585@news.lavillerose.com
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
@@ -18193,19 +18247,19 @@ BEGIN:VEVENT
 UID:cluster:cf8691f1-fded-451a-9b12-ba728157f27c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
-SUMMARY:Salon des Minéraux et des Fossiles
-DESCRIPTION:Le Salon des Minéraux et des Fossiles se tient les 10 et 11 oc
- tobre 2026 à la Grande Halle de Toulouse. L'événement rassemble exposan
- ts et collectionneurs autour de minéraux\, fossiles\, plantes et insectes
- \, avec un naturaliste proposant une belle diversité de spécimens. Le pu
- blic pourra également découvrir une exposition thématique dédiée aux 
- Dinosaures ainsi que des conférences. Ce rendez-vous s'adresse aux passio
- nnés de sciences naturelles\, aux familles et aux curieux de tout âge.\n
- \nSource\: https://www.toulouse-tourisme.com/agenda/salon-des-mineraux-et-
- des-fossiles/
-LOCATION:Halle de Toulouse\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/salon-des-mineraux-et-des-foss
- iles/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Salon des Minéraux et Fossiles
+DESCRIPTION:Le 24e salon des minéraux et fossiles de L'Union se tient les 
+ 10 et 11 octobre à la Grande Halle\, rue du Somport. Près de 40 exposant
+ s sont attendus pour l'occasion. L'entrée est gratuite\, rendant l'évén
+ ement accessible à tous les publics\, amateurs curieux comme collectionne
+ urs confirmés. Les deux sources sont identiques et ne présentent aucune 
+ divergence.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDK
+ IqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeRz2nQhj0A0_ueglPXEI3ii76360N
+ 5LVPFs1o2kitP2jus
+LOCATION:rue du Somport\, Toulouse
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeRz2nQhj0A0_ueglPXEI3ii76360N5LVPFs1o2kitP2jus?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e297b0b4-674f-40fe-bd15-9dd71a2a083a@news.lavillerose.com
@@ -23348,6 +23402,27 @@ DESCRIPTION:La Chapelle des Carmélites\, fondée au XVIIe siècle au cœur
  ite-guidee-des-carmelites/
 URL:https://www.toulouse-tourisme.com/agenda/visite-guidee-des-carmelites/?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:535e9182-7e18-404e-9b6f-f4280232ff87@news.lavillerose.com
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270104
+SUMMARY:Invisible – Église du Gesù
+DESCRIPTION:La Maison Production présente « Invisible »\, un nouveau spe
+ ctacle immersif mêlant mapping vidéo\, lumière\, 3D\, musique\, danse e
+ t théâtre\, à l'Église du Gesù dans le quartier des Carmes. Le specta
+ cle se tient du 27 novembre 2026 au 3 janvier 2027\, pensé spécialement 
+ pour les fêtes de fin d'année en famille. La compagnie\, déjà connue p
+ our « Saint Sernin Millénaire » et « Le Songe de Riquet »\, a choisi 
+ ce lieu pour son cadre intime et préservé : retable\, vitraux\, peinture
+ s et colonnes décorées du XI\n\nSource\: https://www.toulouscope.fr/2026
+ /10/04/dans-une-eglise-de-toulouse-le-spectacle-sons-et-lumieres-enchanteu
+ r-invisible-est-attendu-pour-les-fetes-13580123.php
+LOCATION:quartier des Carmes\, Toulouse
+URL:https://www.toulouscope.fr/2026/10/04/dans-une-eglise-de-toulouse-le-sp
+ ectacle-sons-et-lumieres-enchanteur-invisible-est-attendu-pour-les-fetes-1
+ 3580123.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e00c73cd-495e-47fa-b107-36d2ac9ec001@news.lavillerose.com
