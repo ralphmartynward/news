@@ -1,0 +1,50 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:fa3b9a81-17c9-4d4e-a290-3822772f7e0b",
+  "title": "Escapade automnale dans les villages du Sud-Est Toulousain",
+  "ig_caption": "Villages dorés à 15 min de Toulouse\nPanoramas sur les Pyrénées et terroir local\nParfait pour une balade automnale en famille",
+  "ig_caption_long": "L'automne s'installe doucement autour de Toulouse et c'est le moment idéal pour explorer le Sud-Est Toulousain. À Vieille-Toulouse, Fourquevaux ou Montbrun-Lauragais, les façades dorées et les vieilles pierres prennent une lumière particulière en cette saison. Depuis les hauteurs d'Aureville, Goyrans ou Corronsac, le panorama s'étend jusqu'aux Pyrénées — un spectacle à ne pas manquer. On peut aussi longer le canal du Midi à pied ou à vélo, avant de s'arrêter dans une auberge du Lauragais pour goûter aux saveurs locales. Une escapade ressourçante, sans même quitter la région toulousaine.",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"sudouesttoulousain\", \"lauragais\", \"vieilleToulouse\", \"fourquevaux\", \"montbrunlauragais\", \"aureville\", \"goyrans\", \"corronsac\", \"canalduMidi\", \"villagesdeFrance\", \"patrimoine\", \"automne\", \"randonnee\", \"escapade\", \"terroir\", \"occitanie\", \"occitaniefrance\", \"baladenatue\", \"pyrenees\", \"weekendtoulouse\", \"tourismeoccitanie\"]",
+  "ig_mention": "toulouse_tourisme",
+  "venue": "",
+  "slides": [
+    {
+      "file": "cluster_fa3b9a81-17c9-4d4e-a290-3822772f7e0b_listicle_cover.jpg",
+      "type": "cover",
+      "img_width": 1200,
+      "img_height": 675
+    },
+    {
+      "file": "cluster_fa3b9a81-17c9-4d4e-a290-3822772f7e0b_listicle_01.jpg",
+      "type": "item",
+      "title": "Vieille-Toulouse",
+      "location": "Vieille-Toulouse",
+      "img_width": 1200,
+      "img_height": 675
+    },
+    {
+      "file": "cluster_fa3b9a81-17c9-4d4e-a290-3822772f7e0b_listicle_02.jpg",
+      "type": "item",
+      "title": "Fourquevaux et Montbrun-Lauragais",
+      "location": "Fourquevaux, Montbrun-Lauragais",
+      "img_width": 1200,
+      "img_height": 675
+    },
+    {
+      "file": "cluster_fa3b9a81-17c9-4d4e-a290-3822772f7e0b_listicle_03.jpg",
+      "type": "item",
+      "title": "Aureville, Goyrans, Corronsac",
+      "location": "Aureville, Goyrans, Corronsac",
+      "img_width": 1200,
+      "img_height": 675
+    },
+    {
+      "file": "cluster_fa3b9a81-17c9-4d4e-a290-3822772f7e0b_listicle_04.jpg",
+      "type": "item",
+      "title": "Canal du Midi",
+      "location": "Canal du Midi",
+      "img_width": 1200,
+      "img_height": 675
+    }
+  ]
+}

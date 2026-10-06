@@ -1,0 +1,121 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:49d7423b-f120-4ed5-8186-b6869d7b6e0e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "9 Minutes 43 : l'œuvre de Godard traversée au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/9MINUTES30.jpg",
+    "file": "cluster_49d7423b-f120-4ed5-8186-b6869d7b6e0e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a1c593f0-005d-48f2-b152-1bb49511e094",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Pestacle de Camille & Co au Bijou",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-PESTACLE-DE-CAMILLE---CO.jpg",
+    "file": "cluster_a1c593f0-005d-48f2-b152-1bb49511e094_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8d418894-aec1-4fc3-a0b0-007cffa3c8ec",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Deux soirées humour au Bikini : Robin Gomez et Noam Sinseau",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_8d418894-aec1-4fc3-a0b0-007cffa3c8ec_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:abfa5f50-ca80-4619-8b10-5bc7e5554152",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Primal Fear en concert au Rex de Toulouse en octobre",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_abfa5f50-ca80-4619-8b10-5bc7e5554152_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:5c7d5afa-133f-44d8-aa45-18d549a4a126",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Soirée Clutcho au Monument à la Gloire de la Résistance",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CLUTCH-O.jpg",
+    "file": "cluster_5c7d5afa-133f-44d8-aa45-18d549a4a126_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:19c3a60c-9f5f-452b-aba6-71b56f5dbbe7",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Brice Torrecillas présente « Le Modérateur » à Saint-Orens",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/brice-t---photo-helene-ressayres.jpg?itok=ZUurNBu8",
+    "file": "cluster_19c3a60c-9f5f-452b-aba6-71b56f5dbbe7_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:7770e648-d755-40b8-a180-cb8ae574cd66",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Trajectoires de l'emploi, 2e édition à l'Hôtel de Région",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/entretien-embauche-adobestock_364843654.jpg?itok=7f3YcWUN",
+    "file": "cluster_7770e648-d755-40b8-a180-cb8ae574cd66_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:9381d666-712c-45a3-abaf-2f8bdf742180",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Constellation Experience Day fait étape à Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/unnamed.jpg?itok=q9J2EY48",
+    "file": "cluster_9381d666-712c-45a3-abaf-2f8bdf742180_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:aea907e9-72e8-4319-be96-e6749ec99d11",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Robin Gomez présente « Hors normes » au Bikini",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/mic-dopt-production-make-production.jpg?itok=dvqwk7in",
+    "file": "cluster_aea907e9-72e8-4319-be96-e6749ec99d11_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:037b56f8-ed1f-43ab-9d5b-37bd269db254",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "LayUp « Mondes Parallèles » : expo street art géante à Terra Nova",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LAYUP-AO.jpg",
+    "file": "cluster_037b56f8-ed1f-43ab-9d5b-37bd269db254_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
