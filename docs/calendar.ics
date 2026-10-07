@@ -8529,25 +8529,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/a-une-semaine-de-l-evenement-u
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:10183314-94e1-44d1-a5e3-f62c623982d7@news.lavillerose.com
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260830
-SUMMARY:Rose Festival
-DESCRIPTION:Le Rose Festival revient pour sa cinquième édition au Meett d
- e Toulouse du 27 au 29 août 2026\, et affiche déjà complet. La grande n
- ouveauté de cette année est un espace intérieur de 12 000 m² transform
- é en fête foraine XXL avec grande roue\, manèges et attractions dès 1 
- €. La programmation artistique réunit des noms comme Aya Nakamura\, DJ 
- Snake\, Macklemore et Charlotte Cardin\, tandis que Bigflo & Oli — co-cr
- éateurs du festival — prépareront un « show spécial rose ». Une nou
- velle scène dédiée aux \n\nSource\: https://www.lessentiel.fr/newslette
- r/toulouse/2026-08-24#48012
-LOCATION:espace intérieur de 12 000 m² transformé en fête fora\, Toulou
- se
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-08-24#48012?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:15039238-3a85-4368-b3a3-c20c80692b47@news.lavillerose.com
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260830
@@ -16056,6 +16037,25 @@ URL:https://www.toulouscope.fr/2026/09/29/octobre-rose-a-toulouse-lagenda-d
  mpaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:3f3f97d8-2fca-4e4a-813e-f5772d69f6fa@news.lavillerose.com
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:Octobre Rose Toulouse
+DESCRIPTION:Tout au long du mois d'octobre 2026\, la Mairie de Toulouse ill
+ umine douze de ses soixante fontaines en rose dans le cadre de la campagne
+  annuelle Octobre Rose\, dédiée à la sensibilisation au dépistage du c
+ ancer du sein. Les fontaines concernées se situent dans plusieurs quartie
+ rs : Capitole\, Saint-Georges\, Saint-Michel/Busca\, Saint-Étienne\, Sain
+ t-Cyprien\, Carmes\, Dupuy/Saint-Aubin et Jolimont. L'éclairage est actif
+  chaque jour de 6h à 8h et de 18h à 23h\, uniquement sur des fontaines d
+ 'ornement f\n\nSource\: https://www.toulouscope.fr/2026/10/06/toulouse-12-
+ fontaines-illuminees-en-rose-pour-octobre-rose-voici-lesquelles-13577068.p
+ hp
+URL:https://www.toulouscope.fr/2026/10/06/toulouse-12-fontaines-illuminees-
+ en-rose-pour-octobre-rose-voici-lesquelles-13577068.php?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d2c7b0d9-91be-42b9-9201-62839a034ac3@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261012
@@ -16109,23 +16109,6 @@ DESCRIPTION:La Compagnie Synapse investit le Centre Culturel des Minimes le
 URL:https://www.toulouse-tourisme.com/agenda/la-carte-blanche-de-la-compagn
  ie-synapse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
  da
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:988655b5-b214-45f0-b8a2-5b9a3c86617e@news.lavillerose.com
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Joan Miró : Protestation
-DESCRIPTION:Le musée des Abattoirs accueille une exposition majeure consac
- rée à Joan Miró\, réunissant près de 200 œuvres — peintures\, dess
- ins\, sculptures\, tapisseries\, costumes et films — du 2 octobre 2026 a
- u 7 mars 2027. Organisée sous la direction de Lauriane Gricourt et du com
- missaire d'art Carles Guerra\, l'exposition suit un parcours chronologique
-  centré sur la protestation comme moteur créatif de l'artiste catalan. O
- n y découvre un Miró engagé\, qui n'a cessé de remettre en question le
- s codes de la pein\n\nSource\: https://www.toulouse-tourisme.com/agenda/jo
- an-miro-protestation/
-URL:https://www.toulouse-tourisme.com/agenda/joan-miro-protestation/?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:503efd6c-c2d8-4849-87ed-df5a445393c8@news.lavillerose.com
@@ -16680,19 +16663,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:fb1a20af-2ff3-420a-9b7d-852fdd16233f@news.lavillerose.com
 DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261004
 SUMMARY:Que faire à Toulouse ce week-end du 3 octobre ?
-DESCRIPTION:Le week-end du 3 et 4 octobre 2026 à Toulouse est particulièr
- ement chargé : danse dans les rues avec 7 créations chorégraphiques de 
- La Place de la Danse (du Capitole à La Reynerie)\, réouverture des salle
- s gothiques rénovées du musée des Augustins\, et lancement de l'exposit
- ion Joan Miró. Protestation aux Abattoirs avec près de 200 œuvres. Les 
- Journées nationales des artistes ouvrent ateliers et galeries gratuitemen
- t\, tandis que les amateurs de musique live pourront choisir entre Charlie
-  Winston e\n\nSource\: https://actu.fr/occitanie/toulouse_31555/concerts-p
- romenade-zen-expositions-marche-de-createurs-que-faire-ce-week-end-a-toulo
- use_64848964.html
-LOCATION:rues\, Toulouse
+DESCRIPTION:Le week-end du 3 octobre 2026 s'annonce chargé à Toulouse ave
+ c une multitude de propositions culturelles. Côté concerts\, Charlie Win
+ ston se produit en solo à l'Altigone de Saint-Orens\, tandis que le group
+ e hommage Letz-Zep investit le Zénith pour replonger les fans de Led Zepp
+ elin dans les grands classiques du groupe britannique. Les Journées natio
+ nales des artistes (2\, 3 et 4 octobre) permettent de découvrir gratuitem
+ ent ateliers\, expositions et performances dans de nombreux espaces toulou
+ sains\n\nSource\: https://actu.fr/occitanie/toulouse_31555/concerts-promen
+ ade-zen-expositions-marche-de-createurs-que-faire-ce-week-end-a-toulouse_6
+ 4848964.html
 URL:https://actu.fr/occitanie/toulouse_31555/concerts-promenade-zen-exposit
  ions-marche-de-createurs-que-faire-ce-week-end-a-toulouse_64848964.html?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -17266,19 +17248,40 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-06#51845?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:cff1c2be-3390-4de6-b872-c7efa14f6bb7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Un « Guide contre la répression » distribué aux lycéens toulou
+ sains en manifestation
+DESCRIPTION:Un feuillet A4 intitulé « Guide contre la répression\, spéc
+ ial Blocus lycéen » a été distribué lors des manifestations et blocag
+ es de lycées à Toulouse\, notamment avant la manifestation du 6 octobre 
+ 2026 en centre-ville. Ce guide est édité par Secours Rouge Toulouse\, qu
+ i affirme vouloir « donner des informations pour aider à faire les meill
+ eurs choix face à la répression ». Le document prodigue des conseils pr
+ atiques aux lycéens : comment se préparer à une éventuelle nasse ou ar
+ restation\, que fai\n\nSource\: https://actu.fr/occitanie/toulouse_31555/n
+ e-crois-pas-la-police-ils-vont-te-mentir-quel-est-ce-guide-contre-la-repre
+ ssion-distribue-aux-lyceens-a-toulouse_64886193.html
+URL:https://actu.fr/occitanie/toulouse_31555/ne-crois-pas-la-police-ils-von
+ t-te-mentir-quel-est-ce-guide-contre-la-repression-distribue-aux-lyceens-a
+ -toulouse_64886193.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:65cb3bf1-d9bb-48b4-96d7-da4a8fc09f05@news.lavillerose.com
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261019
 SUMMARY:Toulouse les Orgues
-DESCRIPTION:Le festival international Toulouse les Orgues ouvre le 7 octobr
- e 2026 à la basilique Notre-Dame de la Daurade et se déroule jusqu'au 18
-  octobre dans de multiples lieux toulousains. Pour ses trente ans\, le fes
- tival fait rayonner Toulouse comme capitale mondiale de l'orgue\, attirant
-  des organistes du monde entier grâce à un parc instrumental exceptionne
- l. La programmation mêle répertoires classique\, baroque\, symphonique\,
-  occitan et expérimental\, associant grandes stars et artistes émergents
- . Le co\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-les-
- orgues/
+DESCRIPTION:La 31e édition du festival international Toulouse les Orgues s
+ e tient du 7 au 18 octobre 2026\, investissant des lieux emblématiques co
+ mme la basilique Saint-Sernin\, la cathédrale Saint-Étienne\, Notre-Dame
+ -de-la-Daurade ou encore le Gesù. Le concert d'ouverture le 7 octobre acc
+ ueille le Chœur de l'Opéra national du Capitole à la basilique Notre-Da
+ me-de-la-Daurade\, sous la direction de Karol Mossakowski\, avec la solist
+ e Adrea Soare et 40 chanteurs — entre Wagner et Verdi. Temps fort de cet
+ te éditi\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-le
+ s-orgues/
 URL:https://www.toulouse-tourisme.com/agenda/toulouse-les-orgues/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -17304,15 +17307,15 @@ UID:cluster:bb5ec019-d5b7-4064-87e2-a36de65632f8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261010
 SUMMARY:Les Gaulois
-DESCRIPTION:Le Théâtre Sorano accueille « Les Gaulois »\, une pièce de
-  Marion Aubert\, du 7 au 9 octobre 2026. La création met en scène deux p
- ersonnages\, Olivier et Thomas\, qui se retrouvent en week-end dans un vil
- lage du Sud de la France et découvrent une bâtisse abandonnée portant l
- 'inscription « Les Gaulois ». La pièce joue avec le temps et la mémoir
- e\, brouillant les frontières entre le présent et l'Antiquité gauloise\
- , entre deux gendarmes contemporains et deux hommes traversés par des mé
- moires très ancien\n\nSource\: https://www.toulouse-tourisme.com/agenda/l
- es-gaulois/
+DESCRIPTION:La pièce de théâtre « Les Gaulois »\, texte inédit de Mar
+ ion Aubert\, est présentée au Théâtre Sorano de Toulouse du 7 au 9 oct
+ obre 2026. La mise en scène est signée Thomas Blanchard et Olivier Marti
+ n-Salvan\, qui incarnent également deux gendarmes moustachus confrontés 
+ à deux personnages du Ve siècle avant J.-C. La pièce joue sur les déca
+ lages temporels et les mémoires collectives\, mêlant absurde et gravité
+  autour d'une bâtisse abandiguée inscrite du mot « Les Gaulois ». Un s
+ pectacle qui fait rire\n\nSource\: https://www.toulouse-tourisme.com/agend
+ a/les-gaulois/
 URL:https://www.toulouse-tourisme.com/agenda/les-gaulois/?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -17464,6 +17467,27 @@ URL:https://actu.fr/occitanie/toulouse_31555/la-meilleure-decision-de-ma-vi
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:33734e89-f3cf-42ac-a869-8e0f8bdfcc44@news.lavillerose.com
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Fnac Les Variétés
+DESCRIPTION:La Fnac Wilson a fermé définitivement ses portes et déménag
+ e à quelques dizaines de mètres\, dans l'ancien cinéma-théâtre des Va
+ riétés\, entièrement réhabilité par la foncière Caso Patrimoine. Le 
+ nouveau magasin\, baptisé Fnac Les Variétés\, ouvre le mercredi 7 octob
+ re 2026 dès 10h au 9 des allées du Président-Franklin-Roosevelt\, avec 
+ 2 700 m² répartis sur trois niveaux\, soit légèrement moins que l'anci
+ en emplacement mais avec un parcours client repensé et plus de luminosit
+ é. On y retrouve l'offre h\n\nSource\: https://actu.fr/occitanie/toulouse
+ _31555/info-actu-toulouse-elle-s-offre-un-emplacement-prise-voici-l-entrep
+ rise-qui-s-installe-au-dessus-de-la-nouvelle-fnac_64866410.html
+LOCATION:allées du Pr\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/info-actu-toulouse-elle-s-offr
+ e-un-emplacement-prise-voici-l-entreprise-qui-s-installe-au-dessus-de-la-n
+ ouvelle-fnac_64866410.html?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:25666ee0-fc9b-44d0-bba2-22f3699a41ef@news.lavillerose.com
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
@@ -17497,6 +17521,23 @@ DESCRIPTION:Le Castelet\, seul espace accessible de l'ancienne prison Saint
 LOCATION:espace accessible de l'ancienne prison Saint-Michel à\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/visite-giudee-du-castelet/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4dd9e16c-fd99-497f-ac9e-a0d2c60b4d6d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261122
+SUMMARY:Festival Origines Contrôlées
+DESCRIPTION:Le Festival Origines Contrôlées se tient à Toulouse du 7 oct
+ obre au 21 novembre 2026\, investissant plusieurs quartiers de la ville : 
+ les Izards\, le Capitole\, Arnaud-Bernard et Bagatelle. La programmation e
+ st pluridisciplinaire et mêle expositions\, concerts\, théâtre\, projec
+ tions cinématographiques et DJ sets. Le festival s'étale sur près de se
+ pt semaines\, ce qui en fait un événement culturel d'envergure ancré da
+ ns les quartiers populaires et centraux de Toulouse. Le programme détaill
+ é est disponi\n\nSource\: https://www.toulouse-tourisme.com/agenda/festiv
+ al-origines-controlees/
+URL:https://www.toulouse-tourisme.com/agenda/festival-origines-controlees/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e02a6d76-5814-4980-a454-7698c9889217@news.lavillerose.com
@@ -17856,6 +17897,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/aeronautique-plus-de-300-poste
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:b5b7cd50-c141-4f9f-b3d9-6747d5bda24c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261102
+SUMMARY:Chocolat\, vins et terroirs : deux événements gourmands à Toulou
+ se
+DESCRIPTION:Toulouse accueille deux rendez-vous dédiés aux amateurs de ch
+ ocolat et de bons produits cet automne. Le Marché d'Artisans du Chocolat 
+ se tient place Saint-Georges du 9 au 11 octobre 2026\, réunissant une onz
+ aine de chocolatiers régionaux pour des dégustations\, des ateliers et d
+ es échanges avec les artisans. Un mois plus tard\, le Salon Vins & Terroi
+ rs et le Salon Chocolat & Gourmandises s'associent au MEETT du 30 octobre 
+ au 1er novembre 2026\, avec près de 350 exposants — vignerons\, product
+ eurs et \n\nSource\: https://www.toulouse-tourisme.com/agenda/salon-vins-t
+ erroirs-chocolat-gourmandises/
+LOCATION:place Saint-Georges du 9 au 11 octobre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/salon-vins-terroirs-chocolat-g
+ ourmandises/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:7622c685-e7cb-4422-a6d0-840ae3967944@news.lavillerose.com
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
@@ -18072,15 +18133,15 @@ UID:cluster:a6743cf3-7193-422a-af2b-ec6c6ab91807@news.lavillerose.com
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Visite guidée – Couvent des Jacobins
-DESCRIPTION:Le Couvent des Jacobins propose une visite guidée de ce monume
- nt emblématique du centre de Toulouse\, datant des 13e et 14e siècles. U
- n guide expérimenté accompagne les visiteurs à travers l'architecture m
- édiévale méridionale du site\, partageant anecdotes inédites et détai
- ls architecturaux remarquables. La visite constitue une immersion dans l'h
- istoire dominicaine et gothique de la ville. Elle s'adresse aussi bien aux
-  Toulousains curieux de leur patrimoine qu'aux visiteurs de passage.\n\nSo
- urce\: https://www.toulouse-tourisme.com/agenda/visite-guidee-au-couvent-d
- es-jacobins/
+DESCRIPTION:Le Couvent des Jacobins propose plusieurs visites guidées à l
+ 'automne 2026\, en français\, en espagnol et en anglais\, à destination 
+ de publics variés. Fondé en 1229\, ce monastère dominicain est considé
+ ré comme un chef-d'œuvre du gothique méridional\, construit en brique s
+ elon les principes des grandes cathédrales du royaume de France. Les visi
+ teurs pourront découvrir l'ensemble du site : église\, sacristie\, cloî
+ tre\, salle capitulaire et chapelle Saint-Antonin\, accompagnés d'un guid
+ e expérimenté. Tro\n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ visite-guidee-au-couvent-des-jacobins/
 URL:https://www.toulouse-tourisme.com/agenda/visite-guidee-au-couvent-des-j
  acobins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -18103,6 +18164,41 @@ URL:https://actu.fr/occitanie/toulouse_31555/j-ai-un-lien-particulier-avec-
  l-image-delaurentis-l-artiste-electro-a-l-affiche-de-mecanik-paradize-a-to
  ulouse_64816684.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9577381d-bc35-4d57-80b1-3d7b94ca9052@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:Festival des Arts du Langage
+DESCRIPTION:Le Festival des Arts du Langage investit trois lieux de Toulous
+ e du 9 au 11 octobre 2026\, avec une programmation mêlant cabaret\, soir
+ ées participatives et journée familiale. Le vendredi\, le Cabaret Le 9 a
+ ccueille la soirée Queer Moustache avec plus de 7 heures de performances 
+ de 18h à 1h du matin. Le samedi\, le Bar l'Évasion propose une scène ou
+ verte et participative animée par la MC Luz et April\, avec des prods ori
+ ginales de Plombier. Le dimanche\, le Jardin des Plantes offre une journé
+ e festive\n\nSource\: https://www.toulouse-tourisme.com/agenda/festival-de
+ s-arts-du-langage/
+URL:https://www.toulouse-tourisme.com/agenda/festival-des-arts-du-langage/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e9982bfd-9fab-470e-a98b-1f897682842c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261019
+SUMMARY:L'Européenne de Cirques
+DESCRIPTION:L'Européenne de Cirques revient pour sa 10e édition du 9 au 1
+ 8 octobre 2026\, articulée avec la Biennale internationale des arts vivan
+ ts Toulouse Occitanie. Le festival investit plusieurs lieux de la métropo
+ le : La Grainerie\, la place de la Libération à Balma\, le Théâtre Gar
+ onne et le Théâtre de la Cité. Au programme\, des compagnies émergente
+ s européennes proposent clown\, acrobatie\, jonglage\, cabaret-solo\, per
+ formance dansée et stand-up. L'événement est ouvert à toute la famille
+  et détaille sa pr\n\nSource\: https://www.toulouse-tourisme.com/agenda/l
+ europeenne-de-cirques/
+LOCATION:place de la Libération\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/leuropeenne-de-cirques/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8@news.lavillerose.com
@@ -18425,6 +18521,24 @@ DESCRIPTION:La Garona Cup est une régate d'aviron qui se tient le 10 octob
  up/
 URL:https://www.toulouse-tourisme.com/agenda/garona-cup/?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:610d9d44-0963-47de-b785-517fcf534f8c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Blagnac Culture Geek
+DESCRIPTION:Le festival Blagnac Culture Geek revient les 10 et 11 octobre 2
+ 026 à la Salle des Fêtes des Ramiers\, organisé par l'association Occit
+ anie Cosplay avec le soutien de la Ville de Blagnac. L'événement rassemb
+ le plus de 80 exposants autour de la pop culture\, du cosplay\, du manga\,
+  des jeux vidéo et de la K-pop\, dans une ambiance familiale ouverte à t
+ ous. Une vingtaine d'animations sur scène sont prévues\, dont des démon
+ strations de sabre laser\, du JustDance et des rencontres avec des acteurs
+ . Cette éd\n\nSource\: https://www.toulouse-tourisme.com/agenda/blagnac-c
+ ulture-geek/
+LOCATION:Salle des Fêtes des Ramiers\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/blagnac-culture-geek/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:744ac576-64bd-4a05-bfbd-13ed818d31da@news.lavillerose.com
@@ -19063,6 +19177,24 @@ URL:https://www.toulouse-tourisme.com/agenda/rosa-burlesque-festival/?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:02284a93-7fe3-4d1b-816b-a8536ac5ca62@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261018
+SUMMARY:Fête des Vendanges
+DESCRIPTION:La Fête des Vendanges investit la place du Capitole les 16 et 
+ 17 octobre 2026\, avec 50 exposants du Sud-Ouest — vignerons\, charcutie
+ rs et fromagers — venus présenter leurs meilleurs produits. Au programm
+ e : sélections de vins d'exception\, ateliers œnologiques\, masterclasse
+ s\, bandas\, orchestre\, DJ et quiz pour une ambiance festive toute la jou
+ rnée. L'entrée est gratuite pour ceux qui souhaitent se restaurer ou con
+ sommer au bar \; un kit dégustation (tote bag\, verre et bracelet) est en
+  revanche néc\n\nSource\: https://www.toulouse-tourisme.com/agenda/fete-d
+ es-vendanges/
+LOCATION:place du Capitole les 16\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/fete-des-vendanges/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:62a440df-ab71-40af-8e0a-38176a1a8102@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261102
@@ -19292,6 +19424,39 @@ URL:https://www.toulouse-tourisme.com/agenda/le-poutou-de-toulouse-fete-ses
  -70-ans/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:12b09d00-d03f-4cc1-af1f-4e80c3f0a215@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Salon International de la Guitare en Occitanie
+DESCRIPTION:Le Salon International de la Guitare en Occitanie (Salon Les IG
+ ) se tient les 17 et 18 octobre 2026 à La Cité\, à Toulouse. L'événem
+ ent\, entièrement gratuit\, réunit une centaine de luthiers venus de tou
+ te la France et d'Occitanie\, présentant guitares acoustiques et électri
+ ques\, instruments à cordes pincées\, amplis\, pédales et accessoires. 
+ Les visiteurs pourront essayer les instruments dans des salles d'essai dé
+ diées\, assister à des démonstrations scéniques et suivre en direct la
+  fabrication d'un \n\nSource\: https://www.toulouse-tourisme.com/agenda/sa
+ lon-international-de-la-guitare-en-occitanie/
+URL:https://www.toulouse-tourisme.com/agenda/salon-international-de-la-guit
+ are-en-occitanie/?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:670898a2-cdc0-4daa-820b-65d44b219a27@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Aeronautic Rave Museum
+DESCRIPTION:Le Musée Aeroscopia accueille une soirée rave électronique l
+ e 17 octobre 2026\, mêlant musique et patrimoine aéronautique. Les festi
+ vités débutent sur le tarmac en plein air avant de se poursuivre à l'in
+ térieur du musée\, sous le mythique Concorde. Le set est assuré par SK
+ ÖNE & Friends en formule all night long. Un événement insolite pour les
+  amateurs de musique électronique et d'aviation.\n\nSource\: https://www.
+ toulouse-tourisme.com/agenda/aeronautic-rave-museum/
+URL:https://www.toulouse-tourisme.com/agenda/aeronautic-rave-museum/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:87e80657-6b66-4dc6-a3e6-623a4285620b@news.lavillerose.com
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
@@ -19415,6 +19580,22 @@ DESCRIPTION:La Péniche Saint-Louis propose une expérience originale combi
 LOCATION:places sont strictement limitées\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/canoe-brunch/?utm_source=ical&
  utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c623a707-bb17-4c77-b276-af46c1558bff@news.lavillerose.com
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Dessine-moi un avion
+DESCRIPTION:L'Envol des Pionniers accueille « Dessine-moi un avion »\, un
+ e exposition dédiée au dessin d'avions\, accompagnée d'ateliers gratuit
+ s ouverts aux adultes et aux enfants dès 6 ans (sur réservation). L'acc
+ ès à l'exposition de dessin est libre et gratuit\, tandis que l'entrée 
+ aux expositions permanentes du musée reste payante. Le café des Pionnier
+ s est ouvert pour se restaurer sur place. Un rendez-vous accessible en fam
+ ille pour allier découverte aéronautique et pratique artistique.\n\nSour
+ ce\: https://www.toulouse-tourisme.com/agenda/dessine-moi-un-avion/
+URL:https://www.toulouse-tourisme.com/agenda/dessine-moi-un-avion/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:cceb4d06-a26b-4a2e-af4c-78d0ace73640@news.lavillerose.com
@@ -20367,24 +20548,6 @@ DESCRIPTION:La visite guidée « Virtuose » invite le public à découvrir
 LOCATION:Halle aux Grains\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/virtuose-halle-aux-grains/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:b5b7cd50-c141-4f9f-b3d9-6747d5bda24c@news.lavillerose.com
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-SUMMARY:Salon Vins & Terroirs – MEETT
-DESCRIPTION:Le Salon Vins & Terroirs revient au MEETT pour une édition aut
- omnale du 30 octobre au 1er novembre 2026\, réunissant près de 350 expos
- ants : vignerons\, producteurs de terroir et artisans chocolatiers. Les gr
- andes régions viticoles françaises y sont représentées\, avec la possi
- bilité d'acheter directement auprès des producteurs à des tarifs adapt
- és à tous les budgets. En parallèle\, le Salon Chocolat & Gourmandises 
- invite les amateurs de douceurs à découvrir le chocolat sous toutes ses 
- formes — à cr\n\nSource\: https://www.toulouse-tourisme.com/agenda/salo
- n-vins-terroirs-chocolat-gourmandises/
-URL:https://www.toulouse-tourisme.com/agenda/salon-vins-terroirs-chocolat-g
- ourmandises/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
- nda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:44e1a64d-0ada-4a08-84a2-e6c2b51521ee@news.lavillerose.com
@@ -21616,6 +21779,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/robert-finley-billet/idman
  =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:e7b13f93-7352-4bae-953d-64c6db4f8405@news.lavillerose.com
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261115
+SUMMARY:Festival Locombia
+DESCRIPTION:Le Festival Locombia se tiendra du 9 au 14 novembre 2026 dans d
+ ivers lieux à Toulouse\, avec pour ambition d'être le grand rendez-vous 
+ des acteurs culturels colombiens et franco-colombiens de la ville. Toulous
+ e\, ville à forte empreinte latino-américaine\, accueille ce festival qu
+ i entend célébrer et fédérer cette communauté artistique. La programm
+ ation détaillée n'est pas encore disponible et sera annoncée ultérieur
+ ement sur le site officiel du festival. L'événement s'adresse aux amateu
+ rs de cultu\n\nSource\: https://www.toulouse-tourisme.com/agenda/festival-
+ locombia/
+URL:https://www.toulouse-tourisme.com/agenda/festival-locombia/?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:29de4096-44b2-4dd6-acf5-e73dd9e95000@news.lavillerose.com
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
@@ -22507,6 +22687,24 @@ DESCRIPTION:Le spectacle jeune public Alice au Pays des Merveilles sera jou
 URL:https://www.ticketmaster.fr/fr/manifestation/alice-au-pays-des-merveill
  es-billet/idmanif/658407/idtier/18864121?utm_source=ical&utm_medium=calend
  ar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:03c86d28-38cd-422a-accd-8f0561c0f351@news.lavillerose.com
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Hiba Tawaji invite Ibrahim Maalouf
+DESCRIPTION:La chanteuse libanaise Hiba Tawaji se produira au Casino Barri
+ ère de Toulouse le 18 novembre 2026\, en invitant le trompettiste de jazz
+  Ibrahim Maalouf pour un concert exceptionnel. Ce duo réunit deux grandes
+  figures de la scène musicale arabe et méditerranéenne\, entre pop et j
+ azz oriental. L'événement se tient dans la salle de spectacle du Casino 
+ Barrière\, un lieu incontournable des concerts toulousains. Les amateurs 
+ de musiques du monde et de jazz fusion sont tout particulièrement concern
+ és par\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/hiba-tawa
+ ji-invite-ibrahim-maalouf-billet/idmanif/674808/idseance/4434452
+URL:https://www.ticketmaster.fr/fr/manifestation/hiba-tawaji-invite-ibrahim
+ -maalouf-billet/idmanif/674808/idseance/4434452?utm_source=ical&utm_medium
+ =calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1399aa98-72dc-424e-a2e0-3444e037316c@news.lavillerose.com
@@ -24560,6 +24758,44 @@ LOCATION:salles de musique a\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/axel-bauer-billet/idmanif/
  647331/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:851728c2-0327-4434-ad20-737b44b04a4f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Visita guidata – Couvent des Jacobins
+DESCRIPTION:Le Couvent des Jacobins propose une visite guidée entièrement
+  conduite en italien\, le 8 décembre 2026. Les participants découvriront
+  huit siècles d'histoire à travers l'église\, la salle capitolare\, le 
+ cloître\, son jardin et la chapelle Saint-Antonin. Ce monument gothique t
+ oulousain\, considéré comme un chef-d'œuvre architectural\, a connu de 
+ multiples vies du XIIIe siècle jusqu'à la Révolution française. La vis
+ ite s'adresse aussi bien aux individuels qu'aux familles ou groupes d'amis
+  italophones.\n\nSource\: https://www.toulouse-tourisme.com/agenda/visita-
+ guidata-di-convento-dei-giacobini/
+LOCATION:salle capitolare\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/visita-guidata-di-convento-dei
+ -giacobini/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a2c0fd08-4fcb-4281-9098-37fdef76f2a5@news.lavillerose.com
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Laurent Voulzy
+DESCRIPTION:Laurent Voulzy\, icône de la chanson française\, se produira 
+ au Casino Barrière de Toulouse le 8 décembre 2026. Ce concert s'inscrit 
+ dans le registre de la chanson française\, un genre qui lui a valu un suc
+ cès populaire durable depuis les années 1970. L'événement se tiendra d
+ ans la salle de spectacle du Casino Barrière\, une adresse habituée aux 
+ concerts intimistes. Les amateurs de variété française et les nostalgiq
+ ues des grands classiques de Voulzy sont particulièrement concernés.\n\n
+ Source\: https://www.ticketmaster.fr/fr/manifestation/laurent-voulzy-bille
+ t/idmanif/674814/idseance/4434663
+LOCATION:salle de spectacle d\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/laurent-voulzy-billet/idma
+ nif/674814/idseance/4434663?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:62ab82d5-e7f4-4344-9d8c-73e88935dede@news.lavillerose.com
@@ -27681,6 +27917,24 @@ LOCATION:salle du Bikini est l'une des principales scènes musica\, Toulous
 URL:https://www.ticketmaster.fr/fr/manifestation/aupinard-billet/idmanif/67
  1743/idseance/4410554?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:724b92a1-bdf5-4a43-9628-e39f77a9e306@news.lavillerose.com
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Une Soirée chez Offenbach
+DESCRIPTION:Le Casino Barrière de Toulouse accueille « Une Soirée chez O
+ ffenbach »\, un spectacle de théâtre et musique classique consacré à 
+ l'œuvre du compositeur Jacques Offenbach. La soirée est programmée le 2
+ 1 février 2027. Peu de détails supplémentaires sont disponibles dans la
+  source\, qui se limite à indiquer le lieu\, la date et la catégorie Art
+ s & Théâtre — Classique. Les amateurs de musique classique et d'opére
+ tte toulousains sont les premiers concernés.\n\nSource\: https://www.tick
+ etmaster.fr/fr/manifestation/une-soiree-chez-offenbach-billet/idmanif/6748
+ 22/idseance/4434670
+URL:https://www.ticketmaster.fr/fr/manifestation/une-soiree-chez-offenbach-
+ billet/idmanif/674822/idseance/4434670?utm_source=ical&utm_medium=calendar
+ &utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d1bdba2a-3627-4a4f-a77e-44ca9aac4279@news.lavillerose.com
@@ -31618,6 +31872,22 @@ URL:https://www.ticketmaster.fr/fr/manifestation/nicolas-canteloup-billet/i
  paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ea6ce0ca-1de9-49e3-bc64-bcf28d789be8@news.lavillerose.com
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Star Academy Tour
+DESCRIPTION:Le Star Academy Tour s'arrêtera au Zénith Toulouse Métropole
+  le 6 juin 2027. Ce concert de chanson française réunira les talents iss
+ us de l'émission Star Academy dans une tournée nationale. Les billets so
+ nt disponibles via Ticketmaster. L'événement s'adresse aux fans de l'ém
+ ission et aux amateurs de variété française.\n\nSource\: https://www.ti
+ cketmaster.fr/fr/manifestation/star-academy-tour-2027-billet/idmanif/67464
+ 1/idseance/4433709
+URL:https://www.ticketmaster.fr/fr/manifestation/star-academy-tour-2027-bil
+ let/idmanif/674641/idseance/4433709?utm_source=ical&utm_medium=calendar&ut
+ m_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5f8d567a-18fb-495e-831c-1bce22870586@news.lavillerose.com
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
@@ -31808,6 +32078,26 @@ URL:https://www.toulouse-tourisme.com/agenda/les-aventures-doctave-et-melo-
  use-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:10183314-94e1-44d1-a5e3-f62c623982d7@news.lavillerose.com
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270829
+SUMMARY:Rose Festival 2027
+DESCRIPTION:Le Rose Festival\, créé par Bigflo et Oli\, annonce sa sixiè
+ me édition pour les 26\, 27 et 28 août 2027 à Toulouse. La cinquième 
+ édition\, tenue fin août 2026\, avait rassemblé plus de 120 000 personn
+ es avec des artistes comme Macklemore\, Aya Nakamura et Snake. L'annonce a
+  été faite de manière décalée via une vidéo humoristique du communit
+ y manager des deux frères. Les pass 3 jours sont disponibles dès le mard
+ i 6 octobre à 19h30 au prix de 150 €\, en quantité limitée \; le line
+ -up sera dévoilé progress\n\nSource\: https://actu.fr/occitanie/toulouse
+ _31555/rose-festival-2027-a-toulouse-les-dates-de-la-prochaine-edition-dev
+ oilees-la-billetterie-ouvre-ce-soir_64886573.html
+URL:https://actu.fr/occitanie/toulouse_31555/rose-festival-2027-a-toulouse-
+ les-dates-de-la-prochaine-edition-devoilees-la-billetterie-ouvre-ce-soir_6
+ 4886573.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:95a86814-29b6-4039-9b51-9dacd118c899@news.lavillerose.com
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
@@ -31911,6 +32201,24 @@ LOCATION:salle de spectacle incontournable de l'agglomération to\, Toulous
 URL:https://www.ticketmaster.fr/fr/manifestation/zazie-billet/idmanif/67328
  4/idseance/4426751?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:84b9a11e-a52d-4f05-9e0b-2c0108b7f971@news.lavillerose.com
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Camille
+DESCRIPTION:La chanteuse française Camille se produira à la Halle aux Gra
+ ins de Toulouse le 16 octobre 2027. Ce concert s'inscrit dans une programm
+ ation musicale de type rock à la salle emblématique du centre-ville toul
+ ousain. La Halle aux Grains est l'une des salles de concert les plus pris
+ ées de Toulouse\, réputée pour son acoustique remarquable. Les amateurs
+  de la voix singulière et de l'univers artistique de Camille sont invité
+ s à surveiller la billetterie.\n\nSource\: https://www.ticketmaster.fr/fr
+ /manifestation/camille-billet/idmanif/674269/idseance/4432408
+LOCATION:Halle aux Grains de Toulouse le 16 octobre 2027\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/camille-billet/idmanif/674
+ 269/idseance/4432408?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:f3d78eb6-aa63-4798-98e1-2ad4fb6cc820@news.lavillerose.com

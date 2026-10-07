@@ -1,0 +1,198 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:49d7423b-f120-4ed5-8186-b6869d7b6e0e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "9 Minutes 43 : l'œuvre de Godard traversée au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/9MINUTES30.jpg",
+    "file": "cluster_49d7423b-f120-4ed5-8186-b6869d7b6e0e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:aded70ef-3f4a-4000-916d-b7a8d6cf1228",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Karaoké, le spectacle hypnotique de Raphaël au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/KARAOKE-8.jpg",
+    "file": "cluster_aded70ef-3f4a-4000-916d-b7a8d6cf1228_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bb5ec019-d5b7-4064-87e2-a36de65632f8",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Les Gaulois » : une pièce inédite de Marion Aubert au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-GAULOIS-SORANO.jpg",
+    "file": "cluster_bb5ec019-d5b7-4064-87e2-a36de65632f8_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:437f4b29-8b36-48f1-96f3-9ff100f5d8d4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Mary Candies en spectacle jeune public à Saint-Orens",
+    "image_url": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_437f4b29-8b36-48f1-96f3-9ff100f5d8d4_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:78f71b11-ac26-4552-83a3-32dbb00c10ba",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Salon des Vignerons du Roussillon à la Halle de Cobalt",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-VIGNERONS-DU-ROUSSILLON.jpg",
+    "file": "cluster_78f71b11-ac26-4552-83a3-32dbb00c10ba_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3ac0a05c-af39-4037-bdfe-b9d8fa4e15aa",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée du quartier Saint-Sernin à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Vue-Drone-Basilique-Saint-Sernin---Remi-Deligeon--1--copie.jpg",
+    "file": "cluster_3ac0a05c-af39-4037-bdfe-b9d8fa4e15aa_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0e708bee-38c6-42c7-b1d7-362011e7a2ca",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Empalot s'Agit(e) : le festival biennal revient place André-Daste",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/459174493-1103494135109488-617567438786715549-n-copie.jpg",
+    "file": "cluster_0e708bee-38c6-42c7-b1d7-362011e7a2ca_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f17b8bd2-7a33-4c44-a4e2-0c15d7182c45",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Atelier biodiversité urbaine à la Maison du Métro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TISSEO-3.jpg",
+    "file": "cluster_f17b8bd2-7a33-4c44-a4e2-0c15d7182c45_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:61aeb00d-29d0-4dd5-8af3-d4df23b5b6c7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival du Film des Toiles du Nord au Cinéma Le Lumière",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-LES-TOILES-DU-NORD.jpg",
+    "file": "cluster_61aeb00d-29d0-4dd5-8af3-d4df23b5b6c7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:085b831d-ac86-40c8-b4d9-885bfe967870",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Don de gamètes : campagne de sensibilisation place Saint-Sernin le 7 octobre",
+    "image_url": "https://static.actu.fr/uploads/2026/09/whatsapp-image-2026-09-29-at-142055.jpeg",
+    "file": "cluster_085b831d-ac86-40c8-b4d9-885bfe967870_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 960
+  },
+  {
+    "cluster_id": "cluster:25666ee0-fc9b-44d0-bba2-22f3699a41ef",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Mystérieuse Évasion : jeu coopératif pour enfants au Castelet",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CAST---La-mysterieuse-evasion-au-Castele---Alexandre-Ollier.jpg",
+    "file": "cluster_25666ee0-fc9b-44d0-bba2-22f3699a41ef_event_story.jpg",
+    "img_width": 813,
+    "img_height": 652
+  },
+  {
+    "cluster_id": "cluster:daf5242a-11b8-4797-8323-be4b8675381f",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Visites guidées du Castelet, vestige de la prison Saint-Michel",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VISITE-GUIDEE-CASTELET.jpg",
+    "file": "cluster_daf5242a-11b8-4797-8323-be4b8675381f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:4dd9e16c-fd99-497f-ac9e-a0d2c60b4d6d",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Origines Contrôlées : concerts, expos et théâtre à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-ORIGINES-CONTROLEES.png",
+    "file": "cluster_4dd9e16c-fd99-497f-ac9e-a0d2c60b4d6d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:876dc7ef-301c-4994-8c49-92be7a96653a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le bus #FaitesDesParents sensibilise au don de gamètes à Blagnac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/parents-bebe-adobe.jpg?itok=ysZ8rt-p",
+    "file": "cluster_876dc7ef-301c-4994-8c49-92be7a96653a_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:878b5ef2-2c91-45f8-95a2-2617a164088f",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Karaoké de Raphaël au Théâtre de la Cité : IA et fantômes musicaux",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/micro-h---freepik.jpg?itok=USonk9GY",
+    "file": "cluster_878b5ef2-2c91-45f8-95a2-2617a164088f_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:b5b7cd50-c141-4f9f-b3d9-6747d5bda24c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Chocolat, vins et terroirs : deux événements gourmands à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/-MG-3461-copie.jpg",
+    "file": "cluster_b5b7cd50-c141-4f9f-b3d9-6747d5bda24c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:e9982bfd-9fab-470e-a98b-1f897682842c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "L'Européenne de Cirques fête sa 10e édition à La Grainerie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/5-Circus-i-love-you-copie.jpg",
+    "file": "cluster_e9982bfd-9fab-470e-a98b-1f897682842c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
