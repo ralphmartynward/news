@@ -16273,20 +16273,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20270501
 SUMMARY:Pokémon x ESA – Cité de l'espace
-DESCRIPTION:La Cité de l'espace accueille depuis le 2 octobre et jusqu'au 
- 30 avril 2027 l'exposition inédite « Pokémon x ESA »\, fruit d'un part
- enariat entre la franchise Pokémon et l'Agence spatiale européenne. Le c
- lou du spectacle : la peluche Pikachu qui a réellement séjourné 67 jour
- s à bord de la Station spatiale internationale aux côtés de l'astronaut
- e Sophie Adenot. Le parcours explore les missions actuelles et futures de 
- l'ESA à travers le prisme de l'univers Pokémon\, et une expérience Pok
- émon Go dans\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
- 26-10-01#51601
-LOCATION:espace accueille depuis le 2 octobre\, Toulouse
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-01#51601?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:La Cité de l'espace accueille une exposition inédite co-produ
+ ite avec l'Agence spatiale européenne (ESA)\, mêlant l'univers Pokémon 
+ à l'exploration spatiale\, du 2 octobre 2026 au 30 avril 2027. Le parcour
+ s invite à découvrir les missions actuelles et futures de l'ESA à trave
+ rs des liens inattendus avec les Pokémon\, dont une peluche Pikachu ayant
+  réellement passé 67 jours à bord de l'ISS aux côtés de l'astronaute 
+ Sophie Adenot. Un parcours Pokémon GO est également accessible dans les 
+ jardins de la\n\nSource\: https://www.toulouse-tourisme.com/agenda/pokemon
+ -x-esa/
+LOCATION:espace accueille une exposition inédite co-produite a\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/pokemon-x-esa/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dbed2b54-4164-4488-b32b-997f98973c01@news.lavillerose.com
@@ -17022,23 +17022,6 @@ URL:https://www.toulouse-tourisme.com/agenda/animations-surprises-aux-jacob
  ins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:83e87ec4-f869-4b78-a59a-665a73468527@news.lavillerose.com
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261023
-SUMMARY:Mozart – Le Concerto pour Clarinette
-DESCRIPTION:La série de concerts « Mozart \; Le Concerto pour Clarinette 
- » se tient à deux reprises à Toulouse : les 5 et 6 octobre à l'Auditor
- ium Saint-Pierre-des-Cuisines\, puis les 21 et 22 octobre à L'Escale. Le 
- programme propose une relecture du Mozart moins sage qu'on ne le croit\, t
- raversé par le Sturm und Drang et une violence intérieure que son élég
- ance dissimule. Le clarinettiste Patrick Messina\, présenté comme l'un d
- es meilleurs du moment\, est à l'affiche pour l'ensemble de cette série.
-  L'ambition a\n\nSource\: https://www.toulouse-tourisme.com/agenda/mozart-
- le-concerto-pour-clarinette/
-URL:https://www.toulouse-tourisme.com/agenda/mozart-le-concerto-pour-clarin
- ette/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:db37fae0-f863-4778-b2cc-1f3a894c21cd@news.lavillerose.com
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
@@ -17544,18 +17527,21 @@ UID:cluster:e02a6d76-5814-4980-a454-7698c9889217@news.lavillerose.com
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
 SUMMARY:Mecanik Paradize
-DESCRIPTION:La Halle de la Machine accueille Mecanik Paradize du 8 au 11 oc
- tobre 2026\, un événement de clôture du Pink Paradize Festival coprodui
- t avec les Productions du Possible. Le festival mêle concerts de musique 
- française et internationale à une scénographie spectaculaire signée Fr
- ançois Delarozière\, avec Astérion le Minotaure et les deux Grandes Ara
- ignées évoluant dans des tempêtes de neige et d'effets de feu. Pour le 
- vendredi 9 octobre\, la tête d'affiche est déjà confirmée : Paul Kalkb
- renner\, figure\n\nSource\: https://www.toulouse-tourisme.com/agenda/mecan
- ik-paradize/
-LOCATION:Halle de la Machine accueille Mecanik Paradize du 8 au\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/mecanik-paradize/?utm_source=i
- cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:La Halle de la Machine lance son festival Mecanik Paradize du 8
+  au 11 octobre 2026\, un événement unique mêlant concerts\, performance
+ s et spectacles de machines vivantes signées François Delarozière. Le j
+ eudi 8 octobre\, la soirée s'ouvre à 17h30 avec Julii Sharp\, puis Selah
+  Sue accompagnée de The Gallands\, Caravan Palace et Purple Disco Machine
+ \, le tout sous le regard du Minotaure géant. Le vendredi 9 octobre\, DeL
+ aurentis et Cristoph précèdent Paul Kalkbrenner\, superstar berlinoise d
+ e la techno\, \n\nSource\: https://actu.fr/occitanie/toulouse_31555/machin
+ es-xxl-concerts-et-tetes-d-affiche-ce-festival-unique-au-monde-met-les-bou
+ chees-doubles-a-toulouse_64817070.html
+LOCATION:Halle de la Machine lance son festival Mecanik Paradize\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/machines-xxl-concerts-et-tetes
+ -d-affiche-ce-festival-unique-au-monde-met-les-bouchees-doubles-a-toulouse
+ _64817070.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:aaa677dd-07bc-4387-aba1-15673ccac5fe@news.lavillerose.com
@@ -17863,18 +17849,18 @@ BEGIN:VEVENT
 UID:cluster:dd32fc65-f4b4-4486-9122-098630da8310@news.lavillerose.com
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261013
-SUMMARY:Exposition Primitae
-DESCRIPTION:L'exposition Primitae investit le Domaine de Rochemontès du 8 
- au 12 octobre 2026 dans une mise en scène immersive et ambitieuse. Trente
- -cinq artistes et designers venus de toute l'Europe\, ainsi que deux galer
- ies toulousaines\, prennent possession des différents espaces du domaine.
-  L'événement se distingue par son ancrage dans un lieu patrimonial et pa
- r l'ampleur internationale de sa programmation artistique. Une occasion ra
- re de découvrir création contemporaine et design dans un cadre naturel e
- t \n\nSource\: https://www.toulouse-tourisme.com/agenda/exposition-primita
- e/
-URL:https://www.toulouse-tourisme.com/agenda/exposition-primitae/?utm_sourc
- e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Exposition Primitae 2026
+DESCRIPTION:Pour sa deuxième édition\, l'exposition Primitae réunit 35 a
+ rtistes et designers au Domaine de Rochemontès à Seilh\, du 8 au 12 octo
+ bre 2026. À la croisée de l'art contemporain\, de l'artisanat d'art et d
+ u design d'intérieur\, l'événement célèbre le geste créateur — cel
+ ui qui façonne\, transforme et réinvente la matière. L'entrée est prop
+ osée en « prix conscient » à 5 €\, ou en prix soutien à partir de 1
+ 0 €\, une approche inclusive qui s'adresse à tous les amateurs de créa
+ tion. Le cadre exceptionnel du\n\nSource\: https://www.clutchmag.fr/evenem
+ ents#2026-10-08-jeudi-8-octobre-1
+URL:https://www.clutchmag.fr/evenements#2026-10-08-jeudi-8-octobre-1?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:01e3d820-3ef6-4b9d-8cf1-eec5affcbdd5@news.lavillerose.com
@@ -18040,20 +18026,20 @@ BEGIN:VEVENT
 UID:cluster:037b56f8-ed1f-43ab-9d5b-37bd269db254@news.lavillerose.com
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261130
-SUMMARY:LayUp Mondes Parallèles
-DESCRIPTION:LayUp revient pour sa 6e édition avec « Mondes Parallèles »
- \, sa plus grande exposition d'art urbain à ce jour\, investissant 5 000 
- m² sur six niveaux de l'immeuble Terra Nova\, au 22 boulevard de la Marqu
- ette dans le quartier Compans-Caffarelli. Quelque 73 artistes locaux\, nat
- ionaux et internationaux y créeront fresques monumentales\, installations
-  et œuvres inédites autour de thématiques variées — graffiti\, post-
- graffiti\, art contemporain\, voyages. Le parcours est libre et évolutif\
- , complété par d\n\nSource\: https://www.toulouse-tourisme.com/agenda/la
- yup/
+SUMMARY:Layup – Mondes parallèles
+DESCRIPTION:Le collectif Layup transforme l'immeuble Terra Nova\, ancien si
+ te Enedis au 22 boulevard de la Marquette dans le quartier Compans-Caffare
+ lli\, en un vaste espace d'exposition de 5 000 m² répartis sur six nivea
+ ux. Cette 6e édition\, intitulée « Mondes parallèles »\, réunit 73 a
+ rtistes issus de plusieurs générations de la scène urbaine\, des figure
+ s historiques comme Mode 2 ou André jusqu'aux émergents. Graffiti\, mura
+ lisme\, photographie\, sculpture\, tufting\, installation et vidéo se cô
+ toient dans un par\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-10-09#52527
 LOCATION:boulevard de la Marquette dans le quartier Compans-Caffarel\, Toul
  ouse
-URL:https://www.toulouse-tourisme.com/agenda/layup/?utm_source=ical&utm_med
- ium=calendar&utm_campaign=toulouse-agenda
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-09#52527?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:db83f732-8386-4446-86da-058089711d35@news.lavillerose.com
@@ -18099,18 +18085,17 @@ UID:cluster:3b5b079d-267c-4990-b58d-9434ddca3828@news.lavillerose.com
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
 SUMMARY:Toulouse Polars du Sud
-DESCRIPTION:Le festival Toulouse Polars du Sud revient du 9 au 11 octobre 2
- 026 au Forum de la Renaissance\, à Basso-Cambo\, pour une 18e édition pl
- acée sous le thème de la guerre. Une quarantaine d'auteurs venus de sept
-  pays sont au programme\, dont Andreï Kourkov\, R. J. Ellory\, Carlos Sal
- em et Susana Fortes\, parrainés par Valentine Imhof et Abir Mukherjee. Qu
- atorze tables rondes\, des rencontres intimistes dans un bus de collection
-  transformé en « parloir »\, et une exposition photo sont prévus\, en 
- plus d'anima\n\nSource\: https://www.toulouscope.fr/2026/09/28/toulouse-po
- lars-du-sud-le-polar-passe-en-mode-guerre-pour-sa-18e-edition-13563362.php
-URL:https://www.toulouscope.fr/2026/09/28/toulouse-polars-du-sud-le-polar-p
- asse-en-mode-guerre-pour-sa-18e-edition-13563362.php?utm_source=ical&utm_m
- edium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Le festival international Toulouse Polars du Sud revient pour s
+ a 18e édition du 9 au 11 octobre\, sous le thème de la guerre et de ses 
+ multiples visages. Une quarantaine d'auteurs français et étrangers sont 
+ réunis au Forum de la Renaissance (Basso Cambo) pour des tables rondes\, 
+ dédicaces\, débats et animations gratuites. L'édition est parrainée pa
+ r Valentine Imhof et Abir Mukherjee\, avec des invités de renom comme And
+ reï Kourkov\, Didier Daeninckx et Olivier Truc. Au programme : conflits g
+ éopolitiq\n\nSource\: https://www.clutchmag.fr/evenements#2026-10-08-vend
+ redi-9-octobre-0
+URL:https://www.clutchmag.fr/evenements#2026-10-08-vendredi-9-octobre-0?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dd3ac5f3-a043-4168-b14e-3fd614d0d585@news.lavillerose.com
@@ -18199,6 +18184,93 @@ DESCRIPTION:L'Européenne de Cirques revient pour sa 10e édition du 9 au 1
 LOCATION:place de la Libération\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/leuropeenne-de-cirques/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:58fed91f-e04b-4c15-8c60-48db5826ea5b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261220
+SUMMARY:Mémoire d'une tour
+DESCRIPTION:L'exposition « Mémoire d'une tour »\, portée par l'associat
+ ion des Amis de la Tour Matabiau\, est présentée au centre culturel Bonn
+ efoy jusqu'au 19 décembre. Elle retrace l'histoire du vaste chantier de r
+ énovation de la Tour Matabiau (2021–2023) à travers photographies et v
+ idéos de Marie-Stéphane Salgas et Marilina Prigent. La tour\, premier im
+ meuble de grande hauteur à ossature métallique de Toulouse\, a été con
+ çue par l'architecte Jean-Pierre Pierron au milieu des années 1950 et a 
+ notamment accuei\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-10-09#52528
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-09#52528?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9b761b75-dc98-4189-bac2-0bf962fbb8e2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+SUMMARY:Anniversaire Café Manine
+DESCRIPTION:Le Café Manine\, bistrot de la rive gauche toulousaine face au
+  marché de Saint-Cyprien\, célèbre son premier anniversaire les vendred
+ i 9 et samedi 10 octobre avec un week-end festif. Le vendredi soir\, l'ét
+ ablissement plonge dans l'ambiance Studio 54 avec une soirée house et dis
+ co animée par Akim & Pastor du collectif CART'ART\, de 22h à 1h30. Le sa
+ medi\, le programme s'inspire d'Ibiza : fideuà géante au déjeuner\, dé
+ gustation de Hierbas\, Hippie Market avec friperie vintage\, bijoux\, stan
+ d tattoo et sh\n\nSource\: https://www.toulouscope.fr/2026/10/08/cafe-mani
+ ne-fete-son-premier-anniversaire-ce-week-end-13587637.php
+URL:https://www.toulouscope.fr/2026/10/08/cafe-manine-fete-son-premier-anni
+ versaire-ce-week-end-13587637.php?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a9301f1b-5468-412b-9eec-a64f48deeb03@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261128
+SUMMARY:Travaux gare Matabiau : perturbations sur les lignes liO jusqu'au 2
+ 7 novembre
+DESCRIPTION:Des travaux de rénovation sont en cours sur les voies 7 et 8 d
+ e la gare Toulouse-Matabiau depuis le 14 septembre et jusqu'au 27 novembre
+ \, pour un budget de 2 millions d'euros. L'opération consiste à remplace
+ r rails\, ballasts et plus de 1 000 traverses sur 1\,2 km de voies\, mobil
+ isant une équipe de 70 personnes. Si les travaux se déroulent principale
+ ment de nuit pour limiter les perturbations\, une période plus impactante
+  est à noter : du 12 au 30 octobre\, des interventions auront lieu égale
+ ment en\n\nSource\: https://actu.fr/occitanie/toulouse_31555/travaux-a-la-
+ gare-toulouse-matabiau-des-perturbations-a-prevoir-voici-les-lignes-de-tra
+ ins-impactees_64900974.html
+URL:https://actu.fr/occitanie/toulouse_31555/travaux-a-la-gare-toulouse-mat
+ abiau-des-perturbations-a-prevoir-voici-les-lignes-de-trains-impactees_649
+ 00974.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cf173136-9ed1-4007-9278-b6bddf19559d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:SIDIFEST IV
+DESCRIPTION:Le SIDIFEST IV se tient au Bikini le vendredi 9 octobre à part
+ ir de 18h30\, pour une soirée metal avec trois groupes à l'affiche : Sid
+ ilarsen\, La Phaze et Darcy. L'événement s'inscrit dans la quatrième é
+ dition de ce festival metal local. Les billets sont proposés au tarif de 
+ 33\,70 €. La soirée s'adresse aux amateurs de metal et aux habitués de
+  la scène alternative toulousaine.\n\nSource\: https://www.clutchmag.fr/e
+ venements#2026-10-08-vendredi-9-octobre-1
+URL:https://www.clutchmag.fr/evenements#2026-10-08-vendredi-9-octobre-1?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fa0ed804-4ee8-4ff9-af8f-ecff19dbb4d2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:La Forêt Électrique Hors-les-Murs
+DESCRIPTION:La Forêt Électrique propose une soirée de projection en plei
+ n air au Parc de l'Observatoire\, dans le cadre de sa série « Hors-les-M
+ urs ». L'événement est gratuit et débute à 19h. Il s'agit d'une occas
+ ion de découvrir ce projet dans un cadre naturel et accessible à tous. L
+ 'information est succincte et ne précise pas la nature exacte du contenu 
+ projeté.\n\nSource\: https://www.clutchmag.fr/evenements#2026-10-08-vendr
+ edi-9-octobre-2
+LOCATION:Parc de l'Observatoire\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-08-vendredi-9-octobre-2?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8@news.lavillerose.com
@@ -18541,6 +18613,73 @@ URL:https://www.toulouse-tourisme.com/agenda/blagnac-culture-geek/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:46d2ea9d-8b5f-4611-ae0b-91b0c034e540@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Agenda Toulouse Métropole : concerts\, cirque\, art urbain et plus
+DESCRIPTION:Ce week-end à Toulouse réunit une large palette d'événement
+ s culturels et sportifs pour tous les goûts. Le festival Mecanik Paradize
+  propose des concerts avec des machines spectaculaires jusqu'au 11 octobre
+ \, tandis que Toulouse les Orgues explore le patrimoine musical jusqu'au 1
+ 8 octobre. La Garona Cup offre gratuitement une régate d'aviron sur la Ga
+ ronne le samedi 10 octobre\, et l'exposition Layup invite à découvrir si
+ x niveaux d'art urbain jusqu'au 29 novembre. Des salons créatifs\, specta
+ cles \n\nSource\: http://cdt31.tourinsoft.com/view.ashx?email=33b45c07-541
+ 1-4be8-93d5-c970b99c3bb3
+URL:http://cdt31.tourinsoft.com/view.ashx?email=33b45c07-5411-4be8-93d5-c97
+ 0b99c3bb3?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7a56f9c6-239d-4376-825c-776c08f4f8e2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:MARIAM
+DESCRIPTION:L'artiste MARIAM se produit au Metronum de Toulouse le samedi 1
+ 0 octobre dans le cadre d'un concert de musique world. Le concert débute 
+ à 20h\, avec des places proposées entre 27 et 33 euros. Le Metronum est 
+ une salle de musiques actuelles bien établie dans le nord de Toulouse. L'
+ événement s'adresse aux amateurs de musique du monde souhaitant une sort
+ ie en soirée.\n\nSource\: https://www.clutchmag.fr/evenements#2026-10-08-
+ samedi-10-octobre-2
+LOCATION:places proposées entre 27\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-08-samedi-10-octobre-2?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9363f0be-7596-4de6-96a9-23c84fcd8e3b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Journées des Ateliers d'Artistes d'Occitanie
+DESCRIPTION:Les Journées des Ateliers d'Artistes d'Occitanie se tiennent l
+ es 10 et 11 octobre\, pour la 9ème édition consécutive organisée par l
+ a Région Occitanie. Près de 600 artistes — plasticiens\, sculpteurs\, 
+ peintres\, dessinateurs\, vidéastes\, photographes et graffeurs — ouvre
+ nt gratuitement les portes de leurs ateliers au grand public. L'événemen
+ t est l'occasion de découvrir de l'intérieur les pratiques et univers cr
+ éatifs de ces artistes répartis à travers toute l'Occitanie. L'entrée 
+ est gratuite et les\n\nSource\: https://www.clutchmag.fr/evenements#2026-1
+ 0-08-samedi-10-octobre-1
+URL:https://www.clutchmag.fr/evenements#2026-10-08-samedi-10-octobre-1?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b5621b36-0b4f-4d37-83f4-47c483ad5e48@news.lavillerose.com
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Le Vent se Lève
+DESCRIPTION:Le festival « Le Vent se Lève » se tient au Domaine de Loisi
+ rs de Brioudes à Muret\, de 12h à minuit. Dédié à l'Économie Sociale
+  et Solidaire\, à la nature et à la biodiversité\, il mêle concerts\, 
+ spectacles\, ateliers\, contes\, artisanat et bien-être. L'entrée est à
+  prix libre jusqu'à 18h\, avec toutes les activités en accès libre\, ce
+  qui le rend accessible à tous les publics. C'est une journée festive et
+  engagée pour imaginer collectivement un territoire plus solidaire et dur
+ able.\n\nSource\: https://www.clutchmag.fr/evenements#2026-10-08-samedi-10
+ -octobre-0
+URL:https://www.clutchmag.fr/evenements#2026-10-08-samedi-10-octobre-0?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:744ac576-64bd-4a05-bfbd-13ed818d31da@news.lavillerose.com
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
@@ -18610,6 +18749,57 @@ DESCRIPTION:La Maison de l'Occitanie accueille une soirée participative d
 LOCATION:places disponibles\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/toulouse-aime-les-contes/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:24c56ba5-b373-44e6-a9f9-ccb357c7853c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Festival des Arts du Langage
+DESCRIPTION:Le Festival des Arts du Langage propose une journée familiale 
+ au Jardin des Plantes\, avec spectacles\, théâtre\, stand-up\, concerts 
+ et jeux\, à partir de 10h. L'entrée est à participation libre\, ce qui 
+ la rend accessible à tous les publics. L'événement se tient un dimanche
+  et s'adresse notamment aux familles toulousaines en quête d'une sortie c
+ ulturelle en plein air. La source mentionne également\, en encart promoti
+ onnel\, le spectacle « Maîtres Américains » du Ballet de l'Opéra Nati
+ onal du Capitole \n\nSource\: https://www.clutchmag.fr/evenements#2026-10-
+ 08-dimanche-11-octobre-2
+LOCATION:Jardin des Plantes\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-08-dimanche-11-octobre-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cf2d9344-c324-4954-ab0e-5495809619dd@news.lavillerose.com
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:En Une Prise
+DESCRIPTION:Le concept « En Une Prise » réunit sept artistes toulousains
+  — rappeurs\, chanteurs et une peintre — pour des performances live r
+ éalisées devant une toile peinte en direct. Né d'une rencontre de rue e
+ ntre l'artiste peintre Aestcart et le rappeur Adrien Martinetti\, le proje
+ t mêle musique underground (pop\, rap) et création plastique en temps r
+ éel. Le dimanche 11 octobre\, le Flashback Café accueille le concert de 
+ clôture de la première saison\, en mode « best of » avec l'ensemble de
+ s artistes ayant p\n\nSource\: https://www.clutchmag.fr/evenements#2026-10
+ -08-dimanche-11-octobre-0
+LOCATION:rue entre l'artiste peintre Aestcart\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-08-dimanche-11-octobre-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f3107519-db66-4dcf-a9bc-d15607dac348@news.lavillerose.com
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Bal du Bijou
+DESCRIPTION:Le Bal du Bijou se tient au Bijou\, salle de spectacle toulousa
+ ine\, le dimanche 11 octobre à partir de 17h. L'entrée est fixée à 10\
+ ,80 €. L'événement prend la forme d'un bal\, format convivial et festi
+ f accessible à un large public. Les amateurs de danse et de sorties en ap
+ rès-midi dominicale sont particulièrement concernés.\n\nSource\: https:
+ //www.clutchmag.fr/evenements#2026-10-08-dimanche-11-octobre-1
+LOCATION:salle de spectacle toulousaine\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-08-dimanche-11-octobre-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8fc0411e-7bdc-42d4-a345-0a72c8b5a82b@news.lavillerose.com
@@ -19701,6 +19891,23 @@ URL:https://www.toulouse-tourisme.com/agenda/charge-mentale-sauve-qui-peut/
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:83e87ec4-f869-4b78-a59a-665a73468527@news.lavillerose.com
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261023
+SUMMARY:Mozart – Le Concerto pour Clarinette
+DESCRIPTION:Les 21 et 22 octobre 2026\, L'Escale accueille deux concerts au
+ tour du Concerto pour clarinette de Mozart\, interprété par Patrick Mess
+ ina\, l'un des meilleurs clarinettistes actuels. Le programme propose une 
+ lecture engagée et vivante de Mozart\, loin de l'image lisse souvent asso
+ ciée au compositeur\, en insistant sur la violence des sentiments qui tra
+ verse son œuvre. La clarinette\, instrument jugé « mozartien » par exc
+ ellence — douce et élégante mais capable de débordements —\, est au
+  cœur de cette \n\nSource\: https://www.toulouse-tourisme.com/agenda/moza
+ rt-le-concerto-pour-clarinette/
+URL:https://www.toulouse-tourisme.com/agenda/mozart-le-concerto-pour-clarin
+ ette/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5151d1ae-2ef5-4b83-b155-f9dcd9c46fdc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
@@ -20190,6 +20397,26 @@ URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
  carmes/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1c4abc79-0470-4774-8213-7fdee6955025@news.lavillerose.com
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Salon Vins\, Terroirs et Gourmandises
+DESCRIPTION:Pour sa 6e édition\, le Salon Vins\, Terroirs et Gourmandises 
+ se tiendra les 24 et 25 octobre 2026 à La Salvetat-Saint-Gilles\, dans la
+  salle Boris Vian. Près de 50 exposants — vignerons\, récoltants-manip
+ ulants et producteurs artisanaux — y seront rassemblés\, venus d'Occita
+ nie mais aussi d'Alsace\, du Languedoc\, de Gironde et d'Ariège. L'évén
+ ement met l'accent sur la rencontre directe entre producteurs et public\, 
+ sans intermédiaire\, dans un esprit de circuits courts et d'authenticité
+ . Le Comité des \n\nSource\: https://www.toulouscope.fr/2026/10/08/ce-sal
+ on-pres-de-toulouse-va-reunir-50-producteurs-venus-doccitanie-et-dailleurs
+ -13574279.php
+LOCATION:salle Boris Vian\, Toulouse
+URL:https://www.toulouscope.fr/2026/10/08/ce-salon-pres-de-toulouse-va-reun
+ ir-50-producteurs-venus-doccitanie-et-dailleurs-13574279.php?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:53477bd2-5075-4e96-8985-b03c76141dc5@news.lavillerose.com
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
@@ -20281,6 +20508,23 @@ LOCATION:salle de spectacle située en périphérie sud-est de Tou\, Toulou
 URL:https://www.ticketmaster.fr/fr/manifestation/topick-billet/idmanif/6584
  04/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c3742950-c79b-459e-9321-c4761b3ad1ec@news.lavillerose.com
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Visite Contée
+DESCRIPTION:La Fondation Bemberg propose une visite contée spécialement c
+ onçue pour les plus petits\, animée par la conteuse Michela Orio. Les en
+ fants et leurs accompagnants explorent la Collection Bemberg de façon lud
+ ique et poétique\, au fil de récits\, légendes et anecdotes liés aux 
+ œuvres. Le parcours fait naître des personnages imaginaires — dragon\,
+  lion\, princesse\, roi — directement inspirés des tableaux et objets e
+ xposés. Une sortie idéale pour initier les jeunes visiteurs à l'art dan
+ s un cadre accessib\n\nSource\: https://www.toulouse-tourisme.com/agenda/v
+ isite-contee/
+URL:https://www.toulouse-tourisme.com/agenda/visite-contee/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:00310abb-a84e-4a7c-bfc8-41be6fd35c32@news.lavillerose.com
@@ -20550,6 +20794,23 @@ URL:https://www.toulouse-tourisme.com/agenda/virtuose-halle-aux-grains/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:5632ec64-3356-48d1-ad53-a817090eea5f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Même pas peur
+DESCRIPTION:Le Muséum de Toulouse propose le 29 octobre 2026 une séance d
+ e contes intitulée « Même pas peur »\, inspirée des traditions et lé
+ gendes pyrénéennes. Le public est invité à plonger dans l'univers sout
+ errain des grottes de Gargas\, Bédeilhac\, Marsoulas et du Mas-d'Azil\, 
+ à travers récits de fées\, créatures cachées\, monstres et ours mythi
+ ques. La séance s'adresse au jeune public : les 3-6 ans le matin\, les 6 
+ ans et plus l'après-midi. L'entrée est incluse dans le billet du Muséum
+ \, ce qui en fait une so\n\nSource\: https://www.toulouse-tourisme.com/age
+ nda/meme-pas-peur/
+URL:https://www.toulouse-tourisme.com/agenda/meme-pas-peur/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:44e1a64d-0ada-4a08-84a2-e6c2b51521ee@news.lavillerose.com
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
@@ -20757,6 +21018,24 @@ URL:https://www.toulouse-tourisme.com/agenda/soiree-speciales-zombies/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:10a8c38e-e57b-4503-8dde-89e37dd332d7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Randoween Roller
+DESCRIPTION:La Randoween Roller\, organisée par l'association Roulez Rose\
+ , invite les patineurs de niveau intermédiaire à parcourir les rues de T
+ oulouse la nuit du 30 octobre en costumes d'Halloween. Le départ se fait 
+ place du Capitole\, pour une balade nocturne festive et décalée à trave
+ rs une ville illuminée. L'événement est entièrement gratuit\, sans ins
+ cription préalable\, et encadré par des staffeurs expérimentés pour ga
+ rantir la sécurité des participants. Le port des protections est obligat
+ oire pour les e\n\nSource\: https://www.toulouse-tourisme.com/agenda/rando
+ ween-roller/
+LOCATION:rues de Toulouse la nuit du 30 octobre en costumes d'H\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/randoween-roller/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:96db22f7-864a-4709-a8e5-88039a38df10@news.lavillerose.com
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
@@ -20909,6 +21188,23 @@ DESCRIPTION:Un parcours historique guidé explore la mémoire de la Seconde
 URL:https://www.toulouse-tourisme.com/agenda/histoire-et-memoires-de-la-sec
  onde-guerre-mondiale/?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1dd680af-4bdf-4295-996e-216cc1dfa5ff@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Lucie Carbone
+DESCRIPTION:La comédienne Lucie Carbone se produira à La Comédie de Toul
+ ouse le 31 octobre 2026. Le spectacle est classé dans la catégorie Arts 
+ & Théâtre – Comédie\, laissant supposer un one-woman-show ou un spect
+ acle humoristique. La date du 31 octobre\, veille de la Toussaint\, en fai
+ t une sortie idéale pour un soir de congé prolongé. Les amateurs de com
+ édie et de spectacle vivant toulousains sont les premiers concernés.\n\n
+ Source\: https://www.ticketmaster.fr/fr/manifestation/lucie-carbone-billet
+ /idmanif/674582/idseance/4433095
+URL:https://www.ticketmaster.fr/fr/manifestation/lucie-carbone-billet/idman
+ if/674582/idseance/4433095?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dae7c373-449d-4028-b310-f791285cc323@news.lavillerose.com
@@ -21704,6 +22000,25 @@ DESCRIPTION:Le Palais Niel accueille une session automnale de « Musique au
 LOCATION:Palais Niel accueille une session automnale de « Musi\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/musique-au-palais/?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d1c49280-1fa8-4bbc-9f7c-26787797a785@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Toulouse Dub Club 47
+DESCRIPTION:Le Toulouse Dub Club revient pour sa 47e édition au Bikini\, s
+ alle de concert emblématique de Ramonville-Saint-Agne\, le 7 novembre 202
+ 6. Cette soirée est dédiée aux amateurs de reggae et de dub\, genres au
+  cœur de l'identité de cet événement récurrent toulousain. Le Bikini\
+ , l'une des principales salles de musiques actuelles de l'agglomération\,
+  accueille régulièrement ce rendez-vous communautaire. Les détails de p
+ rogrammation (artistes\, horaires\, tarifs) ne sont pas précisés dans la
+  source disponib\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ toulouse-dub-club-47-billet/idmanif/674850/idseance/4434943
+LOCATION:salle de concert emblématique de Ramonville-Saint-Agne\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/toulouse-dub-club-47-bille
+ t/idmanif/674850/idseance/4434943?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8@news.lavillerose.com
@@ -25096,18 +25411,17 @@ UID:cluster:4d1913a6-b8b1-4464-85ec-3ed93cb0e388@news.lavillerose.com
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Carte Blanche Compagnie Synapse
-DESCRIPTION:La Compagnie Synapse investit le Théâtre de Poche pour une so
- irée de création totalement improvisée et participative\, le 12 décemb
- re 2026. Le principe : ni les spectateurs ni les comédiens ne savent à l
- 'avance ce qui va se passer sur scène. Le public est invité à soumettre
-  ses inspirations\, qui orientent en temps réel le spectacle\, entre peti
- tes histoires déjantées et grandes épopées fantastiques. Un format id
- éal pour les amateurs de théâtre vivant\, surprenant et co-construit.\n
- \nSource\: https://www.toulouse-tourisme.com/agenda/la-carte-blanche-de-la
- -compagnie-synapse-2/
+DESCRIPTION:La Compagnie Synapse investit le Théâtre de Poche à Toulouse
+  pour une soirée d'improvisation totale\, le 12 décembre 2026. Le princi
+ pe : ni le public ni les artistes ne savent à l'avance ce qui va se passe
+ r sur scène. Petites histoires déjantées ou longue épopée fantastique
+ \, tout est possible\, et ce sont les inspirations du public qui guident l
+ e spectacle. Une proposition idéale pour les amateurs de théâtre vivant
+ \, surprenant et participatif.\n\nSource\: https://www.toulouse-tourisme.c
+ om/agenda/la-carte-blanche-de-la-compagnie-synapse/
 URL:https://www.toulouse-tourisme.com/agenda/la-carte-blanche-de-la-compagn
- ie-synapse-2/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
- enda
+ ie-synapse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:76b85c92-720b-4906-a73b-ce4afc70a552@news.lavillerose.com
@@ -26974,6 +27288,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/so-floyd-the-pink-floyd-sh
  ar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:9a1afcc3-8a40-428b-bb92-ce2fff920bdb@news.lavillerose.com
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Zaho
+DESCRIPTION:La chanteuse Zaho se produira au Casino Barrière de Toulouse l
+ e 27 janvier 2027 dans le cadre d'un concert de chanson française. L'év
+ énement est répertorié sur Ticketmaster\, ce qui laisse supposer que le
+ s billets sont disponibles à la vente en ligne. Le Casino Barrière est u
+ ne salle de spectacle établie à Toulouse\, accueillant régulièrement d
+ es artistes de variété et de chanson française. Cet événement s'adres
+ se aux amateurs de chanson française et aux fans de Zaho.\n\nSource\: htt
+ ps://www.ticketmaster.fr/fr/manifestation/zaho-billet/idmanif/675026/idsea
+ nce/4436849
+LOCATION:salle de spectacle éta\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/zaho-billet/idmanif/675026
+ /idseance/4436849?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:150d8b3f-395b-415d-8ae4-a70b31f9066c@news.lavillerose.com
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270131
@@ -28008,6 +28341,22 @@ URL:https://www.toulouse-tourisme.com/agenda/yves-jamait/?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f5b9c501-f6e8-4470-bd40-9cbadddfea24@news.lavillerose.com
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:ISÏA
+DESCRIPTION:Le groupe ISÏA se produira au Rex de Toulouse dans le cadre d'
+ un concert rock. L'événement est référencé sur Ticketmaster\, ce qui 
+ laisse supposer que des billets sont disponibles à la vente en ligne. Peu
+  de détails supplémentaires sont fournis sur le contenu du spectacle ou 
+ la formation du groupe. Les amateurs de rock toulousains pourront marquer 
+ la date dans leur agenda pour février 2027.\n\nSource\: https://www.ticke
+ tmaster.fr/fr/manifestation/isia-billet/idmanif/674902/idseance/4435178
+URL:https://www.ticketmaster.fr/fr/manifestation/isia-billet/idmanif/674902
+ /idseance/4435178?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:236d4147-ac2c-45d2-95fb-f5bd8f9b454b@news.lavillerose.com
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270227
@@ -28369,6 +28718,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/500-voix-pour-johnny-bille
  ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1504cf66-01e9-49b3-8696-d5186257b403@news.lavillerose.com
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Tribute to Naaman
+DESCRIPTION:Un concert hommage dédié à Naaman\, figure incontournable du
+  reggae français\, est programmé au Bikini à Ramonville-Saint-Agne. L'
+ événement s'inscrit dans la tradition des soirées reggae de la salle to
+ ulousaine\, reconnue comme l'une des meilleures salles de concert de la r
+ égion. Les amateurs du genre pourront retrouver l'univers musical de l'ar
+ tiste dans un cadre intimiste et engagé. La soirée s'adresse à tous les
+  fans de reggae et de musique jamaïcaine de la région toulousaine.\n\nSo
+ urce\: https://www.ticketmaster.fr/fr/manifestation/tribute-to-naaman-bill
+ et/idmanif/674683/idseance/4433841
+LOCATION:salle toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/tribute-to-naaman-billet/i
+ dmanif/674683/idseance/4433841?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:40cbf921-5ec4-48d4-a887-bcba57b380f5@news.lavillerose.com
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
@@ -28718,6 +29086,25 @@ URL:https://www.toulouse-tourisme.com/agenda/les-classiques-du-classique/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2f40e416-4eed-4470-83ac-cde97959abc7@news.lavillerose.com
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Nadège 100 Gène
+DESCRIPTION:Le spectacle « Nadège 100 Gène » est programmé à La Comé
+ die de Toulouse\, salle dédiée aux arts de la scène et à l'humour. La 
+ soirée s'inscrit dans la catégorie comédie et promet une performance so
+ lo dans l'univers du stand-up ou du one-woman show. Les informations dispo
+ nibles restent succinctes — titre\, lieu et date — sans détail sur le
+  contenu artistique ni les tarifs. Les amateurs de comédie toulousains so
+ uhaitant réserver peuvent se tourner vers Ticketmaster pour obtenir les b
+ illets.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/nadege-10
+ 0-gene-billet/idmanif/674231/idseance/4432297
+LOCATION:salle dédiée aux arts de la scène\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/nadege-100-gene-billet/idm
+ anif/674231/idseance/4432297?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c9e22315-dd77-4a76-bd73-f9e4e7ba4f6e@news.lavillerose.com
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
@@ -28839,6 +29226,41 @@ LOCATION:salle du Bascala\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/madagascar-une-aventure-mu
  sicale-billet/idmanif/632366/idtier/18864121?utm_source=ical&utm_medium=ca
  lendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:40430952-118f-4957-b1f4-3a8d0d05032e@news.lavillerose.com
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Dani Lary
+DESCRIPTION:Le célèbre illusionniste français Dani Lary se produira au C
+ asino Barrière de Toulouse le 7 mars 2027. Réputé pour ses numéros de 
+ magie grand spectacle mêlant illusions\, suspense et mise en scène élab
+ orée\, il est l'un des magiciens les plus populaires de France. L'événe
+ ment est classé Arts & Théâtre – Magie & Illusion\, et s'adresse à u
+ n public large\, familial comme adulte. Les billets sont disponibles via T
+ icketmaster.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/dani
+ -lary-billet/idmanif/674972/idseance/4436332
+URL:https://www.ticketmaster.fr/fr/manifestation/dani-lary-billet/idmanif/6
+ 74972/idseance/4436332?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9a652dac-7c19-4e22-a4a0-c5e37f006f11@news.lavillerose.com
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Royal Blood
+DESCRIPTION:Le duo de rock britannique Royal Blood se produira au Bikini à
+  Ramonville-Saint-Agne le 7 mars 2027. Connu pour son son lourd et percuta
+ nt mêlant basse et batterie\, le groupe est l'une des formations rock les
+  plus acclamées de la scène britannique actuelle. Le Bikini\, salle de r
+ éférence de la région toulousaine\, accueille ce concert qui s'annonce 
+ comme un rendez-vous incontournable pour les amateurs de rock. Les billets
+  sont disponibles via Ticketmaster.\n\nSource\: https://www.ticketmaster.f
+ r/fr/manifestation/royal-blood-billet/idmanif/674940/idseance/4435638
+LOCATION:salle de référence de la région\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/royal-blood-billet/idmanif
+ /674940/idseance/4435638?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:277924ee-2897-433d-b121-08b677981708@news.lavillerose.com
@@ -30640,6 +31062,23 @@ URL:https://www.toulouse-tourisme.com/agenda/ivanov/?utm_source=ical&utm_me
  dium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:b6f34426-3c03-4c93-8e61-f997c054aa3a@news.lavillerose.com
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Electro Deluxe
+DESCRIPTION:Le groupe Electro Deluxe se produira au Casino Barrière de Tou
+ louse le 20 avril 2027. Formation française réputée pour son mélange d
+ e jazz\, de funk et d'électro\, Electro Deluxe est connu pour ses concert
+ s énergiques et très dansants. La soirée s'annonce comme un événement
+  de choix pour les amateurs de musique live alliant sophistication jazz et
+  groove électronique. Les billets sont disponibles sur Ticketmaster.\n\nS
+ ource\: https://www.ticketmaster.fr/fr/manifestation/electro-deluxe-billet
+ /idmanif/675093/idseance/4437000
+URL:https://www.ticketmaster.fr/fr/manifestation/electro-deluxe-billet/idma
+ nif/675093/idseance/4437000?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:37f561df-c130-462a-bb24-2ef5a9bc8be0@news.lavillerose.com
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
@@ -31554,6 +31993,24 @@ URL:https://www.toulouse-tourisme.com/agenda/frida-voyage-musical-et-illust
  re/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:b2b064c9-6686-436d-b9a5-203ec5e492f9@news.lavillerose.com
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270522
+SUMMARY:Kevin Razy Kayfabe
+DESCRIPTION:Le comédien et humoriste Kevin Razy présente son spectacle 'K
+ ayfabe' au 3T d'À Côté à Toulouse\, avec deux représentations les 20 
+ et 21 mai 2027. Le terme 'kayfabe' désigne\, dans l'univers du catch\, l'
+ art de maintenir l'illusion de la réalité — un concept que Razy s'appr
+ oprie pour un one-man-show ancré dans le théâtre. Les deux dates permet
+ tent à un plus grand nombre de spectateurs d'assister à la pièce dans c
+ ette salle toulousaine confidentielle. Les amateurs de comédie et de thé
+ âtre contemporai\n\nSource\: https://www.ticketmaster.fr/fr/manifestation
+ /kevin-razy-kayfabe-billet/idmanif/675011/idseance/4436819
+URL:https://www.ticketmaster.fr/fr/manifestation/kevin-razy-kayfabe-billet/
+ idmanif/675011/idseance/4436819?utm_source=ical&utm_medium=calendar&utm_ca
+ mpaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:8291675f-269f-49fd-abc8-87eb030da9da@news.lavillerose.com
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
@@ -31935,6 +32392,24 @@ DESCRIPTION:Le comédien Arthur Gomez se produira au Grand Théâtre 3T de
 URL:https://www.ticketmaster.fr/fr/manifestation/arthur-gomez-please-stand-
  up-billet/idmanif/663289/idtier/18864121?utm_source=ical&utm_medium=calend
  ar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:98ac7aa6-4e82-48b9-a63a-5b208d866cf4@news.lavillerose.com
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Un Week-End Chargé
+DESCRIPTION:Le spectacle comique « Un Week-End Chargé » sera présenté 
+ au Casino Barrière de Toulouse le 10 juin 2027. Il s'agit d'un événemen
+ t de type Arts & Théâtre dans la catégorie comédie. L'information prov
+ ient d'une fiche Ticketmaster\, dont le contenu est très succinct et ne p
+ récise ni les artistes\, ni le synopsis\, ni les horaires ou les tarifs. 
+ Les amateurs de comédie et de spectacle vivant à Toulouse sont les princ
+ ipaux concernés par cette programmation.\n\nSource\: https://www.ticketma
+ ster.fr/fr/manifestation/un-week-end-charge-billet/idmanif/675089/idseance
+ /4436995
+URL:https://www.ticketmaster.fr/fr/manifestation/un-week-end-charge-billet/
+ idmanif/675089/idseance/4436995?utm_source=ical&utm_medium=calendar&utm_ca
+ mpaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c4c33d9e-081a-452a-bd0c-3da62f8c32ca@news.lavillerose.com
@@ -32518,6 +32993,24 @@ LOCATION:salle de spectacle du Casino Barrière\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/camille-tissot-billet/idma
  nif/674324/idseance/4432494?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d419d917-0564-449e-bac7-aad4540654e3@news.lavillerose.com
+DTSTART;VALUE=DATE:20280123
+DTEND;VALUE=DATE:20280124
+SUMMARY:Forever – Tribute to Michael Jackson
+DESCRIPTION:Le spectacle « Forever »\, hommage musical à Michael Jackson
+ \, est programmé au Zénith Toulouse Métropole le 23 janvier 2028. Ce ty
+ pe de show-tribute reconstitue l'univers scénique du King of Pop avec ses
+  plus grands titres. L'événement s'adresse aux fans de Michael Jackson e
+ t au grand public amateur de spectacles pop. Une seule source (Ticketmaste
+ r) signale cette date\, sans détail supplémentaire sur la distribution o
+ u la mise en scène.\n\nSource\: https://www.ticketmaster.fr/fr/manifestat
+ ion/forever-tribute-to-michael-jackson-billet/idmanif/674979/idseance/4436
+ 375
+URL:https://www.ticketmaster.fr/fr/manifestation/forever-tribute-to-michael
+ -jackson-billet/idmanif/674979/idseance/4436375?utm_source=ical&utm_medium
+ =calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5ffa68b2-c647-4469-ae9e-ce2ea1e37685@news.lavillerose.com

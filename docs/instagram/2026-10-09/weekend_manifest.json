@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-10-10",
+  "sunday": "2026-10-11",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:86ef8f51-f08d-49d0-a387-c8bba6591147",
+      "title": "Garona Cup : la régate d'aviron au Port de la Daurade",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:610d9d44-0963-47de-b785-517fcf534f8c",
+      "title": "Blagnac Culture Geek à la Salle des Fêtes des Ramiers",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:744ac576-64bd-4a05-bfbd-13ed818d31da",
+      "title": "Duo Odélia en concert à la Chapelle des Carmélites",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:53a6700f-241c-4719-b98d-889a4507760c",
+      "title": "Spectacle Monroe à l'Église Notre-Dame la Daurade",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d21c3c69-e69e-4db6-bfe7-9aec7cae2784",
+      "title": "Parcours « Ornements en Série » jusqu'à la Maison Giscard",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:eb00bb17-459a-42a0-b789-b630241d5b0d",
+      "title": "Toulouse Aime les Contes : soirée slam et récits à la Maison de l'Occitanie",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8",
+      "title": "« Un Dîner d'Adieu » au Café Théâtre Les 3T",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:5d57289c-fed0-40b1-8e34-438520d4dbef",
+      "title": "Toulouse Musicale et Secrète : visite à l'église Saint-François de Paule des Minimes",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:0f81ccea-c96c-485c-b3c1-4d3b62e330fc",
+      "title": "Mariam en concert au Metronum le 10 octobre",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}
