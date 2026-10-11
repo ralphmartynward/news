@@ -1,0 +1,176 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:0e708bee-38c6-42c7-b1d7-362011e7a2ca",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Empalot s'Agit(e) : le festival biennal revient place André-Daste",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/459174493-1103494135109488-617567438786715549-n-copie.jpg",
+    "file": "cluster_0e708bee-38c6-42c7-b1d7-362011e7a2ca_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:61aeb00d-29d0-4dd5-8af3-d4df23b5b6c7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival du Film des Toiles du Nord au Cinéma Le Lumière",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-LES-TOILES-DU-NORD.jpg",
+    "file": "cluster_61aeb00d-29d0-4dd5-8af3-d4df23b5b6c7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:e02a6d76-5814-4980-a454-7698c9889217",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Mecanik Paradize : concerts et machines XXL à la Halle de la Machine",
+    "image_url": "https://static.actu.fr/uploads/2026/09/selahsueandthegallands-ramymoharamfouad-press1-kopie-1.jpg",
+    "file": "cluster_e02a6d76-5814-4980-a454-7698c9889217_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 853
+  },
+  {
+    "cluster_id": "cluster:dd32fc65-f4b4-4486-9122-098630da8310",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "Exposition Primitae 2026 au Domaine de Rochemontès à Seilh",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/expo-primitae.jpg",
+    "file": "cluster_dd32fc65-f4b4-4486-9122-098630da8310_event_story.jpg",
+    "img_width": 618,
+    "img_height": 868
+  },
+  {
+    "cluster_id": "cluster:db83f732-8386-4446-86da-058089711d35",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Mékanik du Rire revient à Pibrac pour sa 9e édition",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Actenrue-Mekanik-du-rire-2019-Pibrac-11-Cie-du-Vide-Rosemonde---Alain-Fouillade-scaled-copie.jpg",
+    "file": "cluster_db83f732-8386-4446-86da-058089711d35_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3b5b079d-267c-4990-b58d-9434ddca3828",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "Toulouse Polars du Sud : 18e édition au Forum de la Renaissance",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/roman-policier.jpeg?itok=X4LsXBza",
+    "file": "cluster_3b5b079d-267c-4990-b58d-9434ddca3828_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:9577381d-bc35-4d57-80b1-3d7b94ca9052",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival des Arts du Langage : trois jours dans divers lieux toulousains",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1756908512486-copie.jpg",
+    "file": "cluster_9577381d-bc35-4d57-80b1-3d7b94ca9052_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:cf8691f1-fded-451a-9b12-ba728157f27c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "24e Salon des Minéraux et Fossiles à la Grande Halle de L'Union",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SALON-DES-MINERAUX-ET-DES-FOSSILES-A-L-UNION.jpg",
+    "file": "cluster_cf8691f1-fded-451a-9b12-ba728157f27c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:72915c3c-4372-4ad0-9cf6-b4edff00a18b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Marché Ubuntu aux Halles de la Cartoucherie : créateurs africains et caribéens",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1757060895093-copie.jpg",
+    "file": "cluster_72915c3c-4372-4ad0-9cf6-b4edff00a18b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:610d9d44-0963-47de-b785-517fcf534f8c",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Blagnac Culture Geek à la Salle des Fêtes des Ramiers",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1759928276889-copie.jpg",
+    "file": "cluster_610d9d44-0963-47de-b785-517fcf534f8c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:744ac576-64bd-4a05-bfbd-13ed818d31da",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Duo Odélia en concert à la Chapelle des Carmélites",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DUO-ODELIA.jpg",
+    "file": "cluster_744ac576-64bd-4a05-bfbd-13ed818d31da_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:53a6700f-241c-4719-b98d-889a4507760c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Spectacle Monroe à l'Église Notre-Dame la Daurade",
+    "image_url": "https://s1.ticketm.net/dam/c/038/cddd6a14-c959-4d67-8db3-93170b1a9038_105551_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_53a6700f-241c-4719-b98d-889a4507760c_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:d21c3c69-e69e-4db6-bfe7-9aec7cae2784",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Parcours « Ornements en Série » jusqu'à la Maison Giscard",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Fabrique-Giscard--Remi-Deligeon-copie-5.jpg",
+    "file": "cluster_d21c3c69-e69e-4db6-bfe7-9aec7cae2784_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:eb00bb17-459a-42a0-b789-b630241d5b0d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Toulouse Aime les Contes : soirée slam et récits à la Maison de l'Occitanie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/festival-de-contes-toulouse.jpg",
+    "file": "cluster_eb00bb17-459a-42a0-b789-b630241d5b0d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c1acf5a9-1502-4d96-b262-d90b03530d1a",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les Pestacles à l'UGC Montaudran : cinéma pour enfants cet automne",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-PESTACLE.jpg",
+    "file": "cluster_c1acf5a9-1502-4d96-b262-d90b03530d1a_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

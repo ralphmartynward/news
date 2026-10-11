@@ -11436,24 +11436,6 @@ URL:https://www.clutchmag.fr/evenements#2026-09-17-jeudi-17-septembre-0?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:297d3508-3a84-4b10-a247-67951313ae3d@news.lavillerose.com
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260921
-SUMMARY:Journées Européennes du Patrimoine – Bourse du Travail
-DESCRIPTION:Les Journées Européennes du Patrimoine 2026 proposent plusieu
- rs visites et balades architecturales à Toulouse le week-end du 19-20 sep
- tembre. La Bourse du Travail\, l'un des bâtiments syndicaux les plus anci
- ens de France\, ouvre ses portes pour des visites guidées de ses mosaïqu
- es Art déco\, de la salle Jean Jaurès et des locaux de Radio Mon Païs (
- sur réservation). Le bâtiment de la Toulouse School of Economics\, laur
- éat de l'Équerre d'argent 2020 et conçu par les architectes primés Pri
- tzker Yvonne \n\nSource\: https://www.toulouse-tourisme.com/agenda/journee
- s-europeennes-du-patrimoine-a-la-bourse-du-travail/
-URL:https://www.toulouse-tourisme.com/agenda/journees-europeennes-du-patrim
- oine-a-la-bourse-du-travail/?utm_source=ical&utm_medium=calendar&utm_campa
- ign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:35976157-c727-4a28-8096-df70c36b9aa7@news.lavillerose.com
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260920
@@ -16274,19 +16256,19 @@ BEGIN:VEVENT
 UID:cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270501
-SUMMARY:Pokémon x ESA – Cité de l'espace
-DESCRIPTION:La Cité de l'espace accueille une exposition inédite co-produ
- ite avec l'Agence spatiale européenne (ESA)\, mêlant l'univers Pokémon 
- à l'exploration spatiale\, du 2 octobre 2026 au 30 avril 2027. Le parcour
- s invite à découvrir les missions actuelles et futures de l'ESA à trave
- rs des liens inattendus avec les Pokémon\, dont une peluche Pikachu ayant
-  réellement passé 67 jours à bord de l'ISS aux côtés de l'astronaute 
- Sophie Adenot. Un parcours Pokémon GO est également accessible dans les 
- jardins de la\n\nSource\: https://www.toulouse-tourisme.com/agenda/pokemon
- -x-esa/
-LOCATION:espace accueille une exposition inédite co-produite a\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/pokemon-x-esa/?utm_source=ical
- &utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Expo Pokémon x ESA
+DESCRIPTION:Depuis le 2 octobre et jusqu'au 30 avril 2027\, la Cité de l'E
+ space accueille une exposition inédite fruit d'une collaboration entre Th
+ e Pokémon Company International et l'Agence spatiale européenne (ESA). L
+ e parcours invite les familles à explorer l'univers spatial européen —
+  missions Juice\, Euclid\, Ariane 6\, Vega-C\, Galileo — à travers l'un
+ ivers de Pikachu astronaute. L'exposition comprend des panneaux pédagogiq
+ ues\, des contenus interactifs et la possibilité de jouer à Pokémon GO 
+ sur site avec \n\nSource\: https://www.clutchmag.fr/evenements#2026-10-08-
+ jeudi-8-octobre-0
+LOCATION:Espace accueille une exposition inédite fruit d'une c\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-08-jeudi-8-octobre-0?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dbed2b54-4164-4488-b32b-997f98973c01@news.lavillerose.com
@@ -17883,6 +17865,24 @@ URL:https://actu.fr/occitanie/toulouse_31555/aeronautique-plus-de-300-poste
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:58fed91f-e04b-4c15-8c60-48db5826ea5b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261220
+SUMMARY:Mémoire d'une tour
+DESCRIPTION:L'exposition « Mémoire d'une tour » retrace l'histoire de la
+  Tour Matabiau\, immeuble de 64 mètres situé à l'entrée du quartier Bo
+ nnefoy\, et de ses habitants à travers photographies et vidéos de Marie-
+ Stéphane Salgas et Marilina Prigent. Portée par l'association des Amis d
+ e la Tour Matabiau\, elle documente le vaste chantier de rénovation mené
+  entre 2021 et 2023\, tout en interrogeant ce qui fait patrimoine : archit
+ ecture\, mémoire collective et liens entre résidents. La tour\, conçue 
+ dans les années\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-10-09#52528
+LOCATION:quartier Bonnefoy\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-09#52528?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b5b7cd50-c141-4f9f-b3d9-6747d5bda24c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261102
@@ -18184,23 +18184,6 @@ DESCRIPTION:L'Européenne de Cirques revient pour sa 10e édition du 9 au 1
 LOCATION:place de la Libération\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/leuropeenne-de-cirques/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:58fed91f-e04b-4c15-8c60-48db5826ea5b@news.lavillerose.com
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261220
-SUMMARY:Mémoire d'une tour
-DESCRIPTION:L'exposition « Mémoire d'une tour »\, portée par l'associat
- ion des Amis de la Tour Matabiau\, est présentée au centre culturel Bonn
- efoy jusqu'au 19 décembre. Elle retrace l'histoire du vaste chantier de r
- énovation de la Tour Matabiau (2021–2023) à travers photographies et v
- idéos de Marie-Stéphane Salgas et Marilina Prigent. La tour\, premier im
- meuble de grande hauteur à ossature métallique de Toulouse\, a été con
- çue par l'architecte Jean-Pierre Pierron au milieu des années 1950 et a 
- notamment accuei\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
- /2026-10-09#52528
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-09#52528?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9b761b75-dc98-4189-bac2-0bf962fbb8e2@news.lavillerose.com
@@ -18802,6 +18785,23 @@ URL:https://www.clutchmag.fr/evenements#2026-10-08-dimanche-11-octobre-1?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c1acf5a9-1502-4d96-b262-d90b03530d1a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261130
+SUMMARY:Les Pestacles
+DESCRIPTION:Les Pestacles reviennent à l'UGC Toulouse Montaudran avec une 
+ programmation de films jeunesse chaque dimanche d'octobre à fin novembre 
+ 2026. Au programme : des classiques et des films d'animation recommandés 
+ par âge\, de Kubo et l'armure magique à James et la pêche géante\, en 
+ passant par Coco et Le Bossu de Notre-Dame. À chaque séance\, JouéClub 
+ propose des quiz sur le thème du cinéma\, avec des lots de jouets et de 
+ jeux à gagner. Le premier dimanche du mois\, les tout-petits dès 3 ans p
+ euvent décou\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-pes
+ tacles/
+URL:https://www.toulouse-tourisme.com/agenda/les-pestacles/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:8fc0411e-7bdc-42d4-a345-0a72c8b5a82b@news.lavillerose.com
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261020
@@ -18993,6 +18993,25 @@ DESCRIPTION:Le Sunshine Coast Guitar Orchestra (SCGO)\, ensemble australien
  ine-coast-guitar-orchestra-2/
 URL:https://www.toulouse-tourisme.com/agenda/sunshine-coast-guitar-orchestr
  a-2/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:297d3508-3a84-4b10-a247-67951313ae3d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261019
+SUMMARY:Journées de l'Architecture – Toulouse
+DESCRIPTION:Du 15 au 18 octobre 2026\, Toulouse accueille la 11e édition d
+ es Journées nationales de l'architecture\, avec 21 événements programm
+ és dans toute la Ville rose. Le thème de cette année\, « Réhabiliter 
+ : bâtir l'avenir »\, met en lumière la transformation des bâtiments ex
+ istants et le réemploi des matériaux. Au programme : visites de lieux in
+ édits\, expositions temporaires\, balades architecturales et fluviales\, 
+ ainsi qu'une conférence du designer Jan Boelen le 15 octobre de 18h30 à 
+ 20h30. Parmi les te\n\nSource\: https://www.toulouscope.fr/2026/10/11/jour
+ nees-de-larchitecture-a-toulouse-ces-quatre-jours-de-rendez-vous-a-ne-pas-
+ manquer-13587331.php
+URL:https://www.toulouscope.fr/2026/10/11/journees-de-larchitecture-a-toulo
+ use-ces-quatre-jours-de-rendez-vous-a-ne-pas-manquer-13587331.php?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ab3fa524-5643-4ddd-a2df-3a914be5b569@news.lavillerose.com
@@ -21036,6 +21055,22 @@ URL:https://www.toulouse-tourisme.com/agenda/randoween-roller/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:73ab55ed-4cef-4d59-8b0f-f87bc219db4e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Clutcho' Cumbia de los Muertos
+DESCRIPTION:Le Quai des Savoirs accueille le Clutcho' Cumbia de los Muertos
+  le 30 octobre 2026\, une soirée Halloween festive et créative. Au progr
+ amme : DJ sets\, spectacles\, restauration et buvette\, ainsi que des stan
+ ds de créateurs et des ateliers pour toute la famille. Les participants s
+ ont invités à venir déguisés pour l'occasion\, dans une ambiance mêla
+ nt fête des morts et esprit Halloween. L'événement s'adresse aussi bien
+  aux adultes qu'aux familles avec enfants.\n\nSource\: https://www.toulous
+ e-tourisme.com/agenda/clutcho-cumbia-de-los-muertos/
+URL:https://www.toulouse-tourisme.com/agenda/clutcho-cumbia-de-los-muertos/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:96db22f7-864a-4709-a8e5-88039a38df10@news.lavillerose.com
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
@@ -21207,6 +21242,59 @@ URL:https://www.ticketmaster.fr/fr/manifestation/lucie-carbone-billet/idman
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:780f5456-c8c7-4abf-8195-ca7532f43113@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Précieux Halloween
+DESCRIPTION:Le Musée des Arts Précieux Paul Dupuy propose une soirée Hal
+ loween le 31 octobre 2026\, invitant petits et grands à explorer ses coll
+ ections à la lumière de l'imaginaire des fantômes et créatures inquié
+ tantes. L'événement s'inscrit dans la tradition celtique d'Halloween com
+ me « fenêtre vers l'autre monde »\, avec des œuvres illustrant les th
+ èmes de la peur\, de la disparition et de la magie. Les costumes effrayan
+ ts sont les bienvenus\, ce qui en fait une sortie festive et originale pou
+ r les familles\n\nSource\: https://www.toulouse-tourisme.com/agenda/precie
+ ux-halloween/
+URL:https://www.toulouse-tourisme.com/agenda/precieux-halloween/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d8530880-7e56-450d-bba0-9be48a646dca@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Hilight Tribe Halloween Edition
+DESCRIPTION:Pour Halloween\, la Cabane des Halles de la Cartoucherie accuei
+ lle une édition spéciale « Instrumental Halloween » de Hilight Tribe\,
+  figure emblématique de la trance ethnique. La soirée se déroule du 31 
+ octobre au 1er novembre 2026 avec un lineup en quatre actes : I Roots en D
+ J set dub\, Bandi! en electro dub\, Spoink en electro impro\, et Hilight T
+ ribe en ethno trance pour clôturer la nuit. L'événement mêle musiques 
+ électroniques\, dub et influences world dans un lieu festif incontournabl
+ e de Toulou\n\nSource\: https://www.toulouse-tourisme.com/agenda/hilight-t
+ ribe-instrumental-halloween-edition/
+LOCATION:Halles de la Cartoucherie accueille une édition spéciale\, Toulo
+ use
+URL:https://www.toulouse-tourisme.com/agenda/hilight-tribe-instrumental-hal
+ loween-edition/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f42216b8-df8e-4296-90cd-5c999524e1db@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Crimes et Châtiments
+DESCRIPTION:Le 31 octobre 2026\, Toulouse propose une visite guidée spéci
+ ale Halloween intitulée "Crimes et Châtiments"\, conçue pour découvrir
+  la Ville Rose sous un angle sombre et frissonnant. Les amateurs de petite
+ s histoires macabres et de faits divers historiques sont particulièrement
+  invités. Les costumes sont non seulement autorisés mais encouragés pou
+ r l'occasion. La visite est déconseillée au jeune public en raison de so
+ n contenu.\n\nSource\: https://www.toulouse-tourisme.com/agenda/crimes-et-
+ chatiments/
+URL:https://www.toulouse-tourisme.com/agenda/crimes-et-chatiments/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:dae7c373-449d-4028-b310-f791285cc323@news.lavillerose.com
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
@@ -21223,6 +21311,24 @@ LOCATION:salle de spectacle du casino\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/the-5-rosies-tribute-to-ac
  -dc-billet/idmanif/648745/idtier/18864121?utm_source=ical&utm_medium=calen
  dar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6ed0ea91-9a99-46d0-9515-bd2b54c96d13@news.lavillerose.com
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Cantates sans filet
+DESCRIPTION:L'Ensemble Baroque de Toulouse propose une séance de répétit
+ ion ouverte au public à l'Église Saint-Exupère\, suivie d'un concert de
+  cantates de Bach. Le directeur artistique Michel Brun accompagne l'évén
+ ement d'explications et d'anecdotes sur l'époque baroque et l'œuvre du c
+ ompositeur. Le public est même invité à monter au chant pour interprét
+ er le choral final aux côtés des musiciens et choristes. L'entrée est l
+ ibre\, sans réservation préalable\, dans la limite des places disponible
+ s.\n\nSource\: https://www.toulouse-tourisme.com/agenda/cantates-sans-file
+ t-lintegrale-des-cantates-de-bach/
+URL:https://www.toulouse-tourisme.com/agenda/cantates-sans-filet-lintegrale
+ -des-cantates-de-bach/?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:31534925-a5a8-4698-b288-383ce25e4cea@news.lavillerose.com
@@ -22370,6 +22476,22 @@ URL:https://www.toulouse-tourisme.com/agenda/festival-international-du-film
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:8ae3d766-0662-4ad5-bce8-feaaef51d47d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Soirée La La La
+DESCRIPTION:La soirée « La La La » au Metronum invite le public à forme
+ r le temps d'une soirée une grande chorale éphémère\, accompagnée de 
+ musiciens live. Le principe est simple et convivial : une soirée\, une ch
+ anson apprise et chantée à trois voix. L'événement s'adresse à tous\,
+  sans expérience musicale requise\, pour une expérience participative et
+  collective. Il aura lieu le 12 novembre 2026 au Metronum\, salle dédiée
+  aux musiques actuelles à Toulouse.\n\nSource\: https://www.toulouse-tour
+ isme.com/agenda/soiree-la-la-la/
+URL:https://www.toulouse-tourisme.com/agenda/soiree-la-la-la/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261115
@@ -22756,6 +22878,26 @@ DESCRIPTION:Le Duo Baudoin Lassouque se produit au COMDT (Conservatoire Occ
  assouque/
 URL:https://www.toulouse-tourisme.com/agenda/duo-baudoin-lassouque/?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fb4e9d25-4d36-4134-b8f5-98c342138584@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Bigflo & Oli – Zénith de Toulouse
+DESCRIPTION:À quelques mois des concerts de Bigflo & Oli au Zénith de Tou
+ louse les 14 et 15 novembre 2026\, Oli se livre dans une interview sur le 
+ passé\, le présent et l'avenir du duo. Il revient sur la dernière édit
+ ion du Rose Festival\, qu'il juge très réussie\, tout en soulignant la v
+ olonté des frères de continuer à l'améliorer pour en faire l'un des pl
+ us beaux festivals français. L'article évoque également les projets par
+ allèles des deux frères : une nouvelle boutique Takara à Labège pour B
+ igflo et une exp\n\nSource\: https://actu.fr/occitanie/toulouse_31555/quan
+ d-on-est-toulousain-tout-le-reste-passe-ensuite-a-l-approche-des-concerts-
+ du-zenith-de-toulouse-oli-se-confie_64789264.html
+URL:https://actu.fr/occitanie/toulouse_31555/quand-on-est-toulousain-tout-l
+ e-reste-passe-ensuite-a-l-approche-des-concerts-du-zenith-de-toulouse-oli-
+ se-confie_64789264.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4@news.lavillerose.com
@@ -23385,6 +23527,23 @@ DESCRIPTION:La comédienne Mathilde Andrea se produit à La Petite Comédie
 URL:https://www.ticketmaster.fr/fr/manifestation/mathilde-andrea-billet/idm
  anif/673169/idseance/4425784?utm_source=ical&utm_medium=calendar&utm_campa
  ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:568b6504-27e6-48d4-b42f-0d15b9e0cf86@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:La Nuit de la Glisse 2026
+DESCRIPTION:La Nuit de la Glisse revient à Toulouse le 20 novembre 2026 à
+  l'UGC Montaudran pour sa nouvelle édition intitulée « The Call ». Cet
+  événement annuel emblématique célèbre les sports de glisse — ski\,
+  snowboard\, surf — à travers une soirée cinématographique immersive.
+  L'édition 2026 est placée sous le signe de la quête de la ligne parfai
+ te\, du geste maîtrisé et de la fusion entre le rider et les éléments 
+ naturels. L'événement s'adresse aux passionnés de montagne\, de glisse 
+ et de films de sport extr\n\nSource\: https://www.toulouse-tourisme.com/ag
+ enda/la-nuit-de-la-glisse-2026-the-call/
+URL:https://www.toulouse-tourisme.com/agenda/la-nuit-de-la-glisse-2026-the-
+ call/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30@news.lavillerose.com
@@ -27288,6 +27447,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/so-floyd-the-pink-floyd-sh
  ar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f70bcbb8-fba8-4702-8075-5fc11176e191@news.lavillerose.com
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Thylacine
+DESCRIPTION:Le projet électronique Thylacine se produira au Bikini\, à Ra
+ monville-Saint-Agne\, le 27 janvier 2027. Cet artiste français\, connu po
+ ur ses compositions ambient et dance/electronic mêlant influences cinéma
+ tographiques et rythmiques\, investira l'une des salles de concert les plu
+ s emblématiques de l'agglomération toulousaine. Le Bikini est une réfé
+ rence incontournable pour les musiques électroniques dans la région. Les
+  amateurs du genre et les habitués de la salle sont particulièrement con
+ cernés par\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/thyla
+ cine-billet/idmanif/660043/idseance/4437742
+LOCATION:salles de concert les plus emblématiques de l'agg\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/6
+ 60043/idseance/4437742?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9a1afcc3-8a40-428b-bb92-ce2fff920bdb@news.lavillerose.com
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
@@ -27407,23 +27585,6 @@ LOCATION:salles de spectacle de la région\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/nawell-madani-billet/idman
  if/619966/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign
  =toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:f70bcbb8-fba8-4702-8075-5fc11176e191@news.lavillerose.com
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270129
-SUMMARY:Thylacine / NTO au Bikini
-DESCRIPTION:Le Bikini à Ramonville-Saint-Agne accueille deux soirées éle
- ctroniques début 2027. Thylacine se produira le 28 janvier 2027\, suivi d
- e NTO le 12 février 2027. Ces deux artistes français sont des figures re
- connues de la scène électronique et ambient\, avec chacun un univers son
- ore distinctif. Les amateurs de musique électronique de la région toulou
- saine sont directement concernés par ces deux événements.\n\nSource\: h
- ttps://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/66004
- 3/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/6
- 60043/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
- louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ad361e6b-60eb-463f-8a5b-0d6a3bb7d1a5@news.lavillerose.com
@@ -28158,6 +28319,24 @@ LOCATION:salle de spectacle établie\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/mado-fait-son-cabaret-bill
  et/idmanif/657536/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_
  campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7518a80b-380c-4ab7-8e63-99039504f42f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Ino Casablanca
+DESCRIPTION:Le rappeur Ino Casablanca se produira au Bikini\, à Ramonville
+ -Saint-Agne\, le 18 février 2027. Le concert s'inscrit dans un registre h
+ ip-hop/rap. Le Bikini est l'une des salles de musiques actuelles les plus 
+ emblématiques de l'agglomération toulousaine. Les amateurs de rap auront
+  donc rendez-vous dans cette salle réputée pour la qualité de sa progra
+ mmation.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/ino-casa
+ blanca-billet/idmanif/675120/idseance/4437110
+LOCATION:salles de musiques actuelles les plus emblématiques de l\, Toulou
+ se
+URL:https://www.ticketmaster.fr/fr/manifestation/ino-casablanca-billet/idma
+ nif/675120/idseance/4437110?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:15a65d2f-0020-4a83-ae21-2a6ddd5813f3@news.lavillerose.com
