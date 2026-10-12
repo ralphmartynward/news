@@ -16255,7 +16255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20261003
 SUMMARY:Expo Pokémon x ESA
 DESCRIPTION:Depuis le 2 octobre et jusqu'au 30 avril 2027\, la Cité de l'E
  space accueille une exposition inédite fruit d'une collaboration entre Th
@@ -18802,6 +18802,26 @@ URL:https://www.toulouse-tourisme.com/agenda/les-pestacles/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:5a97a411-c6f6-4622-9f9d-be43a796248c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Le Stade Toulousain écrase Bayonne 45-34 à Ernest-Wallon
+DESCRIPTION:Le Stade Toulousain a dominé l'Aviron Bayonnais 45 à 34 ce di
+ manche 11 octobre 2026 à Ernest-Wallon\, en clôture de la 6e journée de
+  Top 14. La rencontre a été marquée par un festival d'essais des deux c
+ ôtés\, dans une ambiance électrique pour le 85e match consécutif à gu
+ ichets fermés. Ironie du sort\, c'est Cyril Baille — dont le transfert 
+ à Bayonne en fin de saison vient d'être officialisé — qui a ouvert le
+  score dès la 2e minute. Toulouse s'impose finalement avec le point de bo
+ nus offensif\, malg\n\nSource\: https://actu.fr/occitanie/toulouse_31555/t
+ op-14-festival-d-essais-et-victoire-bonifiee-pour-le-stade-toulousain-face
+ -a-bayonne_64909640.html
+LOCATION:Stade Toulousain a dominé l'Aviron Bayonnais 45\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/top-14-festival-d-essais-et-vi
+ ctoire-bonifiee-pour-le-stade-toulousain-face-a-bayonne_64909640.html?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:8fc0411e-7bdc-42d4-a345-0a72c8b5a82b@news.lavillerose.com
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261020
@@ -18818,6 +18838,40 @@ DESCRIPTION:L'exposition MESSAGE / IMAGES présente 16 affiches associant m
 LOCATION:Espace JOB\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/message-images/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8559f017-1336-462a-a81a-3417cd217ec5@news.lavillerose.com
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261025
+SUMMARY:Ensemble en librairie !
+DESCRIPTION:La 3e édition du festival Ensemble en librairie!\, organisé p
+ ar l'Alido (association des librairies indépendantes d'Occitanie)\, se d
+ éroule jusqu'au 24 octobre sur le thème des Résistances. Près de 50 é
+ vénements sont programmés dans toute la région : rencontres d'auteurs\,
+  lectures\, conférences\, ateliers\, concerts et DJ sets. L'autrice Corin
+ ne Morel est la marraine de cette édition\, et un programme de plus de 60
+  conseils de lecture liés à la thématique sera distribué. Parmi les re
+ ndez-vous toulousa\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-10-12#52556
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-12#52556?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e18620a9-f6f7-40c4-89f7-fa27c4e393c7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261026
+SUMMARY:Saisons étudiantes
+DESCRIPTION:Du 12 au 25 octobre\, les étudiants peuvent accéder gratuitem
+ ent à de nombreux musées et monuments de Toulouse dans le cadre des Sais
+ ons étudiantes\, une initiative organisée deux fois par an par la Mairie
+ . Les établissements concernés incluent les Augustins\, les Abattoirs\, 
+ le Muséum de Toulouse\, Paul-Dupuy\, la galerie du Château d'Eau et le Q
+ uai des Savoirs\, ainsi que plusieurs monuments comme le couvent des Jacob
+ ins et la chapelle de La Grave. Aucune réservation n'est nécessaire : il
+  suffit de p\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-10-12#52555
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-12#52555?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:cdb5f6e5-7f64-4b7f-81b6-6ea8efd7dd77@news.lavillerose.com
@@ -19210,6 +19264,25 @@ URL:https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-wilson-et
  louse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20270222
+SUMMARY:Trois siècles de photographie
+DESCRIPTION:Pour célébrer le bicentenaire de l'invention de la photograph
+ ie\, une exposition inédite réunit les collections du Château d'Eau et 
+ des musées Georges-Labit et Paul-Dupuy. Ce dialogue entre institutions pe
+ rmet de croiser des œuvres issues de fonds habituellement séparés\, off
+ rant une lecture sur trois siècles de pratique photographique. L'expositi
+ on se tient au Château d'Eau du 16 octobre 2026 au 21 février 2027. L'en
+ trée est fixée à 5 €\, tarif réduit à 3 €\, gratuite pour les moi
+ ns de 6 ans.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GD
+ IVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q360
+ N~IVPFs1o2kitbykes
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
+ _b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q360N~IVPFs1o2kitbykes?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:89f655c6-469a-49af-b306-1272ec90c512@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
@@ -19404,42 +19477,43 @@ URL:https://www.toulouse-tourisme.com/agenda/fete-des-vendanges/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ae2d1fbf-1669-4334-b64f-9a0d72ca3382@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Nuit du gaming rétro
+DESCRIPTION:La Maison du Lac de Villeneuve-Tolosane organise une LAN party 
+ rétro le vendredi 16 octobre à partir de 18h. Les participants pourront 
+ jouer en réseau sur PC avec des titres cultes comme Counter-Strike\, Warc
+ raft 3\, Diablo 2 et Age of Empires 2. Des consoles seront également disp
+ onibles\, avec au programme Tetris\, Worms\, Dead or Alive et GoldenEye. L
+ 'entrée est entièrement gratuite\, ce qui en fait un événement accessi
+ ble à tous les amateurs de jeux vidéo old school de la région toulousai
+ ne.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5
+ yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q360N~IVPFs1o
+ 2kitbxkMg
+LOCATION:Lac de Villeneuve-Tolosane organise une LAN party rét\, Toulouse
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
+ _b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q360N~IVPFs1o2kitbxkMg?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:62a440df-ab71-40af-8e0a-38176a1a8102@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261102
 SUMMARY:Lumières sur le Quai
-DESCRIPTION:Fermé depuis décembre 2025 pour travaux\, le Quai des Savoirs
- \, sur les allées Jules-Guesde à Toulouse\, rouvrira entièrement au pub
- lic à l'occasion de ses 10 ans en octobre 2026. La principale nouveauté 
- est la création d'un auditorium de 118 places aménagé dans la salle d'e
- xposition principale\, un manque longtemps ressenti par l'équipe qui deva
- it jusqu'ici louer des salles extérieures pour ses conférences scientifi
- ques. La programmation inaugurale\, intitulée « Lumières sur le Quai »
- \, se tiendra du\n\nSource\: https://actu.fr/occitanie/toulouse_31555/apre
- s-un-an-de-travaux-ce-musee-de-toulouse-va-completement-rouvrir-ce-qui-est
- -prevu-pour-feter-ses-10-ans_64847667.html
-LOCATION:allées Jules-Guesde\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/apres-un-an-de-travaux-ce-muse
- e-de-toulouse-va-completement-rouvrir-ce-qui-est-prevu-pour-feter-ses-10-a
- ns_64847667.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
- -agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc@news.lavillerose.com
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Les Vies de la Photographie
-DESCRIPTION:Le Château d'Eau accueille une exposition collective intitulé
- e « Les Vies de la Photographie »\, du 17 octobre 2026 au 21 février 20
- 27. Trois musées toulousains unissent leurs collections pour explorer la 
- photographie sous trois angles : comme médium d'expression\, comme image 
- à mi-chemin entre art et document\, et à travers l'histoire propre du Ch
- âteau d'Eau en tant que lieu de collection et d'exposition. L'exposition 
- retrace l'évolution du médium depuis son invention jusqu'à aujourd'hui\
- , en dialo\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-vies-d
- e-la-photographie/
-URL:https://www.toulouse-tourisme.com/agenda/les-vies-de-la-photographie/?u
- tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Du 17 octobre au 1er novembre\, le Quai des Savoirs célèbre s
+ on dixième anniversaire à travers la 12e édition du festival Lumières 
+ sur le Quai. Au programme : expositions immersives\, projections de films\
+ , installations artistiques et spectacles à la croisée des sciences et d
+ e la créativité. Le festival invite scientifiques\, artistes et citoyens
+  à réfléchir ensemble aux façons d'imaginer le monde de demain. L'év
+ énement s'étend sur plus de deux semaines et s'adresse à un large publi
+ c toulousain.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~G
+ DIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q36
+ 0N~IVPFs1o2kitbxkMY
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
+ _b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q360N~IVPFs1o2kitbxkMY?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:22c607bb-18ac-4f75-9c54-090dee15f045@news.lavillerose.com
@@ -19637,15 +19711,15 @@ UID:cluster:12b09d00-d03f-4cc1-af1f-4e80c3f0a215@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:Salon International de la Guitare en Occitanie
-DESCRIPTION:Le Salon International de la Guitare en Occitanie (Salon Les IG
- ) se tient les 17 et 18 octobre 2026 à La Cité\, à Toulouse. L'événem
- ent\, entièrement gratuit\, réunit une centaine de luthiers venus de tou
- te la France et d'Occitanie\, présentant guitares acoustiques et électri
- ques\, instruments à cordes pincées\, amplis\, pédales et accessoires. 
- Les visiteurs pourront essayer les instruments dans des salles d'essai dé
- diées\, assister à des démonstrations scéniques et suivre en direct la
-  fabrication d'un \n\nSource\: https://www.toulouse-tourisme.com/agenda/sa
- lon-international-de-la-guitare-en-occitanie/
+DESCRIPTION:Le Salon International de la Guitare en Occitanie se tient les 
+ 17 et 18 octobre 2026 à La Cité\, à Toulouse. Plus d'une centaine de lu
+ thiers et exposants venus de toute la France et d'Occitanie y présenteron
+ t guitares acoustiques\, électriques\, amplis\, pédales et accessoires. 
+ Le public pourra essayer les instruments dans des salles d'essai dédiées
+ \, assister à des démonstrations sur scène et suivre en direct la fabri
+ cation d'un manche de guitare avec le luthier Vincent Brun. L'entrée est 
+ entièremen\n\nSource\: https://www.toulouse-tourisme.com/agenda/salon-int
+ ernational-de-la-guitare-en-occitanie/
 URL:https://www.toulouse-tourisme.com/agenda/salon-international-de-la-guit
  are-en-occitanie/?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
  e-agenda
@@ -22900,6 +22974,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/quand-on-est-toulousain-tout-l
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c634a8eb-c127-42a1-a183-1297c9332c1a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Red Bull Max Reps
+DESCRIPTION:Le musée Aeroscopia de Toulouse accueillera le 14 novembre 202
+ 6 la première édition de Red Bull Max Reps\, une compétition de fitness
+  inédite se déroulant au cœur de ses hangars aéronautiques. Des équip
+ es de quatre s'affronteront dans six épreuves mêlant force\, endurance\,
+  vitesse et cohésion\, en évoluant sous les ailes de l'A380 et du Concor
+ de. L'événement mêle les codes du CrossFit\, de l'OCR et du Hyrox à l'
+ univers de l'aéronautique\, avec une scénographie calquée sur un vérit
+ able embarquement (c\n\nSource\: https://www.toulouscope.fr/2026/10/11/le-
+ musee-aeroscopia-va-se-transformer-en-terrain-de-fitness-geant-sous-les-ai
+ les-dun-a380-13587653.php
+URL:https://www.toulouscope.fr/2026/10/11/le-musee-aeroscopia-va-se-transfo
+ rmer-en-terrain-de-fitness-geant-sous-les-ailes-dun-a380-13587653.php?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4@news.lavillerose.com
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -24150,6 +24243,23 @@ DESCRIPTION:Le Toulouse Django Festival revient pour sa 3e édition du 26 a
  ngo-festival/
 URL:https://www.toulouse-tourisme.com/agenda/toulouse-django-festival/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:37e15d30-e76e-468a-8734-8edd53171ab2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:La vie en jaune – HYL au Flashback
+DESCRIPTION:Le Toulousain HYL (Yoann Leblanc) sort sa nouvelle mixtape inti
+ tulée « La vie en jaune »\, qu'il défendra en concert le 26 novembre a
+ u Flashback. Ancien directeur artistique à Paris\, il a tout plaqué pour
+  la musique en 2018 avant d'être sélectionné aux Rencontres d'Astaffort
+  de Francis Cabrel\, point de départ d'une véritable renaissance artisti
+ que. Accompagné du producteur Hoodie Boy et du bassiste Florent Maurin\, 
+ le trio a depuis enchaîné plus de 150 concerts\, assuré des premières 
+ parties de Dan\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2
+ 026-10-12#52559
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-12#52559?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com

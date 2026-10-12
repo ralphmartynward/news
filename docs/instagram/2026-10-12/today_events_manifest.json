@@ -1,0 +1,66 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:dd32fc65-f4b4-4486-9122-098630da8310",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "Exposition Primitae 2026 au Domaine de Rochemontès à Seilh",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/expo-primitae.jpg",
+    "file": "cluster_dd32fc65-f4b4-4486-9122-098630da8310_event_story.jpg",
+    "img_width": 618,
+    "img_height": 868
+  },
+  {
+    "cluster_id": "cluster:6b601ed7-1b01-4014-960c-5c95972eecf3",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Premier concours d'œuf mayo en Occitanie aux Halles de Gameville",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2198298736.jpg?h=ff0d7aa2&itok=LiSFb_8f",
+    "file": "cluster_6b601ed7-1b01-4014-960c-5c95972eecf3_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:8559f017-1336-462a-a81a-3417cd217ec5",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Festival « Ensemble en librairie ! » : 50 événements autour des Résistances",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/livres-librairie-adobestock_549977942.jpg?itok=p51KgHgC",
+    "file": "cluster_8559f017-1336-462a-a81a-3417cd217ec5_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:a3ec5276-3db8-4957-b0e5-063f249a099a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Requiem de Verdi à la Halle aux Grains ce soir",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2067138974.jpg?itok=EJMC1-7D",
+    "file": "cluster_a3ec5276-3db8-4957-b0e5-063f249a099a_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:e18620a9-f6f7-40c4-89f7-fa27c4e393c7",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Saisons étudiantes : musées et monuments gratuits à Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_629670044.jpg?itok=3jFKibun",
+    "file": "cluster_e18620a9-f6f7-40c4-89f7-fa27c4e393c7_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
