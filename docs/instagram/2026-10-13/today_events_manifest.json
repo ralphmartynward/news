@@ -1,0 +1,99 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cdb5f6e5-7f64-4b7f-81b6-6ea8efd7dd77",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pas de Soucis, huis-clos tragi-comique au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PAS-DE-SOUCI-SORANO.jpg",
+    "file": "cluster_cdb5f6e5-7f64-4b7f-81b6-6ea8efd7dd77_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:aed0b1e6-a303-4208-8759-0fd56bd35c97",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Lumière sur le Bazacle : visite guidée des Espaces EDF",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/EDF-Bazacle----Remi-Deligeon---Agence-d-Attractivite-Toulouse-copie-4.jpg",
+    "file": "cluster_aed0b1e6-a303-4208-8759-0fd56bd35c97_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:622ebe17-2eda-4c53-99b7-97dbc7cebff3",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence ornithologie sur les canards sauvages à Colomiers",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/canard-sauvage---magnific.jpg?itok=ylRuFWIw",
+    "file": "cluster_622ebe17-2eda-4c53-99b7-97dbc7cebff3_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:79dbefe8-9772-4671-9b09-56b7381978d4",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Grève mondiale des femmes : rassemblement au Jardin des plantes",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/--magnific.jpg?itok=mZo8gzPR",
+    "file": "cluster_79dbefe8-9772-4671-9b09-56b7381978d4_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:8a11da02-d03f-48ab-a4aa-929d06e8cf0d",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "SIANE Industries : 600 exposants réunis au Meet Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/--salon-siane-industries.jpg?itok=4l6FbXuZ",
+    "file": "cluster_8a11da02-d03f-48ab-a4aa-929d06e8cf0d_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:dd7bfe0c-787d-48e1-b17b-a75f92f2413c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence sur les satellites et le climat à la Maison des Chômeurs de Saouzelong",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/satellite-h-adobestock_231153380.jpg?itok=JX8YZvXO",
+    "file": "cluster_dd7bfe0c-787d-48e1-b17b-a75f92f2413c_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:6f99d655-d3ee-4798-8c5d-5b6644c75811",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Corset, spectacle jeunesse émouvant, à l'Utopia Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-CORSET.jpg",
+    "file": "cluster_6f99d655-d3ee-4798-8c5d-5b6644c75811_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f65f1f1b-f44e-49f0-a11c-8df11f9c302f",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Monde à l'Envers : programme jeune public à l'Utopia",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-MONDE-A-L-ENVERS.jpg",
+    "file": "cluster_f65f1f1b-f44e-49f0-a11c-8df11f9c302f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
