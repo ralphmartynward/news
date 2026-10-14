@@ -1,0 +1,209 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cdb5f6e5-7f64-4b7f-81b6-6ea8efd7dd77",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pas de Soucis, huis-clos tragi-comique au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PAS-DE-SOUCI-SORANO.jpg",
+    "file": "cluster_cdb5f6e5-7f64-4b7f-81b6-6ea8efd7dd77_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:07236933-c823-44eb-adb2-401955befe14",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "VioleTT Pi + Lundi Brûle au Bijou : cirque et folie mathématique",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VIOLETT.jpg",
+    "file": "cluster_07236933-c823-44eb-adb2-401955befe14_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:51bb298c-9705-437b-8732-646d364e42a9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "1, 2, 3, Poquelin au Théâtre de la Cité en octobre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/1-2-3--poquelin.jpg",
+    "file": "cluster_51bb298c-9705-437b-8732-646d364e42a9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:767bae91-ec3d-4cba-a72d-cf41efa3ea69",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Ben l'Oncle Soul en concert à la Salle Nougaro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BEN-L-ONCLE-SOUL.jpg",
+    "file": "cluster_767bae91-ec3d-4cba-a72d-cf41efa3ea69_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2a62241e-b32d-4d39-8447-03e7b7bf5aa2",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Joe Jackson Band en concert à Toulouse en octobre 2026",
+    "image_url": "https://s1.ticketm.net/dam/a/51b/1c8fde45-36ff-4fe6-a244-12280aee251b_SOURCE",
+    "file": "cluster_2a62241e-b32d-4d39-8447-03e7b7bf5aa2_event_story.jpg",
+    "img_width": 2428,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:b72002f7-4a73-4020-99ff-f4ce4a8d335a",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Sunshine Coast Guitar Orchestra en concert à l'église Saint-Jérôme",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SUNSHINE.jpg",
+    "file": "cluster_b72002f7-4a73-4020-99ff-f4ce4a8d335a_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3ec20a74-bf95-442f-a5f6-38ed01c4fcf5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "30 ans du Chœur Franco-Slave de Toulouse à la Chapelle des Carmélites",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FRANCO-SLAVE.jpg",
+    "file": "cluster_3ec20a74-bf95-442f-a5f6-38ed01c4fcf5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:90f0068f-c632-483d-bc50-0e4c1aecc187",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Sunshine Coast Guitar Orchestra en concert à l'Église Saint-Jérôme",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SUNSHINE-CONCERT.jpg",
+    "file": "cluster_90f0068f-c632-483d-bc50-0e4c1aecc187_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0f080fa0-214a-4b26-9d2a-babec9c33f2b",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Watt ! : expérience de réalité virtuelle aux Espaces EDF Bazacle",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/1273249-espace-edf-bazacle--gu-brassac--upso-toulouse.jpg?itok=HQQ00eiR",
+    "file": "cluster_0f080fa0-214a-4b26-9d2a-babec9c33f2b_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:b6e01776-31bc-4201-ae1b-89603d43be12",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Village santé dédié aux femmes place Aline Viadieu à Empalot",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/femmes--1--adobe.jpg?h=0a43b1f9&itok=hHvNBjFO",
+    "file": "cluster_b6e01776-31bc-4201-ae1b-89603d43be12_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:ce99c247-7ffb-484a-ac39-64daf32cb1e4",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Blind-test musical à la Médiathèque José Cabanis",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/front-view-woman-wearing-headphones.jpg?itok=41F79peL",
+    "file": "cluster_ce99c247-7ffb-484a-ac39-64daf32cb1e4_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:eab44e97-f60a-451b-bc4a-fbf9963b3679",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Expériences scientifiques et hydrogène à la médiathèque de Rangueil",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/science-rigolo-h---magnific.jpg?itok=7qJ0iKOh",
+    "file": "cluster_eab44e97-f60a-451b-bc4a-fbf9963b3679_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:db05e30a-1dec-4f27-9281-3312e7b1532a",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Exposition sur les mariniers du Canal au Parvis de la Gare Matabiau",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-AGE-D-OR-DES-MARINIERS.jpg",
+    "file": "cluster_db05e30a-1dec-4f27-9281-3312e7b1532a_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8eaadd77-c425-4148-90d2-f024405be490",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "XYZT, Les Paysages Abstraits : exposition immersive au Quai des Savoirs",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/xyzt.jpg",
+    "file": "cluster_8eaadd77-c425-4148-90d2-f024405be490_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f71f9073-e2e2-4ff1-86b9-36b659d96b03",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Halloween à la Forêt Magique de Toulouse : aventures en famille",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/HALLOWEEN-A-LA-FORET-MAGIQUE.jpg",
+    "file": "cluster_f71f9073-e2e2-4ff1-86b9-36b659d96b03_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:88ef21fc-d69a-4019-9fc9-9e94149ff2fd",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Guignol et ses amis au Jardin des Plantes cet automne",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/agenda-guignol-jardin-des-plantes-toulouse.jpg",
+    "file": "cluster_88ef21fc-d69a-4019-9fc9-9e94149ff2fd_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:cecb49cb-8305-4328-9800-3c53012a6d6f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Poutou de Toulouse fête ses 70 ans à la Maison des Associations",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/POUTOU.jpg",
+    "file": "cluster_cecb49cb-8305-4328-9800-3c53012a6d6f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:e65508a6-811d-4491-8f15-731ecb209bb7",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "100 ans de l'embauche de Saint-Exupéry : expo à L'Envol des Pionniers",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SAINT-EXUPERY.jpg",
+    "file": "cluster_e65508a6-811d-4491-8f15-731ecb209bb7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

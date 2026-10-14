@@ -17528,17 +17528,16 @@ UID:cluster:e02a6d76-5814-4980-a454-7698c9889217@news.lavillerose.com
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
 SUMMARY:Mecanik Paradize
-DESCRIPTION:La Halle de la Machine lance son festival Mecanik Paradize du 8
-  au 11 octobre 2026\, un événement unique mêlant concerts\, performance
- s et spectacles de machines vivantes signées François Delarozière. Le j
- eudi 8 octobre\, la soirée s'ouvre à 17h30 avec Julii Sharp\, puis Selah
-  Sue accompagnée de The Gallands\, Caravan Palace et Purple Disco Machine
- \, le tout sous le regard du Minotaure géant. Le vendredi 9 octobre\, DeL
- aurentis et Cristoph précèdent Paul Kalkbrenner\, superstar berlinoise d
- e la techno\, \n\nSource\: https://actu.fr/occitanie/toulouse_31555/machin
+DESCRIPTION:La sixième édition du Mecanik Paradize s'est tenue du 8 au 11
+  octobre à la Piste des Géants de Montaudran\, rassemblant plus de 20 00
+ 0 festivaliers venus de toute l'Occitanie. Le festival mêle concerts éle
+ ctro et performances des machines géantes de la compagnie La Machine\, da
+ ns une scénographie signée François Delarozière. Parmi les têtes d'af
+ fiche : Selah Sue\, Caravan Palace\, Purple Disco Machine\, Cristoph et Pa
+ ul Kalkbrenner\, qui a réuni à lui seul 8 000 personnes vendredi soir. L
+ e dimanche ét\n\nSource\: https://actu.fr/occitanie/toulouse_31555/machin
  es-xxl-concerts-et-tetes-d-affiche-ce-festival-unique-au-monde-met-les-bou
  chees-doubles-a-toulouse_64817070.html
-LOCATION:Halle de la Machine lance son festival Mecanik Paradize\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/machines-xxl-concerts-et-tetes
  -d-affiche-ce-festival-unique-au-monde-met-les-bouchees-doubles-a-toulouse
  _64817070.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
@@ -19355,6 +19354,24 @@ URL:https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-wilson-et
  louse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:db05e30a-1dec-4f27-9281-3312e7b1532a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261216
+SUMMARY:L'Âge d'or des Mariniers
+DESCRIPTION:Une exposition photographique consacrée à l'âge d'or des mar
+ iniers du Canal du Midi se tient au Parvis de la Gare Matabiau du 15 octob
+ re au 15 décembre 2026. Elle réunit des clichés de photographes reconnu
+ s comme Jean Dieuzaide\, André Cros\, Jean Ribière et Claude Sarrieu\, e
+ ntre autres. Les visiteurs y découvrent le quotidien des « gens de l'eau
+  » : activités de fret\, transport de voyageurs\, ports\, écluses\, qua
+ is et bateaux de la période 1950–1980. Une plongée dans un pan méconn
+ u de la vie toulou\n\nSource\: https://www.toulouse-tourisme.com/agenda/la
+ ge-dor-des-mariniers-du-canal-a-toulouse-1950-1980/
+URL:https://www.toulouse-tourisme.com/agenda/lage-dor-des-mariniers-du-cana
+ l-a-toulouse-1950-1980/?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
@@ -19606,23 +19623,41 @@ URL:https://www.toulouse-tourisme.com/agenda/festival-cite-en-jeux/?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d061480a-549c-497c-aeb7-7964fb92bb80@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:Peuples et Musiques au Cinéma
+DESCRIPTION:Le festival Peuples et Musiques au Cinéma revient à la Ciném
+ athèque de Toulouse du 16 au 18 octobre 2026\, pour sa vingt-septième é
+ dition. Au programme : 10 projections mêlant documentaires\, fictions et 
+ ciné-concerts\, suivies d'échanges avec les invités. Le festival débor
+ de des écrans avec des mini-concerts\, animations et surprises musicales 
+ tout au long du week-end. Réalisateurs\, musiciens et chercheurs — dont
+  Luc Bongrand\, Isy Morgensztern\, Manu Théron et Pascal Caumont — part
+ iciperont aux renc\n\nSource\: https://www.toulouse-tourisme.com/agenda/pe
+ uples-et-musiques-au-cinema/
+URL:https://www.toulouse-tourisme.com/agenda/peuples-et-musiques-au-cinema/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:62a440df-ab71-40af-8e0a-38176a1a8102@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261102
 SUMMARY:Lumières sur le Quai
-DESCRIPTION:Du 17 octobre au 1er novembre\, le Quai des Savoirs célèbre s
- on dixième anniversaire à travers la 12e édition du festival Lumières 
- sur le Quai. Au programme : expositions immersives\, projections de films\
- , installations artistiques et spectacles à la croisée des sciences et d
- e la créativité. Le festival invite scientifiques\, artistes et citoyens
-  à réfléchir ensemble aux façons d'imaginer le monde de demain. L'év
- énement s'étend sur plus de deux semaines et s'adresse à un large publi
- c toulousain.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~G
- DIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q36
- 0N~IVPFs1o2kitbxkMY
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
- _b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q360N~IVPFs1o2kitbxkMY?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Le Quai des Savoirs\, lieu culturel toulousain dédié à la sc
+ ience\, à la technologie et aux arts\, célèbre ses 10 ans avec une prog
+ rammation ambitieuse. Le festival Lumières sur le Quai fait son retour du
+  17 octobre au 1er novembre 2026\, proposant deux semaines de projections\
+ , spectacles\, ateliers et expositions autour du thème du futur. Une exp
+ érience immersive intitulée 'XYZT\, les paysages abstraits' est égaleme
+ nt au programme\, aux côtés de l'inauguration d'un nouvel auditorium. L'
+ ensemble de la \n\nSource\: https://www.toulouscope.fr/2026/10/13/pour-ses
+ -10-ans-ce-lieu-culturel-emblematique-prepare-un-festival-une-experience-i
+ mmersive-et-inaugure-un-nouvel-auditorium-13576100.php
+URL:https://www.toulouscope.fr/2026/10/13/pour-ses-10-ans-ce-lieu-culturel-
+ emblematique-prepare-un-festival-une-experience-immersive-et-inaugure-un-n
+ ouvel-auditorium-13576100.php?utm_source=ical&utm_medium=calendar&utm_camp
+ aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:22c607bb-18ac-4f75-9c54-090dee15f045@news.lavillerose.com
@@ -19899,6 +19934,23 @@ URL:https://www.toulouse-tourisme.com/agenda/joyeuse-jungle/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:e65508a6-811d-4491-8f15-731ecb209bb7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20270104
+SUMMARY:100 ans de l'embauche de Saint-Exupéry
+DESCRIPTION:Il y a tout juste cent ans\, le 14 octobre 1926\, Antoine de Sa
+ int-Exupéry était recruté par Didier Daurat sur le terrain d'aviation d
+ e Montaudran\, rejoignant les lignes Latécoère malgré son manque d'exp
+ érience. Pour marquer cet anniversaire\, L'Envol des Pionniers propose un
+ e exposition retraçant le lien entre ses aventures aériennes et son œuv
+ re littéraire — de Courrier sud au Petit Prince. L'exposition présente
+  notamment une édition de Vol de Nuit dédicacée par Saint-Exupéry à P
+ ierre-Georges Lat\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
+ e/2026-10-14#52877
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-14#52877?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:87e80657-6b66-4dc6-a3e6-623a4285620b@news.lavillerose.com
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
@@ -20040,6 +20092,23 @@ URL:https://www.toulouse-tourisme.com/agenda/dessine-moi-un-avion/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:3251dc87-5ff2-4c29-9085-99c775446fed@news.lavillerose.com
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Brocante des Capitouls
+DESCRIPTION:La Brocante des Capitouls investit la rue Alsace Lorraine pour 
+ une journée dédiée aux chineurs toulousains. Plus de 50 brocanteurs et 
+ antiquaires s'installent sur toute la longueur de la rue\, de Jeanne d'Arc
+  à Esquirol. Au programme : objets déco insolites\, mobilier\, livres an
+ ciens et pièces rares pour tous les budgets. Une buvette et une restaurat
+ ion sur place sont prévues pour profiter de l'événement dans la durée.
+ \n\nSource\: https://www.toulouse-tourisme.com/agenda/brocante-des-capitou
+ ls/
+LOCATION:rue Alsace Lorraine\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/brocante-des-capitouls/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:cceb4d06-a26b-4a2e-af4c-78d0ace73640@news.lavillerose.com
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261022
@@ -20054,6 +20123,27 @@ DESCRIPTION:Le Théâtre de la Violette accueille « Eau là là ! »\, un
  : https://www.toulouse-tourisme.com/agenda/eau-la-la/
 URL:https://www.toulouse-tourisme.com/agenda/eau-la-la/?utm_source=ical&utm
  _medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:97a7919d-9421-488f-8721-38b1a3842cc3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261023
+SUMMARY:Bootcamp IA STEM4ALL
+DESCRIPTION:L'association STEM4ALL\, en partenariat avec Epitech Toulouse\,
+  organise un bootcamp gratuit dédié aux jeunes filles de la 3e à la Ter
+ minale du 19 au 22 octobre 2026 sur le campus d'Epitech\, au 40 boulevard 
+ de la Marquette. Au programme : ateliers pratiques\, projets en petits gro
+ upes et rencontres avec des professionnelles de la tech. Aucun prérequis 
+ technique n'est demandé\, l'objectif étant de rendre l'IA accessible à 
+ toutes. L'événement vise aussi à aider les participantes à se projeter
+  dans les\n\nSource\: https://www.toulouscope.fr/2026/10/13/a-toulouse-un-
+ bootcamp-gratuit-veut-donner-aux-jeunes-filles-de-la-3e-a-la-terminale-les
+ -cles-pour-se-lancer-dans-lia-13585269.php
+LOCATION:campus d'Epitech\, Toulouse
+URL:https://www.toulouscope.fr/2026/10/13/a-toulouse-un-bootcamp-gratuit-ve
+ ut-donner-aux-jeunes-filles-de-la-3e-a-la-terminale-les-cles-pour-se-lance
+ r-dans-lia-13585269.php?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7d17b157-ad9f-41d9-98b7-662392e8aa73@news.lavillerose.com
@@ -21459,6 +21549,42 @@ URL:https://www.toulouse-tourisme.com/agenda/gremlins/?utm_source=ical&utm_
  medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ce9be41d-374b-46e6-8212-b43f5bd05aa4@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Balade Nocturne à Vélo Halloween
+DESCRIPTION:Le 30 octobre\, une balade à vélo déguisée sur le thème d'
+ Halloween parcourt Toulouse de nuit\, au départ de la basilique Saint-Ser
+ nin. Le circuit de 18 km\, entièrement plat (sauf la rue de Périole)\, t
+ raverse des lieux à ambiance Halloween : le quartier Matabiau\, l'ancienn
+ e école vétérinaire\, la zone verte et un tunnel vers la banlieue\, ava
+ nt de rentrer en ville par les faubourgs vers 22h30. L'événement est gra
+ tuit et sans inscription\, accessible aux enfants accompagnés d'un adulte
+ . Les participan\n\nSource\: https://www.toulouse-tourisme.com/agenda/bala
+ de-nocturne-a-velo-halloween/
+LOCATION:rue de Périole)\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/balade-nocturne-a-velo-hallowe
+ en/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d0e89e23-99c7-4f10-9423-add17767d016@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:Foire de la Colombette
+DESCRIPTION:La Foire de la Colombette revient du 30 octobre au 1er novembre
+  2026 dans le quartier La Colombette – Saint-Aubin\, transformant les ru
+ es en village festif pendant tout le week-end. Plus de 200 artisans\, cré
+ ateurs et commerçants locaux y présenteront leurs produits\, aux côtés
+  d'ateliers artistiques\, de bien-être et de médecines douces. Les famil
+ les profiteront de jeux\, maquillage et spectacles pour enfants\, tandis q
+ ue concerts\, parades\, spectacles de danse et un défilé de mode animero
+ nt les rues.\n\nSource\: https://www.toulouse-tourisme.com/agenda/foire-de
+ -la-colombette/
+LOCATION:quartier La Colombette – Saint-Aubin\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/foire-de-la-colombette/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:96db22f7-864a-4709-a8e5-88039a38df10@news.lavillerose.com
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
@@ -21681,6 +21807,21 @@ DESCRIPTION:Le 31 octobre 2026\, Toulouse propose une visite guidée spéci
  chatiments/
 URL:https://www.toulouse-tourisme.com/agenda/crimes-et-chatiments/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:004b9395-7c10-443a-aa5a-77c1718047e0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Halloween Party Ball
+DESCRIPTION:La soirée Halloween Party Ball investit le Bikini le 31 octobr
+ e pour une nuit entière dédiée à la Hard Techno\, organisée par 2nuit
+ . Le programme promet des BPM poussés à l'extrême et un sound system é
+ prouvé jusqu'à l'aube. Le line-up réunit cinq artistes : Carla Schmit\,
+  Vizionn\, Karløta\, Ilusion et Lullaby. L'événement s'adresse aux amat
+ eurs de techno dure et de soirées dansantes sans compromis.\n\nSource\: h
+ ttps://www.toulouse-tourisme.com/agenda/the-halloween-party-ball/
+URL:https://www.toulouse-tourisme.com/agenda/the-halloween-party-ball/?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dae7c373-449d-4028-b310-f791285cc323@news.lavillerose.com
@@ -21945,6 +22086,23 @@ DESCRIPTION:Le Musée des Arts Précieux Paul-Dupuy propose une exposition
  position-ivresse/
 URL:https://www.toulouse-tourisme.com/agenda/visite-exposition-ivresse/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e535d146-b426-464a-8039-2775479373b1@news.lavillerose.com
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261108
+SUMMARY:KINOPOLSKA
+DESCRIPTION:KINOPOLSKA\, festival dédié au cinéma polonais\, se tient du
+  3 au 7 novembre 2026 dans plusieurs cinémas partenaires de Toulouse : Am
+ erican Cosmograph\, Cinémathèque\, Cinéma ABC et Cinéma Utopia Bordero
+ uge. Le programme propose neuf films ancrés dans la culture polonaise\, a
+ bordant de grandes figures artistiques comme Chopin\, des faits de sociét
+ é avec La Reine du poisson fumé\, et des questionnements moraux de la je
+ unesse dans The Good Boy. Plusieurs œuvres d'Andrzej Wajda sont égalemen
+ t au programme\n\nSource\: https://www.toulouse-tourisme.com/agenda/kinopo
+ lska/
+URL:https://www.toulouse-tourisme.com/agenda/kinopolska/?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ef66e193-bcc9-48ed-891d-d0a5b82cbbf6@news.lavillerose.com
@@ -22988,20 +23146,17 @@ UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261115
 SUMMARY:Aligofest
-DESCRIPTION:L'Aligofest\, festival dédié à l'aligot-saucisse à volonté
- \, revient pour sa 2e édition les 13 et 14 novembre 2026 au Grand Marché
-  Min de Toulouse\, après avoir attiré près de 6 000 participants l'an d
- ernier. L'objectif affiché est de battre le précédent record du monde 
- établi lors de la première édition : 3\,9 tonnes d'aligot-saucisse cons
- ommées en deux jours. La billetterie ouvre le 1er juin 2026\, avec des ta
- rifs entre 35 et 40 euros par journée (gratuit pour les moins de 5 ans)\,
-  incluant place as\n\nSource\: https://actu.fr/occitanie/toulouse_31555/l-
- aligofest-bientot-de-retour-a-toulouse-la-billetterie-vient-d-ouvrir-un-no
- uveau-record-du-monde-a-la-cle_64344060.html
-URL:https://actu.fr/occitanie/toulouse_31555/l-aligofest-bientot-de-retour-
- a-toulouse-la-billetterie-vient-d-ouvrir-un-nouveau-record-du-monde-a-la-c
- le_64344060.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
- -agenda
+DESCRIPTION:L'Aligofest tient sa deuxième édition les 13 et 14 novembre 2
+ 026 au MIN (Marché d'Intérêt National) de Toulouse. Le festival célèb
+ re la convivialité toulousaine autour d'aligot-saucisse à volonté\, de 
+ buvettes\, de terrain de pétanque\, de jeux et de DJ sets assurés par de
+ s collectifs locaux. Pour l'occasion\, l'événement s'associe à nouveau 
+ au Toulouse Olympique XIII\, avec des initiations au rugby à XIII et des 
+ bandas au programme. Une fête populaire et festive qui mise sur la chaleu
+ r humaine et le\n\nSource\: https://www.toulouse-tourisme.com/agenda/lalig
+ ofest/
+URL:https://www.toulouse-tourisme.com/agenda/laligofest/?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2b16c986-70d3-4be9-a500-12168fb27785@news.lavillerose.com
@@ -23429,6 +23584,41 @@ URL:https://www.toulouscope.fr/2026/10/11/le-musee-aeroscopia-va-se-transfo
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4c9e888c-e456-41a5-ad7e-dc817185df98@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Défilé Be.Happy
+DESCRIPTION:Le défilé Be.Happy se tiendra au MEETT le 14 novembre 2026\, 
+ précédé dès 10h par le forum ToYou\, un événement dédié aux soluti
+ ons destinées aux patients atteints de cancer et à leurs aidants. Ce for
+ um propose stands\, démonstrations et conférences autour de l'accompagne
+ ment pendant et après un traitement oncologique. L'entrée au forum est g
+ ratuite\, le rendant accessible à tous les publics concernés. L'événem
+ ent s'adresse aussi bien aux patients qu'à leurs proches et aux professio
+ nnels de santé.\n\nSource\: https://www.toulouse-tourisme.com/agenda/defi
+ le-be-happy/
+URL:https://www.toulouse-tourisme.com/agenda/defile-be-happy/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cc1a9ec4-ec92-437e-8a93-2d9552b0d1c0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Sebastian Marx
+DESCRIPTION:L'humoriste américain Sebastian Marx\, connu pour son regard d
+ écalé sur la vie franco-américaine\, se produit à la Comédie de Toulo
+ use le 14 novembre 2026. Le spectacle s'inscrit dans le registre du stand-
+ up en français\, une spécialité qui a fait la réputation de Marx aupr
+ ès d'un large public hexagonal. La soirée se déroule dans cette salle t
+ oulousaine dédiée à la comédie et aux arts du spectacle vivant. Les am
+ ateurs de stand-up et d'humour bilingue sont particulièrement concernés 
+ par cet événemen\n\nSource\: https://www.ticketmaster.fr/fr/manifestatio
+ n/sebastian-marx-billet/idmanif/658427/idseance/4390606
+URL:https://www.ticketmaster.fr/fr/manifestation/sebastian-marx-billet/idma
+ nif/658427/idseance/4390606?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4@news.lavillerose.com
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -23588,6 +23778,23 @@ LOCATION:salle qui accueille régulièrement des artistes en fo\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/jeremy-lorca-billet/idmani
  f/672361/idseance/4414085?utm_source=ical&utm_medium=calendar&utm_campaign
  =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7e9f6167-2b4e-44f4-912a-1148057c76dd@news.lavillerose.com
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261123
+SUMMARY:Marionnettissimo
+DESCRIPTION:Marionnettissimo fête sa 29ᵉ édition du 17 au 22 novembre 2
+ 026\, se déployant sur plusieurs lieux à Toulouse\, Tournefeuille et en 
+ Haute-Garonne. Ce festival international de marionnette et formes animées
+ \, né en 1990\, propose une programmation variée mêlant spectacles cont
+ emporains\, performances gratuites et événements participatifs. Les « I
+ mpromptus » — véritable off du festival — offrent des performances s
+ urprises et gratuites dans des lieux insolites comme des médiathèques\, 
+ des cafés ou des esp\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /marionnettissimo/
+URL:https://www.toulouse-tourisme.com/agenda/marionnettissimo/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a948b680-c5d6-49f6-974c-3b92e2839bd9@news.lavillerose.com
@@ -24075,6 +24282,23 @@ URL:https://www.toulouse-tourisme.com/agenda/la-nuit-de-la-glisse-2026-the-
  call/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2b1bd45e-dc7d-4de7-8f6c-7721f91de229@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Festival BD de Colomiers
+DESCRIPTION:Le Festival BD de Colomiers investit plusieurs lieux de la vill
+ e du 20 au 22 novembre 2026 pour une édition anniversaire dédiée à la 
+ bande dessinée indépendante et à ses formes les plus inventives. Au pro
+ gramme : expositions\, concerts dessinés\, ateliers\, projections et renc
+ ontres avec auteurs et éditeurs. Parmi les temps forts\, une rencontre av
+ ec Chris Ware le samedi 21 novembre à 17h\, l'exposition « Double Troubl
+ e » mettant en dialogue Michael DeForge et Camille Potte\, et une grande 
+ journée par\n\nSource\: https://www.toulouse-tourisme.com/agenda/festival
+ -bd-de-colomiers/
+URL:https://www.toulouse-tourisme.com/agenda/festival-bd-de-colomiers/?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30@news.lavillerose.com
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
@@ -24521,22 +24745,19 @@ BEGIN:VEVENT
 UID:cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261228
-SUMMARY:Marché de Noël de Toulouse
-DESCRIPTION:Le nouvel organisateur du marché de Noël de Toulouse\, 2A Org
- anisation\, a dévoilé les grandes lignes de l'édition 2026\, annoncées
-  dès juillet. L'événement se tiendra du 26 novembre au 27 décembre 202
- 6 sur plusieurs sites emblématiques : place du Capitole\, cour Henri IV\,
-  square Charles-de-Gaulle et allées Jean-Jaurès. La patinoire de la plac
- e du Capitole est maintenue et même prolongée jusqu'au 3 janvier 2027 po
- ur offrir une expérience hivernale plus longue aux visiteurs. Une nouvell
- e scénographie\n\nSource\: https://actu.fr/occitanie/toulouse_31555/march
- e-de-noel-de-toulouse-scenographie-retravaillee-patinoire-le-nouvel-organi
- sateur-devoile-ce-qui-va-changer_64542177.html
-LOCATION:place du Capitole\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/marche-de-noel-de-toulouse-sce
- nographie-retravaillee-patinoire-le-nouvel-organisateur-devoile-ce-qui-va-
- changer_64542177.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
- louse-agenda
+SUMMARY:Les marchés de Noël de Toulouse ouvrent fin novembre
+DESCRIPTION:Toulouse accueille plusieurs marchés de Noël à partir du 26 
+ novembre 2026\, avec des dispositifs complémentaires répartis en différ
+ ents lieux du centre-ville. Place du Capitole\, 94 chalets blancs proposen
+ t cadeaux\, gourmandises\, patinoire et petit train\, tandis que le Square
+  Charles de Gaulle accueille une douzaine de chalets dont quatre réservé
+ s aux jeunes créateurs\, ainsi qu'une maison du Père Noël. Sur les All
+ ées Jules Guesde\, le marché de l'Économie Sociale et Solidaire « Les 
+ Allées Enchantée\n\nSource\: https://www.toulouse-tourisme.com/agenda/ma
+ rche-de-noel-les-allees-enchantees/
+LOCATION:Place du Capitole\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-les-allees-ench
+ antees/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d827e3e-c132-4642-a63d-66823a9bdeea@news.lavillerose.com
@@ -24713,6 +24934,23 @@ DESCRIPTION:La cinquième édition de « Madame va Danser » se tient le 26
  -5/
 URL:https://www.toulouse-tourisme.com/agenda/madame-va-danser-5/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7ee9f14c-c2ae-42f0-b6ba-950386fec128@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261228
+SUMMARY:Marché de Noël des Ramblas
+DESCRIPTION:Le Marché de Noël s'installe sur les Ramblas de Toulouse du 2
+ 6 novembre au 27 décembre 2026. Le site accueille 28 chalets dédiés aux
+  artisans et créateurs locaux\, ainsi que trois chalets réservés aux pr
+ oducteurs du terroir\, une buvette et deux chalets gourmands. Les visiteur
+ s pourront flâner dans l'allée des lutins et découvrir chaque semaine d
+ e nouveaux trésors faits main dans un décor festif soigné. Le programme
+  complet des festivités de Noël est disponible sur le site de la Mairie 
+ de Toulouse\n\nSource\: https://www.toulouse-tourisme.com/agenda/marche-de
+ -noel-sur-les-ramblas/
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-sur-les-ramblas
+ /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
@@ -30665,6 +30903,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/nash-billet/idmanif/614596
  -agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c006d3c8-7138-4802-8b27-08bf89a3e319@news.lavillerose.com
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:La Nuit du Printemps
+DESCRIPTION:La Nuit du Printemps est programmée au Zénith Toulouse Métro
+ pole le 18 mars 2027. L'événement est classé dans la catégorie Arts & 
+ Théâtre — Comédie\, suggérant un spectacle humoristique ou une soir
+ ée scénique festive. Les informations disponibles restent très limitée
+ s : ni artiste\, ni programme détaillé ne sont mentionnés dans la sourc
+ e. Les amateurs de spectacle vivant et de comédie à Toulouse peuvent né
+ anmoins noter la date.\n\nSource\: https://www.ticketmaster.fr/fr/manifest
+ ation/la-nuit-du-printemps-billet/idmanif/675513/idseance/4439462
+URL:https://www.ticketmaster.fr/fr/manifestation/la-nuit-du-printemps-bille
+ t/idmanif/675513/idseance/4439462?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:090ed0cf-55a1-4dca-8d94-420bd65081e7@news.lavillerose.com
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
@@ -33259,6 +33514,24 @@ URL:https://www.toulouse-tourisme.com/agenda/frank-beermann-adam-laloum/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:281d41ae-1a75-4088-b984-361bf4509fcc@news.lavillerose.com
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Clinton Fearon
+DESCRIPTION:Le chanteur et bassiste jamaïcain Clinton Fearon se produira a
+ u Bikini\, à Ramonville-Saint-Agne\, le 5 juin 2027. Figure incontournabl
+ e du reggae roots\, il est notamment connu pour son rôle au sein des Glad
+ iators dans les années 1970. Le Bikini\, salle de référence de la scèn
+ e musicale toulousaine\, accueille ce concert dans sa programmation reggae
+ . Les amateurs du genre ne voudront pas manquer cette date qui s'annonce c
+ omme un moment rare pour la région.\n\nSource\: https://www.ticketmaster.
+ fr/fr/manifestation/clinton-fearon-billet/idmanif/665769/idseance/4371873
+LOCATION:salle de référence de la scène musicale toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/clinton-fearon-billet/idma
+ nif/665769/idseance/4371873?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:3f3cf079-670d-4ccc-89fd-82e1cef701e5@news.lavillerose.com
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
@@ -33479,6 +33752,24 @@ LOCATION:salle de théâtre toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/ike-billet/idmanif/666007/
  idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
  agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cefb79df-f86b-4a3e-83df-6825b0a0c199@news.lavillerose.com
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Thomas Dutronc
+DESCRIPTION:Thomas Dutronc se produira au Casino Barrière de Toulouse le 2
+ 5 juin 2027 dans le cadre d'un concert jazz. Fils de Jacques Dutronc et Fr
+ ançoise Hardy\, Thomas Dutronc est reconnu pour son style mêlant jazz ma
+ nouche et variété française. Le Casino Barrière constitue une salle de
+  spectacle prisée pour ce type de soirée musicale intimiste. Les amateur
+ s de jazz et de chanson française toulousains sont directement concernés
+  par cette date.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ thomas-dutronc-billet/idmanif/675516/idseance/4439466
+LOCATION:salle de spectacle prisée pour\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/thomas-dutronc-billet/idma
+ nif/675516/idseance/4439466?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ee0a2384-f980-4940-a4eb-673bebf30a44@news.lavillerose.com
