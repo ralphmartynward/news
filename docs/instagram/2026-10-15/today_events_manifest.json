@@ -1,0 +1,198 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cdb5f6e5-7f64-4b7f-81b6-6ea8efd7dd77",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pas de Soucis, huis-clos tragi-comique au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PAS-DE-SOUCI-SORANO.jpg",
+    "file": "cluster_cdb5f6e5-7f64-4b7f-81b6-6ea8efd7dd77_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:51bb298c-9705-437b-8732-646d364e42a9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "1, 2, 3, Poquelin au Théâtre de la Cité en octobre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/1-2-3--poquelin.jpg",
+    "file": "cluster_51bb298c-9705-437b-8732-646d364e42a9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:767bae91-ec3d-4cba-a72d-cf41efa3ea69",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Ben l'Oncle Soul en concert à la Salle Nougaro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BEN-L-ONCLE-SOUL.jpg",
+    "file": "cluster_767bae91-ec3d-4cba-a72d-cf41efa3ea69_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:297d3508-3a84-4b10-a247-67951313ae3d",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Journées de l'architecture à Toulouse : 21 rendez-vous sur la réhabilitation",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ac50e76417470175b07c556/hd/image.jpg?v=1",
+    "file": "cluster_297d3508-3a84-4b10-a247-67951313ae3d_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:ab3fa524-5643-4ddd-a2df-3a914be5b569",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Nuit du Gesù : Cocanha & Giulio Tosti à l'Église du Gesù",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TOULOUSE-LES-ORGUES-NUIT-DU-GESU.jpg",
+    "file": "cluster_ab3fa524-5643-4ddd-a2df-3a914be5b569_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1c712fbe-0fa3-4b7c-8ebc-e6a268b4c6c6",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "\"Mariés au Premier Ringard\" à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MARIES-AU-PREMIER-RINGARD.jpg",
+    "file": "cluster_1c712fbe-0fa3-4b7c-8ebc-e6a268b4c6c6_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8f53116c-cd4d-4b73-b575-e26e481c279e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Claire Gimatt en concert au Bijou à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/claire-gimatt-2.jpg",
+    "file": "cluster_8f53116c-cd4d-4b73-b575-e26e481c279e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9ef5f597-acb7-4ba6-9743-7e5111497e40",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "« Femme non-rééducable » au Théâtre le Fil à Plomb",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/la-portee.jpg?itok=0kEegLBO",
+    "file": "cluster_9ef5f597-acb7-4ba6-9743-7e5111497e40_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:6100ef6d-0a11-4586-bcc6-acf521e45cf8",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Dîner : spectacle d'improvisation au Studio 55",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-DINER-3.jpg",
+    "file": "cluster_6100ef6d-0a11-4586-bcc6-acf521e45cf8_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:7be0aca2-83e1-4c3a-aa89-ac24b753ae19",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Fil à Fil à la Cave Poésie : occitan, français et musique mêlés",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FIL-A-FIL.jpg",
+    "file": "cluster_7be0aca2-83e1-4c3a-aa89-ac24b753ae19_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1f61097a-f6b3-41c1-a9e6-95910c8600a5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Trio d'impro sur scène à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_1f61097a-f6b3-41c1-a9e6-95910c8600a5_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:2c17ea73-637e-4e19-8618-24834c2be15b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rey Mendes en spectacle au 3T d'À Côté en octobre",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_2c17ea73-637e-4e19-8618-24834c2be15b_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:64e2e327-1ddc-46f1-9c6f-aea93d5ceacf",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Fakear en concert au Bikini de Ramonville en octobre",
+    "image_url": "https://s1.ticketm.net/dam/a/c47/c26357aa-e5a2-4183-b4a1-154d335ccc47_SOURCE",
+    "file": "cluster_64e2e327-1ddc-46f1-9c6f-aea93d5ceacf_event_story.jpg",
+    "img_width": 1600,
+    "img_height": 800
+  },
+  {
+    "cluster_id": "cluster:e5395f31-9202-4da9-8ecb-df674dcaaf03",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Eva Rami en spectacle à Saint-Orens avec « Va aimer ! »",
+    "image_url": "https://s1.ticketm.net/dam/c/49a/d253ed86-2239-40af-8106-48add357a49a_105811_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_e5395f31-9202-4da9-8ecb-df674dcaaf03_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:195c88fa-2e3a-4b31-a66b-aa14726ad8bc",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée : place Wilson et Musée des Augustins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Musee-des-Augustins----Remi-Deligeon-2-copie.jpg",
+    "file": "cluster_195c88fa-2e3a-4b31-a66b-aa14726ad8bc_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3cd46b51-a5fa-4f27-9da0-4f6b26b1e5fb",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Des avocats conseillent gratuitement les étudiants handicapés à Paul Sabatier",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2035394275.jpg?itok=sa9ct764",
+    "file": "cluster_3cd46b51-a5fa-4f27-9da0-4f6b26b1e5fb_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:62a440df-ab71-40af-8e0a-38176a1a8102",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Le Quai des Savoirs fête ses 10 ans avec festival et nouvel auditorium",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6abcb9b117edf47c0e072861/hd/image.jpg?v=1",
+    "file": "cluster_62a440df-ab71-40af-8e0a-38176a1a8102_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  }
+]

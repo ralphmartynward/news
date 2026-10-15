@@ -28,6 +28,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-les-athletes-du-super
  tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c7871a15-ab39-4377-a3ff-35ba7a6c9f4f@news.lavillerose.com
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+SUMMARY:Toulouse Social Salsa
+DESCRIPTION:Depuis mai 2025\, l'association Toulouse Social Salsa organise 
+ régulièrement des rassemblements de salsa en plein air\, gratuits et san
+ s inscription\, dans les rues de Toulouse. L'initiative est portée par Cr
+ istiano Viana\, jeune fondateur qui souhaitait rendre la salsa plus access
+ ible et rajeunir une scène jugée vieillissante. Chaque rendez-vous propo
+ se une heure d'initiation avant un temps de danse libre\, accueillant déb
+ utants comme danseurs confirmés. Le prochain rassemblement est prévu le 
+ mercre\n\nSource\: https://www.toulouscope.fr/2026/10/14/ces-rassemblement
+ s-de-salsa-en-plein-air-attirent-des-centaines-de-toulousains-13542382.php
+LOCATION:rues de Toulouse\, Toulouse
+URL:https://www.toulouscope.fr/2026/10/14/ces-rassemblements-de-salsa-en-pl
+ ein-air-attirent-des-centaines-de-toulousains-13542382.php?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -16837,6 +16856,23 @@ URL:https://www.clutchmag.fr/evenements#2026-10-01-samedi-3-octobre-0?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:b55a7c58-9208-46a2-a281-31fdfadcf789@news.lavillerose.com
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20270223
+SUMMARY:La Part des Anges – Musée des Augustins
+DESCRIPTION:Le Musée des Augustins accueille une exposition de l'artiste c
+ ontemporain Nicolas Dhervillers\, intitulée « La Part des Anges »\, du 
+ 3 octobre 2026 au 22 février 2027. Ses œuvres sont réparties dans plusi
+ eurs espaces du musée ainsi que dans le grand cloître\, créant un dialo
+ gue entre création contemporaine et peintures anciennes des collections p
+ ermanentes. L'artiste joue sur les matières\, les transformations et les 
+ évocations sensibles pour inviter le visiteur à un regard renouvelé sur
+  les images.\n\nSource\: https://www.toulouse-tourisme.com/agenda/nicolas-
+ dhervillers-la-part-des-anges/
+URL:https://www.toulouse-tourisme.com/agenda/nicolas-dhervillers-la-part-de
+ s-anges/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1d6f341e-6660-4046-9953-82af3b15debb@news.lavillerose.com
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
@@ -19142,15 +19178,15 @@ BEGIN:VEVENT
 UID:cluster:297d3508-3a84-4b10-a247-67951313ae3d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261019
-SUMMARY:Journées de l'Architecture – Toulouse
-DESCRIPTION:Du 15 au 18 octobre 2026\, Toulouse accueille la 11e édition d
- es Journées nationales de l'architecture\, avec 21 événements programm
- és dans toute la Ville rose. Le thème de cette année\, « Réhabiliter 
- : bâtir l'avenir »\, met en lumière la transformation des bâtiments ex
- istants et le réemploi des matériaux. Au programme : visites de lieux in
- édits\, expositions temporaires\, balades architecturales et fluviales\, 
- ainsi qu'une conférence du designer Jan Boelen le 15 octobre de 18h30 à 
- 20h30. Parmi les te\n\nSource\: https://www.toulouscope.fr/2026/10/11/jour
+SUMMARY:Journées de l'architecture – Toulouse
+DESCRIPTION:Du 15 au 18 octobre 2026\, les Journées nationales de l'archit
+ ecture reviennent pour leur 11e édition avec pour thème « Réhabiliter 
+ : bâtir l'avenir ». À Toulouse\, 21 événements sont programmés : vis
+ ites de lieux inédits\, expositions\, balades architecturales et une conf
+ érence du designer Jan Boelen le 15 octobre de 18h30 à 20h30. Parmi les 
+ temps forts\, une visite d'une ancienne maison éclusière réhabilitée e
+ n restaurant (88 boulevard Pierre-Semard\, près de Matabiau) et une expos
+ ition intitulée Ma\n\nSource\: https://www.toulouscope.fr/2026/10/11/jour
  nees-de-larchitecture-a-toulouse-ces-quatre-jours-de-rendez-vous-a-ne-pas-
  manquer-13587331.php
 URL:https://www.toulouscope.fr/2026/10/11/journees-de-larchitecture-a-toulo
@@ -19208,23 +19244,6 @@ DESCRIPTION:La chanteuse et pianiste Claire Gimatt se produit au Bijou\, sa
 LOCATION:salle de concerts toulousaine\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/claire-gimatt/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:9ef5f597-acb7-4ba6-9743-7e5111497e40@news.lavillerose.com
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261018
-SUMMARY:Femme non-rééducable
-DESCRIPTION:Le spectacle Femme non-rééducable retrace la vie d'Anna Polit
- kovskaïa\, journaliste russe assassinée le 7 octobre 2006\, devenue symb
- ole mondial de la liberté de la presse. La pièce adopte une forme hybrid
- e mêlant théâtre et musique live\, en évoquant son parcours des salons
-  moscovites aux ruines de Grozny. Elle sera jouée au Théâtre le Fil à 
- Plomb à Toulouse du 15 au 17 octobre 2026. Ce spectacle s'adresse à ceux
-  qui s'intéressent au journalisme\, aux droits humains et à la résistan
- ce face à l'oppr\n\nSource\: https://www.toulouse-tourisme.com/agenda/fem
- me-non-reeducable/
-URL:https://www.toulouse-tourisme.com/agenda/femme-non-reeducable/?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6100ef6d-0a11-4586-bcc6-acf521e45cf8@news.lavillerose.com
@@ -19357,16 +19376,17 @@ BEGIN:VEVENT
 UID:cluster:db05e30a-1dec-4f27-9281-3312e7b1532a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261216
-SUMMARY:L'Âge d'or des Mariniers
-DESCRIPTION:Une exposition photographique consacrée à l'âge d'or des mar
- iniers du Canal du Midi se tient au Parvis de la Gare Matabiau du 15 octob
- re au 15 décembre 2026. Elle réunit des clichés de photographes reconnu
- s comme Jean Dieuzaide\, André Cros\, Jean Ribière et Claude Sarrieu\, e
- ntre autres. Les visiteurs y découvrent le quotidien des « gens de l'eau
-  » : activités de fret\, transport de voyageurs\, ports\, écluses\, qua
- is et bateaux de la période 1950–1980. Une plongée dans un pan méconn
- u de la vie toulou\n\nSource\: https://www.toulouse-tourisme.com/agenda/la
- ge-dor-des-mariniers-du-canal-a-toulouse-1950-1980/
+SUMMARY:L'Âge d'or des mariniers
+DESCRIPTION:Les Archives municipales de Toulouse présentent une exposition
+  photographique intitulée « L'âge d'or des mariniers du Canal à Toulou
+ se (1950-1980) »\, installée sur le parvis Valéry-Giscard-d'Estaing dev
+ ant la gare Matabiau. Elle réunit des clichés de Jean Dieuzaide\, André
+  Cros\, Jean Ribière\, Claude Sarrieu et d'autres photographes pour retra
+ cer le quotidien des « gens de l'eau » : le fret\, le transport de voyag
+ eurs\, les ports Saint-Sauveur et de l'Embouchure\, les péniches en bois 
+ puis en acier. \n\nSource\: https://www.toulouse-tourisme.com/agenda/lage-
+ dor-des-mariniers-du-canal-a-toulouse-1950-1980/
+LOCATION:allée sur le parvis Valéry-Giscard-d'Estaing devant\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/lage-dor-des-mariniers-du-cana
  l-a-toulouse-1950-1980/?utm_source=ical&utm_medium=calendar&utm_campaign=t
  oulouse-agenda
@@ -19518,19 +19538,18 @@ UID:cluster:bd3107b5-61a9-43ac-b6e4-4a48cb02c3d1@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:Rétrospective Françoise Lacoste
-DESCRIPTION:Une exposition rétrospective consacrée à Françoise Lacoste 
- (1953–2025)\, artiste peintre et curatrice d'art contemporain profondém
- ent ancrée dans la scène culturelle toulousaine\, se tient à la Chapell
- e des Cordeliers du 16 au 18 octobre 2026. Pour la première fois\, son tr
- avail artistique — longtemps resté confidentiel — est réuni avec les
-  archives retraçant son parcours et ses engagements. Peintures\, œuvres 
- graphiques\, collages\, photographies\, documents et témoignages composen
- t un portrait intime\n\nSource\: https://www.toulouse-tourisme.com/agenda/
- francoise-lacoste-1953-2025-artiste-peintre-et-curatrice-dart-contemporain
- /
-URL:https://www.toulouse-tourisme.com/agenda/francoise-lacoste-1953-2025-ar
- tiste-peintre-et-curatrice-dart-contemporain/?utm_source=ical&utm_medium=c
- alendar&utm_campaign=toulouse-agenda
+DESCRIPTION:La Chapelle des Cordeliers accueille du 16 au 18 octobre une r
+ étrospective consacrée à l'artiste toulousaine Françoise Lacoste. L'ex
+ position rassemble peintures\, collages\, documents d'archives\, photograp
+ hies et témoignages. Il s'agit d'une première pour cette figure qui a la
+ rgement œuvré dans l'ombre\, en accompagnant la création contemporaine 
+ et en révélant d'autres artistes. L'événement est une occasion rare de
+  découvrir son propre travail artistique mis à l'honneur.\n\nSource\: ht
+ tps://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwx
+ dkZHjLIXbM7pB-zUy7xeVr2HQikEA0_ueglPXEIFCc5I360NDJUPFs1o2kitf2lec
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeVr2HQikEA0_ueglPXEIFCc5I360NDJUPFs1o2kitf2lec?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6ba78840-122e-4d07-962e-9219a3787c68@news.lavillerose.com
@@ -19644,16 +19663,17 @@ UID:cluster:62a440df-ab71-40af-8e0a-38176a1a8102@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261102
 SUMMARY:Lumières sur le Quai
-DESCRIPTION:Le Quai des Savoirs\, lieu culturel toulousain dédié à la sc
- ience\, à la technologie et aux arts\, célèbre ses 10 ans avec une prog
- rammation ambitieuse. Le festival Lumières sur le Quai fait son retour du
-  17 octobre au 1er novembre 2026\, proposant deux semaines de projections\
- , spectacles\, ateliers et expositions autour du thème du futur. Une exp
- érience immersive intitulée 'XYZT\, les paysages abstraits' est égaleme
- nt au programme\, aux côtés de l'inauguration d'un nouvel auditorium. L'
- ensemble de la \n\nSource\: https://www.toulouscope.fr/2026/10/13/pour-ses
- -10-ans-ce-lieu-culturel-emblematique-prepare-un-festival-une-experience-i
- mmersive-et-inaugure-un-nouvel-auditorium-13576100.php
+DESCRIPTION:Le Quai des Savoirs\, centre culturel et scientifique toulousai
+ n situé près du Jardin des Plantes\, célèbre cette année ses 10 ans d
+ 'existence. Pour l'occasion\, il programme le retour du festival Lumières
+  sur le Quai du 17 octobre au 1er novembre 2026\, axé sur les futurs poss
+ ibles et mêlant projections\, spectacles\, ateliers et expositions avec s
+ cientifiques\, auteurs de SF\, artistes et photographes. L'établissement 
+ inaugure également un nouvel auditorium et propose une expérience immers
+ ive intitulé\n\nSource\: https://www.toulouscope.fr/2026/10/13/pour-ses-1
+ 0-ans-ce-lieu-culturel-emblematique-prepare-un-festival-une-experience-imm
+ ersive-et-inaugure-un-nouvel-auditorium-13576100.php
+LOCATION:Jardin des Plantes\, Toulouse
 URL:https://www.toulouscope.fr/2026/10/13/pour-ses-10-ans-ce-lieu-culturel-
  emblematique-prepare-un-festival-une-experience-immersive-et-inaugure-un-n
  ouvel-auditorium-13576100.php?utm_source=ical&utm_medium=calendar&utm_camp
@@ -21585,6 +21605,25 @@ URL:https://www.toulouse-tourisme.com/agenda/foire-de-la-colombette/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f369187c-b4de-4aea-bc38-0b787fb24c17@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:Les Disparus de Saint-Aubin
+DESCRIPTION:Du 30 octobre au 1er novembre 2026\, le quartier Saint-Aubin se
+  transforme en terrain d'enquête pour un jeu immersif en plein air intitu
+ lé « Les Disparus de Saint-Aubin ». Des habitants fictifs disparaissent
+  mystérieusement autour de la place Saint-Aubin : noms effacés des regis
+ tres\, visages méconnaissables\, reflets désobéissants. Les participant
+ s ont 90 minutes pour résoudre l'énigme dans les rues de Toulouse avant 
+ que leur propre mémoire ne s'efface à son tour. L'expérience est access
+ ible aux g\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-dispar
+ us-de-saint-aubin/
+LOCATION:quartier Saint-Aubin se transforme en terrain d'enquête\, Toulous
+ e
+URL:https://www.toulouse-tourisme.com/agenda/les-disparus-de-saint-aubin/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:96db22f7-864a-4709-a8e5-88039a38df10@news.lavillerose.com
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
@@ -21822,6 +21861,22 @@ DESCRIPTION:La soirée Halloween Party Ball investit le Bikini le 31 octobr
  ttps://www.toulouse-tourisme.com/agenda/the-halloween-party-ball/
 URL:https://www.toulouse-tourisme.com/agenda/the-halloween-party-ball/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a0dfcb52-85ac-462e-a355-0110edf5fb23@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Holy Halloween
+DESCRIPTION:Le MEETT accueille le 31 octobre 2026 une soirée Halloween org
+ anisée dans le cadre des Holy Shit Shows. L'événement promet l'un des p
+ lus grands line-ups de l'histoire de la série\, avec la présence d'AISHA
+ \, KOLE\, NATTE VISSTICK\, NEON GRAVEYARD et VORTEK's. Des surprises non e
+ ncore révélées sont également annoncées par les organisateurs. La soi
+ rée s'adresse aux amateurs de musique électronique et de fêtes à grand
+ e échelle dans la région toulousaine.\n\nSource\: https://www.toulouse-t
+ ourisme.com/agenda/holy-halloween/
+URL:https://www.toulouse-tourisme.com/agenda/holy-halloween/?utm_source=ica
+ l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dae7c373-449d-4028-b310-f791285cc323@news.lavillerose.com
@@ -22510,6 +22565,25 @@ DESCRIPTION:L'Ensemble MusicÂme propose un concert de musique classique le
  nsemble-musicame-france/
 URL:https://www.toulouse-tourisme.com/agenda/ensemble-musicame-france/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4250afb6-0ec6-4b38-9171-a146497eb5de@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Joe Cocker by Gilles Jeffer
+DESCRIPTION:La Salle Albert Camus accueille le 6 novembre 2026 une soirée 
+ hommage à Joe Cocker portée par Gilles Jeffer et les 60 choristes du One
+  Heart Gospel de Loïc Geffray. En première partie\, le duo Brittany & Ma
+ xime (guitare-voix) proposera des reprises des années 70 et début 80. La
+  deuxième partie sera entièrement consacrée au tribute Joe Cocker\, ave
+ c des arrangements musicaux fidèlement reproduits et soutenus par le chœ
+ ur gospel. Une soirée présentée comme rare et exceptionnelle\, mêlant 
+ rock et gosp\n\nSource\: https://www.toulouse-tourisme.com/agenda/joe-cock
+ er-by-gilles-jeffer-et-one-heart-gospel-loic-geffray/
+LOCATION:Salle Albert Camus accueille le 6 novembre 2026 une\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/joe-cocker-by-gilles-jeffer-et
+ -one-heart-gospel-loic-geffray/?utm_source=ical&utm_medium=calendar&utm_ca
+ mpaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2152ac9a-db63-4bfe-8125-192a450254bc@news.lavillerose.com
@@ -29626,6 +29700,25 @@ URL:https://www.toulouse-tourisme.com/agenda/josep-pons-marie-pierre-langla
  met/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:7d2137af-1b1b-4f8a-88e8-448b217586e1@news.lavillerose.com
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:PAOLO.
+DESCRIPTION:L'artiste PAOLO. se produira au Rex de Toulouse le 25 février 
+ 2027 dans le cadre d'un concert de chanson française. La salle du Rex\, i
+ ncontournable de la scène musicale toulousaine\, accueillera cet événem
+ ent musical. Les informations détaillées sur la billetterie et le progra
+ mme restent limitées à ce stade\, la source Ticketmaster indiquant simpl
+ ement la date et le lieu. Les amateurs de chanson française de Toulouse e
+ t des alentours sont invités à surveiller les disponibilités de places.
+ \n\nSource\: https://www.ticketmaster.fr/fr/manifestation/paolo-billet/idm
+ anif/675439/idseance/4439291
+LOCATION:salle du Rex\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/paolo-billet/idmanif/67543
+ 9/idseance/4439291?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1aeef598-ae1f-4c94-acc3-5ff5d1d54bfc@news.lavillerose.com
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
@@ -33494,6 +33587,24 @@ LOCATION:salle de spectacle toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/claudia-modica-billet/idma
  nif/675269/idseance/4438047?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5bbb36d2-3317-4641-b747-15278d7ce87e@news.lavillerose.com
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Angélique Kidjo
+DESCRIPTION:La chanteuse béninoise Angélique Kidjo\, figure mondiale de l
+ a musique africaine et lauréate de plusieurs Grammy Awards\, se produira 
+ au Casino Barrière de Toulouse le 2 juin 2027. Ce concert s'inscrit dans 
+ la catégorie world music et promet une soirée riche en rythmes afrobeats
+ \, afropop et sonorités du monde. L'événement se tient dans la salle de
+  spectacle du Casino Barrière\, une adresse habituée aux artistes de ren
+ om à Toulouse. Les amateurs de musique world et les fans d'Angélique Kid
+ jo sont pa\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/angeli
+ que-kidjo-billet/idmanif/675640/idseance/4439842
+URL:https://www.ticketmaster.fr/fr/manifestation/angelique-kidjo-billet/idm
+ anif/675640/idseance/4439842?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1689c724-6ec8-4c77-939b-df72543bd83b@news.lavillerose.com
