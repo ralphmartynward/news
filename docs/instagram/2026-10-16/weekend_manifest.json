@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-10-17",
+  "sunday": "2026-10-18",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:3251dc87-5ff2-4c29-9085-99c775446fed",
+      "title": "Brocante des Capitouls rue Alsace Lorraine : 50 exposants",
+      "img_width": 3264,
+      "img_height": 2448
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:6c2728c1-8f5d-4a62-a6ad-c6871d6d20f4",
+      "title": "« Un amour d'épouvantail » à l'American Cosmograph",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:aa3bc325-d45f-4d2e-b7b4-b26ae5d8bd05",
+      "title": "Le Cygne et l'Enfant : courts-métrages coréens à l'Utopia",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:b623f485-9698-499f-b193-8265c9d915af",
+      "title": "Joyeuse Jungle : spectacle jeunesse à l'American Cosmograph",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e65508a6-811d-4491-8f15-731ecb209bb7",
+      "title": "100 ans de l'embauche de Saint-Exupéry : expo à L'Envol des Pionniers",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:87e80657-6b66-4dc6-a3e6-623a4285620b",
+      "title": "Concert de clôture de Toulouse les Orgues à la Cathédrale Saint-Étienne",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d107be12-bf02-43ed-a149-6fd02a9a826c",
+      "title": "Pierre et le Loup par Alex Vizorek à la Halle aux Grains",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:a809a8be-eb13-4d79-9b95-91394fc68221",
+      "title": "Myrath en concert au Metronum en octobre 2026",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ca6c90ee-f916-4945-8318-52826f574062",
+      "title": "Spectacle « Gustave Eiffel, en fer et contre tous » à Saint-Orens",
+      "img_width": 2048,
+      "img_height": 1152
+    }
+  ]
+}

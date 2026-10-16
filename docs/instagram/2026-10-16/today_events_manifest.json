@@ -1,0 +1,187 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:51bb298c-9705-437b-8732-646d364e42a9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "1, 2, 3, Poquelin au Théâtre de la Cité en octobre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/1-2-3--poquelin.jpg",
+    "file": "cluster_51bb298c-9705-437b-8732-646d364e42a9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:297d3508-3a84-4b10-a247-67951313ae3d",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Journées de l'architecture à Toulouse : 21 rendez-vous sur la réhabilitation",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ac50e76417470175b07c556/hd/image.jpg?v=1",
+    "file": "cluster_297d3508-3a84-4b10-a247-67951313ae3d_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "« Les vies de la photographie » s'expose au Château d'Eau",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/a.-bianchi.la-facade-du-capitole.jpg?itok=xR8iqVop",
+    "file": "cluster_d3eafb86-4598-4728-b43e-5d39a1d9d4bc_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:89f655c6-469a-49af-b306-1272ec90c512",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Concert Petite Clarté au Théâtre des Mazades",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PETITE-CLARTE.jpg",
+    "file": "cluster_89f655c6-469a-49af-b306-1272ec90c512_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3a38f25c-0523-4765-b7ae-eb710a56359e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Super Super ! » : comédie loufoque au Studio 55 de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SUPER-SUPER.jpg",
+    "file": "cluster_3a38f25c-0523-4765-b7ae-eb710a56359e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:29ec62a4-db63-476e-a100-89ce90358d7f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Karine Dubernet en spectacle à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_29ec62a4-db63-476e-a100-89ce90358d7f_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:a1ee189a-1a30-4638-b5d6-fd6a8ce26262",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Clément Lefebvre en spectacle à La Petite Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_a1ee189a-1a30-4638-b5d6-fd6a8ce26262_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:b2dea4a9-832f-446a-a0ee-ce01d48fcdcd",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Deux spectacles à découvrir à l'Aria de Cornebarrieu",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_b2dea4a9-832f-446a-a0ee-ce01d48fcdcd_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:d33b6f0e-05d3-4cbe-87cb-e0a9673ab3f6",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pluie d'Étoiles : spectacle de ballet à Saint-Orens",
+    "image_url": "https://s1.ticketm.net/dam/c/cf0/e3e32db3-adac-486f-b78d-7c8857f8bcf0_106191_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_d33b6f0e-05d3-4cbe-87cb-e0a9673ab3f6_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:2f63a7ca-7711-407a-ad99-1ec642287f2e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "DRACULA par les z'OMNI à l'Espace Roguet, entrée libre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DRACULA.jpg",
+    "file": "cluster_2f63a7ca-7711-407a-ad99-1ec642287f2e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bd3107b5-61a9-43ac-b6e4-4a48cb02c3d1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rétrospective Françoise Lacoste à la Chapelle des Cordeliers",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/francoise_lacoste_0.jpg?itok=IdK2kSor",
+    "file": "cluster_bd3107b5-61a9-43ac-b6e4-4a48cb02c3d1_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:6ba78840-122e-4d07-962e-9219a3787c68",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Sesilhas, sessions de musique occitane au COMDT",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Sesilha.jpg",
+    "file": "cluster_6ba78840-122e-4d07-962e-9219a3787c68_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:02284a93-7fe3-4d1b-816b-a8536ac5ca62",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Fête des Vendanges place du Capitole : vins et terroir du Sud-Ouest",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/376710258-315878364282417-2496885412274738684-n-copie.jpg",
+    "file": "cluster_02284a93-7fe3-4d1b-816b-a8536ac5ca62_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ae5d2fd5-885d-402b-beed-7bd95f9e8cc7",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Cité en Jeux au Hall Comminges : 600 jeux pour tous",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-CITE-EN-JEUX-COLOMIERS.jpg",
+    "file": "cluster_ae5d2fd5-885d-402b-beed-7bd95f9e8cc7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d061480a-549c-497c-aeb7-7964fb92bb80",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Peuples et Musiques au Cinéma à la Cinémathèque de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PEUPLES-ET-MUSIQUES-AU-CINEMA.jpg",
+    "file": "cluster_d061480a-549c-497c-aeb7-7964fb92bb80_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3133f80e-13a5-4393-9f29-d1a2f4b9d904",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Podcast « Le Débrief » enregistré en direct à l'Aria de Cornebarrieu",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/camille-giry.jpg?h=487999fe&itok=06y-uTD-",
+    "file": "cluster_3133f80e-13a5-4393-9f29-d1a2f4b9d904_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

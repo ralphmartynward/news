@@ -28,25 +28,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-les-athletes-du-super
  tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:c7871a15-ab39-4377-a3ff-35ba7a6c9f4f@news.lavillerose.com
-DTSTART;VALUE=DATE:20251014
-DTEND;VALUE=DATE:20251015
-SUMMARY:Toulouse Social Salsa
-DESCRIPTION:Depuis mai 2025\, l'association Toulouse Social Salsa organise 
- régulièrement des rassemblements de salsa en plein air\, gratuits et san
- s inscription\, dans les rues de Toulouse. L'initiative est portée par Cr
- istiano Viana\, jeune fondateur qui souhaitait rendre la salsa plus access
- ible et rajeunir une scène jugée vieillissante. Chaque rendez-vous propo
- se une heure d'initiation avant un temps de danse libre\, accueillant déb
- utants comme danseurs confirmés. Le prochain rassemblement est prévu le 
- mercre\n\nSource\: https://www.toulouscope.fr/2026/10/14/ces-rassemblement
- s-de-salsa-en-plein-air-attirent-des-centaines-de-toulousains-13542382.php
-LOCATION:rues de Toulouse\, Toulouse
-URL:https://www.toulouscope.fr/2026/10/14/ces-rassemblements-de-salsa-en-pl
- ein-air-attirent-des-centaines-de-toulousains-13542382.php?utm_source=ical
- &utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -16858,7 +16839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b55a7c58-9208-46a2-a281-31fdfadcf789@news.lavillerose.com
 DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20261004
 SUMMARY:La Part des Anges – Musée des Augustins
 DESCRIPTION:Le Musée des Augustins accueille une exposition de l'artiste c
  ontemporain Nicolas Dhervillers\, intitulée « La Part des Anges »\, du 
@@ -19001,26 +18982,6 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-13#52748?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:d8129494-dbb5-4cb1-a435-d2ca291b247e@news.lavillerose.com
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Mobilisation lycéenne à Toulouse : lycées fermés\, transports p
- erturbés
-DESCRIPTION:Les lycéens toulousains poursuivent leur mouvement de contesta
- tion nationale avec un « acte V » le mardi 13 octobre\, entraînant la f
- ermeture de plusieurs établissements en Haute-Garonne décidée par la pr
- éfecture. Une manifestation déclarée par la CGT et la FSU doit s'élanc
- er à 14h depuis le lycée des Arènes vers le boulevard des Récollets\, 
- empruntant un itinéraire inédit évitant le centre-ville pour des raison
- s de sécurité. Les transports en commun sont fortement perturbés : mét
- ro ligne A partie\n\nSource\: https://actu.fr/occitanie/toulouse_31555/dir
- ect-blocus-des-lyceens-le-tramway-partiellement-a-l-arret-le-point-sur-la-
- mobilisation_64909960.html
-URL:https://actu.fr/occitanie/toulouse_31555/direct-blocus-des-lyceens-le-t
- ramway-partiellement-a-l-arret-le-point-sur-la-mobilisation_64909960.html?
- utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:07236933-c823-44eb-adb2-401955befe14@news.lavillerose.com
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
@@ -19392,23 +19353,36 @@ URL:https://www.toulouse-tourisme.com/agenda/lage-dor-des-mariniers-du-cana
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:0521a1d9-408c-474a-beac-3de29f90c895@news.lavillerose.com
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Origines Contrôlées
+DESCRIPTION:Le Kazokoo accueille jeudi 15 octobre le vernissage de l'exposi
+ tion « Origines Contrôlées » de Kbira\, dans le cadre de la série Les
+  Femmes Connaissent la Chanson. La soirée associe ouverture d'exposition 
+ et DJ set\, à partir de 18h30. L'entrée est gratuite\, ce qui rend l'év
+ énement accessible à tous les curieux. Une occasion de découvrir le tra
+ vail de cette artiste dans une ambiance festive et conviviale.\n\nSource\:
+  https://www.clutchmag.fr/evenements#2026-10-15-jeudi-15-octobre-0
+URL:https://www.clutchmag.fr/evenements#2026-10-15-jeudi-15-octobre-0?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Trois siècles de photographie
-DESCRIPTION:Pour célébrer le bicentenaire de l'invention de la photograph
- ie\, une exposition inédite réunit les collections du Château d'Eau et 
- des musées Georges-Labit et Paul-Dupuy. Ce dialogue entre institutions pe
- rmet de croiser des œuvres issues de fonds habituellement séparés\, off
- rant une lecture sur trois siècles de pratique photographique. L'expositi
- on se tient au Château d'Eau du 16 octobre 2026 au 21 février 2027. L'en
- trée est fixée à 5 €\, tarif réduit à 3 €\, gratuite pour les moi
- ns de 6 ans.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GD
- IVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q360
- N~IVPFs1o2kitbykes
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj
- _b3wuwxkaHLJqab68FAzUy7xeR03XEljUA0_ueglPXEI3mg7q360N~IVPFs1o2kitbykes?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DTEND;VALUE=DATE:20270222
+SUMMARY:Les vies de la photographie
+DESCRIPTION:À l'occasion du bicentenaire de l'invention de la photographie
+ \, le Château d'Eau lance une nouvelle exposition intitulée « Les vies 
+ de la photographie »\, réunissant pour la première fois des œuvres iss
+ ues de ses propres collections ainsi que celles des musées Georges-Labit 
+ et Paul-Dupuy. Le parcours se déroule en trois séquences et retrace l'é
+ volution du médium du XIXe siècle à aujourd'hui. La commissaire Nathali
+ e Boulouch\, historienne de l'art contemporain et de la photographie\, sou
+ ligne la plu\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-10-16#53089
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-16#53089?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:89f655c6-469a-49af-b306-1272ec90c512@news.lavillerose.com
@@ -19568,24 +19542,6 @@ URL:https://www.toulouse-tourisme.com/agenda/sesilha/?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:4dd96866-37b8-4476-b71e-141e03326d61@news.lavillerose.com
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261019
-SUMMARY:Rosa Burlesque Festival
-DESCRIPTION:Le Rosa Burlesque Festival investit plusieurs lieux toulousains
-  du 16 au 18 octobre 2026\, proposant un programme mêlant spectacle cabar
- et\, ateliers d'effeuillage et drag brunch. Le point central est le specta
- cle du samedi 17 octobre à 20h30 à La Cabane (Halles de la Cartoucherie)
- \, avec des artistes internationaux\, plumes\, paillettes et humour\, pour
-  un tarif allant de 33 € à 46 € (VIP). Le vendredi\, un apéro-specta
- cle sans réservation se tient au Bar-Salon La Maison\, et le dimanche les
-  Munitionne\n\nSource\: https://www.toulouse-tourisme.com/agenda/rosa-burl
- esque-festival/
-LOCATION:Halles de la Cartoucherie)\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/rosa-burlesque-festival/?utm_s
- ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:02284a93-7fe3-4d1b-816b-a8536ac5ca62@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261018
@@ -19646,17 +19602,83 @@ UID:cluster:d061480a-549c-497c-aeb7-7964fb92bb80@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:Peuples et Musiques au Cinéma
-DESCRIPTION:Le festival Peuples et Musiques au Cinéma revient à la Ciném
- athèque de Toulouse du 16 au 18 octobre 2026\, pour sa vingt-septième é
- dition. Au programme : 10 projections mêlant documentaires\, fictions et 
- ciné-concerts\, suivies d'échanges avec les invités. Le festival débor
- de des écrans avec des mini-concerts\, animations et surprises musicales 
- tout au long du week-end. Réalisateurs\, musiciens et chercheurs — dont
-  Luc Bongrand\, Isy Morgensztern\, Manu Théron et Pascal Caumont — part
- iciperont aux renc\n\nSource\: https://www.toulouse-tourisme.com/agenda/pe
- uples-et-musiques-au-cinema/
+DESCRIPTION:La 27e édition du festival Peuples et Musiques au Cinéma se t
+ ient du 16 au 18 octobre 2026 à la Cinémathèque de Toulouse. Au program
+ me : 10 projections (documentaires\, fictions et ciné-concerts)\, des ren
+ contres avec réalisateurs\, musiciens et chercheurs\, ainsi que des mini-
+ concerts et animations musicales tout au long du week-end. Parmi les temps
+  forts\, le film Sounder avec une musique de Taj Mahal\, le documentaire s
+ ur la culture bretonne Dastum\, la maison des sources\, et Nosy Hira proje
+ té en pr\n\nSource\: https://www.toulouse-tourisme.com/agenda/peuples-et-
+ musiques-au-cinema/
 URL:https://www.toulouse-tourisme.com/agenda/peuples-et-musiques-au-cinema/
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3b704e78-29a0-4fdd-ac16-18d36dff1e44@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:SO LA LUNE
+DESCRIPTION:Le groupe SO LA LUNE se produit au Bikini\, salle de concert em
+ blématique de Toulouse\, le vendredi 16 octobre 2026. Le show est program
+ mé à partir de 19h30\, avec des places à 36 euros. C'est une soirée hi
+ p-hop à ne pas manquer pour les amateurs du genre dans la région. Les in
+ formations disponibles restent succinctes\, mais la date\, le lieu et le t
+ arif sont clairement indiqués.\n\nSource\: https://www.clutchmag.fr/evene
+ ments#2026-10-15-vendredi-16-octobre-1
+LOCATION:salle de concert emblématique de Toulouse\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-15-vendredi-16-octobre-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:67ce3334-3a51-4c48-beb0-1c4885612815@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Les Semeuses
+DESCRIPTION:Le festival féministe Les Semeuses se tient à Poucharramet (3
+ 1)\, dans le milieu rural\, avec une programmation mêlant spectacle et th
+ éâtre. L'événement débute à 16h30 et l'entrée est gratuite. Ce fest
+ ival se distingue par son ancrage en zone rurale\, hors des circuits urbai
+ ns habituels. Il s'adresse à toutes celles et ceux intéressés par les a
+ rts vivants à travers un prisme féministe\, dans un cadre accessible à 
+ tous.\n\nSource\: https://www.clutchmag.fr/evenements#2026-10-15-vendredi-
+ 16-octobre-0
+URL:https://www.clutchmag.fr/evenements#2026-10-15-vendredi-16-octobre-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e5e5e35a-f0d8-45c7-bd39-f9c6f6b65a59@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Nous avons en commun la résistance
+DESCRIPTION:Le spectacle de théâtre « Nous avons en commun la résistanc
+ e » est programmé au Théâtre du Grand Rond à Toulouse\, le vendredi 1
+ 6 octobre à 21h. Le titre évocateur suggère une pièce engagée autour 
+ des thèmes de la solidarité et de la résistance collective. Les places 
+ sont accessibles à un tarif allant de 11 à 20 euros\, ce qui en fait une
+  sortie culturelle accessible à différents budgets. L'événement s'adre
+ sse aux amateurs de théâtre contemporain et engagé toulousains.\n\nSour
+ ce\: https://www.clutchmag.fr/evenements#2026-10-15-vendredi-16-octobre-2
+LOCATION:places sont accessibles\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-15-vendredi-16-octobre-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:eb148d70-7950-4341-8f80-1fd4ef6580d1@news.lavillerose.com
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:Agenda du week-end à Toulouse : photo\, guitare\, burlesque et BD
+DESCRIPTION:Toulouse Métropole propose un week-end chargé avec une multit
+ ude de sorties pour tous les goûts. Au programme : le Salon de la Guitare
+  (17-18 octobre) avec luthiers\, concerts et démonstrations \; le Rosa Bu
+ rlesque Festival (16-18 octobre) mêlant glamour\, humour et performances 
+ engagées \; et le Festival de la BD (dimanche 18 octobre)\, gratuit\, ave
+ c expositions et ateliers en famille. S'ajoutent une visite guidée insoli
+ te « Toulouse secrète »\, un canoë-brunch avec une kayakiste olympique
+ \, ainsi que\n\nSource\: http://cdt31.tourinsoft.com/view.ashx?email=f826a
+ 3f1-3402-49d2-a377-01258190a9d1
+URL:http://cdt31.tourinsoft.com/view.ashx?email=f826a3f1-3402-49d2-a377-012
+ 58190a9d1?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:62a440df-ab71-40af-8e0a-38176a1a8102@news.lavillerose.com
@@ -19801,6 +19823,22 @@ URL:https://www.toulouse-tourisme.com/agenda/festival-sozinho/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4dd96866-37b8-4476-b71e-141e03326d61@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Rosa Burlesque Festival
+DESCRIPTION:Le Rosa Burlesque Festival investit La Cabane à Toulouse le sa
+ medi 17 octobre pour une soirée de spectacle burlesque. L'événement dé
+ bute à 20h et les places sont proposées au tarif de 32 €. Le burlesque
+  mêle humour\, danse\, effeuillage artistique et mise en scène théâtra
+ le\, un genre qui attire un public curieux et festif. L'information dispon
+ ible reste succincte\, limitée aux données pratiques essentielles.\n\nSo
+ urce\: https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-2
+LOCATION:places sont proposées au tarif de 32 €\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-2?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:f71f9073-e2e2-4ff1-86b9-36b659d96b03@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261102
@@ -19874,19 +19912,21 @@ BEGIN:VEVENT
 UID:cluster:12b09d00-d03f-4cc1-af1f-4e80c3f0a215@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
-SUMMARY:Salon International de la Guitare en Occitanie
-DESCRIPTION:Le Salon International de la Guitare en Occitanie se tient les 
- 17 et 18 octobre 2026 à La Cité\, à Toulouse. Plus d'une centaine de lu
- thiers et exposants venus de toute la France et d'Occitanie y présenteron
- t guitares acoustiques\, électriques\, amplis\, pédales et accessoires. 
- Le public pourra essayer les instruments dans des salles d'essai dédiées
- \, assister à des démonstrations sur scène et suivre en direct la fabri
- cation d'un manche de guitare avec le luthier Vincent Brun. L'entrée est 
- entièremen\n\nSource\: https://www.toulouse-tourisme.com/agenda/salon-int
- ernational-de-la-guitare-en-occitanie/
-URL:https://www.toulouse-tourisme.com/agenda/salon-international-de-la-guit
- are-en-occitanie/?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
- e-agenda
+SUMMARY:Salon International de la Guitare
+DESCRIPTION:Le Salon international de la guitare ouvre ses portes les 17 et
+  18 octobre 2026 à La Cité\, quartier Montaudran\, avec entrée entière
+ ment gratuite pour le public. Après près de 30 ans d'existence\, l'évé
+ nement rassemble plus de 100 luthiers et exposants venus de toute la Franc
+ e autour de concerts\, ateliers\, stands de lutherie\, démonstrations et 
+ expositions. Les débutants pourront s'initier à la guitare et au ukulél
+ é sans aucun prérequis lors d'ateliers programmés samedi et dimanche ap
+ rès-midi. Des \n\nSource\: https://www.toulouscope.fr/2026/10/15/un-salon
+ -international-de-la-guitare-ouvre-ses-portes-gratuitement-ce-week-end-136
+ 03181.php
+LOCATION:quartier Montaudran\, Toulouse
+URL:https://www.toulouscope.fr/2026/10/15/un-salon-international-de-la-guit
+ are-ouvre-ses-portes-gratuitement-ce-week-end-13603181.php?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:670898a2-cdc0-4daa-820b-65d44b219a27@news.lavillerose.com
@@ -19969,6 +20009,39 @@ DESCRIPTION:Il y a tout juste cent ans\, le 14 octobre 1926\, Antoine de Sa
  e/2026-10-14#52877
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-14#52877?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2aa493e5-e7a4-4926-80e5-b072bfa68ec8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Festival Sozinho
+DESCRIPTION:Le Festival Sozinho se tient au Parc des Anges à Toulouse le s
+ amedi 17 octobre\, à partir de 15h. La programmation réunit plusieurs ar
+ tistes dont Milhan Rap\, Léni et Madmaxxx pour une après-midi de concert
+ s live et d'animations. L'entrée est à participation libre\, rendant l'
+ événement accessible à tous. Une belle occasion de découvrir la scène
+  rap et musique locale toulousaine dans un cadre en plein air.\n\nSource\:
+  https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-1
+LOCATION:Parc des Anges\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-1?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6483607e-4269-4903-b5e1-c692b615e7c9@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Dans la vie de Bach
+DESCRIPTION:Le Festival International Toulouse les Orgues propose « Dans l
+ a vie de Bach »\, un concert-lecture à la Cathédrale Saint-Étienne le 
+ samedi 17 octobre à 20h. Le programme met en regard des textes évoquant 
+ des moments de la vie ordinaire de Johann Sebastian Bach — ses passions\
+ , combats\, échecs et douleurs — avec des œuvres musicales choisies en
+  résonance. L'idée est d'offrir une écoute renouvelée de ce génie de 
+ la musique occidentale\, au-delà de la seule dimension monumentale de son
+  œuvre. L'entrée\n\nSource\: https://www.clutchmag.fr/evenements#2026-10
+ -15-samedi-17-octobre-0
+URL:https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-0?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:87e80657-6b66-4dc6-a3e6-623a4285620b@news.lavillerose.com
@@ -20129,6 +20202,53 @@ URL:https://www.toulouse-tourisme.com/agenda/brocante-des-capitouls/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6c27c7ef-573b-40b1-946d-b2e36c9ddf0b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Biotopia / Elise Bonifas
+DESCRIPTION:Dimanche 18 octobre\, la Médiathèque José Cabanis accueille 
+ Biotopia\, une performance immersive portée par l'artiste Elise Bonifas\,
+  mêlant field recording et musique ambient. L'événement est gratuit et 
+ débute à 16h. Ce type de proposition artistique\, à la croisée du son 
+ et de la performance\, s'adresse aussi bien aux curieux qu'aux amateurs de
+  création sonore expérimentale. L'entrée libre en fait une sortie acces
+ sible à tous les Toulousains.\n\nSource\: https://www.clutchmag.fr/evenem
+ ents#2026-10-15-dimanche-18-octobre-0
+URL:https://www.clutchmag.fr/evenements#2026-10-15-dimanche-18-octobre-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d2296c60-cd40-480a-ab8c-9498f0b2e71d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Paranoid Void
+DESCRIPTION:Le groupe PARANOID VOID se produit au Bijou\, salle de concert 
+ toulousaine\, le dimanche 18 octobre à partir de 21h. Le spectacle est cl
+ assé dans les catégories chanson et spectacle. Les billets sont proposé
+ s entre 14\,80 et 19\,80 €. L'événement s'adresse aux amateurs de chan
+ son et de performances scéniques à Toulouse.\n\nSource\: https://www.clu
+ tchmag.fr/evenements#2026-10-15-dimanche-18-octobre-2
+LOCATION:salle de concert toulousaine\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-10-15-dimanche-18-octobre-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f7ecb635-949c-4adc-b4b9-d9cb6227cdc6@news.lavillerose.com
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Myrath
+DESCRIPTION:Le groupe de metal progressif Myrath se produit au Metronum à 
+ Toulouse le dimanche 18 octobre. Le concert débute à 20h et les billets 
+ sont proposés à 28 €. Myrath est une formation tunisienne reconnue pou
+ r son mélange de metal progressif et de sonorités orientales\, ce qui en
+  fait un événement singulier dans le paysage metal local. Les amateurs d
+ e metal international sont particulièrement concernés par cette soirée.
+ \n\nSource\: https://www.clutchmag.fr/evenements#2026-10-15-dimanche-18-oc
+ tobre-1
+URL:https://www.clutchmag.fr/evenements#2026-10-15-dimanche-18-octobre-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:cceb4d06-a26b-4a2e-af4c-78d0ace73640@news.lavillerose.com
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261022
@@ -20164,6 +20284,27 @@ URL:https://www.toulouscope.fr/2026/10/13/a-toulouse-un-bootcamp-gratuit-ve
  ut-donner-aux-jeunes-filles-de-la-3e-a-la-terminale-les-cles-pour-se-lance
  r-dans-lia-13585269.php?utm_source=ical&utm_medium=calendar&utm_campaign=t
  oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c9579bc3-76f5-472b-88ae-0309f63c085c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261021
+SUMMARY:Travaux sur la RM2 : circulation perturbée les 19 et 20 octobre
+DESCRIPTION:La Route Métropolitaine 2 — tronçon C reliant l'avenue de T
+ oulouse à la route de Revel — va faire l'objet d'un nouveau chantier le
+ s lundi 19 et mardi 20 octobre 2026\, de 9h à 16h. Il s'agit de la pose d
+ u tapis final de chaussée\, dernière phase d'un vaste chantier estimé 
+ à 35 millions d'euros porté par Toulouse Métropole. Les automobilistes 
+ en direction de Saint-Orens-de-Gameville seront déviés via la route de L
+ abège et la rue de Nouadhibou\, tandis que ceux allant vers Toulouse pass
+ eront par la r\n\nSource\: https://actu.fr/occitanie/toulouse_31555/au-coe
+ ur-d-un-quartier-en-pleine-mutation-cet-axe-majeur-aux-portes-de-toulouse-
+ va-a-nouveau-faire-l-objet-de-travaux_64926851.html
+LOCATION:avenue de Toulouse\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/au-coeur-d-un-quartier-en-plei
+ ne-mutation-cet-axe-majeur-aux-portes-de-toulouse-va-a-nouveau-faire-l-obj
+ et-de-travaux_64926851.html?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7d17b157-ad9f-41d9-98b7-662392e8aa73@news.lavillerose.com
@@ -34449,6 +34590,24 @@ LOCATION:parc de spectacles vendéen\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/mousquetaire-une-creation-
  du-puy-du-fou-billet/idmanif/644540/idtier/18864121?utm_source=ical&utm_me
  dium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0d55e1f9-9eeb-4fd5-a8bd-6b49178bba30@news.lavillerose.com
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Adèle Castillon
+DESCRIPTION:La chanteuse Adèle Castillon se produira au Zénith Toulouse M
+ étropole le 14 avril 2028. Ce concert s'inscrit dans la catégorie rock/m
+ usique et se tiendra dans l'une des plus grandes salles de spectacle de To
+ ulouse. L'événement est référencé sur Ticketmaster\, où les billets 
+ sont disponibles à la vente. Les amateurs de la chanteuse toulousaine et 
+ de pop-rock française sont directement concernés.\n\nSource\: https://ww
+ w.ticketmaster.fr/fr/manifestation/adele-castillon-billet/idmanif/675708/i
+ dseance/4440527
+LOCATION:salles de spectacle de Toulouse\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/adele-castillon-billet/idm
+ anif/675708/idseance/4440527?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8dc5531c-fdfd-410a-adfc-1b8e946e78d1@news.lavillerose.com
