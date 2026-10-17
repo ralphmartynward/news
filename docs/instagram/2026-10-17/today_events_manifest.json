@@ -1,0 +1,209 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:297d3508-3a84-4b10-a247-67951313ae3d",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Journées de l'architecture à Toulouse : 21 rendez-vous sur la réhabilitation",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ac50e76417470175b07c556/hd/image.jpg?v=1",
+    "file": "cluster_297d3508-3a84-4b10-a247-67951313ae3d_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:3a38f25c-0523-4765-b7ae-eb710a56359e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Super Super ! » : comédie loufoque au Studio 55 de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SUPER-SUPER.jpg",
+    "file": "cluster_3a38f25c-0523-4765-b7ae-eb710a56359e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bd3107b5-61a9-43ac-b6e4-4a48cb02c3d1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rétrospective Françoise Lacoste à la Chapelle des Cordeliers",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/francoise_lacoste_0.jpg?itok=IdK2kSor",
+    "file": "cluster_bd3107b5-61a9-43ac-b6e4-4a48cb02c3d1_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:02284a93-7fe3-4d1b-816b-a8536ac5ca62",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Fête des Vendanges place du Capitole : vins et terroir du Sud-Ouest",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/376710258-315878364282417-2496885412274738684-n-copie.jpg",
+    "file": "cluster_02284a93-7fe3-4d1b-816b-a8536ac5ca62_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d061480a-549c-497c-aeb7-7964fb92bb80",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Peuples et Musiques au Cinéma à la Cinémathèque de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PEUPLES-ET-MUSIQUES-AU-CINEMA.jpg",
+    "file": "cluster_d061480a-549c-497c-aeb7-7964fb92bb80_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:22c607bb-18ac-4f75-9c54-090dee15f045",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "G.R.A.I.N – Histoire de Fous au Théâtre des Mazades",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/GRAIN-HISTOIRE-DE-FOUS.jpg",
+    "file": "cluster_22c607bb-18ac-4f75-9c54-090dee15f045_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:659cb1cd-2258-4c94-83d3-b901ce793195",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Maîtres Américains à l'Opéra National du Capitole",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MAITRES-AMERICAINS.jpg",
+    "file": "cluster_659cb1cd-2258-4c94-83d3-b901ce793195_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ce7b374f-74ba-4e80-8543-52cb8d370f69",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Charlotte Boisselier en spectacle à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_ce7b374f-74ba-4e80-8543-52cb8d370f69_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:8ca4d1b6-de1e-4b81-a120-0572fb6a2a97",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite flash du Noviciat : plongez dans l'histoire de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VISITE-FLASH-DU-NOVICIAT.jpg",
+    "file": "cluster_8ca4d1b6-de1e-4b81-a120-0572fb6a2a97_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bc057f48-96fa-4f3a-86fd-be5720638641",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite exclusive de l'architecture du Centre Hospitalier Marchant",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Centre-hospitalier-Gerard-Marchant-----Remi-Deligeon---Agence-d-Attractivite-Toulouse-copie-8.jpg",
+    "file": "cluster_bc057f48-96fa-4f3a-86fd-be5720638641_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1bd05c20-5fd8-41bd-a075-643d80a89639",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Sozinho au Parc des Anges : concerts et spectacles en plein air",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-SOZINHO-MINIMES.jpg",
+    "file": "cluster_1bd05c20-5fd8-41bd-a075-643d80a89639_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:4dd96866-37b8-4476-b71e-141e03326d61",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "Rosa Burlesque Festival à La Cabane : une soirée spectacle",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ROSA-BURLESQUE-FESTIVAL.jpg",
+    "file": "cluster_4dd96866-37b8-4476-b71e-141e03326d61_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:52e5e19b-7a34-4b3c-92c4-0c4bec28effc",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Week-end en famille au Musée des Arts Précieux Paul Dupuy",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/WEEK-END-FAMILLE-PAUL-DUPUY.jpg",
+    "file": "cluster_52e5e19b-7a34-4b3c-92c4-0c4bec28effc_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:12b09d00-d03f-4cc1-af1f-4e80c3f0a215",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Le Salon International de la Guitare à La Cité Montaudran ce week-end",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ad09601c645d0f88b06e2c0/hd/image.jpg?v=2",
+    "file": "cluster_12b09d00-d03f-4cc1-af1f-4e80c3f0a215_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:670898a2-cdc0-4daa-820b-65d44b219a27",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Aeronautic Rave Museum : soirée électronique au Musée Aeroscopia",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AERONAUTIC-RAVE-MUSUEM.jpg",
+    "file": "cluster_670898a2-cdc0-4daa-820b-65d44b219a27_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6c2728c1-8f5d-4a62-a6ad-c6871d6d20f4",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Un amour d'épouvantail » à l'American Cosmograph",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/UN-AMOUR-D-EPOUVENTAIL.jpg",
+    "file": "cluster_6c2728c1-8f5d-4a62-a6ad-c6871d6d20f4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:aa3bc325-d45f-4d2e-b7b4-b26ae5d8bd05",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Le Cygne et l'Enfant : courts-métrages coréens à l'Utopia",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-CYGNE-ET-L-ENFANT.jpg",
+    "file": "cluster_aa3bc325-d45f-4d2e-b7b4-b26ae5d8bd05_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b623f485-9698-499f-b193-8265c9d915af",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Joyeuse Jungle : spectacle jeunesse à l'American Cosmograph",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JOYEUSE-JUNGLE.jpg",
+    "file": "cluster_b623f485-9698-499f-b193-8265c9d915af_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

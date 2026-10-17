@@ -19136,6 +19136,23 @@ URL:https://www.toulouse-tourisme.com/agenda/le-monde-a-lenvers/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:89e0111c-321b-4920-ad5d-cfa1d68ab05d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20270104
+SUMMARY:Napoléon – L'Épopée Immersive
+DESCRIPTION:L'exposition immersive « Napoléon – L'Épopée Immersive »
+  s'installe aux Boutiques Saint-Georges à Toulouse du 14 octobre 2026 au 
+ 3 janvier 2027. Grâce à la réalité virtuelle\, les visiteurs suivent N
+ apoléon Bonaparte et ses généraux à travers les grandes batailles de l
+ 'Empire\, victoires comme défaites. Le format immersif en VR offre une ex
+ périence inédite pour revivre l'histoire napoléonienne de manière spec
+ taculaire. L'événement s'adresse à un large public\, amateurs d'histoir
+ e comme curieux des \n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ napoleon-lepopee-immersive/
+URL:https://www.toulouse-tourisme.com/agenda/napoleon-lepopee-immersive/?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:297d3508-3a84-4b10-a247-67951313ae3d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261019
@@ -19372,17 +19389,19 @@ UID:cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20270222
 SUMMARY:Les vies de la photographie
-DESCRIPTION:À l'occasion du bicentenaire de l'invention de la photographie
- \, le Château d'Eau lance une nouvelle exposition intitulée « Les vies 
- de la photographie »\, réunissant pour la première fois des œuvres iss
- ues de ses propres collections ainsi que celles des musées Georges-Labit 
- et Paul-Dupuy. Le parcours se déroule en trois séquences et retrace l'é
- volution du médium du XIXe siècle à aujourd'hui. La commissaire Nathali
- e Boulouch\, historienne de l'art contemporain et de la photographie\, sou
- ligne la plu\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
- 6-10-16#53089
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-16#53089?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:À l'occasion du bicentenaire de la photographie en 2026\, le C
+ hâteau d'Eau de Toulouse inaugure une exposition inédite intitulée « L
+ es vies de la photographie »\, du 16 octobre 2026 au 21 février 2027. Po
+ ur la première fois\, les collections de la plus ancienne galerie publiqu
+ e de France dédiée à la photographie d'auteur sont réunies avec celles
+  du musée Georges-Labit et du musée des Arts Précieux Paul-Dupuy\, soit
+  plus de 100 œuvres couvrant du XIXe siècle à aujourd'hui. Le parcours 
+ se déploie en t\n\nSource\: https://www.toulouscope.fr/2026/10/16/200-ans
+ -de-la-photographie-ce-lieu-incontournable-de-toulouse-prepare-une-exposit
+ ion-inedite-13601903.php
+URL:https://www.toulouscope.fr/2026/10/16/200-ans-de-la-photographie-ce-lie
+ u-incontournable-de-toulouse-prepare-une-exposition-inedite-13601903.php?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:89f655c6-469a-49af-b306-1272ec90c512@news.lavillerose.com
@@ -19997,16 +20016,16 @@ BEGIN:VEVENT
 UID:cluster:e65508a6-811d-4491-8f15-731ecb209bb7@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20270104
-SUMMARY:100 ans de l'embauche de Saint-Exupéry
-DESCRIPTION:Il y a tout juste cent ans\, le 14 octobre 1926\, Antoine de Sa
- int-Exupéry était recruté par Didier Daurat sur le terrain d'aviation d
- e Montaudran\, rejoignant les lignes Latécoère malgré son manque d'exp
- érience. Pour marquer cet anniversaire\, L'Envol des Pionniers propose un
- e exposition retraçant le lien entre ses aventures aériennes et son œuv
- re littéraire — de Courrier sud au Petit Prince. L'exposition présente
-  notamment une édition de Vol de Nuit dédicacée par Saint-Exupéry à P
- ierre-Georges Lat\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
- e/2026-10-14#52877
+SUMMARY:Exposition Saint-Exupéry – L'Envol des Pionniers
+DESCRIPTION:Il y a cent ans\, le 14 octobre 1926\, Antoine de Saint-Exupér
+ y était embauché par Didier Daurat sur le terrain d'aviation de Toulouse
+ -Montaudran\, marquant le début d'une aventure qui allait nourrir toute s
+ on œuvre littéraire. Pour célébrer cet anniversaire\, le musée L'Envo
+ l des Pionniers ouvre une exposition éphémère du 17 octobre 2026 au 3 j
+ anvier 2027. Elle s'articule autour de trois moments clés : l'embauche\, 
+ l'expérience à l'Aéropostale\, et les rencontres avec des pilotes comme
+  Henri Guillaum\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-10-14#52877
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-14#52877?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -20614,6 +20633,23 @@ DESCRIPTION:Le spectacle West Comedy - La Tournée fait étape à Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/west-comedy-la-tournee-bil
  let/idmanif/672040/idseance/4412875?utm_source=ical&utm_medium=calendar&ut
  m_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:113cef67-1872-43b2-b1f8-7bc6102ac7f9@news.lavillerose.com
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261102
+SUMMARY:Sorties et animations Halloween à Toulouse : le programme
+DESCRIPTION:Toulouse Tourisme propose un programme fourni pour Halloween\, 
+ avec des événements du 22 octobre au 1er novembre. Au menu : visites noc
+ turnes des légendes sombres du vieux Toulouse\, jeux de piste à la lampe
+  torche dans des églises historiques (Gesù\, chapelle des Carmélites)\,
+  une visite du cimetière de Terre-Cabade et une exploration des collectio
+ ns du musée façon fantômes. Le week-end du 30 octobre au 1er novembre s
+ 'enrichit d'un grand week-end de la peur avec escape game\, laser game et 
+ animation\n\nSource\: http://cdt31.tourinsoft.com/view.ashx?email=361113d9
+ -6286-4770-a5cb-fce62720fe96
+URL:http://cdt31.tourinsoft.com/view.ashx?email=361113d9-6286-4770-a5cb-fce
+ 62720fe96?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b169501f-598f-4d59-a646-96c3337ddac0@news.lavillerose.com
@@ -21553,23 +21589,6 @@ LOCATION:salles de musique actuelles les plus réputées de l'agglo\, Toulo
 URL:https://www.ticketmaster.fr/fr/manifestation/wallace-cleaver-billet/idm
  anif/654657/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:113cef67-1872-43b2-b1f8-7bc6102ac7f9@news.lavillerose.com
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-SUMMARY:Grand Week-End de la Peur
-DESCRIPTION:Le restaurant Barricot et l'Hôtel Mercure Toulouse Centre Comp
- ans organisent leur Grand Week-End de la Peur du 30 octobre au 1er novembr
- e 2026\, dans une nouvelle édition intitulée « Zombie Attack Edition »
- . Au programme : escape game immersif\, laser game\, buffets à volonté e
- n décors trompe-l'œil et ateliers pour enfants le samedi et dimanche. Le
- s vendredi et samedi soirs sont réservés aux adultes avec des soirées f
- risson\, tandis que les journées du samedi et dimanche accueillent les fa
- milles pou\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-grand-w
- eek-end-de-la-peur/
-URL:https://www.toulouse-tourisme.com/agenda/le-grand-week-end-de-la-peur/?
- utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:f91a18a0-af28-4f45-b2e2-b7d03f65e736@news.lavillerose.com
@@ -22536,18 +22555,18 @@ UID:cluster:f541c549-9701-45c3-9fd5-5bbfc201b0e8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:The World of Hans Zimmer
-DESCRIPTION:Le spectacle « The World of Hans Zimmer – A New Dimension »
-  s'arrêtera au Zénith Toulouse Métropole le 5 novembre 2026. Ce concert
-  événement propose une relecture orchestrale et immersive des musiques d
- e film du compositeur Hans Zimmer\, auteur de bandes originales iconiques 
- comme Le Roi Lion\, Inception ou Interstellar. Le format « nouvelle dimen
- sion » laisse entendre une mise en scène enrichie par rapport aux éditi
- ons précédentes de la tournée\, bien que les détails techniques (visue
- l\, son spatia\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/th
- e-world-of-hans-zimmer-billet/idmanif/617518/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/the-world-of-hans-zimmer-b
- illet/idmanif/617518/idtier/18864121?utm_source=ical&utm_medium=calendar&u
- tm_campaign=toulouse-agenda
+DESCRIPTION:Le spectacle « The World of Hans Zimmer » fait étape au Zén
+ ith Toulouse Métropole le 5 novembre 2026\, avec une offre de package VIP
+  disponible sur Ticketmaster. Ce concert-événement rend hommage aux comp
+ ositions emblématiques du célèbre compositeur de musiques de films\, au
+ teur de bandes originales pour Le Roi Lion\, Inception\, Interstellar ou e
+ ncore Pirates des Caraïbes. Le package VIP propose une expérience enrich
+ ie au-delà du simple billet d'entrée\, pensée pour les fans souhaitant 
+ vivre la soir\n\nSource\: https://www.ticketmaster.fr/fr/pack/package-vip-
+ the-world-of-hans-zimmer-billet/idpack/4470
+URL:https://www.ticketmaster.fr/fr/pack/package-vip-the-world-of-hans-zimme
+ r-billet/idpack/4470?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:105d20b1-690b-4762-80d9-9b2b7f522e41@news.lavillerose.com
@@ -28305,18 +28324,18 @@ DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:LEVI.SCT
 DESCRIPTION:L'artiste LEVI.SCT se produira à la Halle aux Grains de Toulou
- se le 24 janvier 2027. Le concert est classé dans la catégorie Arts & Th
- éâtre — Opéra sur Ticketmaster\, ce qui laisse entrevoir une proposit
- ion scénique ambitieuse ou hybride. La Halle aux Grains est la grande sal
- le de concert classique et lyrique de Toulouse\, habituellement dédiée 
- à l'Orchestre National du Capitole. Les détails sur le programme\, les t
- arifs et la billetterie sont disponibles via Ticketmaster.\n\nSource\: htt
- ps://www.ticketmaster.fr/fr/manifestation/levisct-billet/idmanif/654131/id
- tier/18864121
+ se le 24 janvier 2027\, dans le cadre d'une soirée classée Arts & Théâ
+ tre / Opéra sur Ticketmaster. La Halle aux Grains est la grande salle de 
+ concert emblématique de Toulouse\, réputée pour son acoustique exceptio
+ nnelle. Les informations disponibles restent limitées : ni le programme d
+ étaillé\, ni la nature exacte du spectacle (musique classique\, opéra\,
+  performance hybride) ne sont précisés dans la source. Les amateurs de m
+ usique et de \n\nSource\: https://www.ticketmaster.fr/fr/manifestation/lev
+ isct-billet/idmanif/654131/idseance/4305007
 LOCATION:Halle aux Grains de Toulouse le 24 janvier 2027\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/levisct-billet/idmanif/654
- 131/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
- use-agenda
+ 131/idseance/4305007?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c5e6f736-c030-4b93-bfd8-0003861020ae@news.lavillerose.com
@@ -30869,6 +30888,24 @@ URL:https://www.toulouse-tourisme.com/agenda/lhors-presence/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:7e952de3-5c89-42f4-a61b-af440e72068a@news.lavillerose.com
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Michel Hubert
+DESCRIPTION:Michel Hubert se produit au Rex de Toulouse le 13 mars 2027 dan
+ s un spectacle classé Arts & Théâtre. Le Rex est une salle de spectacle
+  bien connue du centre-ville toulousain. Peu de détails supplémentaires 
+ sont disponibles dans la source\, qui se limite à la date\, le lieu et la
+  catégorie du spectacle. Les amateurs de théâtre et d'humour souhaitant
+  planifier à l'avance peuvent d'ores et déjà noter la date.\n\nSource\:
+  https://www.ticketmaster.fr/fr/manifestation/michel-hubert-billet/idmanif
+ /675796/idseance/4440855
+LOCATION:salle de spectacle bien connue du centre-ville toulousa\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/michel-hubert-billet/idman
+ if/675796/idseance/4440855?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:d008f807-be01-4156-b21b-18a152524098@news.lavillerose.com
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
@@ -31783,6 +31820,23 @@ DESCRIPTION:La comédienne Julie Conti se produit à La Petite Comédie de
 URL:https://www.ticketmaster.fr/fr/manifestation/julie-conti-billet/idmanif
  /672598/idseance/4422295?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7f1d7a16-762c-48c3-a4e5-bc5c8158be3e@news.lavillerose.com
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Harlem Globetrotters
+DESCRIPTION:Les légendaires Harlem Globetrotters s'arrêtent à Toulouse d
+ ans le cadre de leur tournée mondiale. Le spectacle\, classé dans la cat
+ égorie Arts & Théâtre — Spectacular\, mêle basket acrobatique\, humo
+ ur et show scénique. La représentation est prévue au Zénith Toulouse M
+ étropole le 28 mars 2027. L'événement s'adresse à un large public\, fa
+ milles et amateurs de sport et de divertissement confondus.\n\nSource\: ht
+ tps://www.ticketmaster.fr/fr/manifestation/harlem-globetrotters-billet/idm
+ anif/675868/idseance/4440987
+URL:https://www.ticketmaster.fr/fr/manifestation/harlem-globetrotters-bille
+ t/idmanif/675868/idseance/4440987?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:37dac74e-ad98-476a-ac0a-9a5b873a4de0@news.lavillerose.com
