@@ -13555,6 +13555,27 @@ URL:https://www.clutchmag.fr/evenements#2026-09-17-dimanche-20-septembre-1?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d72ad636-926f-4c81-930a-834a1989f326@news.lavillerose.com
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Balade vélo de 42 km au Mirail par Kamel Secraoui
+DESCRIPTION:Le designer et artiste toulousain Kamel Secraoui\, alias Chat M
+ aigre\, a organisé le 20 septembre 2026 une boucle à vélo de 42 km pour
+  faire découvrir le quartier du Mirail et les périphéries de Toulouse 
+ à une quinzaine de participants. L'initiative\, lancée à l'occasion des
+  Journées du patrimoine\, a rencontré un accueil enthousiaste\, les part
+ icipants ayant découvert des facettes méconnues de leur ville. Fort de c
+ e succès\, Secraoui ambitionne de renouveler la balade chaque premier dim
+ anche du mois\,\n\nSource\: https://actu.fr/occitanie/toulouse_31555/une-b
+ oucle-a-velo-de-42-km-au-mirail-a-toulouse-le-pari-de-kamel-secraoui-qui-s
+ ouhaite-aller-plus-loin_64934017.html
+LOCATION:quartier du Mirail\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/une-boucle-a-velo-de-42-km-au-
+ mirail-a-toulouse-le-pari-de-kamel-secraoui-qui-souhaite-aller-plus-loin_6
+ 4934017.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ab9810d4-6afe-48af-9571-31984bcd976c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20270401
@@ -19387,7 +19408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20261017
 SUMMARY:Les vies de la photographie
 DESCRIPTION:À l'occasion du bicentenaire de la photographie en 2026\, le C
  hâteau d'Eau de Toulouse inaugure une exposition inédite intitulée « L
@@ -20063,6 +20084,48 @@ URL:https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-0?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:93a7853f-c051-4125-8f73-5a863d043530@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Pillages en centre-ville de Toulouse après la manifestation du 17 
+ octobre
+DESCRIPTION:Après une manifestation massive à Toulouse le samedi 17 octob
+ re 2026\, rassemblant entre 32 000 personnes selon la préfecture et 80 00
+ 0 selon la CGT\, des scènes de violence ont éclaté en fin de journée d
+ ans l'hypercentre. Des casseurs ont affronté les forces de l'ordre à cou
+ ps de projectiles et de mortiers\, tandis que la police a fait usage de ga
+ z lacrymogènes. Plusieurs magasins ont été pillés rue d'Alsace-Lorrain
+ e et rue Saint-Rome\, notamment Bershka\, Lancaster et Courir\, dont les v
+ itrines ont \n\nSource\: https://actu.fr/occitanie/toulouse_31555/plusieur
+ s-magasins-du-centre-ville-pilles-par-des-casseurs-apres-la-manifestation-
+ du-17-octobre-a-toulouse_64939621.html
+URL:https://actu.fr/occitanie/toulouse_31555/plusieurs-magasins-du-centre-v
+ ille-pilles-par-des-casseurs-apres-la-manifestation-du-17-octobre-a-toulou
+ se_64939621.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261102
+SUMMARY:Halloween – Zoo African Safari
+DESCRIPTION:Du 17 octobre au 1er novembre 2026\, le zoo African Safari de P
+ laisance-du-Touch propose une programmation spéciale Halloween pour les f
+ amilles. Le parc sera décoré aux couleurs de la fête avec chasse aux bo
+ nbons en jeu de piste\, cabinet des mystères\, ateliers et maquillages. L
+ a nouveauté de cette édition 2026 : des visites nocturnes exceptionnelle
+ s à 18h et 18h30\, d'une durée d'environ une heure\, invitant petits et 
+ grands à découvrir les animaux autrement en mobilisant tous leurs sens. 
+ Cette exp\n\nSource\: https://www.toulouscope.fr/2026/10/17/pres-de-toulou
+ se-le-zoo-african-safari-se-transforme-pour-halloween-avec-une-nouveaute-e
+ ncore-plus-immersive-13589197.php
+LOCATION:parc sera décoré aux couleurs de la fête\, Toulouse
+URL:https://www.toulouscope.fr/2026/10/17/pres-de-toulouse-le-zoo-african-s
+ afari-se-transforme-pour-halloween-avec-une-nouveaute-encore-plus-immersiv
+ e-13589197.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:87e80657-6b66-4dc6-a3e6-623a4285620b@news.lavillerose.com
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
@@ -20550,6 +20613,27 @@ DESCRIPTION:Le festival Casas de Choro se tiendra à la MJC Pont des Demois
  o/
 URL:https://www.toulouse-tourisme.com/agenda/casas-de-choro/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:26d09eac-11f6-46b6-8cf8-00f32109d7f8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:La nouvelle tribune du complexe Georges-Rigal portera le nom de Geo
+ rges Boyer
+DESCRIPTION:Lors du Conseil municipal du 9 octobre 2026\, la mairie de Toul
+ ouse a officiellement voté pour baptiser la nouvelle tribune du complexe 
+ sportif Georges-Rigal\, dans le quartier des Izards\, du nom de Georges Bo
+ yer. Ce prêtre\, décédé en novembre 2020\, était une figure engagée 
+ des Minimes\, connu pour son demi-siècle de dévouement aux plus fragiles
+  et pour avoir rédigé la célèbre « prière du footballeur ». La trib
+ une s'inscrit dans un vaste projet de renouvellement urbain qui comprend a
+ ussi la requali\n\nSource\: https://actu.fr/occitanie/toulouse_31555/il-av
+ ait-ecrit-la-priere-du-footballeur-la-tribune-d-un-stade-de-toulouse-porte
+ ra-son-nom_64905635.html
+LOCATION:quartier des Izards\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/il-avait-ecrit-la-priere-du-fo
+ otballeur-la-tribune-d-un-stade-de-toulouse-portera-son-nom_64905635.html?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de@news.lavillerose.com
