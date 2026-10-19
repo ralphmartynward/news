@@ -12989,24 +12989,6 @@ URL:https://www.toulouse-tourisme.com/agenda/journees-du-patrimoine-a-la-ga
  campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:a7e7682e-44f7-4ca5-a934-efc07e9f6e8d@news.lavillerose.com
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-SUMMARY:Journées du Patrimoine – Office de Tourisme de Toulouse
-DESCRIPTION:À l'occasion des Journées Européennes du Patrimoine\, l'Offi
- ce de Tourisme de Toulouse propose plusieurs visites guidées thématiques
-  dans le cœur historique de la ville. Parmi les circuits : « Toulouse à
-  la Renaissance »\, qui retrace la reconstruction de la ville après l'in
- cendie de 1463 et l'essor du pastel \; « Toulouse Secrète »\, une balad
- e surprenante au programme variable selon l'humeur du guide \; et « Toulo
- use dans les Années Folles »\, consacrée à l'architecture Art déco de
- s années 1920-1940\n\nSource\: https://www.toulouse-tourisme.com/agenda/t
- oulouse-a-la-renaissance-journees-du-patrimoine/
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-a-la-renaissance-jour
- nees-du-patrimoine/?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
- use-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:65fc0a96-5226-497a-b8a9-194f74ace787@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
@@ -18861,18 +18843,18 @@ BEGIN:VEVENT
 UID:cluster:5a97a411-c6f6-4622-9f9d-be43a796248c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-SUMMARY:Le Stade Toulousain écrase Bayonne 45-34 à Ernest-Wallon
-DESCRIPTION:Le Stade Toulousain a dominé l'Aviron Bayonnais 45 à 34 ce di
- manche 11 octobre 2026 à Ernest-Wallon\, en clôture de la 6e journée de
-  Top 14. La rencontre a été marquée par un festival d'essais des deux c
- ôtés\, dans une ambiance électrique pour le 85e match consécutif à gu
- ichets fermés. Ironie du sort\, c'est Cyril Baille — dont le transfert 
- à Bayonne en fin de saison vient d'être officialisé — qui a ouvert le
-  score dès la 2e minute. Toulouse s'impose finalement avec le point de bo
- nus offensif\, malg\n\nSource\: https://actu.fr/occitanie/toulouse_31555/t
- op-14-festival-d-essais-et-victoire-bonifiee-pour-le-stade-toulousain-face
- -a-bayonne_64909640.html
-LOCATION:Stade Toulousain a dominé l'Aviron Bayonnais 45\, Toulouse
+SUMMARY:Stade Toulousain : deux victoires en Top 14 et Champions Cup
+DESCRIPTION:Le Stade Toulousain s'est imposé face à l'Aviron Bayonnais (4
+ 5-34) lors de la 6e journée de Top 14\, dans un Ernest-Wallon comble pour
+  le 85e match consécutif à guichets fermés. Le match a été marqué pa
+ r un chassé-croisé de six essais de chaque côté\, avec notamment une p
+ restation de Cyril Baille — futur Bayonnais — et un exploit personnel 
+ d'Antoine Dupont. En Champions Cup\, Toulouse a livré l'un des plus grand
+ s retournements de son histoire européenne\, s'imposant 43-40 face à Exe
+ ter malgré plus d\n\nSource\: https://actu.fr/occitanie/toulouse_31555/to
+ p-14-festival-d-essais-et-victoire-bonifiee-pour-le-stade-toulousain-face-
+ a-bayonne_64909640.html
+LOCATION:Stade Toulousain s'est imposé face\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/top-14-festival-d-essais-et-vi
  ctoire-bonifiee-pour-le-stade-toulousain-face-a-bayonne_64909640.html?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -19879,24 +19861,6 @@ URL:https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-2?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:f71f9073-e2e2-4ff1-86b9-36b659d96b03@news.lavillerose.com
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261102
-SUMMARY:Halloween à la Forêt Magique
-DESCRIPTION:Pour les vacances de la Toussaint 2026\, la Forêt Magique de T
- oulouse se transforme en univers Halloween avec quatre nouveaux jeux adapt
- és à tous les âges. Le parcours propose des énigmes\, créatures fanta
- stiques et décors sonores au cœur de la forêt\, avec des aventures spé
- cialement conçues selon les tranches d'âge : dès 8 ans\, 4-7 ans\, moin
- s de 4 ans\, et tout public. L'originalité du concept repose sur un parco
- urs forestier unique et un billet unique permettant à toute la famille de
-  rester ensemb\n\nSource\: https://www.toulouse-tourisme.com/agenda/hallow
- een-a-la-foret-magique-de-toulouse/
-URL:https://www.toulouse-tourisme.com/agenda/halloween-a-la-foret-magique-d
- e-toulouse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
- da
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:52e5e19b-7a34-4b3c-92c4-0c4bec28effc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
@@ -19930,23 +19894,6 @@ DESCRIPTION:Le spectacle de marionnettes « Guignol et ses amis » s'instal
 LOCATION:Jardin des Plantes de Toulouse du 17 octobre au 1er n\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/guignol-et-ses-amis/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:cecb49cb-8305-4328-9800-3c53012a6d6f@news.lavillerose.com
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261101
-SUMMARY:Poutou de Toulouse – 70 ans
-DESCRIPTION:Le Poutou de Toulouse\, groupe folklorique toulousain\, célèb
- re ses 70 ans d'existence avec une exposition à la Maison des Association
- s de Toulouse\, du 17 au 31 octobre 2026. L'événement invite le public 
- à découvrir l'histoire du groupe\, ses instruments\, ses costumes et ses
-  traditions. C'est une occasion rare de plonger dans le patrimoine culture
- l et festif de la région toulousaine. Cet anniversaire s'adresse aussi bi
- en aux amateurs de folklore qu'aux curieux souhaitant en apprendre davanta
- ge sur \n\nSource\: https://www.toulouse-tourisme.com/agenda/le-poutou-de-
- toulouse-fete-ses-70-ans/
-URL:https://www.toulouse-tourisme.com/agenda/le-poutou-de-toulouse-fete-ses
- -70-ans/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:12b09d00-d03f-4cc1-af1f-4e80c3f0a215@news.lavillerose.com
@@ -20082,27 +20029,6 @@ DESCRIPTION:Le Festival International Toulouse les Orgues propose « Dans l
  -15-samedi-17-octobre-0
 URL:https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-0?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:93a7853f-c051-4125-8f73-5a863d043530@news.lavillerose.com
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Pillages en centre-ville de Toulouse après la manifestation du 17 
- octobre
-DESCRIPTION:Après une manifestation massive à Toulouse le samedi 17 octob
- re 2026\, rassemblant entre 32 000 personnes selon la préfecture et 80 00
- 0 selon la CGT\, des scènes de violence ont éclaté en fin de journée d
- ans l'hypercentre. Des casseurs ont affronté les forces de l'ordre à cou
- ps de projectiles et de mortiers\, tandis que la police a fait usage de ga
- z lacrymogènes. Plusieurs magasins ont été pillés rue d'Alsace-Lorrain
- e et rue Saint-Rome\, notamment Bershka\, Lancaster et Courir\, dont les v
- itrines ont \n\nSource\: https://actu.fr/occitanie/toulouse_31555/plusieur
- s-magasins-du-centre-ville-pilles-par-des-casseurs-apres-la-manifestation-
- du-17-octobre-a-toulouse_64939621.html
-URL:https://actu.fr/occitanie/toulouse_31555/plusieurs-magasins-du-centre-v
- ille-pilles-par-des-casseurs-apres-la-manifestation-du-17-octobre-a-toulou
- se_64939621.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
- -agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
@@ -20347,6 +20273,43 @@ URL:https://www.toulouse-tourisme.com/agenda/eau-la-la/?utm_source=ical&utm
  _medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f71f9073-e2e2-4ff1-86b9-36b659d96b03@news.lavillerose.com
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261102
+SUMMARY:Forêt Magique Halloween
+DESCRIPTION:La Forêt Magique revient à Cornebarrieu (forêt de Bouconne) 
+ pour les vacances de la Toussaint\, avec quatre nouveaux parcours thémati
+ ques adaptés à différents âges : le secret d'Halloween\, l'académie d
+ es méchants\, la chasse aux monstres et la quête de la citrouille d'or. 
+ Un seul billet donne accès aux quatre aventures\, pour environ deux heure
+ s de jeu mêlant énigmes\, défis et chasse au trésor. Nouveauté cette 
+ année : des sessions nocturnes jusqu'à 21h30 tous les soirs\, offrant un
+ e ambiance netteme\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-10-19#53210
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-19#53210?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cecb49cb-8305-4328-9800-3c53012a6d6f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261101
+SUMMARY:70 ans du Poutou de Toulouse
+DESCRIPTION:Le Poutou de Toulouse célèbre 70 ans de culture occitane avec
+  une exposition gratuite à la Maison des associations\, place Guy Hersant
+ \, ouverte jusqu'au 31 octobre\, du lundi au samedi de 10h à 12h et de 15
+ h à 18h. L'exposition rassemble costumes\, instruments traditionnels et a
+ rchives illustrant l'histoire de cette association de danse et musique occ
+ itanes. Le temps fort est prévu le samedi 24 octobre avec un stage de dan
+ ses occitanes gratuit\, un vernissage\, un buffet (25 €) et un bal tradi
+ tionnel\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM
+ 7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVP
+ Fs1o2kj_93kMs
+LOCATION:place Guy Hersant\, Toulouse
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93kMs?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:97a7919d-9421-488f-8721-38b1a3842cc3@news.lavillerose.com
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261023
@@ -20370,23 +20333,41 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c9579bc3-76f5-472b-88ae-0309f63c085c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261021
-SUMMARY:Travaux sur la RM2 : circulation perturbée les 19 et 20 octobre
-DESCRIPTION:La Route Métropolitaine 2 — tronçon C reliant l'avenue de T
- oulouse à la route de Revel — va faire l'objet d'un nouveau chantier le
- s lundi 19 et mardi 20 octobre 2026\, de 9h à 16h. Il s'agit de la pose d
- u tapis final de chaussée\, dernière phase d'un vaste chantier estimé 
- à 35 millions d'euros porté par Toulouse Métropole. Les automobilistes 
- en direction de Saint-Orens-de-Gameville seront déviés via la route de L
- abège et la rue de Nouadhibou\, tandis que ceux allant vers Toulouse pass
- eront par la r\n\nSource\: https://actu.fr/occitanie/toulouse_31555/au-coe
- ur-d-un-quartier-en-pleine-mutation-cet-axe-majeur-aux-portes-de-toulouse-
- va-a-nouveau-faire-l-objet-de-travaux_64926851.html
-LOCATION:avenue de Toulouse\, Toulouse
+DTEND;VALUE=DATE:20261109
+SUMMARY:Travaux et déviations : plusieurs axes de Toulouse perturbés mi-o
+ ctobre
+DESCRIPTION:Plusieurs chantiers d'envergure vont perturber la circulation 
+ à Toulouse et ses abords dès mi-octobre 2026. Sur la Route Métropolitai
+ ne 2 (avenue de Toulouse / route de Revel)\, la pose du tapis final de cha
+ ussée entraînera des déviations les 19 et 20 octobre de 9h à 16h\, ave
+ c des itinéraires alternatifs distincts selon le sens de circulation \; p
+ iétons et cyclistes pourront toutefois continuer à emprunter le trottoir
+  nord. En parallèle\, trois chantiers liés au déploiement du réseau de
+  chaleur et \n\nSource\: https://actu.fr/occitanie/toulouse_31555/au-coeur
+ -d-un-quartier-en-pleine-mutation-cet-axe-majeur-aux-portes-de-toulouse-va
+ -a-nouveau-faire-l-objet-de-travaux_64926851.html
+LOCATION:avenue de Toulouse / route de Revel)\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/au-coeur-d-un-quartier-en-plei
  ne-mutation-cet-axe-majeur-aux-portes-de-toulouse-va-a-nouveau-faire-l-obj
  et-de-travaux_64926851.html?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:63bae990-d204-4b12-ba6f-04f291b66f0c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261121
+SUMMARY:Donnez à lire
+DESCRIPTION:L'opération «Donnez à lire»\, initiée par le Syndicat de l
+ a librairie française\, permet jusqu'au 20 novembre d'acheter un livre je
+ unesse en librairie qui sera ensuite remis au Secours populaire français 
+ pour des enfants de familles dans le besoin. Dans la métropole toulousain
+ e\, quatre librairies participent : Ellipses et Le Chameau Sauvage à Toul
+ ouse\, Les Passantes à L'Union\, et Nouvelle Page à Pibrac. Cette année
+ \, l'opération est parrainée par le journaliste Augustin Trapenard et l'
+ autrice Lola \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/20
+ 26-10-19#53209
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-19#53209?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7d17b157-ad9f-41d9-98b7-662392e8aa73@news.lavillerose.com
@@ -21107,6 +21088,25 @@ DESCRIPTION:Le Musée des Arts Précieux Paul Dupuy propose une animation i
  e-dhiver-le-tic-tac-dantide/
 URL:https://www.toulouse-tourisme.com/agenda/lheure-dhiver-le-tic-tac-danti
  de/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:06b6c041-c40c-4071-8c2f-4937e4e57d1b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:TFC vs Troyes
+DESCRIPTION:Actu Toulouse organise un jeu-concours pour faire gagner des pl
+ aces pour le match de Ligue 1 entre le Toulouse Football Club et l'Estac T
+ royes\, prévu le samedi 24 octobre 2026 à 17h15 au Stadium de Toulouse. 
+ Il s'agit de la 8e journée du championnat de Ligue 1 McDonald's. Deux pla
+ ces sont offertes par gagnant\, et les participants doivent remplir un for
+ mulaire en ligne avant le mercredi 21 octobre 2026 à 14h00. Les gagnants 
+ seront contactés par téléphone — une belle opportunité pour les supp
+ orter\n\nSource\: https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-
+ places-pour-le-match-entre-le-tfc-et-troyes-a-toulouse_64923748.html
+LOCATION:places\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-
+ match-entre-le-tfc-et-troyes-a-toulouse_64923748.html?utm_source=ical&utm_
+ medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:53477bd2-5075-4e96-8985-b03c76141dc5@news.lavillerose.com

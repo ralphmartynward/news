@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-10-18T06:31:58.617789+00:00</updated>
+  <updated>2026-10-19T06:32:23.116452+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,447 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:7518a80b-380c-4ab7-8e63-99039504f42f</id>
-    <title>Ino Casablanca en concert au Bikini de Ramonville</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>ticketmaster</name>
-    </author>
-    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
-&lt;p&gt;Le rappeur Ino Casablanca se produira au Bikini, à Ramonville-Saint-Agne, le 18 février 2027. Le concert s&amp;#x27;inscrit dans un registre hip-hop/rap. Le Bikini est l&amp;#x27;une des salles de musiques actuelles les plus emblématiques de l&amp;#x27;agglomération toulousaine. Les amateurs de rap auront donc rendez-vous dans cette salle réputée pour la qualité de sa programmation.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/ino-casablanca-billet/idmanif/675120/idseance/4437110?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.ticketmaster.fr/fr/manifestation/ino-casablanca-billet/idmanif/675120/idseance/4437110?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le rappeur Ino Casablanca se produira au Bikini, à Ramonville-Saint-Agne, le 18 février 2027. Le concert s'inscrit dans un registre hip-hop/rap. Le Bikini est l'une des salles de musiques actuelles les plus emblématiques de l'agglomération toulousaine. Les amateurs de rap auront donc rendez-vous dans cette salle réputée pour la qualité de sa programmation.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:50:41.205699+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f70bcbb8-fba8-4702-8075-5fc11176e191</id>
-    <title>Thylacine en concert électronique au Bikini de Ramonville</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>ticketmaster</name>
-    </author>
-    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/94c/7f4f49c9-03ad-4cb0-839f-cdd11a0a994c_SOURCE"/&gt;
-&lt;p&gt;Le projet électronique Thylacine se produira au Bikini, à Ramonville-Saint-Agne, le 27 janvier 2027. Cet artiste français, connu pour ses compositions ambient et dance/electronic mêlant influences cinématographiques et rythmiques, investira l&amp;#x27;une des salles de concert les plus emblématiques de l&amp;#x27;agglomération toulousaine. Le Bikini est une référence incontournable pour les musiques électroniques dans la région. Les amateurs du genre et les habitués de la salle sont particulièrement concernés par cet événement.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/660043/idseance/4437742?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.ticketmaster.fr/fr/manifestation/thylacine-billet/idmanif/660043/idseance/4437742?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le projet électronique Thylacine se produira au Bikini, à Ramonville-Saint-Agne, le 27 janvier 2027. Cet artiste français, connu pour ses compositions ambient et dance/electronic mêlant influences cinématographiques et rythmiques, investira l'une des salles de concert les plus emblématiques de l'agglomération toulousaine. Le Bikini est une référence incontournable pour les musiques électroniques dans la région. Les amateurs du genre et les habitués de la salle sont particulièrement concernés par cet événement.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:50:41.205357+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:58fed91f-e04b-4c15-8c60-48db5826ea5b</id>
-    <title>Exposition « Mémoire d'une tour » au centre culturel Bonnefoy</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/MEMOIRE-D-UNE-TOUR-RECIT-D-UN-CHANTIER.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;exposition « Mémoire d&amp;#x27;une tour » retrace l&amp;#x27;histoire de la Tour Matabiau, immeuble de 64 mètres situé à l&amp;#x27;entrée du quartier Bonnefoy, et de ses habitants à travers photographies et vidéos de Marie-Stéphane Salgas et Marilina Prigent. Portée par l&amp;#x27;association des Amis de la Tour Matabiau, elle documente le vaste chantier de rénovation mené entre 2021 et 2023, tout en interrogeant ce qui fait patrimoine : architecture, mémoire collective et liens entre résidents. La tour, conçue dans les années 1950 par l&amp;#x27;architecte Jean-Pierre Pierron, fut le premier immeuble de grande hauteur à ossature métallique de Toulouse, et a notamment accueilli des familles rapatriées d&amp;#x27;Algérie. L&amp;#x27;exposition se tient au centre culturel Bonnefoy, 4 rue du Faubourg-Bonnefoy, du 8 octobre au 19 décembre 2026.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;lessentiel développe l&amp;#x27;histoire architecturale et sociale de la tour en détail, tandis que l&amp;#x27;office du tourisme présente l&amp;#x27;événement de façon synthétique en insistant sur la démarche collective et artistique des habitants.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Histoire architecturale et humaine de la Tour Matabiau, contexte historique et biographies des artistes&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Office de Tourisme&lt;/strong&gt;: Informations pratiques (dates, lieu) et angle communautaire de l&amp;#x27;exposition&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/memoire-dune-tour-recit-dun-chantier/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/memoire-dune-tour-recit-dun-chantier/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'exposition « Mémoire d'une tour » retrace l'histoire de la Tour Matabiau, immeuble de 64 mètres situé à l'entrée du quartier Bonnefoy, et de ses habitants à travers photographies et vidéos de Marie-Stéphane Salgas et Marilina Prigent. Portée par l'association des Amis de la Tour Matabiau, elle documente le vaste chantier de rénovation mené entre 2021 et 2023, tout en interrogeant ce qui fait patrimoine : architecture, mémoire collective et liens entre résidents. La tour, conçue dans les années 1950 par l'architecte Jean-Pierre Pierron, fut le premier immeuble de grande hauteur à ossature métallique de Toulouse, et a notamment accueilli des familles rapatriées d'Algérie. L'exposition se tient au centre culturel Bonnefoy, 4 rue du Faubourg-Bonnefoy, du 8 octobre au 19 décembre 2026.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:49:57.563169+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6ed0ea91-9a99-46d0-9515-bd2b54c96d13</id>
-    <title>Cantates sans filet : Bach à l'Église Saint-Exupère</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/26232400-1981718952091474-3243727010045889611-o-copie.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Ensemble Baroque de Toulouse propose une séance de répétition ouverte au public à l&amp;#x27;Église Saint-Exupère, suivie d&amp;#x27;un concert de cantates de Bach. Le directeur artistique Michel Brun accompagne l&amp;#x27;événement d&amp;#x27;explications et d&amp;#x27;anecdotes sur l&amp;#x27;époque baroque et l&amp;#x27;œuvre du compositeur. Le public est même invité à monter au chant pour interpréter le choral final aux côtés des musiciens et choristes. L&amp;#x27;entrée est libre, sans réservation préalable, dans la limite des places disponibles.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/cantates-sans-filet-lintegrale-des-cantates-de-bach/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/cantates-sans-filet-lintegrale-des-cantates-de-bach/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Ensemble Baroque de Toulouse propose une séance de répétition ouverte au public à l'Église Saint-Exupère, suivie d'un concert de cantates de Bach. Le directeur artistique Michel Brun accompagne l'événement d'explications et d'anecdotes sur l'époque baroque et l'œuvre du compositeur. Le public est même invité à monter au chant pour interpréter le choral final aux côtés des musiciens et choristes. L'entrée est libre, sans réservation préalable, dans la limite des places disponibles.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:49:36.971248+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8ae3d766-0662-4ad5-bce8-feaaef51d47d</id>
-    <title>Soirée chorale éphémère La La La au Metronum</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/SOIREE-LA-LA-LA.jpg"/&gt;
-&lt;p&gt;La soirée « La La La » au Metronum invite le public à former le temps d&amp;#x27;une soirée une grande chorale éphémère, accompagnée de musiciens live. Le principe est simple et convivial : une soirée, une chanson apprise et chantée à trois voix. L&amp;#x27;événement s&amp;#x27;adresse à tous, sans expérience musicale requise, pour une expérience participative et collective. Il aura lieu le 12 novembre 2026 au Metronum, salle dédiée aux musiques actuelles à Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/soiree-la-la-la/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/soiree-la-la-la/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La soirée « La La La » au Metronum invite le public à former le temps d'une soirée une grande chorale éphémère, accompagnée de musiciens live. Le principe est simple et convivial : une soirée, une chanson apprise et chantée à trois voix. L'événement s'adresse à tous, sans expérience musicale requise, pour une expérience participative et collective. Il aura lieu le 12 novembre 2026 au Metronum, salle dédiée aux musiques actuelles à Toulouse.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:48:13.402470+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c1acf5a9-1502-4d96-b262-d90b03530d1a</id>
-    <title>Les Pestacles à l'UGC Montaudran : cinéma pour enfants cet automne</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/LES-PESTACLE.jpg"/&gt;
-&lt;p&gt;Les Pestacles reviennent à l&amp;#x27;UGC Toulouse Montaudran avec une programmation de films jeunesse chaque dimanche d&amp;#x27;octobre à fin novembre 2026. Au programme : des classiques et des films d&amp;#x27;animation recommandés par âge, de Kubo et l&amp;#x27;armure magique à James et la pêche géante, en passant par Coco et Le Bossu de Notre-Dame. À chaque séance, JouéClub propose des quiz sur le thème du cinéma, avec des lots de jouets et de jeux à gagner. Le premier dimanche du mois, les tout-petits dès 3 ans peuvent découvrir le cinéma via les Petits Pestacles UGC au tarif unique de 5 €.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/les-pestacles/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/les-pestacles/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les Pestacles reviennent à l'UGC Toulouse Montaudran avec une programmation de films jeunesse chaque dimanche d'octobre à fin novembre 2026. Au programme : des classiques et des films d'animation recommandés par âge, de Kubo et l'armure magique à James et la pêche géante, en passant par Coco et Le Bossu de Notre-Dame. À chaque séance, JouéClub propose des quiz sur le thème du cinéma, avec des lots de jouets et de jeux à gagner. Le premier dimanche du mois, les tout-petits dès 3 ans peuvent découvrir le cinéma via les Petits Pestacles UGC au tarif unique de 5 €.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:47:52.914546+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:568b6504-27e6-48d4-b42f-0d15b9e0cf86</id>
-    <title>La Nuit de la Glisse 2026 à l'UGC Montaudran : soirée cinéma ski</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/LA-NUIT-DE-LA-GLISSE-THE-CALL.jpg"/&gt;
-&lt;p&gt;La Nuit de la Glisse revient à Toulouse le 20 novembre 2026 à l&amp;#x27;UGC Montaudran pour sa nouvelle édition intitulée « The Call ». Cet événement annuel emblématique célèbre les sports de glisse — ski, snowboard, surf — à travers une soirée cinématographique immersive. L&amp;#x27;édition 2026 est placée sous le signe de la quête de la ligne parfaite, du geste maîtrisé et de la fusion entre le rider et les éléments naturels. L&amp;#x27;événement s&amp;#x27;adresse aux passionnés de montagne, de glisse et de films de sport extrême.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/la-nuit-de-la-glisse-2026-the-call/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/la-nuit-de-la-glisse-2026-the-call/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Nuit de la Glisse revient à Toulouse le 20 novembre 2026 à l'UGC Montaudran pour sa nouvelle édition intitulée « The Call ». Cet événement annuel emblématique célèbre les sports de glisse — ski, snowboard, surf — à travers une soirée cinématographique immersive. L'édition 2026 est placée sous le signe de la quête de la ligne parfaite, du geste maîtrisé et de la fusion entre le rider et les éléments naturels. L'événement s'adresse aux passionnés de montagne, de glisse et de films de sport extrême.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:47:32.431400+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d8530880-7e56-450d-bba0-9be48a646dca</id>
-    <title>Hilight Tribe Halloween à la Cabane – Halles de la Cartoucherie</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/HALLOWEEN-A-LA-CABANE.jpg"/&gt;
-&lt;p&gt;Pour Halloween, la Cabane des Halles de la Cartoucherie accueille une édition spéciale « Instrumental Halloween » de Hilight Tribe, figure emblématique de la trance ethnique. La soirée se déroule du 31 octobre au 1er novembre 2026 avec un lineup en quatre actes : I Roots en DJ set dub, Bandi! en electro dub, Spoink en electro impro, et Hilight Tribe en ethno trance pour clôturer la nuit. L&amp;#x27;événement mêle musiques électroniques, dub et influences world dans un lieu festif incontournable de Toulouse. Une nuit taillée pour les amateurs de sons alternatifs et de fêtes de fin octobre.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/hilight-tribe-instrumental-halloween-edition/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/hilight-tribe-instrumental-halloween-edition/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Pour Halloween, la Cabane des Halles de la Cartoucherie accueille une édition spéciale « Instrumental Halloween » de Hilight Tribe, figure emblématique de la trance ethnique. La soirée se déroule du 31 octobre au 1er novembre 2026 avec un lineup en quatre actes : I Roots en DJ set dub, Bandi! en electro dub, Spoink en electro impro, et Hilight Tribe en ethno trance pour clôturer la nuit. L'événement mêle musiques électroniques, dub et influences world dans un lieu festif incontournable de Toulouse. Une nuit taillée pour les amateurs de sons alternatifs et de fêtes de fin octobre.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:47:10.948216+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f42216b8-df8e-4296-90cd-5c999524e1db</id>
-    <title>Visite nocturne "Crimes et Châtiments" à Toulouse pour Halloween</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/CRIMES-ET-CHATIMENTS-copie.jpg"/&gt;
-&lt;p&gt;Le 31 octobre 2026, Toulouse propose une visite guidée spéciale Halloween intitulée &amp;quot;Crimes et Châtiments&amp;quot;, conçue pour découvrir la Ville Rose sous un angle sombre et frissonnant. Les amateurs de petites histoires macabres et de faits divers historiques sont particulièrement invités. Les costumes sont non seulement autorisés mais encouragés pour l&amp;#x27;occasion. La visite est déconseillée au jeune public en raison de son contenu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/crimes-et-chatiments/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/crimes-et-chatiments/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le 31 octobre 2026, Toulouse propose une visite guidée spéciale Halloween intitulée "Crimes et Châtiments", conçue pour découvrir la Ville Rose sous un angle sombre et frissonnant. Les amateurs de petites histoires macabres et de faits divers historiques sont particulièrement invités. Les costumes sont non seulement autorisés mais encouragés pour l'occasion. La visite est déconseillée au jeune public en raison de son contenu.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:46:50.460371+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:73ab55ed-4cef-4d59-8b0f-f87bc219db4e</id>
-    <title>Clutcho' Cumbia de los Muertos fête Halloween au Quai des Savoirs</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/35696229c0924759b9903648f255e8d1.base.image-copie.jpg"/&gt;
-&lt;p&gt;Le Quai des Savoirs accueille le Clutcho&amp;#x27; Cumbia de los Muertos le 30 octobre 2026, une soirée Halloween festive et créative. Au programme : DJ sets, spectacles, restauration et buvette, ainsi que des stands de créateurs et des ateliers pour toute la famille. Les participants sont invités à venir déguisés pour l&amp;#x27;occasion, dans une ambiance mêlant fête des morts et esprit Halloween. L&amp;#x27;événement s&amp;#x27;adresse aussi bien aux adultes qu&amp;#x27;aux familles avec enfants.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/clutcho-cumbia-de-los-muertos/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/clutcho-cumbia-de-los-muertos/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Quai des Savoirs accueille le Clutcho' Cumbia de los Muertos le 30 octobre 2026, une soirée Halloween festive et créative. Au programme : DJ sets, spectacles, restauration et buvette, ainsi que des stands de créateurs et des ateliers pour toute la famille. Les participants sont invités à venir déguisés pour l'occasion, dans une ambiance mêlant fête des morts et esprit Halloween. L'événement s'adresse aussi bien aux adultes qu'aux familles avec enfants.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:46:29.979440+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:780f5456-c8c7-4abf-8195-ca7532f43113</id>
-    <title>Halloween au Musée des Arts Précieux Paul Dupuy</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/3a131815-1568-44dc-90bf-e3a4d5f21170-copie.jpg"/&gt;
-&lt;p&gt;Le Musée des Arts Précieux Paul Dupuy propose une soirée Halloween le 31 octobre 2026, invitant petits et grands à explorer ses collections à la lumière de l&amp;#x27;imaginaire des fantômes et créatures inquiétantes. L&amp;#x27;événement s&amp;#x27;inscrit dans la tradition celtique d&amp;#x27;Halloween comme « fenêtre vers l&amp;#x27;autre monde », avec des œuvres illustrant les thèmes de la peur, de la disparition et de la magie. Les costumes effrayants sont les bienvenus, ce qui en fait une sortie festive et originale pour les familles. L&amp;#x27;accès est réservé aux enfants dès 7 ans, obligatoirement accompagnés d&amp;#x27;au moins un adulte par enfant ou fratrie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/precieux-halloween/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/precieux-halloween/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée des Arts Précieux Paul Dupuy propose une soirée Halloween le 31 octobre 2026, invitant petits et grands à explorer ses collections à la lumière de l'imaginaire des fantômes et créatures inquiétantes. L'événement s'inscrit dans la tradition celtique d'Halloween comme « fenêtre vers l'autre monde », avec des œuvres illustrant les thèmes de la peur, de la disparition et de la magie. Les costumes effrayants sont les bienvenus, ce qui en fait une sortie festive et originale pour les familles. L'accès est réservé aux enfants dès 7 ans, obligatoirement accompagnés d'au moins un adulte par enfant ou fratrie.</summary>
-    <category term="event"/>
-    <published>2026-10-11T11:46:09.496473+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d4537235-e973-4913-9697-84bb10c472ec</id>
-    <title>Toulouse classée ville à suivre par Oxford Economics Global Cities Index 2026</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6ac546e8728b7e3ff505a106/hd/image.png?v=1"/&gt;
-&lt;p&gt;Oxford Economics place Toulouse parmi les « villes à suivre » dans son Global Cities Index 2026, qui analyse les 1 000 plus grandes métropoles mondiales selon cinq critères : économie, capital humain, qualité de vie, environnement et gouvernance. La Ville rose est classée 136e au niveau mondial, derrière Edmonton, et se distingue avant tout par le dynamisme de son économie et ses activités à forte valeur ajoutée. Le cabinet britannique souligne le poids de l&amp;#x27;aéronautique — avec Airbus, Thales et Liebherr — mais aussi la montée en puissance des technologies de l&amp;#x27;information et des services aux entreprises. Cette distinction s&amp;#x27;ajoute à d&amp;#x27;autres reconnaissances récentes : désignée ville la plus attractive à visiter en 2025 par Lonely Planet et première ville étudiante de France, Toulouse affiche une trajectoire de croissance démographique et économique notable, avec 57 000 habitants supplémentaires attendus.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/10/10/toulouse-parmi-les-villes-du-monde-a-suivre-selon-le-prestigieux-classement-doxford-economics-13587689.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/10/10/toulouse-parmi-les-villes-du-monde-a-suivre-selon-le-prestigieux-classement-doxford-economics-13587689.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Oxford Economics place Toulouse parmi les « villes à suivre » dans son Global Cities Index 2026, qui analyse les 1 000 plus grandes métropoles mondiales selon cinq critères : économie, capital humain, qualité de vie, environnement et gouvernance. La Ville rose est classée 136e au niveau mondial, derrière Edmonton, et se distingue avant tout par le dynamisme de son économie et ses activités à forte valeur ajoutée. Le cabinet britannique souligne le poids de l'aéronautique — avec Airbus, Thales et Liebherr — mais aussi la montée en puissance des technologies de l'information et des services aux entreprises. Cette distinction s'ajoute à d'autres reconnaissances récentes : désignée ville la plus attractive à visiter en 2025 par Lonely Planet et première ville étudiante de France, Toulouse affiche une trajectoire de croissance démographique et économique notable, avec 57 000 habitants supplémentaires attendus.</summary>
-    <category term="news"/>
-    <published>2026-10-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:144e6af5-b2fa-4433-aedb-9f14279ecce0</id>
-    <title>Expo Pokémon x ESA à la Cité de l'Espace : Pikachu explore l'espace</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6ac664361d42bd1ba0034893/hd/image.jpg?v=1"/&gt;
-&lt;p&gt;Depuis le 2 octobre et jusqu&amp;#x27;au 30 avril 2027, la Cité de l&amp;#x27;Espace accueille une exposition inédite fruit d&amp;#x27;une collaboration entre The Pokémon Company International et l&amp;#x27;Agence spatiale européenne (ESA). Le parcours invite les familles à explorer l&amp;#x27;univers spatial européen — missions Juice, Euclid, Ariane 6, Vega-C, Galileo — à travers l&amp;#x27;univers de Pikachu astronaute. L&amp;#x27;exposition comprend des panneaux pédagogiques, des contenus interactifs et la possibilité de jouer à Pokémon GO sur site avec des événements exclusifs en jeu. Les horaires sont du mardi au vendredi de 10h à 17h et le week-end de 10h à 18h, avec un tarif allant de gratuit à 29 €.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Clutch présente l&amp;#x27;événement sous l&amp;#x27;angle loisir/jeu (Pokémon GO, rencontre avec Pikachu), tandis que Toulouscope développe davantage le contenu scientifique et pédagogique de l&amp;#x27;exposition (missions spatiales ESA, technologies, maquettes).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Clutch&lt;/strong&gt;: Infos pratiques, tarifs et volet Pokémon GO interactif&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Contenu scientifique détaillé et missions spatiales européennes couvertes&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/10/10/a-la-cite-de-lespace-pokemon-et-lagence-spatiale-europeenne-sassocient-pour-une-exposition-inedite-13589017.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/10/10/a-la-cite-de-lespace-pokemon-et-lagence-spatiale-europeenne-sassocient-pour-une-exposition-inedite-13589017.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Depuis le 2 octobre et jusqu'au 30 avril 2027, la Cité de l'Espace accueille une exposition inédite fruit d'une collaboration entre The Pokémon Company International et l'Agence spatiale européenne (ESA). Le parcours invite les familles à explorer l'univers spatial européen — missions Juice, Euclid, Ariane 6, Vega-C, Galileo — à travers l'univers de Pikachu astronaute. L'exposition comprend des panneaux pédagogiques, des contenus interactifs et la possibilité de jouer à Pokémon GO sur site avec des événements exclusifs en jeu. Les horaires sont du mardi au vendredi de 10h à 17h et le week-end de 10h à 18h, avec un tarif allant de gratuit à 29 €.</summary>
-    <category term="event"/>
-    <published>2026-10-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:0e6e0df2-a6d9-4914-b28c-42e17cadedf5</id>
-    <title>Critique cinéma : « Heart of the Beast » avec Brad Pitt</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/heart-of-the-beast.jpg"/&gt;
-&lt;p&gt;Le critique Robert Pénavayre livre son avis sur « Heart of the Beast », un film de survival avec Brad Pitt et son chien de guerre Odin (rebaptisé Uber à l&amp;#x27;écran). Le film explore, à travers des flashbacks, le trauma partagé d&amp;#x27;un homme et de son chien vétérans, confrontés à de nouveaux dangers dans la nature sauvage. Pénavayre salue avant tout la relation fraternelle et bouleversante entre les deux protagonistes, notant que Brad Pitt lui-même souhaitait que le chien figure en tête du générique. Il nuance son enthousiasme face à des paysages certes beaux mais répétitifs, une accumulation de périls prévisibles et un final trop annoncé dès l&amp;#x27;ouverture — tout en concluant à un divertissement d&amp;#x27;action honnête, teinté d&amp;#x27;émotion.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/heart-of-the-beast-faut-il-aller-voir-au-cinema-le-nouveau-film-avec-brad-pitt-et-son-compagnon-a-quatre-pattes_64892590.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/heart-of-the-beast-faut-il-aller-voir-au-cinema-le-nouveau-film-avec-brad-pitt-et-son-compagnon-a-quatre-pattes_64892590.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le critique Robert Pénavayre livre son avis sur « Heart of the Beast », un film de survival avec Brad Pitt et son chien de guerre Odin (rebaptisé Uber à l'écran). Le film explore, à travers des flashbacks, le trauma partagé d'un homme et de son chien vétérans, confrontés à de nouveaux dangers dans la nature sauvage. Pénavayre salue avant tout la relation fraternelle et bouleversante entre les deux protagonistes, notant que Brad Pitt lui-même souhaitait que le chien figure en tête du générique. Il nuance son enthousiasme face à des paysages certes beaux mais répétitifs, une accumulation de périls prévisibles et un final trop annoncé dès l'ouverture — tout en concluant à un divertissement d'action honnête, teinté d'émotion.</summary>
-    <category term="culture"/>
-    <published>2026-10-10T17:52:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a2ec47af-a796-4bd3-92da-54b4f44163b4</id>
-    <title>Airbus livre 547 appareils en 2026 malgré des incidents sur l'A330</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/a330-900-air-cote-divoire-msn2086-first-flight-ai-pho-0096-a330-900-air-cote-divoire-msn2086-first-flight-05.jpg"/&gt;
-&lt;p&gt;Airbus, dont le siège est basé à Toulouse, affiche une hausse de ses livraisons malgré des perturbations sur sa gamme A330. En septembre 2026, 72 avions ont été livrés à 37 clients, portant le total annuel à 547 appareils. L&amp;#x27;avionneur vise un record de 870 livraisons pour l&amp;#x27;année, dépassant son meilleur résultat d&amp;#x27;avant-pandémie (863 en 2019). Les difficultés sur l&amp;#x27;A330 sont liées à la découverte d&amp;#x27;un outil oublié dans un appareil et à un problème de qualité sur le plan horizontal de la queue, sans incidence sur la sûreté selon le groupe.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-geant-airbus-enregistre-une-hausse-de-ses-livraisons-malgre-des-perturbations-sur-les-a330_64906498.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/le-geant-airbus-enregistre-une-hausse-de-ses-livraisons-malgre-des-perturbations-sur-les-a330_64906498.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Airbus, dont le siège est basé à Toulouse, affiche une hausse de ses livraisons malgré des perturbations sur sa gamme A330. En septembre 2026, 72 avions ont été livrés à 37 clients, portant le total annuel à 547 appareils. L'avionneur vise un record de 870 livraisons pour l'année, dépassant son meilleur résultat d'avant-pandémie (863 en 2019). Les difficultés sur l'A330 sont liées à la découverte d'un outil oublié dans un appareil et à un problème de qualité sur le plan horizontal de la queue, sans incidence sur la sûreté selon le groupe.</summary>
-    <category term="news"/>
-    <published>2026-10-10T17:47:16+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:fb4e9d25-4d36-4134-b8f5-98c342138584</id>
-    <title>Oli de Bigflo &amp; Oli se confie avant les concerts au Zénith</title>
-    <updated>2026-10-11T11:50:57.483441+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/boby-boby-boby-l3790790b.jpg"/&gt;
-&lt;p&gt;À quelques mois des concerts de Bigflo &amp;amp; Oli au Zénith de Toulouse les 14 et 15 novembre 2026, Oli se livre dans une interview sur le passé, le présent et l&amp;#x27;avenir du duo. Il revient sur la dernière édition du Rose Festival, qu&amp;#x27;il juge très réussie, tout en soulignant la volonté des frères de continuer à l&amp;#x27;améliorer pour en faire l&amp;#x27;un des plus beaux festivals français. L&amp;#x27;article évoque également les projets parallèles des deux frères : une nouvelle boutique Takara à Labège pour Bigflo et une exposition à Paris pour Oli. Oli y parle aussi de l&amp;#x27;attachement particulier qu&amp;#x27;il ressent pour Toulouse, une ville qu&amp;#x27;il décrit comme ayant une ambiance unique, dans la lignée d&amp;#x27;artistes comme Nougaro ou Zebda.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/quand-on-est-toulousain-tout-le-reste-passe-ensuite-a-l-approche-des-concerts-du-zenith-de-toulouse-oli-se-confie_64789264.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/quand-on-est-toulousain-tout-le-reste-passe-ensuite-a-l-approche-des-concerts-du-zenith-de-toulouse-oli-se-confie_64789264.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>À quelques mois des concerts de Bigflo &amp; Oli au Zénith de Toulouse les 14 et 15 novembre 2026, Oli se livre dans une interview sur le passé, le présent et l'avenir du duo. Il revient sur la dernière édition du Rose Festival, qu'il juge très réussie, tout en soulignant la volonté des frères de continuer à l'améliorer pour en faire l'un des plus beaux festivals français. L'article évoque également les projets parallèles des deux frères : une nouvelle boutique Takara à Labège pour Bigflo et une exposition à Paris pour Oli. Oli y parle aussi de l'attachement particulier qu'il ressent pour Toulouse, une ville qu'il décrit comme ayant une ambiance unique, dans la lignée d'artistes comme Nougaro ou Zebda.</summary>
-    <category term="culture"/>
-    <published>2026-10-11T12:02:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:37e15d30-e76e-468a-8734-8edd53171ab2</id>
-    <title>HYL, le rappeur toulousain présente « La vie en jaune » au Flashback</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/hyl-lavieenjaune_0642--c-mdhml-colo-.jpg?h=b8f9e260&amp;amp;itok=o3h8Wzup"/&gt;
-&lt;p&gt;Le Toulousain HYL (Yoann Leblanc) sort sa nouvelle mixtape intitulée « La vie en jaune », qu&amp;#x27;il défendra en concert le 26 novembre au Flashback. Ancien directeur artistique à Paris, il a tout plaqué pour la musique en 2018 avant d&amp;#x27;être sélectionné aux Rencontres d&amp;#x27;Astaffort de Francis Cabrel, point de départ d&amp;#x27;une véritable renaissance artistique. Accompagné du producteur Hoodie Boy et du bassiste Florent Maurin, le trio a depuis enchaîné plus de 150 concerts, assuré des premières parties de Danakil ou La Rue Ketanou, et joué devant 30 000 personnes à la Prairie des Filtres. Sa musique mêle textes soignés portés par un flow rap, des rythmes funk, une touche d&amp;#x27;électro et de rock — une pop « dans les deux sens du terme », selon lui.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52559"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#52559"/>
-    <summary>Le Toulousain HYL (Yoann Leblanc) sort sa nouvelle mixtape intitulée « La vie en jaune », qu'il défendra en concert le 26 novembre au Flashback. Ancien directeur artistique à Paris, il a tout plaqué pour la musique en 2018 avant d'être sélectionné aux Rencontres d'Astaffort de Francis Cabrel, point de départ d'une véritable renaissance artistique. Accompagné du producteur Hoodie Boy et du bassiste Florent Maurin, le trio a depuis enchaîné plus de 150 concerts, assuré des premières parties de Danakil ou La Rue Ketanou, et joué devant 30 000 personnes à la Prairie des Filtres. Sa musique mêle textes soignés portés par un flow rap, des rythmes funk, une touche d'électro et de rock — une pop « dans les deux sens du terme », selon lui.</summary>
-    <category term="culture"/>
-    <published>2026-10-12T04:04:51.682000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a3ec5276-3db8-4957-b0e5-063f249a099a</id>
-    <title>Le Requiem de Verdi à la Halle aux Grains ce soir</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2067138974.jpg?itok=EJMC1-7D"/&gt;
-&lt;p&gt;Les Grands Interprètes accueillent ce soir à la Halle aux Grains une soirée exceptionnelle autour du Requiem de Verdi, l&amp;#x27;une des œuvres chorales les plus dramatiquement intenses du répertoire classique. Le Cercle de l&amp;#x27;Harmonie, placé sous la baguette de Jérémie Rhorer, s&amp;#x27;associe au prestigieux chœur basque Orfeón Donostiarra, dirigé par José Antonio Sainz Alfaro. Les solistes Agnieszka Rehlis (mezzo-soprano), Andrei Danilov (ténor) et William Thomas (basse) complètent la distribution. Le concert se tient de 20h à 21h30, sans entracte, avec ouverture des portes à 19h15 — les tarifs vont de 20 à 100 €.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52558"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#52558"/>
-    <summary>Les Grands Interprètes accueillent ce soir à la Halle aux Grains une soirée exceptionnelle autour du Requiem de Verdi, l'une des œuvres chorales les plus dramatiquement intenses du répertoire classique. Le Cercle de l'Harmonie, placé sous la baguette de Jérémie Rhorer, s'associe au prestigieux chœur basque Orfeón Donostiarra, dirigé par José Antonio Sainz Alfaro. Les solistes Agnieszka Rehlis (mezzo-soprano), Andrei Danilov (ténor) et William Thomas (basse) complètent la distribution. Le concert se tient de 20h à 21h30, sans entracte, avec ouverture des portes à 19h15 — les tarifs vont de 20 à 100 €.</summary>
-    <category term="event"/>
-    <published>2026-10-12T04:04:51.682000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:6b601ed7-1b01-4014-960c-5c95972eecf3</id>
-    <title>Premier concours d'œuf mayo en Occitanie aux Halles de Gameville</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2198298736.jpg?h=ff0d7aa2&amp;amp;itok=LiSFb_8f"/&gt;
-&lt;p&gt;L&amp;#x27;Association pour la Sauvegarde de l&amp;#x27;Œuf Mayonnaise (ASOM) organise ce soir aux Halles de Gameville, à Saint-Orens-de-Gameville, le premier concours d&amp;#x27;œuf mayo jamais tenu en Occitanie. La soirée, prévue de 17h30 à 23h30, est qualificative pour le championnat du monde 2026 qui se tiendra le 23 novembre à Saint-Ouen. Des chefs toulousains venus notamment du Bibent, de Vacarmes, des Tilleuls, de Jour de marché, Manine et Magnum s&amp;#x27;affrontent, chacun associé à un vigneron régional (Corbières, Fronton, Cahors…). Le jury évalue à l&amp;#x27;aveugle selon cinq critères : cuisson de l&amp;#x27;œuf, tenue de la mayonnaise, dressage, accompagnements et respect de l&amp;#x27;esprit bistrot — tandis que le public peut déguster trois œufs mayo et participer à un banquet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52557"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#52557"/>
-    <summary>L'Association pour la Sauvegarde de l'Œuf Mayonnaise (ASOM) organise ce soir aux Halles de Gameville, à Saint-Orens-de-Gameville, le premier concours d'œuf mayo jamais tenu en Occitanie. La soirée, prévue de 17h30 à 23h30, est qualificative pour le championnat du monde 2026 qui se tiendra le 23 novembre à Saint-Ouen. Des chefs toulousains venus notamment du Bibent, de Vacarmes, des Tilleuls, de Jour de marché, Manine et Magnum s'affrontent, chacun associé à un vigneron régional (Corbières, Fronton, Cahors…). Le jury évalue à l'aveugle selon cinq critères : cuisson de l'œuf, tenue de la mayonnaise, dressage, accompagnements et respect de l'esprit bistrot — tandis que le public peut déguster trois œufs mayo et participer à un banquet.</summary>
-    <category term="event"/>
-    <published>2026-10-12T04:04:51.682000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8559f017-1336-462a-a81a-3417cd217ec5</id>
-    <title>Festival « Ensemble en librairie ! » : 50 événements autour des Résistances</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/livres-librairie-adobestock_549977942.jpg?itok=p51KgHgC"/&gt;
-&lt;p&gt;La 3e édition du festival Ensemble en librairie!, organisé par l&amp;#x27;Alido (association des librairies indépendantes d&amp;#x27;Occitanie), se déroule jusqu&amp;#x27;au 24 octobre sur le thème des Résistances. Près de 50 événements sont programmés dans toute la région : rencontres d&amp;#x27;auteurs, lectures, conférences, ateliers, concerts et DJ sets. L&amp;#x27;autrice Corinne Morel est la marraine de cette édition, et un programme de plus de 60 conseils de lecture liés à la thématique sera distribué. Parmi les rendez-vous toulousains : une journée professionnelle à la médiathèque Cabanis, des rencontres à Terra Nova et à Paysages Humains avec des auteurs comme Victorien Bornéat et Francis Dupuis-Déri.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52556"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#52556"/>
-    <summary>La 3e édition du festival Ensemble en librairie!, organisé par l'Alido (association des librairies indépendantes d'Occitanie), se déroule jusqu'au 24 octobre sur le thème des Résistances. Près de 50 événements sont programmés dans toute la région : rencontres d'auteurs, lectures, conférences, ateliers, concerts et DJ sets. L'autrice Corinne Morel est la marraine de cette édition, et un programme de plus de 60 conseils de lecture liés à la thématique sera distribué. Parmi les rendez-vous toulousains : une journée professionnelle à la médiathèque Cabanis, des rencontres à Terra Nova et à Paysages Humains avec des auteurs comme Victorien Bornéat et Francis Dupuis-Déri.</summary>
-    <category term="event"/>
-    <published>2026-10-12T04:04:51.682000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:e18620a9-f6f7-40c4-89f7-fa27c4e393c7</id>
-    <title>Saisons étudiantes : musées et monuments gratuits à Toulouse</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_629670044.jpg?itok=3jFKibun"/&gt;
-&lt;p&gt;Du 12 au 25 octobre, les étudiants peuvent accéder gratuitement à de nombreux musées et monuments de Toulouse dans le cadre des Saisons étudiantes, une initiative organisée deux fois par an par la Mairie. Les établissements concernés incluent les Augustins, les Abattoirs, le Muséum de Toulouse, Paul-Dupuy, la galerie du Château d&amp;#x27;Eau et le Quai des Savoirs, ainsi que plusieurs monuments comme le couvent des Jacobins et la chapelle de La Grave. Aucune réservation n&amp;#x27;est nécessaire : il suffit de présenter sa carte étudiante ou un justificatif valide, et chaque lieu reste ouvert selon ses horaires habituels. La prochaine session aura lieu du 8 au 21 mars 2027, et la programmation étudiante 2026-2027 se poursuit toute l&amp;#x27;année avec des événements gratuits ou à tarif réduit.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52555"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-12?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#52555"/>
-    <summary>Du 12 au 25 octobre, les étudiants peuvent accéder gratuitement à de nombreux musées et monuments de Toulouse dans le cadre des Saisons étudiantes, une initiative organisée deux fois par an par la Mairie. Les établissements concernés incluent les Augustins, les Abattoirs, le Muséum de Toulouse, Paul-Dupuy, la galerie du Château d'Eau et le Quai des Savoirs, ainsi que plusieurs monuments comme le couvent des Jacobins et la chapelle de La Grave. Aucune réservation n'est nécessaire : il suffit de présenter sa carte étudiante ou un justificatif valide, et chaque lieu reste ouvert selon ses horaires habituels. La prochaine session aura lieu du 8 au 21 mars 2027, et la programmation étudiante 2026-2027 se poursuit toute l'année avec des événements gratuits ou à tarif réduit.</summary>
-    <category term="event"/>
-    <published>2026-10-12T04:04:51.682000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c634a8eb-c127-42a1-a183-1297c9332c1a</id>
-    <title>Red Bull Max Reps : compétition fitness géante au musée Aeroscopia</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6ac53c0b4f2bee2bc406aa20/hd/image.png?v=1"/&gt;
-&lt;p&gt;Le musée Aeroscopia de Toulouse accueillera le 14 novembre 2026 la première édition de Red Bull Max Reps, une compétition de fitness inédite se déroulant au cœur de ses hangars aéronautiques. Des équipes de quatre s&amp;#x27;affronteront dans six épreuves mêlant force, endurance, vitesse et cohésion, en évoluant sous les ailes de l&amp;#x27;A380 et du Concorde. L&amp;#x27;événement mêle les codes du CrossFit, de l&amp;#x27;OCR et du Hyrox à l&amp;#x27;univers de l&amp;#x27;aéronautique, avec une scénographie calquée sur un véritable embarquement (check-in, billets, porte d&amp;#x27;embarquement, uniforme). Cette première édition transforme le célèbre musée toulousain en terrain de compétition XXL, ouvert aux catégories hommes et femmes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/10/11/le-musee-aeroscopia-va-se-transformer-en-terrain-de-fitness-geant-sous-les-ailes-dun-a380-13587653.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/10/11/le-musee-aeroscopia-va-se-transformer-en-terrain-de-fitness-geant-sous-les-ailes-dun-a380-13587653.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le musée Aeroscopia de Toulouse accueillera le 14 novembre 2026 la première édition de Red Bull Max Reps, une compétition de fitness inédite se déroulant au cœur de ses hangars aéronautiques. Des équipes de quatre s'affronteront dans six épreuves mêlant force, endurance, vitesse et cohésion, en évoluant sous les ailes de l'A380 et du Concorde. L'événement mêle les codes du CrossFit, de l'OCR et du Hyrox à l'univers de l'aéronautique, avec une scénographie calquée sur un véritable embarquement (check-in, billets, porte d'embarquement, uniforme). Cette première édition transforme le célèbre musée toulousain en terrain de compétition XXL, ouvert aux catégories hommes et femmes.</summary>
-    <category term="event"/>
-    <published>2026-10-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:81c6023d-412b-4908-862b-901223b510b8</id>
-    <title>Le Bijou dévoile sa saison 2026/2027, coopérative et vibrante</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/lfdtmhd-1.jpg"/&gt;
-&lt;p&gt;Le Bijou, salle de spectacle emblématique de Toulouse dédiée à la chanson française et francophone, annonce sa programmation 2026/2027, riche en découvertes et en artistes régionaux. Parmi les temps forts : un octobre particulièrement chargé avec Daguerre (20 ans de carrière), Amandine Bourgeois, VioleTT Pi, Claire Gimatt et Camille Yembe, entre autres. La salle évolue aussi sur le plan structurel : elle peut désormais accueillir 177 personnes en configuration debout, une première. En parallèle, la campagne coopérative se poursuit — chacun peut devenir co-propriétaire du Bijou pour 50 euros, renforçant le modèle participatif de ce resto-bar-lieu de culture.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/au-bijou-a-toulouse-la-chanson-n-a-pas-fini-de-surprendre-avec-une-saison-2026-2027-virevoltante-et-federatrice_64818338.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/au-bijou-a-toulouse-la-chanson-n-a-pas-fini-de-surprendre-avec-une-saison-2026-2027-virevoltante-et-federatrice_64818338.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Bijou, salle de spectacle emblématique de Toulouse dédiée à la chanson française et francophone, annonce sa programmation 2026/2027, riche en découvertes et en artistes régionaux. Parmi les temps forts : un octobre particulièrement chargé avec Daguerre (20 ans de carrière), Amandine Bourgeois, VioleTT Pi, Claire Gimatt et Camille Yembe, entre autres. La salle évolue aussi sur le plan structurel : elle peut désormais accueillir 177 personnes en configuration debout, une première. En parallèle, la campagne coopérative se poursuit — chacun peut devenir co-propriétaire du Bijou pour 50 euros, renforçant le modèle participatif de ce resto-bar-lieu de culture.</summary>
-    <category term="news"/>
-    <published>2026-10-11T14:32:14+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:9ca4b2d5-3c0b-4bd1-84c3-c45fb44cba0c</id>
-    <title>L'histoire secrète de la place Saint-Georges, ancienne place des supplices</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/photo-place-saint-georges-en-1934-credit-archives-municipales-1.jpg"/&gt;
-&lt;p&gt;La place Saint-Georges, aujourd&amp;#x27;hui animée par ses terrasses et restaurants colorés, cache une histoire riche qui remonte au XIIe siècle sous le nom de Montaygon. Elle accueillait alors un important marché au vin, entouré d&amp;#x27;aubergistes, taverniers et boulangers. Au fil des siècles, la place a abrité des marchés variés — volaille, fleurs, charcuterie — dont l&amp;#x27;insolite marché des « proxénètes », terme désignant à l&amp;#x27;époque de simples revendeurs de seconde main, installé en 1797. L&amp;#x27;article retrace également le côté plus sombre de la place, qui fut aussi un lieu de supplices, illustrant le contraste saisissant avec l&amp;#x27;atmosphère de dolce vita qu&amp;#x27;elle dégage aujourd&amp;#x27;hui.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/connaissez-vous-l-histoire-de-saint-georges-a-toulouse-l-ancienne-place-des-marches-et-des-supplices_64892748.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/connaissez-vous-l-histoire-de-saint-georges-a-toulouse-l-ancienne-place-des-marches-et-des-supplices_64892748.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La place Saint-Georges, aujourd'hui animée par ses terrasses et restaurants colorés, cache une histoire riche qui remonte au XIIe siècle sous le nom de Montaygon. Elle accueillait alors un important marché au vin, entouré d'aubergistes, taverniers et boulangers. Au fil des siècles, la place a abrité des marchés variés — volaille, fleurs, charcuterie — dont l'insolite marché des « proxénètes », terme désignant à l'époque de simples revendeurs de seconde main, installé en 1797. L'article retrace également le côté plus sombre de la place, qui fut aussi un lieu de supplices, illustrant le contraste saisissant avec l'atmosphère de dolce vita qu'elle dégage aujourd'hui.</summary>
-    <category term="culture"/>
-    <published>2026-10-11T15:16:02+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:24a1d9ca-8b49-4e57-95cb-14d60b418b7e</id>
-    <title>Noiser, l'association qui fait rayonner le metal à Toulouse</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/imperial-triumphant-2024.jpeg"/&gt;
-&lt;p&gt;Noiser est une association toulousaine dédiée aux musiques extrêmes et alternatives, qui emploie aujourd&amp;#x27;hui quatre salariés et mobilise une vingtaine de bénévoles. Elle collabore avec les principales salles de la ville — du Bikini au Zénith, en passant par le Metronum, le Rex et bientôt le Bascala — pour programmer des concerts allant du rock énergique au black et death metal. La structure se distingue par une approche humaine et passionnée : les membres écoutent eux-mêmes tous les artistes qu&amp;#x27;ils programment, et accueillent les groupes avec une convivialité maison (houmous et charcuterie à l&amp;#x27;appui). Grâce à ce travail de fond, Toulouse s&amp;#x27;est progressivement imposée sur la carte mondiale des musiques extrêmes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/on-ne-trompe-pas-le-metalleux-noiser-l-association-qui-fait-resonner-les-musiques-extremes-a-toulouse_64823023.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/on-ne-trompe-pas-le-metalleux-noiser-l-association-qui-fait-resonner-les-musiques-extremes-a-toulouse_64823023.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Noiser est une association toulousaine dédiée aux musiques extrêmes et alternatives, qui emploie aujourd'hui quatre salariés et mobilise une vingtaine de bénévoles. Elle collabore avec les principales salles de la ville — du Bikini au Zénith, en passant par le Metronum, le Rex et bientôt le Bascala — pour programmer des concerts allant du rock énergique au black et death metal. La structure se distingue par une approche humaine et passionnée : les membres écoutent eux-mêmes tous les artistes qu'ils programment, et accueillent les groupes avec une convivialité maison (houmous et charcuterie à l'appui). Grâce à ce travail de fond, Toulouse s'est progressivement imposée sur la carte mondiale des musiques extrêmes.</summary>
-    <category term="culture"/>
-    <published>2026-10-11T15:55:53+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:4fde8595-0950-4bad-8d49-96ffa4470e05</id>
-    <title>Série de fusillades à Empalot et au Mirail : Toulouse sous tension</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/whatsapp-image-2026-10-06-at-171748.jpeg"/&gt;
-&lt;p&gt;Toulouse a connu une série de fusillades en plein jour dans le quartier d&amp;#x27;Empalot entre le dimanche 4 et le mardi 6 octobre 2026, suivie d&amp;#x27;un nouvel échange de tirs au Mirail dans la nuit du 10 au 11 octobre. Lors de la troisième fusillade d&amp;#x27;Empalot, un homme a été touché par quatre balles — dont une à la carotide — et se trouvait entre la vie et la mort au CHU de Purpan ; une seconde personne a été blessée au poignet. Le maire Jean-Luc Moudenc a écrit au ministre de l&amp;#x27;Intérieur Laurent Nuñez pour réclamer des renforts face au narcotrafic, évoquant des attaques armées en pleine impunité devant des riverains faisant leurs courses. Sa déclaration en conseil municipal — refusant de présenter ses condoléances car « tout cela vient pourrir la vie des gens » — a suscité une vive polémique parmi les élus d&amp;#x27;opposition.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article rapporte les faits bruts de la troisième fusillade d&amp;#x27;Empalot avec des détails de terrain (témoins, scène de crime). Le second analyse la réponse politique de Moudenc via sa lettre au ministre. Le troisième élargit la série au Mirail et couvre le débat municipal, s&amp;#x27;appuyant en partie sur une info révélée par La Dépêche.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Détails de la fusillade du 6 octobre et témoignages de terrain&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Contenu de la lettre de Moudenc au ministre et demandes de moyens&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Fusillade au Mirail et polémique au conseil municipal&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-nouvelle-fusillade-eclate-a-toulouse-dans-un-quartier-touche-par-le-trafic-de-drogue_64908936.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/une-nouvelle-fusillade-eclate-a-toulouse-dans-un-quartier-touche-par-le-trafic-de-drogue_64908936.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse a connu une série de fusillades en plein jour dans le quartier d'Empalot entre le dimanche 4 et le mardi 6 octobre 2026, suivie d'un nouvel échange de tirs au Mirail dans la nuit du 10 au 11 octobre. Lors de la troisième fusillade d'Empalot, un homme a été touché par quatre balles — dont une à la carotide — et se trouvait entre la vie et la mort au CHU de Purpan ; une seconde personne a été blessée au poignet. Le maire Jean-Luc Moudenc a écrit au ministre de l'Intérieur Laurent Nuñez pour réclamer des renforts face au narcotrafic, évoquant des attaques armées en pleine impunité devant des riverains faisant leurs courses. Sa déclaration en conseil municipal — refusant de présenter ses condoléances car « tout cela vient pourrir la vie des gens » — a suscité une vive polémique parmi les élus d'opposition.</summary>
-    <category term="news"/>
-    <published>2026-10-11T18:11:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5a97a411-c6f6-4622-9f9d-be43a796248c</id>
-    <title>Le Stade Toulousain écrase Bayonne 45-34 à Ernest-Wallon</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/antoine-dupont-stade-toulousain-essai.jpg"/&gt;
-&lt;p&gt;Le Stade Toulousain a dominé l&amp;#x27;Aviron Bayonnais 45 à 34 ce dimanche 11 octobre 2026 à Ernest-Wallon, en clôture de la 6e journée de Top 14. La rencontre a été marquée par un festival d&amp;#x27;essais des deux côtés, dans une ambiance électrique pour le 85e match consécutif à guichets fermés. Ironie du sort, c&amp;#x27;est Cyril Baille — dont le transfert à Bayonne en fin de saison vient d&amp;#x27;être officialisé — qui a ouvert le score dès la 2e minute. Toulouse s&amp;#x27;impose finalement avec le point de bonus offensif, malgré une première période agitée et une indiscipline récurrente face à un Bayonne très combatif.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-festival-d-essais-et-victoire-bonifiee-pour-le-stade-toulousain-face-a-bayonne_64909640.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/top-14-festival-d-essais-et-victoire-bonifiee-pour-le-stade-toulousain-face-a-bayonne_64909640.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Stade Toulousain a dominé l'Aviron Bayonnais 45 à 34 ce dimanche 11 octobre 2026 à Ernest-Wallon, en clôture de la 6e journée de Top 14. La rencontre a été marquée par un festival d'essais des deux côtés, dans une ambiance électrique pour le 85e match consécutif à guichets fermés. Ironie du sort, c'est Cyril Baille — dont le transfert à Bayonne en fin de saison vient d'être officialisé — qui a ouvert le score dès la 2e minute. Toulouse s'impose finalement avec le point de bonus offensif, malgré une première période agitée et une indiscipline récurrente face à un Bayonne très combatif.</summary>
-    <category term="news"/>
-    <published>2026-10-11T23:09:23+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:739f12bb-ba9e-4c53-ba4b-df15bc590db3</id>
-    <title>Le Réseau Express Vélo s'étend : 12 km de pistes cyclables d'ici fin 2026</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/img-6907.jpg"/&gt;
-&lt;p&gt;Toulouse Métropole annonce l&amp;#x27;ouverture de près de 12 kilomètres de nouvelles pistes cyclables d&amp;#x27;ici fin 2026 dans le cadre du Réseau Express Vélo (REV). Ce réseau, pensé en forme de « pieuvre » avec 14 lignes planifiées et 240 km au total, vise à relier les communes de la métropole par des axes cyclables structurants. Les nouveaux tronçons concernent plusieurs lignes du REV, notamment à Villeneuve-Tolosane, Saint-Simon, Pibrac, ainsi que les avenues Étienne-Billières, Bourgès-Maunoury et Saint-Exupéry. Un premier grand tronçon du REV 18, entre Beaupuy et Montrabé, a déjà été livré après huit mois de travaux, illustrant l&amp;#x27;avancement progressif du projet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-reseau-en-pieuvre-continue-d-etendre-ses-tentacules-dans-la-metropole-de-toulouse-voici-les-nouveaux-axes-a-venir_64904270.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/ce-reseau-en-pieuvre-continue-d-etendre-ses-tentacules-dans-la-metropole-de-toulouse-voici-les-nouveaux-axes-a-venir_64904270.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse Métropole annonce l'ouverture de près de 12 kilomètres de nouvelles pistes cyclables d'ici fin 2026 dans le cadre du Réseau Express Vélo (REV). Ce réseau, pensé en forme de « pieuvre » avec 14 lignes planifiées et 240 km au total, vise à relier les communes de la métropole par des axes cyclables structurants. Les nouveaux tronçons concernent plusieurs lignes du REV, notamment à Villeneuve-Tolosane, Saint-Simon, Pibrac, ainsi que les avenues Étienne-Billières, Bourgès-Maunoury et Saint-Exupéry. Un premier grand tronçon du REV 18, entre Beaupuy et Montrabé, a déjà été livré après huit mois de travaux, illustrant l'avancement progressif du projet.</summary>
-    <category term="news"/>
-    <published>2026-10-12T06:04:01+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:92cf4f29-1b10-4682-8687-04cf11d50d90</id>
-    <title>L'escalier monumental du Capitole entre en restauration jusqu'à l'été 2027</title>
-    <updated>2026-10-12T06:32:00.823062+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/3202-1.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;escalier monumental du Capitole, classé aux Monuments historiques et emprunté notamment lors des mariages civils, fait l&amp;#x27;objet d&amp;#x27;une restauration complète débutée le 5 octobre 2026. Les travaux porteront sur les peintures murales historiques, les dorures, la mosaïque de sol, les balustres en marbre et les éléments ornementaux, afin de restituer les couleurs et la splendeur d&amp;#x27;origine. La mairie de Toulouse précise que le chantier s&amp;#x27;achèvera à l&amp;#x27;été 2027, avec une réouverture prévue avant les Journées européennes du patrimoine 2027. Cette intervention s&amp;#x27;inscrit dans un programme plus large de rénovation du Capitole, après la restauration des façades, des salles de prestige et de la salle du Conseil municipal achevée en novembre 2025.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-un-des-ensembles-patrimoniaux-les-plus-remarquables-de-toulouse-va-retrouver-tout-son-eclat_64906426.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/l-un-des-ensembles-patrimoniaux-les-plus-remarquables-de-toulouse-va-retrouver-tout-son-eclat_64906426.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'escalier monumental du Capitole, classé aux Monuments historiques et emprunté notamment lors des mariages civils, fait l'objet d'une restauration complète débutée le 5 octobre 2026. Les travaux porteront sur les peintures murales historiques, les dorures, la mosaïque de sol, les balustres en marbre et les éléments ornementaux, afin de restituer les couleurs et la splendeur d'origine. La mairie de Toulouse précise que le chantier s'achèvera à l'été 2027, avec une réouverture prévue avant les Journées européennes du patrimoine 2027. Cette intervention s'inscrit dans un programme plus large de rénovation du Capitole, après la restauration des façades, des salles de prestige et de la salle du Conseil municipal achevée en novembre 2025.</summary>
-    <category term="news"/>
-    <published>2026-10-12T07:12:01+02:00</published>
-  </entry>
   <entry>
     <id>cluster:9cf837d9-7d9d-4e09-be14-499052530c9d</id>
     <title>Pourquoi le quartier des Sept Deniers porte ce nom</title>
@@ -1294,6 +853,23 @@
     <published>2026-10-14T04:11:42.349000+00:00</published>
   </entry>
   <entry>
+    <id>cluster:b62ada02-80cf-4ebd-95c0-a128329f3614</id>
+    <title>Maison Tartelette : nouveau salon de thé mono-produit rue Baronie</title>
+    <updated>2026-10-14T06:37:59.142431+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/maison-tartelettes-toulouse-commerce.jpg"/&gt;
+&lt;p&gt;Maison Tartelette vient d&amp;#x27;ouvrir au 5 rue Baronie, à deux pas d&amp;#x27;Esquirol, à la place de l&amp;#x27;ancienne enseigne Soupe &amp;amp; Chocolat. Le concept est porté par Camille Ducommun, issue du commerce, et Maxence Guilbaud/Guilbault (orthographe légèrement divergente selon les sources), pâtissier formé au lycée hôtelier de Toulouse. La boutique, qui fait aussi salon de thé, propose six recettes de tartelettes — Paris-Brest, banoffee, citron meringué, figue, prune-citron vert — fabriquées chaque matin et présentées sous cloche, à 5,90 € l&amp;#x27;unité. Les recettes évoluent au fil des saisons avec des fruits de saison exclusivement, et l&amp;#x27;objectif est d&amp;#x27;atteindre huit références dont une future tartelette signature.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse se concentre sur le parcours des fondateurs et l&amp;#x27;atmosphère de l&amp;#x27;ouverture, tandis que L&amp;#x27;Essentiel détaille davantage le concept esthétique (inspiré de la bijouterie), les recettes précises et les ambitions futures (8 tartelettes, sirops maison fabriqués au Lherm).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Portrait des fondateurs et récit de l&amp;#x27;ouverture&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Détails du concept, des recettes et des projets de la boutique&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-14?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52878"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-14?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#52878"/>
+    <summary>Maison Tartelette vient d'ouvrir au 5 rue Baronie, à deux pas d'Esquirol, à la place de l'ancienne enseigne Soupe &amp; Chocolat. Le concept est porté par Camille Ducommun, issue du commerce, et Maxence Guilbaud/Guilbault (orthographe légèrement divergente selon les sources), pâtissier formé au lycée hôtelier de Toulouse. La boutique, qui fait aussi salon de thé, propose six recettes de tartelettes — Paris-Brest, banoffee, citron meringué, figue, prune-citron vert — fabriquées chaque matin et présentées sous cloche, à 5,90 € l'unité. Les recettes évoluent au fil des saisons avec des fruits de saison exclusivement, et l'objectif est d'atteindre huit références dont une future tartelette signature.</summary>
+    <category term="place"/>
+    <published>2026-10-14T04:11:42.349000+00:00</published>
+  </entry>
+  <entry>
     <id>cluster:0f080fa0-214a-4b26-9d2a-babec9c33f2b</id>
     <title>Watt ! : expérience de réalité virtuelle aux Espaces EDF Bazacle</title>
     <updated>2026-10-14T06:37:59.142431+00:00</updated>
@@ -1673,26 +1249,6 @@
     <published>2026-10-14T07:14:01+02:00</published>
   </entry>
   <entry>
-    <id>cluster:b62ada02-80cf-4ebd-95c0-a128329f3614</id>
-    <title>Maison Tartelette : nouveau salon de thé mono-produit rue Baronie</title>
-    <updated>2026-10-14T06:37:59.142431+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/maison-tartelettes-toulouse-commerce.jpg"/&gt;
-&lt;p&gt;Maison Tartelette vient d&amp;#x27;ouvrir au 5 rue Baronie, à deux pas d&amp;#x27;Esquirol, à la place de l&amp;#x27;ancienne enseigne Soupe &amp;amp; Chocolat. Le concept est porté par Camille Ducommun, issue du commerce, et Maxence Guilbaud/Guilbault (orthographe légèrement divergente selon les sources), pâtissier formé au lycée hôtelier de Toulouse. La boutique, qui fait aussi salon de thé, propose six recettes de tartelettes — Paris-Brest, banoffee, citron meringué, figue, prune-citron vert — fabriquées chaque matin et présentées sous cloche, à 5,90 € l&amp;#x27;unité. Les recettes évoluent au fil des saisons avec des fruits de saison exclusivement, et l&amp;#x27;objectif est d&amp;#x27;atteindre huit références dont une future tartelette signature.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse se concentre sur le parcours des fondateurs et l&amp;#x27;atmosphère de l&amp;#x27;ouverture, tandis que L&amp;#x27;Essentiel détaille davantage le concept esthétique (inspiré de la bijouterie), les recettes précises et les ambitions futures (8 tartelettes, sirops maison fabriqués au Lherm).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Portrait des fondateurs et récit de l&amp;#x27;ouverture&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Détails du concept, des recettes et des projets de la boutique&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/paris-brest-et-banoffee-en-version-tartelette-ce-nouveau-salon-de-the-a-toulouse-decline-sa-patisserie-star-a-l-infini_64904000.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-14?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52878"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/paris-brest-et-banoffee-en-version-tartelette-ce-nouveau-salon-de-the-a-toulouse-decline-sa-patisserie-star-a-l-infini_64904000.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Maison Tartelette vient d'ouvrir au 5 rue Baronie, à deux pas d'Esquirol, à la place de l'ancienne enseigne Soupe &amp; Chocolat. Le concept est porté par Camille Ducommun, issue du commerce, et Maxence Guilbaud/Guilbault (orthographe légèrement divergente selon les sources), pâtissier formé au lycée hôtelier de Toulouse. La boutique, qui fait aussi salon de thé, propose six recettes de tartelettes — Paris-Brest, banoffee, citron meringué, figue, prune-citron vert — fabriquées chaque matin et présentées sous cloche, à 5,90 € l'unité. Les recettes évoluent au fil des saisons avec des fruits de saison exclusivement, et l'objectif est d'atteindre huit références dont une future tartelette signature.</summary>
-    <category term="place"/>
-    <published>2026-10-11T08:46:01+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:8083c171-07fa-453b-8fbe-3e08c69fbf80</id>
     <title>La 37e Semaine du Goût animée à Blagnac et Tournefeuille</title>
     <updated>2026-10-15T06:33:43.775862+00:00</updated>
@@ -1719,6 +1275,23 @@
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-15?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52951"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-15?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#52951"/>
     <summary>Le dispositif « Agir Étudiants » de l'association Droit Pluriel s'installe aujourd'hui sur le campus Paul Sabatier de l'université Toulouse 3, au lieu-dit « la plage », de 11h à 14h. Des avocats bénévoles y proposent des conseils juridiques gratuits aux étudiants en situation de handicap sur des problématiques concrètes : tiers temps non respecté, refus d'aménagements, rupture de droits MDPH, lieux de stage inaccessibles, ou encore fin d'alternance liée au handicap. L'initiative répond à un besoin réel : selon une consultation 2026 de 100 % Handinamique, la moitié des jeunes handicapés s'estiment mal informés sur leurs droits et près des deux tiers ont déjà renoncé à les faire valoir. Les étudiants en situation de handicap ont par ailleurs 46 % de chances en moins d'être diplômés que leurs pairs valides, selon les chiffres cités.</summary>
+    <category term="event"/>
+    <published>2026-10-15T04:06:49.772000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:297d3508-3a84-4b10-a247-67951313ae3d</id>
+    <title>Journées de l'architecture à Toulouse : 21 rendez-vous sur la réhabilitation</title>
+    <updated>2026-10-15T06:33:43.775862+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6ac50e76417470175b07c556/hd/image.jpg?v=1"/&gt;
+&lt;p&gt;Du 15 au 18 octobre 2026, les Journées nationales de l&amp;#x27;architecture reviennent pour leur 11e édition avec pour thème « Réhabiliter : bâtir l&amp;#x27;avenir ». À Toulouse, 21 événements sont programmés : visites de lieux inédits, expositions, balades architecturales et une conférence du designer Jan Boelen le 15 octobre de 18h30 à 20h30. Parmi les temps forts, une visite d&amp;#x27;une ancienne maison éclusière réhabilitée en restaurant (88 boulevard Pierre-Semard, près de Matabiau) et une exposition intitulée Materia à l&amp;#x27;ENSA Toulouse, 83 rue Aristide Maillol. La thématique résonne particulièrement à Toulouse, où la réhabilitation des écoles — 130 cours végétalisées, 1 506 classes équipées de brasseurs d&amp;#x27;air — a marqué la rentrée 2026.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Toulouscope se concentre sur le programme toulousain concret (liste d&amp;#x27;événements, visite de la maison éclusière, conférence Boelen). Lessentiel donne d&amp;#x27;abord le contexte national (chiffres du ministère de la Culture, enjeux climatiques) avant de zoomer sur l&amp;#x27;ENSA et les écoles toulousaines.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Le programme détaillé des 21 rendez-vous toulousains et les visites à ne pas manquer&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Le contexte national sur la réhabilitation et les enjeux climatiques des écoles&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-15?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52950"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-15?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#52950"/>
+    <summary>Du 15 au 18 octobre 2026, les Journées nationales de l'architecture reviennent pour leur 11e édition avec pour thème « Réhabiliter : bâtir l'avenir ». À Toulouse, 21 événements sont programmés : visites de lieux inédits, expositions, balades architecturales et une conférence du designer Jan Boelen le 15 octobre de 18h30 à 20h30. Parmi les temps forts, une visite d'une ancienne maison éclusière réhabilitée en restaurant (88 boulevard Pierre-Semard, près de Matabiau) et une exposition intitulée Materia à l'ENSA Toulouse, 83 rue Aristide Maillol. La thématique résonne particulièrement à Toulouse, où la réhabilitation des écoles — 130 cours végétalisées, 1 506 classes équipées de brasseurs d'air — a marqué la rentrée 2026.</summary>
     <category term="event"/>
     <published>2026-10-15T04:06:49.772000+00:00</published>
   </entry>
@@ -2048,26 +1621,6 @@
     <published>2026-10-13T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>cluster:297d3508-3a84-4b10-a247-67951313ae3d</id>
-    <title>Journées de l'architecture à Toulouse : 21 rendez-vous sur la réhabilitation</title>
-    <updated>2026-10-15T06:33:43.775862+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6ac50e76417470175b07c556/hd/image.jpg?v=1"/&gt;
-&lt;p&gt;Du 15 au 18 octobre 2026, les Journées nationales de l&amp;#x27;architecture reviennent pour leur 11e édition avec pour thème « Réhabiliter : bâtir l&amp;#x27;avenir ». À Toulouse, 21 événements sont programmés : visites de lieux inédits, expositions, balades architecturales et une conférence du designer Jan Boelen le 15 octobre de 18h30 à 20h30. Parmi les temps forts, une visite d&amp;#x27;une ancienne maison éclusière réhabilitée en restaurant (88 boulevard Pierre-Semard, près de Matabiau) et une exposition intitulée Materia à l&amp;#x27;ENSA Toulouse, 83 rue Aristide Maillol. La thématique résonne particulièrement à Toulouse, où la réhabilitation des écoles — 130 cours végétalisées, 1 506 classes équipées de brasseurs d&amp;#x27;air — a marqué la rentrée 2026.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Toulouscope se concentre sur le programme toulousain concret (liste d&amp;#x27;événements, visite de la maison éclusière, conférence Boelen). Lessentiel donne d&amp;#x27;abord le contexte national (chiffres du ministère de la Culture, enjeux climatiques) avant de zoomer sur l&amp;#x27;ENSA et les écoles toulousaines.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: Le programme détaillé des 21 rendez-vous toulousains et les visites à ne pas manquer&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Le contexte national sur la réhabilitation et les enjeux climatiques des écoles&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/10/11/journees-de-larchitecture-a-toulouse-ces-quatre-jours-de-rendez-vous-a-ne-pas-manquer-13587331.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-15?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#52950"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/10/11/journees-de-larchitecture-a-toulouse-ces-quatre-jours-de-rendez-vous-a-ne-pas-manquer-13587331.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Du 15 au 18 octobre 2026, les Journées nationales de l'architecture reviennent pour leur 11e édition avec pour thème « Réhabiliter : bâtir l'avenir ». À Toulouse, 21 événements sont programmés : visites de lieux inédits, expositions, balades architecturales et une conférence du designer Jan Boelen le 15 octobre de 18h30 à 20h30. Parmi les temps forts, une visite d'une ancienne maison éclusière réhabilitée en restaurant (88 boulevard Pierre-Semard, près de Matabiau) et une exposition intitulée Materia à l'ENSA Toulouse, 83 rue Aristide Maillol. La thématique résonne particulièrement à Toulouse, où la réhabilitation des écoles — 130 cours végétalisées, 1 506 classes équipées de brasseurs d'air — a marqué la rentrée 2026.</summary>
-    <category term="event"/>
-    <published>2026-10-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:366b594c-639f-4199-9b3e-414be9fe06f0</id>
     <title>Agenda sportif du week-end : trail, aviron et rugby à Toulouse</title>
     <updated>2026-10-16T06:33:54.415586+00:00</updated>
@@ -2299,21 +1852,6 @@
     <summary>La gendarmerie de la Haute-Garonne lance un appel à témoins suite à la disparition jugée inquiétante de Nikolay Kovachev, un quadragénaire, depuis le mardi 13 octobre 2026 à 13h30. L'homme, qui n'a pas rejoint son lieu de travail à Toulouse le lendemain, est considéré comme susceptible de mettre fin à ses jours. Son épouse est sans nouvelles de lui depuis sa disparition. Nikolay Kovachev est de type caucasien, mesure 1,90 m, est de corpulence normale et a les cheveux châtains. Toute personne disposant d'informations est invitée à contacter la gendarmerie de Balma au 05 62 57 75 80.</summary>
     <category term="news"/>
     <published>2026-10-15T09:38:18+02:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c9579bc3-76f5-472b-88ae-0309f63c085c</id>
-    <title>Travaux sur la RM2 : circulation perturbée les 19 et 20 octobre</title>
-    <updated>2026-10-16T06:33:54.415586+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/rue-urbaine-sous-ciel-couvert.png"/&gt;
-&lt;p&gt;La Route Métropolitaine 2 — tronçon C reliant l&amp;#x27;avenue de Toulouse à la route de Revel — va faire l&amp;#x27;objet d&amp;#x27;un nouveau chantier les lundi 19 et mardi 20 octobre 2026, de 9h à 16h. Il s&amp;#x27;agit de la pose du tapis final de chaussée, dernière phase d&amp;#x27;un vaste chantier estimé à 35 millions d&amp;#x27;euros porté par Toulouse Métropole. Les automobilistes en direction de Saint-Orens-de-Gameville seront déviés via la route de Labège et la rue de Nouadhibou, tandis que ceux allant vers Toulouse passeront par la rue Santiago du Chili et la rue de la Marcaissonne. Piétons et cyclistes pourront continuer à circuler sur le trottoir nord, les accès aux riverains et commerces seront maintenus depuis le rond-point des Roches, et les lignes de bus seront temporairement déviées.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/au-coeur-d-un-quartier-en-pleine-mutation-cet-axe-majeur-aux-portes-de-toulouse-va-a-nouveau-faire-l-objet-de-travaux_64926851.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/au-coeur-d-un-quartier-en-pleine-mutation-cet-axe-majeur-aux-portes-de-toulouse-va-a-nouveau-faire-l-objet-de-travaux_64926851.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Route Métropolitaine 2 — tronçon C reliant l'avenue de Toulouse à la route de Revel — va faire l'objet d'un nouveau chantier les lundi 19 et mardi 20 octobre 2026, de 9h à 16h. Il s'agit de la pose du tapis final de chaussée, dernière phase d'un vaste chantier estimé à 35 millions d'euros porté par Toulouse Métropole. Les automobilistes en direction de Saint-Orens-de-Gameville seront déviés via la route de Labège et la rue de Nouadhibou, tandis que ceux allant vers Toulouse passeront par la rue Santiago du Chili et la rue de la Marcaissonne. Piétons et cyclistes pourront continuer à circuler sur le trottoir nord, les accès aux riverains et commerces seront maintenus depuis le rond-point des Roches, et les lignes de bus seront temporairement déviées.</summary>
-    <category term="news"/>
-    <published>2026-10-15T12:06:01+02:00</published>
   </entry>
   <entry>
     <id>cluster:a923b7c9-7f0e-45d9-952b-21ad4f16e373</id>
@@ -2606,6 +2144,23 @@
     <published>2026-10-16T16:08:02+02:00</published>
   </entry>
   <entry>
+    <id>cluster:2a8db44a-5498-4770-a049-4e3877f4d413</id>
+    <title>Le Toulouse FC arrache un nul à Monaco et écrase Le Mans</title>
+    <updated>2026-10-17T06:35:44.548497+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/le-tfc-a-fait-le-travail-face-a-un-cador-du-championnat-dans-un-stade-louis-ii-presque-vide.jpg"/&gt;
+&lt;p&gt;Le Toulouse FC réalise deux prestations notables en Ligue 1 : d&amp;#x27;abord un match nul remarquable arraché sur la pelouse de Monaco (2-2), leader du championnat, après avoir été menés 2-0 à la pause. Les Violets ont ensuite dominé Le Mans 3-0 en déplacement, avec un Aron Dönnum décisif dès son retour au onze de départ après un deuil familial. Ces deux résultats témoignent d&amp;#x27;une solidité retrouvée et d&amp;#x27;une attaque de plus en plus efficace, portée notamment par Tengstedt et Russell-Rowe. Supporters et observateurs retiennent l&amp;#x27;émotion du match au Mans autant que la performance collective face au leader monégasque.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux articles couvrent des matchs distincts : l&amp;#x27;un met en avant la résistance mentale face à Monaco (nul 2-2), l&amp;#x27;autre insiste sur l&amp;#x27;émotion et l&amp;#x27;efficacité offensive contre Le Mans (3-0).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Monaco)&lt;/strong&gt;: Le scénario du nul inattendu face au leader Monaco et la remontée en seconde période&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Le Mans)&lt;/strong&gt;: Le retour émouvant de Dönnum et la victoire convaincante 3-0 au Mans&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ligue-1-le-toulouse-fc-domine-le-mans-et-livre-un-match-plein-de-buts-et-d-emotion_64937153.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ligue-1-le-toulouse-fc-domine-le-mans-et-livre-un-match-plein-de-buts-et-d-emotion_64937153.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Toulouse FC réalise deux prestations notables en Ligue 1 : d'abord un match nul remarquable arraché sur la pelouse de Monaco (2-2), leader du championnat, après avoir été menés 2-0 à la pause. Les Violets ont ensuite dominé Le Mans 3-0 en déplacement, avec un Aron Dönnum décisif dès son retour au onze de départ après un deuil familial. Ces deux résultats témoignent d'une solidité retrouvée et d'une attaque de plus en plus efficace, portée notamment par Tengstedt et Russell-Rowe. Supporters et observateurs retiennent l'émotion du match au Mans autant que la performance collective face au leader monégasque.</summary>
+    <category term="news"/>
+    <published>2026-10-16T22:39:53+02:00</published>
+  </entry>
+  <entry>
     <id>cluster:e001b8f8-5d01-42fb-976e-d92689c8a33c</id>
     <title>Pourquoi les stations VélôToulouse se vident après une manifestation</title>
     <updated>2026-10-17T06:35:44.548497+00:00</updated>
@@ -2716,23 +2271,6 @@
     <published>2026-10-12T09:39:21+02:00</published>
   </entry>
   <entry>
-    <id>cluster:2a8db44a-5498-4770-a049-4e3877f4d413</id>
-    <title>Le Toulouse FC arrache un nul à Monaco et écrase Le Mans</title>
-    <updated>2026-10-17T06:35:44.548497+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/le-tfc-a-fait-le-travail-face-a-un-cador-du-championnat-dans-un-stade-louis-ii-presque-vide.jpg"/&gt;
-&lt;p&gt;Le Toulouse FC réalise deux prestations notables en Ligue 1 : d&amp;#x27;abord un match nul remarquable arraché sur la pelouse de Monaco (2-2), leader du championnat, après avoir été menés 2-0 à la pause. Les Violets ont ensuite dominé Le Mans 3-0 en déplacement, avec un Aron Dönnum décisif dès son retour au onze de départ après un deuil familial. Ces deux résultats témoignent d&amp;#x27;une solidité retrouvée et d&amp;#x27;une attaque de plus en plus efficace, portée notamment par Tengstedt et Russell-Rowe. Supporters et observateurs retiennent l&amp;#x27;émotion du match au Mans autant que la performance collective face au leader monégasque.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux articles couvrent des matchs distincts : l&amp;#x27;un met en avant la résistance mentale face à Monaco (nul 2-2), l&amp;#x27;autre insiste sur l&amp;#x27;émotion et l&amp;#x27;efficacité offensive contre Le Mans (3-0).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Monaco)&lt;/strong&gt;: Le scénario du nul inattendu face au leader Monaco et la remontée en seconde période&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Le Mans)&lt;/strong&gt;: Le retour émouvant de Dönnum et la victoire convaincante 3-0 au Mans&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ligue-1-le-toulouse-fc-accroche-monaco-et-arrache-le-nul_64908295.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/ligue-1-le-toulouse-fc-domine-le-mans-et-livre-un-match-plein-de-buts-et-d-emotion_64937153.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/ligue-1-le-toulouse-fc-accroche-monaco-et-arrache-le-nul_64908295.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Toulouse FC réalise deux prestations notables en Ligue 1 : d'abord un match nul remarquable arraché sur la pelouse de Monaco (2-2), leader du championnat, après avoir été menés 2-0 à la pause. Les Violets ont ensuite dominé Le Mans 3-0 en déplacement, avec un Aron Dönnum décisif dès son retour au onze de départ après un deuil familial. Ces deux résultats témoignent d'une solidité retrouvée et d'une attaque de plus en plus efficace, portée notamment par Tengstedt et Russell-Rowe. Supporters et observateurs retiennent l'émotion du match au Mans autant que la performance collective face au leader monégasque.</summary>
-    <category term="news"/>
-    <published>2026-10-10T22:42:39+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672</id>
     <title>Halloween au zoo African Safari de Plaisance-du-Touch avec visites nocturnes</title>
     <updated>2026-10-18T06:31:58.617789+00:00</updated>
@@ -2823,21 +2361,6 @@
     <published>2026-10-17T19:02:02+02:00</published>
   </entry>
   <entry>
-    <id>cluster:93a7853f-c051-4125-8f73-5a863d043530</id>
-    <title>Pillages en centre-ville de Toulouse après la manifestation du 17 octobre</title>
-    <updated>2026-10-18T06:31:58.617789+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/casseurs-pillent-magasin-toulouse-4-bershka.jpeg"/&gt;
-&lt;p&gt;Après une manifestation massive à Toulouse le samedi 17 octobre 2026, rassemblant entre 32 000 personnes selon la préfecture et 80 000 selon la CGT, des scènes de violence ont éclaté en fin de journée dans l&amp;#x27;hypercentre. Des casseurs ont affronté les forces de l&amp;#x27;ordre à coups de projectiles et de mortiers, tandis que la police a fait usage de gaz lacrymogènes. Plusieurs magasins ont été pillés rue d&amp;#x27;Alsace-Lorraine et rue Saint-Rome, notamment Bershka, Lancaster et Courir, dont les vitrines ont été brisées. Des saccages ont également eu lieu dans le quartier Saint-Cyprien, et des feux de poubelles se sont multipliés jusqu&amp;#x27;en soirée.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/plusieurs-magasins-du-centre-ville-pilles-par-des-casseurs-apres-la-manifestation-du-17-octobre-a-toulouse_64939621.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/plusieurs-magasins-du-centre-ville-pilles-par-des-casseurs-apres-la-manifestation-du-17-octobre-a-toulouse_64939621.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Après une manifestation massive à Toulouse le samedi 17 octobre 2026, rassemblant entre 32 000 personnes selon la préfecture et 80 000 selon la CGT, des scènes de violence ont éclaté en fin de journée dans l'hypercentre. Des casseurs ont affronté les forces de l'ordre à coups de projectiles et de mortiers, tandis que la police a fait usage de gaz lacrymogènes. Plusieurs magasins ont été pillés rue d'Alsace-Lorraine et rue Saint-Rome, notamment Bershka, Lancaster et Courir, dont les vitrines ont été brisées. Des saccages ont également eu lieu dans le quartier Saint-Cyprien, et des feux de poubelles se sont multipliés jusqu'en soirée.</summary>
-    <category term="news"/>
-    <published>2026-10-17T19:50:36+02:00</published>
-  </entry>
-  <entry>
     <id>cluster:26d09eac-11f6-46b6-8cf8-00f32109d7f8</id>
     <title>La nouvelle tribune du complexe Georges-Rigal portera le nom de Georges Boyer</title>
     <updated>2026-10-18T06:31:58.617789+00:00</updated>
@@ -2866,5 +2389,265 @@
     <summary>Trois nouvelles adresses ont récemment ouvert leurs portes dans le centre de Toulouse, toutes situées autour de la place du Capitole. Mojo, installé place des Tiercettes à l'emplacement de l'ancien Franquette, propose une cuisine fusion audacieuse mêlant saveurs asiatiques et occitanes — arancini shiitake, bao à la tielle sétoise ou saucisse de Toulouse à la polenta et pakchoi — avec un menu déjeuner à 23 euros en semaine. Ô P'tit Garonnais, non loin des Carmes, mise sur le bistrot du Sud-Ouest avec des produits du terroir dans une ambiance conviviale. L'article mentionne également une troisième adresse, mais l'extrait disponible ne permet pas d'en détailler le contenu.</summary>
     <category term="place"/>
     <published>2026-10-18T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:bc2395a7-cf55-445f-99c4-76de16c6e7da</id>
+    <title>Adrien Latestère, marathonien toulousain passionné à 41 ans</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adrien-latestere-.jpg?h=9a356801&amp;amp;itok=Cwnrh4vl"/&gt;
+&lt;p&gt;Adrien Latestère, habitant de Cornebarrieu et directeur d&amp;#x27;un réseau de magasins de running, est l&amp;#x27;un des 10 à 15 meilleurs coureurs français de sa catégorie Masters (plus de 40 ans). Licencié au club d&amp;#x27;athlétisme de Blagnac, il court depuis l&amp;#x27;âge de 18 ans et estime que l&amp;#x27;accumulation de travail sur plus de deux décennies explique ses performances actuelles. Il a remporté le marathon de l&amp;#x27;Harmonie Mutuelle Toulouse Métropole Run Experience en 2025, qu&amp;#x27;il décrit comme sa plus belle victoire. Il sera de nouveau au départ de la prochaine édition, prévue le 1er novembre, avec l&amp;#x27;ambition de performer à nouveau.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#53212"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#53212"/>
+    <summary>Adrien Latestère, habitant de Cornebarrieu et directeur d'un réseau de magasins de running, est l'un des 10 à 15 meilleurs coureurs français de sa catégorie Masters (plus de 40 ans). Licencié au club d'athlétisme de Blagnac, il court depuis l'âge de 18 ans et estime que l'accumulation de travail sur plus de deux décennies explique ses performances actuelles. Il a remporté le marathon de l'Harmonie Mutuelle Toulouse Métropole Run Experience en 2025, qu'il décrit comme sa plus belle victoire. Il sera de nouveau au départ de la prochaine édition, prévue le 1er novembre, avec l'ambition de performer à nouveau.</summary>
+    <category term="news"/>
+    <published>2026-10-19T04:12:06.443000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f71f9073-e2e2-4ff1-86b9-36b659d96b03</id>
+    <title>La Forêt Magique de Bouconne se transforme pour Halloween</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/equipe-de-sorcieres.jpg?h=4f6557bd&amp;amp;itok=GOOJv_G4"/&gt;
+&lt;p&gt;La Forêt Magique revient à Cornebarrieu (forêt de Bouconne) pour les vacances de la Toussaint, avec quatre nouveaux parcours thématiques adaptés à différents âges : le secret d&amp;#x27;Halloween, l&amp;#x27;académie des méchants, la chasse aux monstres et la quête de la citrouille d&amp;#x27;or. Un seul billet donne accès aux quatre aventures, pour environ deux heures de jeu mêlant énigmes, défis et chasse au trésor. Nouveauté cette année : des sessions nocturnes jusqu&amp;#x27;à 21h30 tous les soirs, offrant une ambiance nettement plus mystérieuse à la tombée de la nuit. Les 30 et 31 octobre, deux soirées spéciales Zombies sont prévues pour les plus de 12 ans, avant la clôture du site le 1er novembre. L&amp;#x27;entrée est de 9 à 10 € et gratuite pour les moins de 12 ans.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#53210"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#53210"/>
+    <summary>La Forêt Magique revient à Cornebarrieu (forêt de Bouconne) pour les vacances de la Toussaint, avec quatre nouveaux parcours thématiques adaptés à différents âges : le secret d'Halloween, l'académie des méchants, la chasse aux monstres et la quête de la citrouille d'or. Un seul billet donne accès aux quatre aventures, pour environ deux heures de jeu mêlant énigmes, défis et chasse au trésor. Nouveauté cette année : des sessions nocturnes jusqu'à 21h30 tous les soirs, offrant une ambiance nettement plus mystérieuse à la tombée de la nuit. Les 30 et 31 octobre, deux soirées spéciales Zombies sont prévues pour les plus de 12 ans, avant la clôture du site le 1er novembre. L'entrée est de 9 à 10 € et gratuite pour les moins de 12 ans.</summary>
+    <category term="event"/>
+    <published>2026-10-19T04:12:06.443000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:612d196d-7d74-4248-afc4-b457c1143e81</id>
+    <title>Mémoire de fille au cinéma ABC pour la Journée Mission égalité</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/photo-6-copyright--c--windy-production---moana-films.jpg?itok=AytXFjQ7"/&gt;
+&lt;p&gt;Le cinéma ABC de Toulouse programme ce soir à 18h la projection de Mémoire de fille, film adapté par Judith Godrèche du roman autobiographique d&amp;#x27;Annie Ernaux, présenté à Cannes 2026 dans la section Un certain regard. L&amp;#x27;événement s&amp;#x27;inscrit dans la 3e édition de la Journée Mission égalité, organisée en partenariat avec l&amp;#x27;ENSAV et l&amp;#x27;Université Toulouse Jean-Jaurès. La séance est enrichie par la présence en salle de l&amp;#x27;actrice Maïwène Barthèlemy, révélée dans Vingt Dieux. Le film retrace l&amp;#x27;été 1958 d&amp;#x27;une Annie Ernaux de 18 ans, confrontée à une relation non consentie dans une colonie de vacances — une expérience traumatique qui façonnera la future prix Nobel de littérature.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#53211"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#53211"/>
+    <summary>Le cinéma ABC de Toulouse programme ce soir à 18h la projection de Mémoire de fille, film adapté par Judith Godrèche du roman autobiographique d'Annie Ernaux, présenté à Cannes 2026 dans la section Un certain regard. L'événement s'inscrit dans la 3e édition de la Journée Mission égalité, organisée en partenariat avec l'ENSAV et l'Université Toulouse Jean-Jaurès. La séance est enrichie par la présence en salle de l'actrice Maïwène Barthèlemy, révélée dans Vingt Dieux. Le film retrace l'été 1958 d'une Annie Ernaux de 18 ans, confrontée à une relation non consentie dans une colonie de vacances — une expérience traumatique qui façonnera la future prix Nobel de littérature.</summary>
+    <category term="event"/>
+    <published>2026-10-19T04:12:06.443000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:63bae990-d204-4b12-ba6f-04f291b66f0c</id>
+    <title>«Donnez à lire» : offrir des livres jeunesse dans quatre librairies locales</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/livre-coeur-adobestock_358453840.jpg?itok=0fGlD3L3"/&gt;
+&lt;p&gt;L&amp;#x27;opération «Donnez à lire», initiée par le Syndicat de la librairie française, permet jusqu&amp;#x27;au 20 novembre d&amp;#x27;acheter un livre jeunesse en librairie qui sera ensuite remis au Secours populaire français pour des enfants de familles dans le besoin. Dans la métropole toulousaine, quatre librairies participent : Ellipses et Le Chameau Sauvage à Toulouse, Les Passantes à L&amp;#x27;Union, et Nouvelle Page à Pibrac. Cette année, l&amp;#x27;opération est parrainée par le journaliste Augustin Trapenard et l&amp;#x27;autrice Lola Lafon. En 2025, plus de 800 librairies à travers la France avaient permis de collecter 27 000 livres grâce à cette initiative qui existe depuis plus de dix ans.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#53209"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#53209"/>
+    <summary>L'opération «Donnez à lire», initiée par le Syndicat de la librairie française, permet jusqu'au 20 novembre d'acheter un livre jeunesse en librairie qui sera ensuite remis au Secours populaire français pour des enfants de familles dans le besoin. Dans la métropole toulousaine, quatre librairies participent : Ellipses et Le Chameau Sauvage à Toulouse, Les Passantes à L'Union, et Nouvelle Page à Pibrac. Cette année, l'opération est parrainée par le journaliste Augustin Trapenard et l'autrice Lola Lafon. En 2025, plus de 800 librairies à travers la France avaient permis de collecter 27 000 livres grâce à cette initiative qui existe depuis plus de dix ans.</summary>
+    <category term="event"/>
+    <published>2026-10-19T04:12:06.443000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7eb34131-e413-41ca-933c-e658457aad91</id>
+    <title>Journée douleur chronique à l'hôpital Ducuing : ateliers gratuits</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/senior-tapis-sport-adobestock_169974355_0.jpg?h=909770d9&amp;amp;itok=AUpJBifq"/&gt;
+&lt;p&gt;À l&amp;#x27;occasion de la Journée mondiale de lutte contre la douleur, l&amp;#x27;hôpital Joseph Ducuing (Saint-Cyprien) propose une journée entière d&amp;#x27;ateliers et d&amp;#x27;échanges gratuits, de 9h à 17h. Le thème 2026 est « Ensemble avec la science », et la journée est intitulée « Douleur et mise en mouvement ». Au programme : yoga, méditation, activité physique adaptée, écriture et conseils posturaux, animés par des professionnels de l&amp;#x27;établissement et des associations de patients comme Étincelle Occitanie et efFORMip. L&amp;#x27;accueil se fait sans inscription dans la salle FFI-Guérilleros — un événement particulièrement utile sachant que 42 % des adultes français souffrent de douleurs chroniques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#53208"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-10-19?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#53208"/>
+    <summary>À l'occasion de la Journée mondiale de lutte contre la douleur, l'hôpital Joseph Ducuing (Saint-Cyprien) propose une journée entière d'ateliers et d'échanges gratuits, de 9h à 17h. Le thème 2026 est « Ensemble avec la science », et la journée est intitulée « Douleur et mise en mouvement ». Au programme : yoga, méditation, activité physique adaptée, écriture et conseils posturaux, animés par des professionnels de l'établissement et des associations de patients comme Étincelle Occitanie et efFORMip. L'accueil se fait sans inscription dans la salle FFI-Guérilleros — un événement particulièrement utile sachant que 42 % des adultes français souffrent de douleurs chroniques.</summary>
+    <category term="event"/>
+    <published>2026-10-19T04:12:06.443000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:8893f6f8-7246-4896-8056-f6c66beb0a7a</id>
+    <title>Les Concerts de Poche « À bout de souffle » à Toulouse samedi</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;p&gt;Samedi, les Concerts de Poche proposent une représentation intitulée « À bout de souffle » à Toulouse. Le programme réunit deux pianistes, Stéphane Escoubet et Stéphane Delincak, ainsi que la comédienne Muriel Bénazeraf. Ce format « concert de poche » allie musique et théâtre dans des espaces intimistes, hors des salles de concert traditionnelles. L&amp;#x27;événement s&amp;#x27;adresse à tous les publics souhaitant découvrir la musique classique dans un cadre accessible et convivial.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93leY&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93leY&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93leY&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Samedi, les Concerts de Poche proposent une représentation intitulée « À bout de souffle » à Toulouse. Le programme réunit deux pianistes, Stéphane Escoubet et Stéphane Delincak, ainsi que la comédienne Muriel Bénazeraf. Ce format « concert de poche » allie musique et théâtre dans des espaces intimistes, hors des salles de concert traditionnelles. L'événement s'adresse à tous les publics souhaitant découvrir la musique classique dans un cadre accessible et convivial.</summary>
+    <category term="event"/>
+    <published>2026-10-19T04:04:34.331000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a7e7682e-44f7-4ca5-a934-efc07e9f6e8d</id>
+    <title>Visites guidées de l'Office de tourisme de Toulouse toute la semaine</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Visite-Toulouse-Assezat.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;Office de tourisme de Toulouse propose une programmation variée de visites guidées tout au long de la semaine. Au programme : balade patrimoniale sur les hauts lieux toulousains, lever de rideau au théâtre du Capitole, découverte des façades Renaissance des hôtels particuliers, et visite gourmande du marché de Saint-Cyprien. La semaine se complète avec un graff tour, une visite en langue des signes française, une découverte de la Grave et un parcours sur le Toulouse des Années Folles. Ces activités s&amp;#x27;adressent à un large public, des curieux d&amp;#x27;histoire aux amateurs de street art, en passant par les personnes sourdes ou malentendantes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93kMw&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93kMw&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93kMw&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'Office de tourisme de Toulouse propose une programmation variée de visites guidées tout au long de la semaine. Au programme : balade patrimoniale sur les hauts lieux toulousains, lever de rideau au théâtre du Capitole, découverte des façades Renaissance des hôtels particuliers, et visite gourmande du marché de Saint-Cyprien. La semaine se complète avec un graff tour, une visite en langue des signes française, une découverte de la Grave et un parcours sur le Toulouse des Années Folles. Ces activités s'adressent à un large public, des curieux d'histoire aux amateurs de street art, en passant par les personnes sourdes ou malentendantes.</summary>
+    <category term="event"/>
+    <published>2026-10-19T04:04:34.331000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:cecb49cb-8305-4328-9800-3c53012a6d6f</id>
+    <title>Le Poutou de Toulouse fête ses 70 ans à la Maison des associations</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/visite-ot-donjeon---remi-diligeon.jpg?h=d1ce6775&amp;amp;itok=HN2JHI_9"/&gt;
+&lt;p&gt;Le Poutou de Toulouse célèbre 70 ans de culture occitane avec une exposition gratuite à la Maison des associations, place Guy Hersant, ouverte jusqu&amp;#x27;au 31 octobre, du lundi au samedi de 10h à 12h et de 15h à 18h. L&amp;#x27;exposition rassemble costumes, instruments traditionnels et archives illustrant l&amp;#x27;histoire de cette association de danse et musique occitanes. Le temps fort est prévu le samedi 24 octobre avec un stage de danses occitanes gratuit, un vernissage, un buffet (25 €) et un bal traditionnel à 21h15. L&amp;#x27;événement s&amp;#x27;adresse aussi bien aux passionnés de culture occitane qu&amp;#x27;aux curieux souhaitant découvrir ce patrimoine vivant toulousain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93kMs&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDIVXegEHz5yNM5WONu~X_Rj_b3wuwxkaHLJqab68FAzUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93kMs&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVs1n-ijkA0_ueglPXEIFCg5q360NHGVPFs1o2kj_93kMs&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Poutou de Toulouse célèbre 70 ans de culture occitane avec une exposition gratuite à la Maison des associations, place Guy Hersant, ouverte jusqu'au 31 octobre, du lundi au samedi de 10h à 12h et de 15h à 18h. L'exposition rassemble costumes, instruments traditionnels et archives illustrant l'histoire de cette association de danse et musique occitanes. Le temps fort est prévu le samedi 24 octobre avec un stage de danses occitanes gratuit, un vernissage, un buffet (25 €) et un bal traditionnel à 21h15. L'événement s'adresse aussi bien aux passionnés de culture occitane qu'aux curieux souhaitant découvrir ce patrimoine vivant toulousain.</summary>
+    <category term="event"/>
+    <published>2026-10-19T04:04:34.331000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:e49d67b5-2a01-4e8d-8898-04464276f3ff</id>
+    <title>La consécration de la basilique Saint-Sernin par le pape Urbain II en 1096</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/lentree-a-toulouse-durbain-ii-a-toulouse-tableau-de-benjmain-constant-credit-didier-descouens.jpg"/&gt;
+&lt;p&gt;Le 24 mai 1096, le pape Urbain II se rendit à Toulouse pour consacrer l&amp;#x27;autel de l&amp;#x27;église Saint-Sernin, en présence du comte Raimond de Saint-Gilles et de nombreux prélats. La cérémonie suivait les rites de dédicace de l&amp;#x27;époque : tour de l&amp;#x27;édifice, coups frappés aux portes, tracé des alphabets grec et latin au sol, aspersions d&amp;#x27;eau bénite et onctions d&amp;#x27;huile sainte. À cette date, la reconstruction de l&amp;#x27;église — engagée dans la seconde moitié du XIe siècle pour accueillir les flots de pèlerins sur le chemin de Saint-Jacques-de-Compostelle — était encore loin d&amp;#x27;être achevée. L&amp;#x27;article retrace l&amp;#x27;histoire monumentale et spirituelle de ce sanctuaire dédié à saint Saturnin, premier évêque de Toulouse martyrisé au IIIe siècle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/il-etait-une-fois-la-consecration-de-l-eglise-saint-sernin-a-toulouse-par-le-pape-urbain-ii_64913537.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/il-etait-une-fois-la-consecration-de-l-eglise-saint-sernin-a-toulouse-par-le-pape-urbain-ii_64913537.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le 24 mai 1096, le pape Urbain II se rendit à Toulouse pour consacrer l'autel de l'église Saint-Sernin, en présence du comte Raimond de Saint-Gilles et de nombreux prélats. La cérémonie suivait les rites de dédicace de l'époque : tour de l'édifice, coups frappés aux portes, tracé des alphabets grec et latin au sol, aspersions d'eau bénite et onctions d'huile sainte. À cette date, la reconstruction de l'église — engagée dans la seconde moitié du XIe siècle pour accueillir les flots de pèlerins sur le chemin de Saint-Jacques-de-Compostelle — était encore loin d'être achevée. L'article retrace l'histoire monumentale et spirituelle de ce sanctuaire dédié à saint Saturnin, premier évêque de Toulouse martyrisé au IIIe siècle.</summary>
+    <category term="culture"/>
+    <published>2026-10-18T15:16:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:06b6c041-c40c-4071-8c2f-4937e4e57d1b</id>
+    <title>Gagnez des places pour TFC vs Troyes au Stadium de Toulouse</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/supporters-toulouse-fc-stadium.jpg"/&gt;
+&lt;p&gt;Actu Toulouse organise un jeu-concours pour faire gagner des places pour le match de Ligue 1 entre le Toulouse Football Club et l&amp;#x27;Estac Troyes, prévu le samedi 24 octobre 2026 à 17h15 au Stadium de Toulouse. Il s&amp;#x27;agit de la 8e journée du championnat de Ligue 1 McDonald&amp;#x27;s. Deux places sont offertes par gagnant, et les participants doivent remplir un formulaire en ligne avant le mercredi 21 octobre 2026 à 14h00. Les gagnants seront contactés par téléphone — une belle opportunité pour les supporters toulousains d&amp;#x27;assister à un match de championnat gratuitement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-match-entre-le-tfc-et-troyes-a-toulouse_64923748.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-match-entre-le-tfc-et-troyes-a-toulouse_64923748.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Actu Toulouse organise un jeu-concours pour faire gagner des places pour le match de Ligue 1 entre le Toulouse Football Club et l'Estac Troyes, prévu le samedi 24 octobre 2026 à 17h15 au Stadium de Toulouse. Il s'agit de la 8e journée du championnat de Ligue 1 McDonald's. Deux places sont offertes par gagnant, et les participants doivent remplir un formulaire en ligne avant le mercredi 21 octobre 2026 à 14h00. Les gagnants seront contactés par téléphone — une belle opportunité pour les supporters toulousains d'assister à un match de championnat gratuitement.</summary>
+    <category term="news"/>
+    <published>2026-10-18T17:02:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:18abdb45-3db6-453c-a2e2-eb1edc3cb455</id>
+    <title>Le réseau de chaleur du Mirail étendu à cinq nouveaux quartiers toulousains</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/incinerateur-dechetterie-mirail-toulouse.jpg"/&gt;
+&lt;p&gt;La métropole de Toulouse a voté lors du conseil du 15 octobre 2026 l&amp;#x27;extension du réseau de chaleur du Mirail, alimenté par l&amp;#x27;incinération des ordures ménagères. Une concession de 20 ans a été accordée à Engie Énergie Service à partir de février 2027, qui devra créer 40 kilomètres de réseaux enterrés supplémentaires. D&amp;#x27;ici 2031, les quartiers de Basso Cambo, Lardenne, Les Arènes, Saint-Cyprien et la ZAC Ferro-Lèbres seront desservis, soit l&amp;#x27;équivalent de 16 250 logements supplémentaires. Le réseau historique sera également modernisé, passant en basse température/basse pression pour plus d&amp;#x27;efficacité, et un réseau de froid de 5,5 km sera créé pour Basso Cambo et le secteur Météo France.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-reseau-de-chaleur-du-mirail-va-etre-etendu-de-nouveaux-quartier-de-toulouse-vont-pouvoir-en-profiter_64933498.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-reseau-de-chaleur-du-mirail-va-etre-etendu-de-nouveaux-quartier-de-toulouse-vont-pouvoir-en-profiter_64933498.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La métropole de Toulouse a voté lors du conseil du 15 octobre 2026 l'extension du réseau de chaleur du Mirail, alimenté par l'incinération des ordures ménagères. Une concession de 20 ans a été accordée à Engie Énergie Service à partir de février 2027, qui devra créer 40 kilomètres de réseaux enterrés supplémentaires. D'ici 2031, les quartiers de Basso Cambo, Lardenne, Les Arènes, Saint-Cyprien et la ZAC Ferro-Lèbres seront desservis, soit l'équivalent de 16 250 logements supplémentaires. Le réseau historique sera également modernisé, passant en basse température/basse pression pour plus d'efficacité, et un réseau de froid de 5,5 km sera créé pour Basso Cambo et le secteur Météo France.</summary>
+    <category term="news"/>
+    <published>2026-10-18T17:24:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5a97a411-c6f6-4622-9f9d-be43a796248c</id>
+    <title>Stade Toulousain : deux victoires en Top 14 et Champions Cup</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/antoine-dupont-stade-toulousain-essai.jpg"/&gt;
+&lt;p&gt;Le Stade Toulousain s&amp;#x27;est imposé face à l&amp;#x27;Aviron Bayonnais (45-34) lors de la 6e journée de Top 14, dans un Ernest-Wallon comble pour le 85e match consécutif à guichets fermés. Le match a été marqué par un chassé-croisé de six essais de chaque côté, avec notamment une prestation de Cyril Baille — futur Bayonnais — et un exploit personnel d&amp;#x27;Antoine Dupont. En Champions Cup, Toulouse a livré l&amp;#x27;un des plus grands retournements de son histoire européenne, s&amp;#x27;imposant 43-40 face à Exeter malgré plus d&amp;#x27;une heure à 14 contre 15, après le carton rouge de Rodrigue Neti. Ces deux victoires confirment la résilience et la profondeur d&amp;#x27;effectif d&amp;#x27;une équipe qui reste l&amp;#x27;une des forces majeures du rugby français et européen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article détaille le film du match de Top 14 contre Bayonne avec un angle anecdotique sur Cyril Baille, futur transfuge. Le second se concentre sur la performance héroïque en Champions Cup contre Exeter, insistant sur le caractère exceptionnel du retournement de situation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Top 14)&lt;/strong&gt;: Récit du match contre Bayonne et le chassé-croisé d&amp;#x27;essais&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Champions Cup)&lt;/strong&gt;: L&amp;#x27;épopée européenne face à Exeter avec 14 joueurs pendant plus d&amp;#x27;une heure&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/coupe-d-europe-a-14-pendant-plus-d-une-heure-le-stade-toulousain-renverse-exeter_64941357.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/coupe-d-europe-a-14-pendant-plus-d-une-heure-le-stade-toulousain-renverse-exeter_64941357.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Stade Toulousain s'est imposé face à l'Aviron Bayonnais (45-34) lors de la 6e journée de Top 14, dans un Ernest-Wallon comble pour le 85e match consécutif à guichets fermés. Le match a été marqué par un chassé-croisé de six essais de chaque côté, avec notamment une prestation de Cyril Baille — futur Bayonnais — et un exploit personnel d'Antoine Dupont. En Champions Cup, Toulouse a livré l'un des plus grands retournements de son histoire européenne, s'imposant 43-40 face à Exeter malgré plus d'une heure à 14 contre 15, après le carton rouge de Rodrigue Neti. Ces deux victoires confirment la résilience et la profondeur d'effectif d'une équipe qui reste l'une des forces majeures du rugby français et européen.</summary>
+    <category term="news"/>
+    <published>2026-10-18T18:12:56+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:fca682fd-9465-4039-b4b5-637bda67e9c1</id>
+    <title>Le Mangeur masqué publie son premier guide des restaurants toulousains</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/1000075340-1.jpg"/&gt;
+&lt;p&gt;Le Mangeur masqué, critique culinaire anonyme et figure incontournable de la scène gastronomique toulousaine, franchit une nouvelle étape en publiant son premier guide de restaurants intitulé « Miam ! ». Connu pour ses chroniques indépendantes sur Instagram depuis cinq ou six ans, il propose un ouvrage organisé par envies — brunch, cassoulet, couscous — plutôt qu&amp;#x27;un simple carnet d&amp;#x27;adresses. Le guide au format A5 se veut pratique, transportable et fidèle aux valeurs de son auteur : sincérité, passion et indépendance. Il inclut également des anecdotes, portraits et quiz, et s&amp;#x27;adresse à tous les Toulousains en quête de bonnes adresses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/je-veux-montrer-la-diversite-culinaire-de-toulouse-le-mangeur-masque-publie-son-premier-guide-des-restaurants_64861311.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/je-veux-montrer-la-diversite-culinaire-de-toulouse-le-mangeur-masque-publie-son-premier-guide-des-restaurants_64861311.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Mangeur masqué, critique culinaire anonyme et figure incontournable de la scène gastronomique toulousaine, franchit une nouvelle étape en publiant son premier guide de restaurants intitulé « Miam ! ». Connu pour ses chroniques indépendantes sur Instagram depuis cinq ou six ans, il propose un ouvrage organisé par envies — brunch, cassoulet, couscous — plutôt qu'un simple carnet d'adresses. Le guide au format A5 se veut pratique, transportable et fidèle aux valeurs de son auteur : sincérité, passion et indépendance. Il inclut également des anecdotes, portraits et quiz, et s'adresse à tous les Toulousains en quête de bonnes adresses.</summary>
+    <category term="culture"/>
+    <published>2026-10-18T18:30:32+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a2073e21-4a58-40a4-97a6-af7df611703b</id>
+    <title>La clinique Saint-Exupéry accélère le diagnostic du cancer de la prostate</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/07/7c2d760578c76603d760578c7543d7v.jpg"/&gt;
+&lt;p&gt;La clinique Saint-Exupéry, au sud-est de Toulouse, lance « One day prostate », un dispositif unique en France qui permet de réaliser l&amp;#x27;intégralité du bilan diagnostique du cancer de la prostate en une seule journée. Habituellement, ce parcours s&amp;#x27;étale sur trois à six mois selon les secteurs, un délai qui retarde la mise en place des traitements. Le cancer de la prostate est le plus fréquent chez l&amp;#x27;homme en France, avec 60 000 nouveaux cas et 9 000 décès par an. Ce dispositif, porté par la clinique et les urologues d&amp;#x27;Urosud, s&amp;#x27;adresse aux hommes orientés vers un bilan exploratoire, dans un contexte où le dépistage reste à l&amp;#x27;initiative du médecin généraliste à partir de 50 ans.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/avec-ce-dispositif-inedit-en-france-cette-clinique-de-toulouse-accelere-le-diagnostic-des-cancers-de-la-prostate_64931817.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/avec-ce-dispositif-inedit-en-france-cette-clinique-de-toulouse-accelere-le-diagnostic-des-cancers-de-la-prostate_64931817.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La clinique Saint-Exupéry, au sud-est de Toulouse, lance « One day prostate », un dispositif unique en France qui permet de réaliser l'intégralité du bilan diagnostique du cancer de la prostate en une seule journée. Habituellement, ce parcours s'étale sur trois à six mois selon les secteurs, un délai qui retarde la mise en place des traitements. Le cancer de la prostate est le plus fréquent chez l'homme en France, avec 60 000 nouveaux cas et 9 000 décès par an. Ce dispositif, porté par la clinique et les urologues d'Urosud, s'adresse aux hommes orientés vers un bilan exploratoire, dans un contexte où le dépistage reste à l'initiative du médecin généraliste à partir de 50 ans.</summary>
+    <category term="news"/>
+    <published>2026-10-19T06:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c29845b1-3f51-411e-8ed3-d374132a5ba8</id>
+    <title>Finances de Toulouse Métropole : indicateurs dans le rouge, fiscalité en question</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/pxl-20261015-123833003mp2.jpg"/&gt;
+&lt;p&gt;Le conseil métropolitain du 15 octobre 2026 a examiné le Rapport d&amp;#x27;orientations budgétaires 2027, révélant une situation financière sous forte tension. La collectivité subit une ponction cumulée de 150 millions d&amp;#x27;euros due aux lois de finances nationales 2025 et 2026, à laquelle s&amp;#x27;ajoute la montée en charge des contributions à Tisséo pour financer le chantier de la 3e ligne de métro. La majorité, emmenée par Jean-Luc Moudenc, défend une gestion rigoureuse en attendant un retour à la normale après 2027, une fois le pic de financement de la ligne C passé. L&amp;#x27;opposition et certains élus de la majorité ont toutefois ouvertement évoqué la possibilité d&amp;#x27;une hausse des impôts locaux pour faire face à ces difficultés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/finances-de-toulouse-metropole-plusieurs-indicateurs-dans-le-rouge-la-question-des-ressources-de-retour-sur-la-table_64934711.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/finances-de-toulouse-metropole-plusieurs-indicateurs-dans-le-rouge-la-question-des-ressources-de-retour-sur-la-table_64934711.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le conseil métropolitain du 15 octobre 2026 a examiné le Rapport d'orientations budgétaires 2027, révélant une situation financière sous forte tension. La collectivité subit une ponction cumulée de 150 millions d'euros due aux lois de finances nationales 2025 et 2026, à laquelle s'ajoute la montée en charge des contributions à Tisséo pour financer le chantier de la 3e ligne de métro. La majorité, emmenée par Jean-Luc Moudenc, défend une gestion rigoureuse en attendant un retour à la normale après 2027, une fois le pic de financement de la ligne C passé. L'opposition et certains élus de la majorité ont toutefois ouvertement évoqué la possibilité d'une hausse des impôts locaux pour faire face à ces difficultés.</summary>
+    <category term="news"/>
+    <published>2026-10-19T07:12:01+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:93a7853f-c051-4125-8f73-5a863d043530</id>
+    <title>Violences après la manifestation du 17 octobre à Toulouse : pillages et gardes à vue</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/casseurs-pillent-magasin-toulouse-4-bershka.jpeg"/&gt;
+&lt;p&gt;La manifestation du 17 octobre 2026 à Toulouse, l&amp;#x27;une des plus massives de la ville avec entre 32 000 et 80 000 participants selon les sources, a dégénéré en fin de journée en affrontements violents dans l&amp;#x27;hypercentre. Des casseurs ont pillé une dizaine de boutiques, notamment rue d&amp;#x27;Alsace-Lorraine et rue Saint-Rome (Bershka, Lancaster, Courir…), et saccagé du mobilier urbain dans plusieurs quartiers dont Saint-Cyprien, la Patte-d&amp;#x27;Oie et les abords du Capitole. Au total, 102 personnes ont été placées en garde à vue, dont 24 mineurs, et 25 commerçants ont subi des dégradations, selon le maire Jean-Luc Moudenc. Le lendemain, de nouveaux affrontements ont éclaté allées Jean-Jaurès lors d&amp;#x27;un rassemblement non autorisé, entraînant des perturbations sur le réseau Tisséo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les articles adoptent des angles complémentaires : le premier se concentre sur les scènes de pillage filmées en direct, le second dresse un bilan chiffré officiel, le troisième donne la parole au maire au lendemain des faits, et le quatrième couvre en direct les affrontements du dimanche. Les chiffres de participation varient significativement selon la source (préfecture vs syndicats), et la préfecture insiste sur la présence de « 1 500 à 2 000 individus préparés » — une affirmation non vérifiée de façon indépendante.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Vidéo. Plusieurs magasins…)&lt;/strong&gt;: Récit et vidéo des pillages en centre-ville&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (102 gardes à vue…)&lt;/strong&gt;: Bilan chiffré : interpellations, blessés, déroulement chronologique&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Interview. Jean-Luc Moudenc…)&lt;/strong&gt;: Réaction du maire et état des commerces le lendemain&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Nouveaux affrontements…)&lt;/strong&gt;: Suivi en direct des incidents du dimanche 18 octobre&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/plusieurs-magasins-du-centre-ville-pilles-par-des-casseurs-apres-la-manifestation-du-17-octobre-a-toulouse_64939621.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/102-personnes-en-garde-a-vue-dont-24-mineurs-apres-la-mobilisation-du-17-octobre-a-toulouse-le-bilan-de-la-journee_64940652.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/j-ai-vu-passer-un-mot-d-ordre-moudenc-t-es-mort-le-maire-de-toulouse-se-livre-apres-les-violences-du-17-octobre_64940931.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/nouveaux-affrontements-en-centre-ville-de-toulouse-au-lendemain-du-17-octobre-jean-jaures-sous-les-lacrymo_64941440.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/plusieurs-magasins-du-centre-ville-pilles-par-des-casseurs-apres-la-manifestation-du-17-octobre-a-toulouse_64939621.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La manifestation du 17 octobre 2026 à Toulouse, l'une des plus massives de la ville avec entre 32 000 et 80 000 participants selon les sources, a dégénéré en fin de journée en affrontements violents dans l'hypercentre. Des casseurs ont pillé une dizaine de boutiques, notamment rue d'Alsace-Lorraine et rue Saint-Rome (Bershka, Lancaster, Courir…), et saccagé du mobilier urbain dans plusieurs quartiers dont Saint-Cyprien, la Patte-d'Oie et les abords du Capitole. Au total, 102 personnes ont été placées en garde à vue, dont 24 mineurs, et 25 commerçants ont subi des dégradations, selon le maire Jean-Luc Moudenc. Le lendemain, de nouveaux affrontements ont éclaté allées Jean-Jaurès lors d'un rassemblement non autorisé, entraînant des perturbations sur le réseau Tisséo.</summary>
+    <category term="news"/>
+    <published>2026-10-17T19:50:36+02:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c9579bc3-76f5-472b-88ae-0309f63c085c</id>
+    <title>Travaux et déviations : plusieurs axes de Toulouse perturbés mi-octobre</title>
+    <updated>2026-10-19T06:32:23.116452+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/rue-urbaine-sous-ciel-couvert.png"/&gt;
+&lt;p&gt;Plusieurs chantiers d&amp;#x27;envergure vont perturber la circulation à Toulouse et ses abords dès mi-octobre 2026. Sur la Route Métropolitaine 2 (avenue de Toulouse / route de Revel), la pose du tapis final de chaussée entraînera des déviations les 19 et 20 octobre de 9h à 16h, avec des itinéraires alternatifs distincts selon le sens de circulation ; piétons et cyclistes pourront toutefois continuer à emprunter le trottoir nord. En parallèle, trois chantiers liés au déploiement du réseau de chaleur et de froid urbain affectent Saint-Aubin (rue Nicolas Bachelier, fermée jusqu&amp;#x27;au 8 novembre) et Matabiau (rue et impasse de l&amp;#x27;Orient, du 19 octobre au 1er novembre). Dans tous les cas, les accès riverains et les commerces restent ouverts, et les lignes de bus seront déviées sur la RM2.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article se concentre sur la RM2 et présente les travaux comme une bonne nouvelle car de courte durée ; le second adopte une approche plus large en listant trois chantiers simultanés liés au réseau de chaleur urbain, dans des quartiers centraux.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (RM2)&lt;/strong&gt;: Déviations précises et dates pour la Route Métropolitaine 2 / route de Revel&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (trois chantiers)&lt;/strong&gt;: Vue d&amp;#x27;ensemble des perturbations dans Saint-Aubin et Matabiau&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/au-coeur-d-un-quartier-en-pleine-mutation-cet-axe-majeur-aux-portes-de-toulouse-va-a-nouveau-faire-l-objet-de-travaux_64926851.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/trois-nouveaux-chantiers-majeurs-vont-impacter-la-circulation-dans-ces-secteurs-de-toulouse_64928360.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/au-coeur-d-un-quartier-en-pleine-mutation-cet-axe-majeur-aux-portes-de-toulouse-va-a-nouveau-faire-l-objet-de-travaux_64926851.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Plusieurs chantiers d'envergure vont perturber la circulation à Toulouse et ses abords dès mi-octobre 2026. Sur la Route Métropolitaine 2 (avenue de Toulouse / route de Revel), la pose du tapis final de chaussée entraînera des déviations les 19 et 20 octobre de 9h à 16h, avec des itinéraires alternatifs distincts selon le sens de circulation ; piétons et cyclistes pourront toutefois continuer à emprunter le trottoir nord. En parallèle, trois chantiers liés au déploiement du réseau de chaleur et de froid urbain affectent Saint-Aubin (rue Nicolas Bachelier, fermée jusqu'au 8 novembre) et Matabiau (rue et impasse de l'Orient, du 19 octobre au 1er novembre). Dans tous les cas, les accès riverains et les commerces restent ouverts, et les lignes de bus seront déviées sur la RM2.</summary>
+    <category term="news"/>
+    <published>2026-10-15T12:06:01+02:00</published>
   </entry>
 </feed>

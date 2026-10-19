@@ -1,0 +1,77 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cceb4d06-a26b-4a2e-af4c-78d0ace73640",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Eau là là ! » : spectacle jeune public au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/EAU-LA-LA-2.jpg",
+    "file": "cluster_cceb4d06-a26b-4a2e-af4c-78d0ace73640_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a7e7682e-44f7-4ca5-a934-efc07e9f6e8d",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Visites guidées de l'Office de tourisme de Toulouse toute la semaine",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Visite-Toulouse-Assezat.jpg",
+    "file": "cluster_a7e7682e-44f7-4ca5-a934-efc07e9f6e8d_event_story.jpg",
+    "img_width": 850,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:97a7919d-9421-488f-8721-38b1a3842cc3",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Bootcamp IA gratuit pour lycéennes à Epitech Toulouse",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ac4b10cbbe6edba58095262/hd/image.jpg?v=2",
+    "file": "cluster_97a7919d-9421-488f-8721-38b1a3842cc3_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:612d196d-7d74-4248-afc4-b457c1143e81",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Mémoire de fille au cinéma ABC pour la Journée Mission égalité",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/photo-6-copyright--c--windy-production---moana-films.jpg?itok=AytXFjQ7",
+    "file": "cluster_612d196d-7d74-4248-afc4-b457c1143e81_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:63bae990-d204-4b12-ba6f-04f291b66f0c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "«Donnez à lire» : offrir des livres jeunesse dans quatre librairies locales",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/livre-coeur-adobestock_358453840.jpg?itok=0fGlD3L3",
+    "file": "cluster_63bae990-d204-4b12-ba6f-04f291b66f0c_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:7eb34131-e413-41ca-933c-e658457aad91",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Journée douleur chronique à l'hôpital Ducuing : ateliers gratuits",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/senior-tapis-sport-adobestock_169974355_0.jpg?h=909770d9&itok=AUpJBifq",
+    "file": "cluster_7eb34131-e413-41ca-933c-e658457aad91_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
