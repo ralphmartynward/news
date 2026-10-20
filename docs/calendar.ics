@@ -10460,23 +10460,6 @@ URL:https://www.toulouse-tourisme.com/agenda/chelabom/?utm_source=ical&utm_
  medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:b4aa1d4f-3a7c-4468-94bd-dfed6eff7195@news.lavillerose.com
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Vacances de Rêve
-DESCRIPTION:Le comique Bruno Aguiar présente son spectacle « Vacances de 
- Rêve » au Café Théâtre Les 3T à Toulouse\, le 11 septembre 2026. Le 
- one-man-show s'attaque aux galères universelles des vacances : grèves\, 
- bagages perdus\, retards\, belle-maman envahissante et personnel indiffér
- ent. Aguiar explore avec humour toutes ces situations improbables et gêna
- ntes que les vacanciers connaissent trop bien. Un spectacle taillé pour f
- aire « hurler de rire » ceux qui ont survécu à des vacances catastroph
- iques.\n\nSource\: https://www.toulouse-tourisme.com/agenda/vacances-de-re
- ve/
-URL:https://www.toulouse-tourisme.com/agenda/vacances-de-reve/?utm_source=i
- cal&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:6c7e891b-6e3e-4632-ad0a-bf77f8b8fe8b@news.lavillerose.com
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260928
@@ -20457,6 +20440,75 @@ URL:https://www.toulouse-tourisme.com/agenda/mon-precieux-la-robe-de-popy-m
  oreni/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:268d9674-88b5-410a-ac92-6cb7fdfd0c42@news.lavillerose.com
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+SUMMARY:Cinémathèque Junior
+DESCRIPTION:La Cinémathèque de Toulouse propose sa programmation Cinémat
+ hèque Junior du 20 au 22 octobre 2026\, à destination des jeunes spectat
+ eurs. Au programme\, une plongée dans les grands classiques de la Japanim
+ ation\, dans la continuité d'une découverte entamée à l'automne. Les e
+ nfants pourront également explorer un univers coloré et inventif à trav
+ ers une sélection plus large de films d'animation. L'événement s'adress
+ e principalement aux familles et aux jeunes cinéphiles toulousains.\n\nSo
+ urce\: https://www.toulouse-tourisme.com/agenda/la-cinematheque-junior/
+URL:https://www.toulouse-tourisme.com/agenda/la-cinematheque-junior/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:70053282-f4a1-46b3-97ae-9a3dbd82584a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261101
+SUMMARY:Élodie Blueberry corner
+DESCRIPTION:Du 20 au 31 octobre\, Singulier Boutique (15 rue Bouquières\, 
+ Toulouse) accueille le corner d'Élodie Montels\, alias Élodie Blueberry\
+ , spécialisée dans la mode seconde main grande taille. Sa sélection cou
+ vre les tailles 44 à 58 — robes\, tops et pantalons — à des prix all
+ ant de 15 à 95 euros. Le projet est né il y a un an dans le Tarn sous fo
+ rme de soirées shopping baptisées La Grosse Séance\, avant un passage 
+ à Paris puis cette étape toulousaine. Élodie Montels dénonce le manque
+  de représentation de\n\nSource\: https://www.lessentiel.fr/newsletter/to
+ ulouse/2026-10-20#53434
+LOCATION:rue Bouquières\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-20#53434?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7833e1f5-1bd8-4d09-96fe-f197a6bc3c9c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261022
+SUMMARY:Eau là là !
+DESCRIPTION:Le Théâtre de la Violette propose « Eau là là ! »\, un sp
+ ectacle de théâtre d'objet et marionnettes d'ombres accessible dès 9 mo
+ is. L'histoire suit une fillette qui rencontre une goutte de rosée rêvan
+ t de rejoindre l'océan. Le spectacle est en programmation jusqu'au 21 oct
+ obre. C'est une sortie pensée pour les tout-petits et leurs familles.\n\n
+ Source\: https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOh
+ z13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVs13QpjUA0_ueglPXEIFCh76360NHKU~Fs1o2kj_~yk
+ Mg
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeVs13QpjUA0_ueglPXEIFCh76360NHKU~Fs1o2kj_~ykMg?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9d00e3cd-ff59-45f3-b236-a19ce9d9386b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261220
+SUMMARY:Le Bijou lance sa saison 2026-2027 avec un nouveau modèle
+DESCRIPTION:Institution toulousaine de la chanson depuis 1989\, Le Bijou au
+  123 avenue de Muret présente sa nouvelle saison avec une stratégie repe
+ nsée face au retrait inattendu de la DRAC\, qui finançait la salle à ha
+ uteur de 20 %. Pour s'adapter\, la direction a réduit la masse salariale\
+ , restructuré le restaurant et lancé un abonnement sans engagement à 29
+ \,90 euros donnant accès à tous les spectacles. La salle affiche pourtan
+ t une rentrée record\, avec deux fois plus de billets vendus que l'an der
+ nier\, selon\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-10-20#53435
+LOCATION:avenue de Muret présente sa nouvelle saison\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-20#53435?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:034d7ddf-ef1c-4d41-83aa-e386f3605977@news.lavillerose.com
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261023
@@ -21107,6 +21159,23 @@ LOCATION:places\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-
  match-entre-le-tfc-et-troyes-a-toulouse_64923748.html?utm_source=ical&utm_
  medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9376c522-75a2-470f-8f65-45d4732729f2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:24 H de l'Accordéon
+DESCRIPTION:Les 24 H de l'Accordéon reviennent les 24 et 25 octobre 2026 
+ à la Cave Poésie\, avec un parcours encore élargi cette année qui s'é
+ tend désormais jusqu'à la Chapelle des Carmélites. Ce marathon musical 
+ hors normes propose 24 heures d'accordéon non-stop\, avec de quoi se rest
+ aurer\, boire\, danser et jouer tout au long de l'événement. Une équipe
+  technique avec les meilleurs facteurs d'accordéon de la région sera sur
+  place pour réparer les instruments en difficulté. L'événement coïnci
+ de avec le passage\n\nSource\: https://www.toulouse-tourisme.com/agenda/le
+ s-24-h-de-laccordeon/
+URL:https://www.toulouse-tourisme.com/agenda/les-24-h-de-laccordeon/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:53477bd2-5075-4e96-8985-b03c76141dc5@news.lavillerose.com
@@ -23058,6 +23127,40 @@ DESCRIPTION:Stanislas Netter propose un concert-découverte de la clarinett
 LOCATION:Salle de la Chapelle Saint-Michel le 7 novembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/raconte-moi-la-clarinette/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b8ffed37-e253-4e44-80dc-e1fdb7978840@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Diva Drag Queen France
+DESCRIPTION:Le concours Diva Drag Queen France se tiendra le 7 novembre 202
+ 6 au Cabaret La Vénus à Toulouse. Douze candidates venues de toute la Fr
+ ance s'affronteront lors de performances\, défilés et challenges artisti
+ ques. L'événement sera placé sous le parrainage d'Elips\, finaliste de 
+ Drag Race France\, apportant une caution médiatique à la compétition. U
+ n rendez-vous incontournable pour les amateurs de culture drag et de cabar
+ et.\n\nSource\: https://www.toulouse-tourisme.com/agenda/diva-drag-queen-f
+ rance/
+URL:https://www.toulouse-tourisme.com/agenda/diva-drag-queen-france/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f654e5a2-40b5-4742-8ad5-70477fbbf06c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Festival Boon Ka-Saï
+DESCRIPTION:Le Festival Boon Ka-Saï investit les Halles de la Cartoucherie
+  les 7 et 8 novembre 2026 pour une immersion dans la culture japonaise. L'
+ événement s'inspire du « bunkasai »\, la fête culturelle traditionnel
+ le des écoles au Japon\, transposée ici dans un cadre toulousain. Manga\
+ , cinéma\, illustration et gastronomie seront au programme\, avec une dim
+ ension éducative et inclusive affirmée. Le festival s'adresse à un larg
+ e public désireux de découvrir ou approfondir leur connaissance de la cu
+ lture japona\n\nSource\: https://www.toulouse-tourisme.com/agenda/festival
+ -boon-ka-sai/
+LOCATION:Halles de la Cartoucherie les 7\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/festival-boon-ka-sai/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8@news.lavillerose.com
@@ -25271,6 +25374,23 @@ URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-sur-les-ramblas
  /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:89538e51-b6fa-4859-b0fc-8392b5bd8e89@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:FRAGMENTS #6
+DESCRIPTION:La sixième édition de FRAGMENTS investit l'Hôtel-Dieu-Saint-
+ Jacques à Toulouse du 26 au 29 novembre 2026 pour célébrer les Métiers
+  d'Art d'Occitanie. L'événement réunit une sélection rigoureuse d'arti
+ sans — bronziers\, souffleurs de verre\, bijoutiers\, céramistes\, luth
+ iers\, vitraillistes\, ébénistes\, tisserands et bien d'autres — dans 
+ ce lieu patrimonial d'exception. Au programme : exposition-vente de pièce
+ s uniques\, démonstrations de savoir-faire en direct et rencontres avec l
+ es exposants\, ainsi q\n\nSource\: https://www.toulouse-tourisme.com/agend
+ a/fragments-6/
+URL:https://www.toulouse-tourisme.com/agenda/fragments-6/?utm_source=ical&u
+ tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
@@ -25607,6 +25727,24 @@ DESCRIPTION:L'office de tourisme propose une visite guidée du Couvent des
 LOCATION:place Saint-Pierre\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/le-couvent-des-chartreux/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:56da9f0b-24cd-435b-98ed-3f2468d94854@news.lavillerose.com
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Marché de Noël Calandreta
+DESCRIPTION:L'école Calandreta Costa Pavada\, défenseure de la langue et 
+ de la culture occitane\, organise son marché de Noël à la Salle de Lima
+ yrac le 29 novembre 2026. Au programme : buvette et petite restauration av
+ ec cakes salés et pâtisseries maison\, mini-concerts et ateliers pour le
+ s enfants. Une tombola de Noël permettra aux visiteurs de repartir avec d
+ es cadeaux. L'événement s'adresse aux familles et aux sympathisants de l
+ a culture occitane souhaitant vivre un marché festif et convivial.\n\nSou
+ rce\: https://www.toulouse-tourisme.com/agenda/marche-de-noel-calandreta-c
+ osta-pavada/
+LOCATION:Salle de Limayrac le 29 novembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-calandreta-cost
+ a-pavada/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:25dee92a-a8c8-4fa3-9947-0284d5ab0050@news.lavillerose.com
@@ -26734,6 +26872,23 @@ DESCRIPTION:Le Nawras Ibrahim Trio se produit au COMDT (Conservatoire Occit
  m-trio/
 URL:https://www.toulouse-tourisme.com/agenda/nawras-ibrahim-trio/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c3f17ef8-9347-49f3-b572-47384ff81fff@news.lavillerose.com
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Concert de Noël – Sinfonia Garonna
+DESCRIPTION:Sinfonia Garonna propose deux soirées de concert de Noël les 
+ 12 et 13 décembre 2026 à la Cathédrale Saint-Étienne de Toulouse. Au p
+ rogramme : des œuvres de Bach\, Haendel et Saint-Saëns\, interprétées 
+ par chœurs\, orchestre et orgue dans une cathédrale illuminée aux chand
+ elles. Les grands chants traditionnels de Noël seront également au rende
+ z-vous\, avec une invitation faite au public à chanter en chœur. Portée
+  par de jeunes chefs\, l'association se donne pour mission de proposer des
+  événements musi\n\nSource\: https://www.toulouse-tourisme.com/agenda/co
+ ncert-de-noel-par-sinfonia-garonna/
+URL:https://www.toulouse-tourisme.com/agenda/concert-de-noel-par-sinfonia-g
+ aronna/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
@@ -32357,6 +32512,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/les-belles-soeurs-billet/i
  aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:86f564bc-59dc-454a-8091-b66c74c95d3f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:La Chauve Souris
+DESCRIPTION:L'opérette La Chauve Souris sera jouée au Casino Barrière de
+  Toulouse le 11 avril 2027. Cette œuvre classique de Johann Strauss II es
+ t l'une des plus célèbres de son genre\, mêlant comédie\, musique et s
+ pectacle lyrique. La représentation s'inscrit dans la programmation Arts 
+ & Théâtre – Classique du Casino Barrière. Les amateurs de musique cla
+ ssique et d'opérette toulousains sont directement concernés par cet év
+ énement.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/la-chau
+ ve-souris-billet/idmanif/676094/idseance/4441829
+URL:https://www.ticketmaster.fr/fr/manifestation/la-chauve-souris-billet/id
+ manif/676094/idseance/4441829?utm_source=ical&utm_medium=calendar&utm_camp
+ aign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:3b8c31bb-5859-4538-8a49-adb2ecc907ba@news.lavillerose.com
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
@@ -32989,6 +33161,24 @@ DESCRIPTION:Le Quatuor Métamorphoses\, salué par Le Monde comme « la cr
 URL:https://www.toulouse-tourisme.com/agenda/quator-metamorphoses-les-arts-
  renaissants/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
  nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:edeb7320-d9f7-433b-b7c9-d7caf471cfbc@news.lavillerose.com
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Soyons (pas trop) sérieux
+DESCRIPTION:Le spectacle « Soyons (pas trop) sérieux » est programmé au
+  Casino Barrière de Toulouse le 27 avril 2027. Il s'inscrit dans la caté
+ gorie arts et théâtre classique selon Ticketmaster. L'intitulé suggesti
+ f laisse entrevoir un programme mêlant humour et élégance\, probablemen
+ t autour de la musique classique revisitée de façon légère. Les inform
+ ations disponibles restent limitées à la date et au lieu\, sans détail 
+ sur les artistes ou le contenu exact du spectacle.\n\nSource\: https://www
+ .ticketmaster.fr/fr/manifestation/soyons-pas-trop-serieux-billet/idmanif/6
+ 76115/idseance/4441943
+URL:https://www.ticketmaster.fr/fr/manifestation/soyons-pas-trop-serieux-bi
+ llet/idmanif/676115/idseance/4441943?utm_source=ical&utm_medium=calendar&u
+ tm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2d91fde3-e746-4774-89f4-c44362105e5c@news.lavillerose.com
@@ -34179,6 +34369,24 @@ LOCATION:Halle aux Grains le 27 juin 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-aventures-doctave-et-melo-
  le-chant-du-volcan/?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:71a2ac60-4fbe-4b2f-bef9-78cc95214dca@news.lavillerose.com
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Skillet
+DESCRIPTION:Le groupe de rock américain Skillet se produira au Bikini\, à
+  Ramonville-Saint-Agne\, le 10 août 2027. Connu pour son rock puissant au
+ x influences metal et électronique\, Skillet est l'un des groupes de rock
+  chrétien les plus populaires au monde\, avec plusieurs albums multi-plat
+ ine à son actif. Le Bikini\, salle de référence de la scène musicale t
+ oulousaine\, accueillera cet événement qui devrait attirer les fans de r
+ ock de toute la région. Une date à noter pour les amateurs du genre.\n\n
+ Source\: https://www.ticketmaster.fr/fr/manifestation/skillet-billet/idman
+ if/676131/idseance/4442456
+URL:https://www.ticketmaster.fr/fr/manifestation/skillet-billet/idmanif/676
+ 131/idseance/4442456?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:10183314-94e1-44d1-a5e3-f62c623982d7@news.lavillerose.com

@@ -1,0 +1,154 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cceb4d06-a26b-4a2e-af4c-78d0ace73640",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Eau là là ! » : spectacle jeune public au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/EAU-LA-LA-2.jpg",
+    "file": "cluster_cceb4d06-a26b-4a2e-af4c-78d0ace73640_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:97a7919d-9421-488f-8721-38b1a3842cc3",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Bootcamp IA gratuit pour lycéennes à Epitech Toulouse",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ac4b10cbbe6edba58095262/hd/image.jpg?v=2",
+    "file": "cluster_97a7919d-9421-488f-8721-38b1a3842cc3_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:b4aa1d4f-3a7c-4468-94bd-dfed6eff7195",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "« Vacances de rêve » : le one-man-show de Bruno Aguiar au 3T",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/vacances-de-reve-683x1024.jpg?itok=1cJQ5U_C",
+    "file": "cluster_b4aa1d4f-3a7c-4468-94bd-dfed6eff7195_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:7d17b157-ad9f-41d9-98b7-662392e8aa73",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Lulu la Pirate Crochue en spectacle jeune public à Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_7d17b157-ad9f-41d9-98b7-662392e8aa73_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:4da50346-3ce6-4d56-b7aa-bf8c3d33af8a",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée gourmande dans le quartier Saint-Cyprien",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Visite-Bien-Mangez--St-Cyp--3--copie.jpg",
+    "file": "cluster_4da50346-3ce6-4d56-b7aa-bf8c3d33af8a_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:93f7dbba-1fe3-4f60-b8fd-cd1243817c14",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Atelier pop-up sur l'architecture carcérale au Castelet Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CAST---Pop-Up---Alexandre-Ollier.jpg",
+    "file": "cluster_93f7dbba-1fe3-4f60-b8fd-cd1243817c14_event_story.jpg",
+    "img_width": 813,
+    "img_height": 652
+  },
+  {
+    "cluster_id": "cluster:9afd5b55-543c-4727-868a-0a4678cdb853",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Atelier enluminures pour enfants au Couvent des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JAC---Ecriture-Eluminures---Alexandre-Ollier.jpg",
+    "file": "cluster_9afd5b55-543c-4727-868a-0a4678cdb853_event_story.jpg",
+    "img_width": 813,
+    "img_height": 652
+  },
+  {
+    "cluster_id": "cluster:2bbcb211-86c2-40ef-afb1-f4cba269ac6b",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Mon Précieux : la robe de Popy Moreni au Musée Paul Dupuy",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MON-PRECIEUX-LA-ROBE-VIOLETTE-DE-POPY-MORENI.jpg",
+    "file": "cluster_2bbcb211-86c2-40ef-afb1-f4cba269ac6b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:268d9674-88b5-410a-ac92-6cb7fdfd0c42",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Cinémathèque Junior : Japanimation et animation à la Cinémathèque de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-CINEMATHEQUE-JUNIOR.jpg",
+    "file": "cluster_268d9674-88b5-410a-ac92-6cb7fdfd0c42_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:48cde095-0d4e-42f3-b316-f1bf3bcf5e6b",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Diego Spé en première partie de Bleu Citron au Saint des Scènes",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/backgroundpresse-4-diegospe-01--c--andrian-huette-2026.jpg---adrien.jpg?itok=jg4dTZzx",
+    "file": "cluster_48cde095-0d4e-42f3-b316-f1bf3bcf5e6b_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:70053282-f4a1-46b3-97ae-9a3dbd82584a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Corner mode inclusive grande taille chez Singulier Boutique",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/20-10-26-elodie-blueberry---elodie-pages.jpg?h=ede6a7f2&itok=othqNwxx",
+    "file": "cluster_70053282-f4a1-46b3-97ae-9a3dbd82584a_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:7833e1f5-1bd8-4d09-96fe-f197a6bc3c9c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "« Eau là là ! » : spectacle marionnettes pour bébés au Théâtre de la Violette",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/eau-adobestock_255036539.jpg?itok=FYPGLcvE",
+    "file": "cluster_7833e1f5-1bd8-4d09-96fe-f197a6bc3c9c_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:34fcf4a9-2e53-4ea8-a428-eadce0435c63",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Danses & Continents Noirs explore les héritages africains à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/James-Carles-Le-Cub-2024-346-2048x1640-copie.jpg",
+    "file": "cluster_34fcf4a9-2e53-4ea8-a428-eadce0435c63_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
