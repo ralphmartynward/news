@@ -1,0 +1,198 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cceb4d06-a26b-4a2e-af4c-78d0ace73640",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Eau là là ! » : spectacle jeune public au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/EAU-LA-LA-2.jpg",
+    "file": "cluster_cceb4d06-a26b-4a2e-af4c-78d0ace73640_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:97a7919d-9421-488f-8721-38b1a3842cc3",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Bootcamp IA gratuit pour lycéennes à Epitech Toulouse",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ac4b10cbbe6edba58095262/hd/image.jpg?v=2",
+    "file": "cluster_97a7919d-9421-488f-8721-38b1a3842cc3_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:268d9674-88b5-410a-ac92-6cb7fdfd0c42",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Cinémathèque Junior : Japanimation et animation à la Cinémathèque de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-CINEMATHEQUE-JUNIOR.jpg",
+    "file": "cluster_268d9674-88b5-410a-ac92-6cb7fdfd0c42_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:7833e1f5-1bd8-4d09-96fe-f197a6bc3c9c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Eau là là ! » : spectacle marionnettes pour bébés au Théâtre de la Violette",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/eau-adobestock_255036539.jpg?itok=FYPGLcvE",
+    "file": "cluster_7833e1f5-1bd8-4d09-96fe-f197a6bc3c9c_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:034d7ddf-ef1c-4d41-83aa-e386f3605977",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Charge Mentale, Sauve Qui Peut ! » à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CHARGE-MENTALE-SAUVE-QUI-PAUT.jpg",
+    "file": "cluster_034d7ddf-ef1c-4d41-83aa-e386f3605977_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:83e87ec4-f869-4b78-a59a-665a73468527",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Mozart et le Concerto pour Clarinette à L'Escale",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MOZART-2.jpg",
+    "file": "cluster_83e87ec4-f869-4b78-a59a-665a73468527_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5151d1ae-2ef5-4b83-b155-f9dcd9c46fdc",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Carpenter Brut en concert au Bikini en octobre 2026",
+    "image_url": "https://s1.ticketm.net/dam/a/e67/25aad212-c338-412d-8e52-b4d16d07fe67_SOURCE",
+    "file": "cluster_5151d1ae-2ef5-4b83-b155-f9dcd9c46fdc_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:f74cfe79-f7f2-43c2-af14-a5d8b64fe532",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Drag Race France Live Saison 4 débarque à Toulouse en octobre",
+    "image_url": "https://s1.ticketm.net/dam/c/0e7/9392e68d-b50d-4f8a-8a56-420695d520e7_106341_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_f74cfe79-f7f2-43c2-af14-a5d8b64fe532_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:445cbfff-c599-4cdc-9857-120bd00a053d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Graff Tour : découvrez le street art toulousain place Arnaud Bernard",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/GRAFF-TOUR.jpg",
+    "file": "cluster_445cbfff-c599-4cdc-9857-120bd00a053d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:60129b43-0fca-433e-b688-b1b34894995e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Peste et les Remèdes : visite historique à la Chapelle de la Grave",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LAG---La-peste-et-ses-remedes---Alexandre-Ollier-42-3.jpg",
+    "file": "cluster_60129b43-0fca-433e-b688-b1b34894995e_event_story.jpg",
+    "img_width": 813,
+    "img_height": 652
+  },
+  {
+    "cluster_id": "cluster:e9b010b6-15d1-44b3-aa8b-1d23db4c50dc",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite flash architecture et œuvres à la Chapelle de La Grave",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Bann-11-1024x576-copie.jpg",
+    "file": "cluster_e9b010b6-15d1-44b3-aa8b-1d23db4c50dc_event_story.jpg",
+    "img_width": 860,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f1b8accc-f810-408d-9216-d1d0a968ba72",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Casas de Choro à la MJC Pont des Demoiselles",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-DE-CHORO.jpg",
+    "file": "cluster_f1b8accc-f810-408d-9216-d1d0a968ba72_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0219591f-35df-4962-ab96-d5f7e1f10dc2",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier Pot-pourri de la sorcière à la Médiathèque Rangueil",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/colorful-potions-candles-with-halloween-decorations-h.jpg?itok=fwoGqk4f",
+    "file": "cluster_0219591f-35df-4962-ab96-d5f7e1f10dc2_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:1cda2db1-627a-486b-ac7f-29e8d90f9881",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Arthur Guyard Trio en concert jazz au Taquin",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/bigsquare.jpg?itok=4AiRpZ9r",
+    "file": "cluster_1cda2db1-627a-486b-ac7f-29e8d90f9881_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:a6d54323-54fe-461e-af8f-41cf42504f3d",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Grand Prix du Sud-Ouest à l'hippodrome de la Cépière",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/hippodrome.jpg?itok=kg7Trcko",
+    "file": "cluster_a6d54323-54fe-461e-af8f-41cf42504f3d_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:c0bd003e-6ddf-4e16-8ca0-9804d0d76e3d",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Troc de plantes et expo minéraux aux Jardins du Muséum",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/expo-mineraux-2---credit-museum-de-toulouse.jpg?h=30388b71&itok=bWD9cIfk",
+    "file": "cluster_c0bd003e-6ddf-4e16-8ca0-9804d0d76e3d_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:f0579ff0-3f17-49c6-b388-1ec656486c98",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Convention nationale des avocats au MEETT pendant trois jours",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2224394384.jpg?itok=4U6EWfMz",
+    "file": "cluster_f0579ff0-3f17-49c6-b388-1ec656486c98_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
