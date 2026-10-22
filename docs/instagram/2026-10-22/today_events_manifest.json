@@ -1,0 +1,220 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:97a7919d-9421-488f-8721-38b1a3842cc3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Bootcamp IA gratuit pour lycéennes à Epitech Toulouse",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6ac4b10cbbe6edba58095262/hd/image.jpg?v=2",
+    "file": "cluster_97a7919d-9421-488f-8721-38b1a3842cc3_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:268d9674-88b5-410a-ac92-6cb7fdfd0c42",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "La Cinémathèque Junior : Japanimation et animation à la Cinémathèque de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-CINEMATHEQUE-JUNIOR.jpg",
+    "file": "cluster_268d9674-88b5-410a-ac92-6cb7fdfd0c42_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:034d7ddf-ef1c-4d41-83aa-e386f3605977",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Charge Mentale, Sauve Qui Peut ! » à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CHARGE-MENTALE-SAUVE-QUI-PAUT.jpg",
+    "file": "cluster_034d7ddf-ef1c-4d41-83aa-e386f3605977_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:659cb1cd-2258-4c94-83d3-b901ce793195",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "« Maîtres américains » : grands ballets néo-classiques au Théâtre du Capitole",
+    "image_url": "https://static.actu.fr/uploads/2026/10/3f1d1cf4575240aba43c45df247bee59base-image.jpg",
+    "file": "cluster_659cb1cd-2258-4c94-83d3-b901ce793195_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 771
+  },
+  {
+    "cluster_id": "cluster:83e87ec4-f869-4b78-a59a-665a73468527",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Mozart et le Concerto pour Clarinette à L'Escale",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MOZART-2.jpg",
+    "file": "cluster_83e87ec4-f869-4b78-a59a-665a73468527_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f1b8accc-f810-408d-9216-d1d0a968ba72",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Casas de Choro à la MJC Pont des Demoiselles",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-DE-CHORO.jpg",
+    "file": "cluster_f1b8accc-f810-408d-9216-d1d0a968ba72_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f0579ff0-3f17-49c6-b388-1ec656486c98",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Convention nationale des avocats au MEETT pendant trois jours",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2224394384.jpg?itok=4U6EWfMz",
+    "file": "cluster_f0579ff0-3f17-49c6-b388-1ec656486c98_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Au Bord de la Forêt du Souffle » au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AU-BORD-DE-LA-FORET-DU-SOUFFLE.jpg",
+    "file": "cluster_497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:655ed858-ef9f-4c47-bfb9-bd3f928396d1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Crotte sur le Cœur au Théâtre Le Fil à Plomb",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-CROTTE-SUR-LE-COEUR.jpg",
+    "file": "cluster_655ed858-ef9f-4c47-bfb9-bd3f928396d1_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8cb912cc-44b8-492a-855c-d6ff81107af4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Soirées Meufs au Studio 55 : célébrez votre queen intérieure",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-SOIREES-MEUFS.jpg",
+    "file": "cluster_8cb912cc-44b8-492a-855c-d6ff81107af4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2ab33a54-38e4-4f8d-8a07-226b9866acb7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Éliès Zoghlami en spectacle au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_2ab33a54-38e4-4f8d-8a07-226b9866acb7_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:95a4d12b-7017-4375-b120-ab084e28998b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "West Comedy - La Tournée aux Espaces Vanel",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_95a4d12b-7017-4375-b120-ab084e28998b_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:b169501f-598f-4d59-a646-96c3337ddac0",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée Art déco à l'Office de Tourisme de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Art-Deco-rue-Alsace-Lorraine---Remi-Deligeon-copie.jpg",
+    "file": "cluster_b169501f-598f-4d59-a646-96c3337ddac0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:63a55c2e-b712-481d-ace2-febd2af98c70",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Jeux de piste nocturnes dans trois monuments toulousains",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LAG---Tresor-perdu---Nocturne.jpg",
+    "file": "cluster_63a55c2e-b712-481d-ace2-febd2af98c70_event_story.jpg",
+    "img_width": 813,
+    "img_height": 652
+  },
+  {
+    "cluster_id": "cluster:cadcdb9c-ecaa-4518-927b-f5c8db0a0d82",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Atelier vitrail et visite symbolique à l'Église du Gesù",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Histoire-de-motif----Alexandre-Ollier--GESU.png",
+    "file": "cluster_cadcdb9c-ecaa-4518-927b-f5c8db0a0d82_event_story.jpg",
+    "img_width": 813,
+    "img_height": 652
+  },
+  {
+    "cluster_id": "cluster:2d2c986a-bcdc-495e-98a3-96f3e2b994b4",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Ciné-concert gratuit à la Salle du Sénéchal ce midi",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2038455048.jpg?h=85f86ac4&itok=hu70j0Jp",
+    "file": "cluster_2d2c986a-bcdc-495e-98a3-96f3e2b994b4_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:77cf1cff-fc66-4f18-88c2-172529ff2657",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Clown participatif « La crotte sur le cœur » au Théâtre Le Fil à plomb",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/unnamed_0.jpg?itok=_0Vx1Xnv",
+    "file": "cluster_77cf1cff-fc66-4f18-88c2-172529ff2657_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:e25d3ad6-f6a2-4369-bec7-ec4a1edfba9c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Soirée meufs au Studio 55 avec Mélissa Billard",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/femmes-adobe.jpg?h=731e6f41&itok=uWK1loj1",
+    "file": "cluster_e25d3ad6-f6a2-4369-bec7-ec4a1edfba9c_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:f4589018-8718-47e0-99af-d6953f0bbd69",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "« Cours toujours ! » : la course à pied en débat à la Médiathèque Cabanis",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-10/trail-course-a-pied-adobestock_228044536.jpg?itok=WM1pR8uo",
+    "file": "cluster_f4589018-8718-47e0-99af-d6953f0bbd69_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  }
+]

@@ -19686,27 +19686,6 @@ URL:http://cdt31.tourinsoft.com/view.ashx?email=f826a3f1-3402-49d2-a377-012
  58190a9d1?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:62a440df-ab71-40af-8e0a-38176a1a8102@news.lavillerose.com
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261102
-SUMMARY:Lumières sur le Quai
-DESCRIPTION:Le Quai des Savoirs\, centre culturel et scientifique toulousai
- n situé près du Jardin des Plantes\, célèbre cette année ses 10 ans d
- 'existence. Pour l'occasion\, il programme le retour du festival Lumières
-  sur le Quai du 17 octobre au 1er novembre 2026\, axé sur les futurs poss
- ibles et mêlant projections\, spectacles\, ateliers et expositions avec s
- cientifiques\, auteurs de SF\, artistes et photographes. L'établissement 
- inaugure également un nouvel auditorium et propose une expérience immers
- ive intitulé\n\nSource\: https://www.toulouscope.fr/2026/10/13/pour-ses-1
- 0-ans-ce-lieu-culturel-emblematique-prepare-un-festival-une-experience-imm
- ersive-et-inaugure-un-nouvel-auditorium-13576100.php
-LOCATION:Jardin des Plantes\, Toulouse
-URL:https://www.toulouscope.fr/2026/10/13/pour-ses-10-ans-ce-lieu-culturel-
- emblematique-prepare-un-festival-une-experience-immersive-et-inaugure-un-n
- ouvel-auditorium-13576100.php?utm_source=ical&utm_medium=calendar&utm_camp
- aign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:22c607bb-18ac-4f75-9c54-090dee15f045@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
@@ -19722,23 +19701,6 @@ DESCRIPTION:Le Théâtre des Mazades accueille « G.R.A.I.N – Histoire de
  nda/g-r-a-i-n-histoire-de-fous/
 URL:https://www.toulouse-tourisme.com/agenda/g-r-a-i-n-histoire-de-fous/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:659cb1cd-2258-4c94-83d3-b901ce793195@news.lavillerose.com
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261019
-SUMMARY:Maîtres Américains
-DESCRIPTION:L'Opéra National du Capitole accueille « Maîtres Américains
-  »\, une soirée de danse néoclassique les 17 et 18 octobre 2026. Le pro
- gramme met à l'honneur deux œuvres majeures : Les Quatre Tempéraments d
- e George Balanchine\, créés sur une partition de Paul Hindemith\, et Fea
- rful Symmetries de Peter Martins\, chorégraphié sur la musique minimalis
- te de John Adams. L'esthétique balanchinienne — dépouillée de décors
-  et de costumes ostentatoires\, centrée sur le mouvement pur — est au c
- œur de la soirée\, dan\n\nSource\: https://www.toulouse-tourisme.com/age
- nda/maitres-americains/
-URL:https://www.toulouse-tourisme.com/agenda/maitres-americains/?utm_source
- =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8eaadd77-c425-4148-90d2-f024405be490@news.lavillerose.com
@@ -20017,18 +19979,17 @@ BEGIN:VEVENT
 UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261102
-SUMMARY:Halloween – Zoo African Safari
+SUMMARY:Halloween African Safari
 DESCRIPTION:Du 17 octobre au 1er novembre 2026\, le zoo African Safari de P
- laisance-du-Touch propose une programmation spéciale Halloween pour les f
- amilles. Le parc sera décoré aux couleurs de la fête avec chasse aux bo
- nbons en jeu de piste\, cabinet des mystères\, ateliers et maquillages. L
- a nouveauté de cette édition 2026 : des visites nocturnes exceptionnelle
- s à 18h et 18h30\, d'une durée d'environ une heure\, invitant petits et 
- grands à découvrir les animaux autrement en mobilisant tous leurs sens. 
- Cette exp\n\nSource\: https://www.toulouscope.fr/2026/10/17/pres-de-toulou
- se-le-zoo-african-safari-se-transforme-pour-halloween-avec-une-nouveaute-e
- ncore-plus-immersive-13589197.php
-LOCATION:parc sera décoré aux couleurs de la fête\, Toulouse
+ laisance-du-Touch se transforme pour Halloween avec décorations\, chasse 
+ aux bonbons\, cabinet des mystères et ateliers maquillage pour les famill
+ es. Grande nouveauté cette année : des visites nocturnes exceptionnelles
+  à 18h et 18h30\, pensées pour découvrir les animaux en mobilisant tous
+  les sens dans une ambiance d'exploration. Par ailleurs\, une sélection d
+ e dix idées Halloween à Toulouse et ses environs est proposée\, incluan
+ t des soir\n\nSource\: https://www.toulouscope.fr/2026/10/17/pres-de-toulo
+ use-le-zoo-african-safari-se-transforme-pour-halloween-avec-une-nouveaute-
+ encore-plus-immersive-13589197.php
 URL:https://www.toulouscope.fr/2026/10/17/pres-de-toulouse-le-zoo-african-s
  afari-se-transforme-pour-halloween-avec-une-nouveaute-encore-plus-immersiv
  e-13589197.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
@@ -20542,6 +20503,26 @@ DESCRIPTION:La pièce « Charge Mentale\, Sauve Qui Peut ! » est jouée le
  rge-mentale-sauve-qui-peut/
 URL:https://www.toulouse-tourisme.com/agenda/charge-mentale-sauve-qui-peut/
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:659cb1cd-2258-4c94-83d3-b901ce793195@news.lavillerose.com
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:Maîtres américains – Théâtre du Capitole
+DESCRIPTION:Le Théâtre du Capitole propose jusqu'au 23 octobre 2026 un pr
+ ogramme intitulé « Maîtres américains »\, mettant à l'honneur quatre
+  chorégraphes américains de référence. La pièce centrale est Les Quat
+ re Tempéraments de George Balanchine\, œuvre fondatrice du ballet néo-c
+ lassique créée en 1948 sur une partition de Paul Hindemith\, où décors
+  et intrigues sont délibérément effacés pour laisser toute la place au
+ x lignes et aux mouvements. Le programme inclut également Fearful Symmetr
+ ies de Peter Martins\,\n\nSource\: https://actu.fr/occitanie/toulouse_3155
+ 5/la-creme-de-la-creme-du-ballet-au-programme-du-theatre-du-capitole-en-co
+ mpagnie-de-quatre-maitres-americains_64913003.html
+URL:https://actu.fr/occitanie/toulouse_31555/la-creme-de-la-creme-du-ballet
+ -au-programme-du-theatre-du-capitole-en-compagnie-de-quatre-maitres-americ
+ ains_64913003.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:83e87ec4-f869-4b78-a59a-665a73468527@news.lavillerose.com
@@ -21402,6 +21383,42 @@ URL:https://www.toulouse-tourisme.com/agenda/rencontre-horlogere/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:23702c1c-aba5-49b0-a0a8-ad8717c35d2a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Toulouse FC / Estac Troyes
+DESCRIPTION:Le Toulouse FC affronte l'Estac Troyes au Stadium de Toulouse l
+ e 25 octobre 2026\, dans le cadre du championnat de football. Ce match à 
+ domicile est une occasion pour les supporters toulousains de soutenir leur
+  club en Ligue 1. Les billets sont disponibles via Ticketmaster. Les fans 
+ de football de la région sont invités à réserver leurs places dès que
+  possible.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/toulou
+ se-fc-estac-troyes-billet/idmanif/671256/idseance/4403042
+LOCATION:Stadium de Toulouse le 25 octobre 2026\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/toulouse-fc-estac-troyes-b
+ illet/idmanif/671256/idseance/4403042?utm_source=ical&utm_medium=calendar&
+ utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:35c9461f-3e9c-4337-927c-73da81919a39@news.lavillerose.com
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:TFC – ESTAC Troyes
+DESCRIPTION:Le match de Ligue 1 entre le Toulouse FC et l'ESTAC Troyes\, in
+ itialement prévu samedi 24 octobre à 17h15 au Stadium\, est reporté au 
+ dimanche 25 octobre à la même heure. La Ligue de football professionnel 
+ a accédé à la demande de la préfecture de la Haute-Garonne\, qui craig
+ nait des débordements liés à une manifestation des gilets jaunes prévu
+ e le samedi après-midi à Toulouse. Les autorités souhaitaient concentre
+ r les forces de l'ordre sur cette mobilisation plutôt que de gérer simul
+ tanément l'aff\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ligue
+ -1-pourquoi-le-match-entre-toulouse-et-troyes-est-reporte-du-samedi-au-dim
+ anche_64954298.html
+URL:https://actu.fr/occitanie/toulouse_31555/ligue-1-pourquoi-le-match-entr
+ e-toulouse-et-troyes-est-reporte-du-samedi-au-dimanche_64954298.html?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:00310abb-a84e-4a7c-bfc8-41be6fd35c32@news.lavillerose.com
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
@@ -21684,6 +21701,24 @@ DESCRIPTION:Le Muséum de Toulouse propose le 29 octobre 2026 une séance d
  nda/meme-pas-peur/
 URL:https://www.toulouse-tourisme.com/agenda/meme-pas-peur/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f215325a-648b-4fbf-a1df-a60a7e016308@news.lavillerose.com
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Visites décalées à l'église du Gesù et à la Chapelle des Carm
+ élites
+DESCRIPTION:Deux propositions originales pour faire découvrir le patrimoin
+ e religieux toulousain aux enfants et aux curieux. À l'église du Gesù\,
+  une chasse aux indices explore l'iconographie et l'architecture du lieu\,
+  suivie d'un atelier de création de vitrail en papier de soie — accessi
+ ble dès 6 ans\, avec une prochaine session le 29 octobre. À la Chapelle 
+ des Carmélites\, c'est une visite nocturne à la lampe torche qui attend 
+ les participants à 19h30 : plongée dans l'obscurité\, l'équipe doit r
+ ésoudre des én\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-10-22#53653
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-22#53653?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:44e1a64d-0ada-4a08-84a2-e6c2b51521ee@news.lavillerose.com
@@ -22307,6 +22342,23 @@ DESCRIPTION:Le samedi 31 octobre 2026\, les cinémas Véo de Toulouse (Cart
 URL:https://www.toulouscope.fr/2026/10/20/des-cinemas-a-toulouse-et-aux-ale
  ntours-preparent-une-soiree-pleine-de-frissons-pour-halloween-13601425.php
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:92c09b8c-47af-4937-8a4c-477d861e4ad7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Top soirées et bons plans Halloween à Toulouse le 31 octobre
+DESCRIPTION:L'article propose une sélection de soirées et bons plans pour
+  fêter Halloween à Toulouse le 31 octobre 2026. Il s'agit d'un guide de 
+ sorties couvrant plusieurs événements et lieux de la ville pour cette nu
+ it festive. Le contenu exact des adresses et établissements retenus n'est
+  pas accessible dans l'extrait disponible\, qui ne donne que le titre et d
+ es liens redirigés. Les Toulousains en quête d'idées pour célébrer Ha
+ lloween sont le public visé.\n\nSource\: mailto:bounce-RFHQZCKOVMREREMHYP
+ 3XTC6MTE.100225@bounce.email.secretmedianetwork.com
+URL:mailto:bounce-RFHQZCKOVMREREMHYP3XTC6MTE.100225@bounce.email.secretmedi
+ anetwork.com?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dae7c373-449d-4028-b310-f791285cc323@news.lavillerose.com
@@ -30302,6 +30354,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/hoshi-billet/idmanif/64312
  e-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:dcfe3c65-2384-4002-80ea-3e0ce0fa4395@news.lavillerose.com
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Kid Wise
+DESCRIPTION:Le groupe Kid Wise se produira au Metronum à Toulouse le 26 f
+ évrier 2027 dans le cadre d'un concert rock. Le Metronum\, salle embléma
+ tique dédiée aux musiques actuelles\, accueille régulièrement des arti
+ stes de la scène indépendante française. Kid Wise est connu pour son ro
+ ck atmosphérique et ses harmonies vocales soignées. Les amateurs de rock
+  indé toulousains sont donc invités à marquer cette date dans leur agen
+ da.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/kid-wise-bill
+ et/idmanif/676194/idseance/4442867
+LOCATION:salle emblématique dédiée aux musiques actuelles\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/kid-wise-billet/idmanif/67
+ 6194/idseance/4442867?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2d00f800-8afb-47c7-b054-5465df3e89eb@news.lavillerose.com
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
@@ -31564,6 +31634,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/la-nuit-du-printemps-bille
  campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:466d442f-2f8f-41e8-bd2c-e45a9a4613ad@news.lavillerose.com
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Yassine Benkhadda Horizon
+DESCRIPTION:Le comédien Yassine Benkhadda présente son spectacle « Horiz
+ on » au 3T d'À Côté à Toulouse. La représentation est programmée le
+  18 mars 2027\, dans la salle de comédie de cette salle de spectacle toul
+ ousaine. L'événement s'inscrit dans la catégorie arts et théâtre/com
+ édie selon Ticketmaster. Les amateurs de stand-up et d'humour sont les pr
+ incipaux concernés par cette date.\n\nSource\: https://www.ticketmaster.f
+ r/fr/manifestation/yassine-benkhadda-billet/idmanif/676324/idseance/444335
+ 4
+LOCATION:salle de comédie de cette salle de spectacle toulousain\, Toulous
+ e
+URL:https://www.ticketmaster.fr/fr/manifestation/yassine-benkhadda-billet/i
+ dmanif/676324/idseance/4443354?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:090ed0cf-55a1-4dca-8d94-420bd65081e7@news.lavillerose.com
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
@@ -32751,6 +32840,22 @@ LOCATION:salle de spectacle reconnue de la ville\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/alexis-le-rossignol-billet
  /idmanif/660678/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_ca
  mpaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6c26c56e-3e15-4515-bfe9-516c68fc4c3a@news.lavillerose.com
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Karim Gharbi
+DESCRIPTION:Le comédien Karim Gharbi se produira à La Comédie de Toulous
+ e le 16 avril 2027. L'événement est classé dans la catégorie Arts & Th
+ éâtre — Comédie\, suggérant un spectacle comique ou one-man-show. La
+  billetterie est disponible via Ticketmaster. Les amateurs de comédie tou
+ lousains ont ainsi le temps de planifier leur soirée bien à l'avance.\n\
+ nSource\: https://www.ticketmaster.fr/fr/manifestation/karim-gharbi-billet
+ /idmanif/676309/idseance/4443314
+URL:https://www.ticketmaster.fr/fr/manifestation/karim-gharbi-billet/idmani
+ f/676309/idseance/4443314?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7ad669ab-f100-4275-9c62-950b562f4e88@news.lavillerose.com
@@ -34024,24 +34129,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/fabien-olicard-billet/idma
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:77907c4b-d3e0-4d6c-9f48-436e7ec17c2d@news.lavillerose.com
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270527
-SUMMARY:Laurent Baffie
-DESCRIPTION:Laurent Baffie\, humoriste et animateur bien connu du public fr
- ançais\, se produira en spectacle au Casino Barrière de Toulouse le 26 m
- ai 2027. La soirée est classée dans la catégorie Arts & Théâtre — C
- omédie\, ce qui laisse présager un one-man-show ou un format stand-up. L
- e Casino Barrière constitue une salle de spectacle prisée pour ce type d
- e représentation en soirée. Les amateurs d'humour à Toulouse auront ain
- si l'occasion de retrouver Baffie sur scène dans un cadre festif.\n\nSour
- ce\: https://www.ticketmaster.fr/fr/manifestation/laurent-baffie-billet/id
- manif/641044/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/laurent-baffie-billet/idma
- nif/641044/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
- n=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:f851c377-dc50-4bc7-947d-8ef3fafbe24a@news.lavillerose.com
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
@@ -34089,6 +34176,23 @@ DESCRIPTION:La chanteuse Natascha Rogers se produit à la Salle Nougaro de
 LOCATION:Salle Nougaro de Toulouse le 27 mai 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/natascha-rogers/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:77907c4b-d3e0-4d6c-9f48-436e7ec17c2d@news.lavillerose.com
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Laurent Baffie
+DESCRIPTION:Laurent Baffie\, humoriste et animateur français connu pour so
+ n humour piquant et décalé\, se produira en spectacle de comédie au Cas
+ ino Barrière de Toulouse. La date annoncée est le 27 mai 2027. L'événe
+ ment s'inscrit dans la catégorie Arts & Théâtre – Comédie\, selon la
+  billetterie Ticketmaster. Les amateurs d'humour à Toulouse auront l'occa
+ sion de le retrouver dans ce cadre festif.\n\nSource\: https://www.ticketm
+ aster.fr/fr/manifestation/laurent-baffie-billet/idmanif/641044/idseance/42
+ 57101
+URL:https://www.ticketmaster.fr/fr/manifestation/laurent-baffie-billet/idma
+ nif/641044/idseance/4257101?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:465ccf4a-1d39-4b51-a4b9-ec5091960421@news.lavillerose.com
@@ -34968,6 +35072,24 @@ LOCATION:salles de spectacle toulousaines\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/jok-air-billet/idmanif/672
  726/idseance/4422674?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fab83445-9dd2-4176-a8f5-3c891c7fe020@news.lavillerose.com
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:Les Hommes se cachent pour mentir
+DESCRIPTION:Le spectacle comique "Les Hommes se cachent pour mentir" sera j
+ oué au Centre de Congrès Diagora de Labège le 28 novembre 2027. Ce one-
+ man-show ou pièce de comédie explore\, comme le suggère son titre\, les
+  mensonges masculins sur un ton humoristique. L'événement est classé da
+ ns la catégorie Arts & Théâtre – Comédie sur Ticketmaster\, où les 
+ billets sont disponibles à la vente. Le Diagora\, situé à Labège dans 
+ la périphérie toulousaine\, est l'une des grandes salles de spectacle de
+  l'agglomération.\n\nSource\: https://www.ticketmaster.fr/fr/manifestatio
+ n/les-hommes-se-cachent-pour-mentir-billet/idmanif/676197/idseance/4442870
+URL:https://www.ticketmaster.fr/fr/manifestation/les-hommes-se-cachent-pour
+ -mentir-billet/idmanif/676197/idseance/4442870?utm_source=ical&utm_medium=
+ calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4ea42efa-a152-4cb2-a8a7-72a3c9609496@news.lavillerose.com
