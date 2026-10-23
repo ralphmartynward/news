@@ -1,0 +1,176 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:659cb1cd-2258-4c94-83d3-b901ce793195",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "« Maîtres américains » : grands ballets néo-classiques au Théâtre du Capitole",
+    "image_url": "https://static.actu.fr/uploads/2026/10/3f1d1cf4575240aba43c45df247bee59base-image.jpg",
+    "file": "cluster_659cb1cd-2258-4c94-83d3-b901ce793195_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 771
+  },
+  {
+    "cluster_id": "cluster:f1b8accc-f810-408d-9216-d1d0a968ba72",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Casas de Choro à la MJC Pont des Demoiselles",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-DE-CHORO.jpg",
+    "file": "cluster_f1b8accc-f810-408d-9216-d1d0a968ba72_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f0579ff0-3f17-49c6-b388-1ec656486c98",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "La Convention nationale des avocats au MEETT pendant trois jours",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_2224394384.jpg?itok=4U6EWfMz",
+    "file": "cluster_f0579ff0-3f17-49c6-b388-1ec656486c98_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Au Bord de la Forêt du Souffle » au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AU-BORD-DE-LA-FORET-DU-SOUFFLE.jpg",
+    "file": "cluster_497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:655ed858-ef9f-4c47-bfb9-bd3f928396d1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Crotte sur le Cœur au Théâtre Le Fil à Plomb",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-CROTTE-SUR-LE-COEUR.jpg",
+    "file": "cluster_655ed858-ef9f-4c47-bfb9-bd3f928396d1_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:90bce3fa-68b9-44b7-9167-6a70284d913d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Symphonie Africaine à la Halle aux Grains le 23 octobre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SYMPHONIE-AFRICAINE.jpg",
+    "file": "cluster_90bce3fa-68b9-44b7-9167-6a70284d913d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bf96b559-d376-4120-b2dd-b79c2cc0cc8e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cerebrum Kids au Théâtre Sorano : spectacle interactif dès 8 ans",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CEREBRUM-KIDS-TREATRE-SORANO.jpg",
+    "file": "cluster_bf96b559-d376-4120-b2dd-b79c2cc0cc8e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:369259e3-956b-47ab-b669-b2984557473f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Ahmed Sylla en spectacle au Zénith de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_369259e3-956b-47ab-b669-b2984557473f_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:38261d69-d2d3-4fd7-ab66-913b85083b38",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Marion Mezadorian en spectacle 'Craquage' à Saint-Orens",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_38261d69-d2d3-4fd7-ab66-913b85083b38_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:50ee57c8-7c6a-44c2-a899-32cfdf092006",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "TUTU : spectacle de danse au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/951/9c474771-337b-4648-8524-2574a4cff951_SOURCE",
+    "file": "cluster_50ee57c8-7c6a-44c2-a899-32cfdf092006_event_story.jpg",
+    "img_width": 3552,
+    "img_height": 4296
+  },
+  {
+    "cluster_id": "cluster:fa0641cc-a721-4013-a7f8-b4e063cfdf15",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Circuit Énigme : chasse aux indices en famille dans Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Visite-guidee-famille-enigme-copie.jpg",
+    "file": "cluster_fa0641cc-a721-4013-a7f8-b4e063cfdf15_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d5780bbe-2fae-4dd5-b746-614127dc93a4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "S'habiller au Moyen Âge : atelier interactif au Couvent des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JAC---S-Habiller-au-MA---Alexandre-Ollier.jpg",
+    "file": "cluster_d5780bbe-2fae-4dd5-b746-614127dc93a4_event_story.jpg",
+    "img_width": 813,
+    "img_height": 652
+  },
+  {
+    "cluster_id": "cluster:5e69ff8b-8f05-4e37-9406-9c038f16f234",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Autumn Sevens : tournoi de rugby à 7 au Stade de Balma",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUGBY.jpg",
+    "file": "cluster_5e69ff8b-8f05-4e37-9406-9c038f16f234_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9645b64a-c67a-416f-bb1c-12278c9ef519",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Déambulation dansée et acrobatique au parvis de la médiathèque Grand M",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/-ielles---sofia-antoine.jpg?h=3816f8d7&itok=hAsXnzwK",
+    "file": "cluster_9645b64a-c67a-416f-bb1c-12278c9ef519_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:e2622aef-c8c0-4d55-ae3b-bfb5c8b4a18e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence gratuite sur la Lune à la salle des fêtes de L'Union",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/adobestock_840421930.jpg?itok=InipIo3E",
+    "file": "cluster_e2622aef-c8c0-4d55-ae3b-bfb5c8b4a18e_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

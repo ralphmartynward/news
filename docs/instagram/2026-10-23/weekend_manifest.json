@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-10-24",
+  "sunday": "2026-10-25",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:9376c522-75a2-470f-8f65-45d4732729f2",
+      "title": "Les 24h de l'Accordéon à la Cave Poésie et Chapelle des Carmélites",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:cecb49cb-8305-4328-9800-3c53012a6d6f",
+      "title": "Le groupe folklorique Poutou de Toulouse fête ses 70 ans",
+      "img_width": 900,
+      "img_height": 506
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:53477bd2-5075-4e96-8985-b03c76141dc5",
+      "title": "La Barboteuse, spectacle clown pour enfants au Studio 55",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:83732d56-e14f-4032-b953-f3131d630805",
+      "title": "Chantal Goya en concert au Zénith de Toulouse en octobre",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c7ca6e20-4ff2-4132-8f86-e237f5dfdf28",
+      "title": "Brel ! Le Spectacle au Casino Barrière de Toulouse",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:f4f011d0-fb29-45b8-9df3-ade2cb5b0695",
+      "title": "TOPICK en spectacle à Saint-Orens avec « L'excellence ordinaire »",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c3742950-c79b-459e-9321-c4761b3ad1ec",
+      "title": "Visite contée pour enfants à la Fondation Bemberg",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8e098944-f038-4c45-be8c-f9053f57101d",
+      "title": "Rencontre Horlogère au Musée Paul Dupuy : secrets de mécanismes",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:23702c1c-aba5-49b0-a0a8-ad8717c35d2a",
+      "title": "Toulouse FC reçoit Estac Troyes au Stadium",
+      "img_width": 2048,
+      "img_height": 1152
+    }
+  ]
+}
