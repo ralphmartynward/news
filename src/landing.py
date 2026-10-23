@@ -37,6 +37,7 @@ SOURCE_LABELS: dict[str, str] = {
     "toulouscope": "Toulouscope",
     "openagenda": "OpenAgenda",
     "office_tourisme": "Office de Tourisme",
+    "ticketmaster": "Ticketmaster",
     "newsletter": "Newsletter",
 }
 

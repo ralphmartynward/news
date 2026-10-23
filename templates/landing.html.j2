@@ -312,7 +312,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     </div>
   </div>
   <div class="stats-strip">
-    <div class="stat"><span class="stat-val">{{ entry_count }}</span><span class="stat-lbl">stories aujourd'hui</span></div>
+    <div class="stat"><span class="stat-val">{{ entry_count }}</span><span class="stat-lbl">{{ "article aujourd'hui" if entry_count == 1 else "articles aujourd'hui" }}</span></div>
     <div class="stat"><span class="stat-val">{{ source_count }}</span><span class="stat-lbl">{{ "source" if source_count == 1 else "sources" }}</span></div>
     <div class="stat"><span class="stat-val">24h</span><span class="stat-lbl">de couverture</span></div>
     <div class="stat"><span class="stat-val">7h</span><span class="stat-lbl">livré chaque matin</span></div>
@@ -373,7 +373,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     {% endfor %}
   {% else %}
     <section class="section">
-      <div class="empty">Pas encore de stories aujourd'hui — repassez plus tard.</div>
+      <div class="empty">Pas encore d'articles aujourd'hui — repassez plus tard.</div>
     </section>
   {% endif %}
 </div>
@@ -426,7 +426,7 @@ html, body { height: auto; min-height: 100vh; display: block; background: #f8faf
     <a href="https://lavillerose.com/">Cartes &amp; données</a>
   </span><br>
   <span style="margin-top:4px;display:inline-block;font-size:10px;">
-    Sources : Actu Toulouse, La Dépêche, Le Bonbon, Clutch, Toulouse Secret, Toulouscope, OpenAgenda, L'Essentiel
+    Sources : Actu Toulouse, Toulouscope, L'Essentiel, Clutch, Office de Tourisme, Ticketmaster
   </span><br>
   <span style="margin-top:4px;display:inline-block;font-size:11px;">
     Fait par <a href="https://ralph-ward.com" target="_blank" rel="noopener" style="color:rgba(255,255,255,0.7);font-weight:600;">Ralph Ward</a>
