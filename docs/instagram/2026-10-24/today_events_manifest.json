@@ -1,0 +1,165 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f1b8accc-f810-408d-9216-d1d0a968ba72",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Casas de Choro à la MJC Pont des Demoiselles",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-DE-CHORO.jpg",
+    "file": "cluster_f1b8accc-f810-408d-9216-d1d0a968ba72_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Au Bord de la Forêt du Souffle » au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AU-BORD-DE-LA-FORET-DU-SOUFFLE.jpg",
+    "file": "cluster_497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:655ed858-ef9f-4c47-bfb9-bd3f928396d1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Crotte sur le Cœur au Théâtre Le Fil à Plomb",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-CROTTE-SUR-LE-COEUR.jpg",
+    "file": "cluster_655ed858-ef9f-4c47-bfb9-bd3f928396d1_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5e69ff8b-8f05-4e37-9406-9c038f16f234",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Autumn Sevens : tournoi de rugby à 7 au Stade de Balma",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUGBY.jpg",
+    "file": "cluster_5e69ff8b-8f05-4e37-9406-9c038f16f234_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8600719c-ff2e-40b6-af69-fe845343ce5e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Nono La Grinta en concert au Metronum",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/NONO-LA-GRINTA.jpg",
+    "file": "cluster_8600719c-ff2e-40b6-af69-fe845343ce5e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a4bc342c-bf6e-4582-8d54-7d6e1985a46d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pink Martini en concert au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/31b/65d9b311-0a83-4d05-ad73-d8eec105431b_SOURCE",
+    "file": "cluster_a4bc342c-bf6e-4582-8d54-7d6e1985a46d_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1664
+  },
+  {
+    "cluster_id": "cluster:b3b80da3-3b12-4424-b227-58ac69251570",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Arnaud Gidoin en spectacle à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_b3b80da3-3b12-4424-b227-58ac69251570_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:cc1758dd-0905-42ad-abfd-8baf6fcc4c23",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "Stephan Eicher en concert à la Halle aux Grains",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_cc1758dd-0905-42ad-abfd-8baf6fcc4c23_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:6c5d6b68-8d28-47be-90ba-2fe4a8e1b429",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Toulouse FC : trois matchs à domicile au Stadium cet automne",
+    "image_url": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_6c5d6b68-8d28-47be-90ba-2fe4a8e1b429_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:af5b92c9-e52f-431a-bb7c-6677f51cea74",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Conte musical « Le Voyage de Titi le Hérisson » à la Maison du Métro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TISSEO-3.jpg",
+    "file": "cluster_af5b92c9-e52f-431a-bb7c-6677f51cea74_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:71ca0618-c206-49a1-a25a-d64b46285196",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Soirées de l'Horreur Halloween à Accrocamp",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/nocturne-halloween-accrobranche-paris-1024x659-copie.jpg",
+    "file": "cluster_71ca0618-c206-49a1-a25a-d64b46285196_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a15f697b-a1b2-436e-815d-89983377a535",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Petites Histoires de Quartier : visite guidée des Carmes",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Place-des-Carmes---Remi-Deligeon--1--copie-2.jpg",
+    "file": "cluster_a15f697b-a1b2-436e-815d-89983377a535_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:efe049d7-5067-4ff5-af5e-72038eacde3f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Le Tic-Tac d'Antide » au Musée Paul Dupuy cet automne",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-HEURE-D-HIVER.jpg",
+    "file": "cluster_efe049d7-5067-4ff5-af5e-72038eacde3f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9376c522-75a2-470f-8f65-45d4732729f2",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les 24h de l'Accordéon à la Cave Poésie et Chapelle des Carmélites",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Design-sans-titre---2025-08-20T141451.370.jpg",
+    "file": "cluster_9376c522-75a2-470f-8f65-45d4732729f2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
