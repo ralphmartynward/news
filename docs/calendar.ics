@@ -16739,25 +16739,6 @@ URL:https://www.toulouse-tourisme.com/agenda/secrets-darbres-en-jardin/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:1dd391dd-b972-4598-bb63-9adc65ad6257@news.lavillerose.com
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Salles gothiques – Musée des Augustins
-DESCRIPTION:Le musée des Augustins rouvre ses salles gothiques après une 
- fermeture de quinze jours\, à l'issue d'une importante campagne de restau
- ration de 25 ans. La sacristie\, la salle Notre-Dame de Pitié et la salle
-  capitulaire accueillent à nouveau les collections médiévales du musée
- \, avec une nouvelle scénographie chronologique allant du XIIIe au XVIe s
- iècle. Parmi les pièces mises en valeur figurent Notre-Dame de Grâce\, 
- chef-d'œuvre de la sculpture gothique méridionale\, ainsi que des œuvre
- s jusqu'alors\n\nSource\: https://www.toulouse-tourisme.com/agenda/decouvr
- ez-les-salles-gothiques-du-musee-des-augustins/
-LOCATION:salles gothiques après une fermeture de quinze jours\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/decouvrez-les-salles-gothiques
- -du-musee-des-augustins/?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:635f2d3b-53a5-4028-921d-754201fc8c9e@news.lavillerose.com
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
@@ -18821,26 +18802,6 @@ DESCRIPTION:Les Pestacles reviennent à l'UGC Toulouse Montaudran avec une
  tacles/
 URL:https://www.toulouse-tourisme.com/agenda/les-pestacles/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:5a97a411-c6f6-4622-9f9d-be43a796248c@news.lavillerose.com
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Stade Toulousain : deux victoires en Top 14 et Champions Cup
-DESCRIPTION:Le Stade Toulousain s'est imposé face à l'Aviron Bayonnais (4
- 5-34) lors de la 6e journée de Top 14\, dans un Ernest-Wallon comble pour
-  le 85e match consécutif à guichets fermés. Le match a été marqué pa
- r un chassé-croisé de six essais de chaque côté\, avec notamment une p
- restation de Cyril Baille — futur Bayonnais — et un exploit personnel 
- d'Antoine Dupont. En Champions Cup\, Toulouse a livré l'un des plus grand
- s retournements de son histoire européenne\, s'imposant 43-40 face à Exe
- ter malgré plus d\n\nSource\: https://actu.fr/occitanie/toulouse_31555/to
- p-14-festival-d-essais-et-victoire-bonifiee-pour-le-stade-toulousain-face-
- a-bayonne_64909640.html
-LOCATION:Stade Toulousain s'est imposé face\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/top-14-festival-d-essais-et-vi
- ctoire-bonifiee-pour-le-stade-toulousain-face-a-bayonne_64909640.html?utm_
- source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8fc0411e-7bdc-42d4-a345-0a72c8b5a82b@news.lavillerose.com
@@ -21500,6 +21461,27 @@ URL:https://www.ticketmaster.fr/fr/manifestation/topick-billet/idmanif/6584
  se-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1dd391dd-b972-4598-bb63-9adc65ad6257@news.lavillerose.com
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270223
+SUMMARY:La Part des anges
+DESCRIPTION:Le musée des Augustins à Toulouse a rouvert ses salles gothiq
+ ues\, dotées d'une nouvelle scénographie lumineuse qui met en valeur plu
+ sieurs chefs-d'œuvre du patrimoine régional\, dont la Notre-Dame de Grâ
+ ce et la rarissime Croix double face du cardinal Godin. De nombreuses œuv
+ res restaurées\, remontées des réserves\, sont désormais visibles\, ta
+ ndis que la Salle du Maître de Rieux présente un ensemble statuaire au t
+ erme d'un programme de restauration de plus de 20 ans. Cette réouverture 
+ s'accompagne \n\nSource\: https://actu.fr/occitanie/toulouse_31555/a-la-de
+ couverte-des-tresors-du-musee-des-augustins-qui-vient-de-rouvrir-ses-passi
+ onnantes-salles-gothiques-a-toulouse_64945969.html
+LOCATION:salles gothiques\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/a-la-decouverte-des-tresors-du
+ -musee-des-augustins-qui-vient-de-rouvrir-ses-passionnantes-salles-gothiqu
+ es-a-toulouse_64945969.html?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c3742950-c79b-459e-9321-c4761b3ad1ec@news.lavillerose.com
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
@@ -23354,6 +23336,24 @@ URL:https://www.toulouse-tourisme.com/agenda/konstroy-darkwave-dj-set/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:25acc764-acab-4dfb-be7e-df80d9f18175@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Joe Bonamassa
+DESCRIPTION:Le guitariste et chanteur américain Joe Bonamassa\, figure inc
+ ontournable du blues-rock mondial\, se produira au Zénith Toulouse Métro
+ pole le 6 novembre 2026. Réputé pour ses performances live intenses et s
+ a maîtrise technique hors pair\, il attire un public fidèle de passionn
+ és de blues et de rock. L'événement est listé sur Ticketmaster\, où l
+ es billets sont disponibles à la vente. Les amateurs de guitare et de blu
+ es de la région toulousaine sont directement concernés par cette date.\n
+ \nSource\: https://www.ticketmaster.fr/fr/manifestation/joe-bonamassa-bill
+ et/idmanif/636371/idseance/4173420
+URL:https://www.ticketmaster.fr/fr/manifestation/joe-bonamassa-billet/idman
+ if/636371/idseance/4173420?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2152ac9a-db63-4bfe-8125-192a450254bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
@@ -23616,6 +23616,26 @@ DESCRIPTION:Le Festival Boon Ka-Saï investit les Halles de la Cartoucherie
 LOCATION:Halles de la Cartoucherie les 7\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/festival-boon-ka-sai/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:66ca14c6-baf0-45f2-8333-09c0fd80dfdf@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Héléna – Tournée des Zéniths
+DESCRIPTION:Révélée lors de la saison 2023 de la Star Academy\, Héléna
+  revient à Toulouse pour un concert au Zénith le samedi 7 novembre à 20
+ h\, dans le cadre de sa tournée des Zéniths. La jeune artiste belge de 2
+ 4 ans a connu une ascension rapide depuis l'émission\, avec un album inti
+ tulé Hélé sorti en mars 2025\, enrichi depuis de cinq titres supplémen
+ taires. Dans une interview accordée à Actu Toulouse\, elle revient sur l
+ es raisons de son succès et affirme que ne pas avoir remporté l'émissio
+ n lui a permis de \n\nSource\: https://actu.fr/occitanie/toulouse_31555/c-
+ est-toujours-grace-au-public-helena-de-la-star-academy-revient-au-zenith-d
+ e-toulouse-pour-un-concert-evenement_64950176.html
+URL:https://actu.fr/occitanie/toulouse_31555/c-est-toujours-grace-au-public
+ -helena-de-la-star-academy-revient-au-zenith-de-toulouse-pour-un-concert-e
+ venement_64950176.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8@news.lavillerose.com
@@ -27535,6 +27555,23 @@ DESCRIPTION:Florent Pagny se produira au Zénith Toulouse Métropole les 14
 URL:https://www.ticketmaster.fr/fr/manifestation/florent-pagny-billet/idman
  if/652255/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign
  =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:52725728-fd73-45a0-b769-bf8705c110ef@news.lavillerose.com
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Blind Test des Années 80
+DESCRIPTION:Le Grand Théâtre 3T accueille le 14 décembre 2026 une soiré
+ e blind test entièrement consacrée aux tubes des années 80. L'événeme
+ nt est classé dans la catégorie Arts & Théâtre / Comédie\, ce qui lai
+ sse supposer une animation scénique et humoristique en plus du jeu musica
+ l. Les amateurs de pop\, rock et variété de cette décennie iconique son
+ t clairement le public cible. Les billets sont disponibles via Ticketmaste
+ r.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/le-blind-test-
+ des-3t-annees-80-billet/idmanif/664394/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/le-blind-test-des-3t-annee
+ s-80-billet/idmanif/664394/idtier/18864121?utm_source=ical&utm_medium=cale
+ ndar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1cd915e3-c581-4275-9919-b08db67d1d67@news.lavillerose.com
@@ -32158,6 +32195,26 @@ DESCRIPTION:Lilia Benchabane présente son spectacle solo au Théâtre Musi
  m/agenda/lilia-benchabane-2/
 URL:https://www.toulouse-tourisme.com/agenda/lilia-benchabane-2/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0e372c1a-3d18-417f-b37e-c807fc7f2ab3@news.lavillerose.com
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Les Grands Interprètes
+DESCRIPTION:L'association Les Grands Interprètes présente sa programmatio
+ n pour la saison 2026-2027\, fidèle à sa tradition d'accueillir de grand
+ es figures internationales de la musique classique à Toulouse. Parmi les 
+ formations attendues figurent le Chamber Orchestra of Europe dirigé par A
+ ntonio Pappano\, l'Orchestre Philharmonique de Radio France sous Tugan Sok
+ hiev\, ou encore le San Diego Symphony Orchestra — plusieurs en premièr
+ e venue à Toulouse. Les solistes de renom sont également au rendez-vous\
+ , avec d\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-saison-de
+ s-grands-interpretes-une-programmation-prestigieuse-pour-un-veritable-defi
+ le-de-grands-noms-a-toulouse_64893093.html
+URL:https://actu.fr/occitanie/toulouse_31555/la-saison-des-grands-interpret
+ es-une-programmation-prestigieuse-pour-un-veritable-defile-de-grands-noms-
+ a-toulouse_64893093.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:cfec8acf-e4b3-4cbb-a5a9-5288d096af70@news.lavillerose.com

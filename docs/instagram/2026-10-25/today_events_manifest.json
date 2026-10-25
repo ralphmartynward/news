@@ -1,0 +1,121 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:f1b8accc-f810-408d-9216-d1d0a968ba72",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Casas de Choro à la MJC Pont des Demoiselles",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTIVAL-DE-CHORO.jpg",
+    "file": "cluster_f1b8accc-f810-408d-9216-d1d0a968ba72_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Au Bord de la Forêt du Souffle » au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AU-BORD-DE-LA-FORET-DU-SOUFFLE.jpg",
+    "file": "cluster_497ce4f0-d1a6-4ac3-bf4b-a70ea6dd86de_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9376c522-75a2-470f-8f65-45d4732729f2",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Les 24h de l'Accordéon à la Cave Poésie et Chapelle des Carmélites",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Design-sans-titre---2025-08-20T141451.370.jpg",
+    "file": "cluster_9376c522-75a2-470f-8f65-45d4732729f2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:53477bd2-5075-4e96-8985-b03c76141dc5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Barboteuse, spectacle clown pour enfants au Studio 55",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-BARBOTEUSE.jpg",
+    "file": "cluster_53477bd2-5075-4e96-8985-b03c76141dc5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:83732d56-e14f-4032-b953-f3131d630805",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Chantal Goya en concert au Zénith de Toulouse en octobre",
+    "image_url": "https://s1.ticketm.net/dam/c/1e5/abd7fc37-5fce-4756-ba3e-52fc9c4021e5_106221_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_83732d56-e14f-4032-b953-f3131d630805_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:c7ca6e20-4ff2-4132-8f86-e237f5dfdf28",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Brel ! Le Spectacle au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/0d2/1201f713-3288-4790-854a-ae42895450d2_105931_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_c7ca6e20-4ff2-4132-8f86-e237f5dfdf28_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:f4f011d0-fb29-45b8-9df3-ade2cb5b0695",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "TOPICK en spectacle à Saint-Orens avec « L'excellence ordinaire »",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_f4f011d0-fb29-45b8-9df3-ade2cb5b0695_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:c3742950-c79b-459e-9321-c4761b3ad1ec",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite contée pour enfants à la Fondation Bemberg",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VISITE-CONTEE-BEMBERG.jpg",
+    "file": "cluster_c3742950-c79b-459e-9321-c4761b3ad1ec_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8e098944-f038-4c45-be8c-f9053f57101d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rencontre Horlogère au Musée Paul Dupuy : secrets de mécanismes",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RENCONTRE-HORLOGERE.jpg",
+    "file": "cluster_8e098944-f038-4c45-be8c-f9053f57101d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:23702c1c-aba5-49b0-a0a8-ad8717c35d2a",
+    "format": "story",
+    "source": "ticketmaster",
+    "category": "event",
+    "title": "Toulouse FC reçoit Estac Troyes au Stadium",
+    "image_url": "https://s1.ticketm.net/dam/c/f9a/3c3c0a9d-033f-47b3-9621-7b554d80df9a_106241_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_23702c1c-aba5-49b0-a0a8-ad8717c35d2a_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  }
+]
