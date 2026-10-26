@@ -19937,26 +19937,6 @@ URL:https://www.clutchmag.fr/evenements#2026-10-15-samedi-17-octobre-0?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261102
-SUMMARY:Halloween African Safari
-DESCRIPTION:Du 17 octobre au 1er novembre 2026\, le zoo African Safari de P
- laisance-du-Touch se transforme pour Halloween avec décorations\, chasse 
- aux bonbons\, cabinet des mystères et ateliers maquillage pour les famill
- es. Grande nouveauté cette année : des visites nocturnes exceptionnelles
-  à 18h et 18h30\, pensées pour découvrir les animaux en mobilisant tous
-  les sens dans une ambiance d'exploration. Par ailleurs\, une sélection d
- e dix idées Halloween à Toulouse et ses environs est proposée\, incluan
- t des soir\n\nSource\: https://www.toulouscope.fr/2026/10/17/pres-de-toulo
- use-le-zoo-african-safari-se-transforme-pour-halloween-avec-une-nouveaute-
- encore-plus-immersive-13589197.php
-URL:https://www.toulouscope.fr/2026/10/17/pres-de-toulouse-le-zoo-african-s
- afari-se-transforme-pour-halloween-avec-une-nouveaute-encore-plus-immersiv
- e-13589197.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
- genda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:87e80657-6b66-4dc6-a3e6-623a4285620b@news.lavillerose.com
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
@@ -21261,19 +21241,19 @@ BEGIN:VEVENT
 UID:cluster:d8129494-dbb5-4cb1-a435-d2ca291b247e@news.lavillerose.com
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:Manifestation du 24 octobre : dispositif renforcé et transports pe
- rturbés à Toulouse
-DESCRIPTION:L'« Acte II » de la mobilisation contre la vie chère se tien
- t ce samedi 24 octobre 2026 à Toulouse\, avec un départ prévu à 14h de
- puis les allées Jean-Jaurès. La semaine précédente\, le 17 octobre\, l
- a manifestation avait réuni entre 32 000 (chiffre préfecture) et 80 000 
- participants (chiffre syndicats)\, et s'était soldée par des pillages et
-  dégradations dans le centre-ville. Pour éviter un nouveau scénario vio
- lent\, la préfecture de Haute-Garonne a déployé un dispositif de sécur
- ité renforcé incluan\n\nSource\: https://actu.fr/occitanie/toulouse_3155
- 5/la-mobilisation-lyceenne-n-est-pas-morte-voici-comment-elle-va-se-poursu
- ivre-a-toulouse-malgre-les-vacances_64949655.html
-LOCATION:allées Jean-Jaurès\, Toulouse
+SUMMARY:Acte II contre la vie chère : bilan de la manifestation du 24 octo
+ bre à Toulouse
+DESCRIPTION:Le samedi 24 octobre 2026\, un « Acte II » de la mobilisation
+  contre la vie chère a rassemblé des gilets jaunes\, syndicats\, lycéen
+ s et étudiants dans les rues de Toulouse\, une semaine après une premiè
+ re manifestation marquée par des pillages et violences. Le cortège est p
+ arti à 14h des allées Jean-Jaurès en direction de Saint-Cyprien\, avec 
+ un dispositif de sécurité renforcé incluant le RAID et la gendarmerie. 
+ Les chiffres de participation divergent fortement : 80 000 personnes selon
+  les syndicats\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-mob
+ ilisation-lyceenne-n-est-pas-morte-voici-comment-elle-va-se-poursuivre-a-t
+ oulouse-malgre-les-vacances_64949655.html
+LOCATION:rues de Toulouse\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/la-mobilisation-lyceenne-n-est
  -pas-morte-voici-comment-elle-va-se-poursuivre-a-toulouse-malgre-les-vacan
  ces_64949655.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
@@ -21652,6 +21632,27 @@ URL:https://www.ticketmaster.fr/fr/manifestation/jonathan-lambert-billet/id
  aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a601ff03-134e-4f63-b5ba-4d4dd46074a8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261030
+SUMMARY:Travaux nocturnes sur le périphérique est de Toulouse dès le 26 
+ octobre
+DESCRIPTION:VINCI Autoroutes lance une campagne de maintenance sur les 35 k
+ m du périphérique est toulousain à partir du lundi 26 octobre 2026. Les
+  travaux se dérouleront exclusivement de nuit\, de 21h à 6h\, jusqu'au j
+ eudi 29 octobre\, mobilisant 50 techniciens et une vingtaine d'entreprises
+ . Les opérations incluent l'inspection des ouvrages d'art\, l'hydrocurage
+  des caniveaux\, la réparation de glissières de sécurité\, la vérific
+ ation de la signalisation et des caméras\, ainsi que l'entretien des arbr
+ es. Dans la \n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-perip
+ herique-de-toulouse-va-etre-le-theatre-de-plusieurs-travaux-des-ce-lundi-2
+ 6-octobre-tout-ce-qu-il-faut-savoir_64973507.html
+URL:https://actu.fr/occitanie/toulouse_31555/le-peripherique-de-toulouse-va
+ -etre-le-theatre-de-plusieurs-travaux-des-ce-lundi-26-octobre-tout-ce-qu-i
+ l-faut-savoir_64973507.html?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c0b04225-68c9-4f2e-abbe-cf3a19b31c60@news.lavillerose.com
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
@@ -21742,6 +21743,24 @@ DESCRIPTION:Le Couvent des Jacobins ouvre les portes de ses chantiers de re
 URL:https://www.toulouse-tourisme.com/agenda/les-dessous-dune-restauration-
  patrimoniale/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:436c5ea9-5ea7-490e-8ada-404071ce16eb@news.lavillerose.com
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:La visite de Madame Rose
+DESCRIPTION:Epok'Tour propose une visite guidée et théâtralisée du cent
+ re-ville de Toulouse incarnée par le personnage de Madame Rose\, patronne
+  de maison close à la fin du XIXe siècle. Le parcours part de la place S
+ aint-Georges\, passe par la place Salengro et l'ancien hôtel Tivollier\, 
+ et plonge les participants dans un Toulouse en pleine transformation : arr
+ ivée du chemin de fer\, de l'électricité\, du tramway et essor des gran
+ ds magasins. Le personnage de Mme Rose — qui se dit « marchande d'amour
+  » — sert de\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-10-26#53752
+LOCATION:place Saint-Georges\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-26#53752?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:37197e28-1272-4175-9fbe-ba8ad75fd452@news.lavillerose.com
@@ -22095,15 +22114,16 @@ UID:cluster:1c4abc79-0470-4774-8213-7fdee6955025@news.lavillerose.com
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
 SUMMARY:Vins & Terroirs – Chocolat & Gourmandises
-DESCRIPTION:Du 30 octobre au 1er novembre 2026\, le MEETT d'Aussonne accuei
- lle deux salons gourmands en parallèle : Vins & Terroirs et Chocolat & Go
- urmandises. Forts d'environ 34 000 visiteurs l'an dernier\, les deux évé
- nements réunissent cette fois 335 exposants proposant vins français et i
- nternationaux\, produits du terroir (dont certains insolites comme le bœu
- f de Kobe ou le caviar) et créations chocolatées. Le salon Chocolat & Go
- urmandises mettra notamment à l'honneur plusieurs maisons toulousaines\, 
- avec t\n\nSource\: https://www.toulouscope.fr/2026/10/22/335-exposants-att
- endus-au-meett-pour-ce-grand-rendez-vous-gourmand-de-lautomne-13601736.php
+DESCRIPTION:Les salons Vins & Terroirs et Chocolat & Gourmandises reviennen
+ t au MEETT à Aussonne du 30 octobre au 1er novembre 2026\, avec 335 expos
+ ants répartis entre vins (207)\, produits du terroir (76) et chocolat et 
+ gourmandises (52). Forts de près de 34 000 visiteurs l'an dernier\, les d
+ eux événements proposent dégustations\, ateliers et une vente aux ench
+ ères de grands crus. Plusieurs chocolatiers toulousains seront présents 
+ — Bello & Angeli\, Frédéric Lopez\, De Neuville\, Janie\, Escarnot\, D
+ e la Fève au Pa\n\nSource\: https://www.toulouscope.fr/2026/10/22/335-exp
+ osants-attendus-au-meett-pour-ce-grand-rendez-vous-gourmand-de-lautomne-13
+ 601736.php
 URL:https://www.toulouscope.fr/2026/10/22/335-exposants-attendus-au-meett-p
  our-ce-grand-rendez-vous-gourmand-de-lautomne-13601736.php?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -22247,6 +22267,24 @@ LOCATION:quartier Saint-Aubin se transforme en terrain d'enquête\, Toulous
  e
 URL:https://www.toulouse-tourisme.com/agenda/les-disparus-de-saint-aubin/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:Sélection de sorties Halloween 2026 à Toulouse et alentours
+DESCRIPTION:Pour Halloween 2026\, Toulouse et ses environs proposent une mu
+ ltitude d'activités pour tous les goûts et tous les âges. Les cinémas 
+ Véo de La Cartoucherie et de Colomiers programment des soirées spéciale
+ s avec films d'horreur\, quiz et repas thématiques le 31 octobre. Du côt
+ é culturel et historique\, le muséum de Toulouse\, le cimetière Terre-C
+ abade\, les ruines des Cordeliers et le musée Paul-Dupuy accueillent visi
+ tes guidées\, contes et chasses aux bonbons. Les amateurs de sensations f
+ ortes pourron\n\nSource\: https://www.toulouscope.fr/2026/10/21/que-faire-
+ pour-halloween-2026-a-toulouse-13605417.php
+URL:https://www.toulouscope.fr/2026/10/21/que-faire-pour-halloween-2026-a-t
+ oulouse-13605417.php?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:957c8a14-e52d-43c1-bfd3-9b409e2b05f7@news.lavillerose.com
@@ -32200,17 +32238,18 @@ BEGIN:VEVENT
 UID:cluster:0e372c1a-3d18-417f-b37e-c807fc7f2ab3@news.lavillerose.com
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-SUMMARY:Les Grands Interprètes
-DESCRIPTION:L'association Les Grands Interprètes présente sa programmatio
- n pour la saison 2026-2027\, fidèle à sa tradition d'accueillir de grand
- es figures internationales de la musique classique à Toulouse. Parmi les 
- formations attendues figurent le Chamber Orchestra of Europe dirigé par A
- ntonio Pappano\, l'Orchestre Philharmonique de Radio France sous Tugan Sok
- hiev\, ou encore le San Diego Symphony Orchestra — plusieurs en premièr
- e venue à Toulouse. Les solistes de renom sont également au rendez-vous\
- , avec d\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-saison-de
- s-grands-interpretes-une-programmation-prestigieuse-pour-un-veritable-defi
- le-de-grands-noms-a-toulouse_64893093.html
+SUMMARY:Saisons musicales 2026-2027 : Grands Interprètes et Orchestre du C
+ apitole dévoilent leurs programmes
+DESCRIPTION:Toulouse s'apprête à vivre une saison musicale 2026-2027 d'en
+ vergure internationale\, portée par deux institutions majeures : les Gran
+ ds Interprètes et l'Orchestre National du Capitole. Les Grands Interprèt
+ es accueilleront notamment le Chamber Orchestra of Europe dirigé par Anto
+ nio Pappano\, le San Diego Symphony Orchestra\, ainsi que des solistes com
+ me Khatia Buniatishvili et Alexandre Kantorow\, avec en point d'orgue la 9
+ e Symphonie de Beethoven par l'Ensemble Pygmalion (Raphaël Pichon) le 19 
+ mars\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-saison-des-gr
+ ands-interpretes-une-programmation-prestigieuse-pour-un-veritable-defile-d
+ e-grands-noms-a-toulouse_64893093.html
 URL:https://actu.fr/occitanie/toulouse_31555/la-saison-des-grands-interpret
  es-une-programmation-prestigieuse-pour-un-veritable-defile-de-grands-noms-
  a-toulouse_64893093.html?utm_source=ical&utm_medium=calendar&utm_campaign=
