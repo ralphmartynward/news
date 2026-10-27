@@ -1,0 +1,55 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9c83642a-78a0-450c-aa11-f3849722acae",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Sylve, l'Enfant de la Forêt au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SYLVE.jpg",
+    "file": "cluster_9c83642a-78a0-450c-aa11-f3849722acae_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c0b04225-68c9-4f2e-abbe-cf3a19b31c60",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée Renaissance : quartier St Rome et collection Bemberg",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VISITE-FONDATION-BEMBERG.jpg",
+    "file": "cluster_c0b04225-68c9-4f2e-abbe-cf3a19b31c60_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:84cbb972-2aef-42c6-9865-6dd05f38851d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le festival C'est qui la boss ? fête ses 10 ans au FirsNime",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6abc19cafb7e282ca5037714/hd/image.webp?v=1",
+    "file": "cluster_84cbb972-2aef-42c6-9865-6dd05f38851d_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:a556af45-166c-4c98-a6de-215adf5ea505",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Exposition « Toulouse Miniature » au Centre d'Art Vitry",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MAQUETTTE-ROGER-PUNTOUS.jpg",
+    "file": "cluster_a556af45-166c-4c98-a6de-215adf5ea505_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

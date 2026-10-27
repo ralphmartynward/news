@@ -21241,19 +21241,18 @@ BEGIN:VEVENT
 UID:cluster:d8129494-dbb5-4cb1-a435-d2ca291b247e@news.lavillerose.com
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:Acte II contre la vie chère : bilan de la manifestation du 24 octo
- bre à Toulouse
-DESCRIPTION:Le samedi 24 octobre 2026\, un « Acte II » de la mobilisation
-  contre la vie chère a rassemblé des gilets jaunes\, syndicats\, lycéen
- s et étudiants dans les rues de Toulouse\, une semaine après une premiè
- re manifestation marquée par des pillages et violences. Le cortège est p
- arti à 14h des allées Jean-Jaurès en direction de Saint-Cyprien\, avec 
- un dispositif de sécurité renforcé incluant le RAID et la gendarmerie. 
- Les chiffres de participation divergent fortement : 80 000 personnes selon
-  les syndicats\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-mob
- ilisation-lyceenne-n-est-pas-morte-voici-comment-elle-va-se-poursuivre-a-t
- oulouse-malgre-les-vacances_64949655.html
-LOCATION:rues de Toulouse\, Toulouse
+SUMMARY:Manifestation contre la vie chère : bilan de l'Acte II à Toulouse
+DESCRIPTION:Le samedi 24 octobre 2026\, l'Acte II de la mobilisation contre
+  la vie chère a rassemblé à Toulouse entre 26 500 personnes (préfectur
+ e) et 80 000 (syndicats)\, partant des allées Jean-Jaurès vers Saint-Cyp
+ rien. Un dispositif de sécurité renforcé — incluant RAID\, gendarmeri
+ e et plus de 2 000 contrôles préventifs — a limité les débordements 
+ par rapport à l'Acte I du 17 octobre\, mais plusieurs incidents ont eu li
+ eu dont un blessé grave. Le couvre-feu instauré sur l'hypercentre après
+  les pillages du 1\n\nSource\: https://actu.fr/occitanie/toulouse_31555/la
+ -mobilisation-lyceenne-n-est-pas-morte-voici-comment-elle-va-se-poursuivre
+ -a-toulouse-malgre-les-vacances_64949655.html
+LOCATION:allées Jean-Jaurès vers Saint-Cyprien\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/la-mobilisation-lyceenne-n-est
  -pas-morte-voici-comment-elle-va-se-poursuivre-a-toulouse-malgre-les-vacan
  ces_64949655.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
@@ -21499,15 +21498,18 @@ BEGIN:VEVENT
 UID:cluster:23702c1c-aba5-49b0-a0a8-ad8717c35d2a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-SUMMARY:Toulouse FC / Estac Troyes
-DESCRIPTION:Le Toulouse FC affronte l'Estac Troyes au Stadium de Toulouse l
- e 25 octobre 2026\, dans le cadre du championnat de football. Ce match à 
- domicile est une occasion pour les supporters toulousains de soutenir leur
-  club en Ligue 1. Les billets sont disponibles via Ticketmaster. Les fans 
- de football de la région sont invités à réserver leurs places dès que
-  possible.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/toulou
- se-fc-estac-troyes-billet/idmanif/671256/idseance/4403042
-LOCATION:Stadium de Toulouse le 25 octobre 2026\, Toulouse
+SUMMARY:Toulouse FC – matchs à domicile
+DESCRIPTION:Le Toulouse FC accueille quatre adversaires au Stadium de Toulo
+ use lors de la saison 2026-2027 : Estac Troyes le 25 octobre 2026\, puis A
+ ngers SCO le 2 janvier 2027\, OGC Nice le 23 janvier et RC Lens le 30 janv
+ ier. Ces rencontres de Ligue 1 offrent aux supporters toulousains plusieur
+ s occasions de voir leur équipe jouer à domicile sur une période s'éta
+ lant sur plusieurs mois. Les billets sont disponibles via Ticketmaster. Le
+ s amateurs de football local ont ainsi un calendrier bien chargé entre au
+ \n\nSource\: https://www.ticketmaster.fr/fr/manifestation/toulouse-fc-esta
+ c-troyes-billet/idmanif/671256/idseance/4403042
+LOCATION:Stadium de Toulouse lors de la saison 2026-2027 : Estac T\, Toulou
+ se
 URL:https://www.ticketmaster.fr/fr/manifestation/toulouse-fc-estac-troyes-b
  illet/idmanif/671256/idseance/4403042?utm_source=ical&utm_medium=calendar&
  utm_campaign=toulouse-agenda
@@ -21653,6 +21655,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/le-peripherique-de-toulouse-va
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:bdf37913-46e9-4c61-ad01-501d91b926e9@news.lavillerose.com
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Deux rassemblements à Toulouse en soutien aux victimes de Trappes
+DESCRIPTION:Trois jours après l'attentat terroriste commis à Trappes et L
+ a Verrière par un homme de 39 ans armé d'un pistolet-mitrailleur\, deux 
+ rassemblements de soutien aux victimes sont organisés à Toulouse ce lund
+ i 26 octobre 2026. L'attaque\, au caractère raciste reconnu\, a coûté l
+ a vie à un homme de 26 ans et blessé quatre autres personnes\, dont une 
+ fillette de douze ans. Le parquet national antiterroriste a été saisi et
+  a qualifié les faits d'assassinat en lien avec une entreprise terroriste
+  à caractèr\n\nSource\: https://actu.fr/occitanie/toulouse_31555/attenta
+ t-terroriste-de-trappes-deux-rassemblements-organises-a-toulouse-en-soutie
+ n-aux-victimes_64976360.html
+URL:https://actu.fr/occitanie/toulouse_31555/attentat-terroriste-de-trappes
+ -deux-rassemblements-organises-a-toulouse-en-soutien-aux-victimes_64976360
+ .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c0b04225-68c9-4f2e-abbe-cf3a19b31c60@news.lavillerose.com
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
@@ -21690,6 +21711,23 @@ URL:https://www.toulouscope.fr/2026/10/01/le-festival-cest-qui-la-boss-revi
  ent-a-toulouse-pour-une-10e-edition-avec-des-invitees-inspirantes-et-audac
  ieuses-13575173.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a556af45-166c-4c98-a6de-215adf5ea505@news.lavillerose.com
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261115
+SUMMARY:Toulouse Miniature
+DESCRIPTION:L'artiste Roger Puntous présente ses maquettes de Toulouse ré
+ alisées entièrement à la main au Centre d'Art Vitry. Parmi les œuvres 
+ exposées figurent la Basilique Saint-Sernin\, le Donjon du Capitole et le
+  dôme de La Grave\, monuments emblématiques de la ville rose. L'expositi
+ on se tient du 27 octobre au 14 novembre 2026\, offrant aux amateurs d'art
+  et d'histoire locale une plongée miniaturisée dans le patrimoine toulou
+ sain. Une occasion originale de (re)découvrir l'architecture de Toulouse 
+ sous un \n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-min
+ iature/
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-miniature/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a8502b01-4955-434e-a706-d8e4e561952d@news.lavillerose.com
@@ -22273,15 +22311,15 @@ UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261101
 SUMMARY:Sélection de sorties Halloween 2026 à Toulouse et alentours
-DESCRIPTION:Pour Halloween 2026\, Toulouse et ses environs proposent une mu
- ltitude d'activités pour tous les goûts et tous les âges. Les cinémas 
- Véo de La Cartoucherie et de Colomiers programment des soirées spéciale
- s avec films d'horreur\, quiz et repas thématiques le 31 octobre. Du côt
- é culturel et historique\, le muséum de Toulouse\, le cimetière Terre-C
- abade\, les ruines des Cordeliers et le musée Paul-Dupuy accueillent visi
- tes guidées\, contes et chasses aux bonbons. Les amateurs de sensations f
- ortes pourron\n\nSource\: https://www.toulouscope.fr/2026/10/21/que-faire-
- pour-halloween-2026-a-toulouse-13605417.php
+DESCRIPTION:À l'occasion d'Halloween\, trois médias toulousains proposent
+  chacun une sélection d'idées de sorties pour le week-end du 30 et 31 oc
+ tobre 2026. Les options couvrent un large spectre : cinéma d'horreur aux 
+ Cinémas Véo de La Cartoucherie et de Colomiers\, escape game immersif au
+  Laser Quest de Balma-Grammont\, zombie walk au domaine de Pontié\, visit
+ es nocturnes du cimetière Terre-Cabade ou des ruines de l'église des Cor
+ deliers\, soirée rave open air à la Babayaga\, spectacle drag au Bascala
+  et DJ sets\n\nSource\: https://www.toulouscope.fr/2026/10/21/que-faire-po
+ ur-halloween-2026-a-toulouse-13605417.php
 URL:https://www.toulouscope.fr/2026/10/21/que-faire-pour-halloween-2026-a-t
  oulouse-13605417.php?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
@@ -26128,6 +26166,22 @@ URL:https://www.toulouse-tourisme.com/agenda/invisible/?utm_source=ical&utm
  _medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a06bb934-1dda-482a-878a-e8e611f6fb13@news.lavillerose.com
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:Kicking 20 ans
+DESCRIPTION:Le label toulousain Kicking célèbre ses 20 ans avec deux soir
+ ées consécutives au Bikini\, les 27 et 28 novembre 2026. Le vendredi acc
+ ueille Svinkels family & friends\, Poésie Zéro et Krav Boca\, tandis que
+  le samedi voit se succéder Les Sherif\, Burning Heads et Not Scientists.
+  L'événement rassemble un beau plateau de groupes punk\, rock et hip-hop
+  liés à l'histoire du label. Un rendez-vous incontournable pour les amat
+ eurs de scène alternative toulousaine.\n\nSource\: https://www.toulouse-t
+ ourisme.com/agenda/kicking-fete-ses-20-ans-a-toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/kicking-fete-ses-20-ans-a-toul
+ ouse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e00c73cd-495e-47fa-b107-36d2ac9ec001@news.lavillerose.com
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
@@ -26309,6 +26363,23 @@ URL:https://www.toulouse-tourisme.com/agenda/cine-concert-menilmontant-brum
  nda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:bdd5c22d-fde0-46b3-95fa-fc57f4613ed3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Littératures et Contredanses
+DESCRIPTION:L'événement « Littératures et Contredanses » se tient à L
+ a Fabrique et s'articule autour de l'ouvrage de Jean-Marie Guilcher\, La c
+ ontredanse\, un tournant dans l'histoire française de la danse. La rencon
+ tre invite à interroger ce que les formes du pouvoir font à nos corps\, 
+ à nos espaces et à nos manières de percevoir le monde. Des pratiques r
+ écréatives aux luttes sociales\, les formes dansées issues de la contre
+ danse sont convoquées pour explorer mémoires et imaginaires collectifs. 
+ L'événement que\n\nSource\: https://www.toulouse-tourisme.com/agenda/lit
+ teratures-et-contredanses/
+URL:https://www.toulouse-tourisme.com/agenda/litteratures-et-contredanses/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:6277a5f3-8c23-411b-a7f8-0cb4b23aaf7a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
@@ -26485,6 +26556,23 @@ DESCRIPTION:Le comédien Guillermo Guiz se produit au 3T D'À Côté à Tou
 URL:https://www.ticketmaster.fr/fr/manifestation/guillermo-guiz-billet/idma
  nif/676320/idseance/4443325?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7d845782-16c7-47f5-90fb-7a8105491490@news.lavillerose.com
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Figure d'Empire et Contredanse
+DESCRIPTION:Le spectacle Figure d'Empire et Contredanse\, créé en 2025 pa
+ r les chorégraphes Magali Milian et Romuald Luydlin\, est programmé à L
+ a Fabrique le 2 décembre 2026. La pièce prolonge leur travail sur Empire
+  en explorant la contredanse\, danse sociale des XVIIe et XVIIIe siècles 
+ pratiquée en France et en Angleterre\, comme prisme pour interroger les m
+ écanismes du pouvoir impérialiste. Six danseur·euse·s et le musicien M
+ arc Sens réinterprètent les figures traditionnelles — balancés\, tres
+ ses\, rondes\, mou\n\nSource\: https://www.toulouse-tourisme.com/agenda/fi
+ gure-dempire-et-contredanse/
+URL:https://www.toulouse-tourisme.com/agenda/figure-dempire-et-contredanse/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:061f4cea-7dbb-4eb0-8802-e499725b44b5@news.lavillerose.com
@@ -27610,6 +27698,24 @@ DESCRIPTION:Le Grand Théâtre 3T accueille le 14 décembre 2026 une soiré
 URL:https://www.ticketmaster.fr/fr/manifestation/le-blind-test-des-3t-annee
  s-80-billet/idmanif/664394/idtier/18864121?utm_source=ical&utm_medium=cale
  ndar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:05497062-e203-4579-bccd-a108266da32d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:La Danse pour la Jeunesse
+DESCRIPTION:L'événement « La Danse pour la Jeunesse » se tiendra à l'E
+ space Roguet le 14 décembre 2026. La programmation s'interroge sur les mo
+ yens de susciter et maintenir le désir de pratiquer la danse chez les jeu
+ nes publics. Des questions de transmission et de médiation sont au cœur 
+ de la démarche : comment s'adresser aux jeunes spectateurs et leur faire 
+ découvrir l'histoire des danses ? L'initiative s'adresse à la fois aux a
+ dolescents\, aux praticiens et à tous ceux qui gravitent autour de la dan
+ se jeun\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-danse-pour
+ -la-jeunesse/
+LOCATION:Espace Roguet le 14 décembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/la-danse-pour-la-jeunesse/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1cd915e3-c581-4275-9919-b08db67d1d67@news.lavillerose.com
@@ -29664,6 +29770,23 @@ LOCATION:salle toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/bernard-mabille-se-devoile
  -billet/idmanif/649430/idtier/18864121?utm_source=ical&utm_medium=calendar
  &utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0cd24a98-0299-4a39-aefc-f38a00b85dc5@news.lavillerose.com
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Portes Ouvertes MJM Graphic Design
+DESCRIPTION:MJM Graphic Design Toulouse organise ses Portes Ouvertes\, invi
+ tant le public à découvrir les travaux des étudiants et les disciplines
+  enseignées dans l'école. Les visiteurs pourront explorer des projets co
+ uvrant design\, image et arts appliqués\, du concept à la réalisation. 
+ L'événement s'adresse aussi bien aux passionnés de création qu'aux lyc
+ éens en quête d'orientation. C'est une occasion concrète de se projeter
+  dans les métiers du design graphique et de rencontrer l'équipe pédagog
+ ique.\n\nSource\: https://www.toulouse-tourisme.com/agenda/mjm-graphic-des
+ ign/
+URL:https://www.toulouse-tourisme.com/agenda/mjm-graphic-design/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0878a215-8d76-4719-95fd-47e258a62745@news.lavillerose.com
@@ -34955,6 +35078,44 @@ URL:https://www.toulouse-tourisme.com/agenda/au-cafe-de-paris/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:9fc67632-0ccf-4261-8859-35a8b4763c30@news.lavillerose.com
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Fontaines D.C.
+DESCRIPTION:Le groupe de post-punk irlandais Fontaines D.C. se produira au 
+ Zénith Toulouse Métropole le 8 juin 2027. Révélés sur la scène rock 
+ internationale avec leurs albums acclamés\, ils s'imposent comme l'un des
+  groupes les plus influents de leur génération. Ce concert s'inscrit dan
+ s ce qui semble être une tournée européenne du groupe. Les amateurs de 
+ rock alternatif et de post-punk toulousains sont directement concernés pa
+ r cet événement.\n\nSource\: https://www.ticketmaster.fr/fr/manifestatio
+ n/fontaines-dc-billet/idmanif/676558/idseance/4444515
+URL:https://www.ticketmaster.fr/fr/manifestation/fontaines-dc-billet/idmani
+ f/676558/idseance/4444515?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d9c3c46b-3b0e-48b7-a4d5-2225250afbd8@news.lavillerose.com
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Fontaines D.C. – Zénith Toulouse
+DESCRIPTION:Le groupe irlandais Fontaines D.C. a annoncé le 26 octobre 202
+ 6 une date unique au Zénith de Toulouse\, fixée au 8 juin 2027. Il s'agi
+ t de l'un des rares concerts en salle du groupe en France\, aux côtés se
+ ulement du Zénith de Nantes le 7 juin : le reste de leur tournée hexagon
+ ale se déroulera essentiellement en festival. Les préventes ouvrent le m
+ ercredi 28 octobre à 11h pour les inscrits sur le site du groupe\, et la 
+ billetterie générale ouvre le 30 octobre à 11h\, également via Bleu Ci
+ tron. Les a\n\nSource\: https://actu.fr/occitanie/toulouse_31555/fontaines
+ -d-c-annonce-une-date-unique-au-zenith-de-toulouse-en-2027-voici-quand-ouv
+ re-la-billetterie_64976894.html
+LOCATION:salle du groupe en France\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/fontaines-d-c-annonce-une-date
+ -unique-au-zenith-de-toulouse-en-2027-voici-quand-ouvre-la-billetterie_649
+ 76894.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2cd31206-2962-44ff-9b9a-152bcadc8560@news.lavillerose.com
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
@@ -35698,6 +35859,24 @@ DESCRIPTION:L'humoriste et imitateur Laurent Gerra se produira au Zénith T
 URL:https://www.ticketmaster.fr/fr/manifestation/laurent-gerra-billet/idman
  if/672966/idseance/4425257?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:06e2833a-7b89-45ed-a209-b624b23ded02@news.lavillerose.com
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+SUMMARY:GIMS
+DESCRIPTION:Le chanteur GIMS se produira au Zénith Toulouse Métropole le 
+ 14 décembre 2027. L'artiste\, figure incontournable de la chanson frança
+ ise et du R&B\, s'inscrit dans une tournée de grande envergure. Le Zénit
+ h de Toulouse est l'une des plus grandes salles de spectacle de la région
+ \, capable d'accueillir plusieurs milliers de spectateurs. Les amateurs de
+  musique urbaine et de chanson française sont directement concernés par 
+ cette annonce.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/gi
+ ms-billet/idmanif/651806/idseance/4289509
+LOCATION:salles de spectacle de la région\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/gims-billet/idmanif/651806
+ /idseance/4289509?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4a144999-56c3-4636-b73c-ebf1864950e5@news.lavillerose.com
