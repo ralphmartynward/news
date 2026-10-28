@@ -22341,21 +22341,21 @@ URL:https://www.toulouse-tourisme.com/agenda/family-week-end-vol-4/?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:96db22f7-864a-4709-a8e5-88039a38df10@news.lavillerose.com
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-SUMMARY:Toulouse Métropole Run Experience
-DESCRIPTION:La Toulouse Métropole Run Experience revient les 1er et 2 nove
- mbre 2026 avec cinq formats de course pour tous les niveaux. Au programme 
- : Marathon des Géants (42\,195 km)\, Semi-Marathon de la Garonne\, 10 km 
- du Capitole\, Marathon Relais des Pionniers de l'Aéropostale en équipe\,
-  et une Course des P'tits Rex pour les enfants le samedi 31 octobre à la 
- Prairie des Filtres. L'événement se veut bien plus qu'une course sportiv
- e\, mêlant performance\, convivialité et engagement environnemental au c
- œur de To\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-m
- etropole-run-experience/
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-metropole-run-experie
- nce/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+UID:cluster:5026c40e-9994-4056-9cb1-576ff53c3b5a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Chair de Poule
+DESCRIPTION:Le Capharnaüm accueille une exposition collective réunissant 
+ quatre artistes autour de l'univers de la célèbre série littéraire « 
+ Chair de Poule ». Paulaulart (tatoueur et illustrateur de créatures somb
+ res)\, Lafillecactus (illustratrice féerique)\, Ekpyrosis (univers sangla
+ nt et pourpre) et Korail (graffeur\, peintre et photographe évoquant les 
+ fantômes) composent le quatuor. L'événement est prévu le 30 octobre 20
+ 26\, à la veille d'Halloween\, ce qui renforce la cohérence thématique 
+ de la programmat\n\nSource\: https://www.toulouse-tourisme.com/agenda/chai
+ r-de-poule/
+URL:https://www.toulouse-tourisme.com/agenda/chair-de-poule/?utm_source=ica
+ l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:308efbbe-36d1-4512-b74a-e6fdd5874049@news.lavillerose.com
@@ -22631,6 +22631,27 @@ DESCRIPTION:L'article propose une sélection de soirées et bons plans pour
 URL:mailto:bounce-RFHQZCKOVMREREMHYP3XTC6MTE.100225@bounce.email.secretmedi
  anetwork.com?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
  nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:96db22f7-864a-4709-a8e5-88039a38df10@news.lavillerose.com
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Marathon des Géants
+DESCRIPTION:Le marathon des Géants de Toulouse se tient le dimanche 1er no
+ vembre 2026\, avec 37 000 participants répartis sur plusieurs épreuves (
+ marathon\, semi\, relais\, 10 km et course enfants). Cette édition voit u
+ n changement majeur : le départ est déplacé sur le boulevard d'Arcole 
+ à 8h\, et l'arrivée est fixée boulevard Lazare-Carnot\, inversant le tr
+ acé de 2025. Le nouveau parcours abandonne certains sites habituels comme
+  les ponts Neuf et des Catalans ou le parc de la Maourine\, au profit du S
+ tadium\, de l\n\nSource\: https://actu.fr/occitanie/toulouse_31555/trace-r
+ ues-fermees-impact-sur-les-transports-tout-ce-qu-il-y-a-a-savoir-sur-le-ma
+ rathon-des-geants-de-toulouse_64975112.html
+LOCATION:boulevard d'Arcole\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/trace-rues-fermees-impact-sur-
+ les-transports-tout-ce-qu-il-y-a-a-savoir-sur-le-marathon-des-geants-de-to
+ ulouse_64975112.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:dae7c373-449d-4028-b310-f791285cc323@news.lavillerose.com
@@ -24112,6 +24133,26 @@ DESCRIPTION:La soirée « La La La » au Metronum invite le public à forme
  isme.com/agenda/soiree-la-la-la/
 URL:https://www.toulouse-tourisme.com/agenda/soiree-la-la-la/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:19b75c23-2d45-432c-a412-89cd8d973779@news.lavillerose.com
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Rencontres Michel Serres
+DESCRIPTION:La sixième édition des Rencontres Michel Serres se tiendra du
+  12 au 15 novembre 2026 à Agen\, à environ 1h30 de Toulouse. Le thème c
+ entral de cette année est « le lien » — social\, civique\, intime\, f
+ amilial\, et écologique. Philosophes\, écrivains\, scientifiques et pers
+ onnalités publiques comme Asma Mhalla et Souleymane Bachir Diagne se retr
+ ouveront pour conférences\, débats et échanges. Des ateliers pour enfan
+ ts sont également prévus\, rendant l'événement accessible à un public
+  familial.\n\nSource\: https://www.toulouscope.fr/2026/10/27/a-1h30-de-tou
+ louse-ce-rendez-vous-culturel-revient-avec-debats-conferences-et-animation
+ s-jeunesse-pour-sa-6-edition-13616649.php
+URL:https://www.toulouscope.fr/2026/10/27/a-1h30-de-toulouse-ce-rendez-vous
+ -culturel-revient-avec-debats-conferences-et-animations-jeunesse-pour-sa-6
+ -edition-13616649.php?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
@@ -35116,6 +35157,24 @@ URL:https://actu.fr/occitanie/toulouse_31555/fontaines-d-c-annonce-une-date
  a
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a4ce63c5-2516-49c0-903a-a5677670b395@news.lavillerose.com
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:King Gizzard & The Lizard Wizard
+DESCRIPTION:Le groupe australien King Gizzard & The Lizard Wizard se produi
+ ra au Bikini à Ramonville-Saint-Agne le 8 juin 2027. Figures incontournab
+ les du rock psychédélique et progressif mondial\, le groupe est connu po
+ ur sa prolificité et ses performances live intenses. Le concert aura lieu
+  dans l'une des salles de concert les plus réputées de la région toulou
+ saine. Les amateurs de rock expérimental et de psychédélisme ne voudron
+ t pas manquer cette date.\n\nSource\: https://www.ticketmaster.fr/fr/manif
+ estation/king-gizzard-the-lizard-wizard-billet/idmanif/676889/idseance/444
+ 5543
+URL:https://www.ticketmaster.fr/fr/manifestation/king-gizzard-the-lizard-wi
+ zard-billet/idmanif/676889/idseance/4445543?utm_source=ical&utm_medium=cal
+ endar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2cd31206-2962-44ff-9b9a-152bcadc8560@news.lavillerose.com
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
@@ -35843,6 +35902,26 @@ URL:https://www.ticketmaster.fr/fr/manifestation/the-rise-billet/idmanif/65
  ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:e3e66174-f8bf-4de6-9721-f8d6c5f77a8a@news.lavillerose.com
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Bruce Dickinson
+DESCRIPTION:Bruce Dickinson\, chanteur légendaire d'Iron Maiden\, se produ
+ ira au Bikini à Ramonville-Saint-Agne le 8 décembre 2027. L'événement 
+ est classé sous le genre Metal et se déroulera dans l'une des salles de 
+ concert les plus emblématiques de la région toulousaine. Ce concert repr
+ ésente une occasion rare d'assister à une performance solo du frontman d
+ e l'un des groupes de heavy metal les plus influents au monde. Les amateur
+ s de metal de la région sont particulièrement concernés par cet événe
+ ment.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/bruce-dicki
+ nson-billet/idmanif/676561/idseance/4444518
+LOCATION:salles de concert les plus emblématiques de la région to\, Toulo
+ use
+URL:https://www.ticketmaster.fr/fr/manifestation/bruce-dickinson-billet/idm
+ anif/676561/idseance/4444518?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:0855ddc1-566a-4d18-a9d9-61a767f21b20@news.lavillerose.com
 DTSTART;VALUE=DATE:20271209
 DTEND;VALUE=DATE:20271210
@@ -35877,6 +35956,26 @@ LOCATION:salles de spectacle de la région\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/gims-billet/idmanif/651806
  /idseance/4289509?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
  e-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:59ae0735-f23c-4de1-b7d8-aad5da98aa34@news.lavillerose.com
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+SUMMARY:Gims – Zénith Toulouse
+DESCRIPTION:Le chanteur Gims a annoncé le report de l'ensemble de ses conc
+ erts prévus en France et en Belgique entre fin octobre et mi-décembre 20
+ 26\, pour des raisons médicales. Le concert initialement prévu au Zénit
+ h Toulouse Métropole le 9 novembre 2026 est repoussé au 14 décembre 202
+ 7. Via Instagram\, Gims a exprimé une « peine immense » et indiqué qu'
+ il s'est rangé aux avis médicaux à quelques jours de la première date.
+  Les billets déjà achetés restent valables pour la nouvelle date \; les
+  spectateurs qui\n\nSource\: https://actu.fr/occitanie/toulouse_31555/une-
+ annonce-difficile-et-qui-m-attriste-beaucoup-pourquoi-gims-reporte-son-con
+ cert-au-zenith-de-toulouse-en-2027_64979367.html
+URL:https://actu.fr/occitanie/toulouse_31555/une-annonce-difficile-et-qui-m
+ -attriste-beaucoup-pourquoi-gims-reporte-son-concert-au-zenith-de-toulouse
+ -en-2027_64979367.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4a144999-56c3-4636-b73c-ebf1864950e5@news.lavillerose.com

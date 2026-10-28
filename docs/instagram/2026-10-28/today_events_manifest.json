@@ -1,0 +1,66 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9c83642a-78a0-450c-aa11-f3849722acae",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Sylve, l'Enfant de la Forêt au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SYLVE.jpg",
+    "file": "cluster_9c83642a-78a0-450c-aa11-f3849722acae_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a8502b01-4955-434e-a706-d8e4e561952d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Deux spectacles jeune public à La Petite Comédie le 28 octobre",
+    "image_url": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_a8502b01-4955-434e-a706-d8e4e561952d_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:45e7e8c8-6db4-4b58-84bd-caabae44896f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Bâtisseurs au Moyen Âge au Couvent des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JAC---Les-batisseurs-au-Moyen-Age---Alexandre-Ollier.jpg",
+    "file": "cluster_45e7e8c8-6db4-4b58-84bd-caabae44896f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bb0c1c1a-ca9e-428a-b711-1add31d7de0d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les coulisses de la restauration patrimoniale au Couvent des Jacobins",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JAC---Visites-guidee-ES---Aurelien-Ferreira---22.jpg",
+    "file": "cluster_bb0c1c1a-ca9e-428a-b711-1add31d7de0d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:436c5ea9-5ea7-490e-8ada-404071ce16eb",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Visite théâtralisée de Toulouse avec Madame Rose, place Saint-Georges",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/visite-guidee-toulouse-19e-siecle.png?itok=FamnakYQ",
+    "file": "cluster_436c5ea9-5ea7-490e-8ada-404071ce16eb_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
