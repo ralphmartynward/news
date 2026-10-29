@@ -1,0 +1,110 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:9c83642a-78a0-450c-aa11-f3849722acae",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Sylve, l'Enfant de la Forêt au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SYLVE.jpg",
+    "file": "cluster_9c83642a-78a0-450c-aa11-f3849722acae_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:37197e28-1272-4175-9fbe-ba8ad75fd452",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Are You Experienced ? #7 : concert d'improvisation au Metronum",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ARE-YOU-EXPERIENCED.jpg",
+    "file": "cluster_37197e28-1272-4175-9fbe-ba8ad75fd452_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8d239120-e376-46d2-b133-8dc797d8ec01",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Dernière Investiture au Théâtre le Fil à Plomb : danse et extinction",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DERNIERE-INVESTITURE.jpg",
+    "file": "cluster_8d239120-e376-46d2-b133-8dc797d8ec01_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8f880008-f81f-4566-bb56-5d07c85cd25f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Petite Sorcière à la Comédie de la Roseraie pour Halloween",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-PETITE-SORCIERE.jpg",
+    "file": "cluster_8f880008-f81f-4566-bb56-5d07c85cd25f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:e3b4423e-e513-4594-8dde-20ca10034298",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Un Robot pas comme les autres » à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/UN-ROBOT-PAS-COMME-LES-AUTRES.jpg",
+    "file": "cluster_e3b4423e-e513-4594-8dde-20ca10034298_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:457122e7-326e-4143-85e9-146e4eacc06b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Et si tu pouvais tout changer » au cinéma à Blagnac",
+    "image_url": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_457122e7-326e-4143-85e9-146e4eacc06b_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:09b3ba1e-164c-4ecc-b3b8-599dc384dce7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée « Virtuose » de la Halle aux Grains",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Halle-aux-grains---Remi-Deligeon-copie-2.jpg",
+    "file": "cluster_09b3ba1e-164c-4ecc-b3b8-599dc384dce7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5632ec64-3356-48d1-ad53-a817090eea5f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Même pas peur » : contes pyrénéens au Muséum de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Halloween-books.jpg",
+    "file": "cluster_5632ec64-3356-48d1-ad53-a817090eea5f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f215325a-648b-4fbf-a1df-a60a7e016308",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visites décalées à l'église du Gesù et à la Chapelle des Carmélites",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/concert-pour-les-etudiant-es---eglise-du-gesu--c--clement-fumey---toulouse-magazine-101.jpg?h=23a6e4f0&itok=b70nV4Jh",
+    "file": "cluster_f215325a-648b-4fbf-a1df-a60a7e016308_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]

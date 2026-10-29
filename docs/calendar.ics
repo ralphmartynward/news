@@ -22310,19 +22310,18 @@ BEGIN:VEVENT
 UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261101
-SUMMARY:Sélection de sorties Halloween 2026 à Toulouse et alentours
-DESCRIPTION:À l'occasion d'Halloween\, trois médias toulousains proposent
-  chacun une sélection d'idées de sorties pour le week-end du 30 et 31 oc
- tobre 2026. Les options couvrent un large spectre : cinéma d'horreur aux 
- Cinémas Véo de La Cartoucherie et de Colomiers\, escape game immersif au
-  Laser Quest de Balma-Grammont\, zombie walk au domaine de Pontié\, visit
- es nocturnes du cimetière Terre-Cabade ou des ruines de l'église des Cor
- deliers\, soirée rave open air à la Babayaga\, spectacle drag au Bascala
-  et DJ sets\n\nSource\: https://www.toulouscope.fr/2026/10/21/que-faire-po
- ur-halloween-2026-a-toulouse-13605417.php
-URL:https://www.toulouscope.fr/2026/10/21/que-faire-pour-halloween-2026-a-t
- oulouse-13605417.php?utm_source=ical&utm_medium=calendar&utm_campaign=toul
- ouse-agenda
+SUMMARY:Sorties Halloween et week-end de Toussaint à Toulouse
+DESCRIPTION:Le week-end de la Toussaint à Toulouse est marqué par une mul
+ titude d'animations Halloween : visites nocturnes du cimetière Terre-Caba
+ de\, contes inspirés des grottes préhistoriques au Muséum\, légendes m
+ acabres dans les ruines des Cordeliers\, et une zombie walk au domaine de 
+ Pontié. Pour les amateurs de fêtes\, une soirée rave techno s'organise 
+ à la Babayaga (rue de Cugnaux)\, un spectacle drag au Bascala et des DJ s
+ ets à La Cabane. Les familles ne sont pas oubliées : chasse aux bonbons 
+ au musée Pa\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-10-26#53755
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-26#53755?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:957c8a14-e52d-43c1-bfd3-9b409e2b05f7@news.lavillerose.com
@@ -22356,6 +22355,48 @@ DESCRIPTION:Le Capharnaüm accueille une exposition collective réunissant
  r-de-poule/
 URL:https://www.toulouse-tourisme.com/agenda/chair-de-poule/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:96c63c14-f2c1-4215-95ec-bc6923670570@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Cocoon – Bones for the Dogs
+DESCRIPTION:Mark Daumail\, fondateur du groupe Cocoon\, se confie dans une 
+ interview avant son retour sur scène à la Halle aux Grains de Toulouse\,
+  le vendredi 30 octobre. Le musicien\, connu pour des tubes comme On My Wa
+ y\, Chupee ou Comets\, revient après un long hiatus lié à un burn-out s
+ urvenu pendant le Covid. Pour célébrer les 20 ans de Cocoon\, il propose
+ ra une version dépouillée de ses morceaux les plus emblématiques — se
+ ul avec sa guitare et un mystérieux robot. Ce retour scénique s'accompag
+ ne de la sorti\n\nSource\: https://actu.fr/occitanie/toulouse_31555/detrui
+ re-pour-mieux-creer-cocoon-se-confie-avant-son-concert-evenement-a-la-hall
+ e-aux-grains-de-toulouse_64924817.html
+LOCATION:Halle aux Grains de Toulouse\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/detruire-pour-mieux-creer-coco
+ on-se-confie-avant-son-concert-evenement-a-la-halle-aux-grains-de-toulouse
+ _64924817.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f975b6e4-c5f3-4e86-92a8-fd66b86a73a0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:Family Weekend – Layup
+DESCRIPTION:Les 30 et 31 octobre ainsi que le 1er novembre 2026\, le Family
+  Weekend s'installe pour sa quatrième édition à Layup\, le nouvel espac
+ e de street art immersif situé au 22 boulevard de la Marquette à Toulous
+ e. L'événement est co-organisé par Mother in Town\, spécialiste des so
+ rties familiales\, et Layup\, dans le cadre de l'exposition « Mondes para
+ llèles » réunissant 75 artistes sur plus de 5 000 m² répartis sur six
+  niveaux. Au programme : ateliers créatifs\, animations sportives\, séan
+ ces de baby gym e\n\nSource\: https://www.toulouscope.fr/2026/10/28/ce-lie
+ u-de-street-art-immersif-se-transforme-trois-jours-en-terrain-de-jeu-geant
+ -pour-les-familles-13612247.php
+LOCATION:espace de street art immersif situé au 22 boulevard de l\, Toulou
+ se
+URL:https://www.toulouscope.fr/2026/10/28/ce-lieu-de-street-art-immersif-se
+ -transforme-trois-jours-en-terrain-de-jeu-geant-pour-les-familles-13612247
+ .php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:308efbbe-36d1-4512-b74a-e6fdd5874049@news.lavillerose.com
@@ -23451,6 +23492,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/joe-bonamassa-billet/idman
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:367f858e-f19e-4193-b66f-3c9c1036e1c5@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:Festival des Produits Gascons
+DESCRIPTION:Le Festival des Produits Gascons investit les Halles de la Cart
+ oucherie les 6 et 7 novembre 2026. Au programme : un marché de producteur
+ s locaux\, des spécialités du terroir gascon\, des animations et des dé
+ gustations. L'événement s'adresse aux amateurs de gastronomie régionale
+  souhaitant découvrir ou redécouvrir les saveurs du Sud-Ouest. Une occas
+ ion de rencontrer directement les producteurs et de repartir avec de belle
+ s trouvailles gourmandes.\n\nSource\: https://www.toulouse-tourisme.com/ag
+ enda/festival-des-produits-gascons/
+LOCATION:Halles de la Cartoucherie les 6\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/festival-des-produits-gascons/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2152ac9a-db63-4bfe-8125-192a450254bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
@@ -24509,15 +24567,15 @@ UID:cluster:840c4620-afa7-4e82-ba74-67b480fad87b@news.lavillerose.com
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Beast in Black
-DESCRIPTION:Le groupe de metal symphonique Beast in Black se produira au Bi
- kini\, à Ramonville-Saint-Agne\, le 14 novembre 2026. Le groupe finlandai
- s\, connu pour son metal mélodique aux influences années 80\, s'inscrit 
- dans la programmation rock/metal de la salle toulousaine. Il s'agit d'une 
- date unique dans l'agglomération\, à destination des amateurs de metal e
- t de rock. Les billets sont disponibles via Ticketmaster.\n\nSource\: http
- s://www.ticketmaster.fr/fr/manifestation/beast-in-black-billet/idmanif/639
- 021/idtier/18864121
-LOCATION:salle toulousaine\, Toulouse
+DESCRIPTION:Le groupe de metal finlandais Beast in Black se produira au Bik
+ ini à Ramonville-Saint-Agne le 14 novembre 2026. Connu pour son metal mé
+ lodique aux influences électroniques et ses refrains percutants\, le grou
+ pe attire un public croissant en Europe. Le Bikini est l'une des salles de
+  référence pour le rock et le metal dans l'agglomération toulousaine. L
+ es amateurs du genre sont directement concernés par cette date.\n\nSource
+ \: https://www.ticketmaster.fr/fr/manifestation/beast-in-black-billet/idma
+ nif/639021/idtier/18864121
+LOCATION:salles de référence\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/beast-in-black-billet/idma
  nif/639021/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
@@ -25347,6 +25405,23 @@ URL:https://www.toulouse-tourisme.com/agenda/festival-bd-de-colomiers/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:cebed2b8-6635-4eb9-862f-53f3e96419ba@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261129
+SUMMARY:IMPULSEZ!
+DESCRIPTION:IMPULSEZ! est un festival d'improvisation théâtrale qui se ti
+ ent du 20 au 28 novembre 2026 dans divers lieux de Toulouse\, Muret et des
+  environs. La programmation mêle matchs d'impro\, créations collectives\
+ , formats hybrides et spectacles multilingues\, accueillis dans des théâ
+ tres\, cafés-théâtres\, MJC\, écoles et centres culturels. Le festival
+  met en avant la liberté créative\, la rencontre internationale et la sp
+ ontanéité\, avec des formes scéniques inédites en plusieurs langues. I
+ l s'adresse à un l\n\nSource\: https://www.toulouse-tourisme.com/agenda/i
+ mpulsez/
+URL:https://www.toulouse-tourisme.com/agenda/impulsez/?utm_source=ical&utm_
+ medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30@news.lavillerose.com
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
@@ -25612,6 +25687,23 @@ URL:https://www.toulouse-tourisme.com/agenda/les-cathares-a-toulouse/?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:587710dc-3c5a-404d-9d69-17cdbca25b57@news.lavillerose.com
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Rich and Jane
+DESCRIPTION:Le spectacle « Rich and Jane » s'installe à la MJC Pont des 
+ Demoiselles le 23 novembre 2026. Caroline Riche et Mark Jane y incarnent d
+ eux policiers qui se détestent mais doivent collaborer pour nettoyer une 
+ ville en proie aux criminels et gangs. Le show est une aventure entièreme
+ nt improvisée\, directement inspirée des « buddy movies » des années 
+ 80 tels que « L'arme fatale » et « Tango et Cash ». Joué en français
+ \, le spectacle s'adresse aux amateurs de comédie\, d'impro et de cinéma
+  culte.\n\nSource\: https://www.toulouse-tourisme.com/agenda/rich-and-jane
+ /
+URL:https://www.toulouse-tourisme.com/agenda/rich-and-jane/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:cf8da38b-8090-4010-8d1a-f0728e1f892d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261128
@@ -25628,6 +25720,40 @@ DESCRIPTION:Le Théâtre de la Cité accueille « Une Vie d'Acteur »\, un
 LOCATION:salles obscures\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/une-vie-dacteur/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0019b781-27ee-49ac-a14d-2d14c295118e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Pearls on a String
+DESCRIPTION:Le spectacle d'improvisation « Pearls on a String » est prés
+ enté au Centre Culturel Henri Desbals le 24 novembre 2026. Le concept rep
+ ose sur un défi lancé au public : proposer trois « perles » — des sc
+ ènes sans lien apparent — que deux comédiens doivent relier par un fil
+  narratif cohérent\, construit dans le désordre. Le résultat est une hi
+ stoire improvisée et unique à chaque représentation. Ce format particip
+ atif s'adresse à tous les amateurs de théâtre d'improvisation et de cr
+ éativité collectiv\n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ pearls-on-a-string/
+URL:https://www.toulouse-tourisme.com/agenda/pearls-on-a-string/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0abee89d-35de-40a0-a94f-d85ef274b717@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Casseroles
+DESCRIPTION:« Casseroles » est un spectacle d'improvisation théâtrale j
+ oué par Caroline Riche et Fanny Pascaud au Centre Culturel Henri Desbals\
+ , le 24 novembre 2026. Le principe est participatif : le public souffle au
+ x comédiennes les ingrédients qui vont nourrir la relation de leurs pers
+ onnages\, et celles-ci les transforment en scènes de vie. À chaque repr
+ ésentation\, l'une des actrices surprend l'autre avec une boisson ou un a
+ liment à déguster en direct\, cet élément ayant une importance narrati
+ ve pour les \n\nSource\: https://www.toulouse-tourisme.com/agenda/casserol
+ es/
+URL:https://www.toulouse-tourisme.com/agenda/casseroles/?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:82592433-55c6-482d-be1b-56f6262f4f27@news.lavillerose.com
@@ -26331,6 +26457,39 @@ URL:https://actu.fr/occitanie/toulouse_31555/ce-sont-les-jumeaux-les-plus-c
  elebres-du-cinema-deux-acteurs-de-la-saga-harry-potter-invites-au-tgs-a-to
  ulouse_64779832.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2757d89f-9906-415f-8677-27b2d9ef7bf9@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Le Voyage de Titi le Hérisson
+DESCRIPTION:« Le Voyage de Titi le Hérisson » est un conte musical parti
+ cipatif destiné aux enfants\, proposé à la Maison du Métro de Toulouse
+  le 28 novembre 2026. Le spectacle mêle sons\, histoires interactives et 
+ instruments de musique pour offrir aux plus jeunes un voyage sensoriel et 
+ poétique. L'animation vise à sensibiliser les enfants à la protection d
+ e la planète de façon ludique et accessible. Une sortie idéale pour les
+  familles souhaitant allier éveil artistique et conscience écologique.\n
+ \nSource\: https://www.toulouse-tourisme.com/agenda/le-voyage-de-titi-le-h
+ erisson/
+URL:https://www.toulouse-tourisme.com/agenda/le-voyage-de-titi-le-herisson/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:71d272bd-2aa3-4483-bda0-b047d846e9ba@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Gospel Harmony
+DESCRIPTION:Le concert Gospel Harmony se tiendra à l'Église Saint-Exupèr
+ e le 28 novembre 2026. Ancré dans les traditions de la soul et du blues\,
+  le gospel y sera célébré comme « langage de l'âme »\, porteur de me
+ ssages de fraternité et d'espérance. Le public est invité à partager u
+ ne ambiance chaleureuse\, rythmée et pleine d'émotion. L'événement est
+  exceptionnel et caritatif : les bénéfices iront au CESDDA (Centre d'Éd
+ ucation Spécialisée pour Dysphasiques et Déficients Auditifs).\n\nSourc
+ e\: https://www.toulouse-tourisme.com/agenda/gospel-harmony/
+URL:https://www.toulouse-tourisme.com/agenda/gospel-harmony/?utm_source=ica
+ l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9dac9cd2-4c69-4b59-ad10-ffc1ec5c7fb3@news.lavillerose.com
@@ -27616,6 +27775,23 @@ URL:https://www.toulouse-tourisme.com/agenda/concert-de-noel-par-sinfonia-g
  aronna/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:5530cdba-b8c2-4d05-9815-4fa6ddf2b3c8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Les Animaux en Musique
+DESCRIPTION:Le concert « Les Animaux en Musique » se tiendra le 12 décem
+ bre 2026 à la Salle Saint Michel à Toulouse. Il est donné par la chante
+ use Eugénie Berrocq et la pianiste Ana Laurichesse\, avec un répertoire 
+ allant du classique au contemporain. Le spectacle est interactif et conçu
+  spécialement pour les enfants de 4 à 12 ans\, mêlant humour et pédago
+ gie pour initier le jeune public à la musique. En cas de concert complet\
+ , une liste d'attente est disponible sur demande par mail.\n\nSource\: htt
+ ps://www.toulouse-tourisme.com/agenda/les-animaux-en-musique/
+LOCATION:Salle Saint Michel\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-animaux-en-musique/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
@@ -28572,6 +28748,24 @@ LOCATION:salle toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/roman-doduik-billet/idmani
  f/664604/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4e2d0a31-298e-4ed7-9e19-480a80a61dfe@news.lavillerose.com
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270110
+SUMMARY:Hassan de Monaco
+DESCRIPTION:Le comédien Hassan de Monaco se produit à La Petite Comédie 
+ de Toulouse les 8 et 9 janvier 2027. Ces deux représentations consécutiv
+ es offrent aux amateurs de comédie deux occasions de découvrir ou retrou
+ ver cet artiste. Les deux sources Ticketmaster couvrent les mêmes dates a
+ vec un contenu identique\, sans détail supplémentaire sur le contenu du 
+ spectacle. L'événement s'adresse aux spectateurs toulousains amateurs de
+  one-man-show et de comédie en salle.\n\nSource\: https://www.ticketmaste
+ r.fr/fr/manifestation/hassan-de-monaco-billet/idmanif/676893/idseance/4445
+ 547
+URL:https://www.ticketmaster.fr/fr/manifestation/hassan-de-monaco-billet/id
+ manif/676893/idseance/4445547?utm_source=ical&utm_medium=calendar&utm_camp
+ aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0f4bf0d8-960c-4b9d-ba41-9f5d9df9b340@news.lavillerose.com
@@ -31750,6 +31944,23 @@ URL:https://www.toulouse-tourisme.com/agenda/riccardo-bisatti-guido-santann
  a/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:20164378-e800-4791-8fa2-196b88cdda58@news.lavillerose.com
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Hépatik Girl
+DESCRIPTION:Le spectacle comique « Hépatik Girl » est programmé à La C
+ omédie de Toulouse le 11 mars 2027. Il s'agit d'un one-woman show ou spec
+ tacle d'humour classé Arts & Théâtre – Comédie. Les informations dis
+ ponibles sont limitées à la date\, le lieu et la catégorie\, sans déta
+ il sur le contenu ou la billetterie. Les amateurs de comédie toulousains 
+ auront rendez-vous dans cette salle dédiée à l'humour.\n\nSource\: http
+ s://www.ticketmaster.fr/fr/manifestation/hepatik-girl-billet/idmanif/67689
+ 5/idseance/4445550
+URL:https://www.ticketmaster.fr/fr/manifestation/hepatik-girl-billet/idmani
+ f/676895/idseance/4445550?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:3cd367e4-c9aa-4182-b690-040777b4a06d@news.lavillerose.com
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270314
@@ -31835,23 +32046,6 @@ DESCRIPTION:Le Robin McKelle Trio se produit à la Halle aux Grains de Toul
 LOCATION:Halle aux Grains de Toulouse le 13 mars 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/robin-mckelle-trio/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:0bb3ea81-93a3-41e0-904b-fb9f5d945a9d@news.lavillerose.com
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270314
-SUMMARY:Un Air de Famille
-DESCRIPTION:La pièce Un Air de Famille sera jouée à la Comédie de Toulo
- use le 13 mars 2027. Ce classique du théâtre comique français\, signé 
- Agnès Jaoui et Jean-Pierre Bacri\, est une comédie familiale grinçante 
- qui a connu un immense succès au cinéma comme sur scène. La représenta
- tion s'adresse aux amateurs de théâtre et de comédie sociale\, dans une
-  salle toulousaine dédiée aux arts vivants. Les billets sont disponibles
-  via Ticketmaster.\n\nSource\: https://www.ticketmaster.fr/fr/manifestatio
- n/un-air-de-famille-billet/idmanif/655009/idtier/18864121
-URL:https://www.ticketmaster.fr/fr/manifestation/un-air-de-famille-billet/i
- dmanif/655009/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_camp
- aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ff44d9c2-28a6-45c1-9f68-8396941628cd@news.lavillerose.com
@@ -31955,6 +32149,24 @@ LOCATION:salle de spectacle bien connue du centre-ville toulousa\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/michel-hubert-billet/idman
  if/675796/idseance/4440855?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0bb3ea81-93a3-41e0-904b-fb9f5d945a9d@news.lavillerose.com
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Un Air de Famille
+DESCRIPTION:La pièce Un Air de Famille sera jouée à la Comédie de Toulo
+ use\, salle dédiée aux arts de la scène et à la comédie. Ce spectacle
+ \, classé dans la catégorie arts et théâtre/comédie\, promet une soir
+ ée de divertissement pour les amateurs de théâtre comique. La représen
+ tation est prévue le 14 mars 2027. Les spectateurs toulousains pourront a
+ insi profiter d'une adaptation scénique de cette œuvre populaire dans un
+  cadre dédié au rire.\n\nSource\: https://www.ticketmaster.fr/fr/manifes
+ tation/un-air-de-famille-billet/idmanif/655009/idseance/4446142
+LOCATION:salle dédiée aux arts de la scène\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/un-air-de-famille-billet/i
+ dmanif/655009/idseance/4446142?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d008f807-be01-4156-b21b-18a152524098@news.lavillerose.com
