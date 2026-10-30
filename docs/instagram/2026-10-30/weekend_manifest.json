@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-10-31",
+  "sunday": "2026-11-01",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:09257feb-f1e4-4713-8fb5-0e2785c5bafb",
+      "title": "Mois du Film Documentaire à la Médiathèque José Cabanis",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:96db22f7-864a-4709-a8e5-88039a38df10",
+      "title": "Marathon des Géants 2026 : nouveau parcours et rues fermées à Toulouse",
+      "img_width": 1280,
+      "img_height": 964
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:dae7c373-449d-4028-b310-f791285cc323",
+      "title": "Tribute to AC/DC par The 5 Rosies au Casino Barrière",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:6ed0ea91-9a99-46d0-9515-bd2b54c96d13",
+      "title": "Cantates sans filet : Bach à l'Église Saint-Exupère",
+      "img_width": 860,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:195f1ba1-f0bc-4a39-96ca-0597aefea831",
+      "title": "« Le Mystère Lucy Lost » à l'Utopia : un film de guerre et d'imagination",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:308efbbe-36d1-4512-b74a-e6fdd5874049",
+      "title": "Halloween au Bascala : drag et danse macabre le 31 octobre",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:a4dae699-9636-4b96-8220-ab7228f5b272",
+      "title": "Frida et ses Portraits Magiques au Studio 55",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:5503b058-b4f6-4627-8b6f-cbf049ef5474",
+      "title": "Le Cabaret Noir : soirée Halloween d'impro au Studio 55",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:ca5927f1-9e69-4475-bbc5-4d771ec74435",
+      "title": "Florian Lex en spectacle au Casino Barrière de Toulouse",
+      "img_width": 2048,
+      "img_height": 1152
+    }
+  ]
+}
