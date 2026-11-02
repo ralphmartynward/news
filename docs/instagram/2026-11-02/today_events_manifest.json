@@ -1,0 +1,99 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:31534925-a5a8-4698-b288-383ce25e4cea",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pierre Arditi en scène au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_31534925-a5a8-4698-b288-383ce25e4cea_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:34fcf4a9-2e53-4ea8-a428-eadce0435c63",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le festival Danses et continents noirs à la Maison Chapou",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/James-Carles-Le-Cub-2024-346-2048x1640-copie.jpg",
+    "file": "cluster_34fcf4a9-2e53-4ea8-a428-eadce0435c63_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a817bb46-8365-4f15-866b-9692c57c420f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Horizons latino-américains à l'Auditorium Saint-Pierre des Cuisines",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/HORIZONS-LATINO-AMERICAINS.jpg",
+    "file": "cluster_a817bb46-8365-4f15-866b-9692c57c420f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1f0a9b95-da14-4006-b144-b5a5077ddfdd",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "\"Welcome to Europe\" au cinéma ABC : immigration décryptée",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/salle-cinema-adobestock_1289244425.jpg?itok=g_yv4GYc",
+    "file": "cluster_1f0a9b95-da14-4006-b144-b5a5077ddfdd_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:d8530880-7e56-450d-bba0-9be48a646dca",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "NEUFNEUF Festival 17e édition au Lieu NEUFNEUF, novembre 2026",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/HALLOWEEN-A-LA-CABANE.jpg",
+    "file": "cluster_d8530880-7e56-450d-bba0-9be48a646dca_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a3d12170-38ab-45ca-b940-0b1a0990492a",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Salon 111 des Arts à l'Hôtel-Dieu en novembre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-10/111-des-arts.jpg?itok=17KgsPAW",
+    "file": "cluster_a3d12170-38ab-45ca-b940-0b1a0990492a_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:4ccff7c4-490a-40c7-899a-a5411e0291fe",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Africlap Film Festival : 10 jours de cinéma africain à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AFRICLAP-2.jpg",
+    "file": "cluster_4ccff7c4-490a-40c7-899a-a5411e0291fe_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ba4ab054-35bd-414c-8761-66025f442a49",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "NeufNeuf Festival : danse contemporaine dans plusieurs lieux toulousains",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/la-liesse-20250404-cieparc-A-scaled-copie.jpg",
+    "file": "cluster_ba4ab054-35bd-414c-8761-66025f442a49_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
