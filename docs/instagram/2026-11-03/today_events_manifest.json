@@ -1,0 +1,187 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:34fcf4a9-2e53-4ea8-a428-eadce0435c63",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le festival Danses et continents noirs à la Maison Chapou",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/James-Carles-Le-Cub-2024-346-2048x1640-copie.jpg",
+    "file": "cluster_34fcf4a9-2e53-4ea8-a428-eadce0435c63_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:730113a7-1d9c-4d21-a133-69dc70316062",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Pour Britney » au Théâtre du Pavé : texte féministe en scène",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/POUR-BRITNEY-2.jpg",
+    "file": "cluster_730113a7-1d9c-4d21-a133-69dc70316062_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8a6bdd45-a38f-462c-ab3a-23ca3c3015cb",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rumba, dernier volet de la trilogie des pauvres diables, au Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUMBA-L-ANE-LE-BOEUF-SORANO.jpg",
+    "file": "cluster_8a6bdd45-a38f-462c-ab3a-23ca3c3015cb_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bf498d88-9b4b-45c8-8348-3e32ae2c02b9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "LE SILENCE, spectacle sans paroles au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-SILENCE.jpg",
+    "file": "cluster_bf498d88-9b4b-45c8-8348-3e32ae2c02b9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ea3d248c-83a2-4f84-a906-e7115eb7d159",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Œdipe / Antigone de Sophocle au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/OEPIDE.jpg",
+    "file": "cluster_ea3d248c-83a2-4f84-a906-e7115eb7d159_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:feadf013-5caf-4321-bc95-fa2903711510",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Une famille pyrénéenne au Théâtre Garonne : portrait de l'invisible",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/UNE-FAMILLE-PYRENEENNE-THEATRE-GARONNE.jpg",
+    "file": "cluster_feadf013-5caf-4321-bc95-fa2903711510_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6060190d-91d9-458d-8726-e7b2af1a6b22",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Quatre Mains à l'Auditorium du Conservatoire de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/QUATRE-MAINS-ODYSSUD.jpg",
+    "file": "cluster_6060190d-91d9-458d-8726-e7b2af1a6b22_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6db7b7af-c66f-4f5c-a706-cdd61c99a877",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rumba, dernier volet de la trilogie des pauvres diables au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUMBA-L-ANE-LE-BOEUF-SORANO.jpg",
+    "file": "cluster_6db7b7af-c66f-4f5c-a706-cdd61c99a877_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0e07685c-63ef-401e-aa4c-d27b72fba0e1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rumba, dernier volet de la trilogie d'Ascanio Celestini au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUMBA-L-ANE-LE-BOEUF-SORANO.jpg",
+    "file": "cluster_0e07685c-63ef-401e-aa4c-d27b72fba0e1_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:45c3cc6d-a623-467a-af97-ed17b0f03d9b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Exposition « Ivresse » au Musée Paul-Dupuy : arts graphiques et collections",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/VISITE-IVRESSE.jpg",
+    "file": "cluster_45c3cc6d-a623-467a-af97-ed17b0f03d9b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:e535d146-b426-464a-8039-2775479373b1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "KINOPOLSKA : festival de cinéma polonais dans quatre salles toulousaines",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTINAL-POLONAIS.jpg",
+    "file": "cluster_e535d146-b426-464a-8039-2775479373b1_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:13e1c4bc-7f09-4bc2-bfc3-b94ce9a7c3c9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Lol Tolhurst (The Cure) et Curtain en concert au Metronum",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/METRONUM.png",
+    "file": "cluster_13e1c4bc-7f09-4bc2-bfc3-b94ce9a7c3c9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:33629a37-bd38-4716-8754-b9d93a1fdb22",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Café bricol' au Café des Granges : réparez vos objets à Saint-Jean",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/6787.jpg?itok=60HQiOl4",
+    "file": "cluster_33629a37-bd38-4716-8754-b9d93a1fdb22_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:5b64348d-628c-4b0a-b1ce-b7b81cbb3ef2",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Kinepolska et le Mois du Doc lancés dans les cinémas toulousains",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/cinema-adobestock_839121077.jpg?itok=v7maXbGF",
+    "file": "cluster_5b64348d-628c-4b0a-b1ce-b7b81cbb3ef2_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:991c6976-73a5-43a4-9fa6-01193f078e46",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence sur les origines du blues à la Médiathèque Saint-Cyprien",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/black-white-view-person-playing-electric-guitar---magnific.jpg?itok=XD3oKuLd",
+    "file": "cluster_991c6976-73a5-43a4-9fa6-01193f078e46_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:cbdacd6d-cb07-4bb5-a373-35412506d6b9",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Réseau Entreprendre Occitanie Garonne fête ses 25 ans au Casino Barrière",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_209845021.jpg?itok=kLl9WAX-",
+    "file": "cluster_cbdacd6d-cb07-4bb5-a373-35412506d6b9_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
