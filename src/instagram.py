@@ -434,6 +434,56 @@ def _wrap_text(text: str, font, max_width: int, draw) -> list[str]:
     return lines
 
 
+def _draw_grid_title_block(base, pill_text: str | None, pill_bg, segs, title: str,
+                           bottom_line: str | None = None, bottom_col=COL_GREEN,
+                           pad: int = 88, max_lines: int = 4):
+    """Grid-readable text block: pill + huge bold title (+ one bold line), left-aligned.
+
+    Anchored so the block ends at TEXT_BOTTOM. Used by every 4:5 feed slide so
+    the profile mosaic shows big legible titles. Returns the new base image.
+    """
+    from PIL import Image, ImageDraw, ImageFilter
+
+    W = base.size[0]
+    text_w = W - pad * 2
+    draw = ImageDraw.Draw(base)
+    f_cat  = _load_font(34, bold=True)
+    f_line = _load_font(36, bold=True)
+
+    for size in (88, 80, 72, 66, 60, 54):
+        f_title = _load_font(size, bold=True)
+        lines = _wrap_text(title, f_title, text_w, draw)
+        if len(lines) <= max_lines:
+            break
+    lines = lines[:max_lines]
+    bb = draw.textbbox((0, 0), "Ag", font=f_title)
+    lh = bb[3] - bb[1]
+    gap = 8
+    cb = draw.textbbox((0, 0), "AG", font=f_cat)
+    cat_h = (cb[3] - cb[1]) + 28 if pill_text else 0
+    line_h = (draw.textbbox((0, 0), "Ag", font=f_line)[3] + 14) if bottom_line else 0
+
+    total_h = (cat_h + 26 if pill_text else 0) + len(lines) * (lh + gap) + line_h
+    y = TEXT_BOTTOM - total_h
+
+    if pill_text:
+        cbb = draw.textbbox((0, 0), pill_text, font=f_cat)
+        pill_w = (cbb[2] - cbb[0]) + 52
+        draw.rounded_rectangle([pad, y, pad + pill_w, y + cat_h], radius=cat_h // 2, fill=pill_bg)
+        draw.text((pad + 26 - cbb[0], y + 14 - cbb[1]), pill_text, font=f_cat, fill=COL_DARK)
+        y += cat_h + 26
+
+    shadow = Image.new("RGBA", base.size, (0, 0, 0, 0))
+    _draw_multicolor_lines(ImageDraw.Draw(shadow), pad + 3, y + 4,
+                           [(w, (0, 0, 0, 170)) for w, _ in segs], f_title, text_w, line_bonus=gap)
+    base = Image.alpha_composite(base, shadow.filter(ImageFilter.GaussianBlur(5)))
+    draw = ImageDraw.Draw(base)
+    y, _ = _draw_multicolor_lines(draw, pad, y, segs, f_title, text_w, line_bonus=gap)
+    if bottom_line:
+        draw.text((pad, y + 6), bottom_line, font=f_line, fill=bottom_col)
+    return base
+
+
 # ---------------------------------------------------------------------------
 # Format 1 — Story
 # ---------------------------------------------------------------------------
@@ -559,82 +609,23 @@ def _render_post(cluster: dict[str, Any]) -> "Image":
     photo = _download_image(cluster.get("image_url"))
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
-    base = _apply_gradient(base, int(H * 0.38), H, start_alpha=0, end_alpha=255)
+    # Photo-forward: gradient only covers the lower ~60% and eases in
+    # slowly so the photo stays visible in the grid mosaic.
+    base = _apply_gradient(base, int(H * 0.40), H, start_alpha=0, end_alpha=250)
 
     draw = ImageDraw.Draw(base)
-
-    f_cat   = _load_font(24, bold=True)
-    f_title = _load_font(50, bold=True)
-    f_sub   = _load_font(23)
-    f_tiny  = _load_font(17)
 
     # favicon top-right
     FSIZE = 60
     _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
-    title      = cluster.get("title", "")
-    # Use Claude-generated ig_caption if available; fall back to truncated summary
-    ig_caption = cluster.get("ig_caption") or ""
-    if not ig_caption:
-        summary   = cluster.get("summary", "")
-        sentences = [s.strip() for s in summary.replace("\n", " ").split(". ") if s.strip()]
-        _c0 = (sentences[0].rstrip(".") + ".") if sentences else ""
-        ig_caption = (_c0[:92] + "…") if len(_c0) > 95 else _c0
-    context  = ig_caption
-    context2 = ""
-
-    # _render_post only ever handles place/culture clusters (never event —
-    # those go through _render_story/weekend renderers), so event_name is
-    # irrelevant here: always use the AI-provided highlight (green), not the
-    # pink event-name path, even if a stray event_name is set on the row.
-    segs = _segment_title(title, highlight=cluster.get("highlight"))
-    lh   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
-    sub_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
-    ctx_h  = draw.textbbox((0, 0), "A", font=f_sub)[3]
-    site_h = draw.textbbox((0, 0), "A", font=f_tiny)[3]
-    cat_pill_h = draw.textbbox((0, 0), "A", font=f_cat)[3] + 20
-    title_lines = _wrap_text(title, f_title, TEXT_W, draw)[:3]
-    ctx_lines   = _wrap_text(context, f_sub, TEXT_W, draw)[:2]
-    ctx2_lines  = _wrap_text(context2, f_sub, TEXT_W, draw)[:1] if context2 else []
-    all_ctx     = (ctx_lines + ctx2_lines)[:2]
-
+    title = cluster.get("title", "")
+    segs  = _segment_title(title, highlight=cluster.get("highlight"))
     ev_date = _french_date(cluster.get("event_start") or "")
-    date_line_h = sub_h + 10 if ev_date else 0
-
-    total_h = (cat_pill_h + 18
-               + len(title_lines) * (lh + 10) + 12
-               + len(all_ctx) * (ctx_h + 6) + 10
-               + date_line_h + site_h + 8)
-    y = TEXT_BOTTOM - total_h
-
-    # category pill (centred)
-    cat_label = CAT_PILLS.get(cluster.get("category", ""), "INFO")
-    cb    = draw.textbbox((0, 0), cat_label, font=f_cat)
-    pill_w = (cb[2] - cb[0]) + 40
-    pill_h_px = (cb[3] - cb[1]) + 20
-    pill_x = (W - pill_w) // 2
-    pill_bg = COL_PINK if cluster.get("category") == "event" else COL_GREEN
-    draw.rounded_rectangle([pill_x, y, pill_x + pill_w, y + pill_h_px],
-                            radius=pill_h_px // 2, fill=pill_bg)
-    draw.text((pill_x + 20, y + 10), cat_label, font=f_cat, fill=COL_DARK)
-    y += pill_h_px + 18
-
-    # multi-colour title
-    y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, TEXT_W, line_bonus=10)
-    y += 10
-
-    # context lines (summary sentences)
-    for line in all_ctx:
-        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 180))
-        y += ctx_h + 6
-    y += 4
-
-    # date line in green if event
-    if ev_date:
-        draw.text((PAD, y), ev_date + "  ·  Toulouse", font=f_sub, fill=COL_GREEN)
-        y += sub_h + 10
-
-    draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+    base = _draw_grid_title_block(
+        base, CAT_PILLS.get(cluster.get("category", ""), "INFO"),
+        COL_PINK if cluster.get("category") == "event" else COL_GREEN,
+        segs, title, (ev_date + "  ·  Toulouse") if ev_date else None, pad=PAD)
 
     return base.convert("RGB")
 
@@ -668,7 +659,7 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     if photo:
         base.paste(_cover_crop(photo, W, H).convert("RGBA"), (0, 0))
     base = _apply_gradient(base, 0,            int(H * 0.25), start_alpha=100, end_alpha=0)
-    base = _apply_gradient(base, int(H * 0.55), H,           start_alpha=0,   end_alpha=215)
+    base = _apply_gradient(base, int(H * 0.36), H,           start_alpha=0,   end_alpha=248)
 
     draw = ImageDraw.Draw(base)
 
@@ -676,9 +667,9 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     FSIZE = 64
     _paste_favicon(base, W - 52 - FSIZE, 44, size=FSIZE)
 
-    f_title   = _load_font(62, bold=True)
-    f_date    = _load_font(36, bold=True)
-    f_weather = _load_font(30, bold=True)
+    f_title   = _load_font(104, bold=True)
+    f_date    = _load_font(48, bold=True)
+    f_weather = _load_font(38, bold=True)
     f_tiny    = _load_font(18)
 
     # Fetch weekend weather (fail silently)
@@ -697,7 +688,7 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     date_h    = draw.textbbox((0, 0), "A", font=f_date)[3]
     weather_h = draw.textbbox((0, 0), "A", font=f_weather)[3] + 8 if (sat_weather or sun_weather) else 0
     dots_h = 30
-    total  = title_total_h + 20 + date_h + 16 + weather_h + 16 + dots_h
+    total  = title_total_h + 32 + date_h + 16 + weather_h + 16 + dots_h
     y = TEXT_BOTTOM - total
 
     for line in title_lines:
@@ -715,7 +706,7 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
         else:
             draw.text(((W - lw) // 2, y), line, font=f_t, fill=COL_WHITE)
         y += lh + 8
-    y += 12
+    y += 24
 
     # date range in green
     sat_str  = f"{sat.day} {FRENCH_MONTHS[sat.month-1]}"
@@ -748,10 +739,6 @@ def _render_weekend_cover(events: list[dict], sat: date, sun: date) -> "Image":
     draw.line([(arr_x - 30, arr_y), (arr_x, arr_y)], fill=COL_WHITE, width=3)
     draw.polygon([(arr_x, arr_y - 8), (arr_x + 12, arr_y), (arr_x, arr_y + 8)], fill=COL_WHITE)
 
-    # watermark — anchored just under the dots, inside the grid-safe zone
-    tw = draw.textbbox((0, 0), SITE_LABEL, font=f_tiny)[2]
-    draw.text(((W - tw) // 2, y + dot_r * 2 + 10), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
-
     return base.convert("RGB")
 
 
@@ -774,34 +761,20 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     FSIZE = 56
     _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
-    f_num      = _load_font(28, bold=True)
-    f_headline = _load_font(52, bold=True)
-    f_sub      = _load_font(26)
-    f_meta     = _load_font(22)
-    f_tiny     = _load_font(17)
+    f_num      = _load_font(34, bold=True)
 
     # number pill top-left
     num_str = str(n)
     nb  = draw.textbbox((0, 0), num_str, font=f_num)
-    nw, nh = nb[2] - nb[0] + 28, nb[3] - nb[1] + 16
+    nw, nh = nb[2] - nb[0] + 36, nb[3] - nb[1] + 22
     draw.rounded_rectangle([PAD, 44, PAD + nw, 44 + nh], radius=nh // 2, fill=(15, 23, 42, 200))
-    draw.text((PAD + 14, 44 + 8), num_str, font=f_num, fill=COL_WHITE)
+    draw.text((PAD + 18 - nb[0], 44 + 11 - nb[1]), num_str, font=f_num, fill=COL_WHITE)
 
     event_name = event.get("event_name") or None
-    ig_caption = event.get("ig_caption") or ""
     venue      = _venue_from_caption(event.get("ig_caption") or "") or _extract_venue(event.get("summary") or "")
 
-    # Headline: event_name in pink, or full title with colour logic
     headline      = event_name if event_name else event.get("title", "")
-    headline_segs = [(w, COL_PINK) for w in headline.split()] if event_name else \
-                    _segment_title(event.get("title", ""), highlight=event.get("highlight"))
-    headline_lines = _wrap_text(headline, f_headline, W - PAD*2, draw)[:2]
-
-    # Description from ig_caption
-    caption_raw   = [l.strip() for l in ig_caption.split("\n") if l.strip()][:2]
-    caption_lines = []
-    for raw in caption_raw:
-        caption_lines += _wrap_text(raw, f_sub, W - PAD*2, draw)[:1]
+    headline_segs = [(w, COL_PINK) for w in headline.split()] if event_name else                     _segment_title(event.get("title", ""), highlight=event.get("highlight"))
 
     ev_str = _french_date_range(event.get("event_start") or "", event.get("event_end"))
     if venue and ev_str:
@@ -813,29 +786,8 @@ def _render_weekend_event_slide(event: dict, n: int) -> "Image":
     else:
         meta_str = "Toulouse"
 
-    lh_h  = draw.textbbox((0, 0), "Ag", font=f_headline)[3]
-    lh_s  = draw.textbbox((0, 0), "A", font=f_sub)[3]
-    lh_m  = draw.textbbox((0, 0), "A", font=f_meta)[3]
-    site_h = draw.textbbox((0, 0), "A", font=f_tiny)[3]
-
-    total_h = (len(headline_lines) * (lh_h + 8) + 10
-               + len(caption_lines) * (lh_s + 6) + (8 if caption_lines else 0)
-               + lh_m + 8 + site_h + 8)
-    y = TEXT_BOTTOM - total_h
-
-    y, _ = _draw_multicolor_lines(draw, PAD, y, headline_segs, f_headline, W - PAD*2, line_bonus=8)
-    y += 10
-
-    for line in caption_lines:
-        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 210))
-        y += lh_s + 6
-    if caption_lines:
-        y += 8
-
-    draw.text((PAD, y), meta_str, font=f_meta, fill=COL_GREEN)
-    y += lh_m + 8
-
-    draw.text((PAD, y), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+    base = _draw_grid_title_block(base, None, None, headline_segs, headline,
+                                  meta_str, COL_GREEN, pad=PAD, max_lines=3)
 
     return base.convert("RGB")
 
@@ -1213,46 +1165,10 @@ def _render_listicle_cover(cluster: dict[str, Any], n_items: int) -> "Image":
     FSIZE = 60
     _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
-    f_badge = _load_font(26, bold=True)
-    f_title = _load_font(52, bold=True)
-    f_sub   = _load_font(24)
-    f_tiny  = _load_font(17)
-
-    ig_caption = cluster.get("ig_caption") or ""
-    caption_lines = [l.strip() for l in ig_caption.split("\n") if l.strip()][:2]
-
     title      = cluster.get("title", "")
     title_segs = _segment_title(title, highlight=cluster.get("highlight"))
-
-    lh_t   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
-    lh_s   = draw.textbbox((0, 0), "A", font=f_sub)[3]
-    lh_b   = draw.textbbox((0, 0), "A", font=f_badge)[3]
-    site_h = draw.textbbox((0, 0), "A", font=f_tiny)[3]
-    badge_h = lh_b + 20
-
-    title_lines = _wrap_text(title, f_title, W - PAD * 2, draw)[:3]
-    total_h = (badge_h + 16
-               + len(title_lines) * (lh_t + 10) + 10
-               + len(caption_lines) * (lh_s + 6)
-               + site_h + 8)
-    y = TEXT_BOTTOM - total_h
-
-    # Count badge
-    badge_text = f"{n_items} sélections"
-    bw = draw.textbbox((0, 0), badge_text, font=f_badge)[2] + 40
-    bx = (W - bw) // 2
-    draw.rounded_rectangle([bx, y, bx + bw, y + badge_h], radius=badge_h // 2, fill=COL_GREEN)
-    draw.text((bx + 20, y + 10), badge_text, font=f_badge, fill=COL_DARK)
-    y += badge_h + 16
-
-    y, _ = _draw_multicolor_lines(draw, PAD, y, title_segs, f_title, W - PAD * 2, line_bonus=10)
-    y += 10
-
-    for line in caption_lines:
-        draw.text((PAD, y), line, font=f_sub, fill=(255, 255, 255, 180))
-        y += lh_s + 6
-
-    draw.text((PAD, y + 4), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+    base = _draw_grid_title_block(base, f"{n_items} sélections", COL_GREEN,
+                                  title_segs, title, pad=PAD)
 
     return base.convert("RGB")
 
@@ -1275,52 +1191,21 @@ def _render_listicle_item_slide(item: dict[str, Any], n: int, total: int, img_ur
     FSIZE = 56
     _paste_favicon(base, W - PAD - FSIZE, 40, size=FSIZE)
 
-    f_num   = _load_font(26, bold=True)
-    f_title = _load_font(56, bold=True)
-    f_desc  = _load_font(28)
-    f_tiny  = _load_font(17)
+    f_num   = _load_font(32, bold=True)
 
     # Number pill top-left
     num_str = f"{n} / {total}"
     nb  = draw.textbbox((0, 0), num_str, font=f_num)
-    nw  = nb[2] - nb[0] + 28
-    nh  = nb[3] - nb[1] + 16
+    nw  = nb[2] - nb[0] + 36
+    nh  = nb[3] - nb[1] + 22
     draw.rounded_rectangle([PAD, 44, PAD + nw, 44 + nh], radius=nh // 2, fill=(15, 23, 42, 200))
-    draw.text((PAD + 14, 44 + 8), num_str, font=f_num, fill=COL_WHITE)
+    draw.text((PAD + 18 - nb[0], 44 + 11 - nb[1]), num_str, font=f_num, fill=COL_WHITE)
 
     item_title    = item.get("title", "")
-    item_desc     = item.get("description", "")
     item_location = (item.get("location") or "").strip()
-
-    f_loc = _load_font(26, bold=True)
-
-    title_lines = _wrap_text(item_title, f_title, W - PAD * 2, draw)[:2]
-    desc_lines  = _wrap_text(item_desc,  f_desc,  W - PAD * 2, draw)[:2]
-
-    lh_t   = draw.textbbox((0, 0), "Ag", font=f_title)[3]
-    lh_d   = draw.textbbox((0, 0), "A",  font=f_desc)[3]
-    lh_l   = draw.textbbox((0, 0), "A",  font=f_loc)[3] + 6 if item_location else 0
-    site_h = draw.textbbox((0, 0), "A",  font=f_tiny)[3]
-
-    total_h = (len(title_lines) * (lh_t + 8) + 12
-               + len(desc_lines) * (lh_d + 6)
-               + lh_l
-               + site_h + 8)
-    y = TEXT_BOTTOM - total_h
-
     segs = [(w, COL_PINK) for w in item_title.split()]
-    y, _ = _draw_multicolor_lines(draw, PAD, y, segs, f_title, W - PAD * 2, line_bonus=8)
-    y += 12
-
-    for line in desc_lines:
-        draw.text((PAD, y), line, font=f_desc, fill=(255, 255, 255, 200))
-        y += lh_d + 6
-
-    if item_location:
-        draw.text((PAD, y), item_location, font=f_loc, fill=COL_GREEN)
-        y += lh_l
-
-    draw.text((PAD, y + 4), SITE_LABEL, font=f_tiny, fill=(255, 255, 255, 70))
+    base = _draw_grid_title_block(base, None, None, segs, item_title,
+                                  item_location or None, COL_GREEN, pad=PAD, max_lines=3)
 
     return base.convert("RGB")
 
