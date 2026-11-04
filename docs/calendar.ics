@@ -23340,6 +23340,27 @@ URL:https://www.ticketmaster.fr/fr/manifestation/ariane-brodier-bonne-bille
  campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:800f129e-348b-4745-b398-2a9f56a65b1e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Marché du manque alimentaire
+DESCRIPTION:La Banque alimentaire de Toulouse et sa région (BA31) organise
+  ce mercredi 4 novembre un « marché du manque alimentaire » sur l'espla
+ nade François-Mitterrand\, à la sortie du métro Jean-Jaurès. Les étal
+ s y seront volontairement vides\, avec des ardoises affichant « en manque
+  » à la place des prix\, pour rappeler que l'accès à une alimentation 
+ suffisante reste hors de portée de nombreuses personnes. Des salariés et
+  bénévoles seront présents de 9h à 16h pour expliquer la démarche et 
+ recueillir des do\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pou
+ rquoi-un-faux-marche-avec-des-etals-vides-est-organise-en-plein-centre-vil
+ le-de-toulouse-ce-mercredi_65007236.html
+LOCATION:esplanade François-Mitterrand\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-un-faux-marche-avec-d
+ es-etals-vides-est-organise-en-plein-centre-ville-de-toulouse-ce-mercredi_
+ 65007236.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
+ enda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:613fd484-346f-4e1e-b8a7-0f4290bd46f8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -23549,17 +23570,19 @@ BEGIN:VEVENT
 UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Grève du 5 novembre
-DESCRIPTION:L'intersyndicale départementale appelle à une manifestation 
- à Toulouse ce jeudi 5 novembre 2026\, au départ de Saint-Cyprien à 14h\
- , pour défendre le pouvoir d'achat\, les salaires et les services publics
- . Un bras de fer s'est ouvert avec la préfecture sur le tracé du cortèg
- e : les syndicats souhaitent remonter les boulevards jusqu'aux allées Jea
- n-Jaurès\, mais le préfet veut cantonner le défilé sur la rive gauche.
-  Une « réunion houleuse » lundi a laissé planer une menace d'interdict
- ion pure et simp\n\nSource\: https://actu.fr/occitanie/toulouse_31555/grev
- e-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifestation
- -sera-t-elle-interdite-a-toulouse_65004268.html
+SUMMARY:Grève du 5 novembre : le parcours en centre-ville menacé d'interd
+ iction
+DESCRIPTION:L'intersyndicale départementale appelle à une manifestation i
+ nterprofessionnelle à Toulouse ce jeudi 5 novembre 2026\, avec un départ
+  prévu à 14h depuis Saint-Cyprien en direction des allées Jean-Jaurès.
+  Le bras de fer porte sur le tracé du cortège : les syndicats veulent tr
+ averser le centre-ville via les boulevards\, mais le préfet Fabrice Rigou
+ let-Roze leur propose un itinéraire alternatif par la rive gauche\, entre
+  Saint-Cyprien et les Arènes. Suite à une « réunion houleuse » le lun
+ di 2 novembre\n\nSource\: https://actu.fr/occitanie/toulouse_31555/greve-d
+ u-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifestation-se
+ ra-t-elle-interdite-a-toulouse_65004268.html
+LOCATION:allées Jean-Jaurès\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/greve-du-5-novembre-le-prefet-
  tente-de-criminaliser-la-colere-la-manifestation-sera-t-elle-interdite-a-t
  oulouse_65004268.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
@@ -24097,6 +24120,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/c-est-toujours-grace-au-public
  -helena-de-la-star-academy-revient-au-zenith-de-toulouse-pour-un-concert-e
  venement_64950176.html?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3b72e705-4078-4e49-badb-f3843bac7fee@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Mama Ski Club
+DESCRIPTION:Les terrasses toulousaines se mettent en mode montagne pour l'h
+ iver\, avec trois adresses à la clé. À Gramont\, Les Friches proposent 
+ pour la deuxième année consécutive 14 télécabines privatisables (2 à
+  7 personnes) sur 750 m² de terrasse\, avec un format Après-Ski XXL incl
+ uant DJ sets et canons à neige. À Montaudran\, 13 igloos (2 à 8 personn
+ es) et une moto-neige composent le décor\, agrémentés de winter parties
+ . L'accès est à 10 € par personne pour 2 heures\, boisson comprise. À
+  partir du 7 novembre\n\nSource\: https://www.lessentiel.fr/newsletter/tou
+ louse/2026-11-04#54347
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-04#54347?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8@news.lavillerose.com
@@ -27765,6 +27805,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/o-mon-pais-billet/idmanif/
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:b08bdb13-4efd-461a-afd5-b139314be895@news.lavillerose.com
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20270227
+SUMMARY:Białowieża\, la forêt vivante
+DESCRIPTION:L'exposition « Białowieża\, la forêt vivante de Lech & Simo
+ na » retrace la vie hors du commun de deux chercheurs polonais\, Simona K
+ ossak et Lech Wilczek\, qui ont vécu plus de 30 ans sans eau courante ni 
+ électricité au cœur de la forêt primaire de Białowieża. Ils y ont ph
+ otographié leur quotidien partagé avec une faune sauvage traitée comme 
+ une famille\, au fil des saisons. L'exposition\, d'après un projet édito
+ rial de Lia Pradal\, est multi-sites : elle se tient principalement au Cen
+ tre Culturel Sai\n\nSource\: https://www.toulouse-tourisme.com/agenda/bial
+ owieza-la-foret-vivante-de-lech-simona/
+URL:https://www.toulouse-tourisme.com/agenda/bialowieza-la-foret-vivante-de
+ -lech-simona/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
+ enda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ac44d84a-eee5-4ef3-8861-ecfa38a1490d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
@@ -29232,6 +29290,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/marianne-content-billet/id
  aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4448558f-4a9d-47cf-a7d6-ad0fbb7aab08@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Hasard et Contretemps
+DESCRIPTION:Le spectacle « Hasard et Contretemps » est programmé au Thé
+ âtre des Grands Enfants\, à Cugnaux\, pour le 31 décembre 2026. Il s'in
+ scrit dans la catégorie Arts & Théâtre – Magie & Illusion\, ce qui la
+ isse supposer un spectacle mêlant tours de magie et effets de scène. La 
+ date du réveillon de Saint-Sylvestre en fait une sortie festive idéale p
+ our terminer l'année en famille ou entre amis. Les deux sources Ticketmas
+ ter sont strictement identiques et n'apportent aucun détail supplémentai
+ re sur la durée\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ hasard-et-contretemps-billet/idmanif/677508/idseance/4451898
+URL:https://www.ticketmaster.fr/fr/manifestation/hasard-et-contretemps-bill
+ et/idmanif/677508/idseance/4451898?utm_source=ical&utm_medium=calendar&utm
+ _campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:49093275-11e9-4319-be89-122ff6c00f57@news.lavillerose.com
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
@@ -29263,6 +29339,24 @@ DESCRIPTION:Un concert de Noël consacré aux célèbres Quatre Saisons de
 URL:https://www.ticketmaster.fr/fr/manifestation/concert-de-noel-vivaldi-le
  s-4-saisons-billet/idmanif/677307/idseance/4451189?utm_source=ical&utm_med
  ium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:285dc86f-994f-49b1-a223-2f33499979eb@news.lavillerose.com
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Sounds of Soul and Gospel
+DESCRIPTION:Un concert de musique soul et gospel est programmé à l'Églis
+ e Saint-Aubin de Toulouse le 3 janvier 2027\, dans le cadre du « Sounds o
+ f Soul and Gospel Music Tour ». Ce type d'événement mêle tradition spi
+ rituelle et énergie musicale\, offrant une expérience chorale et vocale 
+ dans un cadre architectural chargé d'histoire. L'église Saint-Aubin cons
+ titue un écrin intimiste particulièrement adapté à ce genre de musique
+  à forte résonance émotionnelle. L'événement s'adresse aux amateurs d
+ e gospel et de s\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ the-sounds-of-soul-and-gospel-billet/idmanif/677507/idseance/4451897
+URL:https://www.ticketmaster.fr/fr/manifestation/the-sounds-of-soul-and-gos
+ pel-billet/idmanif/677507/idseance/4451897?utm_source=ical&utm_medium=cale
+ ndar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:728bd320-4e91-4762-8871-cfbd9f5e605e@news.lavillerose.com
@@ -35883,6 +35977,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/bernard-lavilliers-billet/
  paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ca2b86ad-aadf-4bf4-be8e-1849405ae734@news.lavillerose.com
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Stadium Run Experience
+DESCRIPTION:La Stadium Run Experience propose une course à pied semi-noctu
+ rne le long de la Garonne\, en fin de journée\, avec le Stadium de Toulou
+ se comme point d'arrivée emblématique. L'événement mêle sport et fest
+ ivités : une fois la course terminée\, les participants profitent d'un D
+ J Set ou de musique live dans une ambiance conviviale et toulousaine. L'é
+ vénement s'adresse aussi bien aux coureurs qu'à leurs supporters\, invit
+ és à encourager les participants. Une belle occasion de vivre une expér
+ ience sporti\n\nSource\: https://www.toulouse-tourisme.com/agenda/stadium-
+ run-experience/
+LOCATION:Stadium Run Experience propose une course\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/stadium-run-experience/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:efec1eb6-994c-44d6-a876-8e3faef65a41@news.lavillerose.com
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
@@ -37088,6 +37200,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/forever-tribute-to-michael
  =calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6c141f18-c50a-47ff-abb8-eaac5acfb3f9@news.lavillerose.com
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:MC Solaar 2028
+DESCRIPTION:MC Solaar\, figure emblématique du hip-hop français\, se prod
+ uira au Zénith Toulouse Métropole le 26 janvier 2028. Le concert s'inscr
+ it dans sa tournée MC Solaar 2028\, qui le ramène sur les grandes scène
+ s de France. Les amateurs de rap français auront l'occasion de retrouver 
+ l'un des artistes les plus influents du genre\, connu pour ses textes poé
+ tiques et son flow singulier. Les billets sont disponibles via Ticketmaste
+ r.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/mc-solaar-bill
+ et/idmanif/676784/idseance/4445151
+URL:https://www.ticketmaster.fr/fr/manifestation/mc-solaar-billet/idmanif/6
+ 76784/idseance/4445151?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:31592607-b04c-4d38-9aed-bd614756e380@news.lavillerose.com
 DTSTART;VALUE=DATE:20280209
 DTEND;VALUE=DATE:20280210
@@ -37210,6 +37339,22 @@ LOCATION:salles de spectacle de Toulouse\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/adele-castillon-billet/idm
  anif/675708/idseance/4440527?utm_source=ical&utm_medium=calendar&utm_campa
  ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:947ba100-4c50-4821-bf3d-c7141ecf4ac2@news.lavillerose.com
+DTSTART;VALUE=DATE:20280422
+DTEND;VALUE=DATE:20280423
+SUMMARY:Léandre
+DESCRIPTION:Le comédien Léandre se produira au Casino Barrière de Toulou
+ se le 22 avril 2028 dans le cadre d'un spectacle classé Arts & Théâtre 
+ / Comédie. La billetterie est disponible via Ticketmaster. Les amateurs d
+ e one-man-show et de comédie sont particulièrement concernés par cet é
+ vénement. Les détails du programme restent limités dans les information
+ s disponibles.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/le
+ andre-billet/idmanif/677399/idseance/4451344
+URL:https://www.ticketmaster.fr/fr/manifestation/leandre-billet/idmanif/677
+ 399/idseance/4451344?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8dc5531c-fdfd-410a-adfc-1b8e946e78d1@news.lavillerose.com

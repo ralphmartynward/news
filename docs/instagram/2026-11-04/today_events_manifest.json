@@ -1,0 +1,231 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:34fcf4a9-2e53-4ea8-a428-eadce0435c63",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le festival Danses et continents noirs à la Maison Chapou",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/James-Carles-Le-Cub-2024-346-2048x1640-copie.jpg",
+    "file": "cluster_34fcf4a9-2e53-4ea8-a428-eadce0435c63_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:730113a7-1d9c-4d21-a133-69dc70316062",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Pour Britney » au Théâtre du Pavé : texte féministe en scène",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/POUR-BRITNEY-2.jpg",
+    "file": "cluster_730113a7-1d9c-4d21-a133-69dc70316062_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8a6bdd45-a38f-462c-ab3a-23ca3c3015cb",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rumba, dernier volet de la trilogie des pauvres diables, au Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUMBA-L-ANE-LE-BOEUF-SORANO.jpg",
+    "file": "cluster_8a6bdd45-a38f-462c-ab3a-23ca3c3015cb_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bf498d88-9b4b-45c8-8348-3e32ae2c02b9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "LE SILENCE, spectacle sans paroles au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-SILENCE.jpg",
+    "file": "cluster_bf498d88-9b4b-45c8-8348-3e32ae2c02b9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:ea3d248c-83a2-4f84-a906-e7115eb7d159",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Œdipe / Antigone de Sophocle au Théâtre de la Cité",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/OEPIDE.jpg",
+    "file": "cluster_ea3d248c-83a2-4f84-a906-e7115eb7d159_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:feadf013-5caf-4321-bc95-fa2903711510",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Une famille pyrénéenne au Théâtre Garonne : portrait de l'invisible",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/UNE-FAMILLE-PYRENEENNE-THEATRE-GARONNE.jpg",
+    "file": "cluster_feadf013-5caf-4321-bc95-fa2903711510_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6060190d-91d9-458d-8726-e7b2af1a6b22",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Quatre Mains à l'Auditorium du Conservatoire de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/QUATRE-MAINS-ODYSSUD.jpg",
+    "file": "cluster_6060190d-91d9-458d-8726-e7b2af1a6b22_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6db7b7af-c66f-4f5c-a706-cdd61c99a877",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rumba, dernier volet de la trilogie des pauvres diables au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUMBA-L-ANE-LE-BOEUF-SORANO.jpg",
+    "file": "cluster_6db7b7af-c66f-4f5c-a706-cdd61c99a877_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0e07685c-63ef-401e-aa4c-d27b72fba0e1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rumba, dernier volet de la trilogie d'Ascanio Celestini au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RUMBA-L-ANE-LE-BOEUF-SORANO.jpg",
+    "file": "cluster_0e07685c-63ef-401e-aa4c-d27b72fba0e1_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:e535d146-b426-464a-8039-2775479373b1",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "KINOPOLSKA : festival de cinéma polonais dans quatre salles toulousaines",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FESTINAL-POLONAIS.jpg",
+    "file": "cluster_e535d146-b426-464a-8039-2775479373b1_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5b071620-d136-47ca-bbde-c0a17e8ffb25",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Mammal Hands en concert à la Salle Nougaro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Mammal-Hands-.jpg",
+    "file": "cluster_5b071620-d136-47ca-bbde-c0a17e8ffb25_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6ea31db9-a7ea-487e-80a6-12f13ef6bd5f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "DALIDAAAAA ! à La Cave Poésie : spectacle jubilatoire sur l'icône",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DALIDAAAAA-EUH.jpg",
+    "file": "cluster_6ea31db9-a7ea-487e-80a6-12f13ef6bd5f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:7ceac093-c557-41ad-82d3-689200b917f7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Blindtest années 80 au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/blindtest-des-3T.jpg",
+    "file": "cluster_7ceac093-c557-41ad-82d3-689200b917f7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:30a5827e-386f-447c-a3a3-320f69406cb9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Concert Melissende à La Comédie de Toulouse en novembre",
+    "image_url": "https://s1.ticketm.net/dam/c/0d2/1201f713-3288-4790-854a-ae42895450d2_105931_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_30a5827e-386f-447c-a3a3-320f69406cb9_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:7c0b0b9e-f2c2-4a39-a798-17a4909c64e9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Patrick Bruel et Patrick Fiori en concert au Zénith de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/ff8/fe109b0f-3173-4326-996f-11484dd08ff8_SOURCE",
+    "file": "cluster_7c0b0b9e-f2c2-4a39-a798-17a4909c64e9_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:9699f24c-b522-4c63-b8fc-a98f75189a9c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Ariane Brodier en spectacle au 3T d'À Côté",
+    "image_url": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_9699f24c-b522-4c63-b8fc-a98f75189a9c_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:800f129e-348b-4745-b398-2a9f56a65b1e",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Un faux marché vide à Jean-Jaurès pour alerter sur la précarité alimentaire",
+    "image_url": "https://static.actu.fr/uploads/2026/11/35111ad2-9eec-4f8f-b66c-4b70cdac6228.png",
+    "file": "cluster_800f129e-348b-4745-b398-2a9f56a65b1e_event_story.jpg",
+    "img_width": 1232,
+    "img_height": 821
+  },
+  {
+    "cluster_id": "cluster:984c4f47-b304-46d9-854a-9ccc856402ba",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Chamber Orchestra of Europe en concert à La Halle aux Grains",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/piano---magnific.jpg?itok=zwomtiax",
+    "file": "cluster_984c4f47-b304-46d9-854a-9ccc856402ba_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:e9dcba95-612f-4536-9819-51e07b3c34bb",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Irène Némirovsky évoquée à la médiathèque Cabanis par Dominique Missika",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/b27272.jpg?itok=pFNmizes",
+    "file": "cluster_e9dcba95-612f-4536-9819-51e07b3c34bb_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:eda87dc7-e5a9-4fc7-b082-56cc2d45388c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "« Familles en fête » : animations gratuites pour tous à Tournefeuille",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_116158925.jpg?h=3066fd39&itok=mvNcA5n4",
+    "file": "cluster_eda87dc7-e5a9-4fc7-b082-56cc2d45388c_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
