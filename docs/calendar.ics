@@ -22291,23 +22291,6 @@ URL:https://www.toulouse-tourisme.com/agenda/les-disparus-de-saint-aubin/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-SUMMARY:Que faire à Toulouse ce week-end de la Toussaint ?
-DESCRIPTION:Le week-end de la Toussaint (30 octobre–1er novembre) s'annon
- ce particulièrement chargé à Toulouse et ses alentours\, avec Halloween
-  comme fil rouge mais pas seulement. Au programme : visites nocturnes inso
- lites (cimetière Terre-Cabade\, ruines des Cordeliers\, musées)\, soiré
- es techno et drag\, zombie walk au domaine de Pontié\, escape game horrif
- ique au Laser Quest de Balma-Grammont\, et un open air à la Babayaga. En 
- dehors d'Halloween\, l'agenda propose aussi le salon Vins & Terroirs et Ch
- ocolat & Go\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026
- -10-26#53755
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-10-26#53755?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:957c8a14-e52d-43c1-bfd3-9b409e2b05f7@news.lavillerose.com
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
@@ -23343,22 +23326,44 @@ BEGIN:VEVENT
 UID:cluster:800f129e-348b-4745-b398-2a9f56a65b1e@news.lavillerose.com
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:Marché du manque alimentaire
-DESCRIPTION:La Banque alimentaire de Toulouse et sa région (BA31) organise
-  ce mercredi 4 novembre un « marché du manque alimentaire » sur l'espla
- nade François-Mitterrand\, à la sortie du métro Jean-Jaurès. Les étal
- s y seront volontairement vides\, avec des ardoises affichant « en manque
-  » à la place des prix\, pour rappeler que l'accès à une alimentation 
- suffisante reste hors de portée de nombreuses personnes. Des salariés et
-  bénévoles seront présents de 9h à 16h pour expliquer la démarche et 
- recueillir des do\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pou
- rquoi-un-faux-marche-avec-des-etals-vides-est-organise-en-plein-centre-vil
- le-de-toulouse-ce-mercredi_65007236.html
+SUMMARY:Marché du Manque Alimentaire
+DESCRIPTION:Ce mercredi 4 novembre 2026\, la Banque Alimentaire de Toulouse
+  et sa région (BA31) installe un faux marché aux étals vides sur l'espl
+ anade François-Mitterrand\, près du métro Jean-Jaurès\, de 9h à 16h. 
+ L'opération\, baptisée « Le marché du manque alimentaire »\, détourn
+ e les codes du marché traditionnel — cagettes vides\, ardoises affichan
+ t « en manque » à la place des prix — pour alerter sur la précarité
+  alimentaire qui touche des milliers de Toulousains. Salariés et bénévo
+ les seront présents pour e\n\nSource\: https://actu.fr/occitanie/toulouse
+ _31555/pourquoi-un-faux-marche-avec-des-etals-vides-est-organise-en-plein-
+ centre-ville-de-toulouse-ce-mercredi_65007236.html
 LOCATION:esplanade François-Mitterrand\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-un-faux-marche-avec-d
  es-etals-vides-est-organise-en-plein-centre-ville-de-toulouse-ce-mercredi_
  65007236.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f2e5e44c-eb55-465e-b159-a42a27ed1c69@news.lavillerose.com
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Travaux pont de l'échangeur du Chapitre : coupures nocturnes sur l
+ 'A64
+DESCRIPTION:Les travaux de renforcement du pont de l'échangeur du Chapitre
+  (n°38)\, qui surplombe l'A64 au sud de Toulouse\, se poursuivent depuis 
+ juillet 2026. Vinci Autoroutes annonce des fermetures nocturnes les nuits 
+ du 4 et du 10 novembre\, de 21h à 6h\, sur l'avenue du Général Eisenhow
+ er (M120A) dans les deux sens. La bretelle d'accès à l'A64 en direction 
+ de Toulouse sera également fermée ces deux nuits-là. Des itinéraires d
+ e déviation seront mis en place pour les automobilistes rejoignant Tourne
+ feuille\, \n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-pont-qu
+ i-surplombe-l-a64-au-sud-de-toulouse-est-toujours-en-travaux-la-circulatio
+ n-sera-coupee-sur-ces-troncons_65013082.html
+LOCATION:avenue du Général Eisenhower (M120A) dans les deux\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/ce-pont-qui-surplombe-l-a64-au
+ -sud-de-toulouse-est-toujours-en-travaux-la-circulation-sera-coupee-sur-ce
+ s-troncons_65013082.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:613fd484-346f-4e1e-b8a7-0f4290bd46f8@news.lavillerose.com
@@ -23553,40 +23558,57 @@ BEGIN:VEVENT
 UID:cluster:ba4ab054-35bd-414c-8761-66025f442a49@news.lavillerose.com
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261122
-SUMMARY:NeufNeuf Festival
-DESCRIPTION:Le NeufNeuf Festival revient du 5 au 21 novembre 2026 pour cél
- ébrer la danse contemporaine dans toutes ses formes\, en la mêlant au th
- éâtre\, à la musique\, à la performance et au cirque. Porté par la Co
- mpagnie Samuel Mathieu\, le festival se déroule dans plusieurs lieux cult
- urels de Toulouse et de la région\, dont le Lieu Neufneuf\, le Théâtre 
- Garonne\, la Chapelle des carmélites et le Théâtre de la Cité. La prog
- rammation éclectique met en lumière des artistes comme Héla Fattoumi\, 
- Christophe Le Goff\, \n\nSource\: https://www.toulouse-tourisme.com/agenda
- /neufneuf-festival/
-URL:https://www.toulouse-tourisme.com/agenda/neufneuf-festival/?utm_source=
- ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:NEUFNEUF Festival
+DESCRIPTION:Le NEUFNEUF Festival se tient du 5 au 21 novembre et rassemble 
+ des artistes de France et d'Europe autour d'une danse libre\, engagée et 
+ plurielle. Le coup d'envoi est donné à l'Escale de Tournefeuille avec «
+  Romantic »\, un marathon dansé impliquant 14 artistes. L'événement pr
+ opose une vision plurielle et militante de la danse contemporaine. Ce fest
+ ival s'adresse aux amateurs de danse et de spectacle vivant de Toulouse et
+  de son agglomération.\n\nSource\: https://newsletter.lessentiel.fr/lt.ph
+ p?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeVt13Eii0A0_ueglP
+ XEIFKg7637y_tNVPFs1o2kj_Xxjug
+URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
+ wIfwxdkZHjLIXbM7pB-zUy7xeVt13Eii0A0_ueglPXEIFKg7637y_tNVPFs1o2kj_Xxjug?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Grève du 5 novembre : le parcours en centre-ville menacé d'interd
- iction
-DESCRIPTION:L'intersyndicale départementale appelle à une manifestation i
- nterprofessionnelle à Toulouse ce jeudi 5 novembre 2026\, avec un départ
-  prévu à 14h depuis Saint-Cyprien en direction des allées Jean-Jaurès.
-  Le bras de fer porte sur le tracé du cortège : les syndicats veulent tr
- averser le centre-ville via les boulevards\, mais le préfet Fabrice Rigou
- let-Roze leur propose un itinéraire alternatif par la rive gauche\, entre
-  Saint-Cyprien et les Arènes. Suite à une « réunion houleuse » le lun
- di 2 novembre\n\nSource\: https://actu.fr/occitanie/toulouse_31555/greve-d
- u-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifestation-se
- ra-t-elle-interdite-a-toulouse_65004268.html
-LOCATION:allées Jean-Jaurès\, Toulouse
+SUMMARY:Grève du 5 novembre : le cortège interdit en centre-ville de Toul
+ ouse
+DESCRIPTION:L'intersyndicale (CGT\, FO\, CFDT et six autres syndicats) a ap
+ pelé à une grève générale le jeudi 5 novembre 2026 à Toulouse contre
+  la vie chère\, les bas salaires et la dégradation des services publics\
+ , rejointe par des lycéens\, étudiants et Gilets jaunes. Un bras de fer 
+ a opposé les syndicats au préfet Fabrice Rigoulet-Roze\, qui a pris mard
+ i soir un arrêté interdisant le parcours déclaré (Saint-Cyprien – al
+ lées Jean-Jaurès via les boulevards) en raison des violences et dégrada
+ tions des mobilisati\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
+ greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifesta
+ tion-sera-t-elle-interdite-a-toulouse_65004268.html
 URL:https://actu.fr/occitanie/toulouse_31555/greve-du-5-novembre-le-prefet-
  tente-de-criminaliser-la-colere-la-manifestation-sera-t-elle-interdite-a-t
  oulouse_65004268.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:758191ff-529b-46fa-a265-49b922608698@news.lavillerose.com
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261116
+SUMMARY:111 des Arts
+DESCRIPTION:L'exposition des 111 des Arts ouvre ses portes à la chapelle d
+ e l'Hôtel-Dieu du 5 au 15 novembre\, réunissant 111 peintres et 15 sculp
+ teurs\, amateurs comme professionnels. Chaque artiste propose un petit tab
+ leau carré de 20x20 cm vendu 95 €\, dont une partie est reversée à la
+  recherche sur les cancers et maladies graves de l'enfant. L'entrée est l
+ ibre et gratuite\, mais une adhésion annuelle de 30 € est requise pour 
+ acheter des œuvres. Cette édition a pour parrain l'artiste toulousain Ce
+ et Fouad\, c\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-11-05#54512
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-05#54512?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d609d4a-8f17-4ef0-87b4-f6177466bc67@news.lavillerose.com
@@ -24068,6 +24090,27 @@ URL:https://www.toulouse-tourisme.com/agenda/raconte-moi-la-clarinette/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Que faire à Toulouse ce week-end : concerts\, brocante\, vins et c
+ hocolats
+DESCRIPTION:Deux sélections de sorties couvrent les activités à Toulouse
+  pour le week-end de la Toussaint et le week-end du 7-8 novembre 2026\, pr
+ oposant chacune un programme varié entre musique live\, gastronomie et cu
+ lture. Côté concerts\, les Zoufris Maracas jouent au Bikini\, Storm Orch
+ estra se produit au Rex\, et The World of Hans Zimmer investit le Zénith 
+ pour un concert orchestral immersif autour des grandes musiques de film. D
+ u côté gourmand\, les Salons Vins & Terroirs et Chocolat & Gourmandises 
+ réunisse\n\nSource\: https://actu.fr/occitanie/toulouse_31555/parce-qu-il
+ -n-y-a-pas-qu-halloween-dans-la-vie-que-faire-ce-week-end-de-toussaint-a-t
+ oulouse-et-dans-ses-environs_64975568.html
+URL:https://actu.fr/occitanie/toulouse_31555/parce-qu-il-n-y-a-pas-qu-hallo
+ ween-dans-la-vie-que-faire-ce-week-end-de-toussaint-a-toulouse-et-dans-ses
+ -environs_64975568.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b8ffed37-e253-4e44-80dc-e1fdb7978840@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
@@ -24405,6 +24448,23 @@ DESCRIPTION:L'exposition « Gueules Cassées » du collagiste normand René
  eules-casses-de-rene-apallec/
 URL:https://www.toulouse-tourisme.com/agenda/gueules-casses-de-rene-apallec
  /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d14a5865-9deb-4506-afe0-d689d7c3cc67@news.lavillerose.com
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Week-end de découvertes à Toulouse : balades\, aéro et brunch
+DESCRIPTION:Toulouse Tourisme propose un programme de découvertes pour nov
+ embre\, articulé autour de plusieurs thématiques : un itinéraire de 48h
+  mêlant patrimoine\, culture et art de vivre\, une exploration de l'avent
+ ure aéronautique toulousaine (de l'Aéropostale aux grandes épopées de 
+ l'aviation)\, et une sélection de bonnes adresses pour bruncher en ville.
+  Deux visites guidées sont également au programme : une balade du patrim
+ oine le mercredi 11 novembre\, de la place du Capitole à la place Saint-S
+ ernin\, et u\n\nSource\: http://cdt31.tourinsoft.com/view.ashx?email=dacc1
+ a38-34a8-4c8f-955f-7fcd38042295
+URL:http://cdt31.tourinsoft.com/view.ashx?email=dacc1a38-34a8-4c8f-955f-7fc
+ d38042295?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9703953d-06ed-4478-84c4-b3ffdca6ef82@news.lavillerose.com
@@ -26123,6 +26183,23 @@ URL:https://www.toulouse-tourisme.com/agenda/a-deux-cest-mieux/?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6f1a3ecb-51ae-45db-a1d3-7383f34ddf52@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Hyrace
+DESCRIPTION:L'Hyrace\, course chronométrée de 8 km inspirée de l'Hyrox\,
+  revient au MIN Toulouse Occitanie le samedi 21 novembre\, de 9h à 19h. L
+ es participants enchaînent huit épreuves fonctionnelles — SkiErg\, tra
+ îneau\, burpees\, rameur\, kettlebells — en solo\, duo ou\, nouveauté 
+ cette année\, en relais de quatre pour les entreprises. L'événement a u
+ ne vocation solidaire : chaque dossard finance l'équivalent de trois jour
+ s de formation pour un élève de l'école Tremplins du Sport de Blagnac\,
+  qui accompagne des per\n\nSource\: https://www.lessentiel.fr/newsletter/t
+ oulouse/2026-11-05#54515
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-05#54515?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db@news.lavillerose.com
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
@@ -26277,6 +26354,24 @@ DESCRIPTION:« Casseroles » est un spectacle d'improvisation théâtrale j
  es/
 URL:https://www.toulouse-tourisme.com/agenda/casseroles/?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d5abb517-3f2f-43b2-9de6-5fca21ff1b34@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261126
+SUMMARY:Colloque international sur les canaux à l'Université Jean-Jaurès
+DESCRIPTION:Un colloque international intitulé « Les chemins d'eau artifi
+ ciels : gouvernance\, usages et environnement des canaux d'hier à demain 
+ » se tiendra les 24 et 25 novembre 2026 à l'Université Toulouse Jean-Ja
+ urès\, Maison de la Recherche. Des intervenants venus d'Allemagne\, de Be
+ lgique\, du Royaume-Uni\, du Canada et de Chine y aborderont quatre théma
+ tiques : histoire\, valorisation\, gestion du patrimoine UNESCO et intégr
+ ation environnementale des canaux. Plusieurs sites classés UNESCO serviro
+ nt de poin\n\nSource\: https://www.toulouse-tourisme.com/agenda/colloque-i
+ nternational-consacre-aux-canaux/
+URL:https://www.toulouse-tourisme.com/agenda/colloque-international-consacr
+ e-aux-canaux/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
+ enda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:82592433-55c6-482d-be1b-56f6262f4f27@news.lavillerose.com
@@ -27823,6 +27918,25 @@ URL:https://www.toulouse-tourisme.com/agenda/bialowieza-la-foret-vivante-de
  enda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4cadae2a-5ac9-4878-a00d-ccc024da565e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Marché Complice
+DESCRIPTION:Les 5 et 6 décembre 2026\, le Château Arton à Lectoure accue
+ ille le Marché Complice\, un marché gourmand réunissant une trentaine d
+ 'artisans et producteurs dans ses chais. Organisé avec le Collège Culina
+ ire de France\, ce collectif fondé en 2011 défend l'artisanat culinaire 
+ face à l'industrialisation alimentaire. Les visiteurs pourront déguster 
+ des petites assiettes à 5 € et 7 € inspirées des food courts\, passe
+ r des commandes pour Noël et dénicher des cadeaux gourmands à glisser s
+ ous le sapin. L'év\n\nSource\: https://www.toulouscope.fr/2026/11/04/a-1h
+ 15-de-toulouse-ce-marche-gourmand-reunit-30-artisans-pour-preparer-noel-13
+ 624438.php
+URL:https://www.toulouscope.fr/2026/11/04/a-1h15-de-toulouse-ce-marche-gour
+ mand-reunit-30-artisans-pour-preparer-noel-13624438.php?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ac44d84a-eee5-4ef3-8861-ecfa38a1490d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
@@ -29306,6 +29420,25 @@ DESCRIPTION:Le spectacle « Hasard et Contretemps » est programmé au Thé
 URL:https://www.ticketmaster.fr/fr/manifestation/hasard-et-contretemps-bill
  et/idmanif/677508/idseance/4451898?utm_source=ical&utm_medium=calendar&utm
  _campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:78d5163e-1c4d-4721-b8b6-d233e56b442a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Desperate Housemen
+DESCRIPTION:Le groupe comique Desperate Housemen se produira à La Comédie
+  de Toulouse le 31 décembre 2026\, soit le soir du réveillon. C'est une 
+ occasion originale de fêter la Saint-Sylvestre autour d'un spectacle d'hu
+ mour dans une salle dédiée à la comédie. L'événement s'inscrit dans 
+ la programmation Arts & Théâtre — Comédie\, ce qui laisse supposer un
+  format scène live avec sketches ou stand-up. Les amateurs de soirées fe
+ stives et décalées pour finir l'année en riant sont directement concern
+ és.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/desperate-ho
+ usemen-billet/idmanif/677526/idseance/4452153
+LOCATION:salle dédiée\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/desperate-housemen-billet/
+ idmanif/677526/idseance/4452153?utm_source=ical&utm_medium=calendar&utm_ca
+ mpaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:49093275-11e9-4319-be89-122ff6c00f57@news.lavillerose.com
@@ -32815,6 +32948,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/alicia-ligi-billet/idmanif
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:0f91877c-2846-4fde-bf9c-7fd8bb531c34@news.lavillerose.com
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270314
+SUMMARY:Yoanna Sallese
+DESCRIPTION:La comédienne Yoanna Sallese se produit à La Petite Comédie 
+ de Toulouse les 12 et 13 mars 2027. Le spectacle est classé dans la caté
+ gorie Arts & Théâtre — Comédie. Deux dates consécutives sont disponi
+ bles\, offrant aux Toulousains plusieurs créneaux pour assister à la rep
+ résentation. Les informations sur le contenu du spectacle ou la billetter
+ ie restent limitées aux données Ticketmaster.\n\nSource\: https://www.ti
+ cketmaster.fr/fr/manifestation/yoanna-sallese-billet/idmanif/677527/idsean
+ ce/4452154
+URL:https://www.ticketmaster.fr/fr/manifestation/yoanna-sallese-billet/idma
+ nif/677527/idseance/4452154?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:52bb99f6-ea9e-4719-b592-24da13dfcddb@news.lavillerose.com
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
@@ -34112,6 +34262,23 @@ DESCRIPTION:Le comédien Thomas Poitevin se produira au Théâtre des Mazad
 URL:https://www.ticketmaster.fr/fr/manifestation/thomas-poitevin-billet/idm
  anif/671529/idseance/4405935?utm_source=ical&utm_medium=calendar&utm_campa
  ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6c141f18-c50a-47ff-abb8-eaac5acfb3f9@news.lavillerose.com
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:MC Solaar et SDM en concert au Zénith de Toulouse
+DESCRIPTION:Deux concerts de hip-hop/rap sont programmés au Zénith Toulou
+ se Métropole : SDM s'y produira le 31 mars 2027\, et MC Solaar y sera en 
+ tournée le 26 janvier 2028. Ces deux rendez-vous confirment le Zénith co
+ mme scène incontournable du rap français à Toulouse. Les billets sont d
+ isponibles sur Ticketmaster. Les amateurs de rap français ont ainsi deux 
+ événements à anticiper à des horizons distincts.\n\nSource\: https://w
+ ww.ticketmaster.fr/fr/manifestation/mc-solaar-billet/idmanif/676784/idsean
+ ce/4445151
+URL:https://www.ticketmaster.fr/fr/manifestation/mc-solaar-billet/idmanif/6
+ 76784/idseance/4445151?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:34d885c7-5981-4c9e-ae92-ec3dea5454da@news.lavillerose.com
@@ -37080,6 +37247,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/clement-blouin-billet/idma
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:499284e7-e35e-4913-a843-9b8318caa611@news.lavillerose.com
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Sebastian Marx
+DESCRIPTION:Le comédien américain Sebastian Marx\, connu pour son humour 
+ bilingue sur la vie franco-américaine\, se produira au Casino Barrière d
+ e Toulouse le 6 janvier 2028. Ce one-man-show s'inscrit dans la catégorie
+  Arts & Théâtre / Comédie. Sebastian Marx est une figure populaire du s
+ tand-up en France\, réputé pour son regard décalé d'expatrié américa
+ in vivant à Paris. Les amateurs de comédie anglophone et francophone ser
+ ont particulièrement concernés par cet événement.\n\nSource\: https://
+ www.ticketmaster.fr/fr/manifestation/sebastian-marx-billet/idmanif/677679/
+ idseance/4452497
+URL:https://www.ticketmaster.fr/fr/manifestation/sebastian-marx-billet/idma
+ nif/677679/idseance/4452497?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:dfdc9ee4-36d7-4e4f-ad3e-eb17a19642fe@news.lavillerose.com
 DTSTART;VALUE=DATE:20280107
 DTEND;VALUE=DATE:20280108
@@ -37198,23 +37383,6 @@ DESCRIPTION:Le spectacle « Forever »\, hommage musical à Michael Jackson
 URL:https://www.ticketmaster.fr/fr/manifestation/forever-tribute-to-michael
  -jackson-billet/idmanif/674979/idseance/4436375?utm_source=ical&utm_medium
  =calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:6c141f18-c50a-47ff-abb8-eaac5acfb3f9@news.lavillerose.com
-DTSTART;VALUE=DATE:20280126
-DTEND;VALUE=DATE:20280127
-SUMMARY:MC Solaar 2028
-DESCRIPTION:MC Solaar\, figure emblématique du hip-hop français\, se prod
- uira au Zénith Toulouse Métropole le 26 janvier 2028. Le concert s'inscr
- it dans sa tournée MC Solaar 2028\, qui le ramène sur les grandes scène
- s de France. Les amateurs de rap français auront l'occasion de retrouver 
- l'un des artistes les plus influents du genre\, connu pour ses textes poé
- tiques et son flow singulier. Les billets sont disponibles via Ticketmaste
- r.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/mc-solaar-bill
- et/idmanif/676784/idseance/4445151
-URL:https://www.ticketmaster.fr/fr/manifestation/mc-solaar-billet/idmanif/6
- 76784/idseance/4445151?utm_source=ical&utm_medium=calendar&utm_campaign=to
- ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:31592607-b04c-4d38-9aed-bd614756e380@news.lavillerose.com
