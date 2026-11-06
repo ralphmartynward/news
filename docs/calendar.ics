@@ -19668,24 +19668,6 @@ URL:https://www.toulouse-tourisme.com/agenda/g-r-a-i-n-histoire-de-fous/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:8eaadd77-c425-4148-90d2-f024405be490@news.lavillerose.com
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261221
-SUMMARY:XYZT\, Les Paysages Abstraits
-DESCRIPTION:Du 17 octobre au 20 décembre 2026\, le Quai des Savoirs accuei
- lle XYZT\, Les Paysages Abstraits\, une exposition interactive à la crois
- ée de l'art numérique\, des sciences et des technologies. Neuf installat
- ions immersives invitent les visiteurs à marcher dans une herbe virtuelle
- \, toucher une eau numérique ou traverser des nuages de lumière. L'origi
- nalité du dispositif réside dans l'interactivité : chaque geste et chaq
- ue déplacement transforment les paysages en temps réel. Une expérience 
- sensorielle\n\nSource\: https://www.toulouse-tourisme.com/agenda/experienc
- e-immersive-xyzt-les-paysages-abstraits/
-URL:https://www.toulouse-tourisme.com/agenda/experience-immersive-xyzt-les-
- paysages-abstraits/?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
- use-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:ce7b374f-74ba-4e80-8543-52cb8d370f69@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
@@ -23325,18 +23307,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:800f129e-348b-4745-b398-2a9f56a65b1e@news.lavillerose.com
 DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
 SUMMARY:Marché du Manque Alimentaire
-DESCRIPTION:Ce mercredi 4 novembre 2026\, la Banque Alimentaire de Toulouse
-  et sa région (BA31) installe un faux marché aux étals vides sur l'espl
- anade François-Mitterrand\, près du métro Jean-Jaurès\, de 9h à 16h. 
- L'opération\, baptisée « Le marché du manque alimentaire »\, détourn
- e les codes du marché traditionnel — cagettes vides\, ardoises affichan
- t « en manque » à la place des prix — pour alerter sur la précarité
-  alimentaire qui touche des milliers de Toulousains. Salariés et bénévo
- les seront présents pour e\n\nSource\: https://actu.fr/occitanie/toulouse
- _31555/pourquoi-un-faux-marche-avec-des-etals-vides-est-organise-en-plein-
- centre-ville-de-toulouse-ce-mercredi_65007236.html
+DESCRIPTION:La Banque Alimentaire de Toulouse et sa région (BA31) organise
+  le mercredi 4 novembre une opération de sensibilisation inédite sur l'e
+ splanade François-Mitterrand\, près du métro Jean-Jaurès : un faux mar
+ ché avec des cagettes vides et des ardoises affichant « en manque » à 
+ la place des prix. L'objectif est d'alerter les passants sur la précarit
+ é alimentaire\, qui touche plus de 38 000 personnes chaque semaine dans l
+ a région. De 9h à 16h\, bénévoles et salariés seront présents pour e
+ xpliquer la déma\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pou
+ rquoi-un-faux-marche-avec-des-etals-vides-est-organise-en-plein-centre-vil
+ le-de-toulouse-ce-mercredi_65007236.html
 LOCATION:esplanade François-Mitterrand\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-un-faux-marche-avec-d
  es-etals-vides-est-organise-en-plein-centre-ville-de-toulouse-ce-mercredi_
@@ -23381,6 +23363,23 @@ DESCRIPTION:La pièce comique « Mon Mari est un Sale Gosse » est programm
  n-mari-est-un-sale-gosse/
 URL:https://www.toulouse-tourisme.com/agenda/mon-mari-est-un-sale-gosse/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8eaadd77-c425-4148-90d2-f024405be490@news.lavillerose.com
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261221
+SUMMARY:XYZT\, les Paysages Abstraits
+DESCRIPTION:Le Quai des Savoirs propose l'exposition immersive XYZT\, les p
+ aysages abstraits\, jusqu'au 20 décembre 2026\, à l'occasion de ses 10 a
+ ns. Cette expérience se situe à la croisée des arts\, des sciences et d
+ es technologies : les visiteurs interagissent avec des paysages numérique
+ s abstraits grâce à leurs gestes. L'entrée est à 9 € (5 € en tarif
+  réduit) et gratuite le premier dimanche du mois. L'exposition s'adresse 
+ à tous les publics souhaitant explorer une nature revisitée de manière 
+ sensorielle et \n\nSource\: https://www.clutchmag.fr/evenements#2026-11-05
+ -jeudi-5-novembre-0
+URL:https://www.clutchmag.fr/evenements#2026-11-05-jeudi-5-novembre-0?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b12d2c50-650a-4010-bfcd-e09130275867@news.lavillerose.com
@@ -23609,6 +23608,26 @@ DESCRIPTION:L'exposition des 111 des Arts ouvre ses portes à la chapelle d
  6-11-05#54512
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-05#54512?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:66b9f627-cf90-4e8f-a9c1-e8b1bc8a6c2c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+SUMMARY:Pony Pony Run Run & Renan Luce – Interference
+DESCRIPTION:La salle Interference à Balma accueille deux soirées consécu
+ tives sur le thème des années 2000-2010 : ce jeudi 5 novembre\, Renan Lu
+ ce fête ses 20 ans de carrière sur scène\, et vendredi 6 novembre\, le 
+ duo électro-pop Pony Pony Run Run fait son grand retour après une décen
+ nie de discrétion. Pony Pony Run Run\, connus pour leur tube "Hey You"\, 
+ ont relancé leur activité en juin avec le single "Get Away" et préparen
+ t un nouvel album pour février prochain. En première partie du concert d
+ u vendredi\, l'a\n\nSource\: https://www.toulouscope.fr/2026/11/05/ces-deu
+ x-soirees-a-interference-vont-reveiller-vos-souvenirs-des-annees-2000-et-2
+ 010-13637170.php
+LOCATION:salle Interference\, Toulouse
+URL:https://www.toulouscope.fr/2026/11/05/ces-deux-soirees-a-interference-v
+ ont-reveiller-vos-souvenirs-des-annees-2000-et-2010-13637170.php?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d609d4a-8f17-4ef0-87b4-f6177466bc67@news.lavillerose.com
@@ -23860,6 +23879,112 @@ URL:https://www.lessentiel.fr/idees-sorties/2026-11-02-1?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:0b7fc87c-5065-4815-9cbc-6d95687ba168@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Zangbeto
+DESCRIPTION:Le groupe Zangbeto se produit au Taquin Jazz Club\, à Toulouse
+ \, le vendredi 6 novembre à partir de 21h. Le concert est proposé à un 
+ tarif d'entrée compris entre 8 et 12 euros. Cette soirée jazz s'inscrit 
+ dans la programmation régulière du club\, l'une des adresses incontourna
+ bles de la scène jazz toulousaine. Les amateurs de jazz live auront l'occ
+ asion de découvrir ou retrouver Zangbeto dans une ambiance intimiste.\n\n
+ Source\: https://www.clutchmag.fr/evenements#2026-11-05-vendredi-6-novembr
+ e-2
+URL:https://www.clutchmag.fr/evenements#2026-11-05-vendredi-6-novembre-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0e4c196c-9787-4666-85bb-6f2ff6644c83@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:L'Europe sur grand écran
+DESCRIPTION:Du 6 au 8 novembre\, le cluster Eunic de Toulouse programme cin
+ q films européens au cinéma Le Cratère\, au 95 Grande Rue Saint-Michel.
+  L'initiative rassemble l'Alliance française\, la Dante Alighieri\, le Go
+ ethe-Institut\, l'Institut Cervantes et les Jeunes Européens de Toulouse\
+ , avec pour ambition de faire découvrir l'Europe « autrement » par le c
+ inéma. Au programme notamment : Fatherland de Pawel Pawlikowski (Pologne)
+ \, retraçant le retour de Thomas Mann en Allemagne en 1949\, Los domingos
+  d'Alauda R\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026
+ -11-06#54521
+LOCATION:Rue Saint-Michel\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-06#54521?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:11352f7d-92cf-40ae-ad39-8cfbf02c2d18@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Pony Pony Run Run
+DESCRIPTION:Le groupe de pop français Pony Pony Run Run se produit à l'In
+ terférence (Toulouse) le vendredi 6 novembre\, à partir de 20h. Les plac
+ es sont proposées au tarif de 29 €. Peu d'informations supplémentaires
+  sont disponibles dans la source\, mais le concert s'annonce comme une soi
+ rée pop dans une salle toulousaine. Les amateurs du groupe et de pop fran
+ çaise sont le public cible de cet événement.\n\nSource\: https://www.cl
+ utchmag.fr/evenements#2026-11-05-vendredi-6-novembre-1
+LOCATION:places sont proposées au tarif de 29 €\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-11-05-vendredi-6-novembre-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:98eacd4e-0a23-4d16-a3a4-d9e02a8e2703@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Agenda du week-end à Toulouse : culture\, terroir et découvertes
+DESCRIPTION:Toulouse Métropole propose un agenda chargé pour le week-end\
+ , mêlant expositions\, festivals\, cinéma et danse. L'exposition « Bal 
+ au grand hôtel » invite à replonger dans le Toulouse de la Belle Époqu
+ e jusqu'en octobre 2027\, tandis que plusieurs festivals se tiennent jusqu
+ 'à mi-novembre : Africlap (cinémas d'Afrique)\, Kinopolska (cinéma polo
+ nais)\, NeufNeuf (danse contemporaine) et Women Metronum Academy (créatio
+ n féminine). Le week-end du 6 au 8 novembre est particulièrement dense a
+ vec la Convent\n\nSource\: http://cdt31.tourinsoft.com/view.ashx?email=8f6
+ e70ad-af09-4ffc-8445-8f63936b6a6a
+URL:http://cdt31.tourinsoft.com/view.ashx?email=8f6e70ad-af09-4ffc-8445-8f6
+ 3936b6a6a?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a78af127-1c95-41e6-9de2-8b0db876e218@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Vernissage Jenna Rozz
+DESCRIPTION:L'artiste Jenna Rozz expose ses œuvres au Flashback Café à T
+ oulouse ce vendredi 6 novembre\, de 19h à 21h\, dans le cadre de l'exposi
+ tion mensuelle organisée par le magazine Clutch. Connue pour ses collages
+  visibles dans les rues de Toulouse\, à la caserne Vion lors du festival 
+ Mister Freeze et aux Abattoirs lors d'événements queer\, Jenna Rozz dév
+ eloppe un univers à la fois doux et corrosif\, drôle et décalé. Son tr
+ avail\, intimement politique\, traduit en images le sentiment d'injustice 
+ à travers une\n\nSource\: https://www.clutchmag.fr/evenements#2026-11-05-
+ vendredi-6-novembre-0
+LOCATION:rues de Toulouse\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-11-05-vendredi-6-novembre-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c9393398-633f-4727-90dc-88a89e589bbd@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:Inauguration Voile Blanche Hiver
+DESCRIPTION:La Voile Blanche\, institution festive emblématique au nord de
+  Toulouse\, a entrepris une transformation complète de son espace intéri
+ eur en vue de la saison hivernale. Mobilier\, éclairages\, bar et piste d
+ e danse ont été entièrement repensés par le directeur Jean-Christophe 
+ Gonzalez et son équipe. Une nouvelle carte culinaire axée sur le partage
+  — petites assiettes et créations à partager — accompagne ces change
+ ments\, tout comme une programmation musicale renouvelée. Le week-end d'i
+ nauguration off\n\nSource\: https://actu.fr/occitanie/toulouse_31555/nouve
+ aux-decors-et-nouvelle-cuisine-la-voile-blanche-celebre-institution-de-tou
+ louse-passe-en-mode-hiver_65021189.html
+LOCATION:espace intérieur en vue de la saison hivernale\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/nouveaux-decors-et-nouvelle-cu
+ isine-la-voile-blanche-celebre-institution-de-toulouse-passe-en-mode-hiver
+ _65021189.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2152ac9a-db63-4bfe-8125-192a450254bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
@@ -24093,22 +24218,22 @@ BEGIN:VEVENT
 UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
-SUMMARY:Que faire à Toulouse ce week-end : concerts\, brocante\, vins et c
- hocolats
-DESCRIPTION:Deux sélections de sorties couvrent les activités à Toulouse
-  pour le week-end de la Toussaint et le week-end du 7-8 novembre 2026\, pr
- oposant chacune un programme varié entre musique live\, gastronomie et cu
- lture. Côté concerts\, les Zoufris Maracas jouent au Bikini\, Storm Orch
- estra se produit au Rex\, et The World of Hans Zimmer investit le Zénith 
- pour un concert orchestral immersif autour des grandes musiques de film. D
- u côté gourmand\, les Salons Vins & Terroirs et Chocolat & Gourmandises 
- réunisse\n\nSource\: https://actu.fr/occitanie/toulouse_31555/parce-qu-il
- -n-y-a-pas-qu-halloween-dans-la-vie-que-faire-ce-week-end-de-toussaint-a-t
- oulouse-et-dans-ses-environs_64975568.html
-URL:https://actu.fr/occitanie/toulouse_31555/parce-qu-il-n-y-a-pas-qu-hallo
- ween-dans-la-vie-que-faire-ce-week-end-de-toussaint-a-toulouse-et-dans-ses
- -environs_64975568.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
- oulouse-agenda
+SUMMARY:Que faire à Toulouse ce week-end du 7 et 8 novembre 2026
+DESCRIPTION:Les deux sources proposent une sélection de sorties pour le we
+ ek-end du 7 et 8 novembre 2026 à Toulouse. Au programme : concerts (Storm
+  Orchestra au Rex\, The World of Hans Zimmer au Zénith)\, festival de cul
+ ture japonaise Boon Ka-Saï aux Halles de la Cartoucherie\, exposition Bel
+ le Époque « Bal au Grand Hôtel » aux Jacobins\, et plusieurs brocantes
+  et braderies dont celle des allées François Verdier. Les amateurs de st
+ reet-art à vélo\, de marchés et d'événements familiaux trouveront ég
+ alement leur b\n\nSource\: https://actu.fr/occitanie/toulouse_31555/street
+ -art-a-velo-bandes-originales-brocante-et-concerts-que-faire-a-toulouse-ce
+ -week-end-et-les-jours-qui-suivent_65004292.html
+LOCATION:Halles de la Cartoucherie\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/street-art-a-velo-bandes-origi
+ nales-brocante-et-concerts-que-faire-a-toulouse-ce-week-end-et-les-jours-q
+ ui-suivent_65004292.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b8ffed37-e253-4e44-80dc-e1fdb7978840@news.lavillerose.com
@@ -24182,6 +24307,53 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-04#54347?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:35c90be4-ee4c-4e5b-9d0f-08284fce353b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Cellule de Crise & ONPC
+DESCRIPTION:Les chorales Cellule de Crise et ONPC se produisent ensemble lo
+ rs d'un concert exceptionnel à la Salle des Fêtes de Ramonville. L'évé
+ nement est présenté comme un « cabaret vocal engagé »\, mêlant perfo
+ rmance chorale et prise de position artistique. La soirée débute à 19h3
+ 0 et l'entrée est fixée à 10 €. Un rendez-vous à noter pour les amat
+ eurs de chant choral dans la banlieue sud de Toulouse.\n\nSource\: https:/
+ /www.clutchmag.fr/evenements#2026-11-05-samedi-7-novembre-1
+LOCATION:Salle des Fêtes de Ramonville\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-11-05-samedi-7-novembre-1?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6be0d547-d28a-4ef4-a24e-2c4e6c3f5a2b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Pause Clutch – Musée Ingres Bourdelle
+DESCRIPTION:La collective Clutch organise une soirée événement au Musée
+  Ingres Bourdelle de Montauban le samedi 7 novembre\, de 15h à 22h\, pour
+  marquer la clôture de l'exposition « Ingres et la mode ». Au programme
+  : DJ sets\, maquillage\, tatouage\, sérigraphie\, performances\, spectac
+ les et petite restauration. C'est la deuxième édition de la Pause Clutch
+  à Montauban\, après une première incursion jugée réussie. L'entrée 
+ est entièrement gratuite.\n\nSource\: https://www.clutchmag.fr/evenements
+ #2026-11-05-samedi-7-novembre-0
+URL:https://www.clutchmag.fr/evenements#2026-11-05-samedi-7-novembre-0?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f15108b9-bfb5-425e-ba77-b131c8e8dc18@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Electronyx
+DESCRIPTION:La soirée Electronyx investit le Dagobar le samedi 7 novembre 
+ pour une nuit dédiée à la techno et à la hard techno. L'entrée est gr
+ atuite et les portes ouvrent à 22h. L'événement s'adresse aux amateurs 
+ de musiques électroniques dures\, dans l'un des lieux alternatifs de Toul
+ ouse. Peu de détails supplémentaires sont disponibles au-delà du format
+  et de l'horaire.\n\nSource\: https://www.clutchmag.fr/evenements#2026-11-
+ 05-samedi-7-novembre-2
+URL:https://www.clutchmag.fr/evenements#2026-11-05-samedi-7-novembre-2?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
@@ -24222,18 +24394,15 @@ UID:cluster:3c9d5435-211d-41ab-97a2-a8835042eaee@news.lavillerose.com
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Convention du Disque de Toulouse
-DESCRIPTION:La salle mythique du Bikini accueille la 28e Convention du Disq
- ue de Toulouse le 8 novembre 2026. Des dizaines de milliers de vinyles (45
- T\, 33T)\, CD\, DVD\, accessoires et produits dérivés seront proposés p
- ar de nombreux exposants — professionnels\, particuliers et associations
- . Tous les genres musicaux sont représentés : rock\, punk\, soul\, funk\
- , hip-hop\, jazz\, électro\, variétés françaises et internationales. L
- es visiteurs pourront déambuler toute la journée parmi les boutiques ép
- hémères et profiter\n\nSource\: https://www.toulouse-tourisme.com/agenda
- /28e-convention-du-disque-de-toulouse/
-LOCATION:salle mythique du Bikini accueille la 28e Convention\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/28e-convention-du-disque-de-to
- ulouse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:La 28ème Convention du Disque de Toulouse se tient au Bikini l
+ e dimanche 8 novembre\, à partir de 10h. L'entrée est proposée à tarif
+  réduit\, à 3 euros. Cet événement rassemble collectionneurs\, disquai
+ res et amateurs de musique autour de la vente et de l'échange de vinyles 
+ et autres supports musicaux. L'information est issue d'une annonce très s
+ uccincte\, sans détail sur les exposants ou la programmation.\n\nSource\:
+  https://www.clutchmag.fr/evenements#2026-11-05-dimanche-8-novembre-0
+URL:https://www.clutchmag.fr/evenements#2026-11-05-dimanche-8-novembre-0?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:45fdf4b3-c471-4db5-ac1f-95e33d368ce5@news.lavillerose.com
@@ -24251,6 +24420,24 @@ DESCRIPTION:Novembre devient Movember à Toulouse\, avec deux courses organ
  11-02#54055
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-02#54055?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:04bbc0f7-2fd1-4b30-9f8e-c2111566391f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:BOON KA-SAI
+DESCRIPTION:Le BOON KA-SAI est un événement dédié à la culture japonai
+ se organisé aux Halles de la Cartoucherie à Toulouse. La manifestation s
+ e tient un dimanche à partir de 10h et l'entrée est entièrement gratuit
+ e. L'événement s'adresse à tous les publics intéressés par la culture
+  japonaise sous ses différentes formes. Les informations disponibles rest
+ ent succinctes\, mais l'accès libre et la tenue dans ce lieu emblématiqu
+ e de la Cartoucherie en font une sortie accessible à toute la famille.\n\
+ nSource\: https://www.clutchmag.fr/evenements#2026-11-05-dimanche-8-novemb
+ re-1
+LOCATION:Halles de la Cartoucherie\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-11-05-dimanche-8-novembre-1?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4dcce612-2c41-4b58-b56d-97083f95437f@news.lavillerose.com
@@ -24396,6 +24583,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/ecrire-une-lettre-a-son-futur-
  soi-pour-sa-deuxieme-adresse-ce-cafe-propose-un-concept-inedit-a-toulouse_
  65003680.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a828cfd3-9e04-4804-9474-f291bd7b8cb8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Coffee Crash x Melting Spot
+DESCRIPTION:Le mardi 10 novembre à 20h\, le MAC (capsule culturelle) accue
+ ille Coffee Crash et Melting Spot dans le cadre d'une soirée rock baptis
+ ée Coffee Crash x Melting Spot. Les deux groupes sont issus de la scène 
+ étudiante toulousaine et ont été récompensés par le tremplin Pulsatio
+ ns du CROUS. Coffee Crash propose un rock garage brut et électrisant\, ta
+ ndis que Melting Spot offre une approche pop-rock à la complicité artist
+ ique affirmée. L'entrée est gratuite pour les étudiants et fixée à 5 
+ € pour le res\n\nSource\: https://www.clutchmag.fr/evenements#2026-11-05
+ -dimanche-8-novembre-2
+URL:https://www.clutchmag.fr/evenements#2026-11-05-dimanche-8-novembre-2?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:36b47c33-4944-4845-8582-3d98bee06015@news.lavillerose.com
@@ -24656,6 +24860,23 @@ URL:https://www.toulouscope.fr/2026/10/27/a-1h30-de-toulouse-ce-rendez-vous
  -culturel-revient-avec-debats-conferences-et-animations-jeunesse-pour-sa-6
  -edition-13616649.php?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a0b50f32-f40b-449d-864a-f02413a523e6@news.lavillerose.com
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+SUMMARY:Les Animés
+DESCRIPTION:Le festival Les Animés se tient du 12 au 14 novembre 2026 au C
+ inéma Jean Marais à Toulouse\, avec un programme dédié au cinéma d'an
+ imation. Le public pourra découvrir en avant-première le long-métrage 
+ « Carmen\, l'oiseau rebelle »\, suivre des rencontres professionnelles a
+ utour de l'animation\, et participer à Talents d'Oc\, une sélection de 5
+  artistes plasticiens d'Occitanie présentant leurs courts-métrages. Le f
+ estival propose également un concert dessiné en direct avec l'artiste La
+ urent Bonneau et\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-
+ animes/
+URL:https://www.toulouse-tourisme.com/agenda/les-animes/?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
@@ -25203,6 +25424,41 @@ URL:https://www.toulouse-tourisme.com/agenda/la-course-des-lumieres/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:713c44cc-e4f0-4ca4-be28-59430e007d52@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Napoléon III\, l'archéologie au service de la politique
+DESCRIPTION:Le Musée Saint-Raymond\, musée d'archéologie de Toulouse\, a
+ ccueille une exposition temporaire consacrée à Napoléon III et à son u
+ sage politique de l'archéologie. L'exposition explore comment l'empereur 
+ voyait en Jules César un modèle de gouvernance\, s'appuyant sur la figur
+ e du conquérant des Gaules pour légitimer son propre pouvoir. Des chefs-
+ d'œuvre du musée d'Archéologie nationale — fondé par Napoléon III e
+ n 1862 dans le château de Saint-Germain-en-Laye — sont présentés à c
+ ette occasion. La vis\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /napoleon-iii-larcheologie-au-service-de-la-politique/
+URL:https://www.toulouse-tourisme.com/agenda/napoleon-iii-larcheologie-au-s
+ ervice-de-la-politique/?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:85d44635-bf5e-4682-abc2-9d334275114a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Chaux Must Go On !
+DESCRIPTION:Le Musée Saint-Raymond\, musée d'archéologie de Toulouse\, p
+ ropose une visite ou activité intitulée « Chaux Must Go On ! » le 14 n
+ ovembre 2026. L'événement invite le public à découvrir un aspect méco
+ nnu du site : à la fin de l'Antiquité\, de grandes quantités de marbre 
+ y étaient brûlées pour produire de la chaux\, sur le lieu même où se 
+ trouvent aujourd'hui les célèbres collections de sculptures en marbre. A
+ ucune réservation n'est nécessaire et l'accès est inclus dans le billet
+  d'entrée habituel du \n\nSource\: https://www.toulouse-tourisme.com/agen
+ da/chaux-must-go-on/
+URL:https://www.toulouse-tourisme.com/agenda/chaux-must-go-on/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4@news.lavillerose.com
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -25656,6 +25912,24 @@ DESCRIPTION:Le COMDT accueille une soirée de bal folk le 19 novembre 2026\
  e/
 URL:https://www.toulouse-tourisme.com/agenda/bal-avec-la-malene/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e68ac533-366f-4c36-8815-6a901ad82875@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Danton & Robespierre – Théâtre de Poche
+DESCRIPTION:Le Théâtre de Poche accueille « Danton & Robespierre : Les R
+ acines de la Liberté »\, une pièce de Hugues Leforestier mise en scène
+  par Giselle Grange. Le spectacle met en scène l'affrontement historique 
+ entre deux figures emblématiques de la Révolution française : Danton\, 
+ personnage excessif et épicurien\, face à Robespierre\, ascète inflexib
+ le et philosophe. Leur duel\, joué par Alain Courmont et Bernard Meyer\, 
+ interroge les valeurs de liberté\, d'égalité et de fraternité à l'omb
+ re de la guillotine.\n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ danton-robespierre-les-racines-de-la-liberte/
+URL:https://www.toulouse-tourisme.com/agenda/danton-robespierre-les-racines
+ -de-la-liberte/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6f9e24cf-02c9-4c24-8d19-9b65fb047902@news.lavillerose.com
@@ -26198,6 +26472,24 @@ DESCRIPTION:L'Hyrace\, course chronométrée de 8 km inspirée de l'Hyrox\,
  oulouse/2026-11-05#54515
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-05#54515?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5c9325ed-1b03-4b58-a57c-af99e5076f12@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:Week-end en famille – Musée Saint-Raymond
+DESCRIPTION:Le Musée Saint-Raymond\, musée d'archéologie de Toulouse\, p
+ ropose un week-end entier d'activités familiales les 21 et 22 novembre 20
+ 26. Au programme : jeux de cherche-et-trouve sur la Rome antique\, atelier
+ s cuisine romaine\, comparaison des dieux mythologiques avec les super-hé
+ ros\, écriture à l'Antique\, et exploration des habitudes gauloises à l
+ 'époque romaine. De nombreuses activités sont en accès libre tout au lo
+ ng des deux jours\, tandis que certains ateliers et visites nécessitent u
+ ne réservati\n\nSource\: https://www.toulouse-tourisme.com/agenda/week-en
+ d-en-famille-au-musee-saint-raymond/
+URL:https://www.toulouse-tourisme.com/agenda/week-end-en-famille-au-musee-s
+ aint-raymond/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
+ enda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db@news.lavillerose.com
@@ -26760,6 +27052,23 @@ DESCRIPTION:La sixième édition de FRAGMENTS investit l'Hôtel-Dieu-Saint-
  a/fragments-6/
 URL:https://www.toulouse-tourisme.com/agenda/fragments-6/?utm_source=ical&u
  tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:21846fb7-ce22-4001-b5f2-505c74535d19@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Clutch'O x Layup – Mondes Parallèles
+DESCRIPTION:Le Layup accueille une grande soirée événement Clutch'O le 2
+ 6 novembre 2026\, combinant art urbain\, musique et expériences immersive
+ s sur 6 étages et 5 000 m². L'exposition "Mondes Parallèles" (saison 6 
+ de l'expo Layup) réunit 75 artistes d'art urbain\, tandis que le festival
+  Cuba Hoy signe une carte blanche musicale en avant-goût de sa 30e éditi
+ on. Au programme également : salsa et musiques latines avec deejay_toscan
+ o\, percussions africaines\, silent party\, body painting\, session de des
+ sin\, gamepl\n\nSource\: https://www.toulouse-tourisme.com/agenda/clutcho-
+ x-layup-mondes-parralleles/
+URL:https://www.toulouse-tourisme.com/agenda/clutcho-x-layup-mondes-parrall
+ eles/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
@@ -29441,6 +29750,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/desperate-housemen-billet/
  mpaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:24788179-e06d-48c3-87d2-1e9b95835f22@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Emma de Foucaud
+DESCRIPTION:La comédienne Emma de Foucaud se produit à La Petite Comédie
+  de Toulouse le 31 décembre 2026\, pour un spectacle de comédie en fin d
+ 'année. La soirée du réveillon offre ainsi une alternative culturelle o
+ riginale aux festivités traditionnelles. L'information provient d'une fic
+ he Ticketmaster et reste succincte\, sans détail sur le contenu du specta
+ cle ni les horaires. Les amateurs de comédie souhaitant passer le Nouvel 
+ An autrement pourront envisager cette sortie.\n\nSource\: https://www.tick
+ etmaster.fr/fr/manifestation/emma-de-foucaud-billet/idmanif/677889/idseanc
+ e/4455380
+URL:https://www.ticketmaster.fr/fr/manifestation/emma-de-foucaud-billet/idm
+ anif/677889/idseance/4455380?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:49093275-11e9-4319-be89-122ff6c00f57@news.lavillerose.com
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
@@ -29472,6 +29799,23 @@ DESCRIPTION:Un concert de Noël consacré aux célèbres Quatre Saisons de
 URL:https://www.ticketmaster.fr/fr/manifestation/concert-de-noel-vivaldi-le
  s-4-saisons-billet/idmanif/677307/idseance/4451189?utm_source=ical&utm_med
  ium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e529de2c-5e6b-4b28-87a2-2075e915c203@news.lavillerose.com
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Paris Classik
+DESCRIPTION:L'Orchestre Paris Classik se produit à l'Église Saint-Aubin d
+ e Toulouse pour un concert mêlant musique classique et chants sacrés de 
+ Noël. Au programme : des chefs-d'œuvre de Vivaldi\, ainsi que des œuvre
+ s de Schubert et Caccini. L'événement est présenté comme une expérien
+ ce alliant tradition et émotion\, dans un cadre architectural propice à 
+ la musique sacrée. Ce concert s'adresse aux amateurs de musique classique
+  souhaitant célébrer les fêtes de fin d'année dans une atmosphère int
+ ime et spiritue\n\nSource\: https://www.toulouse-tourisme.com/agenda/conce
+ rt-classique-paris-classik/
+URL:https://www.toulouse-tourisme.com/agenda/concert-classique-paris-classi
+ k/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:285dc86f-994f-49b1-a223-2f33499979eb@news.lavillerose.com
@@ -30939,6 +31283,22 @@ DESCRIPTION:MJM Graphic Design Toulouse organise ses Portes Ouvertes\, invi
  ign/
 URL:https://www.toulouse-tourisme.com/agenda/mjm-graphic-design/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cb95f4d2-b814-46fe-a474-fcdd694a3a0b@news.lavillerose.com
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Electric Callboy – TANZNEID WORLD TOUR
+DESCRIPTION:Le groupe allemand Electric Callboy se produit au Zénith de To
+ ulouse le vendredi 29 janvier dans le cadre de son TANZNEID WORLD TOUR 202
+ 7. Connus pour leur mélange de metalcore festif\, de beats électroniques
+  et de refrains accrocheurs\, ils figurent parmi les groupes les plus en v
+ ue de la scène heavy actuelle. Le show s'inscrit dans une tournée mondia
+ le passant par les plus grandes arenas d'Europe. Les billets sont disponib
+ les entre 60\,90 € et 79\,60 €.\n\nSource\: https://www.clutchmag.fr/e
+ venements#2026-11-05-dimanche-8-novembre-3
+URL:https://www.clutchmag.fr/evenements#2026-11-05-dimanche-8-novembre-3?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0878a215-8d76-4719-95fd-47e258a62745@news.lavillerose.com
@@ -36092,6 +36452,21 @@ URL:https://www.ticketmaster.fr/fr/manifestation/pierre-antoine-damecour-ja
  m=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a78573a5-bce8-4666-b39d-fd5af01dec69@news.lavillerose.com
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Yanis Hariouli Zmigri
+DESCRIPTION:Le spectacle « Yanis Hariouli Zmigri » est programmé au Gran
+ d Théâtre 3T de Toulouse. L'événement est classé dans la catégorie A
+ rts & Théâtre. La date annoncée est le 27 mai 2027. Les informations di
+ sponibles restent succinctes\, sans détail sur le contenu artistique ou l
+ es tarifs.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/yanis-
+ hariouli-zmigri-billet/idmanif/677905/idseance/4455455
+URL:https://www.ticketmaster.fr/fr/manifestation/yanis-hariouli-zmigri-bill
+ et/idmanif/677905/idseance/4455455?utm_source=ical&utm_medium=calendar&utm
+ _campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:bb7c4048-7ad4-424a-b68a-4f360afca897@news.lavillerose.com
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
@@ -36926,6 +37301,23 @@ LOCATION:salle de spectacle reconnue\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/sofia-belabbes-billet/idma
  nif/667449/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c3d6f852-5f92-44a2-a449-8fa19a02f935@news.lavillerose.com
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:JESSÉ
+DESCRIPTION:Le comédien JESSÉ se produira à la Halle aux Grains de Toulo
+ use le 30 octobre 2027. Il s'agit d'un spectacle classé dans la catégori
+ e Arts & Théâtre / Comédie\, proposé via Ticketmaster. La Halle aux Gr
+ ains\, salle de référence toulousaine\, accueillera donc ce one-man-show
+  ou spectacle comique. Les amateurs de comédie et de scène peuvent d'ore
+ s et déjà noter la date.\n\nSource\: https://www.ticketmaster.fr/fr/mani
+ festation/jesse-billet/idmanif/675761/idseance/4440686
+LOCATION:Halle aux Grains de Toulouse le 30 octobre 2027\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/jesse-billet/idmanif/67576
+ 1/idseance/4440686?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:80a6a444-c7c5-4b3a-9cea-9c381506b205@news.lavillerose.com

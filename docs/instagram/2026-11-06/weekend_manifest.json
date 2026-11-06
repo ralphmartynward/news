@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-11-07",
+  "sunday": "2026-11-08",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8",
+      "title": "Le Tour du Monde en 80 Minutes au Théâtre Musical de Pibrac",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:bf96a8f5-bce0-46ae-af1d-872ab66abae3",
+      "title": "Rando-vélo gratuite à la découverte des graffitis de Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2152ac9a-db63-4bfe-8125-192a450254bc",
+      "title": "Arsène Lapin, Gentleman Carotteur à La Comédie de la Roseraie",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e4147a9d-5010-4177-b908-9a1505fb2ac8",
+      "title": "Mi-Homme Micro : Stephan Solo en show au Studio 55",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:13db3d55-1b7e-4084-ab9d-026d23959d17",
+      "title": "Storm Orchestra en concert rock au Rex de Toulouse",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:c1db6e79-d917-4f63-9217-44b3069cd103",
+      "title": "Helena en concert au Zénith Toulouse Métropole en novembre",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:af8a01fb-a8b9-4533-aec6-162bd886c774",
+      "title": "Murmures : spectacle nature au Petit Théâtre Saint-Exupère",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e9d6d022-57df-4dc8-a99c-313a476a8ab0",
+      "title": "Première de VORTEX par la Compagnie Trente Printemps à l'Espace Roguet",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2e2abe67-d94e-4a48-8589-2dd03cd10592",
+      "title": "Balade architecturale à deux voix sur le campus de Rangueil",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}
