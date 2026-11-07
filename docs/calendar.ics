@@ -21313,6 +21313,24 @@ URL:https://www.clutchmag.fr/evenements#2026-10-22-samedi-24-octobre-2?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:54c86e13-ddcb-482a-8f44-bd2a7e41ec87@news.lavillerose.com
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20270830
+SUMMARY:Les 80 ans d'EDF
+DESCRIPTION:L'Espace EDF Bazacle accueille une exposition retraçant huit d
+ écennies d'histoire d'EDF\, de sa création en 1946 à aujourd'hui. Le pa
+ rcours s'appuie sur des objets du quotidien pour montrer comment l'électr
+ icité a transformé les modes de vie des Français\, tout en mettant en l
+ umière les grandes réalisations industrielles — barrages hydroélectri
+ ques\, centrales nucléaires\, infrastructures de production. L'exposition
+  rend également hommage aux femmes et aux hommes qui ont bâti cette aven
+ ture technolo\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-80-
+ ans-dedf/
+LOCATION:Espace EDF Bazacle accueille une exposition retraçant\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-80-ans-dedf/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:53477bd2-5075-4e96-8985-b03c76141dc5@news.lavillerose.com
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
@@ -23575,18 +23593,18 @@ BEGIN:VEVENT
 UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Grève du 5 novembre : le cortège interdit en centre-ville de Toul
- ouse
-DESCRIPTION:L'intersyndicale (CGT\, FO\, CFDT et six autres syndicats) a ap
- pelé à une grève générale le jeudi 5 novembre 2026 à Toulouse contre
-  la vie chère\, les bas salaires et la dégradation des services publics\
- , rejointe par des lycéens\, étudiants et Gilets jaunes. Un bras de fer 
- a opposé les syndicats au préfet Fabrice Rigoulet-Roze\, qui a pris mard
- i soir un arrêté interdisant le parcours déclaré (Saint-Cyprien – al
- lées Jean-Jaurès via les boulevards) en raison des violences et dégrada
- tions des mobilisati\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
- greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifesta
- tion-sera-t-elle-interdite-a-toulouse_65004268.html
+SUMMARY:Grève du 5 novembre : cortège interdit en centre-ville\, mobilisa
+ tion maintenue à Toulouse
+DESCRIPTION:Le jeudi 5 novembre 2026\, une grève interprofessionnelle nati
+ onale s'est tenue à Toulouse\, réunissant syndicats (CGT\, FO\, CFDT\, C
+ FDT\, FSU31\, Solidaires\, CFTC…)\, lycéens\, étudiants et Gilets jaun
+ es contre la vie chère\, les bas salaires et la dégradation des services
+  publics. Le préfet Fabrice Rigoulet-Roze a pris mardi 3 novembre un arr
+ êté interdisant le parcours déclaré de Saint-Cyprien aux allées Jean-
+ Jaurès\, invoquant les violences survenues lors des mobilisations des 17\
+ , 24 et 31 octobre\, et \n\nSource\: https://actu.fr/occitanie/toulouse_31
+ 555/greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manif
+ estation-sera-t-elle-interdite-a-toulouse_65004268.html
 URL:https://actu.fr/occitanie/toulouse_31555/greve-du-5-novembre-le-prefet-
  tente-de-criminaliser-la-colere-la-manifestation-sera-t-elle-interdite-a-t
  oulouse_65004268.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
@@ -23628,6 +23646,27 @@ LOCATION:salle Interference\, Toulouse
 URL:https://www.toulouscope.fr/2026/11/05/ces-deux-soirees-a-interference-v
  ont-reveiller-vos-souvenirs-des-annees-2000-et-2010-13637170.php?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:11756c83-5359-4b38-8264-0acaf9403df1@news.lavillerose.com
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Les meilleures boulangeries de Haute-Garonne désignées par un jur
+ y de pros
+DESCRIPTION:Un concours organisé par l'Union des artisans boulangers pâti
+ ssiers de Haute-Garonne s'est tenu le jeudi 5 novembre 2026 à Plaisance-d
+ u-Touch\, à la maison des compagnons du devoir. Quatre catégories étaie
+ nt au programme : meilleur croissant\, meilleure brioche\, meilleure bague
+ tte tradition et meilleur sandwich\, avec une quinzaine de candidats volon
+ taires par catégorie. Le jury comptait dans ses rangs le chef étoilé Be
+ rtrand Millar et le fromager Meilleur ouvrier de France François Bourgon.
+  Parmi \n\nSource\: https://actu.fr/occitanie/toulouse_31555/meilleurs-cro
+ issant-brioche-baguette-tradition-et-sandwich-voici-les-boulangeries-ou-le
+ s-deguster-en-haute-garonne_65024753.html
+URL:https://actu.fr/occitanie/toulouse_31555/meilleurs-croissant-brioche-ba
+ guette-tradition-et-sandwich-voici-les-boulangeries-ou-les-deguster-en-hau
+ te-garonne_65024753.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d609d4a-8f17-4ef0-87b4-f6177466bc67@news.lavillerose.com
@@ -23879,6 +23918,26 @@ URL:https://www.lessentiel.fr/idees-sorties/2026-11-02-1?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4cadae2a-5ac9-4878-a00d-ccc024da565e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Marchés gourmands de fin d'année : artisans et producteurs du ter
+ roir à l'honneur
+DESCRIPTION:Deux marchés gourmands distincts permettent aux Toulousains de
+  préparer les fêtes en rencontrant directement producteurs et artisans. 
+ Le premier\, le Marché Complice\, se tient les 5 et 6 décembre 2026 au C
+ hâteau Arton à Lectoure (Gers)\, à 1h15 de Toulouse\, avec une trentain
+ e d'artisans et des petites assiettes à 5-7 € inspirées des food court
+ s. Le second\, un festival consacré au Gers et à la Gascogne\, investit 
+ les Halles de la Cartoucherie à Toulouse les 6 et 7 novembre 2026\, avec 
+ dégustations\, a\n\nSource\: https://www.toulouscope.fr/2026/11/04/a-1h15
+ -de-toulouse-ce-marche-gourmand-reunit-30-artisans-pour-preparer-noel-1362
+ 4438.php
+URL:https://www.toulouscope.fr/2026/11/04/a-1h15-de-toulouse-ce-marche-gour
+ mand-reunit-30-artisans-pour-preparer-noel-13624438.php?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:0b7fc87c-5065-4815-9cbc-6d95687ba168@news.lavillerose.com
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -23983,6 +24042,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/nouveaux-decors-et-nouvelle-cu
  isine-la-voile-blanche-celebre-institution-de-toulouse-passe-en-mode-hiver
  _65021189.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
  genda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9cceaadb-7c37-47ad-af3c-4ba4f21a4b93@news.lavillerose.com
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Pony Pony Run Run
+DESCRIPTION:Le duo d'électro-pop Pony Pony Run Run\, composé des frères 
+ Réchin Le KyHuong\, fait son retour sur scène et se produit à Toulouse 
+ à la salle Interférence le vendredi 6 novembre à 20h. Le groupe\, qui s
+ 'était retrouvé presque par hasard lors d'un concert anniversaire pour l
+ es 30 ans du Chabada à Angers\, a finalement décidé de transformer ce o
+ ne-shot en une véritable renaissance. Gaëtan\, chanteur et guitariste\, 
+ explique dans une interview que la complicité fraternelle au cœur du pro
+ jet est un moteur\n\nSource\: https://actu.fr/occitanie/toulouse_31555/pon
+ y-pony-run-run-les-prodiges-de-l-electro-pop-sont-a-toulouse-pour-un-conce
+ rt-evenement_65005274.html
+LOCATION:salle Interférence le vendredi 6 novembre\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/pony-pony-run-run-les-prodiges
+ -de-l-electro-pop-sont-a-toulouse-pour-un-concert-evenement_65005274.html?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2152ac9a-db63-4bfe-8125-192a450254bc@news.lavillerose.com
@@ -24438,6 +24517,24 @@ DESCRIPTION:Le BOON KA-SAI est un événement dédié à la culture japonai
 LOCATION:Halles de la Cartoucherie\, Toulouse
 URL:https://www.clutchmag.fr/evenements#2026-11-05-dimanche-8-novembre-1?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3245430c-dcf1-4836-9376-e3fd84969e59@news.lavillerose.com
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261116
+SUMMARY:Rencontres du Papier et du Livre
+DESCRIPTION:Les Rencontres du Papier et du Livre se tiennent à l'Espace Jo
+ b du 8 au 15 novembre 2026. L'événement place la liberté au cœur de sa
+  programmation\, explorant les liens entre livres\, lecture et liberté so
+ us toutes ses formes — liberté de la presse\, d'expression\, d'édition
+  et libertés publiques. Au programme : lectures\, spectacles\, ateliers\,
+  projections cinéma et échanges de livres. Cette manifestation culturell
+ e s'adresse à tous les amateurs de littérature et de culture à Toulouse
+ .\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-rencontres-du-p
+ apier-et-du-livre/
+LOCATION:Espace Job du 8 au 15 novembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-rencontres-du-papier-et-du
+ -livre/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4dcce612-2c41-4b58-b56d-97083f95437f@news.lavillerose.com
@@ -26846,19 +26943,21 @@ BEGIN:VEVENT
 UID:cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261228
-SUMMARY:Les marchés de Noël de Toulouse ouvrent fin novembre
-DESCRIPTION:Toulouse accueille plusieurs marchés de Noël à partir du 26 
- novembre 2026\, avec des dispositifs complémentaires répartis en différ
- ents lieux du centre-ville. Place du Capitole\, 94 chalets blancs proposen
- t cadeaux\, gourmandises\, patinoire et petit train\, tandis que le Square
-  Charles de Gaulle accueille une douzaine de chalets dont quatre réservé
- s aux jeunes créateurs\, ainsi qu'une maison du Père Noël. Sur les All
- ées Jules Guesde\, le marché de l'Économie Sociale et Solidaire « Les 
- Allées Enchantée\n\nSource\: https://www.toulouse-tourisme.com/agenda/ma
- rche-de-noel-les-allees-enchantees/
-LOCATION:Place du Capitole\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-les-allees-ench
- antees/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Marché de Noël de Toulouse
+DESCRIPTION:Le marché de Noël de Toulouse se tiendra du jeudi 26 novembre
+  au dimanche 27 décembre 2026\, réparti sur plusieurs sites : place du C
+ apitole\, cour Henri IV\, square Charles-de-Gaulle et allées Jean-Jaurès
+ . Grande nouveauté cette année : l'organisation a été confiée à un n
+ ouveau prestataire\, le groupe 2A organisation\, qui promet une nouvelle s
+ cénographie pour enrichir le parcours de visite. La patinoire de la place
+  du Capitole sera également de retour et restera accessible jusqu'au 3 ja
+ nvier 2027\, \n\nSource\: https://actu.fr/occitanie/toulouse_31555/voici-l
+ es-dates-du-prochain-marche-de-noel-place-du-capitole-a-toulouse-des-nouve
+ autes-annoncees_65026056.html
+LOCATION:place du Capitole\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/voici-les-dates-du-prochain-ma
+ rche-de-noel-place-du-capitole-a-toulouse-des-nouveautes-annoncees_6502605
+ 6.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d827e3e-c132-4642-a63d-66823a9bdeea@news.lavillerose.com
@@ -28071,6 +28170,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/toulouse-fc-paris-saint-ge
  lendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:9828fa41-83d5-44d5-9d5d-79ff4a64ed3e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Grand Cirque de Noël de Toulouse
+DESCRIPTION:Le Grand Cirque de Noël de Toulouse revient à l'Hippodrome de
+  la Cépière à partir du 4 décembre 2026 avec un tout nouveau spectacle
+ . La production réunit une brochette d'artistes internationaux : acrobate
+ s japonais\, clown allemand Berty Balder\, duo aérien en tissus\, jongleu
+ r bulgare Ivan Radev et la spectaculaire Roue de la Mort des Acosta Brothe
+ rs. On retrouve également la Face Team hongroise qui transforme le basket
+ ball en acrobatie\, le Duo Niuman pour des lancers de couteaux\, et le Duo
+  Extrav\n\nSource\: https://www.toulouse-tourisme.com/agenda/grand-cirque-
+ de-noel-de-toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/grand-cirque-de-noel-de-toulou
+ se/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:01976ac9-f03a-443c-b1ba-477c81c0e288@news.lavillerose.com
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -28225,25 +28341,6 @@ DESCRIPTION:L'exposition « Białowieża\, la forêt vivante de Lech & Simo
 URL:https://www.toulouse-tourisme.com/agenda/bialowieza-la-foret-vivante-de
  -lech-simona/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:4cadae2a-5ac9-4878-a00d-ccc024da565e@news.lavillerose.com
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
-SUMMARY:Marché Complice
-DESCRIPTION:Les 5 et 6 décembre 2026\, le Château Arton à Lectoure accue
- ille le Marché Complice\, un marché gourmand réunissant une trentaine d
- 'artisans et producteurs dans ses chais. Organisé avec le Collège Culina
- ire de France\, ce collectif fondé en 2011 défend l'artisanat culinaire 
- face à l'industrialisation alimentaire. Les visiteurs pourront déguster 
- des petites assiettes à 5 € et 7 € inspirées des food courts\, passe
- r des commandes pour Noël et dénicher des cadeaux gourmands à glisser s
- ous le sapin. L'év\n\nSource\: https://www.toulouscope.fr/2026/11/04/a-1h
- 15-de-toulouse-ce-marche-gourmand-reunit-30-artisans-pour-preparer-noel-13
- 624438.php
-URL:https://www.toulouscope.fr/2026/11/04/a-1h15-de-toulouse-ce-marche-gour
- mand-reunit-30-artisans-pour-preparer-noel-13624438.php?utm_source=ical&ut
- m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ac44d84a-eee5-4ef3-8861-ecfa38a1490d@news.lavillerose.com
@@ -29768,6 +29865,109 @@ URL:https://www.ticketmaster.fr/fr/manifestation/emma-de-foucaud-billet/idm
  ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6b5c50a5-4247-4efe-9672-91f2d80681fc@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Deux soirées réveillon avec spectacles au Café-Théâtre les 3T 
+ et au Citron Bleu
+DESCRIPTION:Deux salles toulousaines proposent des soirées réveillon avec
+  spectacles vivants le 31 décembre 2026. Le Café-Théâtre les 3T affich
+ e 9 pièces réparties sur trois créneaux (18h45\, 21h et 23h)\, avec cha
+ mpagne\, chocolats fins et passage à minuit en compagnie des comédiens. 
+ Le Citron Bleu mise sur l'improvisation avec Les Instantané-es\, égaleme
+ nt en trois séances (19h\, 21h\, 23h)\, dont une dernière avec confettis
+  et fiesta pour accueillir 2027 sur scène. Un panier grignotage festif (s
+ ucré/salé) est d\n\nSource\: https://www.toulouse-tourisme.com/agenda/re
+ veillon-du-nouvel-an-aux-3t/
+LOCATION:salles toulousaines proposent des soirées réveillon a\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/reveillon-du-nouvel-an-aux-3t/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6e432dc5-aa63-4596-b573-8e6fb8c0b010@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Réveillon Saint-Sylvestre Mondonville
+DESCRIPTION:Le Comité des fêtes de Mondonville organise une soirée de r
+ éveillon à la Salle Orion le 31 décembre 2026 pour fêter le passage à
+  la nouvelle année. Au programme : un repas traiteur autour de la cuisine
+  française et une animation DJ pour accompagner les convives jusqu'au bou
+ t de la nuit. Les places sont limitées\, et une réservation anticipée e
+ st fortement conseillée. L'événement s'adresse aux habitants de Mondonv
+ ille et de ses environs souhaitant célébrer en communauté.\n\nSource\: 
+ https://www.toulouse-tourisme.com/agenda/reveillon-de-la-saint-sylvestre/
+LOCATION:Salle Orion le 31 décembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/reveillon-de-la-saint-sylvestr
+ e/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7983787d-0a6a-4a6c-b11d-6fc9c5301dbc@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Le Dîner de Cons
+DESCRIPTION:La pièce culte « Le Dîner de Cons » est programmée à L'Es
+ cale à Toulouse. Le principe du spectacle est fidèle à l'original : Pie
+ rre Bronchant et ses amis se retrouvent chaque mercredi pour un jeu cruel 
+ consistant à amener le « con » le plus remarquable de la semaine. Mais 
+ la pièce dépasse la simple farce : elle retourne progressivement le rega
+ rd sur ceux qui jugent\, en livrant une critique acérée de l'arrogance d
+ e classe. La soirée est proposée à un tarif unique incluant bulles et g
+ ourmandises\, \n\nSource\: https://www.toulouse-tourisme.com/agenda/le-din
+ er-de-cons/
+URL:https://www.toulouse-tourisme.com/agenda/le-diner-de-cons/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:85a3d5bf-3890-4f10-9389-97e79d522d8e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Le Kalinka Fête 2027
+DESCRIPTION:Le Kalinka\, restaurant toulousain à l'atmosphère élégante 
+ et conviviale\, propose un dîner-spectacle exclusif pour fêter le passag
+ e à l'année 2027\, le 31 décembre 2026. La soirée comprend un apériti
+ f d'accueil\, un repas prestige\, une bouteille de champagne pour deux et 
+ un spectacle conçu spécialement pour l'événement. Les places sont volo
+ ntairement limitées afin de préserver l'intimité et le charme de la nui
+ t. L'événement s'adresse aux amateurs de fêtes de fin d'année raffiné
+ es\, en petit comité.\n\nSource\: https://www.toulouse-tourisme.com/agend
+ a/le-kalinka-fete-2027/
+URL:https://www.toulouse-tourisme.com/agenda/le-kalinka-fete-2027/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d859ae80-88eb-4e4e-98a6-4b2f35359d17@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270102
+SUMMARY:Concert du Nouvel An
+DESCRIPTION:Le Casino Barrière de Toulouse propose plusieurs formules pour
+  fêter le réveillon du 31 décembre et le Nouvel An. Les festivités inc
+ luent dîner\, soirée clubbing\, dîner-spectacle\, spectacle seul\, ains
+ i qu'un déjeuner le 1er janvier pour prolonger les célébrations. L'offr
+ e s'adresse à tous les budgets et envies\, des amateurs de gastronomie au
+ x noctambules. C'est une option clé en main pour les Toulousains qui cher
+ chent à célébrer la Saint-Sylvestre dans un cadre festif et organisé.\
+ n\nSource\: https://www.toulouse-tourisme.com/agenda/concert-du-nouvel-an/
+URL:https://www.toulouse-tourisme.com/agenda/concert-du-nouvel-an/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d93e5eb9-cc55-4518-8d1f-5f52b424a4a5@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:La Grande Fuite of la Bourgeoisie
+DESCRIPTION:La compagnie Le Périscope revient au Théâtre du Grand Rond a
+ vec « La Grande Fuite of la Bourgeoisie »\, une pièce absurde et jubila
+ toire écrite par Romane Nicolas. L'histoire suit un milliardaire rattrap
+ é par la justice sur son yacht\, entraîné dans une course-poursuite dé
+ lirante peuplée d'aliens\, d'inspecteurs des impôts\, d'un poireau du Ve
+ rcors et d'Arsène le chaton antifasciste. La mise en scène du Périscope
+ \, déjà remarquée avec Les Forains et Welcome to the World\, promet un 
+ enchaînement de tab\n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ la-grande-fuite-of-la-bourgeoisie/
+URL:https://www.toulouse-tourisme.com/agenda/la-grande-fuite-of-la-bourgeoi
+ sie/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:49093275-11e9-4319-be89-122ff6c00f57@news.lavillerose.com
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
@@ -29903,6 +30103,23 @@ DESCRIPTION:L'historien et critique d'art Hector Obalk se produira au Casin
 URL:https://www.ticketmaster.fr/fr/manifestation/hector-obalk-billet/idmani
  f/638487/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5ecd6b87-0a94-4871-b109-972b26be08db@news.lavillerose.com
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:La VF Improvisée
+DESCRIPTION:La compagnie d'improvisation La Bulle Carrée propose deux spec
+ tacles distincts à Toulouse : « La VF Improvisée »\, format long de do
+ ublages improvisés en direct de films jamais vus par les comédiens (ann
+ ées 50 à 80\, Hollywood\, Bollywood\, télénovelas…)\, présenté au 
+ Théâtre Molière en février 2027 et au 9 en janvier 2027 \; et « Impro
+  Ciné »\, spectacle original dont est née la VF improvisée\, qui revie
+ nt au 9 en février 2027 avec l'invité Mark Jane. Le concept repose sur l
+ 'improvisation totale : les \n\nSource\: https://www.toulouse-tourisme.com
+ /agenda/la-vf-improvisee-2/
+URL:https://www.toulouse-tourisme.com/agenda/la-vf-improvisee-2/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:41300cf2-f6ed-4114-8776-99528d44aeda@news.lavillerose.com
@@ -30397,6 +30614,22 @@ DESCRIPTION:Le rhéteur et chroniqueur Clément Viktorovitch sera en scène
 URL:https://www.ticketmaster.fr/fr/manifestation/clement-viktorovitch-bille
  t/idmanif/656751/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_c
  ampaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c4e007a2-231d-4e6f-a518-93d1e12f034d@news.lavillerose.com
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:30 Impro en 60 minutes
+DESCRIPTION:Le spectacle « 30 Impro en 60 minutes » propose un format ori
+ ginal : 30 scènes entièrement improvisées en une heure\, avec un invit
+ é spécial différent à chaque date. Le principe repose sur zéro texte 
+ préécrit et une spontanéité totale\, pour un show aussi imprévisible 
+ qu'éphémère. La date du 16 janvier 2027 à La Petite Scène accueille J
+ onathan Chaboissier en invité. Le concept se décline tout au long de la 
+ saison avec plusieurs dates programmées\, les places étant limitées.\n\
+ nSource\: https://www.toulouse-tourisme.com/agenda/30-impro-en-60-minutes/
+URL:https://www.toulouse-tourisme.com/agenda/30-impro-en-60-minutes/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:105cdfa9-a5ba-46cd-a72a-87d8ea659ca0@news.lavillerose.com
@@ -32432,6 +32665,24 @@ LOCATION:salle emblématique dédiée aux musiques actuelles\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/kid-wise-billet/idmanif/67
  6194/idseance/4442867?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:af695121-c6ca-45ff-a789-79c2ad5dbb68@news.lavillerose.com
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Nougaro fait son cinéma
+DESCRIPTION:Un spectacle intitulé « Nougaro fait son cinéma » est progr
+ ammé le 26 février 2027 au Centre de Congrès Diagora de Labège\, près
+  de Toulouse. L'événement s'inscrit dans le registre de la chanson fran
+ çaise et rend hommage à Claude Nougaro\, le grand chanteur toulousain\, 
+ en mêlant musique et univers cinématographique. Le lieu\, Diagora\, est 
+ une salle de congrès et de spectacles de grande capacité située en pér
+ iphérie sud-est de Toulouse. Les amateurs de chanson française et de l'
+ œuvre de Nougaro sont\n\nSource\: https://www.ticketmaster.fr/fr/manifest
+ ation/nougaro-fait-son-cinema-billet/idmanif/677984/idseance/4455671
+URL:https://www.ticketmaster.fr/fr/manifestation/nougaro-fait-son-cinema-bi
+ llet/idmanif/677984/idseance/4455671?utm_source=ical&utm_medium=calendar&u
+ tm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2d00f800-8afb-47c7-b054-5465df3e89eb@news.lavillerose.com
@@ -35958,6 +36209,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/un-soir-avec-pierre-arditi
  r&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:caea10b8-2688-44a8-be51-c10854612f1b@news.lavillerose.com
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Hugo Le Van Saphia
+DESCRIPTION:Le spectacle de théâtre « Hugo Le Van Saphia » est programm
+ é au 3T D'À Côté\, salle de spectacle toulousaine\, le 12 mai 2027. L'
+ événement s'inscrit dans la catégorie arts et théâtre. Les détails s
+ ur le contenu de la pièce ou du spectacle ne sont pas précisés dans la 
+ source disponible. Les amateurs de théâtre à Toulouse sont les premiers
+  concernés par cette programmation.\n\nSource\: https://www.ticketmaster.
+ fr/fr/manifestation/hugo-le-van-saphia-billet/idmanif/678036/idseance/4455
+ 993
+LOCATION:salle de spectacle toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/hugo-le-van-saphia-billet/
+ idmanif/678036/idseance/4455993?utm_source=ical&utm_medium=calendar&utm_ca
+ mpaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ded77636-2ad2-4477-84f7-e440fca9aa8f@news.lavillerose.com
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270515
@@ -37510,6 +37779,22 @@ URL:https://www.ticketmaster.fr/fr/manifestation/charlotte-cardin-billet/id
  aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:752f6d49-54b8-416c-b066-2b233e24d983@news.lavillerose.com
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:Pomme
+DESCRIPTION:La chanteuse française Pomme se produira au Zénith Toulouse M
+ étropole le 1er décembre 2027. Connue pour sa pop folk intimiste et sa v
+ oix caractéristique\, elle s'inscrit dans une tournée nationale. Le conc
+ ert est classé dans la catégorie Rock/Music sur Ticketmaster. Les amateu
+ rs de musique folk et pop française sont particulièrement concernés par
+  cet événement.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation
+ /pomme-billet/idmanif/677741/idseance/4452711
+URL:https://www.ticketmaster.fr/fr/manifestation/pomme-billet/idmanif/67774
+ 1/idseance/4452711?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4ea42efa-a152-4cb2-a8a7-72a3c9609496@news.lavillerose.com
 DTSTART;VALUE=DATE:20271202
 DTEND;VALUE=DATE:20271203
@@ -37775,6 +38060,24 @@ DESCRIPTION:Le spectacle « Forever »\, hommage musical à Michael Jackson
 URL:https://www.ticketmaster.fr/fr/manifestation/forever-tribute-to-michael
  -jackson-billet/idmanif/674979/idseance/4436375?utm_source=ical&utm_medium
  =calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e45c0a13-dcfc-4a9f-8e80-df847aaa81ac@news.lavillerose.com
+DTSTART;VALUE=DATE:20280202
+DTEND;VALUE=DATE:20280203
+SUMMARY:Il était une fois Ennio Morricone
+DESCRIPTION:Le Zénith Toulouse Métropole accueillera un spectacle dédié
+  à l'œuvre d'Ennio Morricone\, intitulé « Il était une fois… Ennio 
+ Morricone ». L'événement mêle cinéma et musique live\, rendant hommag
+ e au compositeur légendaire connu pour ses bandes originales de westerns 
+ et de grands films italiens. La date annoncée est le 2 février 2028\, ce
+  qui en fait un spectacle à planifier bien à l'avance. Les amateurs de m
+ usique de film et de l'univers morriconien toulousain sont directement con
+ cernés.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/il-etait
+ -une-fois-billet/idmanif/678091/idseance/4456181
+URL:https://www.ticketmaster.fr/fr/manifestation/il-etait-une-fois-billet/i
+ dmanif/678091/idseance/4456181?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:31592607-b04c-4d38-9aed-bd614756e380@news.lavillerose.com
