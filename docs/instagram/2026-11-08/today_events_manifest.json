@@ -1,0 +1,121 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:105d20b1-690b-4762-80d9-9b2b7f522e41",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Women Metronum Academy : 4 jours de création féminine au Metronum",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/WOMEN-METRONUM-ACADEMY-EDITION-2026.jpg",
+    "file": "cluster_105d20b1-690b-4762-80d9-9b2b7f522e41_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3d0cd5c5-ccd0-43f0-a105-1f54d5d71771",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Soirées des Cinémas Européens au cinéma ABC et divers lieux",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SOIREES-DES-CINEMAS-EUROPEENS.jpg",
+    "file": "cluster_3d0cd5c5-ccd0-43f0-a105-1f54d5d71771_event_story.jpg",
+    "img_width": 810,
+    "img_height": 655
+  },
+  {
+    "cluster_id": "cluster:0e4c196c-9787-4666-85bb-6f2ff6644c83",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Cinq films européens projetés au Cratère pour découvrir l'Europe",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_411308695.jpg?itok=5rIJdvh9",
+    "file": "cluster_0e4c196c-9787-4666-85bb-6f2ff6644c83_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:2152ac9a-db63-4bfe-8125-192a450254bc",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Arsène Lapin, Gentleman Carotteur à La Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ARSENE-LUPIN-GENTLEMAN-CAROTTEUR.jpg",
+    "file": "cluster_2152ac9a-db63-4bfe-8125-192a450254bc_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a7811022-cb18-4c4f-9c8a-d60bc976b926",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Musique au Palais Niel : quintettes classiques et romantiques",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MUSIQUE-AU-PALAIS.jpg",
+    "file": "cluster_a7811022-cb18-4c4f-9c8a-d60bc976b926_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f654e5a2-40b5-4742-8ad5-70477fbbf06c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Boon Ka-Saï : culture japonaise aux Halles de la Cartoucherie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BOON-KA-SAI.jpg",
+    "file": "cluster_f654e5a2-40b5-4742-8ad5-70477fbbf06c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Tour du Monde en 80 Minutes au Théâtre Musical de Pibrac",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TOUR-DU-MONDE.jpg",
+    "file": "cluster_be71a1e4-d06e-4804-adf1-ff23f4f8aec8_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bf96a8f5-bce0-46ae-af1d-872ab66abae3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rando-vélo gratuite à la découverte des graffitis de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Paulette-bike---Remi-Deligeon-copie.jpg",
+    "file": "cluster_bf96a8f5-bce0-46ae-af1d-872ab66abae3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3c9d5435-211d-41ab-97a2-a8835042eaee",
+    "format": "story",
+    "source": "clutch",
+    "category": "event",
+    "title": "28ème Convention du Disque de Toulouse au Bikini",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Convention-Toulouse-3-copie.jpg",
+    "file": "cluster_3c9d5435-211d-41ab-97a2-a8835042eaee_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:85bce769-a66b-4ae6-8702-42c3de976fa9",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Hommage au cardinal Saliège à la cathédrale Saint-Étienne, 70 ans après sa mort",
+    "image_url": "https://static.actu.fr/uploads/2026/11/saliege-jules-archives-croix-du-midi-960x640-1.jpg",
+    "file": "cluster_85bce769-a66b-4ae6-8702-42c3de976fa9_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 853
+  }
+]

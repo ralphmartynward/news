@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-11-07T07:38:47.278493+00:00</updated>
+  <updated>2026-11-08T07:32:14.082262+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,141 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:ef4608f1-8275-45b2-be83-77a9455c9f87</id>
-    <title>Les Clotildes : spectacle comique au 3T d'à Côté le 30 décembre</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>ticketmaster</name>
-    </author>
-    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
-&lt;p&gt;Le spectacle « Les Clotildes : La Bonne Surprise » est programmé au 3T d&amp;#x27;à Côté à Toulouse le 30 décembre 2026. Il s&amp;#x27;agit d&amp;#x27;une création de comédie scénique classée Arts &amp;amp; Théâtre. La date de fin d&amp;#x27;année en fait une sortie idéale pour les fêtes. Les informations de billetterie sont disponibles via Ticketmaster.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/les-clotildes-la-bonne-surprise-billet/idmanif/664388/idtier/18864121?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.ticketmaster.fr/fr/manifestation/les-clotildes-la-bonne-surprise-billet/idmanif/664388/idtier/18864121?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le spectacle « Les Clotildes : La Bonne Surprise » est programmé au 3T d'à Côté à Toulouse le 30 décembre 2026. Il s'agit d'une création de comédie scénique classée Arts &amp; Théâtre. La date de fin d'année en fait une sortie idéale pour les fêtes. Les informations de billetterie sont disponibles via Ticketmaster.</summary>
-    <category term="event"/>
-    <published>2026-11-01T07:31:57.710389+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5c39134e-fee7-4320-844d-de904d919270</id>
-    <title>Toulouse 126e mondiale et 3e française dans le classement Oxford Economics 2026</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6ae3b57c0545777fd0005e22/hd/image.png?v=1"/&gt;
-&lt;p&gt;Toulouse se classe 126e sur 1 000 villes dans le « Global Cities Index 2026 » du cabinet britannique Oxford Economics, ce qui lui vaut la troisième place française, derrière Paris (3e mondial) et Lyon (88e). La métropole devance notamment Grenoble (130e), Nantes (135e), Bordeaux (137e) et Rennes (145e), confirmant son statut parmi les grandes métropoles françaises qui comptent à l&amp;#x27;international. Le classement évalue 1 000 métropoles dans 163 pays. Cette distinction s&amp;#x27;ajoute à une récente mise en avant de la Ville rose par la BBC, qui la cite parmi les cinq villes à suivre en 2026.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/10/31/toulouse-dans-le-top-130-des-meilleures-villes-du-monde-ce-qui-a-fait-la-difference-13626966.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/10/31/toulouse-dans-le-top-130-des-meilleures-villes-du-monde-ce-qui-a-fait-la-difference-13626966.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse se classe 126e sur 1 000 villes dans le « Global Cities Index 2026 » du cabinet britannique Oxford Economics, ce qui lui vaut la troisième place française, derrière Paris (3e mondial) et Lyon (88e). La métropole devance notamment Grenoble (130e), Nantes (135e), Bordeaux (137e) et Rennes (145e), confirmant son statut parmi les grandes métropoles françaises qui comptent à l'international. Le classement évalue 1 000 métropoles dans 163 pays. Cette distinction s'ajoute à une récente mise en avant de la Ville rose par la BBC, qui la cite parmi les cinq villes à suivre en 2026.</summary>
-    <category term="news"/>
-    <published>2026-10-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f9bae34a-906f-481e-b839-5e835790a51d</id>
-    <title>Cultures du Cœur fête 25 ans d'accès à la culture à la Reynerie</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/culture-du-coeur-sophie-arutunian.jpg"/&gt;
-&lt;p&gt;Ce mercredi 14 octobre, l&amp;#x27;association Cultures du Cœur a célébré ses 25 ans d&amp;#x27;existence sur l&amp;#x27;aire de jeux de la résidence Jean-Gilles, dans le quartier de la Reynerie, avec des ateliers de dessin, hula-hoop et funambulisme pour les enfants. Basée à la Reynerie, l&amp;#x27;association est active sur l&amp;#x27;ensemble de la Haute-Garonne et fédère environ 140 structures sociales adhérentes — centres sociaux, centres d&amp;#x27;hébergement d&amp;#x27;urgence et associations de quartier. Via une billetterie solidaire en ligne, ces structures réservent des sorties culturelles et sportives (musées, cinéma, théâtre) pour leurs bénéficiaires, et plus de 6 000 invitations ont été proposées en 2025. L&amp;#x27;événement a aussi été l&amp;#x27;occasion de faire découvrir le quartier à des familles de Saint-Jory n&amp;#x27;ayant jamais mis les pieds à Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cultures-du-coeur-fete-a-toulouse-ses-25-ans-d-engagement-pour-l-acces-a-la-culture-dans-les-quartiers_64977626.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cultures-du-coeur-fete-a-toulouse-ses-25-ans-d-engagement-pour-l-acces-a-la-culture-dans-les-quartiers_64977626.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce mercredi 14 octobre, l'association Cultures du Cœur a célébré ses 25 ans d'existence sur l'aire de jeux de la résidence Jean-Gilles, dans le quartier de la Reynerie, avec des ateliers de dessin, hula-hoop et funambulisme pour les enfants. Basée à la Reynerie, l'association est active sur l'ensemble de la Haute-Garonne et fédère environ 140 structures sociales adhérentes — centres sociaux, centres d'hébergement d'urgence et associations de quartier. Via une billetterie solidaire en ligne, ces structures réservent des sorties culturelles et sportives (musées, cinéma, théâtre) pour leurs bénéficiaires, et plus de 6 000 invitations ont été proposées en 2025. L'événement a aussi été l'occasion de faire découvrir le quartier à des familles de Saint-Jory n'ayant jamais mis les pieds à Toulouse.</summary>
-    <category term="news"/>
-    <published>2026-10-31T11:09:12+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5ee65291-de17-4114-b4c3-43d171ff6248</id>
-    <title>Mojo, la nouvelle table fusion d'Arnaud Bernard, testée au déjeuner</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/photo-1-mojo.jpeg"/&gt;
-&lt;p&gt;Le Mangeur masqué s&amp;#x27;est rendu chez Mojo, le restaurant qui a pris la suite de Franquette sur les Tiercerettes, en plein quartier Arnaud Bernard. Derrière ce nouveau projet, l&amp;#x27;équipe de Mado (rue des Blanchers) : le chef Léo Plusquellec, Pierre Grillon de Morati et la cheffe Célia Mailhol aux fourneaux. Le lieu a conservé sa brique et son caractère populaire, agrémenté désormais de velours terracotta et de carreaux vert d&amp;#x27;eau. Le menu déjeuner à 23€, renouvelé tous les deux à trois jours selon les arrivages du marché, mise sur une cuisine fusion audacieuse — endive caramélisée sur hollandaise au siphon, puis une carbonade flamande saluée pour sa rareté et son réconfort.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-mangeur-masque-a-teste-mojo-le-nouveau-rencard-d-arnaud-bernard-qui-fusionne-les-saveurs-avec-audace_64977396.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/le-mangeur-masque-a-teste-mojo-le-nouveau-rencard-d-arnaud-bernard-qui-fusionne-les-saveurs-avec-audace_64977396.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Mangeur masqué s'est rendu chez Mojo, le restaurant qui a pris la suite de Franquette sur les Tiercerettes, en plein quartier Arnaud Bernard. Derrière ce nouveau projet, l'équipe de Mado (rue des Blanchers) : le chef Léo Plusquellec, Pierre Grillon de Morati et la cheffe Célia Mailhol aux fourneaux. Le lieu a conservé sa brique et son caractère populaire, agrémenté désormais de velours terracotta et de carreaux vert d'eau. Le menu déjeuner à 23€, renouvelé tous les deux à trois jours selon les arrivages du marché, mise sur une cuisine fusion audacieuse — endive caramélisée sur hollandaise au siphon, puis une carbonade flamande saluée pour sa rareté et son réconfort.</summary>
-    <category term="place"/>
-    <published>2026-10-31T12:12:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:37f4c3e5-19dc-4459-918a-d63f3338c8fd</id>
-    <title>Son appartement squatté par un trafiquant pendant son hospitalisation</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/4d14c554a74a62124c554a74a1524cv.jpg"/&gt;
-&lt;p&gt;Un habitant du quartier Matabiau, considéré comme vulnérable, a découvert à son retour de l&amp;#x27;hôpital que son appartement était occupé par un inconnu. Pris de peur, il a passé la nuit à l&amp;#x27;hôtel avant de prévenir la police le lendemain, le squatteur étant toujours présent. Les policiers, alertés par une odeur suspecte dès le couloir, ont interpellé un homme de 23 ans déjà connu pour des affaires de stupéfiants. La perquisition a mis au jour un stock important : 6 kg de résine de cannabis, 2,8 kg d&amp;#x27;herbe, plus d&amp;#x27;un kilo de cocaïne, 255 cachets d&amp;#x27;ecstasy et 3 820 euros en liquide. L&amp;#x27;affaire a été confiée à la brigade des stupéfiants de la Rive droite.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/de-retour-de-l-hopital-il-decouvre-son-appartement-de-toulouse-squatte-par-un-trafiquant-de-drogue_64994964.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/de-retour-de-l-hopital-il-decouvre-son-appartement-de-toulouse-squatte-par-un-trafiquant-de-drogue_64994964.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Un habitant du quartier Matabiau, considéré comme vulnérable, a découvert à son retour de l'hôpital que son appartement était occupé par un inconnu. Pris de peur, il a passé la nuit à l'hôtel avant de prévenir la police le lendemain, le squatteur étant toujours présent. Les policiers, alertés par une odeur suspecte dès le couloir, ont interpellé un homme de 23 ans déjà connu pour des affaires de stupéfiants. La perquisition a mis au jour un stock important : 6 kg de résine de cannabis, 2,8 kg d'herbe, plus d'un kilo de cocaïne, 255 cachets d'ecstasy et 3 820 euros en liquide. L'affaire a été confiée à la brigade des stupéfiants de la Rive droite.</summary>
-    <category term="news"/>
-    <published>2026-10-31T12:40:31+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d4f9718f-5cdb-41fa-8828-c0587c3ccf71</id>
-    <title>Nouvelle saison ambitieuse au Théâtre de la Cité de Toulouse</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/09/quand-je-utais-petite-je-voterai-12-10-23-simon-gosselin-26.jpg"/&gt;
-&lt;p&gt;Le Théâtre de la Cité (CDN) de Toulouse entame une nouvelle ère sous la direction d&amp;#x27;Émilie Capliez et Matthieu Cruciani, qui succèdent à sept ans passés à la tête de la Comédie de Colmar. Leur première saison mise sur la rencontre des disciplines : théâtre, cirque, danse, musique et cinéma y cohabitent dans une programmation éclectique. Le coup d&amp;#x27;envoi a été donné fin septembre avec « Qui som ? » du collectif Baro d&amp;#x27;evel, et novembre s&amp;#x27;annonce riche avec notamment Stéphane Braunschweig et « Œdipe / Antigone », la danseuse Rocío Molina ainsi que de jeunes créations. Amateurs de spectacle vivant toulousain, le CDN s&amp;#x27;affirme plus que jamais comme un pôle culturel incontournable en plein cœur de la ville.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-nouvelle-et-passionnante-aventure-au-theatre-de-la-cite-en-plein-coeur-de-toulouse_64818051.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/une-nouvelle-et-passionnante-aventure-au-theatre-de-la-cite-en-plein-coeur-de-toulouse_64818051.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Théâtre de la Cité (CDN) de Toulouse entame une nouvelle ère sous la direction d'Émilie Capliez et Matthieu Cruciani, qui succèdent à sept ans passés à la tête de la Comédie de Colmar. Leur première saison mise sur la rencontre des disciplines : théâtre, cirque, danse, musique et cinéma y cohabitent dans une programmation éclectique. Le coup d'envoi a été donné fin septembre avec « Qui som ? » du collectif Baro d'evel, et novembre s'annonce riche avec notamment Stéphane Braunschweig et « Œdipe / Antigone », la danseuse Rocío Molina ainsi que de jeunes créations. Amateurs de spectacle vivant toulousain, le CDN s'affirme plus que jamais comme un pôle culturel incontournable en plein cœur de la ville.</summary>
-    <category term="culture"/>
-    <published>2026-10-31T12:55:21+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a0378d95-6634-4b54-879b-99dd75f8bf99</id>
-    <title>Musées toulousains gratuits ce 1er novembre malgré la Toussaint</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/02/musee-des-abattoirs-a-toulouse-3.jpg"/&gt;
-&lt;p&gt;Ce dimanche 1er novembre, le premier dimanche du mois coïncide avec le jour férié de la Toussaint, soulevant une question sur l&amp;#x27;ouverture gratuite des musées toulousains. C&amp;#x27;est finalement la règle du premier dimanche qui l&amp;#x27;emporte : neuf musées et monuments ouvrent gratuitement leurs collections permanentes (expositions temporaires restent payantes). Parmi les sites concernés : le musée des Augustins, les Abattoirs, le Quai des Savoirs, le Museum d&amp;#x27;histoire naturelle, le Château d&amp;#x27;Eau et la chapelle de La Grave. Seul le musée Georges-Labit reste fermé pour travaux. Les visiteurs devront tenir compte des perturbations de circulation liées au marathon de Toulouse, avec plusieurs rues fermées et une partie de la ligne T1 à l&amp;#x27;arrêt.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/premier-dimanche-du-mois-mais-ferie-pour-la-toussaint-les-musees-seront-ils-ouverts-gratuitement-ce-1er-novembre_64989884.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/premier-dimanche-du-mois-mais-ferie-pour-la-toussaint-les-musees-seront-ils-ouverts-gratuitement-ce-1er-novembre_64989884.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce dimanche 1er novembre, le premier dimanche du mois coïncide avec le jour férié de la Toussaint, soulevant une question sur l'ouverture gratuite des musées toulousains. C'est finalement la règle du premier dimanche qui l'emporte : neuf musées et monuments ouvrent gratuitement leurs collections permanentes (expositions temporaires restent payantes). Parmi les sites concernés : le musée des Augustins, les Abattoirs, le Quai des Savoirs, le Museum d'histoire naturelle, le Château d'Eau et la chapelle de La Grave. Seul le musée Georges-Labit reste fermé pour travaux. Les visiteurs devront tenir compte des perturbations de circulation liées au marathon de Toulouse, avec plusieurs rues fermées et une partie de la ligne T1 à l'arrêt.</summary>
-    <category term="news"/>
-    <published>2026-10-31T13:04:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:ee796272-bd43-4dc6-a142-f6e75810beb0</id>
-    <title>Places à gagner : TFC vs RC Strasbourg au Stadium de Toulouse</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/tfc-stadium-c-calatayud-960x640-1.jpg"/&gt;
-&lt;p&gt;À l&amp;#x27;occasion de la 10e journée de Ligue 1 McDonald&amp;#x27;s, le Toulouse FC affronte le RC Strasbourg le vendredi 6 novembre 2026 à 20h45 au Stadium de Toulouse. Actu Toulouse organise un jeu-concours permettant de remporter des places pour assister au match. Chaque gagnant reçoit 2 places, et le formulaire de participation doit être rempli avant le mardi 3 novembre 2026 à 16h. Les gagnants seront contactés par téléphone.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/jeu-des-places-a-gagner-pour-le-match-tfc-contre-rc-strasbourg-au-stadium-de-toulouse_64986299.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/jeu-des-places-a-gagner-pour-le-match-tfc-contre-rc-strasbourg-au-stadium-de-toulouse_64986299.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>À l'occasion de la 10e journée de Ligue 1 McDonald's, le Toulouse FC affronte le RC Strasbourg le vendredi 6 novembre 2026 à 20h45 au Stadium de Toulouse. Actu Toulouse organise un jeu-concours permettant de remporter des places pour assister au match. Chaque gagnant reçoit 2 places, et le formulaire de participation doit être rempli avant le mardi 3 novembre 2026 à 16h. Les gagnants seront contactés par téléphone.</summary>
-    <category term="event"/>
-    <published>2026-10-31T18:46:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:9b229e54-dcc3-47cd-8076-42a724bd677a</id>
-    <title>Conversions à l'E85 en plein essor à Toulouse : pleins à 30 €</title>
-    <updated>2026-11-01T07:32:08.666787+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/whatsapp-image-2026-10-28-at-211557.jpeg"/&gt;
-&lt;p&gt;Face à des prix des carburants toujours élevés, de plus en plus d&amp;#x27;automobilistes toulousains se tournent vers le superéthanol E85, vendu à moins d&amp;#x27;un euro le litre. À Toulouse et dans le département, les garages proposant des boîtiers de conversion voient leur activité exploser, portée par une communauté grandissante. Un reportage suit notamment Anthony, de FlexEthanol31, qui installe ces boîtiers à domicile en moins d&amp;#x27;une heure pour environ 700 €. Les utilisateurs témoignent d&amp;#x27;économies significatives, passant de pleins à 80 € à des pleins autour de 30 €, avec un retour sur investissement jugé rapide.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/prix-des-carburants-quand-on-va-a-la-pompe-c-est-genial-carton-plein-pour-les-conversions-a-l-e85-a-toulouse_64994953.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/prix-des-carburants-quand-on-va-a-la-pompe-c-est-genial-carton-plein-pour-les-conversions-a-l-e85-a-toulouse_64994953.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Face à des prix des carburants toujours élevés, de plus en plus d'automobilistes toulousains se tournent vers le superéthanol E85, vendu à moins d'un euro le litre. À Toulouse et dans le département, les garages proposant des boîtiers de conversion voient leur activité exploser, portée par une communauté grandissante. Un reportage suit notamment Anthony, de FlexEthanol31, qui installe ces boîtiers à domicile en moins d'une heure pour environ 700 €. Les utilisateurs témoignent d'économies significatives, passant de pleins à 80 € à des pleins autour de 30 €, avec un retour sur investissement jugé rapide.</summary>
-    <category term="news"/>
-    <published>2026-11-01T07:12:02+01:00</published>
-  </entry>
   <entry>
     <id>cluster:854c151f-3596-4ea9-8729-24995909c821</id>
     <title>Les lieux les plus hantés et mystérieux de Toulouse</title>
@@ -300,23 +165,6 @@
     <summary>Fred Cavayé propose une nouvelle adaptation cinématographique des Misérables de Victor Hugo, avec Vincent Lindon dans le rôle de Jean Valjean. La critique souligne la performance remarquable de Lindon, dont la présence et le regard donnent toute sa profondeur au personnage. Le casting étoilé réunit Tahar Rahim en Javert, Camille Cottin et Benjamin Lavernhe en Thénardier, Noémie Merlant en Fantine ou encore Megan Northam en Cosette. L'article passe en revue l'histoire des adaptations cinématographiques du roman depuis 1913 avant de s'interroger sur l'intérêt de se déplacer en salle pour cette version.</summary>
     <category term="culture"/>
     <published>2026-11-01T18:09:42+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:3f021b67-5735-4625-a423-509f61c59c79</id>
-    <title>Décimé par les absences, le Stade Toulousain s'incline lourdement à Pau</title>
-    <updated>2026-11-02T07:32:30.827673+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/10/paul-graou-lors-dun-entrainement-du-stade-toulousain.jpg"/&gt;
-&lt;p&gt;Le Stade Toulousain, leader du Top 14, a subi une large défaite 34-14 face à la Section Paloise à Pau dimanche soir. Le club rouge et noir abordait ce déplacement avec près de 30 absents, entre internationaux retenus en sélection (13 joueurs convoqués dont Dupont, Ntamack et Jelonch) et une infirmerie bondée. La situation en première ligne était si critique qu&amp;#x27;Ugo Mola avait admis être « à un joueur près de déclarer forfait » ; le pilier Mohamed Megherbi a dû être rappelé en urgence depuis Oyonnax. Malgré une légère réaction en fin de match via Thomas Lacombre et Lukas Amati, Toulouse n&amp;#x27;a jamais pu contenir une Section Paloise dominatrice dès le coup d&amp;#x27;envoi.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les trois articles couvrent les mêmes événements selon trois angles chronologiques : le premier dresse l&amp;#x27;état des absences lundi à l&amp;#x27;entraînement, le second approfondit la question du possible forfait et le rappel de Megherbi, le troisième rend compte du match et de la défaite.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Liste détaillée des absents et blessés avant le match&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Enquête sur le quasi-forfait et le rappel d&amp;#x27;urgence de Megherbi&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 3)&lt;/strong&gt;: Compte-rendu du match et analyse de la défaite à Pau&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-decime-par-les-absences-s-incline-a-pau_65001675.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-decime-par-les-absences-s-incline-a-pau_65001675.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Stade Toulousain, leader du Top 14, a subi une large défaite 34-14 face à la Section Paloise à Pau dimanche soir. Le club rouge et noir abordait ce déplacement avec près de 30 absents, entre internationaux retenus en sélection (13 joueurs convoqués dont Dupont, Ntamack et Jelonch) et une infirmerie bondée. La situation en première ligne était si critique qu'Ugo Mola avait admis être « à un joueur près de déclarer forfait » ; le pilier Mohamed Megherbi a dû être rappelé en urgence depuis Oyonnax. Malgré une légère réaction en fin de match via Thomas Lacombre et Lukas Amati, Toulouse n'a jamais pu contenir une Section Paloise dominatrice dès le coup d'envoi.</summary>
-    <category term="news"/>
-    <published>2026-11-01T23:05:51+01:00</published>
   </entry>
   <entry>
     <id>cluster:411e4086-9abf-4b6d-a44a-a444ee524b4d</id>
@@ -694,21 +542,6 @@
     <published>2026-11-04T05:05:22.189000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:3b72e705-4078-4e49-badb-f3843bac7fee</id>
-    <title>Terrasses hivernales : télécabines, igloos et Mama Ski Club à Toulouse</title>
-    <updated>2026-11-04T07:34:40.886199+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/frcihe-hiver26.jpg?itok=HHhJB8qW"/&gt;
-&lt;p&gt;Les terrasses toulousaines se mettent en mode montagne pour l&amp;#x27;hiver, avec trois adresses à la clé. À Gramont, Les Friches proposent pour la deuxième année consécutive 14 télécabines privatisables (2 à 7 personnes) sur 750 m² de terrasse, avec un format Après-Ski XXL incluant DJ sets et canons à neige. À Montaudran, 13 igloos (2 à 8 personnes) et une moto-neige composent le décor, agrémentés de winter parties. L&amp;#x27;accès est à 10 € par personne pour 2 heures, boisson comprise. À partir du 7 novembre, le rooftop du Mama Shelter Toulouse se transforme en Mama Ski Club, avec décor chalet vintage, vin chaud maison et grog revisité. Côté restauration, Les Mecs au Camion relancent leur burger montagnard et le restaurant éphémère Comment Savoie propose raclette, tartiflette et camembert rôti.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-04?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#54347"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-04?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#54347"/>
-    <summary>Les terrasses toulousaines se mettent en mode montagne pour l'hiver, avec trois adresses à la clé. À Gramont, Les Friches proposent pour la deuxième année consécutive 14 télécabines privatisables (2 à 7 personnes) sur 750 m² de terrasse, avec un format Après-Ski XXL incluant DJ sets et canons à neige. À Montaudran, 13 igloos (2 à 8 personnes) et une moto-neige composent le décor, agrémentés de winter parties. L'accès est à 10 € par personne pour 2 heures, boisson comprise. À partir du 7 novembre, le rooftop du Mama Shelter Toulouse se transforme en Mama Ski Club, avec décor chalet vintage, vin chaud maison et grog revisité. Côté restauration, Les Mecs au Camion relancent leur burger montagnard et le restaurant éphémère Comment Savoie propose raclette, tartiflette et camembert rôti.</summary>
-    <category term="place"/>
-    <published>2026-11-04T05:05:22.189000+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:1ecfd77a-a951-43ef-ba68-6df0579edbaf</id>
     <title>Pop Créa rue du Taur fête sa première année avec 7 nouveaux artisans</title>
     <updated>2026-11-04T07:34:40.886199+00:00</updated>
@@ -842,21 +675,6 @@
     <summary>Le tunnelier Berthe de Puybusque a atteint la station Toulouse-Lautrec le lundi 2 novembre 2026, marquant l'avant-dernière percée de la ligne C du métro toulousain. Il lui reste environ 1 022 mètres à parcourir avant d'atteindre la station Raisin, où il sera démonté. Deux autres tunneliers sont encore en activité : Lise-Enjalbert, le plus avancé, approche du Puits Laporte avec environ 1 km restant sur 4,2 km, tandis que Jeanne-Marvig, parti de Colomiers-Gare, ferme la marche. Un risque de retard plane toujours sur ce chantier majeur, qualifié de « chantier du siècle ».</summary>
     <category term="news"/>
     <published>2026-11-03T13:55:56+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d867947a-3b52-40ec-b1b3-99e1636d853b</id>
-    <title>Sécheresse record : des lâchers d'eau dans la Garonne en novembre</title>
-    <updated>2026-11-04T07:34:40.886199+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/1000017460.jpg"/&gt;
-&lt;p&gt;Pour la première fois depuis 35 ans, des lâchers d&amp;#x27;eau depuis les réserves pyrénéennes se poursuivent dans la Garonne au-delà du 31 octobre, signe d&amp;#x27;une sécheresse exceptionnelle. L&amp;#x27;été 2026 a cumulé les records : premiers déstockages dès le 2 juillet (précocité inédite) et 28 millions de m³ lâchés en juillet, un volume jamais atteint. Jean-Michel Fabre, président de l&amp;#x27;Établissement Public Garonne, souligne que le froid autorisé ne signifie pas la fin de la sécheresse, et que de nombreuses rivières restent en grande difficulté. Des mesures de restriction de la consommation d&amp;#x27;eau sont toujours en vigueur dans certains secteurs du département, et les lâchers pourraient se prolonger jusqu&amp;#x27;au 10 novembre au moins.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-secheresse-ne-s-est-pas-arretee-pour-la-premiere-fois-des-lachers-d-eau-dans-la-garonne-en-novembre_65009695.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/la-secheresse-ne-s-est-pas-arretee-pour-la-premiere-fois-des-lachers-d-eau-dans-la-garonne-en-novembre_65009695.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Pour la première fois depuis 35 ans, des lâchers d'eau depuis les réserves pyrénéennes se poursuivent dans la Garonne au-delà du 31 octobre, signe d'une sécheresse exceptionnelle. L'été 2026 a cumulé les records : premiers déstockages dès le 2 juillet (précocité inédite) et 28 millions de m³ lâchés en juillet, un volume jamais atteint. Jean-Michel Fabre, président de l'Établissement Public Garonne, souligne que le froid autorisé ne signifie pas la fin de la sécheresse, et que de nombreuses rivières restent en grande difficulté. Des mesures de restriction de la consommation d'eau sont toujours en vigueur dans certains secteurs du département, et les lâchers pourraient se prolonger jusqu'au 10 novembre au moins.</summary>
-    <category term="news"/>
-    <published>2026-11-03T18:52:36+01:00</published>
   </entry>
   <entry>
     <id>cluster:abf9313b-585f-43d1-bbd9-e316009eb19f</id>
@@ -2017,26 +1835,6 @@
     <published>2026-11-04T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>cluster:87f2e219-0017-4c67-b650-da5bb4568eae</id>
-    <title>Grève du 5 novembre : cortège interdit en centre-ville, mobilisation maintenue à Toulouse</title>
-    <updated>2026-11-07T07:38:47.278493+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/manifestation-cgt-syndicats-km-2.jpg"/&gt;
-&lt;p&gt;Le jeudi 5 novembre 2026, une grève interprofessionnelle nationale s&amp;#x27;est tenue à Toulouse, réunissant syndicats (CGT, FO, CFDT, CFDT, FSU31, Solidaires, CFTC…), lycéens, étudiants et Gilets jaunes contre la vie chère, les bas salaires et la dégradation des services publics. Le préfet Fabrice Rigoulet-Roze a pris mardi 3 novembre un arrêté interdisant le parcours déclaré de Saint-Cyprien aux allées Jean-Jaurès, invoquant les violences survenues lors des mobilisations des 17, 24 et 31 octobre, et imposant à la place une boucle de 4 km au départ des Arènes. Le tribunal administratif de Toulouse, saisi en urgence par l&amp;#x27;intersyndicale via une procédure de référé-liberté, a rejeté leur requête et confirmé la décision préfectorale, contraignant certains syndicats comme la CFTC à appeler leurs membres à ne pas se rassembler. La journée a néanmoins mobilisé entre 21 800 (chiffres préfecture) et 80 000 personnes (chiffres CGT), avec de fortes perturbations sur les transports (tram T1, TER, lignes de bus Tisséo) et la fermeture du campus Paul Sabatier. Dans les jours suivants, l&amp;#x27;acte IV des Gilets jaunes, non déclaré, était annoncé pour le samedi 7 novembre, entraînant un périmètre d&amp;#x27;interdiction de rassemblement dans le centre-ville.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse couvre le dossier en profondeur et en direct, avec les déclarations syndicales, l&amp;#x27;arrêté préfectoral et la décision de justice. L&amp;#x27;Essentiel propose une synthèse pratique plus concise orientée vers l&amp;#x27;impact concret (transports, universités, tracé du cortège), sans entrer dans le détail du bras de fer juridique.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Suivi en direct, chronologie du conflit préfet/syndicats, décision du tribunal administratif et déclarations des protagonistes&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Résumé pratique : perturbations transports, fermetures universitaires, tracé final du cortège&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifestation-sera-t-elle-interdite-a-toulouse_65004268.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/nous-n-entendons-pas-bouger-les-syndicats-veulent-maintenir-un-parcours-en-centre-ville-pour-le-5-novembre_65009249.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/manifestation-du-5-novembre-cortege-fermetures-transports-perturbes-a-quoi-faut-il-s-attendre-a-toulouse_65014664.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-05?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#54443"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-manifestation-du-5-novembre-suivez-cette-grande-journee-de-mobilisation-a-toulouse_65016454.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/manifestation-du-5-novembre-la-justice-donne-raison-au-prefet-qui-a-interdit-le-cortege-en-centre-ville-de-toulouse_65016680.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/acte-iv-des-gilets-jaunes-un-rassemblement-prevu-a-toulouse-mais-aucune-manifestation-declaree-a-quoi-s-attendre_65028318.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifestation-sera-t-elle-interdite-a-toulouse_65004268.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le jeudi 5 novembre 2026, une grève interprofessionnelle nationale s'est tenue à Toulouse, réunissant syndicats (CGT, FO, CFDT, CFDT, FSU31, Solidaires, CFTC…), lycéens, étudiants et Gilets jaunes contre la vie chère, les bas salaires et la dégradation des services publics. Le préfet Fabrice Rigoulet-Roze a pris mardi 3 novembre un arrêté interdisant le parcours déclaré de Saint-Cyprien aux allées Jean-Jaurès, invoquant les violences survenues lors des mobilisations des 17, 24 et 31 octobre, et imposant à la place une boucle de 4 km au départ des Arènes. Le tribunal administratif de Toulouse, saisi en urgence par l'intersyndicale via une procédure de référé-liberté, a rejeté leur requête et confirmé la décision préfectorale, contraignant certains syndicats comme la CFTC à appeler leurs membres à ne pas se rassembler. La journée a néanmoins mobilisé entre 21 800 (chiffres préfecture) et 80 000 personnes (chiffres CGT), avec de fortes perturbations sur les transports (tram T1, TER, lignes de bus Tisséo) et la fermeture du campus Paul Sabatier. Dans les jours suivants, l'acte IV des Gilets jaunes, non déclaré, était annoncé pour le samedi 7 novembre, entraînant un périmètre d'interdiction de rassemblement dans le centre-ville.</summary>
-    <category term="news"/>
-    <published>2026-11-02T18:58:36+01:00</published>
-  </entry>
-  <entry>
     <id>cluster:4f5127d2-7c1e-4a77-92a5-da297d45ac28</id>
     <title>Blocus lycéens à Toulouse : incidents, tram perturbé et parents mobilisés</title>
     <updated>2026-11-07T07:38:47.278493+00:00</updated>
@@ -2089,5 +1887,244 @@
     <summary>Deux résultats contrastés pour le Toulouse FC sur la période couverte par ces articles. D'un côté, le TFC s'incline 2-0 au Vélodrome face à l'OM, frustré par deux buts refusés pour hors-jeu et pris en défaut dès le début par Harit et Gouiri, malgré une belle réaction en seconde période. De l'autre, les Violets signent leur troisième victoire de la saison en dominant Strasbourg 3-1 au Stadium, grâce à des buts de Hidalgo, McKenzie et Jörgensen, dans un match disputé sous la brume toulousaine. La VAR et les décisions arbitrales pèsent dans les deux rencontres, avec un but validé après contrôle côté toulousain contre Strasbourg, et des buts refusés contre l'OM. Ces deux matchs illustrent les difficultés du TFC en déplacement face aux grandes équipes, tout en confirmant leur solidité à domicile.</summary>
     <category term="news"/>
     <published>2026-11-01T22:41:44+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:69d791d6-029d-451e-8320-5a05ba92b7e0</id>
+    <title>12 fontaines toulousaines illuminées en bleu pour Novembre bleu</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6aedacf94bd000d00d0e6378/hd/image.jpg?v=2"/&gt;
+&lt;p&gt;À l&amp;#x27;occasion de Novembre bleu et du mouvement Movember, la Mairie de Toulouse illumine 12 fontaines ornementales en bleu jusqu&amp;#x27;au 30 novembre, pour sensibiliser aux cancers masculins (prostate, testicules) et encourager le dépistage précoce. Les fontaines concernées sont réparties dans plusieurs quartiers de la ville — place Salengro, square Goudouli, place de la Trinité, avenue Jacques-Chirac ou encore place Dupuy, entre autres. L&amp;#x27;éclairage bleu est visible chaque jour de 6h à 8h puis de 18h à 23h, et fonctionne en circuit fermé afin de limiter la consommation d&amp;#x27;eau. Cette opération fait écho à une initiative similaire menée en octobre en rose pour la lutte contre le cancer du sein.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/11/07/novembre-bleu-a-toulouse-ces-12-fontaines-vont-se-parer-dune-couleur-inhabituelle-13639486.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/11/07/novembre-bleu-a-toulouse-ces-12-fontaines-vont-se-parer-dune-couleur-inhabituelle-13639486.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>À l'occasion de Novembre bleu et du mouvement Movember, la Mairie de Toulouse illumine 12 fontaines ornementales en bleu jusqu'au 30 novembre, pour sensibiliser aux cancers masculins (prostate, testicules) et encourager le dépistage précoce. Les fontaines concernées sont réparties dans plusieurs quartiers de la ville — place Salengro, square Goudouli, place de la Trinité, avenue Jacques-Chirac ou encore place Dupuy, entre autres. L'éclairage bleu est visible chaque jour de 6h à 8h puis de 18h à 23h, et fonctionne en circuit fermé afin de limiter la consommation d'eau. Cette opération fait écho à une initiative similaire menée en octobre en rose pour la lutte contre le cancer du sein.</summary>
+    <category term="news"/>
+    <published>2026-11-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:75b1ae3b-86bb-4aa8-ae63-e4d5771656a8</id>
+    <title>Exposition immersive Belle Époque au Couvent des Jacobins dès novembre</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6aec596572a10f4a4007fc08/hd/image.jpg?v=1"/&gt;
+&lt;p&gt;À partir du 7 novembre 2026 et jusqu&amp;#x27;au 7 octobre 2027, le Couvent des Jacobins accueille « Bal au Grand Hôtel : se divertir à Toulouse à la Belle Époque », une exposition immersive et familiale dédiée à la vie toulousaine entre 1871 et 1914. Les 650 m² du réfectoire ont été entièrement transformés en 11 espaces scénographiés reconstituant une rue, un Grand Hôtel, un marché, une gare, un café-restaurant et une salle de bal. Plus de 400 éléments d&amp;#x27;époque ont été réunis pour raconter les profondes mutations urbaines et sociales de Toulouse à la fin du XIXe siècle. Certains lieux évoqués — la gare Matabiau, le café Bibent, le kiosque du Grand Rond — existent encore aujourd&amp;#x27;hui, créant un pont entre le passé reconstitué et la ville actuelle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/11/08/le-couvent-des-jacobins-va-faire-revivre-la-belle-epoque-avec-une-exposition-immersive-inedite-13636235.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/11/08/le-couvent-des-jacobins-va-faire-revivre-la-belle-epoque-avec-une-exposition-immersive-inedite-13636235.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>À partir du 7 novembre 2026 et jusqu'au 7 octobre 2027, le Couvent des Jacobins accueille « Bal au Grand Hôtel : se divertir à Toulouse à la Belle Époque », une exposition immersive et familiale dédiée à la vie toulousaine entre 1871 et 1914. Les 650 m² du réfectoire ont été entièrement transformés en 11 espaces scénographiés reconstituant une rue, un Grand Hôtel, un marché, une gare, un café-restaurant et une salle de bal. Plus de 400 éléments d'époque ont été réunis pour raconter les profondes mutations urbaines et sociales de Toulouse à la fin du XIXe siècle. Certains lieux évoqués — la gare Matabiau, le café Bibent, le kiosque du Grand Rond — existent encore aujourd'hui, créant un pont entre le passé reconstitué et la ville actuelle.</summary>
+    <category term="event"/>
+    <published>2026-11-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:31891dab-1ffb-4c74-8dc5-2ca1edc9d50b</id>
+    <title>Cours de piano gratuits pour une jeune de La Reynerie grâce à l'Académie du Piano</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/piano.jpg"/&gt;
+&lt;p&gt;Insaf, 16 ans, habitante du quartier prioritaire de La Reynerie, bénéficie depuis peu de cours de piano gratuits dispensés par Marie Grégoire-Devic, fondatrice de l&amp;#x27;Académie du Piano au Busca. L&amp;#x27;initiative est née d&amp;#x27;une collaboration avec l&amp;#x27;association Cultures du Cœur : la professeure, également présidente des Clefs de Saint Pierre, souhaitait permettre à des jeunes de quartiers populaires de pratiquer la musique, et pas seulement d&amp;#x27;en être spectateurs. Insaf, autodidacte passionnée qui avait appris à l&amp;#x27;oreille, s&amp;#x27;exerce au lycée Fermat faute de piano chez elle. L&amp;#x27;engagement porte sur un an de cours hebdomadaires, offerts gratuitement à un ou une jeune de quartier prioritaire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-musique-est-universelle-des-cours-de-piano-gratuits-pour-une-adolescente-de-la-reynerie_65005004.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/la-musique-est-universelle-des-cours-de-piano-gratuits-pour-une-adolescente-de-la-reynerie_65005004.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Insaf, 16 ans, habitante du quartier prioritaire de La Reynerie, bénéficie depuis peu de cours de piano gratuits dispensés par Marie Grégoire-Devic, fondatrice de l'Académie du Piano au Busca. L'initiative est née d'une collaboration avec l'association Cultures du Cœur : la professeure, également présidente des Clefs de Saint Pierre, souhaitait permettre à des jeunes de quartiers populaires de pratiquer la musique, et pas seulement d'en être spectateurs. Insaf, autodidacte passionnée qui avait appris à l'oreille, s'exerce au lycée Fermat faute de piano chez elle. L'engagement porte sur un an de cours hebdomadaires, offerts gratuitement à un ou une jeune de quartier prioritaire.</summary>
+    <category term="news"/>
+    <published>2026-11-07T11:12:01+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f4d7b701-c326-4235-b0e0-53fd38248ff9</id>
+    <title>La tielle sétoise arrive à Toulouse avec l'ouverture de Mollo</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/photo-1-tielle.jpeg"/&gt;
+&lt;p&gt;Un couple de Sétois, Loïc et Maud, s&amp;#x27;apprête à ouvrir Mollo, une boutique spécialisée dans la tielle, rue de la Colombette à Toulouse. La tielle est une tourte garnie de poulpe et de sauce tomate relevée, spécialité emblématique de Sète aux origines italiennes, quasi inconnue à Toulouse jusqu&amp;#x27;ici. Avant l&amp;#x27;ouverture officielle prévue dans quelques semaines, le duo a tenu un stand lors d&amp;#x27;une foire de rue devant leur boutique encore en travaux, offrant aux Toulousains une première dégustation. Ce produit artisanal, fait maison de la pâte aux garnitures avec du poulpe pêché, représente un vrai voyage culinaire méditerranéen au cœur de la Ville Rose.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-tielle-setoise-debarque-a-toulouse-le-mangeur-masque-a-croque-en-avant-premiere-la-premiere-bouchee_65004905.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/la-tielle-setoise-debarque-a-toulouse-le-mangeur-masque-a-croque-en-avant-premiere-la-premiere-bouchee_65004905.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un couple de Sétois, Loïc et Maud, s'apprête à ouvrir Mollo, une boutique spécialisée dans la tielle, rue de la Colombette à Toulouse. La tielle est une tourte garnie de poulpe et de sauce tomate relevée, spécialité emblématique de Sète aux origines italiennes, quasi inconnue à Toulouse jusqu'ici. Avant l'ouverture officielle prévue dans quelques semaines, le duo a tenu un stand lors d'une foire de rue devant leur boutique encore en travaux, offrant aux Toulousains une première dégustation. Ce produit artisanal, fait maison de la pâte aux garnitures avec du poulpe pêché, représente un vrai voyage culinaire méditerranéen au cœur de la Ville Rose.</summary>
+    <category term="place"/>
+    <published>2026-11-07T12:26:02+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:abf3bd0b-fe81-4086-9e00-5f88d2bcd8be</id>
+    <title>Airbus doit livrer 249 avions en deux mois pour tenir son record</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/12/fuselage-airbus-usine-a320-toulouse-dss.jpg"/&gt;
+&lt;p&gt;Airbus se trouve sous forte pression pour atteindre son objectif annuel record de 870 livraisons, alors qu&amp;#x27;il ne lui reste que deux mois pour en réaliser 249. En octobre, l&amp;#x27;avionneur n&amp;#x27;a livré que 74 appareils, portant le total à 621 depuis le début de l&amp;#x27;année, contre 585 à la même période en 2019. Des problèmes de qualité ont ralenti les livraisons au troisième trimestre, pesant sur les résultats financiers. Malgré cela, le PDG Guillaume Faury et le directeur des avions commerciaux Lars Wagner se disent confiants, indiquant que la grande majorité des appareils restants sont déjà en phase d&amp;#x27;assemblage final.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/airbus-parviendra-t-il-a-tenir-son-objectif-record-l-avionneur-doit-livrer-249-appareils-en-deux-mois_65029747.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/airbus-parviendra-t-il-a-tenir-son-objectif-record-l-avionneur-doit-livrer-249-appareils-en-deux-mois_65029747.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Airbus se trouve sous forte pression pour atteindre son objectif annuel record de 870 livraisons, alors qu'il ne lui reste que deux mois pour en réaliser 249. En octobre, l'avionneur n'a livré que 74 appareils, portant le total à 621 depuis le début de l'année, contre 585 à la même période en 2019. Des problèmes de qualité ont ralenti les livraisons au troisième trimestre, pesant sur les résultats financiers. Malgré cela, le PDG Guillaume Faury et le directeur des avions commerciaux Lars Wagner se disent confiants, indiquant que la grande majorité des appareils restants sont déjà en phase d'assemblage final.</summary>
+    <category term="news"/>
+    <published>2026-11-07T12:45:29+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9059a5e0-f4ce-4922-ab71-101ff283d534</id>
+    <title>Le Stade Toulousain face à une crise de blessures à la mêlée</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/simon-daroque-stade-toulousain-rugby-2026.jpg"/&gt;
+&lt;p&gt;Avant de recevoir Clermont en 9e journée de Top 14, le Stade Toulousain devait déjà composer sans 13 joueurs blessés et 12 internationaux absents, dont Antoine Dupont et Paul Graou mobilisés avec les Bleus. Le demi de mêlée titularisé Simon Daroque (21 ans) a dû quitter le terrain à la 31e minute sur blessure aux côtes, après avoir pourtant inscrit un essai à la 26e. Son remplaçant Nathan Llaveria, 20 ans, a lui aussi dû sortir blessé, plongeant le club dans une galère inédite au poste de numéro 9. L&amp;#x27;arrière Matias Remue avait par ailleurs déclaré forfait juste avant le coup d&amp;#x27;envoi sur déchirure au mollet, remplacé par le jeune Lucien Richardis (21 ans), de retour de prêt à Agen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-toulouse-perd-4-nouveaux-joueurs-et-se-retrouve-sans-demi-de-melee_65030075.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/top-14-toulouse-perd-4-nouveaux-joueurs-et-se-retrouve-sans-demi-de-melee_65030075.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Avant de recevoir Clermont en 9e journée de Top 14, le Stade Toulousain devait déjà composer sans 13 joueurs blessés et 12 internationaux absents, dont Antoine Dupont et Paul Graou mobilisés avec les Bleus. Le demi de mêlée titularisé Simon Daroque (21 ans) a dû quitter le terrain à la 31e minute sur blessure aux côtes, après avoir pourtant inscrit un essai à la 26e. Son remplaçant Nathan Llaveria, 20 ans, a lui aussi dû sortir blessé, plongeant le club dans une galère inédite au poste de numéro 9. L'arrière Matias Remue avait par ailleurs déclaré forfait juste avant le coup d'envoi sur déchirure au mollet, remplacé par le jeune Lucien Richardis (21 ans), de retour de prêt à Agen.</summary>
+    <category term="news"/>
+    <published>2026-11-07T16:56:52+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:85bce769-a66b-4ae6-8702-42c3de976fa9</id>
+    <title>Hommage au cardinal Saliège à la cathédrale Saint-Étienne, 70 ans après sa mort</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/saliege-jules-archives-croix-du-midi-960x640-1.jpg"/&gt;
+&lt;p&gt;Le 8 novembre 2026, une messe sera célébrée à 10h30 en la cathédrale Saint-Étienne de Toulouse pour le 70e anniversaire de la mort du cardinal Jules-Géraud Saliège, archevêque de Toulouse décédé en 1956. L&amp;#x27;office sera présidé par son successeur actuel, Monseigneur Guy de Kerimel, en présence de nombreuses personnalités politiques et de représentants de plusieurs confessions (protestante, orthodoxe et juive). La cérémonie sera suivie de l&amp;#x27;inauguration d&amp;#x27;une plaque commémorative sur le mur extérieur du portail de l&amp;#x27;archevêché. Saliège est notamment connu pour sa lettre du 23 août 1942, lue dans les églises de Haute-Garonne, qui dénonçait courageusement les persécutions antisémites menées par le régime de Vichy en collaboration avec l&amp;#x27;occupant nazi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/70-ans-apres-sa-mort-un-grand-homme-de-l-histoire-de-toulouse-va-recevoir-un-vibrant-hommage_65026412.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/70-ans-apres-sa-mort-un-grand-homme-de-l-histoire-de-toulouse-va-recevoir-un-vibrant-hommage_65026412.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le 8 novembre 2026, une messe sera célébrée à 10h30 en la cathédrale Saint-Étienne de Toulouse pour le 70e anniversaire de la mort du cardinal Jules-Géraud Saliège, archevêque de Toulouse décédé en 1956. L'office sera présidé par son successeur actuel, Monseigneur Guy de Kerimel, en présence de nombreuses personnalités politiques et de représentants de plusieurs confessions (protestante, orthodoxe et juive). La cérémonie sera suivie de l'inauguration d'une plaque commémorative sur le mur extérieur du portail de l'archevêché. Saliège est notamment connu pour sa lettre du 23 août 1942, lue dans les églises de Haute-Garonne, qui dénonçait courageusement les persécutions antisémites menées par le régime de Vichy en collaboration avec l'occupant nazi.</summary>
+    <category term="event"/>
+    <published>2026-11-07T17:02:01+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c4f5f888-1d92-4e98-a4b2-1234ccc9b15d</id>
+    <title>Shaun le mouton : La Bêêête d'Halloween, le troisième volet vaut-il le détour ?</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/shaun-la-bete.jpg"/&gt;
+&lt;p&gt;Le troisième film de la trilogie Shaun le mouton arrive en salle à l&amp;#x27;occasion d&amp;#x27;Halloween, avec une intrigue autour d&amp;#x27;un grimoire magique, d&amp;#x27;un élixir de croissance et d&amp;#x27;un Fermier transformé en yéti. Réalisé en stop motion, le film mêle humour absurde et satire sociale, dressant un portrait acéré des travers humains contemporains — dont un enfant scotché à son téléphone en plein chaos. Le critique hésite entre l&amp;#x27;univers de Frankenstein revisité pour enfants et celui de Mickey apprenti-sorcier, et salue un résultat « stupéfiant de sens, d&amp;#x27;imagination et de virtuosité ». Le film s&amp;#x27;adresse aussi bien aux petits qu&amp;#x27;aux adultes sensibles à l&amp;#x27;animation artisanale et à l&amp;#x27;humour second degré.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-shaun-le-mouton-la-beeete-d-halloween-faut-il-aller-voir-le-troisieme-volet-de-la-trilogie_65011174.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cinema-shaun-le-mouton-la-beeete-d-halloween-faut-il-aller-voir-le-troisieme-volet-de-la-trilogie_65011174.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le troisième film de la trilogie Shaun le mouton arrive en salle à l'occasion d'Halloween, avec une intrigue autour d'un grimoire magique, d'un élixir de croissance et d'un Fermier transformé en yéti. Réalisé en stop motion, le film mêle humour absurde et satire sociale, dressant un portrait acéré des travers humains contemporains — dont un enfant scotché à son téléphone en plein chaos. Le critique hésite entre l'univers de Frankenstein revisité pour enfants et celui de Mickey apprenti-sorcier, et salue un résultat « stupéfiant de sens, d'imagination et de virtuosité ». Le film s'adresse aussi bien aux petits qu'aux adultes sensibles à l'animation artisanale et à l'humour second degré.</summary>
+    <category term="culture"/>
+    <published>2026-11-07T18:46:01+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ac3a8215-6192-4293-ad91-5cb50fbb0f14</id>
+    <title>Un scooter perturbe le tram ligne T1 avenue de Muret</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/09/pompiers-toulouse-nuit-accident.jpeg"/&gt;
+&lt;p&gt;Un accident impliquant un scooter a provoqué de fortes perturbations sur la ligne T1 du tramway toulousain le samedi 7 novembre 2026 aux alentours de 19 heures. Le choc s&amp;#x27;est produit avenue de Muret, au niveau de l&amp;#x27;arrêt Marcel-Cavaillé, après qu&amp;#x27;un scooter a glissé sur les voies. Tisséo a annoncé une coupure totale de la ligne dans un premier temps, puis une interruption partielle à 20 heures : plusieurs stations ne sont plus desservies dans les deux sens, notamment Déodat de Séverac, Croix de Pierre, Fer à Cheval, Île du Ramier et Palais de Justice. Les pompiers de Haute-Garonne sont intervenus sur place, et la situation devait progressivement revenir à la normale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/accident-sur-la-voie-du-tram-a-toulouse-la-circulation-fortement-perturbee-un-scooter-implique_65030700.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/accident-sur-la-voie-du-tram-a-toulouse-la-circulation-fortement-perturbee-un-scooter-implique_65030700.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un accident impliquant un scooter a provoqué de fortes perturbations sur la ligne T1 du tramway toulousain le samedi 7 novembre 2026 aux alentours de 19 heures. Le choc s'est produit avenue de Muret, au niveau de l'arrêt Marcel-Cavaillé, après qu'un scooter a glissé sur les voies. Tisséo a annoncé une coupure totale de la ligne dans un premier temps, puis une interruption partielle à 20 heures : plusieurs stations ne sont plus desservies dans les deux sens, notamment Déodat de Séverac, Croix de Pierre, Fer à Cheval, Île du Ramier et Palais de Justice. Les pompiers de Haute-Garonne sont intervenus sur place, et la situation devait progressivement revenir à la normale.</summary>
+    <category term="news"/>
+    <published>2026-11-07T20:09:17+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:fe30ef48-228e-4941-b0c2-d0a1afc5f71a</id>
+    <title>Le Memphis Coffee de l'avenue des États-Unis bientôt démoli</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/1000017371.jpg"/&gt;
+&lt;p&gt;Le fast-food Memphis Coffee, ouvert en 2013 avenue des États-Unis à Toulouse sur le thème de l&amp;#x27;Amérique des années 50, est fermé depuis plusieurs mois et son bâtiment tombe en décrépitude. Dans le cadre du réaménagement de l&amp;#x27;ex-nationale 20 et des travaux des Aménagements Ferroviaires du Nord Toulousain (AFNT) liés à la future LGV Bordeaux-Toulouse, plusieurs bâtiments du secteur vont être rasés. SNCF Réseau confirme à Actu Toulouse que les démolitions concernent des biens déjà acquis et libérés, et que les riverains ont été informés. Le Memphis Coffee doit être démoli au premier semestre 2027 avec les bâtiments environnants.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-fast-food-est-a-l-abandon-depuis-plusieurs-mois-en-decrepitude-il-va-bientot-etre-raye-du-paysage-a-toulouse_65022623.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ce-fast-food-est-a-l-abandon-depuis-plusieurs-mois-en-decrepitude-il-va-bientot-etre-raye-du-paysage-a-toulouse_65022623.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le fast-food Memphis Coffee, ouvert en 2013 avenue des États-Unis à Toulouse sur le thème de l'Amérique des années 50, est fermé depuis plusieurs mois et son bâtiment tombe en décrépitude. Dans le cadre du réaménagement de l'ex-nationale 20 et des travaux des Aménagements Ferroviaires du Nord Toulousain (AFNT) liés à la future LGV Bordeaux-Toulouse, plusieurs bâtiments du secteur vont être rasés. SNCF Réseau confirme à Actu Toulouse que les démolitions concernent des biens déjà acquis et libérés, et que les riverains ont été informés. Le Memphis Coffee doit être démoli au premier semestre 2027 avec les bâtiments environnants.</summary>
+    <category term="news"/>
+    <published>2026-11-08T04:44:01+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:2879a7df-fe19-4b78-8a3d-afa04e37762b</id>
+    <title>Str'Eat Burger, l'enseigne bordelaise, ouvre rue des Frères-Lion</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/commerce-burger-toulouse.jpeg"/&gt;
+&lt;p&gt;Str&amp;#x27;Eat Burger, chaîne de burgers née à Bordeaux en 2018, s&amp;#x27;apprête à ouvrir son premier restaurant toulousain rue des Frères-Lion, à deux pas de la place Dupuy. L&amp;#x27;enseigne a joué sur la rivalité rugby Toulouse-Bordeaux pour annoncer son arrivée, avec une affiche clin d&amp;#x27;œil à l&amp;#x27;UBB. Elle s&amp;#x27;installe dans l&amp;#x27;ancien local de La Boîte à Pizza, dans un secteur actuellement perturbé par les travaux de la future ligne C du métro. L&amp;#x27;ouverture est prévue pour le 26 novembre ; Str&amp;#x27;Eat Burger compte déjà 11 restaurants en France.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/bordeaux-debarque-a-toulouse-quelle-est-cette-nouvelle-enseigne-de-burgers-qui-s-installe-dans-la-ville-rose_65004087.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/bordeaux-debarque-a-toulouse-quelle-est-cette-nouvelle-enseigne-de-burgers-qui-s-installe-dans-la-ville-rose_65004087.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Str'Eat Burger, chaîne de burgers née à Bordeaux en 2018, s'apprête à ouvrir son premier restaurant toulousain rue des Frères-Lion, à deux pas de la place Dupuy. L'enseigne a joué sur la rivalité rugby Toulouse-Bordeaux pour annoncer son arrivée, avec une affiche clin d'œil à l'UBB. Elle s'installe dans l'ancien local de La Boîte à Pizza, dans un secteur actuellement perturbé par les travaux de la future ligne C du métro. L'ouverture est prévue pour le 26 novembre ; Str'Eat Burger compte déjà 11 restaurants en France.</summary>
+    <category term="place"/>
+    <published>2026-11-08T06:04:02+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3b72e705-4078-4e49-badb-f3843bac7fee</id>
+    <title>Ambiance montagne aux Friches de Toulouse : igloos, télécabines et raclette</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/frcihe-hiver26.jpg?itok=HHhJB8qW"/&gt;
+&lt;p&gt;Les Friches toulousaines (Gramont et Montaudran) ont revêtu leur habit hivernal depuis le 2 novembre 2026, avec 14 télécabines à Gramont et 13 igloos à Montaudran, réservables à l&amp;#x27;avance pour 2 à 7 ou 8 personnes. L&amp;#x27;entrée est à 10 € par personne pour 2 heures, boisson comprise. Au menu, les classiques de l&amp;#x27;hiver : raclette, tartiflette et camembert rôti via le restaurant éphémère « Comment Savoie », sans oublier le burger montagnard des Mecs au Camion. À partir du 7 novembre, le rooftop du Mama Shelter Toulouse se transforme en Mama Ski Club, avec décor de chalet vintage, vin chaud maison et DJ sets. Le tout sans quitter la Ville Rose.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lessentiel se concentre sur l&amp;#x27;ambiance et les événements (winter parties, Après-Ski XXL, Mama Ski Club) avec un ton festif et lifestyle ; actu_toulouse adopte un angle gastronomique plus large, citant plusieurs adresses toulousaines où manger des plats d&amp;#x27;hiver au-delà des seules Friches.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Détails pratiques sur les Friches (tarifs, capacités, événements DJ/canons à neige) et le Mama Ski Club&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Tour d&amp;#x27;horizon gastronomique plus complet : autres bonnes adresses hivernales à Toulouse en plus des Friches&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-04?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#54347"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/raclette-fondue-tartiflette-ou-manger-les-incontournables-de-la-gastronomie-hivernale-a-toulouse_65008655.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-04?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#54347"/>
+    <summary>Les Friches toulousaines (Gramont et Montaudran) ont revêtu leur habit hivernal depuis le 2 novembre 2026, avec 14 télécabines à Gramont et 13 igloos à Montaudran, réservables à l'avance pour 2 à 7 ou 8 personnes. L'entrée est à 10 € par personne pour 2 heures, boisson comprise. Au menu, les classiques de l'hiver : raclette, tartiflette et camembert rôti via le restaurant éphémère « Comment Savoie », sans oublier le burger montagnard des Mecs au Camion. À partir du 7 novembre, le rooftop du Mama Shelter Toulouse se transforme en Mama Ski Club, avec décor de chalet vintage, vin chaud maison et DJ sets. Le tout sans quitter la Ville Rose.</summary>
+    <category term="place"/>
+    <published>2026-11-04T05:05:22.189000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d867947a-3b52-40ec-b1b3-99e1636d853b</id>
+    <title>Sécheresse record : lâchers d'eau en Garonne et restrictions en novembre</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/1000017460.jpg"/&gt;
+&lt;p&gt;Pour la première fois depuis 35 ans, des lâchers d&amp;#x27;eau sont opérés dans la Garonne en novembre 2026, bien au-delà de la période habituelle de soutien à l&amp;#x27;étiage qui s&amp;#x27;arrête normalement le 31 octobre. L&amp;#x27;été 2026 a battu tous les records : premiers déstockages pyrénéens dès le 2 juillet et 28 millions de m³ lâchés en juillet, un volume jamais atteint. La préfecture de Haute-Garonne a pris un nouvel arrêté, entrant en vigueur le 7 novembre, pour prolonger les restrictions d&amp;#x27;usage de l&amp;#x27;eau dans le département. Jean-Michel Fabre, président de l&amp;#x27;Établissement Public Garonne, avertit que la situation reste tendue malgré le refroidissement des températures, et que de nombreuses rivières demeurent en grande difficulté.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article se concentre sur les lâchers d&amp;#x27;eau et les records historiques de sécheresse, avec des déclarations de Jean-Michel Fabre. Le second met davantage l&amp;#x27;accent sur l&amp;#x27;arrêté préfectoral du 7 novembre et les restrictions concrètes pour les habitants de Haute-Garonne.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Contexte historique et records de sécheresse, déclarations de l&amp;#x27;Établissement Public Garonne&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Détails des restrictions préfectorales et implications pour les habitants&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-secheresse-ne-s-est-pas-arretee-pour-la-premiere-fois-des-lachers-d-eau-dans-la-garonne-en-novembre_65009695.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-situation-hydrologique-demeure-fragile-des-restrictions-d-eau-en-haute-garonne-qui-souffre-toujours-de-secheresse_65029597.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/la-secheresse-ne-s-est-pas-arretee-pour-la-premiere-fois-des-lachers-d-eau-dans-la-garonne-en-novembre_65009695.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Pour la première fois depuis 35 ans, des lâchers d'eau sont opérés dans la Garonne en novembre 2026, bien au-delà de la période habituelle de soutien à l'étiage qui s'arrête normalement le 31 octobre. L'été 2026 a battu tous les records : premiers déstockages pyrénéens dès le 2 juillet et 28 millions de m³ lâchés en juillet, un volume jamais atteint. La préfecture de Haute-Garonne a pris un nouvel arrêté, entrant en vigueur le 7 novembre, pour prolonger les restrictions d'usage de l'eau dans le département. Jean-Michel Fabre, président de l'Établissement Public Garonne, avertit que la situation reste tendue malgré le refroidissement des températures, et que de nombreuses rivières demeurent en grande difficulté.</summary>
+    <category term="news"/>
+    <published>2026-11-03T18:52:36+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:87f2e219-0017-4c67-b650-da5bb4568eae</id>
+    <title>Grève du 5 novembre : cortège interdit en centre-ville, mobilisation quand même</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/manifestation-cgt-syndicats-km-2.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;intersyndicale (CGT, FO, CFDT, et autres) a appelé à une grande journée de grève le jeudi 5 novembre 2026 à Toulouse contre la vie chère, les bas salaires et la dégradation des services publics. Le préfet Fabrice Rigoulet-Roze a pris un arrêté mardi 3 novembre pour interdire le parcours déclaré (Saint-Cyprien – allées Jean-Jaurès via les boulevards), invoquant les violences et dégradations survenues lors des manifestations précédentes des 17, 24 et 31 octobre ; le tribunal administratif, saisi en urgence par les syndicats, a confirmé cette décision. Le cortège officiel a été redirigé vers un tracé alternatif de 4 km au départ des Arènes, avec de nombreuses perturbations sur les transports (tram T1, TER, bus Tisséo). Deux jours plus tard, le samedi 7 novembre, un rassemblement non déclaré de l&amp;#x27;acte IV des Gilets jaunes a quand même réuni plusieurs milliers de personnes en centre-ville malgré un périmètre d&amp;#x27;interdiction, avec des débordements signalés à Marengo.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Actu Toulouse couvre l&amp;#x27;événement en plusieurs articles successifs (anticipation, bras de fer juridique, direct, et acte IV), offrant un suivi chronologique détaillé. L&amp;#x27;Essentiel propose une synthèse pratique plus concise axée sur les perturbations concrètes et le contexte revendicatif, avec le cortège déjà présenté comme partant des Arènes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Suivi chronologique complet : négociations, décision de justice, déroulement du 5 novembre et acte IV du 7 novembre&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Résumé pratique des perturbations transport et des revendications syndicales&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifestation-sera-t-elle-interdite-a-toulouse_65004268.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/nous-n-entendons-pas-bouger-les-syndicats-veulent-maintenir-un-parcours-en-centre-ville-pour-le-5-novembre_65009249.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/manifestation-du-5-novembre-cortege-fermetures-transports-perturbes-a-quoi-faut-il-s-attendre-a-toulouse_65014664.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-05?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#54443"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-manifestation-du-5-novembre-suivez-cette-grande-journee-de-mobilisation-a-toulouse_65016454.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/manifestation-du-5-novembre-la-justice-donne-raison-au-prefet-qui-a-interdit-le-cortege-en-centre-ville-de-toulouse_65016680.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/acte-iv-des-gilets-jaunes-un-rassemblement-prevu-a-toulouse-mais-aucune-manifestation-declaree-a-quoi-s-attendre_65028318.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/des-milliers-de-personnes-rassemblees-pour-l-acte-iv-de-la-mobilisation-sociale-ce-7-novembre-a-toulouse_65029483.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifestation-sera-t-elle-interdite-a-toulouse_65004268.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'intersyndicale (CGT, FO, CFDT, et autres) a appelé à une grande journée de grève le jeudi 5 novembre 2026 à Toulouse contre la vie chère, les bas salaires et la dégradation des services publics. Le préfet Fabrice Rigoulet-Roze a pris un arrêté mardi 3 novembre pour interdire le parcours déclaré (Saint-Cyprien – allées Jean-Jaurès via les boulevards), invoquant les violences et dégradations survenues lors des manifestations précédentes des 17, 24 et 31 octobre ; le tribunal administratif, saisi en urgence par les syndicats, a confirmé cette décision. Le cortège officiel a été redirigé vers un tracé alternatif de 4 km au départ des Arènes, avec de nombreuses perturbations sur les transports (tram T1, TER, bus Tisséo). Deux jours plus tard, le samedi 7 novembre, un rassemblement non déclaré de l'acte IV des Gilets jaunes a quand même réuni plusieurs milliers de personnes en centre-ville malgré un périmètre d'interdiction, avec des débordements signalés à Marengo.</summary>
+    <category term="news"/>
+    <published>2026-11-02T18:58:36+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3f021b67-5735-4625-a423-509f61c59c79</id>
+    <title>Top 14 : deux matchs contrastés pour le Stade Toulousain</title>
+    <updated>2026-11-08T07:32:14.082262+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/paul-graou-et-ses-coequipiers-se-sont-fait-museler.jpg"/&gt;
+&lt;p&gt;Le Stade Toulousain a connu une semaine en dents de scie en Top 14. D&amp;#x27;un côté, une lourde défaite à Pau (34-14), pénalisé par de nombreuses absences, une indiscipline collective et un premier acte complètement raté, malgré une réaction en seconde période avec des essais d&amp;#x27;Amati et Lacombre. De l&amp;#x27;autre, une victoire solide à domicile face à Clermont (28-18), grâce à une entame maîtrisée conclue par des essais de Marchand, Thomas et Daroque, avant de tenir le retour auvergnat en fin de match. Ces deux résultats illustrent les difficultés de rotation et de gestion d&amp;#x27;effectif du club, notamment en période de doublons internationaux. Les supporters toulousains retiendront la capacité à résister sous pression face à l&amp;#x27;ASM, mais aussi la fragilité évidente sans les cadres habituels à Pau.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux articles couvrent des matchs différents : la défaite à Pau met en avant l&amp;#x27;indiscipline et les absences, tandis que l&amp;#x27;article sur Clermont valorise la solidité collective et l&amp;#x27;apport des jeunes en période de doublons.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Défaite à Pau : le détail des cartons, essais et l&amp;#x27;analyse de la déroute toulousaine&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Victoire face à Clermont : la performance des jeunes et la gestion du match en deuxième période&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-decime-par-les-absences-s-incline-a-pau_65001675.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-resiste-a-une-asm-accrocheuse-pour-signer-une-nouvelle-victoire_65029977.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/top-14-le-stade-toulousain-decime-par-les-absences-s-incline-a-pau_65001675.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Stade Toulousain a connu une semaine en dents de scie en Top 14. D'un côté, une lourde défaite à Pau (34-14), pénalisé par de nombreuses absences, une indiscipline collective et un premier acte complètement raté, malgré une réaction en seconde période avec des essais d'Amati et Lacombre. De l'autre, une victoire solide à domicile face à Clermont (28-18), grâce à une entame maîtrisée conclue par des essais de Marchand, Thomas et Daroque, avant de tenir le retour auvergnat en fin de match. Ces deux résultats illustrent les difficultés de rotation et de gestion d'effectif du club, notamment en période de doublons internationaux. Les supporters toulousains retiendront la capacité à résister sous pression face à l'ASM, mais aussi la fragilité évidente sans les cadres habituels à Pau.</summary>
+    <category term="news"/>
+    <published>2026-11-01T23:05:51+01:00</published>
   </entry>
 </feed>

@@ -21315,7 +21315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54c86e13-ddcb-482a-8f44-bd2a7e41ec87@news.lavillerose.com
 DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20261025
 SUMMARY:Les 80 ans d'EDF
 DESCRIPTION:L'Espace EDF Bazacle accueille une exposition retraçant huit d
  écennies d'histoire d'EDF\, de sa création en 1946 à aujourd'hui. Le pa
@@ -22967,6 +22967,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/plusieurs-fermetures-annoncees
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:3b72e705-4078-4e49-badb-f3843bac7fee@news.lavillerose.com
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Mama Ski Club
+DESCRIPTION:Les Friches toulousaines (Gramont et Montaudran) ont revêtu le
+ ur habit hivernal depuis le 2 novembre 2026\, avec 14 télécabines à Gra
+ mont et 13 igloos à Montaudran\, réservables à l'avance pour 2 à 7 ou 
+ 8 personnes. L'entrée est à 10 € par personne pour 2 heures\, boisson 
+ comprise. Au menu\, les classiques de l'hiver : raclette\, tartiflette et 
+ camembert rôti via le restaurant éphémère « Comment Savoie »\, sans 
+ oublier le burger montagnard des Mecs au Camion. À partir du 7 novembre\,
+  le rooftop du Mama\n\nSource\: https://www.lessentiel.fr/newsletter/toulo
+ use/2026-11-04#54347
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-04#54347?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:730113a7-1d9c-4d21-a133-69dc70316062@news.lavillerose.com
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261106
@@ -23594,17 +23611,17 @@ UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Grève du 5 novembre : cortège interdit en centre-ville\, mobilisa
- tion maintenue à Toulouse
-DESCRIPTION:Le jeudi 5 novembre 2026\, une grève interprofessionnelle nati
- onale s'est tenue à Toulouse\, réunissant syndicats (CGT\, FO\, CFDT\, C
- FDT\, FSU31\, Solidaires\, CFTC…)\, lycéens\, étudiants et Gilets jaun
- es contre la vie chère\, les bas salaires et la dégradation des services
-  publics. Le préfet Fabrice Rigoulet-Roze a pris mardi 3 novembre un arr
- êté interdisant le parcours déclaré de Saint-Cyprien aux allées Jean-
- Jaurès\, invoquant les violences survenues lors des mobilisations des 17\
- , 24 et 31 octobre\, et \n\nSource\: https://actu.fr/occitanie/toulouse_31
- 555/greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manif
- estation-sera-t-elle-interdite-a-toulouse_65004268.html
+ tion quand même
+DESCRIPTION:L'intersyndicale (CGT\, FO\, CFDT\, et autres) a appelé à une
+  grande journée de grève le jeudi 5 novembre 2026 à Toulouse contre la 
+ vie chère\, les bas salaires et la dégradation des services publics. Le 
+ préfet Fabrice Rigoulet-Roze a pris un arrêté mardi 3 novembre pour int
+ erdire le parcours déclaré (Saint-Cyprien – allées Jean-Jaurès via l
+ es boulevards)\, invoquant les violences et dégradations survenues lors d
+ es manifestations précédentes des 17\, 24 et 31 octobre \; le tribunal a
+ dministratif\, saisi\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
+ greve-du-5-novembre-le-prefet-tente-de-criminaliser-la-colere-la-manifesta
+ tion-sera-t-elle-interdite-a-toulouse_65004268.html
 URL:https://actu.fr/occitanie/toulouse_31555/greve-du-5-novembre-le-prefet-
  tente-de-criminaliser-la-colere-la-manifestation-sera-t-elle-interdite-a-t
  oulouse_65004268.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
@@ -24205,21 +24222,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:75b1ae3b-86bb-4aa8-ae63-e4d5771656a8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20271008
 SUMMARY:Bal au Grand Hôtel
-DESCRIPTION:Le Couvent des Jacobins accueille l'exposition immersive « Bal
-  au Grand Hôtel : se divertir à Toulouse à la Belle Époque »\, du 7 n
- ovembre 2026 au 7 octobre 2027. Sur 650 m²\, une scénographie grandeur n
- ature reconstitue le Toulouse de 1900 : rue toulousaine\, hall d'hôtel\, 
- café-restaurant\, salle de bal et gare\, peuplés de plus de 150 objets p
- atrimoniaux\, costumes et mobiliers d'époque. L'exposition explore les tr
- ansformations sociales et culturelles de la période 1871–1914\, montran
- t comment de nou\n\nSource\: https://www.toulouse-tourisme.com/agenda/bal-
- au-grand-hotel-se-divertir-a-toulouse-a-la-belle-epoque/
-LOCATION:rue toulousaine\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/bal-au-grand-hotel-se-divertir
- -a-toulouse-a-la-belle-epoque/?utm_source=ical&utm_medium=calendar&utm_cam
- paign=toulouse-agenda
+DESCRIPTION:À partir du 7 novembre 2026 et jusqu'au 7 octobre 2027\, le Co
+ uvent des Jacobins accueille « Bal au Grand Hôtel : se divertir à Toulo
+ use à la Belle Époque »\, une exposition immersive et familiale dédié
+ e à la vie toulousaine entre 1871 et 1914. Les 650 m² du réfectoire ont
+  été entièrement transformés en 11 espaces scénographiés reconstitua
+ nt une rue\, un Grand Hôtel\, un marché\, une gare\, un café-restaurant
+  et une salle de bal. Plus de 400 éléments d'époque ont été réunis p
+ our raconter les profondes\n\nSource\: https://www.toulouscope.fr/2026/11/
+ 08/le-couvent-des-jacobins-va-faire-revivre-la-belle-epoque-avec-une-expos
+ ition-immersive-inedite-13636235.php
+URL:https://www.toulouscope.fr/2026/11/08/le-couvent-des-jacobins-va-faire-
+ revivre-la-belle-epoque-avec-une-exposition-immersive-inedite-13636235.php
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3621c9aa-67b8-434c-902d-59c385f1b546@news.lavillerose.com
@@ -24369,23 +24386,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/c-est-toujours-grace-au-public
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:3b72e705-4078-4e49-badb-f3843bac7fee@news.lavillerose.com
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Mama Ski Club
-DESCRIPTION:Les terrasses toulousaines se mettent en mode montagne pour l'h
- iver\, avec trois adresses à la clé. À Gramont\, Les Friches proposent 
- pour la deuxième année consécutive 14 télécabines privatisables (2 à
-  7 personnes) sur 750 m² de terrasse\, avec un format Après-Ski XXL incl
- uant DJ sets et canons à neige. À Montaudran\, 13 igloos (2 à 8 personn
- es) et une moto-neige composent le décor\, agrémentés de winter parties
- . L'accès est à 10 € par personne pour 2 heures\, boisson comprise. À
-  partir du 7 novembre\n\nSource\: https://www.lessentiel.fr/newsletter/tou
- louse/2026-11-04#54347
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-04#54347?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:35c90be4-ee4c-4e5b-9d0f-08284fce353b@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
@@ -24431,6 +24431,25 @@ DESCRIPTION:La soirée Electronyx investit le Dagobar le samedi 7 novembre
  05-samedi-7-novembre-2
 URL:https://www.clutchmag.fr/evenements#2026-11-05-samedi-7-novembre-2?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:69d791d6-029d-451e-8320-5a05ba92b7e0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261201
+SUMMARY:Novembre bleu
+DESCRIPTION:À l'occasion de Novembre bleu et du mouvement Movember\, la Ma
+ irie de Toulouse illumine 12 fontaines ornementales en bleu jusqu'au 30 no
+ vembre\, pour sensibiliser aux cancers masculins (prostate\, testicules) e
+ t encourager le dépistage précoce. Les fontaines concernées sont répar
+ ties dans plusieurs quartiers de la ville — place Salengro\, square Goud
+ ouli\, place de la Trinité\, avenue Jacques-Chirac ou encore place Dupuy\
+ , entre autres. L'éclairage bleu est visible chaque jour de 6h à 8h puis
+  de 18h à \n\nSource\: https://www.toulouscope.fr/2026/11/07/novembre-ble
+ u-a-toulouse-ces-12-fontaines-vont-se-parer-dune-couleur-inhabituelle-1363
+ 9486.php
+URL:https://www.toulouscope.fr/2026/11/07/novembre-bleu-a-toulouse-ces-12-f
+ ontaines-vont-se-parer-dune-couleur-inhabituelle-13639486.php?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:be71a1e4-d06e-4804-adf1-ff23f4f8aec8@news.lavillerose.com
@@ -24535,6 +24554,26 @@ DESCRIPTION:Les Rencontres du Papier et du Livre se tiennent à l'Espace Jo
 LOCATION:Espace Job du 8 au 15 novembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-rencontres-du-papier-et-du
  -livre/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:85bce769-a66b-4ae6-8702-42c3de976fa9@news.lavillerose.com
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Hommage au cardinal Saliège à la cathédrale Saint-Étienne\, 70 
+ ans après sa mort
+DESCRIPTION:Le 8 novembre 2026\, une messe sera célébrée à 10h30 en la 
+ cathédrale Saint-Étienne de Toulouse pour le 70e anniversaire de la mort
+  du cardinal Jules-Géraud Saliège\, archevêque de Toulouse décédé en
+  1956. L'office sera présidé par son successeur actuel\, Monseigneur Guy
+  de Kerimel\, en présence de nombreuses personnalités politiques et de r
+ eprésentants de plusieurs confessions (protestante\, orthodoxe et juive).
+  La cérémonie sera suivie de l'inauguration d'une plaque commémorative 
+ sur le mur extérie\n\nSource\: https://actu.fr/occitanie/toulouse_31555/7
+ 0-ans-apres-sa-mort-un-grand-homme-de-l-histoire-de-toulouse-va-recevoir-u
+ n-vibrant-hommage_65026412.html
+URL:https://actu.fr/occitanie/toulouse_31555/70-ans-apres-sa-mort-un-grand-
+ homme-de-l-histoire-de-toulouse-va-recevoir-un-vibrant-hommage_65026412.ht
+ ml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4dcce612-2c41-4b58-b56d-97083f95437f@news.lavillerose.com
@@ -27168,6 +27207,27 @@ DESCRIPTION:Le Layup accueille une grande soirée événement Clutch'O le 2
  x-layup-mondes-parralleles/
 URL:https://www.toulouse-tourisme.com/agenda/clutcho-x-layup-mondes-parrall
  eles/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2879a7df-fe19-4b78-8a3d-afa04e37762b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Str'Eat Burger\, l'enseigne bordelaise\, ouvre rue des Frères-Lion
+DESCRIPTION:Str'Eat Burger\, chaîne de burgers née à Bordeaux en 2018\, 
+ s'apprête à ouvrir son premier restaurant toulousain rue des Frères-Lio
+ n\, à deux pas de la place Dupuy. L'enseigne a joué sur la rivalité rug
+ by Toulouse-Bordeaux pour annoncer son arrivée\, avec une affiche clin d'
+ œil à l'UBB. Elle s'installe dans l'ancien local de La Boîte à Pizza\,
+  dans un secteur actuellement perturbé par les travaux de la future ligne
+  C du métro. L'ouverture est prévue pour le 26 novembre \; Str'Eat Burge
+ r compte déjà 11\n\nSource\: https://actu.fr/occitanie/toulouse_31555/bo
+ rdeaux-debarque-a-toulouse-quelle-est-cette-nouvelle-enseigne-de-burgers-q
+ ui-s-installe-dans-la-ville-rose_65004087.html
+LOCATION:rue des Frères-Lion\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/bordeaux-debarque-a-toulouse-q
+ uelle-est-cette-nouvelle-enseigne-de-burgers-qui-s-installe-dans-la-ville-
+ rose_65004087.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
