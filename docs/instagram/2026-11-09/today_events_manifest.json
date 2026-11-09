@@ -1,0 +1,132 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:6f9e24cf-02c9-4c24-8d19-9b65fb047902",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier \"écoute opéra\" sur Peter Grimes au centre culturel Saint-Cyprien",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/eno-s-peter-grimes-2023--c--tom-bowles.jpg?itok=xBHXoi1-",
+    "file": "cluster_6f9e24cf-02c9-4c24-8d19-9b65fb047902_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:4dcce612-2c41-4b58-b56d-97083f95437f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "GIMS en concert au Zénith Toulouse Métropole en novembre",
+    "image_url": "https://s1.ticketm.net/dam/a/1eb/50a2b40e-39f2-4a96-b125-0f0fe69f11eb_SOURCE",
+    "file": "cluster_4dcce612-2c41-4b58-b56d-97083f95437f_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:eefd6a10-dcc7-41e9-bdbe-001ba90cd34c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Robert Finley en concert au Bikini en novembre 2026",
+    "image_url": "https://s1.ticketm.net/dam/a/12e/f0b9e399-73a7-4c89-aae1-cd98a764912e_SOURCE",
+    "file": "cluster_eefd6a10-dcc7-41e9-bdbe-001ba90cd34c_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:e7b13f93-7352-4bae-953d-64c6db4f8405",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le Festival Locombia fête ses 10 ans à Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/copie-de-todas2.jpg?itok=NCwAdigQ",
+    "file": "cluster_e7b13f93-7352-4bae-953d-64c6db4f8405_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:03a9f0a2-2b90-4c3b-83f9-2bf0af36827b",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Comité de lecture prix Écrire la Ville au CAUE 31",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_2220771989.jpg?itok=tvaJeFOP",
+    "file": "cluster_03a9f0a2-2b90-4c3b-83f9-2bf0af36827b_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:93861a7e-fdb2-48df-ab93-51dbb4d24c81",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition « 40 ans d'actions humanitaires » à la Communauté municipale de santé",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/expo-photo--c--isabelle-carayon.jpg?h=10372a76&itok=K0CQRBd0",
+    "file": "cluster_93861a7e-fdb2-48df-ab93-51dbb4d24c81_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:d4f50bb3-79f3-485f-974a-dbb2a900ea30",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le festival NEUFNEUF explore la danse libre jusqu'au 21 novembre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/course-femmes-adobestock_694656028.jpg?h=16a27c1b&itok=epbyZAj2",
+    "file": "cluster_d4f50bb3-79f3-485f-974a-dbb2a900ea30_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:9703953d-06ed-4478-84c4-b3ffdca6ef82",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival Supernova : trois semaines de création contemporaine à Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SUPERNOVA-SORANO.jpg",
+    "file": "cluster_9703953d-06ed-4478-84c4-b3ffdca6ef82_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2b14e5f4-c525-4d80-a164-fbca566f1019",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le festival FReDD : cinéma environnemental dans toute Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/462028504-942641557889200-5364938293269929800-n--1--copie.jpg",
+    "file": "cluster_2b14e5f4-c525-4d80-a164-fbca566f1019_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5aa10dd0-3f0f-48ba-b325-e71cda3b1773",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le festival FReDD : cinéma engagé dans toute la région toulousaine",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/462028504-942641557889200-5364938293269929800-n--1--copie.jpg",
+    "file": "cluster_5aa10dd0-3f0f-48ba-b325-e71cda3b1773_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:345807da-3b55-413f-9fb7-e074508d2d32",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival FReDD : cinéma et environnement dans toute Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/462028504-942641557889200-5364938293269929800-n--1--copie.jpg",
+    "file": "cluster_345807da-3b55-413f-9fb7-e074508d2d32_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
