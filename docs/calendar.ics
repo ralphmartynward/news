@@ -21678,23 +21678,6 @@ URL:https://www.toulouscope.fr/2026/10/01/le-festival-cest-qui-la-boss-revi
  use-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:a556af45-166c-4c98-a6de-215adf5ea505@news.lavillerose.com
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261115
-SUMMARY:Toulouse Miniature
-DESCRIPTION:L'artiste Roger Puntous présente ses maquettes de Toulouse ré
- alisées entièrement à la main au Centre d'Art Vitry. Parmi les œuvres 
- exposées figurent la Basilique Saint-Sernin\, le Donjon du Capitole et le
-  dôme de La Grave\, monuments emblématiques de la ville rose. L'expositi
- on se tient du 27 octobre au 14 novembre 2026\, offrant aux amateurs d'art
-  et d'histoire locale une plongée miniaturisée dans le patrimoine toulou
- sain. Une occasion originale de (re)découvrir l'architecture de Toulouse 
- sous un \n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-min
- iature/
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-miniature/?utm_source
- =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:a8502b01-4955-434e-a706-d8e4e561952d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
@@ -22984,6 +22967,23 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-04#54347?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:20fc0d4c-02ec-47a8-b453-046e13495af6@news.lavillerose.com
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261201
+SUMMARY:Grande collecte solidaire des jouets
+DESCRIPTION:La Grande collecte solidaire des jouets 2026 se tient du 2 au 3
+ 0 novembre partout en France\, avec 5 000 points de collecte ouverts au pu
+ blic. En Haute-Garonne\, 26 magasins\, 36 bureaux de poste et 19 associati
+ ons participent à l'opération. Tous types de jouets sont acceptés — 
+ électroniques\, peluches\, jeux de société\, articles d'extérieur\, vo
+ ire petits cadeaux de menus enfants — quel que soit leur état. Les joue
+ ts collectés sont nettoyés puis redistribués ou revendus à prix solida
+ ire par des assoc\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
+ e/2026-11-10#54876
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-10#54876?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:730113a7-1d9c-4d21-a133-69dc70316062@news.lavillerose.com
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261106
@@ -24201,18 +24201,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:75b1ae3b-86bb-4aa8-ae63-e4d5771656a8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20271008
 SUMMARY:Bal au Grand Hôtel
-DESCRIPTION:À partir du 7 novembre 2026 et jusqu'au 7 octobre 2027\, le Co
- uvent des Jacobins accueille « Bal au Grand Hôtel : se divertir à Toulo
- use à la Belle Époque »\, une exposition immersive et familiale dédié
- e à la vie toulousaine entre 1871 et 1914. Les 650 m² du réfectoire ont
-  été entièrement transformés en 11 espaces scénographiés reconstitua
- nt une rue\, un Grand Hôtel\, un marché\, une gare\, un café-restaurant
-  et une salle de bal. Plus de 400 éléments d'époque ont été réunis p
- our raconter les profondes\n\nSource\: https://www.toulouscope.fr/2026/11/
- 08/le-couvent-des-jacobins-va-faire-revivre-la-belle-epoque-avec-une-expos
- ition-immersive-inedite-13636235.php
+DESCRIPTION:Le Couvent des Jacobins ouvre une exposition immersive intitul
+ ée « Bal au Grand Hôtel : se divertir à Toulouse à la Belle Époque 
+ »\, consacrée à la vie quotidienne et aux divertissements toulousains e
+ ntre 1871 et 1914. Les 650 m² du réfectoire ont été entièrement scén
+ ographiés en 11 espaces reconstituant une rue\, un grand hôtel\, une sal
+ le de bal\, un café-restaurant\, une gare et d'autres lieux emblématique
+ s de l'époque. Quelque 400 pièces d'époque sont présentées\, et le co
+ mmissaire Pierre Catalo s\n\nSource\: https://www.toulouscope.fr/2026/11/0
+ 8/le-couvent-des-jacobins-va-faire-revivre-la-belle-epoque-avec-une-exposi
+ tion-immersive-inedite-13636235.php
 URL:https://www.toulouscope.fr/2026/11/08/le-couvent-des-jacobins-va-faire-
  revivre-la-belle-epoque-avec-une-exposition-immersive-inedite-13636235.php
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -24628,25 +24628,6 @@ URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:29de4096-44b2-4dd6-acf5-e73dd9e95000@news.lavillerose.com
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Les Passions & Dulci Jubilo
-DESCRIPTION:À l'occasion de leurs 40 ans\, l'ensemble Les Passions s'assoc
- ie aux chanteurs de Dulci Jubilo pour un concert anniversaire à l'Auditor
- ium Saint-Pierre-des-Cuisines le 10 novembre 2026. Le programme explore la
-  filiation musicale entre Monteverdi (mort en 1643) et Charpentier (né la
-  même année)\, deux géants du baroque. Le clou du spectacle est l'orato
- rio Jephté de Carissimi\, chef-d'œuvre du baroque italien mêlant spirit
- ualité et théâtralité. Un événement incontournable pour les amateurs
-  de musique\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-passi
- ons-dulci-jubilo-jean-marc-andrieu-christopher-gibert-les-arts-renaissants
- /
-URL:https://www.toulouse-tourisme.com/agenda/les-passions-dulci-jubilo-jean
- -marc-andrieu-christopher-gibert-les-arts-renaissants/?utm_source=ical&utm
- _medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:2854143e-fde8-44b4-99a6-815ea7c0b3c7@news.lavillerose.com
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261113
@@ -24803,6 +24784,47 @@ DESCRIPTION:Toulouse Tourisme propose un programme de découvertes pour nov
  a38-34a8-4c8f-955f-7fcd38042295
 URL:http://cdt31.tourinsoft.com/view.ashx?email=dacc1a38-34a8-4c8f-955f-7fc
  d38042295?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2481d977-5f87-43fe-b785-feae7e9c7a85@news.lavillerose.com
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Le Puerto Habana rouvre après deux mois de fermeture administrativ
+ e
+DESCRIPTION:Le Puerto Habana\, bar-restaurant-club emblématique au bord du
+  canal du Midi à Toulouse\, rouvre le mercredi 11 novembre 2026 à 19h30\
+ , après deux mois de fermeture administrative imposée par la préfecture
+  de la Haute-Garonne. La fermeture faisait suite à la découverte d'une a
+ rme à feu sur un client lors d'une soirée dansante à la mi-septembre. L
+ e patron\, Bernard Courreges\, qui gère l'établissement depuis une quinz
+ aine d'années sans jamais avoir subi pareille sanction\, juge la décisio
+ n « sévère »\, \n\nSource\: https://actu.fr/occitanie/toulouse_31555/t
+ out-le-monde-est-sur-le-pont-apres-deux-mois-de-fermeture-imposee-le-puert
+ o-habana-s-apprete-a-rouvrir-a-toulouse_65033041.html
+URL:https://actu.fr/occitanie/toulouse_31555/tout-le-monde-est-sur-le-pont-
+ apres-deux-mois-de-fermeture-imposee-le-puerto-habana-s-apprete-a-rouvrir-
+ a-toulouse_65033041.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:540b2ea2-3b88-4b6c-9d8b-83cd0d48403d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Ce qui nous mène à toi
+DESCRIPTION:Le film dramatique français Ce qui nous mène à toi\, réalis
+ é par Khalil Cherti\, sort en salles le mercredi 11 novembre 2026. L'hist
+ oire suit Charlie et Hicham\, un couple trentenaire confronté à l'inféc
+ ondité qui traverse un parcours d'aide médicale à la procréation sur t
+ rois ans. Toulouse tient un rôle central : le tournage s'est déroulé da
+ ns de nombreux lieux emblématiques de la métropole\, parmi lesquels le F
+ orum des Cordeliers\, le Stade de Blagnac\, les Halles d'Amouroux\, le lac
+  de la Ramée et l\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce
+ -film-quasi-entierement-tourne-a-toulouse-sort-bientot-en-salle-tout-ce-qu
+ -il-faut-savoir_65033847.html
+LOCATION:salles le mercredi 11 novembre 2026\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/ce-film-quasi-entierement-tour
+ ne-a-toulouse-sort-bientot-en-salle-tout-ce-qu-il-faut-savoir_65033847.htm
+ l?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9703953d-06ed-4478-84c4-b3ffdca6ef82@news.lavillerose.com
@@ -26608,6 +26630,25 @@ DESCRIPTION:Le Musée Saint-Raymond\, musée d'archéologie de Toulouse\, p
 URL:https://www.toulouse-tourisme.com/agenda/week-end-en-famille-au-musee-s
  aint-raymond/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4351f2b5-0f3b-419f-a62f-14b267e7d150@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261128
+SUMMARY:Pas de train Toulouse–Montauban pendant une semaine en novembre
+DESCRIPTION:Du samedi 21 novembre à 00h10 au vendredi 27 novembre à 5h40\
+ , aucun train ne circulera entre Toulouse et Montauban\, dans le cadre des
+  travaux des Aménagements Ferroviaires au Nord de Toulouse (AFNT) menés 
+ par SNCF Réseau. Des autocars de substitution seront mis en place\, mais 
+ sans pouvoir remplacer l'ensemble des trains liO. Les voyageurs à destina
+ tion de Paris ou Bordeaux devront monter dans le TGV ou l'Intercités à M
+ ontauban\, et l'inverse dans l'autre sens. La SNCF recommande de consulter
+  la c\n\nSource\: https://actu.fr/occitanie/toulouse_31555/attention-aucun
+ -ne-circulera-entre-toulouse-et-paris-pendant-une-semaine-voici-quand-et-p
+ ourquoi_65033504.html
+URL:https://actu.fr/occitanie/toulouse_31555/attention-aucun-ne-circulera-e
+ ntre-toulouse-et-paris-pendant-une-semaine-voici-quand-et-pourquoi_6503350
+ 4.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db@news.lavillerose.com
@@ -32993,6 +33034,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/linh-billet/idmanif/634574
  -agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:531a0845-bd70-48ab-9b8a-6c62870526f5@news.lavillerose.com
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Louis Chappey Fait Longtemps Wesh
+DESCRIPTION:Le comédien Louis Chappey investit la scène du 3T D'À Côté
+  à Toulouse avec son spectacle « Louis Chappey Fait Longtemps Wesh ». L
+ a représentation est programmée au 3 mars 2027\, dans la catégorie arts
+  et théâtre. Le 3T D'À Côté est une salle toulousaine dédiée aux ar
+ ts vivants\, connue pour accueillir des spectacles de théâtre contempora
+ in et de comédie. Les amateurs de théâtre et d'humour sont invités à 
+ réserver leurs places dès maintenant via Ticketmaster.\n\nSource\: https
+ ://www.ticketmaster.fr/fr/manifestation/louis-chappey-billet/idmanif/67817
+ 3/idseance/4456434
+LOCATION:salle toulousaine dédiée aux arts vivants\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/louis-chappey-billet/idman
+ if/678173/idseance/4456434?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:0f5323cf-0391-46f5-bffe-29a476b4dd7e@news.lavillerose.com
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270306
@@ -33237,6 +33297,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/nadege-100-gene-billet/idm
  ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:88d35411-c8c9-482f-990f-d1b49e8ae31a@news.lavillerose.com
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Gala du Printemps
+DESCRIPTION:Le Gala du Printemps est programmé au Centre de Congrès Diago
+ ra de Labège le 5 mars 2027. L'événement s'inscrit dans la catégorie a
+ rts et théâtre\, avec une tonalité comédie. Le lieu\, le Diagora\, est
+  une salle de spectacle et de congrès bien établie dans la banlieue sud-
+ est de Toulouse\, à Labège. Les amateurs de spectacles humoristiques et 
+ de galas de scène sont le public visé.\n\nSource\: https://www.ticketmas
+ ter.fr/fr/manifestation/le-gala-du-printemps-billet/idmanif/677980/idseanc
+ e/4455666
+LOCATION:salle de spectacle\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/le-gala-du-printemps-bille
+ t/idmanif/677980/idseance/4455666?utm_source=ical&utm_medium=calendar&utm_
+ campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c9e22315-dd77-4a76-bd73-f9e4e7ba4f6e@news.lavillerose.com
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
@@ -33381,15 +33459,15 @@ UID:cluster:9a652dac-7c19-4e22-a4a0-c5e37f006f11@news.lavillerose.com
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Royal Blood
-DESCRIPTION:Le duo de rock britannique Royal Blood se produira au Bikini à
-  Ramonville-Saint-Agne le 7 mars 2027. Connu pour son son lourd et percuta
- nt mêlant basse et batterie\, le groupe est l'une des formations rock les
-  plus acclamées de la scène britannique actuelle. Le Bikini\, salle de r
- éférence de la région toulousaine\, accueille ce concert qui s'annonce 
- comme un rendez-vous incontournable pour les amateurs de rock. Les billets
-  sont disponibles via Ticketmaster.\n\nSource\: https://www.ticketmaster.f
- r/fr/manifestation/royal-blood-billet/idmanif/674940/idseance/4435638
-LOCATION:salle de référence de la région\, Toulouse
+DESCRIPTION:Le duo de rock britannique Royal Blood se produira au Bikini\, 
+ à Ramonville-Saint-Agne\, le 7 mars 2027. Connu pour son son massif à de
+ ux musiciens — basse et batterie — le groupe a su s'imposer parmi les 
+ grandes scènes rock mondiales depuis ses débuts en 2014. Le Bikini\, sal
+ le de référence de la région toulousaine\, accueille ce rendez-vous pou
+ r les amateurs de rock puissant et de concerts intenses. Les billets sont 
+ disponibles via Ticketmaster.\n\nSource\: https://www.ticketmaster.fr/fr/m
+ anifestation/royal-blood-billet/idmanif/674940/idseance/4435638
+LOCATION:salle de référence de la régi\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/royal-blood-billet/idmanif
  /674940/idseance/4435638?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
@@ -33529,6 +33607,23 @@ DESCRIPTION:Le spectacle comique « Hépatik Girl » est programmé à La C
 URL:https://www.ticketmaster.fr/fr/manifestation/hepatik-girl-billet/idmani
  f/676895/idseance/4445550?utm_source=ical&utm_medium=calendar&utm_campaign
  =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:99f61190-adad-4ac0-9706-95a91388119f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Audrey Perrin Je ne simule plus
+DESCRIPTION:La comédienne Audrey Perrin présente son spectacle solo « Je
+  ne simule plus » au 3T d'À Côté\, salle de théâtre toulousaine. Le 
+ titre\, volontairement provocateur\, laisse entrevoir un one-woman-show an
+ cré dans l'humour et l'autodérision. La représentation est programmée 
+ pour le 11 mars 2027. Les amateurs de théâtre contemporain et de seule-e
+ n-scène sont le public visé.\n\nSource\: https://www.ticketmaster.fr/fr/
+ manifestation/audrey-perrin-billet/idmanif/678142/idseance/4456341
+LOCATION:salle de théâtre toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/audrey-perrin-billet/idman
+ if/678142/idseance/4456341?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:3cd367e4-c9aa-4182-b690-040777b4a06d@news.lavillerose.com
@@ -36390,6 +36485,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/plk-billet/idmanif/673882/
  -agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a9047ec1-e102-4a24-8a82-6b4589b4cd5c@news.lavillerose.com
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Sergent Garcia
+DESCRIPTION:Le musicien franco-colombien Sergent Garcia se produira au Biki
+ ni\, à Ramonville-Saint-Agne\, le 15 mai 2027. Ce concert s'inscrit dans 
+ un registre reggae\, style emblématique de cet artiste mêlant influences
+  latines et caribéennes. Le Bikini est l'une des salles de référence de
+  la scène musicale toulousaine\, ce qui en fait un cadre de choix pour ce
+  type de performance. Les amateurs de reggae et de sonorités world de la 
+ région toulousaine sont particulièrement concernés.\n\nSource\: https:/
+ /www.ticketmaster.fr/fr/manifestation/sergent-garcia-billet/idmanif/677922
+ /idseance/4455498
+LOCATION:salles de référence de la scène musicale toulo\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/sergent-garcia-billet/idma
+ nif/677922/idseance/4455498?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:f1974ddb-b024-4e41-885a-8fda25eb7e66@news.lavillerose.com
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
@@ -36951,6 +37065,23 @@ DESCRIPTION:La chanteuse béninoise Angélique Kidjo\, figure mondiale de l
 URL:https://www.ticketmaster.fr/fr/manifestation/angelique-kidjo-billet/idm
  anif/675640/idseance/4439842?utm_source=ical&utm_medium=calendar&utm_campa
  ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f267b48b-0de2-492d-938b-d331a846b231@news.lavillerose.com
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Ayrton Gomes P'tit Con
+DESCRIPTION:Le comédien Ayrton Gomes présente son spectacle « P'tit Con 
+ » au 3T d'À Côté\, salle de théâtre toulousaine. L'événement est r
+ éférencé sur Ticketmaster dans la catégorie Arts & Théâtre. La repr
+ ésentation est programmée le 3 juin 2027. Peu de détails supplémentair
+ es sont disponibles sur le contenu ou la durée du spectacle.\n\nSource\: 
+ https://www.ticketmaster.fr/fr/manifestation/ayrton-gomes-billet/idmanif/6
+ 78172/idseance/4456433
+LOCATION:salle de théâtre toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/ayrton-gomes-billet/idmani
+ f/678172/idseance/4456433?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1689c724-6ec8-4c77-939b-df72543bd83b@news.lavillerose.com

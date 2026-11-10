@@ -1,0 +1,110 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:93861a7e-fdb2-48df-ab93-51dbb4d24c81",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition « 40 ans d'actions humanitaires » à la Communauté municipale de santé",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/expo-photo--c--isabelle-carayon.jpg?h=10372a76&itok=K0CQRBd0",
+    "file": "cluster_93861a7e-fdb2-48df-ab93-51dbb4d24c81_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:29de4096-44b2-4dd6-acf5-e73dd9e95000",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Les Passions fêtent 40 ans à Saint-Pierre des Cuisines avec Dulci Jubilo",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/les-passions-et-dulci-jubilo_copyright_anima-nostra-alex-j-overton.jpg?h=acee8e23&itok=CYcFL-jQ",
+    "file": "cluster_29de4096-44b2-4dd6-acf5-e73dd9e95000_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:2854143e-fde8-44b4-99a6-815ea7c0b3c7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Nouveau Code de la Drague à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-NOUVEAU-CODE-DE-LA-DRAGUE.jpg",
+    "file": "cluster_2854143e-fde8-44b4-99a6-815ea7c0b3c7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3c2f4422-1c8d-41aa-bbda-2b18a03f6ea2",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "GUSH IS GREAT, spectacle de danse au Théâtre Garonne",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/GUSH-GREAT.jpg",
+    "file": "cluster_3c2f4422-1c8d-41aa-bbda-2b18a03f6ea2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a9b5e0cb-696f-44fc-9bc8-df61bcf1d3ee",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Amine Radi en spectacle au Casino Barrière de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_a9b5e0cb-696f-44fc-9bc8-df61bcf1d3ee_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:a556af45-166c-4c98-a6de-215adf5ea505",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Toulouse en miniature : l'expo Roger Puntous au Centre d'art Vitry",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/puntous.jpg?itok=I8HY_oac",
+    "file": "cluster_a556af45-166c-4c98-a6de-215adf5ea505_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:2da9556d-f2a4-4d77-bc2e-03ac1c577f6e",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Atelier imprimerie jésuite du 17e siècle à la Bibliothèque du Patrimoine",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/vieux-livres-freepik.jpg?itok=woOErYWP",
+    "file": "cluster_2da9556d-f2a4-4d77-bc2e-03ac1c577f6e_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:43461679-f0a4-4f52-886c-f5a51fb010ae",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "5e forum Place de l'Emploi à la salle Jean Mermoz",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/orange-adobestock_823729841.jpg?itok=n4AoCid3",
+    "file": "cluster_43461679-f0a4-4f52-886c-f5a51fb010ae_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:b7355cad-bd49-4d89-bba6-fc746d76b492",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Cafés bricol' de Saint-Michel : réparer ensemble rue Saint-Michel",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/construction-tools-set.jpg?itok=JeR4maod",
+    "file": "cluster_b7355cad-bd49-4d89-bba6-fc746d76b492_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  }
+]
