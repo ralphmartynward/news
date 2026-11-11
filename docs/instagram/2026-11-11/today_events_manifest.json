@@ -1,0 +1,99 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:93861a7e-fdb2-48df-ab93-51dbb4d24c81",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition « 40 ans d'actions humanitaires » à la Communauté municipale de santé",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/expo-photo--c--isabelle-carayon.jpg?h=10372a76&itok=K0CQRBd0",
+    "file": "cluster_93861a7e-fdb2-48df-ab93-51dbb4d24c81_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:2854143e-fde8-44b4-99a6-815ea7c0b3c7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Nouveau Code de la Drague à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-NOUVEAU-CODE-DE-LA-DRAGUE.jpg",
+    "file": "cluster_2854143e-fde8-44b4-99a6-815ea7c0b3c7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3c2f4422-1c8d-41aa-bbda-2b18a03f6ea2",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "GUSH IS GREAT, spectacle de danse au Théâtre Garonne",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/GUSH-GREAT.jpg",
+    "file": "cluster_3c2f4422-1c8d-41aa-bbda-2b18a03f6ea2_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:36b47c33-4944-4845-8582-3d98bee06015",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Douleur de Marguerite Duras à la Cave Poésie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-DOULEUR-DE-MARGUERITE-DURAS.jpg",
+    "file": "cluster_36b47c33-4944-4845-8582-3d98bee06015_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:cc282ea8-1e64-4374-b5f5-1c9cc9c8567e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Chameleons en concert au Bikini, Ramonville",
+    "image_url": "https://s1.ticketm.net/dam/a/78b/f0059bfc-b3ff-481c-b772-e0389df4e78b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_cc282ea8-1e64-4374-b5f5-1c9cc9c8567e_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:fe46db12-e570-46f4-a670-761bf5c8500f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Gueules Cassées » de René Apallec au Collectif IPN",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/EXPO-GUEULES-CASSEES.jpg",
+    "file": "cluster_fe46db12-e570-46f4-a670-761bf5c8500f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:cee1038e-cf9c-48c9-ab7b-d645c7327c30",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "Premier championnat de boules carrées place Saint-Aubin à Toulouse",
+    "image_url": "https://static.actu.fr/uploads/2026/11/le-debut-de-la-saint-louis-2024-avec-le-surprenant-et-releve-tournoi-de-boules-carrees24-aout.jpg",
+    "file": "cluster_cee1038e-cf9c-48c9-ab7b-d645c7327c30_event_story.jpg",
+    "img_width": 1280,
+    "img_height": 834
+  },
+  {
+    "cluster_id": "cluster:a0919d29-9ef7-46ef-b165-0c3e746179f4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Sur un air d'Italie : marché italien Square De Gaulle",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/sur-un-air-d-italie-1-1-Marche--Sur-un-air-d-Italie--copie.jpg",
+    "file": "cluster_a0919d29-9ef7-46ef-b165-0c3e746179f4_event_story.jpg",
+    "img_width": 860,
+    "img_height": 650
+  }
+]
