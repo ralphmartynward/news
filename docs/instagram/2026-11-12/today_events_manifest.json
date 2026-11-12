@@ -1,0 +1,165 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:93861a7e-fdb2-48df-ab93-51dbb4d24c81",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Exposition « 40 ans d'actions humanitaires » à la Communauté municipale de santé",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/expo-photo--c--isabelle-carayon.jpg?h=10372a76&itok=K0CQRBd0",
+    "file": "cluster_93861a7e-fdb2-48df-ab93-51dbb4d24c81_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:2854143e-fde8-44b4-99a6-815ea7c0b3c7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Nouveau Code de la Drague à la Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-NOUVEAU-CODE-DE-LA-DRAGUE.jpg",
+    "file": "cluster_2854143e-fde8-44b4-99a6-815ea7c0b3c7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:36b47c33-4944-4845-8582-3d98bee06015",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Douleur de Marguerite Duras à la Cave Poésie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-DOULEUR-DE-MARGUERITE-DURAS.jpg",
+    "file": "cluster_36b47c33-4944-4845-8582-3d98bee06015_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5c5db608-ea3e-4651-b546-00270976df7f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rising Ape, spectacle satirique sur le travail à l'Espace Job",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RISING-APE.jpg",
+    "file": "cluster_5c5db608-ea3e-4651-b546-00270976df7f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:668fcba1-1747-4554-8adb-3e042d7f3ffd",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "BOULE en spectacle solo au Bijou : 20 ans de carrière",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BOULE.jpg",
+    "file": "cluster_668fcba1-1747-4554-8adb-3e042d7f3ffd_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:78f9a560-8d9b-4a8c-8b89-fdb7a198860e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Allez Raconte ! : impro théâtrale au Théâtre Le Fil à Plomb",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-SEMAINE-DU-GRAND-I-ALLEZ-RACONTE.jpg",
+    "file": "cluster_78f9a560-8d9b-4a8c-8b89-fdb7a198860e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:dd06fe74-feec-46fb-8394-c35bf7354055",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "IX : Variations, performance queer en 17 fragments au Théâtre Sorano",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/IX-VARIATIONS.jpg",
+    "file": "cluster_dd06fe74-feec-46fb-8394-c35bf7354055_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:43cdaf6d-1b35-4300-8dac-f15e6d120a5d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Redouane Bougheraba en spectacle au Zénith de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/4bb/c32f6012-ffce-420a-ab89-7365020e94bb_SOURCE",
+    "file": "cluster_43cdaf6d-1b35-4300-8dac-f15e6d120a5d_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:8ae3d766-0662-4ad5-bce8-feaaef51d47d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Soirée chorale éphémère La La La au Metronum",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SOIREE-LA-LA-LA.jpg",
+    "file": "cluster_8ae3d766-0662-4ad5-bce8-feaaef51d47d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:fe46db12-e570-46f4-a670-761bf5c8500f",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "« Gueules cassées » : l'expo de collages de René Apallec au collectif IPN",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/gueule-cassee-apallec-n-100.jpg?h=42a4efd4&itok=fClHeyRe",
+    "file": "cluster_fe46db12-e570-46f4-a670-761bf5c8500f_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:19b75c23-2d45-432c-a412-89cd8d973779",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Rencontres Michel Serres reviennent à Agen pour leur 6ᵉ édition",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6adb2182bdc766fed7002933/hd/image.jpg?v=5",
+    "file": "cluster_19b75c23-2d45-432c-a412-89cd8d973779_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:a0b50f32-f40b-449d-864a-f02413a523e6",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Festival Les Animés au Cinéma Jean Marais : animation et avant-premières",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-ANIMES-AUCAMVILLE.jpg",
+    "file": "cluster_a0b50f32-f40b-449d-864a-f02413a523e6_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2fda51f6-86d0-4414-aced-3bef5768d687",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Étienne Klein, invité Capitole : sciences, discernement et responsabilité",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/bigsquare.jpg?itok=Uc9VaEgY",
+    "file": "cluster_2fda51f6-86d0-4414-aced-3bef5768d687_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:49b6d69f-0e5d-40bd-9940-ffe137d3c5b7",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le festival Coup de Théâtre démarre sa 5e édition à Fenouillet",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/scene-theatre-adobestock_671665600.jpg?itok=MrJvgNYY",
+    "file": "cluster_49b6d69f-0e5d-40bd-9940-ffe137d3c5b7_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  }
+]

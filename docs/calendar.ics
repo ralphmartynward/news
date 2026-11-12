@@ -23212,6 +23212,26 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-03#54294?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c105cf84-d1ef-4dc0-88bc-c121a981de8e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261113
+SUMMARY:Championnats d'Europe d'échecs des jeunes
+DESCRIPTION:Alexis Nguyen\, 8 ans\, licencié à l'Échiquier Toulousain\, 
+ fait partie des 32 joueurs sélectionnés en équipe de France pour les Ch
+ ampionnats d'Europe d'échecs des jeunes\, organisés à Hersonissos en Cr
+ ète du 3 au 12 novembre 2026. Il y affronte près de 1 250 jeunes issus d
+ e 49 fédérations\, dans la catégorie des moins de 8 ans où il est clas
+ sé 5e au ranking Elo. Après onze rondes sur neuf\, il occupe la 15e plac
+ e sur 103 concurrents\, devançant ses deux coéquipiers français. Ce n'e
+ st pas sa première p\n\nSource\: https://actu.fr/occitanie/toulouse_31555
+ /deja-sacre-vice-champion-de-france-alexis-8-ans-represente-toulouse-aux-c
+ hampionnats-d-europe-d-echecs_65037955.html
+URL:https://actu.fr/occitanie/toulouse_31555/deja-sacre-vice-champion-de-fr
+ ance-alexis-8-ans-represente-toulouse-aux-championnats-d-europe-d-echecs_6
+ 5037955.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:ef66e193-bcc9-48ed-891d-d0a5b82cbbf6@news.lavillerose.com
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
@@ -23338,6 +23358,27 @@ LOCATION:salle de théâtre toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/ariane-brodier-bonne-bille
  t/idmanif/671564/idseance/4406474?utm_source=ical&utm_medium=calendar&utm_
  campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cfcf8f21-1629-4037-9e09-5709edb07f2b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261123
+SUMMARY:Ouvertures dominicales exceptionnelles pour les commerces toulousai
+ ns en novembre
+DESCRIPTION:Face aux perturbations causées par les manifestations récente
+ s à Toulouse\, le maire Jean-Luc Moudenc a pris un arrêté autorisant le
+ s commerces de la ville à ouvrir trois dimanches consécutifs : les 8\, 1
+ 5 et 22 novembre 2026. Cette mesure dérogatoire\, prise à la demande des
+  organisations représentatives du commerce et en accord avec la préfectu
+ re et la CCI\, vise à compenser la perte de chiffre d'affaires subie ces 
+ dernières semaines. Selon la Fédération des commerçants (« la Fédé 
+ »)\, la situation\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ap
+ res-les-pillages-et-violences-survenus-en-centre-ville-les-commerces-de-to
+ ulouse-pourront-ouvrir-certains-dimanches_65016399.html
+URL:https://actu.fr/occitanie/toulouse_31555/apres-les-pillages-et-violence
+ s-survenus-en-centre-ville-les-commerces-de-toulouse-pourront-ouvrir-certa
+ ins-dimanches_65016399.html?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:800f129e-348b-4745-b398-2a9f56a65b1e@news.lavillerose.com
@@ -24313,17 +24354,18 @@ BEGIN:VEVENT
 UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
-SUMMARY:Que faire à Toulouse ce week-end du 7 et 8 novembre 2026
-DESCRIPTION:Les deux sources proposent une sélection de sorties pour le we
- ek-end du 7 et 8 novembre 2026 à Toulouse. Au programme : concerts (Storm
-  Orchestra au Rex\, The World of Hans Zimmer au Zénith)\, festival de cul
- ture japonaise Boon Ka-Saï aux Halles de la Cartoucherie\, exposition Bel
- le Époque « Bal au Grand Hôtel » aux Jacobins\, et plusieurs brocantes
-  et braderies dont celle des allées François Verdier. Les amateurs de st
- reet-art à vélo\, de marchés et d'événements familiaux trouveront ég
- alement leur b\n\nSource\: https://actu.fr/occitanie/toulouse_31555/street
- -art-a-velo-bandes-originales-brocante-et-concerts-que-faire-a-toulouse-ce
- -week-end-et-les-jours-qui-suivent_65004292.html
+SUMMARY:Que faire à Toulouse ce week-end : concerts\, brocante\, festival 
+ japonais
+DESCRIPTION:Plusieurs sélections de sorties à Toulouse convergent autour 
+ du week-end du 7 et 8 novembre 2026\, proposant un programme varié entre 
+ concerts\, expositions et marchés. Le festival Boon Ka-Saï célèbre la 
+ culture japonaise aux Halles de la Cartoucherie avec manga\, cinéma\, gas
+ tronomie et ateliers. Du côté des concerts\, le Zénith accueille The Wo
+ rld of Hans Zimmer et Bigflo & Oli (tournée Karma)\, tandis que le Rex pr
+ opose Storm Orchestra et les Roadrunners. Les amateurs de chinerie pourron
+ t explorer \n\nSource\: https://actu.fr/occitanie/toulouse_31555/street-ar
+ t-a-velo-bandes-originales-brocante-et-concerts-que-faire-a-toulouse-ce-we
+ ek-end-et-les-jours-qui-suivent_65004292.html
 LOCATION:Halles de la Cartoucherie\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/street-art-a-velo-bandes-origi
  nales-brocante-et-concerts-que-faire-a-toulouse-ce-week-end-et-les-jours-q
@@ -24772,23 +24814,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/chameleons-billet/idmanif/
  ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:fe46db12-e570-46f4-a670-761bf5c8500f@news.lavillerose.com
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261115
-SUMMARY:Gueules Cassées – Collectif IPN
-DESCRIPTION:L'exposition « Gueules Cassées » du collagiste normand René
-  Apallec (né en 1898) est présentée au Collectif IPN à Toulouse du 11 
- au 14 novembre 2026. Ayant servi comme infirmier en chirurgie plastique du
- rant la Grande Guerre\, Apallec a créé une série de 200 portraits défi
- gurés de généraux et maréchaux pour dénoncer l'absurdité de la guerr
- e et les souffrances occultées des blessés de la face. Ce travail\, long
- temps caché de son vivant\, commence aujourd'hui à recevoir une reconnai
- ssance nationale e\n\nSource\: https://www.toulouse-tourisme.com/agenda/gu
- eules-casses-de-rene-apallec/
-URL:https://www.toulouse-tourisme.com/agenda/gueules-casses-de-rene-apallec
- /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:d14a5865-9deb-4506-afe0-d689d7c3cc67@news.lavillerose.com
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
@@ -24867,21 +24892,43 @@ URL:https://actu.fr/occitanie/toulouse_31555/ce-quartier-de-toulouse-accuei
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:e12c7b94-b3c5-4ffe-8785-83bf889c8386@news.lavillerose.com
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:11-Novembre à Toulouse : rassemblements non déclarés interdits p
+ rès du monument
+DESCRIPTION:À l'occasion du 11-Novembre\, une cérémonie commémorative s
+ e tient ce mercredi à 11h au monument de la Résistance et de la Déporta
+ tion\, allées Frédéric-Mistral et esplanade Alain-Savary. La préfectur
+ e de Haute-Garonne a pris un arrêté interdisant tout rassemblement ou ma
+ nifestation revendicatif non déclaré dans un périmètre délimité auto
+ ur du site\, de 10h à 13h. Les autorités justifient cette décision par 
+ des précédents lors de commémorations passées (8 et 10 mai 2025\, 8 ma
+ i et 19 juillet 2026)\, \n\nSource\: https://actu.fr/occitanie/toulouse_31
+ 555/a-l-occasion-du-11-novembre-un-arrete-prefectoral-interdit-les-rassemb
+ lements-non-declares-dans-une-partie-de-toulouse_65042739.html
+LOCATION:allées Frédéric-Mistral\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/a-l-occasion-du-11-novembre-un
+ -arrete-prefectoral-interdit-les-rassemblements-non-declares-dans-une-part
+ ie-de-toulouse_65042739.html?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9703953d-06ed-4478-84c4-b3ffdca6ef82@news.lavillerose.com
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261129
-SUMMARY:Supernova
-DESCRIPTION:Supernova est un festival de théâtre dédié aux compagnies 
- émergentes qui investit les scènes toulousaines du 12 au 28 novembre 202
- 6. Pendant trois semaines\, le public pourra découvrir des formes théât
- rales nouvelles et engagées\, des projets en cours de création\, des lec
- tures ainsi que des rencontres-débats et des soirées festives. Le Théâ
- tre Sorano sert de lieu principal\, aux côtés de plusieurs partenaires c
- omme le Théâtre Garonne\, le Théâtre Jules-Julien et le Centre Culture
- l Bonnefoy. Le festi\n\nSource\: https://www.toulouse-tourisme.com/agenda/
- supernova/
-URL:https://www.toulouse-tourisme.com/agenda/supernova/?utm_source=ical&utm
- _medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Supernova – Théâtre Sorano
+DESCRIPTION:Le festival Supernova\, rendez-vous incontournable du théâtre
+  Sorano dédié aux jeunes artistes de la scène\, reprend du 12 au 28 nov
+ embre pour sa 11e édition. Au programme : maquettes de spectacles\, conce
+ rts et apéros-lectures avec de jeunes auteur·rices dramatiques\, dans un
+  esprit « audacieux\, flamboyant et résolument politique » selon le th
+ éâtre. Cette édition met particulièrement l'Occitanie à l'honneur\, a
+ vec plus de la moitié de la programmation réservée aux compagnies régi
+ onales. La directric\n\nSource\: https://www.lessentiel.fr/newsletter/toul
+ ouse/2026-11-12#55042
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-12#55042?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:5c5db608-ea3e-4651-b546-00270976df7f@news.lavillerose.com
@@ -25038,6 +25085,24 @@ URL:https://www.toulouse-tourisme.com/agenda/soiree-la-la-la/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:fe46db12-e570-46f4-a670-761bf5c8500f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+SUMMARY:Gueules cassées – Collectif IPN
+DESCRIPTION:Le collectif IPN\, au 30 rue des Jumeaux à Toulouse\, accueill
+ e jusqu'au 14 novembre une exposition inédite du collagiste René Apallec
+ \, intitulée « Gueules cassées ». Près de 200 œuvres y sont présent
+ ées : des portraits de grandes figures de la Première Guerre mondiale d
+ étournés pour figurer les blessés défigurés revenus du front. Apallec
+ \, ancien infirmier militaire normand né en 1898\, a caché ces collages 
+ de son vivant en raison de leur caractère politiquement incorrect à l'é
+ poque — ils n't ont é\n\nSource\: https://www.lessentiel.fr/newsletter/
+ toulouse/2026-11-12#55043
+LOCATION:rue des Jumeaux\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-12#55043?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:19b75c23-2d45-432c-a412-89cd8d973779@news.lavillerose.com
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261116
@@ -25073,6 +25138,24 @@ DESCRIPTION:Le festival Les Animés se tient du 12 au 14 novembre 2026 au C
  animes/
 URL:https://www.toulouse-tourisme.com/agenda/les-animes/?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d4ab5e6f-7ae8-4e04-bf04-2063fb68a548@news.lavillerose.com
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Made in France
+DESCRIPTION:Le salon Made in France se tient du 12 au 15 novembre au parc d
+ es expositions Porte de Versailles à Paris\, et deux maisons toulousaines
+  y participent au sein d'une délégation de 26 artisans occitans. La choc
+ olaterie De la Fève au Palais y représente son savoir-faire bean to bar\
+ , depuis sa plantation au Costa Rica jusqu'à ses boutiques dans la métro
+ pole toulousaine (Toulouse\, Colomiers\, Tournefeuille)\, avec notamment d
+ es recettes sans sucre ajouté parmi ses nouvelles créations. La Maison M
+ aos\, fo\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-11
+ -12#55041
+LOCATION:parc des expositions Porte de Versailles\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-12#55041?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
@@ -28596,6 +28679,24 @@ DESCRIPTION:L'Office de Tourisme de Toulouse propose une balade guidée le
 LOCATION:rue Ozenne\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
  ozenne/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1c0106ff-98e1-4263-a629-399e354dd8fa@news.lavillerose.com
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Tournefeuille revote en décembre après annulation de l'élection 
+ municipale
+DESCRIPTION:Les habitants de Tournefeuille sont convoqués aux urnes les 6 
+ et 13 décembre (si second tour nécessaire) après que le tribunal admini
+ stratif de Toulouse a annulé l'élection municipale de mars 2025. Le mair
+ e sortant Frédéric Parre (Divers Gauche) avait été élu avec seulement
+  un bulletin d'écart — 6 262 voix contre 6 261 pour Laurent Soulié (Re
+ naissance) — avant que ce dernier dépose un recours. Trois irrégularit
+ és ont été relevées lors du second tour : un écart entre votants et s
+ ignatures\, plus d\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-11-12#55040
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-12#55040?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a69ec812-478a-4d94-921f-a619c6faacdc@news.lavillerose.com
