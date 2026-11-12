@@ -88,6 +88,18 @@ def find_duplicate_event_cluster(
     from src import cache as cache_mod, embed as embed_mod
     import numpy as np
 
+    # Deterministic path first: an item whose URL is already the primary_url
+    # of an event cluster IS that event (a re-emitted page whose old item was
+    # pruned). The fuzzy name/embedding gate below missed this three times for
+    # the FReDD festival, spawning three clusters for one page.
+    url_key = cache_mod._norm_event_url(item.get("url"))
+    if url_key:
+        for r in conn.execute(
+            "SELECT cluster_id, primary_url FROM clusters WHERE category = 'event' AND primary_url IS NOT NULL"
+        ).fetchall():
+            if cache_mod._norm_event_url(r["primary_url"]) == url_key:
+                return r["cluster_id"]
+
     start = item.get("_event_start")
     pad_days = 3
     if not start:

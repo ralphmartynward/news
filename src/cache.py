@@ -505,7 +505,8 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
     # as "happening today".
     rows = conn.execute(
         """SELECT cluster_id, title, summary, category, event_start, event_end,
-                  event_name, ig_caption, ig_hashtags, venue, ig_mention, highlight, url, source, image_url
+                  event_name, ig_caption, ig_hashtags, venue, ig_mention, highlight, url, source, image_url,
+                  ig_story_at
            FROM (
              SELECT c.cluster_id, c.title, c.summary, c.category, c.event_start, c.event_end,
                     c.event_name, c.ig_caption, c.ig_hashtags, c.venue, c.ig_mention, c.highlight, c.ig_story_at,
@@ -548,7 +549,50 @@ def load_events_on_date(conn: sqlite3.Connection, date_iso: str) -> list[dict[st
            ORDER BY eff_start""",
         (date_iso, date_iso, date_iso, date_iso, date_iso),
     ).fetchall()
-    return [dict(r) for r in rows]
+    events = [dict(r) for r in rows]
+
+    # Same-URL guard. Cluster identity is not reliable for events that outlive
+    # their items: toulouse-tourisme.com re-emits a changed page after its old
+    # item was pruned, event_dedup's fuzzy name/embedding check can miss it, and
+    # a second cluster with the identical primary_url is born (confirmed: three
+    # "FReDD" clusters, one URL, all posted as separate Stories on 2026-11-09).
+    # The source URL is the one deterministic "same event" signal, so never
+    # post two Stories for one URL: once any cluster with that URL has been
+    # posted, its not-yet-posted siblings are suppressed, and within today's
+    # batch only the first is kept.
+    posted_urls = {
+        _norm_event_url(r["url"])
+        for r in conn.execute(
+            """SELECT COALESCE(c.primary_url,
+                      (SELECT url FROM items WHERE cluster_id = c.cluster_id ORDER BY published_at LIMIT 1)
+                    ) AS url
+               FROM clusters c WHERE c.category = 'event' AND c.ig_story_at IS NOT NULL"""
+        ).fetchall()
+        if r["url"]
+    }
+    seen_today: set[str] = set()
+    deduped = []
+    for ev in events:
+        key = _norm_event_url(ev.get("url"))
+        if key:
+            if key in seen_today:
+                continue
+            if ev.get("ig_story_at") is None and key in posted_urls:
+                continue
+            seen_today.add(key)
+        deduped.append(ev)
+    return deduped
+
+
+def _norm_event_url(url: str | None) -> str:
+    """Comparison key for a source URL: no scheme/query/fragment/trailing slash."""
+    if not url:
+        return ""
+    u = url.strip().lower().split("#", 1)[0].split("?", 1)[0]
+    u = u.split("://", 1)[-1]
+    if u.startswith("www."):
+        u = u[4:]
+    return u.rstrip("/")
 
 
 def find_event_cluster_candidates(
