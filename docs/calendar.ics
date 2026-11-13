@@ -728,23 +728,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/toulouse-vente-aux-encheres-de
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:1f961fd8-aeb3-4330-b56c-85d1882ec352@news.lavillerose.com
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:Nuit du Sport Danse
-DESCRIPTION:La Nuit du Sport propose jeudi 21 mai une soirée dédiée à l
- a danse au MAC (Maison des Arts et de la Culture)\, à partir de 18h30 et 
- en entrée gratuite. C'est la deuxième édition de cet événement organi
- sé dans le cadre de la Nuit du Sport du Crous de Toulouse. La soirée est
-  ouverte à tous les niveaux — débutants\, confirmés ou simples curieu
- x — avec l'objectif de faire découvrir différents styles de danse dans
-  une ambiance conviviale. L'événement est organisé par le Crous de Toul
- ouse.\n\nSource\: https://www.clutchmag.fr/evenements#2026-05-21-jeudi-21-
- mai
-URL:https://www.clutchmag.fr/evenements#2026-05-21-jeudi-21-mai?utm_source=
- ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:093e541f-4a8d-4bd4-8f11-8e5b4cd8fb32@news.lavillerose.com
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260524
@@ -8660,23 +8643,6 @@ DESCRIPTION:Le groupe Deeplodocus\, trio au style electro-débranché\, se
  \: https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-1
 URL:https://www.clutchmag.fr/evenements#2026-08-27-vendredi-28-ao-t-1?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:58f1e920-d0bc-4d9d-a06b-48813f8fc12d@news.lavillerose.com
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:Balade Nocturne à Vélo
-DESCRIPTION:Une balade à vélo nocturne de 18 km est organisée le 28 aoû
- t 2026\, au départ de la place Saint-Sernin (côté Musée Saint Raymond)
-  à 20h15\, pour une arrivée place du Capitole vers 23h. Le parcours\, qu
- asi plat\, traverse la ville en empruntant de nouveaux aménagements cycla
- bles et un parc. À mi-chemin\, une pause d'environ 7 km est prévue à la
-  Guinguette\, avec concert\, encas et boissons. Les participants sont invi
- tés à partager leurs photos sous le hashtag #bnvelotoulouse.\n\nSource\:
-  https://www.toulouse-tourisme.com/agenda/balade-nocturne-a-velo/
-LOCATION:place Saint-Sernin (côté Musée Saint Raymond)\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/balade-nocturne-a-velo/?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e1efcf46-5b71-4dbf-bce9-4fe0930cb1a8@news.lavillerose.com
@@ -24351,28 +24317,6 @@ URL:https://www.toulouse-tourisme.com/agenda/raconte-moi-la-clarinette/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:a022e4fe-a9a8-4684-b4df-fa06418aa672@news.lavillerose.com
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-SUMMARY:Que faire à Toulouse ce week-end : concerts\, brocante\, festival 
- japonais
-DESCRIPTION:Plusieurs sélections de sorties à Toulouse convergent autour 
- du week-end du 7 et 8 novembre 2026\, proposant un programme varié entre 
- concerts\, expositions et marchés. Le festival Boon Ka-Saï célèbre la 
- culture japonaise aux Halles de la Cartoucherie avec manga\, cinéma\, gas
- tronomie et ateliers. Du côté des concerts\, le Zénith accueille The Wo
- rld of Hans Zimmer et Bigflo & Oli (tournée Karma)\, tandis que le Rex pr
- opose Storm Orchestra et les Roadrunners. Les amateurs de chinerie pourron
- t explorer \n\nSource\: https://actu.fr/occitanie/toulouse_31555/street-ar
- t-a-velo-bandes-originales-brocante-et-concerts-que-faire-a-toulouse-ce-we
- ek-end-et-les-jours-qui-suivent_65004292.html
-LOCATION:Halles de la Cartoucherie\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/street-art-a-velo-bandes-origi
- nales-brocante-et-concerts-que-faire-a-toulouse-ce-week-end-et-les-jours-q
- ui-suivent_65004292.html?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:b8ffed37-e253-4e44-80dc-e1fdb7978840@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
@@ -24914,6 +24858,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/a-l-occasion-du-11-novembre-un
  ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1f961fd8-aeb3-4330-b56c-85d1882ec352@news.lavillerose.com
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Sélection de sorties musicales et spectacles du 12 au 15 novembre 
+ à Toulouse
+DESCRIPTION:Du jeudi 12 au dimanche 15 novembre\, Toulouse propose une sér
+ ie de concerts et spectacles variés dans plusieurs salles de la ville. Ma
+ ëlle\, gagnante de The Voice 2018\, se produit à La MAC jeudi soir (grat
+ uit pour les étudiants\, 15 € sinon)\, tandis que la Nuit du Cirque inv
+ estit le Centre culturel Bonnefoy avec deux soirées cabaret les 13 et 14 
+ novembre. Le week-end se poursuit avec une sortie d'album au Théâtre des
+  Mazades\, du dub à La Cabane\, du jazz au Taquin Jazz Club\, un dîner-s
+ pectacle caba\n\nSource\: https://www.clutchmag.fr/evenements#2026-11-12-j
+ eudi-12-novembre-1
+LOCATION:salles de la ville\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-11-12-jeudi-12-novembre-1?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9703953d-06ed-4478-84c4-b3ffdca6ef82@news.lavillerose.com
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261129
@@ -25156,6 +25119,26 @@ DESCRIPTION:Le salon Made in France se tient du 12 au 15 novembre au parc d
 LOCATION:parc des expositions Porte de Versailles\, Toulouse
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-12#55041?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:be8a9438-8a1f-4bd6-9ede-4e1fb319e2ed@news.lavillerose.com
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Le Purple 25 ans
+DESCRIPTION:La discothèque Le Purple\, institution des nuits toulousaines\
+ , rouvre ses portes ce jeudi 12 novembre 2026 à l'occasion de son 25e ann
+ iversaire. Le club a subi une refonte complète de sa décoration et de se
+ s éclairages\, avec des inspirations « intemporelles » mêlées à des 
+ techniques actuelles. Son fondateur Ivo Danaf a tenu à faire appel exclus
+ ivement à des artisans locaux — menuisiers\, ferronniers — pour cette
+  transformation. Le Purple\, qui a accueilli des noms comme David Guetta o
+ u Christophe L\n\nSource\: https://actu.fr/occitanie/toulouse_31555/mythiq
+ ue-a-toulouse-ce-club-fait-peau-neuve-et-annonce-des-nouveautes-a-l-occasi
+ on-de-son-25e-anniversaire_65045283.html
+URL:https://actu.fr/occitanie/toulouse_31555/mythique-a-toulouse-ce-club-fa
+ it-peau-neuve-et-annonce-des-nouveautes-a-l-occasion-de-son-25e-anniversai
+ re_65045283.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d@news.lavillerose.com
@@ -25459,6 +25442,24 @@ DESCRIPTION:Le DAda accueille une soirée cold/EBM le 13 novembre 2026 avec
 URL:https://www.toulouse-tourisme.com/agenda/mylla-issues-darkwave-ebm-it-d
  ouce-angoisse-darkwave-ebm-fr-konstroy-dj-set/?utm_source=ical&utm_medium=
  calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4636c638-d1dd-4dff-a1ef-680aa24dcb0b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:Le programme du week-end à Toulouse Métropole : festivals\, cirqu
+ e et gastronomie
+DESCRIPTION:La Toulouse Métropole propose un week-end chargé avec une diz
+ aine d'événements variés du 13 au 15 novembre. L'Aligofest invite à pa
+ rtager aligot-saucisse\, rugby et musique les vendredi et samedi\, tandis 
+ que La Nuit du Cirque offre trois jours de spectacles festifs. Les amateur
+ s de culture pourront également profiter du festival de théâtre Superno
+ va\, du cinéma engagé Fredd\, des rythmes colombiens de Locombia\, et d'
+ un concert jazz pour les 40 ans de Music'Halle. Les sportifs et solidaires
+  sont con\n\nSource\: http://cdt31.tourinsoft.com/view.ashx?email=b80249ac
+ -d646-4621-9bc6-5165ba59b7e0
+URL:http://cdt31.tourinsoft.com/view.ashx?email=b80249ac-d646-4621-9bc6-516
+ 5ba59b7e0?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e085676e-ef98-4e73-b6b1-4e29fc8fd702@news.lavillerose.com
@@ -26213,6 +26214,43 @@ DESCRIPTION:Le Théâtre de Poche accueille « Danton & Robespierre : Les R
 URL:https://www.toulouse-tourisme.com/agenda/danton-robespierre-les-racines
  -de-la-liberte/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
  agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cd7b492d-3d51-4e1f-80e0-b7e046abf9aa@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Job Dating Aéronautique Défense Spatial
+DESCRIPTION:Un grand job dating dédié aux secteurs de l'aéronautique\, d
+ u spatial et de la défense est organisé le 19 novembre à la Cité de To
+ ulouse. L'événement est porté par Primus Défense & sécurité\, un clu
+ ster regroupant plus de 70 entreprises et organismes du secteur. Des acteu
+ rs majeurs comme Liebherr\, Safran\, Daher ou Derichebourg Aeronautics Ser
+ vices seront présents\, aux côtés de France Travail\, l'Apec\, des orga
+ nismes de formation et la Région Occitanie. L'inscription préalable est 
+ obligatoire pour l\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ae
+ ronautique-defense-et-spatial-un-grand-job-dating-organise-a-toulouse_6500
+ 2755.html
+URL:https://actu.fr/occitanie/toulouse_31555/aeronautique-defense-et-spatia
+ l-un-grand-job-dating-organise-a-toulouse_65002755.html?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:58f1e920-d0bc-4d9d-a06b-48813f8fc12d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Balade Nocturne à Vélo
+DESCRIPTION:Une balade cycliste nocturne gratuite est organisée le 20 nove
+ mbre 2026 au départ du Théâtre Sorano\, place des Carmes. Les participa
+ nts sont invités à illuminer leurs vélos et à parcourir ensemble 14 km
+  sans dénivelé notable\, traversant les quais de Garonne\, l'île du Ram
+ ier\, le quartier Saint-Cyprien et le pont Saint-Pierre. La soirée se con
+ clut place du Capitole vers 21h30 pour l'événement « Cyclistes\, brille
+ z ! ». L'événement est ouvert à tous\, enfants compris (accompagnés)\
+ , sans inscription p\n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ balade-nocturne-a-velo/
+LOCATION:place des Carmes\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/balade-nocturne-a-velo/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d2044b40-4cbb-4efd-8660-79c0b87403da@news.lavillerose.com
@@ -27799,6 +27837,27 @@ URL:https://www.toulouscope.fr/2026/11/10/des-cadeaux-originaux-colores-et-
  .php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d1122ee5-7884-4850-86fc-252a0d8921b3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20270104
+SUMMARY:Fééries de Noël de Narbonne
+DESCRIPTION:Du 28 novembre 2026 au 3 janvier 2027\, Narbonne lance ses Fé
+ éries de Noël avec un programme complet en centre-ville. Chaque soir\, l
+ a place de l'Hôtel-de-Ville accueillera « Rêves d'enfance »\, un spect
+ acle son et lumière immersif de 15 minutes signé Christian Salès\, mêl
+ ant jouets animés et cloches du carillon historique. Les festivités déb
+ utent le 28 novembre avec un concert du trio Lumen\, l'allumage des illumi
+ nations et un feu d'artifice au pont de la Liberté. Le marché de Noël s
+ ur la promenade \n\nSource\: https://www.toulouscope.fr/2026/11/13/spectac
+ le-son-et-lumiere-marche-de-noel-patinoire-narbonne-prepare-les-fetes-1361
+ 5286.php
+LOCATION:place de l'Hôtel-de-Ville accueillera « Rêves d'enfance\, Toulo
+ use
+URL:https://www.toulouscope.fr/2026/11/13/spectacle-son-et-lumiere-marche-d
+ e-noel-patinoire-narbonne-prepare-les-fetes-13615286.php?utm_source=ical&u
+ tm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9dac9cd2-4c69-4b59-ad10-ffc1ec5c7fb3@news.lavillerose.com
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
@@ -27867,6 +27926,24 @@ DESCRIPTION:La Cinémathèque de Toulouse programme Le Petit Frère\, un fi
  petit-frere/
 URL:https://www.toulouse-tourisme.com/agenda/le-petit-frere/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:982138fc-4140-4556-96da-d1013180d5bd@news.lavillerose.com
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Le Patrimoine de Toulouse en Musiques
+DESCRIPTION:Une visite guidée originale propose de découvrir Toulouse aut
+ rement\, le 29 novembre 2026\, grâce à une formule « à deux voix » as
+ sociant une guide conférencière et une chanteuse. Le parcours débute à
+  l'église des Jacobins\, où les participants explorent l'architecture go
+ thique\, l'histoire du lieu et le triptyque d'Arcabas. La visite se poursu
+ it ensuite au Capitole\, avec la cour intérieure et les salles de l'étag
+ e de la mairie. Une expérience mêlant patrimoine historique et performan
+ ce musicale liv\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-pa
+ trimoine-de-toulouse-en-musiques-visite-a-deux-voix/
+URL:https://www.toulouse-tourisme.com/agenda/le-patrimoine-de-toulouse-en-m
+ usiques-visite-a-deux-voix/?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:25dee92a-a8c8-4fa3-9947-0284d5ab0050@news.lavillerose.com
@@ -28697,6 +28774,22 @@ DESCRIPTION:Les habitants de Tournefeuille sont convoqués aux urnes les 6
  se/2026-11-12#55040
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-12#55040?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7e991cff-13f3-4ba2-8eea-fd14b63b5c38@news.lavillerose.com
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Petit Marché de Noël du Lab
+DESCRIPTION:Le Lab'Oïkos accueille son Petit Marché de Noël le 6 décemb
+ re 2026\, réunissant plusieurs créateurs et producteurs locaux. On y tro
+ uvera bijoux\, illustrations\, bougies\, plantes\, miel\, café\, accessoi
+ res et gourmandises. L'événement met en avant une offre artisanale et lo
+ cale\, idéale pour des cadeaux de Noël alternatifs. Un rendez-vous à no
+ ter pour les amateurs de créations indépendantes et de produits du terro
+ ir toulousain.\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-pet
+ it-marche-de-noel-du-lab/
+URL:https://www.toulouse-tourisme.com/agenda/le-petit-marche-de-noel-du-lab
+ /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a69ec812-478a-4d94-921f-a619c6faacdc@news.lavillerose.com
@@ -34204,13 +34297,14 @@ DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:Makala
 DESCRIPTION:Le rappeur Makala se produira au Bikini\, à Ramonville-Saint-A
- gne\, le 17 mars 2027. La salle toulousaine\, référence incontournable d
- e la scène musicale locale\, accueille ce concert hip-hop/rap. Une seule 
- source recense cet événement\, sans détails supplémentaires sur les ta
- rifs ou les horaires. Les amateurs de rap et les habitués du Bikini sont 
- les premiers concernés.\n\nSource\: https://www.ticketmaster.fr/fr/manife
- station/makala-billet/idmanif/674140/idseance/4430724
-LOCATION:salle toulousaine\, Toulouse
+ gne\, le 17 mars 2027. Ce concert s'inscrit dans la programmation hip-hop/
+ rap de la salle emblématique de la scène musicale toulousaine. Le Bikini
+  est l'une des principales salles de musiques actuelles de l'agglomératio
+ n\, réputée pour accueillir des artistes de renom. Les amateurs de rap e
+ t de hip-hop de la région sont directement concernés par cet événement
+ .\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/makala-billet/i
+ dmanif/674140/idseance/4430724
+LOCATION:salle emblématique de la scène musicale toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/makala-billet/idmanif/6741
  40/idseance/4430724?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
@@ -37096,6 +37190,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/yanis-hariouli-zmigri-bill
  _campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:eb471764-b166-4c0f-b511-f5b83052068f@news.lavillerose.com
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270628
+SUMMARY:Le Nouveau Printemps
+DESCRIPTION:Le Nouveau Printemps\, festival de création contemporaine toul
+ ousain\, se tiendra du 27 mai au 27 juin 2027 sur l'Île du Ramier. Cette 
+ édition confie le regard artistique à Maylis de Kerangal\, écrivaine in
+ vitée à explorer un quartier de Toulouse et ses espaces. Le festival dé
+ fend un art exigeant\, avant-gardiste et ancré localement\, favorisant le
+ s créations collectives ouvertes sur le monde et respectueuses de l'envir
+ onnement. La programmation détaillée n'est pas encore disponible.\n\nSou
+ rce\: https://www.toulouse-tourisme.com/agenda/le-nouveau-printemps/
+LOCATION:quartier de Toulouse\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/le-nouveau-printemps/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:bb7c4048-7ad4-424a-b68a-4f360afca897@news.lavillerose.com
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
@@ -38649,6 +38760,22 @@ DESCRIPTION:Le groupe Goldmen\, hommage à Jean-Jacques Goldman\, se produi
 URL:https://www.ticketmaster.fr/fr/manifestation/goldmen-concert-best-of-go
  ldman-billet/idmanif/651959/idtier/18864121?utm_source=ical&utm_medium=cal
  endar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:693fc4c2-8434-4ee1-bacd-a9e8663f09d8@news.lavillerose.com
+DTSTART;VALUE=DATE:20280616
+DTEND;VALUE=DATE:20280617
+SUMMARY:Edouard Deloignon
+DESCRIPTION:Le comédien Edouard Deloignon se produira au Zénith Toulouse 
+ Métropole le 16 juin 2028. Il s'agit d'un spectacle de comédie classé d
+ ans la catégorie Arts & Théâtre. L'événement est listé sur Ticketmas
+ ter\, ce qui laisse supposer que des billets sont disponibles à la vente 
+ en ligne. Les amateurs d'humour toulousains peuvent d'ores et déjà prév
+ oir cette date dans leur agenda.\n\nSource\: https://www.ticketmaster.fr/f
+ r/manifestation/edouard-deloignon-billet/idmanif/678429/idseance/4458705
+URL:https://www.ticketmaster.fr/fr/manifestation/edouard-deloignon-billet/i
+ dmanif/678429/idseance/4458705?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9439f876-fa31-4ca8-8ddd-9800d3d3ba24@news.lavillerose.com

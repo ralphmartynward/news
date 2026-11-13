@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-11-14",
+  "sunday": "2026-11-15",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:713c44cc-e4f0-4ca4-be28-59430e007d52",
+      "title": "Exposition Napoléon III au Musée Saint-Raymond de Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:85d44635-bf5e-4682-abc2-9d334275114a",
+      "title": "« Chaux Must Go On ! » au Musée Saint-Raymond de Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4",
+      "title": "Joseph Colleja en récital pour la première fois à l'Opéra du Capitole",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:2f805184-d3ce-41b0-9a4e-0759f81e9695",
+      "title": "Lang Lang en concert à la Halle aux Grains en novembre",
+      "img_width": 2426,
+      "img_height": 1365
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:9ab810c6-9849-498a-857d-147e95e9f3e7",
+      "title": "Les Quatre Saisons : ballet en deux dates à Toulouse",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e71f4442-854e-4b1e-bc9b-52ec9124c552",
+      "title": "Bigflo & Oli en concert au Zénith de Toulouse en novembre 2026",
+      "img_width": 2426,
+      "img_height": 1365
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:e085676e-ef98-4e73-b6b1-4e29fc8fd702",
+      "title": "Stefan Dohr et l'Orchestre du Capitole à la Halle aux Grains",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:fac2328a-e397-4d86-973b-284b7c2d145d",
+      "title": "« Tu devrais en parler » par la compagnie Synapse aux Minimes",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:38497d7c-092a-4985-915a-be1da4060e55",
+      "title": "« Haut les Cœurs » : spectacle solo drôle et émouvant au Studio 55",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}
