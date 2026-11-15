@@ -1,0 +1,99 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:19b75c23-2d45-432c-a412-89cd8d973779",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Rencontres Michel Serres reviennent à Agen pour leur 6ᵉ édition",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6adb2182bdc766fed7002933/hd/image.jpg?v=5",
+    "file": "cluster_19b75c23-2d45-432c-a412-89cd8d973779_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 500
+  },
+  {
+    "cluster_id": "cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Joseph Colleja en récital pour la première fois à l'Opéra du Capitole",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JOSEPH-COLLEJA.jpg",
+    "file": "cluster_27cc53f9-668c-469c-b1d4-550cf6273aa4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2f805184-d3ce-41b0-9a4e-0759f81e9695",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Lang Lang en concert à la Halle aux Grains en novembre",
+    "image_url": "https://s1.ticketm.net/dam/a/1bd/1f8a70cb-873a-451e-afbd-5b82f49a01bd_SOURCE",
+    "file": "cluster_2f805184-d3ce-41b0-9a4e-0759f81e9695_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:9ab810c6-9849-498a-857d-147e95e9f3e7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Quatre Saisons : ballet en deux dates à Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/cf0/e3e32db3-adac-486f-b78d-7c8857f8bcf0_106191_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_9ab810c6-9849-498a-857d-147e95e9f3e7_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:e71f4442-854e-4b1e-bc9b-52ec9124c552",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Bigflo & Oli en concert au Zénith de Toulouse en novembre 2026",
+    "image_url": "https://s1.ticketm.net/dam/a/3a4/24f23a7e-d37e-4d98-bc0e-bba0acd193a4_SOURCE",
+    "file": "cluster_e71f4442-854e-4b1e-bc9b-52ec9124c552_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:67bb7c25-6cb6-42de-b4da-63d90be8cd5a",
+    "format": "story",
+    "source": "actu_toulouse",
+    "category": "event",
+    "title": "La Chicanerie revient à Toulouse : friperie éphémère, 600 pièces à prix mini",
+    "image_url": "https://static.actu.fr/uploads/2026/11/friperie.jpg",
+    "file": "cluster_67bb7c25-6cb6-42de-b4da-63d90be8cd5a_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 800
+  },
+  {
+    "cluster_id": "cluster:92e5a0e8-7f90-47ef-8695-cbcc24d742fc",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Secret de Conservation : visite des coulisses au Musée Saint-Raymond",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SECRETS-DE-CONSERVATION.jpg",
+    "file": "cluster_92e5a0e8-7f90-47ef-8695-cbcc24d742fc_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:cfa7d802-7fb2-4f32-8ee6-0f03e3bfdddc",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Exposition sur l'artisanat gaulois au Musée Saint-Raymond",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/L-ARTISANAT-PREMIERE-ENTREPRISE-DE-GAULE.jpg",
+    "file": "cluster_cfa7d802-7fb2-4f32-8ee6-0f03e3bfdddc_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
