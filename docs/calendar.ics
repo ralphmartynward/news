@@ -4564,24 +4564,6 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-30#45125?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:4f182d09-9c0b-4388-9a50-729782c0a7e4@news.lavillerose.com
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260701
-SUMMARY:L'impact de la météo
-DESCRIPTION:La médiathèque Cabanis accueille ce soir une conférence de J
- acques Verrière\, ancien commandant de bord et instructeur chez Air Franc
- e. Il y abordera l'impact des conditions météorologiques sur les opérat
- ions aériennes et les lancements spatiaux. L'événement s'inscrit dans l
- a tradition de conférences grand public proposées par la médiathèque t
- oulousaine. Les deux sources sont identiques et ne fournissent pas d'horai
- re précis ni de détails supplémentaires sur la soirée.\n\nSource\: htt
- ps://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxd
- kZHjLIXbM7pB-zUy7xeNy2nMmjEA0_ueglPXEInmg6I36zdHOVvFs1o2kiN9ujMc
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
- wIfwxdkZHjLIXbM7pB-zUy7xeNy2nMmjEA0_ueglPXEInmg6I36zdHOVvFs1o2kiN9ujMc?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:d48856cb-7af8-4b00-bd9d-73bab56d24a2@news.lavillerose.com
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
@@ -25847,6 +25829,26 @@ URL:https://actu.fr/occitanie/toulouse_31555/climat-vie-chere-mouvement-lyc
  agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4074cf6e-97b7-45ff-9e51-760ee88cb879@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Bigflo & Oli
+DESCRIPTION:Bigflo & Oli ont réalisé une année historique au Zénith de 
+ Toulouse en y donnant leur sixième concert de l'année le samedi 14 novem
+ bre\, avec une septième date le lendemain\, établissant un record absolu
+  pour la salle. Devant 10 000 fans\, le duo a célébré 70 000 spectateur
+ s rassemblés en quelques mois\, un chiffre qu'aucun artiste n'avait attei
+ nt dans cette salle en une seule année. À cette occasion\, les deux frè
+ res ont dévoilé en direct un nouveau single\, « On s'en remettra »\, e
+ xtrait de leur proc\n\nSource\: https://actu.fr/occitanie/toulouse_31555/e
+ n-plein-record-de-zeniths-bigflo-et-oli-devoilent-le-premier-single-de-leu
+ r-nouvel-album-karma-2-deja-en-precommande_65057212.html
+URL:https://actu.fr/occitanie/toulouse_31555/en-plein-record-de-zeniths-big
+ flo-et-oli-devoilent-le-premier-single-de-leur-nouvel-album-karma-2-deja-e
+ n-precommande_65057212.html?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:27cc53f9-668c-469c-b1d4-550cf6273aa4@news.lavillerose.com
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
@@ -25971,6 +25973,45 @@ DESCRIPTION:Le Musée Saint-Raymond\, musée d'archéologie de Toulouse\, p
 URL:https://www.toulouse-tourisme.com/agenda/lartisanat-premiere-entreprise
  -de-gaule/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
  a
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b3b9c65d-108c-4af6-994f-0c6655b51024@news.lavillerose.com
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261128
+SUMMARY:Fermeture rue Matabiau du 16 au 27 novembre : déviations prévues
+DESCRIPTION:Du lundi 16 au vendredi 27 novembre 2026\, les intersections en
+ tre les rues Matabiau\, Saint-Orens et de l'Orient seront fermées à la c
+ irculation dans le quartier Matabiau\, en raison de travaux de constructio
+ n d'un réseau de chaleur et de froid urbain. Le stationnement sera égale
+ ment interdit sur la zone concernée\, mais la circulation piétonne reste
+ ra maintenue et sécurisée des deux côtés de la chaussée. Les commerce
+ s du secteur — la friperie My Friend Retouches\, la pharmacie Matabiau e
+ t le tabac \n\nSource\: https://actu.fr/occitanie/toulouse_31555/cette-rue
+ -strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-co
+ mment-se-deplacer-sans-l-emprunter_65049850.html
+LOCATION:rues Matabiau\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-
+ fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-san
+ s-l-emprunter_65049850.html?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:df8d0330-e809-4b32-873d-052804c74219@news.lavillerose.com
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261130
+SUMMARY:Boutique éphémère Impact
+DESCRIPTION:Pour la troisième année consécutive\, la boutique éphémèr
+ e Impact revient à Toulouse du 16 au 29 novembre\, à la Maison Olpé (22
+  rue de la Bourse)\, ouverte de 10h à 19h. Une vingtaine de marques toulo
+ usaines et occitanes y proposeront vêtements et accessoires éthiques\, f
+ abriqués à partir de matières naturelles ou recyclées en circuit court
+  — parmi elles\, Laines Paysannes\, Atelier Marcotte\, Placard Sauvage o
+ u encore Blanche et Louise. L'initiative est portée par l'association Mal
+ ha Partage\, fondée \n\nSource\: https://www.lessentiel.fr/newsletter/tou
+ louse/2026-11-16#55310
+LOCATION:rue de la Bourse)\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-16#55310?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:599d6e0c-957c-4dc9-89c9-21966536aaa7@news.lavillerose.com
@@ -26427,6 +26468,27 @@ URL:https://www.toulouse-tourisme.com/agenda/etre-ou-paraitre-gaulois/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4f182d09-9c0b-4388-9a50-729782c0a7e4@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Marionnettissimo et festival BD de Colomiers : deux festivals ce we
+ ek-end
+DESCRIPTION:Deux festivals culturels animent la région toulousaine en ce m
+ oment. Le festival international Marionnettissimo\, dédié à la marionne
+ tte contemporaine et aux formes animées\, reprend avec 22 compagnies rég
+ ionales\, nationales et internationales se produisant à Tournefeuille\, T
+ oulouse et dans 9 villes partenaires de Haute-Garonne. Par ailleurs\, le f
+ estival de la BD de Colomiers ouvre le vendredi 20 novembre pour trois jou
+ rs de rencontres\, d'expositions et d'animations autour de la bande dessin
+ ée con\n\nSource\: https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd
+ 7pz-ytLFwSQUxHMhuwH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKg6X75MRF4U1
+ GkUX2jj_X0nucvXnnFMnGb95B-ytHNVL
+URL:https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd7pz-ytLFwSQUxHMhu
+ wH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKg6X75MRF4U1GkUX2jj_X0nucvXnn
+ FMnGb95B-ytHNVL?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:58f1e920-d0bc-4d9d-a06b-48813f8fc12d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -26518,16 +26580,16 @@ UID:cluster:b1b16761-5564-4591-ab7e-ae9b655deef9@news.lavillerose.com
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Disney en concert – Suivez vos rêves
-DESCRIPTION:Le spectacle « Disney en concert – Suivez vos rêves » est 
- programmé le vendredi 20 novembre 2026 au Zénith de Toulouse. Il réunit
-  un orchestre symphonique\, des chanteurs et des danseurs sur scène\, acc
- ompagnés d'un écran géant diffusant des extraits des grands classiques 
- Disney et d'un show lumière. Le public sera transporté dans les univers 
- de Simba\, Elsa\, Vaiana\, Pocahontas\, Aladdin\, Peter Pan et Cendrillon\
- , entre autres. Actu Toulouse organise un jeu-concours pour faire gagner d
- es places à ses\n\nSource\: https://actu.fr/occitanie/toulouse_31555/jeu-
- gagnez-vos-places-pour-le-spectacle-disney-en-concert-a-toulouse_65038061.
- html
+DESCRIPTION:Le spectacle « Disney en concert – Suivez vos rêves » se t
+ iendra le vendredi 20 novembre 2026 à 20h au Zénith Toulouse Métropole.
+  Un orchestre symphonique (qualifié de « philharmonique » par L'Essenti
+ el) accompagné de chanteurs et danseurs interprétera les grandes musique
+ s des classiques Disney\, projetées sur écran géant avec un show lumiè
+ re. Le programme voyage de Simba à Elsa\, de Vaiana à Pocahontas\, en pa
+ ssant par Peter Pan\, Aladdin et Cendrillon. Les deux médias organisent c
+ hacun un jeu-conc\n\nSource\: https://actu.fr/occitanie/toulouse_31555/jeu
+ -gagnez-vos-places-pour-le-spectacle-disney-en-concert-a-toulouse_65038061
+ .html
 URL:https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-
  spectacle-disney-en-concert-a-toulouse_65038061.html?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
@@ -27222,6 +27284,25 @@ URL:https://actu.fr/occitanie/toulouse_31555/airbus-veut-construire-une-gig
  antesque-usine-aux-portes-de-toulouse-ce-qu-il-faut-savoir-sur-ce-projet-x
  xl_65037517.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
  -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d921ea8d-5ad8-469c-a617-37ecfbbe59ee@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Garou – solo
+DESCRIPTION:Garou se produira en solo le mardi 24 novembre 2026 à 20h30 au
+  Casino Barrière de Toulouse\, dans le cadre de sa tournée « Garou – 
+ solo ». Le spectacle\, intimiste et cinématique\, le voit seul en scène
+  avec son piano et sa guitare\, accompagné de technologies scéniques et 
+ d'une scénographie visuelle élaborée. L'occasion pour l'artiste de revi
+ siter plus de 30 ans de carrière tout en présentant les titres de son pr
+ emier album en tant qu'auteur-compositeur\, « Un meilleur lendemain »\, 
+ sorti en avril 20\n\nSource\: https://actu.fr/occitanie/toulouse_31555/jeu
+ -gagnez-vos-places-pour-le-concert-exceptionnel-de-garou-a-toulouse_650482
+ 30.html
+URL:https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-
+ concert-exceptionnel-de-garou-a-toulouse_65048230.html?utm_source=ical&utm
+ _medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:82592433-55c6-482d-be1b-56f6262f4f27@news.lavillerose.com

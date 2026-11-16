@@ -1,0 +1,22 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:488acca4-8e7b-494a-a087-7aaabc095ef1",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Destination Transmission Reprise à la CCI Toulouse Haute-Garonne",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_562250877.jpg?h=1ccc68aa&itok=h20CLqhZ",
+    "file": "cluster_488acca4-8e7b-494a-a087-7aaabc095ef1_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
