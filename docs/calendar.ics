@@ -4564,24 +4564,6 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-30#45125?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:d48856cb-7af8-4b00-bd9d-73bab56d24a2@news.lavillerose.com
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260701
-SUMMARY:SOS Informatique
-DESCRIPTION:La médiathèque d'Empalot propose cet après-midi un atelier d
- e résolution de problèmes informatiques ouvert à tous. Les participants
-  peuvent venir avec leurs difficultés concrètes : ordinateur lent\, impo
- ssibilité de modifier des fichiers ou de changer une présentation. L'év
- énement est accessible sans nécessité de compétences techniques partic
- ulières. Il s'adresse à toute personne en difficulté avec l'usage coura
- nt de l'informatique.\n\nSource\: https://newsletter.lessentiel.fr/lt.php?
- x=4lZy~GDKIqPM7sKqyd5JUOhz13AmiwIfwxdkZHjLIXbM7pB-zUy7xeNy2nMmjEA0_ueglPXE
- Inmg6I36zdHOVvFs1o2kiN9ujMg
-URL:https://newsletter.lessentiel.fr/lt.php?x=4lZy~GDKIqPM7sKqyd5JUOhz13Ami
- wIfwxdkZHjLIXbM7pB-zUy7xeNy2nMmjEA0_ueglPXEInmg6I36zdHOVvFs1o2kiN9ujMg?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:dc85e4b9-46d7-46a3-9008-75ae0dfced51@news.lavillerose.com
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260704
@@ -24884,14 +24866,14 @@ UID:cluster:9703953d-06ed-4478-84c4-b3ffdca6ef82@news.lavillerose.com
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261129
 SUMMARY:Supernova – Théâtre Sorano
-DESCRIPTION:Le festival Supernova\, rendez-vous incontournable du théâtre
-  Sorano dédié aux jeunes artistes de la scène\, reprend du 12 au 28 nov
- embre pour sa 11e édition. Au programme : maquettes de spectacles\, conce
- rts et apéros-lectures avec de jeunes auteur·rices dramatiques\, dans un
-  esprit « audacieux\, flamboyant et résolument politique » selon le th
- éâtre. Cette édition met particulièrement l'Occitanie à l'honneur\, a
- vec plus de la moitié de la programmation réservée aux compagnies régi
- onales. La directric\n\nSource\: https://www.lessentiel.fr/newsletter/toul
+DESCRIPTION:Le festival Supernova\, organisé par le Théâtre Sorano\, se 
+ tient jusqu'au 28 novembre pour sa 11e édition\, mettant en lumière de j
+ eunes compagnies émergentes et la nouvelle génération du théâtre cont
+ emporain. Au programme : onze spectacles\, des maquettes de créations\, d
+ es apéros-lectures et des soirées musicales\, avec plus de la moitié de
+ s compagnies issues d'Occitanie. Le festival se déploie dans onze lieux c
+ ulturels à travers Toulouse\, du Théâtre Garonne au Théâtre Jules Jul
+ ien en passant par l\n\nSource\: https://www.lessentiel.fr/newsletter/toul
  ouse/2026-11-12#55042
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-12#55042?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -26014,6 +25996,26 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-16#55310?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:6cb7bdb2-f6f3-43a9-b589-08e16616484e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261126
+SUMMARY:La Poste de Bellefontaine fermée pour travaux jusqu'au 26 novembre
+DESCRIPTION:Le bureau de poste de Toulouse Bellefontaine\, situé au 63 all
+ ée de Bellefontaine\, est temporairement fermé pour travaux depuis le 14
+  novembre et jusqu'au mercredi 25 novembre inclus\, avec une réouverture 
+ prévue le jeudi 26 novembre à 9h. Les travaux visent à améliorer l'acc
+ ueil des clients. La fermeture tombe en pleine période de Black Friday et
+  à quelques semaines de Noël\, ce qui complique les dépôts et retraits
+  de colis pour les habitants du quartier. Le distributeur automatique de b
+ illets de \n\nSource\: https://actu.fr/occitanie/toulouse_31555/la-poste-a
+ -temporairement-ferme-dans-ce-quartier-de-toulouse-comment-faire-pour-recu
+ perer-ses-colis_65058354.html
+LOCATION:allée de Bellefontaine\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/la-poste-a-temporairement-ferm
+ e-dans-ce-quartier-de-toulouse-comment-faire-pour-recuperer-ses-colis_6505
+ 8354.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:599d6e0c-957c-4dc9-89c9-21966536aaa7@news.lavillerose.com
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
@@ -26108,17 +26110,56 @@ UID:cluster:7e9f6167-2b4e-44f4-912a-1148057c76dd@news.lavillerose.com
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261123
 SUMMARY:Marionnettissimo
-DESCRIPTION:Marionnettissimo fête sa 29ᵉ édition du 17 au 22 novembre 2
- 026\, se déployant sur plusieurs lieux à Toulouse\, Tournefeuille et en 
- Haute-Garonne. Ce festival international de marionnette et formes animées
- \, né en 1990\, propose une programmation variée mêlant spectacles cont
- emporains\, performances gratuites et événements participatifs. Les « I
- mpromptus » — véritable off du festival — offrent des performances s
- urprises et gratuites dans des lieux insolites comme des médiathèques\, 
- des cafés ou des esp\n\nSource\: https://www.toulouse-tourisme.com/agenda
- /marionnettissimo/
-URL:https://www.toulouse-tourisme.com/agenda/marionnettissimo/?utm_source=i
- cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Le festival Marionnettissimo ouvre sa 29e édition consacrée 
+ à la marionnette contemporaine et aux formes animées\, se déployant jus
+ qu'au 22 novembre à Tournefeuille\, Toulouse et neuf villes partenaires d
+ e Haute-Garonne. Vingt-deux compagnies régionales\, nationales et interna
+ tionales se produiront dans 28 lieux de représentation\, avec plus de 10 
+ 000 spectateurs attendus. Parmi les partenaires historiques figurent le Th
+ éâtre du Grand Rond\, Odyssud et la Grainerie\, tandis que de nouvelles 
+ collaborat\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-
+ 11-17#55488
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-17#55488?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a63bc393-ed71-4bae-ace5-a804d9e90744@news.lavillerose.com
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:SEEPH – Salle Pierre-Satgé
+DESCRIPTION:La 30e édition de la Semaine européenne pour l'emploi des per
+ sonnes handicapées (SEEPH) s'ouvre à Colomiers ce mardi 17 novembre. Le 
+ matin\, de 9h à 12h30\, un forum de l'insertion professionnelle se tient 
+ salle Pierre-Satgé et permet des rencontres directes avec des recruteurs.
+  L'après-midi\, à partir de 16h\, l'association Envoi organise un atelie
+ r de reconditionnement de conteuses numériques avec Les Lutins solidaires
+ \, réunissant salariés en insertion et entreprises recruteuses (inscript
+ ion requi\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-1
+ 1-17#55491
+LOCATION:salle Pierre-Satgé\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-17#55491?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:efd48d44-8f99-4ad7-be1f-5ac363990a48@news.lavillerose.com
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Manifestation du 17 novembre à Toulouse : parcours et perturbation
+ s
+DESCRIPTION:Ce mardi 17 novembre 2026\, une grande journée de mobilisation
+  intersyndicale se tient à Toulouse contre la vie chère\, pour les salai
+ res\, les emplois et les retraites. Six syndicats — CFDT\, FO\, CGT\, FS
+ U\, Solidaires et Unsa — appellent à la grève\, avec un rassemblement 
+ prévu à 11h place Jean-Jaurès\, suivi d'un cortège vers Saint-Cyprien 
+ via les boulevards. Le parcours a cette fois reçu l'aval de la préfectur
+ e\, contrairement au 5 novembre où des incidents avaient éclaté après 
+ un bras de fer judicia\n\nSource\: https://actu.fr/occitanie/toulouse_3155
+ 5/mobilisation-du-17-novembre-a-toulouse-parcours-revendications-ce-qu-il-
+ faut-savoir_65059333.html
+LOCATION:place Jean-Jaurès\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/mobilisation-du-17-novembre-a-
+ toulouse-parcours-revendications-ce-qu-il-faut-savoir_65059333.html?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a948b680-c5d6-49f6-974c-3b92e2839bd9@news.lavillerose.com
@@ -26466,6 +26507,23 @@ DESCRIPTION:Le Musée Saint-Raymond\, musée d'archéologie de Toulouse\, a
  -paraitre-gaulois/
 URL:https://www.toulouse-tourisme.com/agenda/etre-ou-paraitre-gaulois/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c8c616ce-bbd0-4d88-b915-c4266db14e44@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+SUMMARY:Brique Comedy Club
+DESCRIPTION:Le Brique Comedy Club propose des soirées de stand-up avec une
+  programmation renouvelée chaque semaine\, réunissant humoristes toulous
+ ains et artistes venus de toute la France. Plusieurs comiques se succèden
+ t sur scène lors d'un même plateau\, animé par un maître de cérémoni
+ e. Le lieu a vocation à mettre en avant la nouvelle génération du stand
+ -up tout en accueillant des noms déjà établis. Selon les dates\, la pro
+ grammation peut inclure des spectacles solo ou des formats 2 x 30 minutes.
+  Les soirées\n\nSource\: https://www.toulouse-tourisme.com/agenda/brique-
+ comedy-club/
+URL:https://www.toulouse-tourisme.com/agenda/brique-comedy-club/?utm_source
+ =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4f182d09-9c0b-4388-9a50-729782c0a7e4@news.lavillerose.com
@@ -28575,6 +28633,23 @@ URL:https://www.toulouse-tourisme.com/agenda/figure-dempire-et-contredanse/
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:8a3cb28d-8e18-4293-b7c8-09efe745a823@news.lavillerose.com
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Alta va la luna
+DESCRIPTION:L'Ensemble Stella d'Oriente se produit à la Chapelle des Carm
+ élites le 2 décembre 2026 avec son programme « Alta va la luna »\, tis
+ sant un dialogue entre chants séfarades et musiques de troubadours occita
+ ns et catalans. Le concert explore les liens culturels entre communautés 
+ juives\, chrétiennes et musulmanes du bassin méditerranéen médiéval\,
+  autour de thèmes universels comme l'amour courtois et la spiritualité. 
+ Sept musiciens aux origines franco-colombienne\, franco-syrienne\, franco-
+ libanaise\, oc\n\nSource\: https://www.toulouse-tourisme.com/agenda/ensemb
+ le-stella-doriente/
+URL:https://www.toulouse-tourisme.com/agenda/ensemble-stella-doriente/?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:061f4cea-7dbb-4eb0-8802-e499725b44b5@news.lavillerose.com
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
@@ -28843,19 +28918,21 @@ BEGIN:VEVENT
 UID:cluster:176da581-ca61-4d37-9b02-da3bc60f8756@news.lavillerose.com
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20270222
-SUMMARY:Dalí et les Classiques
-DESCRIPTION:L'exposition « Il était une fois… Dalí et les Classiques 
- » prend ses quartiers dans les salons de l'Hôtel Albert 1er\, à deux pa
- s du Capitole\, du 4 décembre 2026 au 21 février 2027. Plus de 150 œuvr
- es originales — gravures\, lithographies\, sculptures\, céramiques et p
- ublicités d'époque — mettent en scène un dialogue inédit entre Salva
- dor Dalí\, la Divine Comédie de Dante et les Fables de La Fontaine. Parm
- i les pièces maîtresses\, seize publicités réalisées pour la marque B
- ryans seront présentées pour\n\nSource\: https://www.toulouse-tourisme.c
- om/agenda/il-etait-une-fois-dali-et-les-classiques/
-URL:https://www.toulouse-tourisme.com/agenda/il-etait-une-fois-dali-et-les-
- classiques/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
- da
+SUMMARY:Il était une fois… Dali et les Classiques
+DESCRIPTION:Du 4 décembre 2026 au 21 février 2027\, les salons de l'hôte
+ l Albert 1er\, à deux pas du Capitole\, accueilleront « Il était une fo
+ is… Dali et les Classiques »\, une exposition réunissant plus de 150 
+ œuvres et objets originaux de Salvador Dalí. Le collectionneur et commis
+ saire d'exposition Mickael Mamou\, déjà à l'origine de « Dali s'invite
+  à Toulouse » fin 2025\, propose cette fois un parcours inédit autour d
+ e deux monuments littéraires : Dante et La Fontaine. L'exposition explore
+  une facette méconnu\n\nSource\: https://www.toulouscope.fr/2026/11/16/pl
+ us-de-150-oeuvres-rares-de-salvador-dali-reunies-dans-cette-exposition-ine
+ dite-au-coeur-de-la-ville-rose-13639785.php
+URL:https://www.toulouscope.fr/2026/11/16/plus-de-150-oeuvres-rares-de-salv
+ ador-dali-reunies-dans-cette-exposition-inedite-au-coeur-de-la-ville-rose-
+ 13639785.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:04ae4680-95d5-45d4-929d-a3fec023dd1c@news.lavillerose.com
@@ -28892,6 +28969,23 @@ DESCRIPTION:Le Grand Cirque de Noël de Toulouse revient à l'Hippodrome de
  de-noel-de-toulouse/
 URL:https://www.toulouse-tourisme.com/agenda/grand-cirque-de-noel-de-toulou
  se/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a6b056c4-ced3-45e9-88d9-401dab74086d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+SUMMARY:Un Grand Cri d'Amour
+DESCRIPTION:La pièce « Un Grand Cri d'Amour » est programmée au Grenier
+  Théâtre les 4 et 5 décembre 2026\, avec deux représentations spécial
+ es le 31 décembre à 18h30 et 21h00. L'histoire met en scène Gigi et Hug
+ o\, ex-couple d'artistes réunis malgré eux sur scène par leur producteu
+ r opportuniste Sylvestre\, pour rejouer une pièce sur l'amour. Entre règ
+ lements de comptes\, piques assassines et manigances\, les répétitions v
+ irent rapidement à la comédie explosive. Le tarif spécial du 31 décemb
+ re est fixé à 40 € av\n\nSource\: https://www.toulouse-tourisme.com/ag
+ enda/un-grand-cri-damour-2/
+URL:https://www.toulouse-tourisme.com/agenda/un-grand-cri-damour-2/?utm_sou
+ rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:01976ac9-f03a-443c-b1ba-477c81c0e288@news.lavillerose.com
@@ -29694,6 +29788,22 @@ DESCRIPTION:Le concert « Les Animaux en Musique » se tiendra le 12 décem
 LOCATION:Salle Saint Michel\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-animaux-en-musique/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8d8602b4-bd48-42da-afd0-2f3b79500c29@news.lavillerose.com
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:A Croche Voix
+DESCRIPTION:Le chœur A Croche Voix se produit à l'Église Saint-Exupère 
+ de Toulouse le 12 décembre 2026. Au programme : « L'Adieu des Bergers »
+  de Berlioz\, « Meeresstille » de Beethoven\, ainsi que des extraits du 
+ « Te Deum » de Mozart. Ce concert choral propose un répertoire classiqu
+ e varié mêlant musique sacrée et romantique. L'événement s'adresse au
+ x amateurs de musique classique et chorale dans un cadre d'église propice
+  à l'acoustique.\n\nSource\: https://www.toulouse-tourisme.com/agenda/a-c
+ roche-voix/
+URL:https://www.toulouse-tourisme.com/agenda/a-croche-voix/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
@@ -30728,6 +30838,54 @@ URL:https://www.toulouse-tourisme.com/agenda/la-grande-fuite-of-la-bourgeoi
  sie/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a42adda7-5610-4f87-a5f0-35abf905cd9b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Bowling au B29
+DESCRIPTION:Le B29 propose une soirée spéciale le 31 décembre alliant bo
+ wling\, cocktail d'accueil et buffet à volonté. Les participants pourron
+ t se défouler sur les pistes avant de terminer la nuit sur la piste de da
+ nse. L'événement combine restauration et divertissement dans un seul et 
+ même lieu. Une option à retenir pour ceux qui cherchent à fêter le ré
+ veillon du Nouvel An à Toulouse.\n\nSource\: https://www.toulouse-tourism
+ e.com/agenda/bowling-au-b29/
+URL:https://www.toulouse-tourisme.com/agenda/bowling-au-b29/?utm_source=ica
+ l&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:aafd3c8e-7b7c-47a8-942e-03582889130c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Dîner-Spectacle Nouvel An – Figaro and Co
+DESCRIPTION:La compagnie Figaro and Co organise un dîner-spectacle pour f
+ êter le Nouvel An le 31 décembre 2026 au Théâtre Musical de Pibrac. Au
+  programme : gags en tout genre\, numéros de music-hall et une soirée fe
+ stive pour passer en grande pompe à la nouvelle année. Le spectacle réu
+ nit plusieurs artistes : Johann Nicol\, Marion Stenton\, Anthony Carter\, 
+ Mathilde Ramade et Gilles Ramade. Les places sont limitées\, il est donc 
+ conseillé de réserver rapidement.\n\nSource\: https://www.toulouse-touri
+ sme.com/agenda/diner-spectacle-du-nouvel-an/
+URL:https://www.toulouse-tourisme.com/agenda/diner-spectacle-du-nouvel-an/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f5952296-826e-4b48-9890-3a3a8f644e00@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Réveillon du Nouvel An au Bikini
+DESCRIPTION:Le Bikini accueille une soirée de réveillon le 31 décembre 2
+ 026 sur le thème de 44 ans de musique. Au programme\, un voyage musical 
+ à travers les décennies avec des titres de Queen\, David Bowie\, Daft Pu
+ nk\, ABBA\, Beyoncé\, Nirvana\, Lady Gaga et bien d'autres icônes de la 
+ pop\, rock\, électro et R&B. L'événement se déroule dans l'une des sal
+ les de concert les plus emblématiques de l'agglomération toulousaine. Un
+ e soirée destinée à tous ceux qui veulent faire la fête jusqu'au passa
+ ge à la nouvelle anné\n\nSource\: https://www.toulouse-tourisme.com/agen
+ da/reveillon-du-nouvel-an-au-bikini/
+URL:https://www.toulouse-tourisme.com/agenda/reveillon-du-nouvel-an-au-biki
+ ni/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:49093275-11e9-4319-be89-122ff6c00f57@news.lavillerose.com
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
@@ -30794,6 +30952,23 @@ DESCRIPTION:Un concert de musique soul et gospel est programmé à l'Églis
 URL:https://www.ticketmaster.fr/fr/manifestation/the-sounds-of-soul-and-gos
  pel-billet/idmanif/677507/idseance/4451897?utm_source=ical&utm_medium=cale
  ndar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:aeda5e72-b3e1-4ecc-8781-cf7645af7519@news.lavillerose.com
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Gospel\, les Grands Classiques
+DESCRIPTION:Le directeur artistique Max Zita et son Gospel Voices Quartet p
+ roposent un concert dédié aux grands classiques du gospel et des spiritu
+ als à l'église Saint-Aubin de Toulouse. L'acoustique remarquable de ce l
+ ieu de culte constitue un cadre idéal pour ce répertoire de mélodies tr
+ aditionnelles. Max Zita est une figure pionnière du gospel en France\, ay
+ ant fondé Gospel Voices en 1988 et s'étant produit dans des salles prest
+ igieuses comme l'UNESCO et le Palais des congrès\, en plus d'avoir été 
+ élu meil\n\nSource\: https://www.toulouse-tourisme.com/agenda/gospel-les-
+ grands-classiques/
+URL:https://www.toulouse-tourisme.com/agenda/gospel-les-grands-classiques/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:728bd320-4e91-4762-8871-cfbd9f5e605e@news.lavillerose.com
@@ -37130,6 +37305,25 @@ URL:https://www.toulouse-tourisme.com/agenda/mozart-les-grandes-symphonies/
  ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:27b2c3f0-f659-4f94-acfa-3b290bdc6f0b@news.lavillerose.com
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Vitalic
+DESCRIPTION:Le producteur et DJ français Vitalic se produira au Bikini\, 
+ à Ramonville-Saint-Agne\, le 13 mai 2027. Figure incontournable de la sc
+ ène électronique et dance française\, Vitalic est connu pour ses lives 
+ percutants mêlant techno\, electro et synth-pop. Le Bikini\, salle de ré
+ férence de la région toulousaine\, accueille cet événement dans sa pro
+ grammation musiques électroniques. Les amateurs de musique électronique 
+ de Toulouse et alentours sont particulièrement concernés.\n\nSource\: ht
+ tps://www.ticketmaster.fr/fr/manifestation/vitalic-billet/idmanif/678715/i
+ dseance/4459629
+LOCATION:salle de référence de la région toulousa\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/vitalic-billet/idmanif/678
+ 715/idseance/4459629?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:928d1aa4-3033-4e14-b2b8-7e625a2502bc@news.lavillerose.com
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
@@ -38772,6 +38966,21 @@ DESCRIPTION:L'humoriste et imitateur Laurent Gerra se produira au Zénith T
 URL:https://www.ticketmaster.fr/fr/manifestation/laurent-gerra-billet/idman
  if/672966/idseance/4425257?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:10e4371b-954d-41c0-b305-eac47723d70b@news.lavillerose.com
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+SUMMARY:BOUSS
+DESCRIPTION:L'artiste hip-hop/rap BOUSS se produira au Zénith Toulouse Mé
+ tropole le 12 décembre 2027. L'événement est disponible à la billetter
+ ie via Ticketmaster. Peu de détails supplémentaires sont fournis sur le 
+ programme ou les conditions de la soirée. Les amateurs de rap toulousain 
+ et régional sont concernés au premier chef.\n\nSource\: https://www.tick
+ etmaster.fr/fr/manifestation/bouss-billet/idmanif/678858/idseance/4460102
+URL:https://www.ticketmaster.fr/fr/manifestation/bouss-billet/idmanif/67885
+ 8/idseance/4460102?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:06e2833a-7b89-45ed-a209-b624b23ded02@news.lavillerose.com
