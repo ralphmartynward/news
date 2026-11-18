@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-11-17T07:34:59.879178+00:00</updated>
+  <updated>2026-11-18T07:34:48.032200+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,201 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:9439f876-fa31-4ca8-8ddd-9800d3d3ba24</id>
-    <title>Vitaa &amp; Slimane en concert au Zénith de Toulouse</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>ticketmaster</name>
-    </author>
-    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/f23/fda1422d-7c4e-4d63-bc59-c7e7d051df23_SOURCE"/&gt;
-&lt;p&gt;Le duo Vitaa &amp;amp; Slimane se produira au Zénith Toulouse Métropole les 21 et 22 septembre 2028, pour deux soirées consécutives de chanson française. Ces deux dates témoignent d&amp;#x27;une forte demande, justifiant une double représentation dans la même salle. Les fans toulousains auront donc le choix entre deux soirées pour retrouver l&amp;#x27;un des duos les plus populaires de la scène française actuelle. Les billets sont disponibles via Ticketmaster.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/vitaa-slimane-billet/idmanif/678340/idseance/4457982?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/vitaa-slimane-billet/idmanif/678340/idseance/4457983?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.ticketmaster.fr/fr/manifestation/vitaa-slimane-billet/idmanif/678340/idseance/4457982?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le duo Vitaa &amp; Slimane se produira au Zénith Toulouse Métropole les 21 et 22 septembre 2028, pour deux soirées consécutives de chanson française. Ces deux dates témoignent d'une forte demande, justifiant une double représentation dans la même salle. Les fans toulousains auront donc le choix entre deux soirées pour retrouver l'un des duos les plus populaires de la scène française actuelle. Les billets sont disponibles via Ticketmaster.</summary>
-    <category term="event"/>
-    <published>2026-11-11T07:32:31.002460+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:aa018744-a56f-4bc8-8458-3f24b11884f8</id>
-    <title>LINLIN en concert au Bikini de Ramonville</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>ticketmaster</name>
-    </author>
-    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;artiste LINLIN se produira au Bikini, à Ramonville-Saint-Agne, dans le cadre d&amp;#x27;une soirée music/dance électronique. Le Bikini est l&amp;#x27;une des salles de concert de référence de l&amp;#x27;agglomération toulousaine, reconnue pour sa programmation de musiques actuelles. L&amp;#x27;événement est prévu pour le 27 novembre 2027. Les amateurs de musique électronique et dance de la région toulousaine sont particulièrement concernés.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/linlin-billet/idmanif/677447/idseance/4451570?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.ticketmaster.fr/fr/manifestation/linlin-billet/idmanif/677447/idseance/4451570?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'artiste LINLIN se produira au Bikini, à Ramonville-Saint-Agne, dans le cadre d'une soirée music/dance électronique. Le Bikini est l'une des salles de concert de référence de l'agglomération toulousaine, reconnue pour sa programmation de musiques actuelles. L'événement est prévu pour le 27 novembre 2027. Les amateurs de musique électronique et dance de la région toulousaine sont particulièrement concernés.</summary>
-    <category term="event"/>
-    <published>2026-11-11T07:32:31.002070+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:0fac89d5-7b40-405d-ab27-1b7829a200a8</id>
-    <title>Le Musée Éphémère – Le Voyage de Bumpy au Parc des Expos</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>ticketmaster</name>
-    </author>
-    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/71a/8ec88564-616d-465d-979a-53eae342571a_106151_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
-&lt;p&gt;Le Musée Éphémère présente « Le Voyage de Bumpy », une exposition culturelle itinérante accueillie au Parc des Expositions de Toulouse (hall 8) les 30 et 31 janvier 2027. Le concept du Musée Éphémère consiste à proposer des expositions immersives et familiales dans des formats temporaires, souvent autour de personnages ou univers animés. Les 12 entrées Ticketmaster correspondent à plusieurs créneaux de visite répartis sur ces deux journées. L&amp;#x27;événement s&amp;#x27;adresse à un large public, notamment aux familles avec enfants.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456421?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456422?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456423?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456424?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456425?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456426?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456427?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456428?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456429?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456430?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456431?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;, &lt;a href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456432?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.ticketmaster.fr/fr/manifestation/le-musee-ephemere-le-voyage-de-bumpy-billet/idmanif/678171/idseance/4456421?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Éphémère présente « Le Voyage de Bumpy », une exposition culturelle itinérante accueillie au Parc des Expositions de Toulouse (hall 8) les 30 et 31 janvier 2027. Le concept du Musée Éphémère consiste à proposer des expositions immersives et familiales dans des formats temporaires, souvent autour de personnages ou univers animés. Les 12 entrées Ticketmaster correspondent à plusieurs créneaux de visite répartis sur ces deux journées. L'événement s'adresse à un large public, notamment aux familles avec enfants.</summary>
-    <category term="event"/>
-    <published>2026-11-11T07:32:28.981527+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8cc2adb7-5dd9-4d90-b9cd-eb26305b3808</id>
-    <title>Le Stadium de Toulouse adopte Ezymob pour les spectateurs handicapés</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6ae47c567994db022703aa53/hd/image.png?v=1"/&gt;
-&lt;p&gt;Le Stadium de Toulouse se dote d&amp;#x27;une nouvelle solution de guidage mobile appelée Ezymob, déployée en partenariat entre Toulouse Métropole, le TFC et le Stade Toulousain. Ce dispositif vise à faciliter l&amp;#x27;orientation des spectateurs en situation de handicap à l&amp;#x27;intérieur de l&amp;#x27;enceinte : trouver la bonne entrée, rejoindre sa place en tribune ou se repérer dans les allées. Un travail de cartographie détaillé a été réalisé lors de l&amp;#x27;intersaison pour tenir compte des différentes configurations du Stadium selon les événements sportifs. Cette initiative s&amp;#x27;inscrit dans une démarche d&amp;#x27;accessibilité pour que la passion du sport soit partagée par tous.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/11/10/stadium-de-toulouse-cette-nouveaute-va-changer-la-vie-des-spectateurs-en-situation-de-handicap-13627806.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/11/10/stadium-de-toulouse-cette-nouveaute-va-changer-la-vie-des-spectateurs-en-situation-de-handicap-13627806.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Stadium de Toulouse se dote d'une nouvelle solution de guidage mobile appelée Ezymob, déployée en partenariat entre Toulouse Métropole, le TFC et le Stade Toulousain. Ce dispositif vise à faciliter l'orientation des spectateurs en situation de handicap à l'intérieur de l'enceinte : trouver la bonne entrée, rejoindre sa place en tribune ou se repérer dans les allées. Un travail de cartographie détaillé a été réalisé lors de l'intersaison pour tenir compte des différentes configurations du Stadium selon les événements sportifs. Cette initiative s'inscrit dans une démarche d'accessibilité pour que la passion du sport soit partagée par tous.</summary>
-    <category term="news"/>
-    <published>2026-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:09071bb7-8b4a-4977-ae60-2455023959d8</id>
-    <title>Les Patronnes ouvre sa boutique éphémère de Noël rue des Paradoux</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6aed951da4a5c4c7e20677ec/hd/image.jpg?v=1"/&gt;
-&lt;p&gt;Pour la 8e fois, le collectif Les Patronnes installe son pop-up de Noël rue des Paradoux (quartier Carmes-Esquirol) du 28 novembre au 20 décembre 2026. Dix-huit créatrices locales — dont quatre hors Occitanie — se relaieront pour proposer bijoux en vaisselle upcyclée, sacs en combinaisons de ski, décorations murales et accessoires écoresponsables. Nouveauté cette année : deux artisanes proposeront des produits gourmands, les tisanes d&amp;#x27;Artemisia et les confitures et pestos de gingembre de Gingerys. L&amp;#x27;événement s&amp;#x27;adresse aux Toulousains en quête de cadeaux de Noël originaux, colorés et éthiques.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/11/10/des-cadeaux-originaux-colores-et-upcycles-les-patronnes-ouvre-bientot-sa-boutique-ephemere-de-noel-13639292.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/11/10/des-cadeaux-originaux-colores-et-upcycles-les-patronnes-ouvre-bientot-sa-boutique-ephemere-de-noel-13639292.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Pour la 8e fois, le collectif Les Patronnes installe son pop-up de Noël rue des Paradoux (quartier Carmes-Esquirol) du 28 novembre au 20 décembre 2026. Dix-huit créatrices locales — dont quatre hors Occitanie — se relaieront pour proposer bijoux en vaisselle upcyclée, sacs en combinaisons de ski, décorations murales et accessoires écoresponsables. Nouveauté cette année : deux artisanes proposeront des produits gourmands, les tisanes d'Artemisia et les confitures et pestos de gingembre de Gingerys. L'événement s'adresse aux Toulousains en quête de cadeaux de Noël originaux, colorés et éthiques.</summary>
-    <category term="event"/>
-    <published>2026-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:cee1038e-cf9c-48c9-ab7b-d645c7327c30</id>
-    <title>Premier championnat de boules carrées place Saint-Aubin à Toulouse</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/le-debut-de-la-saint-louis-2024-avec-le-surprenant-et-releve-tournoi-de-boules-carrees24-aout.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;association Bien Vivre à Saint-Aubin organise ce mercredi 11 novembre 2026, jour férié, le premier « championnat international de boules carrées » place Saint-Aubin. L&amp;#x27;intitulé « international » est purement humoristique — « c&amp;#x27;est pour la blague », reconnaît un membre du comité — l&amp;#x27;objectif étant de créer un moment convivial et décalé pour faire connaître l&amp;#x27;association de quartier. Les boules carrées et cochonnets sont fournis par l&amp;#x27;association, et des lots offerts par les commerçants locaux récompenseront les meilleurs joueurs à partir de 15 h. L&amp;#x27;événement sera aussi l&amp;#x27;occasion d&amp;#x27;échanges sur les transformations à venir dans le quartier, notamment en lien avec la future Ligne C du métro et un projet de fresque participative pour imaginer l&amp;#x27;avenir de la place Saint-Aubin.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ce-quartier-de-toulouse-accueille-le-premier-championnat-international-de-boules-carrees_65038026.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/ce-quartier-de-toulouse-accueille-le-premier-championnat-international-de-boules-carrees_65038026.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'association Bien Vivre à Saint-Aubin organise ce mercredi 11 novembre 2026, jour férié, le premier « championnat international de boules carrées » place Saint-Aubin. L'intitulé « international » est purement humoristique — « c'est pour la blague », reconnaît un membre du comité — l'objectif étant de créer un moment convivial et décalé pour faire connaître l'association de quartier. Les boules carrées et cochonnets sont fournis par l'association, et des lots offerts par les commerçants locaux récompenseront les meilleurs joueurs à partir de 15 h. L'événement sera aussi l'occasion d'échanges sur les transformations à venir dans le quartier, notamment en lien avec la future Ligne C du métro et un projet de fresque participative pour imaginer l'avenir de la place Saint-Aubin.</summary>
-    <category term="event"/>
-    <published>2026-11-10T12:04:38+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:22c60fa0-c6b4-4ab8-bb29-a65adf8ec11a</id>
-    <title>Airbus veut construire une nouvelle usine géante à Cornebarrieu</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/perspective-nouvelle-usine-airbus-2.jpg"/&gt;
-&lt;p&gt;Airbus envisage de construire une vaste usine de nouvelle génération sur un terrain de 48 hectares à Cornebarrieu, aux portes de Toulouse, dans la zone aéroportuaire de Toulouse-Blagnac. Le site, déjà propriété d&amp;#x27;Airbus mais actuellement exploité comme terres agricoles par trois exploitants, serait dédié à la fabrication de mâts réacteurs pour l&amp;#x27;ensemble de la famille d&amp;#x27;avions civils Airbus — ce qui ferait de Toulouse le seul site mondial pour cette production. Une concertation publique sur l&amp;#x27;aménagement du projet doit s&amp;#x27;ouvrir le mardi 24 novembre 2026. L&amp;#x27;enjeu est stratégique : il s&amp;#x27;agit de renforcer la position de l&amp;#x27;agglomération toulousaine face à la concurrence américaine et chinoise dans l&amp;#x27;aéronautique mondiale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/airbus-veut-construire-une-gigantesque-usine-aux-portes-de-toulouse-ce-qu-il-faut-savoir-sur-ce-projet-xxl_65037517.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/airbus-veut-construire-une-gigantesque-usine-aux-portes-de-toulouse-ce-qu-il-faut-savoir-sur-ce-projet-xxl_65037517.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Airbus envisage de construire une vaste usine de nouvelle génération sur un terrain de 48 hectares à Cornebarrieu, aux portes de Toulouse, dans la zone aéroportuaire de Toulouse-Blagnac. Le site, déjà propriété d'Airbus mais actuellement exploité comme terres agricoles par trois exploitants, serait dédié à la fabrication de mâts réacteurs pour l'ensemble de la famille d'avions civils Airbus — ce qui ferait de Toulouse le seul site mondial pour cette production. Une concertation publique sur l'aménagement du projet doit s'ouvrir le mardi 24 novembre 2026. L'enjeu est stratégique : il s'agit de renforcer la position de l'agglomération toulousaine face à la concurrence américaine et chinoise dans l'aéronautique mondiale.</summary>
-    <category term="news"/>
-    <published>2026-11-10T12:49:24+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:57a3db40-3cf6-4973-9276-ac28b54e1329</id>
-    <title>Volotea lance une ligne directe Toulouse-Pise dès novembre 2026</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/tour-de-pise.jpg"/&gt;
-&lt;p&gt;La compagnie aérienne Volotea a inauguré le vendredi 6 novembre 2026 une nouvelle liaison directe entre Toulouse-Blagnac et Pise, en Toscane. La route est opérée deux fois par semaine, les lundis et vendredis. Pise devient ainsi la cinquième destination italienne proposée par Volotea au départ de Toulouse, aux côtés de Venise, Olbia, Florence et Palerme. L&amp;#x27;aéroport de Toulouse-Blagnac souligne les affinités culturelles entre l&amp;#x27;Occitanie et la Toscane, et rappelle que son programme hivernal couvre désormais plus de 70 destinations en vols directs, avec des fréquences renforcées vers Prague, Londres-Gatwick, Amsterdam, Lisbonne et Bruxelles.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/volotea-inaugure-une-nouvelle-ligne-depuis-toulouse-en-direction-d-un-joyau-mondialement-connu-de-l-italie_65038286.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/volotea-inaugure-une-nouvelle-ligne-depuis-toulouse-en-direction-d-un-joyau-mondialement-connu-de-l-italie_65038286.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La compagnie aérienne Volotea a inauguré le vendredi 6 novembre 2026 une nouvelle liaison directe entre Toulouse-Blagnac et Pise, en Toscane. La route est opérée deux fois par semaine, les lundis et vendredis. Pise devient ainsi la cinquième destination italienne proposée par Volotea au départ de Toulouse, aux côtés de Venise, Olbia, Florence et Palerme. L'aéroport de Toulouse-Blagnac souligne les affinités culturelles entre l'Occitanie et la Toscane, et rappelle que son programme hivernal couvre désormais plus de 70 destinations en vols directs, avec des fréquences renforcées vers Prague, Londres-Gatwick, Amsterdam, Lisbonne et Bruxelles.</summary>
-    <category term="news"/>
-    <published>2026-11-10T17:32:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a521cd6c-c686-463f-8e38-91e594955db6</id>
-    <title>Le Délirium privé de terrasse pendant le Barathon, le patron porte plainte</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2019/01/delirium-cafe-lille-date-ouverture.jpg"/&gt;
-&lt;p&gt;Le bar Le Délirium, sur les allées Jean-Jaurès à Toulouse, se verra interdire sa terrasse les 12, 13 et 14 novembre, week-end du Barathon, suite à une décision de la mairie de Toulouse. La ville reproche au patron, Thomas Vion, de ne pas avoir rangé son mobilier lors de la manifestation du 17 octobre, le mobilier ayant servi de barricades. Thomas Vion conteste la sanction, affirmant n&amp;#x27;avoir reçu aucune consigne de sécurité préalable à la manifestation, et la juge totalement disproportionnée. Il a déposé une plainte contre la mairie et appelle ses clients à « la résistance », leur offrant des tarifs happy hours en soutien ; la mairie, de son côté, maintient fermement sa décision.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/prive-de-terrasse-pour-le-barathon-de-toulouse-ce-patron-de-bar-porte-plainte-contre-la-mairie-et-mobilise-ses-clients_65039373.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/prive-de-terrasse-pour-le-barathon-de-toulouse-ce-patron-de-bar-porte-plainte-contre-la-mairie-et-mobilise-ses-clients_65039373.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le bar Le Délirium, sur les allées Jean-Jaurès à Toulouse, se verra interdire sa terrasse les 12, 13 et 14 novembre, week-end du Barathon, suite à une décision de la mairie de Toulouse. La ville reproche au patron, Thomas Vion, de ne pas avoir rangé son mobilier lors de la manifestation du 17 octobre, le mobilier ayant servi de barricades. Thomas Vion conteste la sanction, affirmant n'avoir reçu aucune consigne de sécurité préalable à la manifestation, et la juge totalement disproportionnée. Il a déposé une plainte contre la mairie et appelle ses clients à « la résistance », leur offrant des tarifs happy hours en soutien ; la mairie, de son côté, maintient fermement sa décision.</summary>
-    <category term="news"/>
-    <published>2026-11-10T16:59:42+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a7f47f32-6720-4b24-bc8a-1809c80be1bc</id>
-    <title>Airbus et Thales Alenia Space décrochent le contrat de satellites Iris pour l'armée</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/cso-3-satellite-airbus-toulouse.jpg"/&gt;
-&lt;p&gt;La Direction générale de l&amp;#x27;armement (DGA) a attribué en co-maîtrise d&amp;#x27;œuvre à Airbus Defence and Space et Thales Alenia Space le contrat du programme Iris, la prochaine génération de satellites d&amp;#x27;observation de la Terre à très haute résolution destinés aux forces armées françaises. Ce contrat, d&amp;#x27;une valeur de plus de 1,5 milliard d&amp;#x27;euros, couvre la conception, la construction, les tests de deux satellites ainsi que le segment sol et les opérations en orbite jusqu&amp;#x27;à la fin de la prochaine décennie. Ces satellites Iris remplaceront le parc actuel et fourniront aux militaires une capacité de surveillance des « menaces spatiales » avec une résolution bien améliorée. L&amp;#x27;attribution à ces deux acteurs, qui sont par ailleurs engagés dans le projet de rapprochement européen Bromo face à SpaceX, renforce la souveraineté stratégique de la France dans l&amp;#x27;imagerie optique spatiale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pour-surveiller-les-menaces-spatiales-airbus-et-l-un-de-ses-concurrents-vont-fournir-de-nouveaux-satellites-a-l-armee_65038942.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/pour-surveiller-les-menaces-spatiales-airbus-et-l-un-de-ses-concurrents-vont-fournir-de-nouveaux-satellites-a-l-armee_65038942.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Direction générale de l'armement (DGA) a attribué en co-maîtrise d'œuvre à Airbus Defence and Space et Thales Alenia Space le contrat du programme Iris, la prochaine génération de satellites d'observation de la Terre à très haute résolution destinés aux forces armées françaises. Ce contrat, d'une valeur de plus de 1,5 milliard d'euros, couvre la conception, la construction, les tests de deux satellites ainsi que le segment sol et les opérations en orbite jusqu'à la fin de la prochaine décennie. Ces satellites Iris remplaceront le parc actuel et fourniront aux militaires une capacité de surveillance des « menaces spatiales » avec une résolution bien améliorée. L'attribution à ces deux acteurs, qui sont par ailleurs engagés dans le projet de rapprochement européen Bromo face à SpaceX, renforce la souveraineté stratégique de la France dans l'imagerie optique spatiale.</summary>
-    <category term="news"/>
-    <published>2026-11-10T18:52:23+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:22a386ab-3eee-4b24-bf9d-489294dc5aaa</id>
-    <title>Hope de Na Hong-jin : film délirant entre créatures et SF</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/hope.png"/&gt;
-&lt;p&gt;Le film Hope du réalisateur coréen Na Hong-jin s&amp;#x27;ouvre sur une bourgade frontalière entre les deux Corées dévastée par des créatures mystérieuses aux griffes redoutables. Le chef de la police, Bum-seok, se lance dans une course-poursuite effrénée tandis que chasseurs surarmés envahissent la forêt pour traquer les êtres. Alicia Vikander et Michael Fassbender y incarnent deux extraterrestres, J&amp;#x27;aur et Ma&amp;#x27;veyyo, méconnaissables sous leur maquillage. Le film bascule en fin de métrage vers une réflexion sur la xénophobie et la peur de l&amp;#x27;inconnu, prenant une dimension inattendue après une première partie délibérément hilarante.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-faut-il-aller-voir-hope-le-film-completement-delirant-de-na-hong-jin-dans-les-salles-obscures_65040933.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cinema-faut-il-aller-voir-hope-le-film-completement-delirant-de-na-hong-jin-dans-les-salles-obscures_65040933.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le film Hope du réalisateur coréen Na Hong-jin s'ouvre sur une bourgade frontalière entre les deux Corées dévastée par des créatures mystérieuses aux griffes redoutables. Le chef de la police, Bum-seok, se lance dans une course-poursuite effrénée tandis que chasseurs surarmés envahissent la forêt pour traquer les êtres. Alicia Vikander et Michael Fassbender y incarnent deux extraterrestres, J'aur et Ma'veyyo, méconnaissables sous leur maquillage. Le film bascule en fin de métrage vers une réflexion sur la xénophobie et la peur de l'inconnu, prenant une dimension inattendue après une première partie délibérément hilarante.</summary>
-    <category term="culture"/>
-    <published>2026-11-10T19:54:40+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:7db3f758-992a-4ca0-896f-73b11c6ed14d</id>
-    <title>L'Aligofest revient au Grand Marché du MIN les 13 et 14 novembre</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/aligofest.jpg"/&gt;
-&lt;p&gt;Pour sa deuxième édition, l&amp;#x27;Aligofest investit à nouveau le Grand Marché du MIN de Toulouse les vendredi 13 et samedi 14 novembre 2026, avec au menu aligot-saucisse en quantité et une ambiance Aubrac au cœur de la Ville rose. Les organisateurs visent 4 000 participants, contre 3 000 l&amp;#x27;an dernier, et espèrent dépasser les 3,9 tonnes d&amp;#x27;aligot consommées en 2025, qu&amp;#x27;ils revendiquent comme un record du monde (non homologué par le Guinness). Plusieurs améliorations sont prévues : cinq buvettes au lieu d&amp;#x27;une pour éviter les files d&amp;#x27;attente, plus d&amp;#x27;animations et une décoration renforcée. L&amp;#x27;événement est né de la collaboration entre l&amp;#x27;agence MoovEvents et Rémi Dufour, président du Toulouse Olympique XIII.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/aligot-a-gogo-et-record-du-monde-gargantuesque-a-battre-l-aligofest-fait-son-retour-a-toulouse_65024916.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/aligot-a-gogo-et-record-du-monde-gargantuesque-a-battre-l-aligofest-fait-son-retour-a-toulouse_65024916.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Pour sa deuxième édition, l'Aligofest investit à nouveau le Grand Marché du MIN de Toulouse les vendredi 13 et samedi 14 novembre 2026, avec au menu aligot-saucisse en quantité et une ambiance Aubrac au cœur de la Ville rose. Les organisateurs visent 4 000 participants, contre 3 000 l'an dernier, et espèrent dépasser les 3,9 tonnes d'aligot consommées en 2025, qu'ils revendiquent comme un record du monde (non homologué par le Guinness). Plusieurs améliorations sont prévues : cinq buvettes au lieu d'une pour éviter les files d'attente, plus d'animations et une décoration renforcée. L'événement est né de la collaboration entre l'agence MoovEvents et Rémi Dufour, président du Toulouse Olympique XIII.</summary>
-    <category term="event"/>
-    <published>2026-11-11T06:04:02+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:2087e72e-b748-4d95-b05e-fbf717af78e5</id>
-    <title>Les commerçants de la rue du Taur lancent une carte de fidélité collective</title>
-    <updated>2026-11-11T07:32:47.488868+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/rue-du-taur-toulouse.jpg"/&gt;
-&lt;p&gt;Face à une baisse de fréquentation aggravée par les mouvements sociaux contre la vie chère, des commerçants de la rue du Taur à Toulouse ont décidé de s&amp;#x27;unir autour d&amp;#x27;une initiative de fidélisation originale. L&amp;#x27;initiative est portée par Jordan Perez, président de l&amp;#x27;association et gérant du restaurant Amoné, et son frère Vincent, qui ont créé une carte de fidélité partagée entre plusieurs enseignes de la rue. L&amp;#x27;idée est née du constat que les Toulousains fréquentent peu cette artère, pourtant réputée pour ses restaurants, notamment en l&amp;#x27;absence de station de métro à proximité. L&amp;#x27;objectif est d&amp;#x27;attirer davantage de clients locaux et de faire face collectivement aux difficultés économiques du moment.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/face-aux-difficultes-les-commercants-de-cette-rue-de-toulouse-lancent-une-initiative-de-fidelisation-surprenante_65040154.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/face-aux-difficultes-les-commercants-de-cette-rue-de-toulouse-lancent-une-initiative-de-fidelisation-surprenante_65040154.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Face à une baisse de fréquentation aggravée par les mouvements sociaux contre la vie chère, des commerçants de la rue du Taur à Toulouse ont décidé de s'unir autour d'une initiative de fidélisation originale. L'initiative est portée par Jordan Perez, président de l'association et gérant du restaurant Amoné, et son frère Vincent, qui ont créé une carte de fidélité partagée entre plusieurs enseignes de la rue. L'idée est née du constat que les Toulousains fréquentent peu cette artère, pourtant réputée pour ses restaurants, notamment en l'absence de station de métro à proximité. L'objectif est d'attirer davantage de clients locaux et de faire face collectivement aux difficultés économiques du moment.</summary>
-    <category term="news"/>
-    <published>2026-11-11T07:12:02+01:00</published>
-  </entry>
   <entry>
     <id>cluster:cfcf8f21-1629-4037-9e09-5709edb07f2b</id>
     <title>Ouvertures dominicales exceptionnelles pour les commerces toulousains en novembre</title>
@@ -1247,21 +1052,6 @@
     <published>2026-11-15T20:02:01+01:00</published>
   </entry>
   <entry>
-    <id>cluster:b3b9c65d-108c-4af6-994f-0c6655b51024</id>
-    <title>Fermeture rue Matabiau du 16 au 27 novembre : déviations prévues</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/pxl-20260427-175616410-censored.jpg"/&gt;
-&lt;p&gt;Du lundi 16 au vendredi 27 novembre 2026, les intersections entre les rues Matabiau, Saint-Orens et de l&amp;#x27;Orient seront fermées à la circulation dans le quartier Matabiau, en raison de travaux de construction d&amp;#x27;un réseau de chaleur et de froid urbain. Le stationnement sera également interdit sur la zone concernée, mais la circulation piétonne restera maintenue et sécurisée des deux côtés de la chaussée. Les commerces du secteur — la friperie My Friend Retouches, la pharmacie Matabiau et le tabac — resteront ouverts pendant toute la durée des travaux. Des déviations sont prévues pour les automobilistes : depuis le canal du Midi, il faudra passer par les rues Roquelaine et Claire-Pauilhac avant de rejoindre la place Jeanne-d&amp;#x27;Arc, et dans le sens inverse via les rues de Bayard ou Raymond-IV.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-sans-l-emprunter_65049850.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-sans-l-emprunter_65049850.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Du lundi 16 au vendredi 27 novembre 2026, les intersections entre les rues Matabiau, Saint-Orens et de l'Orient seront fermées à la circulation dans le quartier Matabiau, en raison de travaux de construction d'un réseau de chaleur et de froid urbain. Le stationnement sera également interdit sur la zone concernée, mais la circulation piétonne restera maintenue et sécurisée des deux côtés de la chaussée. Les commerces du secteur — la friperie My Friend Retouches, la pharmacie Matabiau et le tabac — resteront ouverts pendant toute la durée des travaux. Des déviations sont prévues pour les automobilistes : depuis le canal du Midi, il faudra passer par les rues Roquelaine et Claire-Pauilhac avant de rejoindre la place Jeanne-d'Arc, et dans le sens inverse via les rues de Bayard ou Raymond-IV.</summary>
-    <category term="news"/>
-    <published>2026-11-16T05:46:02+01:00</published>
-  </entry>
-  <entry>
     <id>cluster:daf97faa-312f-4bb4-934e-bbedceddd99c</id>
     <title>900 places de stationnement supprimées à Toulouse pour sécuriser les piétons</title>
     <updated>2026-11-16T07:32:37.430479+00:00</updated>
@@ -1367,21 +1157,6 @@
     <summary>Le festival Marionnettissimo ouvre sa 29e édition consacrée à la marionnette contemporaine et aux formes animées, se déployant jusqu'au 22 novembre à Tournefeuille, Toulouse et neuf villes partenaires de Haute-Garonne. Vingt-deux compagnies régionales, nationales et internationales se produiront dans 28 lieux de représentation, avec plus de 10 000 spectateurs attendus. Parmi les partenaires historiques figurent le Théâtre du Grand Rond, Odyssud et la Grainerie, tandis que de nouvelles collaborations voient le jour avec Place de la danse et le Neufneuf festival. Six spectacles ont été créés dans l'année et deux autres sont présentés en avant-première avant leur création en 2027 ; le programme mêle spectacles tous publics, ateliers et rencontres professionnelles.</summary>
     <category term="event"/>
     <published>2026-11-17T05:07:14.378000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d48856cb-7af8-4b00-bd9d-73bab56d24a2</id>
-    <title>Soirée documentaire sur l'asile et loto solidaire à Balma</title>
-    <updated>2026-11-17T07:34:59.879178+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/cine-camera-h-adobestock_239244529_0.jpg?itok=x_hsKB32"/&gt;
-&lt;p&gt;Deux événements solidaires sont au programme ce soir dans la région toulousaine. La Cimade organise, dans le cadre du festival Migrant&amp;#x27;Scène, une projection du documentaire Zone d&amp;#x27;Ombre au Théâtre du Grand Rond, suivie d&amp;#x27;un C.R.A.-Quizz sur le droit d&amp;#x27;asile animé par la comédienne Amélie Gasparotto. Par ailleurs, le Rotary Club de Balma tient son grand loto au Palladium de Balma, avec les bénéfices reversés à l&amp;#x27;association Le Chêne vert, qui soutient des enfants défavorisés à Flourens. Ces deux initiatives invitent le public toulousain à s&amp;#x27;engager, l&amp;#x27;une sur les questions migratoires, l&amp;#x27;autre en faveur de l&amp;#x27;enfance.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd7pV6zt9KwSQUxHMhuwH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKh5p3.MRF4U1GkUX2jjN~0nucvY5bFMnGb95B-z_PGV9&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd7pV6zt9KwSQUxHMhuwH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKh5p3.MRF4U1GkUX2jjN~0nucvY5bFMnGb95B-z_PGVL&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd7pV60_tOwSQUxHFUjtYkjeUwZ8LMIFPK5a390_Q8VuKh~XQlvdDzwu40zKV7JnKh5p3.MRF4U1GkUX2jjN~0nucvY5bFMnGb95B-z_PGV9&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd7pV60_tOwSQUxHFUjtYkjeUwZ8LMIFPK5a390_Q8VuKh~XQlvdDzwu40zKV7JnKh5p3.MRF4U1GkUX2jjN~0nucvY5bFMnGb95B-z_PGVL&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd7pV6zt9KwSQUxHMhuwH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKh5p3.MRF4U1GkUX2jjN~0nucvY5bFMnGb95B-z_PGV9&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Deux événements solidaires sont au programme ce soir dans la région toulousaine. La Cimade organise, dans le cadre du festival Migrant'Scène, une projection du documentaire Zone d'Ombre au Théâtre du Grand Rond, suivie d'un C.R.A.-Quizz sur le droit d'asile animé par la comédienne Amélie Gasparotto. Par ailleurs, le Rotary Club de Balma tient son grand loto au Palladium de Balma, avec les bénéfices reversés à l'association Le Chêne vert, qui soutient des enfants défavorisés à Flourens. Ces deux initiatives invitent le public toulousain à s'engager, l'une sur les questions migratoires, l'autre en faveur de l'enfance.</summary>
-    <category term="event"/>
-    <published>2026-11-17T05:02:34.174000+00:00</published>
   </entry>
   <entry>
     <id>cluster:10e4371b-954d-41c0-b305-eac47723d70b</id>
@@ -1658,6 +1433,23 @@
     <published>2026-11-15T10:32:02+01:00</published>
   </entry>
   <entry>
+    <id>cluster:4f5127d2-7c1e-4a77-92a5-da297d45ac28</id>
+    <title>Blocages lycéens à Toulouse : 50 blessés, 107 interpellations, le recteur alarmé</title>
+    <updated>2026-11-17T07:34:59.879178+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/le-lycee-urbain-vitry-au-nord-de-toulouse.jpg"/&gt;
+&lt;p&gt;Depuis fin septembre 2026, un mouvement de contestation lycéenne secoue Toulouse et la Haute-Garonne, avec des blocages, tirs de mortier, jets de fumigènes et incendies dans une vingtaine d&amp;#x27;établissements. Les incidents se sont intensifiés mi-novembre : le mardi 10 novembre, 13 lycées ont été concernés et les lycées Rive Gauche et Urbain-Vitry fermés ; le jeudi 12 novembre, 16 établissements étaient touchés, avec 750 élèves mobilisés, 3 blessés et 6 interpellations, et les lycées Henri-Matisse (Cugnaux) et Stéphane-Hessel fermés. Le lycée Bellevue à Toulouse a également été évacué après des tirs de mortier en milieu de journée un lundi, et annoncé fermé le lendemain. Le recteur Karim Benmiloud a tiré la sonnette d&amp;#x27;alarme le vendredi 13 novembre, qualifiant le bilan — plus de 50 blessés et 107 interpellations depuis le début du mouvement — de « particulièrement grave et sans précédent », et appelant à un retour au calme.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les quatre articles couvrent des journées différentes (mardi 10, lundi non daté, jeudi 12 et vendredi 13 novembre) avec un niveau de détail croissant. Le dernier article synthétise l&amp;#x27;ensemble du mouvement avec la prise de parole officielle du recteur, tandis que les trois premiers restituent les incidents au jour le jour.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Mardi 10 novembre : premiers blocages, fermetures de Rive Gauche et Urbain-Vitry&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Lycée Bellevue évacué et fermé après des tirs de mortier&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Jeudi 12 novembre : bilan détaillé dans 16 lycées, 6 interpellations, 3 blessés&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Vendredi 13 novembre : bilan global, déclarations du recteur Benmiloud&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/six-interpellations-et-trois-blesses-un-jeudi-tres-agite-dans-16-lycees-de-toulouse-et-de-la-haute-garonne_65049040.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/blocages-lyceens-plus-de-50-blesses-107-interpellations-le-recteur-tire-la-sonnette-d-alarme-a-toulouse_65052302.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-situation-est-devenue-compliquee-un-lycee-de-toulouse-evacue-en-urgence-apres-des-tirs-de-mortier-et-de-petards_65062261.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/six-interpellations-et-trois-blesses-un-jeudi-tres-agite-dans-16-lycees-de-toulouse-et-de-la-haute-garonne_65049040.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Depuis fin septembre 2026, un mouvement de contestation lycéenne secoue Toulouse et la Haute-Garonne, avec des blocages, tirs de mortier, jets de fumigènes et incendies dans une vingtaine d'établissements. Les incidents se sont intensifiés mi-novembre : le mardi 10 novembre, 13 lycées ont été concernés et les lycées Rive Gauche et Urbain-Vitry fermés ; le jeudi 12 novembre, 16 établissements étaient touchés, avec 750 élèves mobilisés, 3 blessés et 6 interpellations, et les lycées Henri-Matisse (Cugnaux) et Stéphane-Hessel fermés. Le lycée Bellevue à Toulouse a également été évacué après des tirs de mortier en milieu de journée un lundi, et annoncé fermé le lendemain. Le recteur Karim Benmiloud a tiré la sonnette d'alarme le vendredi 13 novembre, qualifiant le bilan — plus de 50 blessés et 107 interpellations depuis le début du mouvement — de « particulièrement grave et sans précédent », et appelant à un retour au calme.</summary>
+    <category term="news"/>
+    <published>2026-11-12T18:37:05+01:00</published>
+  </entry>
+  <entry>
     <id>cluster:9703953d-06ed-4478-84c4-b3ffdca6ef82</id>
     <title>Le festival Supernova revient au Théâtre Sorano pour sa 11e édition</title>
     <updated>2026-11-17T07:34:59.879178+00:00</updated>
@@ -1678,20 +1470,425 @@
     <published>2026-11-12T05:05:43.250000+00:00</published>
   </entry>
   <entry>
-    <id>cluster:4f5127d2-7c1e-4a77-92a5-da297d45ac28</id>
-    <title>Blocages lycéens à Toulouse : 50 blessés, 107 interpellations, le recteur alarmé</title>
-    <updated>2026-11-17T07:34:59.879178+00:00</updated>
+    <id>cluster:1bca5436-ab70-4e10-bbab-571bc065df41</id>
+    <title>Marie-Louise Dissard, figure de la Résistance toulousaine célébrée par un lycée</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/marie-louise-dissard-credit-archives-departementales-_0.jpg?h=242d7538&amp;amp;itok=gJEqwicQ"/&gt;
+&lt;p&gt;Le lycée Françoise de Tournefeuille porte le pseudonyme de Marie-Louise Dissard (1881-1957), figure majeure de la Résistance à Toulouse. Couturière réputée, elle tenait une boutique rue de la Pomme et créait des costumes pour le théâtre du Capitole avant la guerre. Dès 1941, elle s&amp;#x27;engage dans le groupe Bertaux, l&amp;#x27;un des premiers mouvements de résistance toulousains, diffusant des tracts et recueillant des renseignements. Elle rejoint ensuite le réseau d&amp;#x27;évasion Pat O&amp;#x27;Leary, hébergeant des aviateurs alliés déguisés en scouts dans son appartement du quartier Saint-Georges, sous le pseudonyme de « Françoise ».&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55628"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55628"/>
+    <summary>Le lycée Françoise de Tournefeuille porte le pseudonyme de Marie-Louise Dissard (1881-1957), figure majeure de la Résistance à Toulouse. Couturière réputée, elle tenait une boutique rue de la Pomme et créait des costumes pour le théâtre du Capitole avant la guerre. Dès 1941, elle s'engage dans le groupe Bertaux, l'un des premiers mouvements de résistance toulousains, diffusant des tracts et recueillant des renseignements. Elle rejoint ensuite le réseau d'évasion Pat O'Leary, hébergeant des aviateurs alliés déguisés en scouts dans son appartement du quartier Saint-Georges, sous le pseudonyme de « Françoise ».</summary>
+    <category term="culture"/>
+    <published>2026-11-18T05:07:00.649000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:03c86d28-38cd-422a-accd-8f0561c0f351</id>
+    <title>Hiba Tawaji et Ibrahim Maalouf en concert au Casino Barrière</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/filters_format-webp-_quality-80--1.jpg?h=511acdd5&amp;amp;itok=kIKewptl"/&gt;
+&lt;p&gt;Le duo libanais Hiba Tawaji et Ibrahim Maalouf se produit ce soir au Casino Barrière de Toulouse dans le cadre de leur grande tournée « À la française ». Leur album commun, sorti en septembre, rassemble onze reprises de classiques francophones — La Bohème, La Javanaise, Les Mots bleus, ou encore Toulouse — revisités avec classique, jazz, pop et influences orientales. Pour l&amp;#x27;enregistrement, ils se sont entourés de musiciens reconnus et de l&amp;#x27;Orchestre de la Garde républicaine. Trompettiste de renom, Ibrahim Maalouf, et chanteuse révélée par The Voice et Notre-Dame de Paris, Hiba Tawaji forment également un couple dans la vie depuis six ans.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55624"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55624"/>
+    <summary>Le duo libanais Hiba Tawaji et Ibrahim Maalouf se produit ce soir au Casino Barrière de Toulouse dans le cadre de leur grande tournée « À la française ». Leur album commun, sorti en septembre, rassemble onze reprises de classiques francophones — La Bohème, La Javanaise, Les Mots bleus, ou encore Toulouse — revisités avec classique, jazz, pop et influences orientales. Pour l'enregistrement, ils se sont entourés de musiciens reconnus et de l'Orchestre de la Garde républicaine. Trompettiste de renom, Ibrahim Maalouf, et chanteuse révélée par The Voice et Notre-Dame de Paris, Hiba Tawaji forment également un couple dans la vie depuis six ans.</summary>
+    <category term="event"/>
+    <published>2026-11-18T05:07:00.649000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:2333beef-c453-42f9-8f9b-e629af887740</id>
+    <title>Matinée de l'alternance dans les centres Afpa de Balma et Toulouse-Palays</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_663487678.jpg?itok=XMVHKfuV"/&gt;
+&lt;p&gt;L&amp;#x27;Afpa Occitanie organise une matinée de l&amp;#x27;alternance de 9h à 13h dans ses douze centres régionaux, dont deux sur le secteur toulousain : Balma et Toulouse-Palays. Les visiteurs pourront échanger directement avec des entreprises et des conseillers pour préparer une reconversion, une montée en compétences ou la signature d&amp;#x27;un contrat en alternance. Des visites des ateliers et plateaux techniques sont au programme, ainsi que des tables rondes et ateliers pratiques sur la recherche d&amp;#x27;entreprise, la posture professionnelle et la prise de contact avec les recruteurs. Une inscription préalable est recommandée pour les personnes intéressées.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55626"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55626"/>
+    <summary>L'Afpa Occitanie organise une matinée de l'alternance de 9h à 13h dans ses douze centres régionaux, dont deux sur le secteur toulousain : Balma et Toulouse-Palays. Les visiteurs pourront échanger directement avec des entreprises et des conseillers pour préparer une reconversion, une montée en compétences ou la signature d'un contrat en alternance. Des visites des ateliers et plateaux techniques sont au programme, ainsi que des tables rondes et ateliers pratiques sur la recherche d'entreprise, la posture professionnelle et la prise de contact avec les recruteurs. Une inscription préalable est recommandée pour les personnes intéressées.</summary>
+    <category term="event"/>
+    <published>2026-11-18T05:07:00.649000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9e162e4d-0815-4aad-bcbe-f233cb74eda2</id>
+    <title>Antes &amp; Madzes dévoilent leur nouvel EP « Merci de rien 2 »</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/sunrise-bm_nograin---adrien.jpg?itok=LPb9P7bx"/&gt;
+&lt;p&gt;Le duo toulousain Antes &amp;amp; Madzes, formé par Sylvain Antes et Rémi Massol (alias Madzes), deux copains originaires de Rodez, sort son quatrième EP intitulé « Merci de rien 2 ». Composé de 6 titres, cet EP aborde des thèmes intimes et universels : le deuil, la pression sociale sur les femmes, les pensées post-rupture et le désir de parentalité. Le duo, qui cumule plus de 17 millions de streams toutes plateformes confondues et 340 000 auditeurs mensuels sur Spotify, revendique une écriture « un peu sociologique », dressant des tableaux et des personnages qui résonnent largement. Leurs textes sont pensés pour être partagés entre proches, formant selon eux « un instantané de la France en 2026 ».&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55627"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55627"/>
+    <summary>Le duo toulousain Antes &amp; Madzes, formé par Sylvain Antes et Rémi Massol (alias Madzes), deux copains originaires de Rodez, sort son quatrième EP intitulé « Merci de rien 2 ». Composé de 6 titres, cet EP aborde des thèmes intimes et universels : le deuil, la pression sociale sur les femmes, les pensées post-rupture et le désir de parentalité. Le duo, qui cumule plus de 17 millions de streams toutes plateformes confondues et 340 000 auditeurs mensuels sur Spotify, revendique une écriture « un peu sociologique », dressant des tableaux et des personnages qui résonnent largement. Leurs textes sont pensés pour être partagés entre proches, formant selon eux « un instantané de la France en 2026 ».</summary>
+    <category term="culture"/>
+    <published>2026-11-18T05:07:00.649000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:0d112bd5-d8bd-4b98-9c7c-2e35370fe6e9</id>
+    <title>Soirée santé, alimentation et environnement à l'Université Toulouse Capitole</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/fruits-legumes-marche-adobe-stock_12.jpg?itok=SEkfocXu"/&gt;
+&lt;p&gt;Une soirée gratuite intitulée « La santé, ça se cultive ! » se tient au bâtiment Rempart de l&amp;#x27;Université Toulouse Capitole, de 17h à 20h30 (sur inscription). Au programme : un stand-up scientifique d&amp;#x27;Élise Bordet, ingénieure agronome et docteure en immunologie, suivi d&amp;#x27;une table ronde réunissant des experts en santé environnementale, dont un représentant du Centre antipoison du CHU Purpan. Les échanges porteront sur les liens entre pesticides, qualité des sols, alimentation et santé publique. L&amp;#x27;événement est organisé par deux mutuelles toulousaines, Rempart Mutuelle et Mutami, qui souhaitent jouer un rôle dans la prévention et la réduction des inégalités de santé.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55625"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-18?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55625"/>
+    <summary>Une soirée gratuite intitulée « La santé, ça se cultive ! » se tient au bâtiment Rempart de l'Université Toulouse Capitole, de 17h à 20h30 (sur inscription). Au programme : un stand-up scientifique d'Élise Bordet, ingénieure agronome et docteure en immunologie, suivi d'une table ronde réunissant des experts en santé environnementale, dont un représentant du Centre antipoison du CHU Purpan. Les échanges porteront sur les liens entre pesticides, qualité des sols, alimentation et santé publique. L'événement est organisé par deux mutuelles toulousaines, Rempart Mutuelle et Mutami, qui souhaitent jouer un rôle dans la prévention et la réduction des inégalités de santé.</summary>
+    <category term="event"/>
+    <published>2026-11-18T05:07:00.649000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d48856cb-7af8-4b00-bd9d-73bab56d24a2</id>
+    <title>Dernière visite nocturne à Lieu-Commun et soirée drink &amp; draw à La Passerelle</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/lieu-commun.jpg?itok=E17rdysN"/&gt;
+&lt;p&gt;Deux événements artistiques toulousains sont à l&amp;#x27;affiche. À Lieu-Commun, c&amp;#x27;est la dernière chance de visiter à la lampe torche l&amp;#x27;exposition Lascaux 5 avant sa fermeture définitive : depuis 2006, une trentaine d&amp;#x27;artistes ont couvert 150 mètres de fresques souterraines qui disparaîtront bientôt. Par ailleurs, Case Pastel, le festival toulousain de bande dessinée et d&amp;#x27;illustration indépendantes, organise une soirée drink &amp;amp; draw à La Passerelle Negreneys, ouverte à tous les niveaux. Carnet en main, dessinateurs et illustrateurs sont invités à créer et échanger dans une ambiance conviviale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd75N~yNPMwSQUxHMhuwH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKh6p_6MRF4U1GkUX2jjNL1nucvYHDJMnGb95B-zNLKVL&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd75N~yNPMwSQUxHMhuwH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKh6p_6MRF4U1GkUX2jjNL1nucvYHDJMnGb95B-zNLKVb&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd75N~yNPNwSQUxHFUjtYkjeUwZ8LMIFPK5a390_Q8VuKh~XQlvdDzwu40zKV7JnKh6p_6MRF4U1GkUX2jjNL1nucvYHDJMnGb95B-zNLKVL&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd75N~yNPNwSQUxHFUjtYkjeUwZ8LMIFPK5a390_Q8VuKh~XQlvdDzwu40zKV7JnKh6p_6MRF4U1GkUX2jjNL1nucvYHDJMnGb95B-zNLKVb&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd75N~yNPMwSQUxHMhuwH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKh6p_6MRF4U1GkUX2jjNL1nucvYHDJMnGb95B-zNLKVL&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Deux événements artistiques toulousains sont à l'affiche. À Lieu-Commun, c'est la dernière chance de visiter à la lampe torche l'exposition Lascaux 5 avant sa fermeture définitive : depuis 2006, une trentaine d'artistes ont couvert 150 mètres de fresques souterraines qui disparaîtront bientôt. Par ailleurs, Case Pastel, le festival toulousain de bande dessinée et d'illustration indépendantes, organise une soirée drink &amp; draw à La Passerelle Negreneys, ouverte à tous les niveaux. Carnet en main, dessinateurs et illustrateurs sont invités à créer et échanger dans une ambiance conviviale.</summary>
+    <category term="event"/>
+    <published>2026-11-18T05:03:48.888000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ef8323cf-035e-431e-8349-52009ebd0123</id>
+    <title>The Cat Empire en concert au Bikini de Ramonville</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/558/5d550d5b-4e20-4f3c-9b1d-7a62544b9558_SOURCE"/&gt;
+&lt;p&gt;Le groupe australien The Cat Empire se produira au Bikini, à Ramonville-Saint-Agne, le 17 mai 2027. Connus pour leur mélange explosif de reggae, jazz, funk et ska, ils reviennent en France pour une date toulousaine. Le Bikini, salle de référence de la région, accueille cet événement dans sa programmation musicale. Les amateurs de musique festive et métissée sont particulièrement concernés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/the-cat-empire-billet/idmanif/679031/idseance/4460842?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/the-cat-empire-billet/idmanif/679031/idseance/4460842?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le groupe australien The Cat Empire se produira au Bikini, à Ramonville-Saint-Agne, le 17 mai 2027. Connus pour leur mélange explosif de reggae, jazz, funk et ska, ils reviennent en France pour une date toulousaine. Le Bikini, salle de référence de la région, accueille cet événement dans sa programmation musicale. Les amateurs de musique festive et métissée sont particulièrement concernés.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:34:30.151754+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1c6c892b-2bf5-4344-969d-6c647cec7406</id>
+    <title>« La Fille du 7ème » en spectacle au Diagora de Labège</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
+&lt;p&gt;Le spectacle comique « La Fille du 7ème » sera présenté au Centre de Congrès Diagora à Labège le 27 février 2027. Il s&amp;#x27;agit d&amp;#x27;un spectacle relevant du registre Arts &amp;amp; Théâtre – Comédie. L&amp;#x27;événement se tient dans cette salle de référence de l&amp;#x27;agglomération toulousaine, facilement accessible depuis le centre-ville. Les amateurs de comédie théâtrale sont particulièrement concernés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/la-fille-du-7eme-billet/idmanif/671442/idseance/4405541?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/la-fille-du-7eme-billet/idmanif/671442/idseance/4405541?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le spectacle comique « La Fille du 7ème » sera présenté au Centre de Congrès Diagora à Labège le 27 février 2027. Il s'agit d'un spectacle relevant du registre Arts &amp; Théâtre – Comédie. L'événement se tient dans cette salle de référence de l'agglomération toulousaine, facilement accessible depuis le centre-ville. Les amateurs de comédie théâtrale sont particulièrement concernés.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:34:28.988410+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:71d7477f-9224-40d4-876c-6e1d6e4d9933</id>
+    <title>NTO en concert électronique au Bikini de Ramonville</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/ed1/1e6f503b-62b9-4e85-b6e3-0d0bc1e0ded1_SOURCE"/&gt;
+&lt;p&gt;Le DJ et producteur français NTO se produira au Bikini, à Ramonville-Saint-Agne, dans le cadre d&amp;#x27;un concert de musique électronique. NTO est reconnu pour son style mélancolique et atmosphérique qui mêle melodic techno et deep house, ce qui en fait un artiste prisé de la scène électronique française. Le Bikini est la salle de référence pour les musiques électroniques et amplifiées dans l&amp;#x27;agglomération toulousaine. Les amateurs de musique électronique de la région sont directement concernés par cette date.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/nto-billet/idmanif/667092/idtier/18864121?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/nto-billet/idmanif/667092/idtier/18864121?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le DJ et producteur français NTO se produira au Bikini, à Ramonville-Saint-Agne, dans le cadre d'un concert de musique électronique. NTO est reconnu pour son style mélancolique et atmosphérique qui mêle melodic techno et deep house, ce qui en fait un artiste prisé de la scène électronique française. Le Bikini est la salle de référence pour les musiques électroniques et amplifiées dans l'agglomération toulousaine. Les amateurs de musique électronique de la région sont directement concernés par cette date.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:34:28.988166+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:87653d07-7d29-4909-a8d8-e4f8d088bb72</id>
+    <title>Les Imitatueurs à la Comédie de Toulouse</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
+&lt;p&gt;Le spectacle comique Les Imitatueurs sera présenté à la Comédie de Toulouse. Ce show d&amp;#x27;imitations promet une soirée de rires avec des personnages connus reproduits sur scène. L&amp;#x27;événement s&amp;#x27;inscrit dans la programmation Arts &amp;amp; Théâtre — Comédie de la salle toulousaine. Les amateurs d&amp;#x27;humour et d&amp;#x27;imitations sont particulièrement visés par cette proposition.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/les-imitatueurs-billet/idmanif/678335/idseance/4457976?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/les-imitatueurs-billet/idmanif/678335/idseance/4457976?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le spectacle comique Les Imitatueurs sera présenté à la Comédie de Toulouse. Ce show d'imitations promet une soirée de rires avec des personnages connus reproduits sur scène. L'événement s'inscrit dans la programmation Arts &amp; Théâtre — Comédie de la salle toulousaine. Les amateurs d'humour et d'imitations sont particulièrement visés par cette proposition.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:34:28.988117+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1ff2ce33-1297-41a4-9090-7fbdce80b45e</id>
+    <title>Concert de Minitel au Metronum le 22 novembre</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
+&lt;p&gt;Le groupe Minitel se produira au Metronum, salle dédiée aux musiques actuelles à Toulouse, le 22 novembre 2026. Le concert s&amp;#x27;inscrit dans un registre rock. Le Metronum est une référence pour les scènes émergentes et indépendantes de la ville. Les amateurs de rock sont donc invités à réserver leurs places.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/minitel-billet/idmanif/679008/idseance/4460783?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/minitel-billet/idmanif/679008/idseance/4460783?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le groupe Minitel se produira au Metronum, salle dédiée aux musiques actuelles à Toulouse, le 22 novembre 2026. Le concert s'inscrit dans un registre rock. Le Metronum est une référence pour les scènes émergentes et indépendantes de la ville. Les amateurs de rock sont donc invités à réserver leurs places.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:34:27.854946+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b49aa12e-1674-4bfe-afca-7a01e9a26aaf</id>
+    <title>Jazz Week #10 : cinq soirées de jazz au Taquin</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/376886380-811775394283868-9123460537411305369-n-copie.jpg"/&gt;
+&lt;p&gt;La Jazz Week fête sa 10ème édition au Taquin, club de jazz toulousain, du 20 au 24 janvier 2027. Le concept : un trio de base — Ton Ton Salut à la batterie, Julien Duthu à la contrebasse et Richard Razaf au piano — accueille chaque soir un invité différent, puisant dans le jazz des années 60 (swing, be bop, hard bop, blues, impros). Le programme égrène des musiciens de renom : Pierre de Bethmann (mercredi), Louis Winsberg (jeudi), David Prez (vendredi), Hermon Mehari (samedi) et Frederika (dimanche). La réservation est fortement conseillée.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/jazz-week-10/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/jazz-week-10/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Jazz Week fête sa 10ème édition au Taquin, club de jazz toulousain, du 20 au 24 janvier 2027. Le concept : un trio de base — Ton Ton Salut à la batterie, Julien Duthu à la contrebasse et Richard Razaf au piano — accueille chaque soir un invité différent, puisant dans le jazz des années 60 (swing, be bop, hard bop, blues, impros). Le programme égrène des musiciens de renom : Pierre de Bethmann (mercredi), Louis Winsberg (jeudi), David Prez (vendredi), Hermon Mehari (samedi) et Frederika (dimanche). La réservation est fortement conseillée.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:34:05.255649+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:75724b78-dbc2-4c99-a22a-249fae4dd493</id>
+    <title>Réveillon de Noël au Kalinka : soirée, menu raffiné et spectacle</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Design-sans-titre---2025-11-14T111422.669---copie-2.jpg"/&gt;
+&lt;p&gt;Le Kalinka propose un réveillon de Noël le 24 décembre 2026, combinant dîner gastronomique, décoration festive et spectacle conçu pour tous les âges. La formule tout compris inclut le repas et le show, dans l&amp;#x27;atmosphère chaleureuse et singulière du restaurant. L&amp;#x27;événement se veut une soirée inoubliable, pensée pour les familles comme pour les couples ou groupes d&amp;#x27;amis. Une seule source couvre l&amp;#x27;événement, sans précision sur les tarifs ni sur la nécessité de réserver.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/le-kalinka-fete-noel/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/le-kalinka-fete-noel/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le Kalinka propose un réveillon de Noël le 24 décembre 2026, combinant dîner gastronomique, décoration festive et spectacle conçu pour tous les âges. La formule tout compris inclut le repas et le show, dans l'atmosphère chaleureuse et singulière du restaurant. L'événement se veut une soirée inoubliable, pensée pour les familles comme pour les couples ou groupes d'amis. Une seule source couvre l'événement, sans précision sur les tarifs ni sur la nécessité de réserver.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:33:44.442755+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a144c9ee-c28f-4938-96d9-97cd90733c9a</id>
+    <title>Marchés de Noël des Créateurs à Artilect Toulouse</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/marche-des-makers-createurs-2024-02-copie.jpg"/&gt;
+&lt;p&gt;Les 28 et 29 novembre 2026, Artilect Toulouse accueille ses Marchés de Noël des Créateurs, réunissant artisans et makers d&amp;#x27;Occitanie. On y trouve des pièces uniques faites main — céramique, bijoux, textile, bois, illustrations, décoration — ainsi que des créations hybrides mêlant artisanat et technologies (impression 3D, luminaires, jeux). La particularité du format : les exposants changent chaque semaine, garantissant une offre renouvelée. L&amp;#x27;événement se déroule dans l&amp;#x27;ambiance du FabCafé et donne aussi l&amp;#x27;occasion de visiter Artilect, l&amp;#x27;un des premiers fablabs de France.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/marches-de-noel-des-createurs/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/marches-de-noel-des-createurs/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les 28 et 29 novembre 2026, Artilect Toulouse accueille ses Marchés de Noël des Créateurs, réunissant artisans et makers d'Occitanie. On y trouve des pièces uniques faites main — céramique, bijoux, textile, bois, illustrations, décoration — ainsi que des créations hybrides mêlant artisanat et technologies (impression 3D, luminaires, jeux). La particularité du format : les exposants changent chaque semaine, garantissant une offre renouvelée. L'événement se déroule dans l'ambiance du FabCafé et donne aussi l'occasion de visiter Artilect, l'un des premiers fablabs de France.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:33:23.670887+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:8a92e388-8a38-48a2-acba-d5d98523d7c6</id>
+    <title>Marché de Noël à L'Odyssée : artisanat et produits locaux</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/MARCHE-DE-NOEL-11.jpg"/&gt;
+&lt;p&gt;Un marché de Noël se tient à L&amp;#x27;Odyssée le 21 décembre 2026. L&amp;#x27;événement propose stands d&amp;#x27;artisanat, gastronomie, décoration, bien-être et produits locaux. C&amp;#x27;est une occasion pour les Toulousains de faire leurs derniers achats avant les fêtes dans une ambiance festive. Les informations sur les horaires et l&amp;#x27;entrée restent à confirmer auprès de l&amp;#x27;organisateur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/marche-de-noel/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/marche-de-noel/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un marché de Noël se tient à L'Odyssée le 21 décembre 2026. L'événement propose stands d'artisanat, gastronomie, décoration, bien-être et produits locaux. C'est une occasion pour les Toulousains de faire leurs derniers achats avant les fêtes dans une ambiance festive. Les informations sur les horaires et l'entrée restent à confirmer auprès de l'organisateur.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:33:02.901564+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f701f089-bcc6-497d-aaf1-92c6f179383d</id>
+    <title>Balade de Noël des Motards au Hall 8 : solidarité et parade</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/motard-copie.jpg"/&gt;
+&lt;p&gt;La 16ème édition de la Balade de Noël des Motards se tient le 19 décembre 2026 au Hall 8, au profit des enfants des Restos du Cœur de l&amp;#x27;antenne départementale de Toulouse. L&amp;#x27;entrée est entièrement gratuite, mais chaque participant doit apporter un jouet neuf, remis ensuite aux enfants dans le besoin. Au programme : soirée festive avec restauration chaude, buvette et animation musicale, ainsi qu&amp;#x27;une tombola où les donneurs de jouets peuvent gagner des équipements moto offerts par des partenaires. L&amp;#x27;événement se conclut par une parade de motards dans les rues de Toulouse, symbole de partage et de solidarité.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/balade-de-noel-des-motards/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/balade-de-noel-des-motards/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La 16ème édition de la Balade de Noël des Motards se tient le 19 décembre 2026 au Hall 8, au profit des enfants des Restos du Cœur de l'antenne départementale de Toulouse. L'entrée est entièrement gratuite, mais chaque participant doit apporter un jouet neuf, remis ensuite aux enfants dans le besoin. Au programme : soirée festive avec restauration chaude, buvette et animation musicale, ainsi qu'une tombola où les donneurs de jouets peuvent gagner des équipements moto offerts par des partenaires. L'événement se conclut par une parade de motards dans les rues de Toulouse, symbole de partage et de solidarité.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:32:42.123692+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:93b24b9c-99c0-49a2-b223-77af8ca0df88</id>
+    <title>Shopping de Noël dans les boutiques du centre-ville de Toulouse</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Noel---Remi-Deligeon---Toulouse-Team--1--copie-2.jpg"/&gt;
+&lt;p&gt;Pour les fêtes de Noël, le centre-ville de Toulouse est présenté comme la destination idéale pour faire ses achats : on y trouve un large choix d&amp;#x27;enseignes, de créateurs indépendants et de grandes marques. Au-delà du shopping, l&amp;#x27;occasion est aussi de profiter des illuminations, du patrimoine et des animations, ainsi que de faire une pause dans les restaurants, bars et salons de thé. L&amp;#x27;article précise cependant que certains petits commerçants n&amp;#x27;ouvriront pas nécessairement, et recommande de vérifier les horaires sur les pages Facebook des enseignes concernées. Cet appel à consulter les commerces au cas par cas introduit une incertitude pratique pour les visiteurs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/shopping-pour-les-fetes-de-noel/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/shopping-pour-les-fetes-de-noel/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Pour les fêtes de Noël, le centre-ville de Toulouse est présenté comme la destination idéale pour faire ses achats : on y trouve un large choix d'enseignes, de créateurs indépendants et de grandes marques. Au-delà du shopping, l'occasion est aussi de profiter des illuminations, du patrimoine et des animations, ainsi que de faire une pause dans les restaurants, bars et salons de thé. L'article précise cependant que certains petits commerçants n'ouvriront pas nécessairement, et recommande de vérifier les horaires sur les pages Facebook des enseignes concernées. Cet appel à consulter les commerces au cas par cas introduit une incertitude pratique pour les visiteurs.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:32:21.349740+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:45b20558-556c-4118-b7d1-5655aba3eb00</id>
+    <title>La Quinzaine du Japon en Occitanie : concerts, cinéma et ateliers</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/QUINZAINE-DU-JAPON.png"/&gt;
+&lt;p&gt;La Quinzaine du Japon en Occitanie se tient du 19 novembre au 3 décembre 2026 dans plusieurs lieux de la région. L&amp;#x27;événement propose un programme varié mêlant concerts, visites guidées sur l&amp;#x27;horlogerie japonaise, ateliers de peinture sur céramique, projections de films d&amp;#x27;animation et cafés littéraires. Cette manifestation culturelle s&amp;#x27;adresse à tous les publics curieux de la culture japonaise, des arts aux traditions en passant par le cinéma. Les lieux précis des différentes activités ne sont pas indiqués dans la source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/quinzaine-du-japon-en-occitanie/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/quinzaine-du-japon-en-occitanie/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La Quinzaine du Japon en Occitanie se tient du 19 novembre au 3 décembre 2026 dans plusieurs lieux de la région. L'événement propose un programme varié mêlant concerts, visites guidées sur l'horlogerie japonaise, ateliers de peinture sur céramique, projections de films d'animation et cafés littéraires. Cette manifestation culturelle s'adresse à tous les publics curieux de la culture japonaise, des arts aux traditions en passant par le cinéma. Les lieux précis des différentes activités ne sont pas indiqués dans la source.</summary>
+    <category term="event"/>
+    <published>2026-11-18T07:32:00.497367+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:a4578e5e-c433-46a5-9ca7-fb34916d8a69</id>
+    <title>Baqueira Beret prépare une saison hivernale 2026-2027 ambitieuse</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6aedb57c1938c90b7e017050/hd/image.jpg?v=2"/&gt;
+&lt;p&gt;La station espagnole de Baqueira Beret, très fréquentée par les Toulousains, annonce d&amp;#x27;importants investissements pour la saison 2026-2027, avec 24 millions d&amp;#x27;euros engagés. Un nouveau télésiège débrayable six places baptisé Mirador, capable de transporter 3 000 personnes par heure, remplacera une installation datant de 1990. Deux nouvelles pistes feront leur apparition — Chicòia (557 m) et Parpalhòla (430 m) — et sept canons à neige supplémentaires renforceront l&amp;#x27;enneigement artificiel. Le domaine, fort de 175 km de pistes réparties sur 132 itinéraires, prévoit son ouverture du 28 novembre 2026 au 4 avril 2027, sous réserve des conditions d&amp;#x27;enneigement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/11/17/cette-station-de-ski-prisee-des-toulousains-prepare-plusieurs-nouveautes-pour-lhiver-13639271.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/11/17/cette-station-de-ski-prisee-des-toulousains-prepare-plusieurs-nouveautes-pour-lhiver-13639271.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La station espagnole de Baqueira Beret, très fréquentée par les Toulousains, annonce d'importants investissements pour la saison 2026-2027, avec 24 millions d'euros engagés. Un nouveau télésiège débrayable six places baptisé Mirador, capable de transporter 3 000 personnes par heure, remplacera une installation datant de 1990. Deux nouvelles pistes feront leur apparition — Chicòia (557 m) et Parpalhòla (430 m) — et sept canons à neige supplémentaires renforceront l'enneigement artificiel. Le domaine, fort de 175 km de pistes réparties sur 132 itinéraires, prévoit son ouverture du 28 novembre 2026 au 4 avril 2027, sous réserve des conditions d'enneigement.</summary>
+    <category term="news"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:726c2dcb-0922-4a9a-8b8a-0d6459777873</id>
+    <title>Fuite de gaz rue de la Sarthe à Papus : 700 foyers sans gaz</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/le-lycee-urbain-vitry-au-nord-de-toulouse.jpg"/&gt;
-&lt;p&gt;Depuis fin septembre 2026, un mouvement de contestation lycéenne secoue Toulouse et la Haute-Garonne, avec des blocages, tirs de mortier, jets de fumigènes et incendies dans une vingtaine d&amp;#x27;établissements. Les incidents se sont intensifiés mi-novembre : le mardi 10 novembre, 13 lycées ont été concernés et les lycées Rive Gauche et Urbain-Vitry fermés ; le jeudi 12 novembre, 16 établissements étaient touchés, avec 750 élèves mobilisés, 3 blessés et 6 interpellations, et les lycées Henri-Matisse (Cugnaux) et Stéphane-Hessel fermés. Le lycée Bellevue à Toulouse a également été évacué après des tirs de mortier en milieu de journée un lundi, et annoncé fermé le lendemain. Le recteur Karim Benmiloud a tiré la sonnette d&amp;#x27;alarme le vendredi 13 novembre, qualifiant le bilan — plus de 50 blessés et 107 interpellations depuis le début du mouvement — de « particulièrement grave et sans précédent », et appelant à un retour au calme.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les quatre articles couvrent des journées différentes (mardi 10, lundi non daté, jeudi 12 et vendredi 13 novembre) avec un niveau de détail croissant. Le dernier article synthétise l&amp;#x27;ensemble du mouvement avec la prise de parole officielle du recteur, tandis que les trois premiers restituent les incidents au jour le jour.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Mardi 10 novembre : premiers blocages, fermetures de Rive Gauche et Urbain-Vitry&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Lycée Bellevue évacué et fermé après des tirs de mortier&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Jeudi 12 novembre : bilan détaillé dans 16 lycées, 6 interpellations, 3 blessés&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Vendredi 13 novembre : bilan global, déclarations du recteur Benmiloud&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/blocages-et-tensions-pres-de-certains-lycees-de-toulouse-deux-etablissements-ferment-ce-mardi-apres-midi_65039073.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/six-interpellations-et-trois-blesses-un-jeudi-tres-agite-dans-16-lycees-de-toulouse-et-de-la-haute-garonne_65049040.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/blocages-lyceens-plus-de-50-blesses-107-interpellations-le-recteur-tire-la-sonnette-d-alarme-a-toulouse_65052302.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-situation-est-devenue-compliquee-un-lycee-de-toulouse-evacue-en-urgence-apres-des-tirs-de-mortier-et-de-petards_65062261.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/blocages-et-tensions-pres-de-certains-lycees-de-toulouse-deux-etablissements-ferment-ce-mardi-apres-midi_65039073.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Depuis fin septembre 2026, un mouvement de contestation lycéenne secoue Toulouse et la Haute-Garonne, avec des blocages, tirs de mortier, jets de fumigènes et incendies dans une vingtaine d'établissements. Les incidents se sont intensifiés mi-novembre : le mardi 10 novembre, 13 lycées ont été concernés et les lycées Rive Gauche et Urbain-Vitry fermés ; le jeudi 12 novembre, 16 établissements étaient touchés, avec 750 élèves mobilisés, 3 blessés et 6 interpellations, et les lycées Henri-Matisse (Cugnaux) et Stéphane-Hessel fermés. Le lycée Bellevue à Toulouse a également été évacué après des tirs de mortier en milieu de journée un lundi, et annoncé fermé le lendemain. Le recteur Karim Benmiloud a tiré la sonnette d'alarme le vendredi 13 novembre, qualifiant le bilan — plus de 50 blessés et 107 interpellations depuis le début du mouvement — de « particulièrement grave et sans précédent », et appelant à un retour au calme.</summary>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/pompiers-police-grdg-toulouse-gl.jpg"/&gt;
+&lt;p&gt;Une fuite de gaz s&amp;#x27;est déclarée rue de la Sarthe, dans le quartier Papus à Toulouse, vers 9h45, après qu&amp;#x27;une entreprise a endommagé une canalisation lors de travaux sur la voirie. Deux fourgons d&amp;#x27;incendie, un véhicule de commandement et des équipes GRDF sont intervenus pour sécuriser la zone et barrer la canalisation endommagée. Environ 700 foyers ont été privés de gaz le temps des opérations, estimées à environ deux heures supplémentaires au moment de la publication. Par mesure de précaution, une école voisine a été confinée, mobilisant 60 élèves et 5 enseignants, et la rue de la Sarthe a été fermée à la circulation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/fuite-de-gaz-dans-ce-quartier-de-toulouse-une-canalisation-endommagee-700-foyers-touches_65064177.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/fuite-de-gaz-dans-ce-quartier-de-toulouse-une-canalisation-endommagee-700-foyers-touches_65064177.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Une fuite de gaz s'est déclarée rue de la Sarthe, dans le quartier Papus à Toulouse, vers 9h45, après qu'une entreprise a endommagé une canalisation lors de travaux sur la voirie. Deux fourgons d'incendie, un véhicule de commandement et des équipes GRDF sont intervenus pour sécuriser la zone et barrer la canalisation endommagée. Environ 700 foyers ont été privés de gaz le temps des opérations, estimées à environ deux heures supplémentaires au moment de la publication. Par mesure de précaution, une école voisine a été confinée, mobilisant 60 élèves et 5 enseignants, et la rue de la Sarthe a été fermée à la circulation.</summary>
     <category term="news"/>
-    <published>2026-11-10T13:40:40+01:00</published>
+    <published>2026-11-17T11:08:05+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:e81a01c1-2b9f-4e3f-a757-a8bde2df6c25</id>
+    <title>Ligne C du métro : la dernière station souterraine percée par Jeanne Marvig</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/25-01-21-eiffage-gc-nge-gc-station-colomiers-gare-dsc-10jpg.png"/&gt;
+&lt;p&gt;Le lundi 16 novembre 2026, le tunnelier n°1 « Jeanne Marvig » a franchi la station Saint-Martin-Airbus, dernière des 17 stations souterraines à être percée sur le chantier de la ligne C du métro de Toulouse. L&amp;#x27;étape est qualifiée de symbolique par Tisséo, même si les travaux sont loin d&amp;#x27;être terminés : Jeanne Marvig doit encore parcourir environ 800 mètres pour rejoindre le puits Laporte. De son côté, le tunnelier n°2 « Lise Enjalbert » progresse également vers ce même puits, avec seulement 600 mètres restants à creuser. Un troisième tunnelier, « Berthe de Puybusque », continue lui aussi son avancée vers la station Raisin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/ligne-c-du-metro-de-toulouse-la-derniere-station-vient-d-etre-percee-que-reste-t-il-a-faire-pour-les-tunneliers_65064359.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/ligne-c-du-metro-de-toulouse-la-derniere-station-vient-d-etre-percee-que-reste-t-il-a-faire-pour-les-tunneliers_65064359.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le lundi 16 novembre 2026, le tunnelier n°1 « Jeanne Marvig » a franchi la station Saint-Martin-Airbus, dernière des 17 stations souterraines à être percée sur le chantier de la ligne C du métro de Toulouse. L'étape est qualifiée de symbolique par Tisséo, même si les travaux sont loin d'être terminés : Jeanne Marvig doit encore parcourir environ 800 mètres pour rejoindre le puits Laporte. De son côté, le tunnelier n°2 « Lise Enjalbert » progresse également vers ce même puits, avec seulement 600 mètres restants à creuser. Un troisième tunnelier, « Berthe de Puybusque », continue lui aussi son avancée vers la station Raisin.</summary>
+    <category term="news"/>
+    <published>2026-11-17T12:42:49+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:3404b875-4a6b-4055-b909-a188a634fa92</id>
+    <title>La bûche Capitole de Barrelle vendue 90€ pour la prématurité</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/11/barrelle.jpg"/&gt;
+&lt;p&gt;La pâtisserie-chocolaterie toulousaine Barrelle lance sa bûche de Noël en forme de Capitole, proposée à 90 euros en édition limitée de 380 exemplaires. Aux saveurs de miel du Comminges, vanille et chocolat, cette création glacée s&amp;#x27;accompagne d&amp;#x27;une opération solidaire en faveur des bébés prématurés. Les fondateurs Barbara et Alexandre Albanese, eux-mêmes parents d&amp;#x27;un enfant né prématurément à 28 semaines et 736 grammes il y a cinq ans, souhaitent soutenir les familles traversant cette épreuve. L&amp;#x27;initiative est lancée à l&amp;#x27;occasion de la Journée mondiale de la Prématurité, rappelant qu&amp;#x27;en France un bébé prématuré naît toutes les dix minutes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/leur-fameuse-buche-de-noel-en-forme-de-capitole-de-toulouse-est-mise-en-vente-90-euros-et-c-est-pour-la-bonne-cause_65064203.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/leur-fameuse-buche-de-noel-en-forme-de-capitole-de-toulouse-est-mise-en-vente-90-euros-et-c-est-pour-la-bonne-cause_65064203.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La pâtisserie-chocolaterie toulousaine Barrelle lance sa bûche de Noël en forme de Capitole, proposée à 90 euros en édition limitée de 380 exemplaires. Aux saveurs de miel du Comminges, vanille et chocolat, cette création glacée s'accompagne d'une opération solidaire en faveur des bébés prématurés. Les fondateurs Barbara et Alexandre Albanese, eux-mêmes parents d'un enfant né prématurément à 28 semaines et 736 grammes il y a cinq ans, souhaitent soutenir les familles traversant cette épreuve. L'initiative est lancée à l'occasion de la Journée mondiale de la Prématurité, rappelant qu'en France un bébé prématuré naît toutes les dix minutes.</summary>
+    <category term="news"/>
+    <published>2026-11-17T12:54:33+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:c1e1d11e-5b5e-406f-b090-1936393fd529</id>
+    <title>Un nouveau parking de 611 places va remplacer le P3 de la Cité de l'Espace</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/parking-ferme-a-la-cite-de-lespace-a-toulouse-en-novembre-2026.jpg"/&gt;
+&lt;p&gt;Le parking P3 situé en face de la Cité de l&amp;#x27;Espace, régulièrement squatté par des gens du voyage, a été définitivement fermé depuis le lundi 16 novembre 2026. Des barrières de sécurité et des plots en béton ont été installés pour sécuriser le site, rendant également le stationnement des camping-cars totalement impossible. Un chantier de modernisation va durer plusieurs mois et aboutira à la construction d&amp;#x27;un nouveau parking à deux étages de 611 places, sécurisé, géré par la société Indigo. L&amp;#x27;ouverture est prévue en juin 2028 selon le calendrier prévisionnel. En attendant, la Cité de l&amp;#x27;Espace invite les visiteurs à privilégier les transports en commun ou le covoiturage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/regulierement-squatte-par-des-gens-du-voyage-ce-parking-de-toulouse-a-ete-ferme-un-nouveau-projet-va-debuter_65060187.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/regulierement-squatte-par-des-gens-du-voyage-ce-parking-de-toulouse-a-ete-ferme-un-nouveau-projet-va-debuter_65060187.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le parking P3 situé en face de la Cité de l'Espace, régulièrement squatté par des gens du voyage, a été définitivement fermé depuis le lundi 16 novembre 2026. Des barrières de sécurité et des plots en béton ont été installés pour sécuriser le site, rendant également le stationnement des camping-cars totalement impossible. Un chantier de modernisation va durer plusieurs mois et aboutira à la construction d'un nouveau parking à deux étages de 611 places, sécurisé, géré par la société Indigo. L'ouverture est prévue en juin 2028 selon le calendrier prévisionnel. En attendant, la Cité de l'Espace invite les visiteurs à privilégier les transports en commun ou le covoiturage.</summary>
+    <category term="news"/>
+    <published>2026-11-17T17:04:21+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:5de3fdf0-8f6e-4b51-9762-fcbc36c6ae52</id>
+    <title>L'usine Mondelez de Fontaine-Lestang pourrait changer de nom</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/img-8311.jpg"/&gt;
+&lt;p&gt;Discrètement implantée rue Jacques-Gamelin dans le quartier Fontaine-Lestang depuis 1951, l&amp;#x27;usine toulousaine a traversé plus de 70 ans d&amp;#x27;histoire industrielle sous plusieurs noms : Paré, Heudebert, LU, puis Mondelez International. Elle produit aujourd&amp;#x27;hui biscottes et barres de céréales et emploie plusieurs centaines de salariés. Selon Mondelez International, un nouveau changement de nom pourrait intervenir dans les mois à venir, potentiellement au profit du groupe Princes. L&amp;#x27;issue dépendrait d&amp;#x27;une opération de cession à l&amp;#x27;échelle mondiale, dont les contours restent encore à préciser.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/l-ancienne-usine-lu-en-plein-coeur-de-toulouse-pourrait-a-nouveau-changer-de-nom-voici-pourquoi_65065348.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/l-ancienne-usine-lu-en-plein-coeur-de-toulouse-pourrait-a-nouveau-changer-de-nom-voici-pourquoi_65065348.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Discrètement implantée rue Jacques-Gamelin dans le quartier Fontaine-Lestang depuis 1951, l'usine toulousaine a traversé plus de 70 ans d'histoire industrielle sous plusieurs noms : Paré, Heudebert, LU, puis Mondelez International. Elle produit aujourd'hui biscottes et barres de céréales et emploie plusieurs centaines de salariés. Selon Mondelez International, un nouveau changement de nom pourrait intervenir dans les mois à venir, potentiellement au profit du groupe Princes. L'issue dépendrait d'une opération de cession à l'échelle mondiale, dont les contours restent encore à préciser.</summary>
+    <category term="news"/>
+    <published>2026-11-17T17:44:17+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f2d6cff7-1271-45bc-99b2-a30d47d5ef16</id>
+    <title>« Moulin » de László Nemes : faut-il voir ce film avec Lellouche ?</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/moulin-4.jpg"/&gt;
+&lt;p&gt;Le cinéaste hongrois László Nemes, révélé par Le Fils de Saul (Grand Prix Cannes 2015), signe Moulin, un film consacré aux dix derniers jours de Jean Moulin après sa capture par la Gestapo à Lyon. Le scénario se concentre sur le duel entre le résistant et Klaus Barbie, sans rien épargner des tortures physiques et psychologiques infligées. Nemes assume pleinement la part fictionnelle de l&amp;#x27;œuvre, puisque les circonstances exactes de la fin de Moulin restent historiquement inconnues. Si Gilles Lellouche incarne le héros de la Résistance, c&amp;#x27;est l&amp;#x27;acteur allemand Lars Eidinger, dans le rôle de Barbie, qui semble voler la vedette selon la critique.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-gilles-lellouche-entre-dans-l-histoire-faut-il-aller-voir-moulin-le-nouveau-film-de-laszlo-nemes-au-cinema_65067229.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cinema-gilles-lellouche-entre-dans-l-histoire-faut-il-aller-voir-moulin-le-nouveau-film-de-laszlo-nemes-au-cinema_65067229.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le cinéaste hongrois László Nemes, révélé par Le Fils de Saul (Grand Prix Cannes 2015), signe Moulin, un film consacré aux dix derniers jours de Jean Moulin après sa capture par la Gestapo à Lyon. Le scénario se concentre sur le duel entre le résistant et Klaus Barbie, sans rien épargner des tortures physiques et psychologiques infligées. Nemes assume pleinement la part fictionnelle de l'œuvre, puisque les circonstances exactes de la fin de Moulin restent historiquement inconnues. Si Gilles Lellouche incarne le héros de la Résistance, c'est l'acteur allemand Lars Eidinger, dans le rôle de Barbie, qui semble voler la vedette selon la critique.</summary>
+    <category term="culture"/>
+    <published>2026-11-17T18:45:24+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:bfc63251-c9fc-4c8b-9f51-ff9701f10b75</id>
+    <title>Ayla Cantine ouvre place Occitane, « la plus sous-cotée de Toulouse »</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/20261117-130405.jpg"/&gt;
+&lt;p&gt;Valentine et Ameur Rommani inaugurent Ayla Cantine le mardi 24 novembre au 12, place Occitane : une sandwicherie doublée d&amp;#x27;un salon de thé et coffee-shop. Le couple a délibérément choisi cet emplacement atypique, réputé difficile, que leur entourage leur déconseillait. La place Occitane, née en 1976 et souvent qualifiée de « marginale », peine à attirer les commerces malgré sa position centrale et piétonne, non loin de la place Saint-Georges. Les Rommani parient que leur ouverture contribuera à dynamiser la place et à encourager d&amp;#x27;autres commerçants à s&amp;#x27;y installer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/nous-avons-vu-le-potentiel-ce-couple-ouvre-une-cantine-sur-la-place-la-plus-sous-cotee-de-toulouse_65066567.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/nous-avons-vu-le-potentiel-ce-couple-ouvre-une-cantine-sur-la-place-la-plus-sous-cotee-de-toulouse_65066567.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Valentine et Ameur Rommani inaugurent Ayla Cantine le mardi 24 novembre au 12, place Occitane : une sandwicherie doublée d'un salon de thé et coffee-shop. Le couple a délibérément choisi cet emplacement atypique, réputé difficile, que leur entourage leur déconseillait. La place Occitane, née en 1976 et souvent qualifiée de « marginale », peine à attirer les commerces malgré sa position centrale et piétonne, non loin de la place Saint-Georges. Les Rommani parient que leur ouverture contribuera à dynamiser la place et à encourager d'autres commerçants à s'y installer.</summary>
+    <category term="place"/>
+    <published>2026-11-18T04:10:01+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f91f5c06-7d31-45b2-98f6-f449ff271847</id>
+    <title>Immobilier neuf à Toulouse : signes de reprise malgré un contexte difficile</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/07/img-2012.jpg"/&gt;
+&lt;p&gt;Après plusieurs années de crise, le marché de l&amp;#x27;immobilier neuf à Toulouse affiche des signaux encourageants au troisième trimestre 2026, avec une hausse de 7 % des mises en vente et 17 % de ventes supplémentaires au premier semestre par rapport à 2025. Ces chiffres restent toutefois loin des niveaux records de 2022-2023. Les mouvements sociaux de l&amp;#x27;automne et la remontée des taux d&amp;#x27;intérêt ont néanmoins freiné l&amp;#x27;élan, refroidissant aussi bien les acheteurs-résidents que les investisseurs. Malgré ce contexte, les professionnels du secteur estiment que Toulouse résiste mieux que le reste de la France et que cette période pourrait offrir des opportunités d&amp;#x27;investissement intéressantes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-un-tres-bon-moment-pour-investir-a-toulouse-l-immobilier-neuf-resiste-mieux-que-dans-le-reste-de-la-france_65065687.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-un-tres-bon-moment-pour-investir-a-toulouse-l-immobilier-neuf-resiste-mieux-que-dans-le-reste-de-la-france_65065687.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Après plusieurs années de crise, le marché de l'immobilier neuf à Toulouse affiche des signaux encourageants au troisième trimestre 2026, avec une hausse de 7 % des mises en vente et 17 % de ventes supplémentaires au premier semestre par rapport à 2025. Ces chiffres restent toutefois loin des niveaux records de 2022-2023. Les mouvements sociaux de l'automne et la remontée des taux d'intérêt ont néanmoins freiné l'élan, refroidissant aussi bien les acheteurs-résidents que les investisseurs. Malgré ce contexte, les professionnels du secteur estiment que Toulouse résiste mieux que le reste de la France et que cette période pourrait offrir des opportunités d'investissement intéressantes.</summary>
+    <category term="news"/>
+    <published>2026-11-18T06:06:01+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b3b9c65d-108c-4af6-994f-0c6655b51024</id>
+    <title>Fermetures de rues et axes autoroutiers à Toulouse : comment circuler</title>
+    <updated>2026-11-18T07:34:48.032200+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/pxl-20260427-175616410-censored.jpg"/&gt;
+&lt;p&gt;Deux séries de perturbations de circulation sont à prévoir à Toulouse en novembre 2026. Du 16 au 27 novembre, le carrefour entre les rues Matabiau, Saint-Orens et de l&amp;#x27;Orient sera fermé pour travaux de réseau de chaleur et de froid urbain, avec des déviations via les rues Roquelaine, Claire-Pauilhac et Bayard. Dans la nuit du mardi 17 au mercredi 18 novembre, l&amp;#x27;A68 sera entièrement fermée en direction d&amp;#x27;Albi entre L&amp;#x27;Union et Montastruc de 20h30 à 6h, et une section du périphérique à Montaudran sera fermée entre 21h30 et 6h. Les piétons et les commerces du quartier Matabiau (My Friend Retouches, pharmacie Matabiau, tabac) restent accessibles pendant les travaux de voirie.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article concerne des travaux de longue durée en centre-ville (11 jours), le second des fermetures nocturnes ponctuelles sur les axes autoroutiers — deux types de perturbations distincts regroupés ici par thème.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Fermeture rue Matabiau et déviations piétons/commerces&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Fermetures A68 et périphérique nuit du 17 au 18 novembre&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-sans-l-emprunter_65049850.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-peripherique-et-une-portion-d-autoroute-fermes-ce-mardi-soir-a-toulouse-comment-eviter-les-perturbations_65063672.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-sans-l-emprunter_65049850.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Deux séries de perturbations de circulation sont à prévoir à Toulouse en novembre 2026. Du 16 au 27 novembre, le carrefour entre les rues Matabiau, Saint-Orens et de l'Orient sera fermé pour travaux de réseau de chaleur et de froid urbain, avec des déviations via les rues Roquelaine, Claire-Pauilhac et Bayard. Dans la nuit du mardi 17 au mercredi 18 novembre, l'A68 sera entièrement fermée en direction d'Albi entre L'Union et Montastruc de 20h30 à 6h, et une section du périphérique à Montaudran sera fermée entre 21h30 et 6h. Les piétons et les commerces du quartier Matabiau (My Friend Retouches, pharmacie Matabiau, tabac) restent accessibles pendant les travaux de voirie.</summary>
+    <category term="news"/>
+    <published>2026-11-16T05:46:02+01:00</published>
   </entry>
 </feed>

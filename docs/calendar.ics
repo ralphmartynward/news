@@ -25960,17 +25960,18 @@ BEGIN:VEVENT
 UID:cluster:b3b9c65d-108c-4af6-994f-0c6655b51024@news.lavillerose.com
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261128
-SUMMARY:Fermeture rue Matabiau du 16 au 27 novembre : déviations prévues
-DESCRIPTION:Du lundi 16 au vendredi 27 novembre 2026\, les intersections en
- tre les rues Matabiau\, Saint-Orens et de l'Orient seront fermées à la c
- irculation dans le quartier Matabiau\, en raison de travaux de constructio
- n d'un réseau de chaleur et de froid urbain. Le stationnement sera égale
- ment interdit sur la zone concernée\, mais la circulation piétonne reste
- ra maintenue et sécurisée des deux côtés de la chaussée. Les commerce
- s du secteur — la friperie My Friend Retouches\, la pharmacie Matabiau e
- t le tabac \n\nSource\: https://actu.fr/occitanie/toulouse_31555/cette-rue
- -strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-co
- mment-se-deplacer-sans-l-emprunter_65049850.html
+SUMMARY:Fermetures de rues et axes autoroutiers à Toulouse : comment circu
+ ler
+DESCRIPTION:Deux séries de perturbations de circulation sont à prévoir 
+ à Toulouse en novembre 2026. Du 16 au 27 novembre\, le carrefour entre le
+ s rues Matabiau\, Saint-Orens et de l'Orient sera fermé pour travaux de r
+ éseau de chaleur et de froid urbain\, avec des déviations via les rues R
+ oquelaine\, Claire-Pauilhac et Bayard. Dans la nuit du mardi 17 au mercred
+ i 18 novembre\, l'A68 sera entièrement fermée en direction d'Albi entre 
+ L'Union et Montastruc de 20h30 à 6h\, et une section du périphérique à
+  Montaudran s\n\nSource\: https://actu.fr/occitanie/toulouse_31555/cette-r
+ ue-strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-
+ comment-se-deplacer-sans-l-emprunter_65049850.html
 LOCATION:rues Matabiau\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-
  fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-san
@@ -26247,24 +26248,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/alice-au-pays-des-merveill
  ar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:03c86d28-38cd-422a-accd-8f0561c0f351@news.lavillerose.com
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Hiba Tawaji invite Ibrahim Maalouf
-DESCRIPTION:La chanteuse libanaise Hiba Tawaji se produira au Casino Barri
- ère de Toulouse le 18 novembre 2026\, en invitant le trompettiste de jazz
-  Ibrahim Maalouf pour un concert exceptionnel. Ce duo réunit deux grandes
-  figures de la scène musicale arabe et méditerranéenne\, entre pop et j
- azz oriental. L'événement se tient dans la salle de spectacle du Casino 
- Barrière\, un lieu incontournable des concerts toulousains. Les amateurs 
- de musiques du monde et de jazz fusion sont tout particulièrement concern
- és par\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/hiba-tawa
- ji-invite-ibrahim-maalouf-billet/idmanif/674808/idseance/4434452
-URL:https://www.ticketmaster.fr/fr/manifestation/hiba-tawaji-invite-ibrahim
- -maalouf-billet/idmanif/674808/idseance/4434452?utm_source=ical&utm_medium
- =calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:4c4bb4e2-e4e8-43bf-b4b2-eba52ae40c4d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
@@ -26524,6 +26507,23 @@ DESCRIPTION:Le Brique Comedy Club propose des soirées de stand-up avec une
  comedy-club/
 URL:https://www.toulouse-tourisme.com/agenda/brique-comedy-club/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:45b20558-556c-4118-b7d1-5655aba3eb00@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261204
+SUMMARY:Quinzaine du Japon en Occitanie
+DESCRIPTION:La Quinzaine du Japon en Occitanie se tient du 19 novembre au 3
+  décembre 2026 dans plusieurs lieux de la région. L'événement propose 
+ un programme varié mêlant concerts\, visites guidées sur l'horlogerie j
+ aponaise\, ateliers de peinture sur céramique\, projections de films d'an
+ imation et cafés littéraires. Cette manifestation culturelle s'adresse 
+ à tous les publics curieux de la culture japonaise\, des arts aux traditi
+ ons en passant par le cinéma. Les lieux précis des différentes activit
+ és ne sont pa\n\nSource\: https://www.toulouse-tourisme.com/agenda/quinza
+ ine-du-japon-en-occitanie/
+URL:https://www.toulouse-tourisme.com/agenda/quinzaine-du-japon-en-occitani
+ e/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4f182d09-9c0b-4388-9a50-729782c0a7e4@news.lavillerose.com
@@ -27005,25 +27005,6 @@ URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
  agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:1c6c892b-2bf5-4344-969d-6c647cec7406@news.lavillerose.com
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:La Fille du 7ème
-DESCRIPTION:Le spectacle « La Fille du 7ème » sera présenté au Centre 
- de Congrès Diagora à Labège le 21 novembre 2026. Il s'agit d'une produc
- tion classée Arts & Théâtre – Comédie\, accessible aux amateurs de s
- pectacle vivant de la région toulousaine. Le Diagora est l'une des grande
- s salles de spectacle de l'agglomération\, accueillant régulièrement de
- s productions théâtrales et humoristiques. Les informations de billetter
- ie sont disponibles via Ticketmaster.\n\nSource\: https://www.ticketmaster
- .fr/fr/manifestation/la-fille-du-7eme-billet/idmanif/671442/idseance/44055
- 41
-LOCATION:salles de spectacle de l'aggl\, Toulouse
-URL:https://www.ticketmaster.fr/fr/manifestation/la-fille-du-7eme-billet/id
- manif/671442/idseance/4405541?utm_source=ical&utm_medium=calendar&utm_camp
- aign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:00bcb367-5f2e-4884-8e02-781b8e1c36b0@news.lavillerose.com
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
@@ -27199,6 +27180,22 @@ URL:https://www.toulouse-tourisme.com/agenda/la-fille-de-leau/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1ff2ce33-1297-41a4-9090-7fbdce80b45e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Minitel
+DESCRIPTION:Le groupe Minitel se produira au Metronum\, salle dédiée aux 
+ musiques actuelles à Toulouse\, le 22 novembre 2026. Le concert s'inscrit
+  dans un registre rock. Le Metronum est une référence pour les scènes 
+ émergentes et indépendantes de la ville. Les amateurs de rock sont donc 
+ invités à réserver leurs places.\n\nSource\: https://www.ticketmaster.f
+ r/fr/manifestation/minitel-billet/idmanif/679008/idseance/4460783
+LOCATION:salle dédiée aux musiques actuelles\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/minitel-billet/idmanif/679
+ 008/idseance/4460783?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:587710dc-3c5a-404d-9d69-17cdbca25b57@news.lavillerose.com
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
@@ -27361,6 +27358,26 @@ DESCRIPTION:Garou se produira en solo le mardi 24 novembre 2026 à 20h30 au
 URL:https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-
  concert-exceptionnel-de-garou-a-toulouse_65048230.html?utm_source=ical&utm
  _medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:bfc63251-c9fc-4c8b-9f51-ff9701f10b75@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Ayla Cantine
+DESCRIPTION:Valentine et Ameur Rommani inaugurent Ayla Cantine le mardi 24 
+ novembre au 12\, place Occitane : une sandwicherie doublée d'un salon de 
+ thé et coffee-shop. Le couple a délibérément choisi cet emplacement at
+ ypique\, réputé difficile\, que leur entourage leur déconseillait. La p
+ lace Occitane\, née en 1976 et souvent qualifiée de « marginale »\, pe
+ ine à attirer les commerces malgré sa position centrale et piétonne\, n
+ on loin de la place Saint-Georges. Les Rommani parient que leur ouverture 
+ contribuera à \n\nSource\: https://actu.fr/occitanie/toulouse_31555/nous-
+ avons-vu-le-potentiel-ce-couple-ouvre-une-cantine-sur-la-place-la-plus-sou
+ s-cotee-de-toulouse_65066567.html
+LOCATION:place Occitane : une sandwicherie doublée d'un salon\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/nous-avons-vu-le-potentiel-ce-
+ couple-ouvre-une-cantine-sur-la-place-la-plus-sous-cotee-de-toulouse_65066
+ 567.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:82592433-55c6-482d-be1b-56f6262f4f27@news.lavillerose.com
@@ -28295,6 +28312,43 @@ DESCRIPTION:Le Musée Saint-Raymond propose une visite thématique intitul
  /les-dessous-du-college-saint-raymond/
 URL:https://www.toulouse-tourisme.com/agenda/les-dessous-du-college-saint-r
  aymond/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a144c9ee-c28f-4938-96d9-97cd90733c9a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Marchés de Noël des Créateurs
+DESCRIPTION:Les 28 et 29 novembre 2026\, Artilect Toulouse accueille ses Ma
+ rchés de Noël des Créateurs\, réunissant artisans et makers d'Occitani
+ e. On y trouve des pièces uniques faites main — céramique\, bijoux\, t
+ extile\, bois\, illustrations\, décoration — ainsi que des créations h
+ ybrides mêlant artisanat et technologies (impression 3D\, luminaires\, je
+ ux). La particularité du format : les exposants changent chaque semaine\,
+  garantissant une offre renouvelée. L'événement se déroule dans l'ambi
+ ance du FabCafé et do\n\nSource\: https://www.toulouse-tourisme.com/agend
+ a/marches-de-noel-des-createurs/
+URL:https://www.toulouse-tourisme.com/agenda/marches-de-noel-des-createurs/
+ ?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a4578e5e-c433-46a5-9ca7-fb34916d8a69@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20270405
+SUMMARY:Baqueira Beret prépare une saison hivernale 2026-2027 ambitieuse
+DESCRIPTION:La station espagnole de Baqueira Beret\, très fréquentée par
+  les Toulousains\, annonce d'importants investissements pour la saison 202
+ 6-2027\, avec 24 millions d'euros engagés. Un nouveau télésiège débra
+ yable six places baptisé Mirador\, capable de transporter 3 000 personnes
+  par heure\, remplacera une installation datant de 1990. Deux nouvelles pi
+ stes feront leur apparition — Chicòia (557 m) et Parpalhòla (430 m) 
+ — et sept canons à neige supplémentaires renforceront l'enneigement ar
+ tificiel. Le doma\n\nSource\: https://www.toulouscope.fr/2026/11/17/cette-
+ station-de-ski-prisee-des-toulousains-prepare-plusieurs-nouveautes-pour-lh
+ iver-13639271.php
+LOCATION:places baptisé Mirador\, Toulouse
+URL:https://www.toulouscope.fr/2026/11/17/cette-station-de-ski-prisee-des-t
+ oulousains-prepare-plusieurs-nouveautes-pour-lhiver-13639271.php?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9dac9cd2-4c69-4b59-ad10-ffc1ec5c7fb3@news.lavillerose.com
@@ -29265,6 +29319,23 @@ DESCRIPTION:Le Lab'Oïkos accueille son Petit Marché de Noël le 6 décemb
  it-marche-de-noel-du-lab/
 URL:https://www.toulouse-tourisme.com/agenda/le-petit-marche-de-noel-du-lab
  /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:93b24b9c-99c0-49a2-b223-77af8ca0df88@news.lavillerose.com
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Shopping de Noël dans les boutiques du centre-ville de Toulouse
+DESCRIPTION:Pour les fêtes de Noël\, le centre-ville de Toulouse est pré
+ senté comme la destination idéale pour faire ses achats : on y trouve un
+  large choix d'enseignes\, de créateurs indépendants et de grandes marqu
+ es. Au-delà du shopping\, l'occasion est aussi de profiter des illuminati
+ ons\, du patrimoine et des animations\, ainsi que de faire une pause dans 
+ les restaurants\, bars et salons de thé. L'article précise cependant que
+  certains petits commerçants n'ouvriront pas nécessairement\, et recomma
+ nde de vérif\n\nSource\: https://www.toulouse-tourisme.com/agenda/shoppin
+ g-pour-les-fetes-de-noel/
+URL:https://www.toulouse-tourisme.com/agenda/shopping-pour-les-fetes-de-noe
+ l/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a69ec812-478a-4d94-921f-a619c6faacdc@news.lavillerose.com
@@ -30402,6 +30473,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/le-meilleur-de-l-homme-c-e
  um=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f701f089-bcc6-497d-aaf1-92c6f179383d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Balade de Noël des Motards
+DESCRIPTION:La 16ème édition de la Balade de Noël des Motards se tient l
+ e 19 décembre 2026 au Hall 8\, au profit des enfants des Restos du Cœur 
+ de l'antenne départementale de Toulouse. L'entrée est entièrement gratu
+ ite\, mais chaque participant doit apporter un jouet neuf\, remis ensuite 
+ aux enfants dans le besoin. Au programme : soirée festive avec restaurati
+ on chaude\, buvette et animation musicale\, ainsi qu'une tombola où les d
+ onneurs de jouets peuvent gagner des équipements moto offerts par des par
+ tenaires.\n\nSource\: https://www.toulouse-tourisme.com/agenda/balade-de-n
+ oel-des-motards/
+URL:https://www.toulouse-tourisme.com/agenda/balade-de-noel-des-motards/?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:36bf7292-a6e6-4289-9170-19fef1b12906@news.lavillerose.com
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
@@ -30473,6 +30561,21 @@ URL:https://www.toulouse-tourisme.com/agenda/parmi-les-lanternes-magiques/?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:8a92e388-8a38-48a2-acba-d5d98523d7c6@news.lavillerose.com
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Marché de Noël – L'Odyssée
+DESCRIPTION:Un marché de Noël se tient à L'Odyssée le 21 décembre 2026
+ . L'événement propose stands d'artisanat\, gastronomie\, décoration\, b
+ ien-être et produits locaux. C'est une occasion pour les Toulousains de f
+ aire leurs derniers achats avant les fêtes dans une ambiance festive. Les
+  informations sur les horaires et l'entrée restent à confirmer auprès d
+ e l'organisateur.\n\nSource\: https://www.toulouse-tourisme.com/agenda/mar
+ che-de-noel/
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel/?utm_source=ica
+ l&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e5d798fe-ff87-4b4c-b730-b1df50547654@news.lavillerose.com
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
@@ -30537,6 +30640,22 @@ DESCRIPTION:Le spectacle « Sagan – Audiard : L'Incorrigible Impertinence
 URL:https://www.toulouse-tourisme.com/agenda/sagan-audiard-lincorrigible-im
  pertinence/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
  da
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:75724b78-dbc2-4c99-a22a-249fae4dd493@news.lavillerose.com
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Réveillon de Noël – Le Kalinka
+DESCRIPTION:Le Kalinka propose un réveillon de Noël le 24 décembre 2026\
+ , combinant dîner gastronomique\, décoration festive et spectacle conçu
+  pour tous les âges. La formule tout compris inclut le repas et le show\,
+  dans l'atmosphère chaleureuse et singulière du restaurant. L'événemen
+ t se veut une soirée inoubliable\, pensée pour les familles comme pour l
+ es couples ou groupes d'amis. Une seule source couvre l'événement\, sans
+  précision sur les tarifs ni sur la nécessité de réserver.\n\nSource\:
+  https://www.toulouse-tourisme.com/agenda/le-kalinka-fete-noel/
+URL:https://www.toulouse-tourisme.com/agenda/le-kalinka-fete-noel/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:aeb9eed7-4f5d-419d-9d03-80f106d72bcd@news.lavillerose.com
@@ -31687,6 +31806,23 @@ LOCATION:salle de théâtre toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/julien-vinh-billet/idmanif
  /668102/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=t
  oulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b49aa12e-1674-4bfe-afca-7a01e9a26aaf@news.lavillerose.com
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270125
+SUMMARY:Jazz Week #10
+DESCRIPTION:La Jazz Week fête sa 10ème édition au Taquin\, club de jazz 
+ toulousain\, du 20 au 24 janvier 2027. Le concept : un trio de base — To
+ n Ton Salut à la batterie\, Julien Duthu à la contrebasse et Richard Raz
+ af au piano — accueille chaque soir un invité différent\, puisant dans
+  le jazz des années 60 (swing\, be bop\, hard bop\, blues\, impros). Le p
+ rogramme égrène des musiciens de renom : Pierre de Bethmann (mercredi)\,
+  Louis Winsberg (jeudi)\, David Prez (vendredi)\, Hermon Mehari (samedi) e
+ t Frederika (diman\n\nSource\: https://www.toulouse-tourisme.com/agenda/ja
+ zz-week-10/
+URL:https://www.toulouse-tourisme.com/agenda/jazz-week-10/?utm_source=ical&
+ utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:183fb634-02e4-4fb2-91bd-b92cf5f211cb@news.lavillerose.com
@@ -32916,6 +33052,23 @@ URL:https://www.toulouse-tourisme.com/agenda/happy-hour-avec-la-flute/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:87653d07-7d29-4909-a8d8-e4f8d088bb72@news.lavillerose.com
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Les Imitatueurs
+DESCRIPTION:Le spectacle comique Les Imitatueurs sera présenté à la Com
+ édie de Toulouse. Ce show d'imitations promet une soirée de rires avec d
+ es personnages connus reproduits sur scène. L'événement s'inscrit dans 
+ la programmation Arts & Théâtre — Comédie de la salle toulousaine. Le
+ s amateurs d'humour et d'imitations sont particulièrement visés par cett
+ e proposition.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/le
+ s-imitatueurs-billet/idmanif/678335/idseance/4457976
+LOCATION:salle toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/les-imitatueurs-billet/idm
+ anif/678335/idseance/4457976?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e6ae7ef0-be0d-4c88-a9a1-b770db3f77a4@news.lavillerose.com
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
@@ -32987,6 +33140,24 @@ LOCATION:salle de référence de la scène metal\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/ugly-kid-joe-billet/idmani
  f/663757/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:71d7477f-9224-40d4-876c-6e1d6e4d9933@news.lavillerose.com
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:NTO
+DESCRIPTION:Le DJ et producteur français NTO se produira au Bikini\, à Ra
+ monville-Saint-Agne\, dans le cadre d'un concert de musique électronique.
+  NTO est reconnu pour son style mélancolique et atmosphérique qui mêle 
+ melodic techno et deep house\, ce qui en fait un artiste prisé de la scè
+ ne électronique française. Le Bikini est la salle de référence pour le
+ s musiques électroniques et amplifiées dans l'agglomération toulousaine
+ . Les amateurs de musique électronique de la région sont directement con
+ cernés par ce\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/nt
+ o-billet/idmanif/667092/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/nto-billet/idmanif/667092/
+ idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
+ agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6c19397e-bb65-4392-9452-3602595a981d@news.lavillerose.com
@@ -33709,6 +33880,24 @@ LOCATION:salle de spectacle de la banlieue toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/le-petit-prince-billet/idm
  anif/662126/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1c6c892b-2bf5-4344-969d-6c647cec7406@news.lavillerose.com
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:La Fille du 7ème
+DESCRIPTION:Le spectacle comique « La Fille du 7ème » sera présenté au
+  Centre de Congrès Diagora à Labège le 27 février 2027. Il s'agit d'un
+  spectacle relevant du registre Arts & Théâtre – Comédie. L'événeme
+ nt se tient dans cette salle de référence de l'agglomération toulousain
+ e\, facilement accessible depuis le centre-ville. Les amateurs de comédie
+  théâtrale sont particulièrement concernés.\n\nSource\: https://www.ti
+ cketmaster.fr/fr/manifestation/la-fille-du-7eme-billet/idmanif/671442/idse
+ ance/4405541
+LOCATION:salle de référence de l'agglomération toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/la-fille-du-7eme-billet/id
+ manif/671442/idseance/4405541?utm_source=ical&utm_medium=calendar&utm_camp
+ aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:993370ef-5df9-40cb-9079-76b2cd50b2ad@news.lavillerose.com
@@ -37412,6 +37601,24 @@ LOCATION:salle dans un cadre intimiste\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/michele-torr-billet/idmani
  f/666821/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ef8323cf-035e-431e-8349-52009ebd0123@news.lavillerose.com
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:The Cat Empire
+DESCRIPTION:Le groupe australien The Cat Empire se produira au Bikini\, à 
+ Ramonville-Saint-Agne\, le 17 mai 2027. Connus pour leur mélange explosif
+  de reggae\, jazz\, funk et ska\, ils reviennent en France pour une date t
+ oulousaine. Le Bikini\, salle de référence de la région\, accueille cet
+  événement dans sa programmation musicale. Les amateurs de musique festi
+ ve et métissée sont particulièrement concernés.\n\nSource\: https://ww
+ w.ticketmaster.fr/fr/manifestation/the-cat-empire-billet/idmanif/679031/id
+ seance/4460842
+LOCATION:salle de référence de la région\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/the-cat-empire-billet/idma
+ nif/679031/idseance/4460842?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ca3769dc-65f6-4c81-86a4-09f0a3d75c8c@news.lavillerose.com
