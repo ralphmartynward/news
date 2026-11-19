@@ -26264,6 +26264,28 @@ URL:https://www.toulouse-tourisme.com/agenda/dieux-du-stade/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:89ac5414-d17a-482e-b98c-09ae94292723@news.lavillerose.com
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Le quartier Saint-Martin-du-Touch inaugure sa place végétalisée 
+ Marthe Escat-de-Monès
+DESCRIPTION:Ce mercredi 18 novembre 2026\, la mairie et la Métropole de To
+ ulouse ont inauguré la place Marthe Escat-de-Monès dans le quartier de S
+ aint-Martin-du-Touch\, à l'ouest de la ville\, près d'Airbus. L'événem
+ ent marque l'aboutissement de trois ans de travaux d'aménagement urbain f
+ inancés par les collectivités. Ce quartier excentré connaît un fort bo
+ om démographique et s'est transformé avec de nouvelles résidences et de
+  nouveaux commerces. Les riverains interrogés saluent globalement la réu
+ ssite de cett\n\nSource\: https://actu.fr/occitanie/toulouse_31555/grande-
+ place-vegetalisee-nouveaux-commerces-ce-quartier-de-toulouse-situe-pres-d-
+ airbus-est-en-pleine-transformation_65069883.html
+LOCATION:place Marthe Escat-de-Monès dans le quartier de Sain\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/grande-place-vegetalisee-nouve
+ aux-commerces-ce-quartier-de-toulouse-situe-pres-d-airbus-est-en-pleine-tr
+ ansformation_65069883.html?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1399aa98-72dc-424e-a2e0-3444e037316c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -26421,23 +26443,6 @@ URL:https://www.toulouse-tourisme.com/agenda/perds-pas-le-fil/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:8bea20ce-a53b-4d3d-a1f0-dd5c4752e213@news.lavillerose.com
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Bal avec La Malène
-DESCRIPTION:Le COMDT accueille une soirée de bal folk le 19 novembre 2026\
- , avec une scène découverte à 20h suivie du bal La Malène à 21h. Le d
- uo est composé d'Anaïs Perrinel au violon et au chant\, et de Léonie Ch
- evalaz aux cornemuses\, au chant et aux percussions de pieds. La soirée s
- 'inscrit dans la tradition des bals trad/folk\, idéale pour les amateurs 
- de danses collectives et de musique acoustique. L'événement se déroule 
- au COMDT\, centre dédié aux musiques et danses traditionnelles à Toulou
- se.\n\nSource\: https://www.toulouse-tourisme.com/agenda/bal-avec-la-malen
- e/
-URL:https://www.toulouse-tourisme.com/agenda/bal-avec-la-malene/?utm_source
- =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:e68ac533-366f-4c36-8815-6a901ad82875@news.lavillerose.com
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -26459,15 +26464,15 @@ BEGIN:VEVENT
 UID:cluster:cd7b492d-3d51-4e1f-80e0-b7e046abf9aa@news.lavillerose.com
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Job Dating Aéronautique Défense Spatial
-DESCRIPTION:Un grand job dating dédié aux secteurs de l'aéronautique\, d
- u spatial et de la défense est organisé le 19 novembre à la Cité de To
- ulouse. L'événement est porté par Primus Défense & sécurité\, un clu
- ster regroupant plus de 70 entreprises et organismes du secteur. Des acteu
- rs majeurs comme Liebherr\, Safran\, Daher ou Derichebourg Aeronautics Ser
- vices seront présents\, aux côtés de France Travail\, l'Apec\, des orga
- nismes de formation et la Région Occitanie. L'inscription préalable est 
- obligatoire pour l\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ae
+SUMMARY:Job Dating Défense & Spatial
+DESCRIPTION:La 5e édition du job dating dédié aux secteurs de la défens
+ e\, de l'aéronautique et du spatial se tient à La Cité de Toulouse le 1
+ 9 novembre\, de 10h à 17h. L'événement est organisé par le cluster Pri
+ mus Défense & Sécurité\, qui regroupe plus de 70 entreprises et organis
+ mes du secteur. Une soixantaine de partenaires industriels et institutionn
+ els seront présents\, dont Airbus\, Safran\, Liebherr\, Daher\, Derichebo
+ urg\, France Travail et la Région Occitanie. Les candidats doivent s'insc
+ rire gratuitement \n\nSource\: https://actu.fr/occitanie/toulouse_31555/ae
  ronautique-defense-et-spatial-un-grand-job-dating-organise-a-toulouse_6500
  2755.html
 URL:https://actu.fr/occitanie/toulouse_31555/aeronautique-defense-et-spatia
@@ -27194,6 +27199,27 @@ LOCATION:salle dédiée aux musiques actuelles\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/minitel-billet/idmanif/679
  008/idseance/4460783?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:94d5bb87-0489-40bb-b87b-689269fcde36@news.lavillerose.com
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261124
+SUMMARY:Macron à Toulouse : visite chez Airbus et dîner avec des dirigean
+ ts
+DESCRIPTION:Emmanuel Macron se rendra à Toulouse le dimanche 22 novembre 2
+ 026 et y restera jusqu'au lundi 23 novembre. Il dînera dimanche soir avec
+  une soixantaine de dirigeants d'entreprises européennes — d'Engie à V
+ odafone — pour évoquer la compétitivité européenne face à la Chine 
+ et aux États-Unis. Le lundi\, il visitera le site d'Airbus\, où des anno
+ nces sont attendues sur le soutien de l'État à la filière aéronautique
+ \, dans un contexte jugé « difficile » par l'Élysée. Cette visite s'i
+ nscrit dans le cadre\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
+ diner-en-ville-visite-chez-airbus-annonces-prevues-emmanuel-macron-va-veni
+ r-a-toulouse-voici-son-programme_65074288.html
+URL:https://actu.fr/occitanie/toulouse_31555/diner-en-ville-visite-chez-air
+ bus-annonces-prevues-emmanuel-macron-va-venir-a-toulouse-voici-son-program
+ me_65074288.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:587710dc-3c5a-404d-9d69-17cdbca25b57@news.lavillerose.com
@@ -28351,6 +28377,40 @@ URL:https://www.toulouscope.fr/2026/11/17/cette-station-de-ski-prisee-des-t
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ad5e1faa-9e5e-4620-82fa-eb66495b3f2d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Concert El Maquis + Docu Ija'Tz
+DESCRIPTION:Le Centre Culturel Soupetard propose une après-midi engagée a
+ utour de l'Amérique latine\, et plus particulièrement du Guatemala\, le 
+ 28 novembre 2026. À 16h\, le documentaire sonore et politique Ija'Tz (Pro
+ nostic vital) explore les séquelles de la guerre interne guatemaltèque (
+ 1960–1996)\, abordant colonialisme\, résistances culturelles et reconst
+ ruction sociale. À 17h30\, le groupe El Maquis prend le relais avec un co
+ ncert acoustique mêlant poésie\, musique traditionnelle latino-américai
+ ne et engageme\n\nSource\: https://www.toulouse-tourisme.com/agenda/concer
+ t-el-maquis-docu-sonore-ijatz/
+URL:https://www.toulouse-tourisme.com/agenda/concert-el-maquis-docu-sonore-
+ ijatz/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:eedcf250-398d-4818-9710-d2900f63c903@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Croisière de Noël
+DESCRIPTION:Les Bateaux Toulousains proposent une croisière de Noël famil
+ iale de 40 minutes sur le Canal du Midi\, au départ du Port Saint-Sauveur
+ \, les 28 et 29 novembre 2026. À bord d'une gabare décorée aux couleurs
+  de Noël\, les familles retrouvent le Père Noël en personne\, accompagn
+ é de musiques festives et d'un livret de jeux pour les enfants. Chaque en
+ fant reçoit un sachet surprise remis directement par le Père Noël\, et 
+ les poussettes sont acceptées à bord (pliées). La réservation est obli
+ gatoire \; le ba\n\nSource\: https://www.toulouse-tourisme.com/agenda/croi
+ siere-de-noel/
+URL:https://www.toulouse-tourisme.com/agenda/croisiere-de-noel/?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9dac9cd2-4c69-4b59-ad10-ffc1ec5c7fb3@news.lavillerose.com
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
@@ -29040,6 +29100,24 @@ DESCRIPTION:La pièce « Un Grand Cri d'Amour » est programmée au Grenier
  enda/un-grand-cri-damour-2/
 URL:https://www.toulouse-tourisme.com/agenda/un-grand-cri-damour-2/?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:dc026a1f-7e7c-4e0e-b100-a18c4e303326@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Les Bonobos
+DESCRIPTION:Le groupe comique Les Bonobos se produit au Grand Théâtre 3T 
+ de Toulouse le 4 décembre 2026. La représentation est classée dans la c
+ atégorie Arts & Théâtre / Comédie\, ce qui laisse attendre un spectacl
+ e mêlant humour et performance scénique. Le Grand Théâtre 3T est une s
+ alle toulousaine dédiée aux arts vivants et aux spectacles grand public.
+  L'événement s'adresse aux amateurs de comédie et de théâtre souhaita
+ nt sortir en fin d'année.\n\nSource\: https://www.ticketmaster.fr/fr/mani
+ festation/les-bonobos-billet/idmanif/664358/idtier/18864121
+LOCATION:salle toulousaine dédiée aux a\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/les-bonobos-billet/idmanif
+ /664358/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:01976ac9-f03a-443c-b1ba-477c81c0e288@news.lavillerose.com
@@ -30622,6 +30700,25 @@ DESCRIPTION:Le 22 décembre 2026\, la Basilique Notre-Dame-de-la-Daurade ac
  rio-de-noel/
 URL:https://www.toulouse-tourisme.com/agenda/oratorio-de-noel/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b0eed8e7-b3da-452f-9c2c-38db0ce07ac4@news.lavillerose.com
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Ensemble Musicâme France
+DESCRIPTION:L'Ensemble Musicâme France se produit à la Chapelle Saint-Ann
+ e de Toulouse le 23 décembre 2026 pour un concert de Noël mêlant grands
+  classiques et airs festifs. Cinq musiciens virtuoses interpréteront un p
+ rogramme varié allant de Vivaldi et Pachelbel à la bande originale d'Har
+ ry Potter\, en passant par des chants de Noël traditionnels. L'ensemble\,
+  présent dans plus de 100 villes dans le monde\, réunit des musiciens in
+ ternationaux et locaux issus de grandes formations\, dans un esprit de col
+ lectif. \n\nSource\: https://www.toulouse-tourisme.com/agenda/concert-a-to
+ ulouse-tchaikovsky-williams-vivaldi-pachelbel-corelli-monti-bazzini-mercad
+ ante-arnold-thomas-martin/
+URL:https://www.toulouse-tourisme.com/agenda/concert-a-toulouse-tchaikovsky
+ -williams-vivaldi-pachelbel-corelli-monti-bazzini-mercadante-arnold-thomas
+ -martin/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7894f857-9d35-41f9-84f1-18474df250e4@news.lavillerose.com
@@ -34376,6 +34473,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/le-gala-du-printemps-bille
  campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:acb9124f-36f5-4eca-883d-ddac26309bdc@news.lavillerose.com
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270307
+SUMMARY:Elise Giuliani
+DESCRIPTION:La comédienne Élise Giuliani se produit à La Petite Comédie
+  de Toulouse les 5 et 6 mars 2027. Il s'agit de deux représentations cons
+ écutives d'un spectacle de comédie dans cette salle toulousaine dédiée
+  à l'humour. Les deux sources Ticketmaster couvrent chacune une date dist
+ incte du même engagement\, sans différence de contenu notable. Les amate
+ urs de comédie et de spectacle vivant à Toulouse ont ainsi deux occasion
+ s de découvrir ou revoir l'artiste.\n\nSource\: https://www.ticketmaster.
+ fr/fr/manifestation/elise-giuliani-billet/idmanif/678848/idseance/4460071
+LOCATION:salle toulousaine dédiée\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/elise-giuliani-billet/idma
+ nif/678848/idseance/4460071?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c9e22315-dd77-4a76-bd73-f9e4e7ba4f6e@news.lavillerose.com
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
@@ -34616,6 +34731,21 @@ LOCATION:salle de concert emblématique de Ramonville-Saint-Agne\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/teddybear-billet/idmanif/6
  73086/idseance/4425652?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:bc9351b6-72c4-447e-b298-6ef144924532@news.lavillerose.com
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Aymeric Carrez
+DESCRIPTION:Le comique Aymeric Carrez se produira à la Comédie de Toulous
+ e le 10 mars 2027. Le spectacle est classé dans la catégorie Arts & Thé
+ âtre – Comédie. Les billets sont disponibles via Ticketmaster. L'évé
+ nement s'adresse aux amateurs de comédie stand-up et d'humour à Toulouse
+ .\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/aymeric-carrez-
+ billet/idmanif/678525/idseance/4458938
+URL:https://www.ticketmaster.fr/fr/manifestation/aymeric-carrez-billet/idma
+ nif/678525/idseance/4458938?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9f4ba381-6a9b-4b6d-98f7-5abc98a01e69@news.lavillerose.com
@@ -34891,6 +35021,24 @@ DESCRIPTION:Michel Hubert se produit au Rex de Toulouse le 13 mars 2027 dan
 LOCATION:salle de spectacle bien connue du centre-ville toulousa\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/michel-hubert-billet/idman
  if/675796/idseance/4440855?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:928992bd-eb4e-498a-b1b6-909a5b88d1f4@news.lavillerose.com
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Richard Sabak
+DESCRIPTION:Le comédien Richard Sabak se produira à La Comédie de Toulou
+ se le 13 mars 2027 dans le cadre d'un spectacle d'humour. La Comédie de T
+ oulouse est l'une des salles de référence pour le stand-up et les one-ma
+ n-shows dans la ville. L'événement est référencé sur Ticketmaster\, o
+ ù les billets sont disponibles à la vente. Les amateurs de comédie et d
+ e spectacle vivant sont le public visé.\n\nSource\: https://www.ticketmas
+ ter.fr/fr/manifestation/richard-sabak-billet/idmanif/678849/idseance/44600
+ 73
+LOCATION:salles de référence\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/richard-sabak-billet/idman
+ if/678849/idseance/4460073?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
@@ -35374,6 +35522,24 @@ URL:https://actu.fr/occitanie/toulouse_31555/la-saison-des-grands-interpret
  es-une-programmation-prestigieuse-pour-un-veritable-defile-de-grands-noms-
  a-toulouse_64893093.html?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6e2e7fad-9f2e-4006-afbf-7b0693e0c144@news.lavillerose.com
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:VACRA
+DESCRIPTION:Le rappeur VACRA se produira au Bikini\, salle de concert embl
+ ématique de Ramonville-Saint-Agne\, le 19 mars 2027. Ce concert s'inscrit
+  dans la programmation hip-hop/rap de la salle. Le Bikini est l'une des pr
+ incipales scènes musicales de l'agglomération toulousaine\, réputée po
+ ur accueillir des artistes rap français émergents et confirmés. Les ama
+ teurs de hip-hop de la région toulousaine sont les premiers concernés pa
+ r cet événement.\n\nSource\: https://www.ticketmaster.fr/fr/manifestatio
+ n/vacra-billet/idmanif/678995/idseance/4460762
+LOCATION:salle de concert emblématique de Ramonville-Saint-Agne\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/vacra-billet/idmanif/67899
+ 5/idseance/4460762?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
+ se-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:cfec8acf-e4b3-4cbb-a5a9-5288d096af70@news.lavillerose.com
@@ -39470,6 +39636,22 @@ LOCATION:salle de spectacle du Casino Barrière\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/urbain-billet/idmanif/6773
  10/idseance/4451192?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:64bf33bd-e106-4d23-95c4-d8cf400c166e@news.lavillerose.com
+DTSTART;VALUE=DATE:20280304
+DTEND;VALUE=DATE:20280305
+SUMMARY:Les Folies de Jarry
+DESCRIPTION:Le spectacle comique Les Folies de Jarry s'invite au Zénith To
+ ulouse Métropole le 4 mars 2028. Il s'agit d'un événement de type arts 
+ et théâtre dans la catégorie comédie. L'information provient de la bil
+ letterie Ticketmaster\, sans détail supplémentaire sur le contenu ou les
+  artistes impliqués. Les amateurs de spectacles humoristiques peuvent d'o
+ res et déjà noter la date.\n\nSource\: https://www.ticketmaster.fr/fr/ma
+ nifestation/les-folies-de-jarry-billet/idmanif/679018/idseance/4460820
+URL:https://www.ticketmaster.fr/fr/manifestation/les-folies-de-jarry-billet
+ /idmanif/679018/idseance/4460820?utm_source=ical&utm_medium=calendar&utm_c
+ ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e6352943-3350-4ec4-b1f6-e6da5c1124ea@news.lavillerose.com

@@ -1,0 +1,198 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cfe0e81f-1040-4a07-9844-85502978f8ab",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Calentamiento au Théâtre de la Cité : spectacle de danse tellurique",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CALENTAMIENTO-2.jpg",
+    "file": "cluster_cfe0e81f-1040-4a07-9844-85502978f8ab_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0743b357-3754-4125-a10e-ea3d7e427665",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "SEUIL, spectacle de cirque sur les vivants et les morts au Théâtre Garonne",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SEUIL.jpg",
+    "file": "cluster_0743b357-3754-4125-a10e-ea3d7e427665_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:7663fa3b-85b0-464c-bfff-30cf5b653814",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cold Cuts à La Cave Poésie : thriller intime sur l'emprise",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/COLD-CUTS.jpg",
+    "file": "cluster_7663fa3b-85b0-464c-bfff-30cf5b653814_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1399aa98-72dc-424e-a2e0-3444e037316c",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Concert étudiants de l'Orchestre du Capitole à la Halle aux Grains",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CONCERT-ETUDIANTS.jpg",
+    "file": "cluster_1399aa98-72dc-424e-a2e0-3444e037316c_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:57a8ea97-98b9-4184-985a-67513e2a3886",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "ET LES 7 NAINS, spectacle technologique à l'Espace Job",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ET-LES-7-NAINS.jpg",
+    "file": "cluster_57a8ea97-98b9-4184-985a-67513e2a3886_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:88a8559e-f37c-4dbb-922f-bdeb0bc90e01",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "\"Tenter de ne pas faner\" au Théâtre Le Fil à Plomb",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TENTER-DE-NE-PAS-FANER.jpg",
+    "file": "cluster_88a8559e-f37c-4dbb-922f-bdeb0bc90e01_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c141e794-bdb8-450b-ad22-cf251acad0e3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Toulousain : Le Concert, une soirée parodique au Studio 55",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TOULOUSAIN-LE-CONCERT.jpg",
+    "file": "cluster_c141e794-bdb8-450b-ad22-cf251acad0e3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:17f3260d-1d78-45e5-a9ad-db21162b3d38",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Marie Reno en spectacle comique au 3T d'À Côté",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_17f3260d-1d78-45e5-a9ad-db21162b3d38_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:72c80840-0da9-4056-85d1-f57409dc04d5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Deux spectacles comiques à Toulouse : Véronique Gallo et Veronique Dicaire",
+    "image_url": "https://s1.ticketm.net/dam/a/28d/c01d4f20-28bf-4116-bc66-37f873eb728d_SOURCE",
+    "file": "cluster_72c80840-0da9-4056-85d1-f57409dc04d5_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:e77ddfe4-ce60-4c26-894c-0e4f63f2dcc8",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Deux concerts rock au Rex de Toulouse en novembre",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_e77ddfe4-ce60-4c26-894c-0e4f63f2dcc8_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:179686a1-df22-405b-b171-2e2fc4383800",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Perds pas le fil » : spectacle déjanté au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PERDS-PAS-LE-FIL.jpg",
+    "file": "cluster_179686a1-df22-405b-b171-2e2fc4383800_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:8bea20ce-a53b-4d3d-a1f0-dd5c4752e213",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Bal traditionnel au COMDT avec le duo La Malène",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/danse-adobestock_942210114.jpg?itok=2scef523",
+    "file": "cluster_8bea20ce-a53b-4d3d-a1f0-dd5c4752e213_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:e68ac533-366f-4c36-8815-6a901ad82875",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Danton & Robespierre au Théâtre de Poche : duel révolutionnaire",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DANTON-ROBESPIERRE-2.jpg",
+    "file": "cluster_e68ac533-366f-4c36-8815-6a901ad82875_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bae63797-3d66-423e-8d45-cd8610eea196",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Exposition « Être ou Paraître Gaulois » au Musée Saint-Raymond",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/ETRE-OU-PARAITRE-GAULOIS.jpg",
+    "file": "cluster_bae63797-3d66-423e-8d45-cd8610eea196_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c8c616ce-bbd0-4d88-b915-c4266db14e44",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Stand-up et humour chaque semaine au Brique Comedy Club",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BRIQUE-COMEDY-CLUB.jpg",
+    "file": "cluster_c8c616ce-bbd0-4d88-b915-c4266db14e44_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:173a832b-1594-497c-b632-cf3a209d8a98",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "« Tenter de ne pas faner » : satire féministe au Fil à plomb",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/photographie-film.jpg?itok=Bt59e2_R",
+    "file": "cluster_173a832b-1594-497c-b632-cf3a209d8a98_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:21f9775f-af17-41c7-9975-7448b3d4e2d4",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Conférence sur la décarbonation de l'aviation à Météo-France Toulouse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/avion-h-adobestock_232240970.jpg?h=ec4d6634&itok=ldQqj4va",
+    "file": "cluster_21f9775f-af17-41c7-9975-7448b3d4e2d4_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
