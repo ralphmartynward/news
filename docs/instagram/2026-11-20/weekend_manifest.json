@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-11-21",
+  "sunday": "2026-11-22",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db",
+      "title": "SONoKRAFT pour enfants au Bascala de Bruguières",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:5b382d78-a297-4110-9dfa-665dd1cf5dd3",
+      "title": "Visite guidée du Mirail avec l'historienne Sonia Moussay",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:73b8a3c8-9228-482f-a7aa-0351bede1630",
+      "title": "Visite guidée sur l'histoire cathare à l'Office de Tourisme",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:58ad4931-28a7-4706-9a1b-379b8d0e81fa",
+      "title": "La Fille de l'Eau de Jean Renoir à la Cinémathèque de Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:1ff2ce33-1297-41a4-9090-7fbdce80b45e",
+      "title": "Concert de Minitel au Metronum le 22 novembre",
+      "img_width": 2048,
+      "img_height": 1152
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30",
+      "title": "Kalika en concert au Metronum de Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:421401bb-14f1-4d03-83a3-ba7a2893922b",
+      "title": "Hulul, spectacle jeunesse poétique au Centre Culturel Renan",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:6ba9190e-e1c2-4efb-8b03-bf64260c4a9e",
+      "title": "A (Père) Pétuité : comédie sur la paternité au Studio 55",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:5eb07e7b-b8e1-42a6-9adf-e7e9808b87e8",
+      "title": "Dub Inc et Danakil en concert au Zénith de Toulouse",
+      "img_width": 2000,
+      "img_height": 1334
+    }
+  ]
+}

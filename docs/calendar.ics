@@ -748,23 +748,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/toulouse-le-closing-arena-xxl-
  agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:331e059b-bef2-4609-a6ae-7b2d00691a7f@news.lavillerose.com
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260525
-SUMMARY:Festival Marée Haute
-DESCRIPTION:Clutch recense plusieurs événements gratuits ou peu coûteux 
- ce week-end dans la région toulousaine. Vendredi 22 mai\, le groupe Brass
- en's Not Dead propose un hommage punk rock à Brassens au Mojo Brewpub de 
- Saint-Sulpice-la-Pointe (entrée gratuite)\, tandis que le Taquin Jazz Clu
- b fête son anniversaire avec une soirée RnB/jazz. Du 22 au 25 mai\, le F
- estival itinérant Marée Haute investit le Haut-Languedoc avec concerts\,
-  randonnées\, fanfares et tablées gourmandes (entrée gratuite à 25 €
- ). Dimanche 24\n\nSource\: https://www.clutchmag.fr/evenements#2026-05-21-
- vendredi-22-mai
-URL:https://www.clutchmag.fr/evenements#2026-05-21-vendredi-22-mai?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:847358d1-9422-4510-936c-70b87b90ed75@news.lavillerose.com
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
@@ -25733,6 +25716,26 @@ URL:https://www.toulouse-tourisme.com/agenda/la-course-des-lumieres/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Gilets jaunes actes V et VI : mobilisations à Toulouse en novembre
+DESCRIPTION:Les actes V (14 novembre) et VI (21 novembre) des Gilets jaunes
+  se succèdent à Toulouse\, avec des rassemblements en centre-ville autou
+ r de Jean-Jaurès. L'acte V se distingue par la coexistence de deux mobili
+ sations distinctes : un rassemblement non autorisé des Gilets jaunes à 1
+ 4h et une marche pour le climat\, autorisée celle-là\, partant à 11h de
+ puis les allées Jean-Jaurès jusqu'à la place Arnaud-Bernard. L'acte IV 
+ avait réuni 5 000 personnes et donné lieu à des débordements à Mareng
+ o et Jolimon\n\nSource\: https://actu.fr/occitanie/toulouse_31555/acte-v-d
+ es-gilets-jaunes-et-marche-pour-le-climat-un-appel-a-la-convergence-vers-u
+ n-samedi-de-confusion-a-toulouse_65048205.html
+URL:https://actu.fr/occitanie/toulouse_31555/acte-v-des-gilets-jaunes-et-ma
+ rche-pour-le-climat-un-appel-a-la-convergence-vers-un-samedi-de-confusion-
+ a-toulouse_65048205.html?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:713c44cc-e4f0-4ca4-be28-59430e007d52@news.lavillerose.com
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
@@ -26286,6 +26289,24 @@ URL:https://actu.fr/occitanie/toulouse_31555/grande-place-vegetalisee-nouve
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:331e059b-bef2-4609-a6ae-7b2d00691a7f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261123
+SUMMARY:Sélection sorties Toulouse : du 19 au 22 novembre
+DESCRIPTION:Du jeudi 19 au dimanche 22 novembre\, Toulouse propose une prog
+ rammation éclectique avec une dizaine d'événements répartis dans plusi
+ eurs salles de la ville. On y trouve du hip-hop (47Ter au Bikini)\, de l'
+ électro pointue (Chloé b2b Ivan Smagghe à La Cabane)\, de la danse (Roc
+ ío Molina au Théâtre de la Cité)\, de l'opéra (Peter Grimes au Théâ
+ tre du Capitole) et un documentaire en séance unique sur 30 ans du festiv
+ al Pause Guitare (Cinéma Pathé Wilson). Les entrées vont de la particip
+ ation libre à 13\n\nSource\: https://www.clutchmag.fr/evenements#2026-11-
+ 19-jeudi-19-novembre-0
+LOCATION:salles de la ville\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-11-19-jeudi-19-novembre-0?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1399aa98-72dc-424e-a2e0-3444e037316c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -26446,19 +26467,18 @@ BEGIN:VEVENT
 UID:cluster:e68ac533-366f-4c36-8815-6a901ad82875@news.lavillerose.com
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Danton & Robespierre – Théâtre de Poche
-DESCRIPTION:Le Théâtre de Poche accueille « Danton & Robespierre : Les R
- acines de la Liberté »\, une pièce de Hugues Leforestier mise en scène
-  par Giselle Grange. Le spectacle met en scène l'affrontement historique 
- entre deux figures emblématiques de la Révolution française : Danton\, 
- personnage excessif et épicurien\, face à Robespierre\, ascète inflexib
- le et philosophe. Leur duel\, joué par Alain Courmont et Bernard Meyer\, 
- interroge les valeurs de liberté\, d'égalité et de fraternité à l'omb
- re de la guillotine.\n\nSource\: https://www.toulouse-tourisme.com/agenda/
- danton-robespierre-les-racines-de-la-liberte/
-URL:https://www.toulouse-tourisme.com/agenda/danton-robespierre-les-racines
- -de-la-liberte/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
- agenda
+SUMMARY:Danton & Robespierre
+DESCRIPTION:La pièce « Danton & Robespierre : Les Racines de la Liberté 
+ »\, écrite par Hugues Leforestier et mise en scène par Giselle Grange\,
+  est programmée au Théâtre de Poche de Toulouse le 19 novembre 2026. El
+ le met en scène l'affrontement historique entre Georges Danton\, personna
+ ge excessif et épicurien\, et Maximilien Robespierre\, philosophe ascète
+  et inflexible\, à l'ombre de la guillotine. Les rôles sont tenus par Al
+ ain Courmont et Bernard Meyer dans ce duel à mort qui incarne les tension
+ s entre libert\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-cha
+ mbre-423/
+URL:https://www.toulouse-tourisme.com/agenda/la-chambre-423/?utm_source=ica
+ l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:cd7b492d-3d51-4e1f-80e0-b7e046abf9aa@news.lavillerose.com
@@ -26831,6 +26851,57 @@ LOCATION:Quartier de Lalande accueille un marché de Noël du 20 au 2\, Tou
  louse
 URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-a-lalande/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0720176d-d44b-48df-be4d-c2e491dd8ab1@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Agenda du week-end à Toulouse : festivals\, opéra et Noël
+DESCRIPTION:La Toulouse Métropole propose un programme chargé pour le wee
+ k-end des 20-22 novembre\, entre festivals\, spectacles et premières touc
+ hes de Noël. Au programme : le Festival de BD à Colomiers (20-22 nov.)\,
+  les festivals Impulsez ! (impro) et Marionnettissimo\, ainsi que l'opéra
+  Peter Grimes au Théâtre du Capitole. Une visite guidée du quartier Arn
+ aud-Bernard est prévue le samedi\, tandis que le concert de Kalika (trash
+  pop) et le spectacle de Lilia Benchabane complètent l'offre culturelle. 
+ Les famil\n\nSource\: http://cdt31.tourinsoft.com/view.ashx?email=849e115c
+ -dc66-45c8-b98b-d23d3f51d9c8
+URL:http://cdt31.tourinsoft.com/view.ashx?email=849e115c-dc66-45c8-b98b-d23
+ d3f51d9c8?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:07e74ca4-eb40-49f2-b933-4d2f9913c333@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Festival BD de Colomiers
+DESCRIPTION:Le festival de la bande dessinée de Colomiers se tient du 20 a
+ u 22 novembre avec 60 maisons d'édition et plus de 150 auteurs et autrice
+ s investissant toute la ville. Au programme : dédicaces\, ateliers\, spec
+ tacles\, projections de films d'animation au cinéma Véo Grand Central\, 
+ et une masterclass du dessinateur américain Chris Ware. Plusieurs exposit
+ ions sont réparties dans différents lieux : rétrospective Olivier Schra
+ uwen au Hall Comminges\, Michael DeForge et Camille Potte à l'espace Luci
+ en-Blazy\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-11
+ -20#55898
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-20#55898?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ec55f093-0446-40bc-98f0-9f60f41fab17@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261214
+SUMMARY:Festival SYNCHRO
+DESCRIPTION:Pour sa 5e édition\, le festival SYNCHRO retrouve la Cinémath
+ èque de Toulouse récemment rénovée\, après deux éditions hors les mu
+ rs. Jusqu'au 29 novembre à Toulouse puis jusqu'au 13 décembre en tourné
+ e régionale (Albi\, Marciac\, Foix\, Tournefeuille\, Roques)\, plus d'une
+  soixantaine de séances feront revivre le cinéma muet accompagné de mus
+ iciens en direct. Le film d'ouverture est L'Aurore de Murnau au piano par 
+ Maud Nelissen\, et la clôture toulousaine mettra à l'honneur Les Ailes (
+ Wings\, 1927)\, prem\n\nSource\: https://www.lessentiel.fr/newsletter/toul
+ ouse/2026-11-20#55899
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-20#55899?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30@news.lavillerose.com
@@ -28764,6 +28835,40 @@ URL:https://www.toulouse-tourisme.com/agenda/ensemble-stella-doriente/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:9e9e957c-5f2b-4b35-9179-022836069f29@news.lavillerose.com
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Joan Miró – Protestation
+DESCRIPTION:Les Abattoirs proposent une visite guidée de leur exposition c
+ onsacrée à Joan Miró\, intitulée « Protestation ». L'exposition rass
+ emble près de deux cents œuvres et adopte un angle inédit : mettre en l
+ umière la protestation comme moteur central du processus artistique de Mi
+ ró. C'est une occasion rare d'explorer l'engagement politique et subversi
+ f d'un des grands maîtres du surréalisme à travers une sélection d'œu
+ vres particulièrement dense. La visite guidée est prévue le 2 décembre
+  2026 aux Abatt\n\nSource\: https://www.toulouse-tourisme.com/agenda/joan-
+ miro-protestation-visite-guidee/
+URL:https://www.toulouse-tourisme.com/agenda/joan-miro-protestation-visite-
+ guidee/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:eb48a310-d754-4617-b103-6f8413be5514@news.lavillerose.com
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Vincent Sauve Trio + Magic Malik
+DESCRIPTION:Le Vincent Sauve Trio — batterie/composition\, piano/synthét
+ iseur et saxophone alto — se produit au Taquin le 2 décembre 2026\, ave
+ c en invité le flûtiste Magic Malik. Ce deuxième répertoire du groupe 
+ explore la transmission musicale orale à travers un jazz actuel expérime
+ ntal\, prenant pour point de départ la comptine « Une souris verte » co
+ mme métaphore du son partagé entre individus. Vincent Sauve retrouve ses
+  partenaires Sol Léna-Schroll et Clément Merienne\, issus du duo Cycles 
+ et de l'Autre Co\n\nSource\: https://www.toulouse-tourisme.com/agenda/vinc
+ ent-sauve-trio-magic-malik/
+URL:https://www.toulouse-tourisme.com/agenda/vincent-sauve-trio-magic-malik
+ /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:061f4cea-7dbb-4eb0-8802-e499725b44b5@news.lavillerose.com
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
@@ -29120,6 +29225,40 @@ URL:https://www.ticketmaster.fr/fr/manifestation/les-bonobos-billet/idmanif
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:56d2598d-d340-48b0-821f-0d20052f2bbf@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Marché Solidaire de Noël
+DESCRIPTION:Quatre associations — Amnesty International\, Artisans du Mon
+ de\, la Cimade et le Secours populaire français — s'unissent pour organ
+ iser un marché solidaire de Noël du 4 au 6 décembre 2026. L'événement
+  se tient au local d'Artisans du Monde à Toulouse. L'objectif est double 
+ : permettre aux associations de financer leurs missions respectives et fai
+ re connaître leurs actions auprès du grand public. En achetant sur ce ma
+ rché\, les visiteurs soutiennent directement des artisans\, des producteu
+ rs et des p\n\nSource\: https://www.toulouse-tourisme.com/agenda/marche-so
+ lidaire-de-noel/
+URL:https://www.toulouse-tourisme.com/agenda/marche-solidaire-de-noel/?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b9fea44f-cd88-42de-a287-328fb5f9fef9@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Broken Jazz Lab Sessions
+DESCRIPTION:Les Broken Jazz Lab Sessions s'installent au Taquin le 4 décem
+ bre 2026 pour une soirée mêlant groove profond\, soul chaleureuse et hip
+ -hop raffiné\, le tout teinté d'une liberté jazz assumée. Six musicien
+ s — saxophones\, guitare\, claviers\, basse et batterie — composent le
+  line-up\, avec des guests annoncés. L'ambiance revendiquée est celle d'
+ un pont entre les grooves d'hier et les pulsations urbaines d'aujourd'hui\
+ , où feeling prime sur la technique. Aucune connaissance musicale ni tale
+ nt de danseur \n\nSource\: https://www.toulouse-tourisme.com/agenda/broken
+ -jazz-lab-sessions/
+URL:https://www.toulouse-tourisme.com/agenda/broken-jazz-lab-sessions/?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:01976ac9-f03a-443c-b1ba-477c81c0e288@news.lavillerose.com
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -29274,6 +29413,23 @@ DESCRIPTION:L'exposition « Białowieża\, la forêt vivante de Lech & Simo
 URL:https://www.toulouse-tourisme.com/agenda/bialowieza-la-foret-vivante-de
  -lech-simona/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
  enda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:692b59d9-b161-45d3-97d8-45d732e85ad7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Slim Paul & Mojo – The Spirit of Dr John
+DESCRIPTION:Le groupe Slim Paul & Mojo se produit au Taquin le 5 décembre 
+ 2026 pour un hommage à Dr. John\, légende du rock et du blues de La Nouv
+ elle-Orléans. La formation réunit cinq musiciens d'Occitanie qui mêlent
+  rythmes psychédéliques\, influences des Indians de La Nouvelle-Orléans
+  et sonorités cuivrées. Le chanteur Slim Paul est particulièrement mis 
+ en avant pour son incarnation du style de Dr. John. Un line-up complet —
+  voix\, guitare\, trompette\, claviers\, saxophone baryton\, flûte\, bass
+ e et batterie — \n\nSource\: https://www.toulouse-tourisme.com/agenda/sl
+ im-paul-mojo-the-spirit-of-dr-john/
+URL:https://www.toulouse-tourisme.com/agenda/slim-paul-mojo-the-spirit-of-d
+ r-john/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ac44d84a-eee5-4ef3-8861-ecfa38a1490d@news.lavillerose.com
@@ -29700,6 +29856,23 @@ URL:https://www.toulouse-tourisme.com/agenda/festival-humanophones/?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2bfa381c-19c3-4a39-bd28-98e9c126dab5@news.lavillerose.com
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+SUMMARY:Old School Funky Family
+DESCRIPTION:L'Old School Funky Family (OSFF) se produit au Taquin du 10 au 
+ 12 décembre 2026. Porté par le compositeur et directeur artistique Jér
+ ôme Martineau-Ricotti\, le groupe de huit musiciens mêle un quatuor de s
+ axophones à une section rythmique atypique (sousaphone\, batterie\, guita
+ re\, claviers). Depuis vingt ans\, l'OSFF cultive un esprit d'expérimenta
+ tion et de liberté\, avec pour devise « faire de la musique sérieusemen
+ t\, sans se prendre au sérieux ». Un rendez-vous funky et festif pour le
+ s amateurs de\n\nSource\: https://www.toulouse-tourisme.com/agenda/old-sch
+ ool-funky-family/
+URL:https://www.toulouse-tourisme.com/agenda/old-school-funky-family/?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9be41d10-01a7-49bd-a2d9-802f852146db@news.lavillerose.com
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
@@ -29785,6 +29958,23 @@ DESCRIPTION:Le Couvent des Jacobins accueille deux soirées/animations auto
  -bal-au-grand-hotel/
 URL:https://www.toulouse-tourisme.com/agenda/soiree-bal-au-grand-hotel/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ba456641-db0b-4852-8395-86674c191319@news.lavillerose.com
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Esthesis
+DESCRIPTION:Le quintet Esthesis\, figure montante du rock atmosphérique et
+  cinématographique\, s'installe sur la scène du Rex le 11 décembre 2026
+  pour une date unique à Toulouse. Le groupe\, fort de trois albums acclam
+ és et d'une tournée européenne aux côtés de Soen et Leprous\, présen
+ tera les titres de son nouvel album OUT OF STEP dans une performance pens
+ ée comme un voyage hypnotique. En première partie\, le duo toulousain So
+ lventis ouvrira la soirée avec un folk sombre mêlé d'électro\, pour le
+ ur seule date loc\n\nSource\: https://www.toulouse-tourisme.com/agenda/est
+ hesis/
+URL:https://www.toulouse-tourisme.com/agenda/esthesis/?utm_source=ical&utm_
+ medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:190fcf95-8941-4f0f-af88-abf1d7c22bf9@news.lavillerose.com
@@ -29953,6 +30143,23 @@ DESCRIPTION:Le chœur A Croche Voix se produit à l'Église Saint-Exupère
  roche-voix/
 URL:https://www.toulouse-tourisme.com/agenda/a-croche-voix/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e6ad96d6-2443-45b0-aedb-900007cf737c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Le Gai Mariage
+DESCRIPTION:La comédie Le Gai Mariage est programmée au Grand Théâtre 3
+ T de Toulouse le 12 décembre 2026. Il s'agit d'un spectacle de théâtre 
+ comique\, genre réputé pour son accessibilité à un large public. La re
+ présentation se tient dans cette salle toulousaine dédiée aux arts viva
+ nts. Les amateurs de comédie théâtrale sont directement concernés par 
+ cet événement.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ le-gai-mariage-billet/idmanif/664391/idtier/18864121
+LOCATION:salle toulousaine dédiée aux arts vivants\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/le-gai-mariage-billet/idma
+ nif/664391/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
@@ -30234,6 +30441,22 @@ URL:https://www.ticketmaster.fr/fr/manifestation/hugues-lavigne-billet/idma
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:756bc308-b075-4604-af23-289e309717bb@news.lavillerose.com
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Al'Khena
+DESCRIPTION:Le groupe Al'Khena se produit au Taquin le 16 décembre 2026. L
+ eur musique mêle mélodies vocales\, guitare et clavier colorés par des 
+ intervalles microtonaux et des ornementations issues du makam\, le systèm
+ e musical oriental. Les chœurs s'inspirent des chants traditionnels des B
+ alkans\, tandis que basse et batterie jouent sur des rythmes asymétriques
+  caractéristiques de ces traditions. Le tout est enrichi d'influences roc
+ k et jazz\, à travers les sonorités instrumentales\, les harmonies et le
+ s improv\n\nSource\: https://www.toulouse-tourisme.com/agenda/alkhena/
+URL:https://www.toulouse-tourisme.com/agenda/alkhena/?utm_source=ical&utm_m
+ edium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:47ac656c-aae0-4f8f-8fd3-53118ba7f28c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
@@ -30319,6 +30542,24 @@ URL:https://www.toulouse-tourisme.com/agenda/toulousain-le-best-of/?utm_sou
  rce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:bfd2d084-e514-4066-acf2-6f43980dd5c9@news.lavillerose.com
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Lo Triò
+DESCRIPTION:Le trio de cordes « Lo Triò »\, composé de Bastien Ribot (v
+ iolon)\, Emile Melenchon (guitare) et Rémi Bouyssiere (contrebasse)\, se 
+ produit au Taquin le 17 décembre 2026. Le concert propose un voyage music
+ al mêlant influences méditerranéennes et sonorités contemporaines\, da
+ ns une atmosphère intimiste et chaleureuse. Le répertoire alterne compos
+ itions originales ensoleillées et reprises de chansons internationales. L
+ e groupe présente leur nouvel album « Pirenenca »\, réalisé en collab
+ oration avec l'a\n\nSource\: https://www.toulouse-tourisme.com/agenda/bast
+ ien-ribot-emile-melenchon-remi-bouyssiere-lo-trio/
+URL:https://www.toulouse-tourisme.com/agenda/bastien-ribot-emile-melenchon-
+ remi-bouyssiere-lo-trio/?utm_source=ical&utm_medium=calendar&utm_campaign=
+ toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4e44a0fc-122b-47f9-97ed-144ae92357d0@news.lavillerose.com
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
@@ -30373,6 +30614,23 @@ DESCRIPTION:Un concert de Noël est programmé à la Basilique Saint-Sernin
 LOCATION:places pourraient se libérer juste avant le début\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/concert-de-noel/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:05347e23-c7c3-4178-b14d-f4d00b5b0664@news.lavillerose.com
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261220
+SUMMARY:Hancock en Stock
+DESCRIPTION:Le groupe toulousain Hancock en Stock se produit au Taquin les 
+ 18 et 19 décembre 2026 pour un hommage à la période funk d'Herbie Hanco
+ ck. Composé de musiciens issus de la scène groove toulousaine (Headbange
+ rs\, Matayo\, Dounshaq\, Rumpus et autres)\, l'ensemble revisite les album
+ s cultes comme Headhunters\, Thrust\, Manchild et Sunlight. L'instrumentat
+ ion reprend fidèlement l'esprit des originaux : claviers\, batterie\, bas
+ se\, saxophone\, guitare et percussions. Un voyage musical dans le funk am
+ éricain d\n\nSource\: https://www.toulouse-tourisme.com/agenda/hancock-en
+ -stock/
+URL:https://www.toulouse-tourisme.com/agenda/hancock-en-stock/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1cf1677a-9867-431f-be58-b7412e31ce6a@news.lavillerose.com
@@ -30791,6 +31049,22 @@ DESCRIPTION:Le 29 décembre 2026\, le Zénith de Toulouse accueillera K-Pop
 URL:https://www.toulouscope.fr/2026/11/14/k-pop-forever-un-show-survitamine
  -pour-les-fans-de-k-pop-au-zenith-de-toulouse-13598486.php?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:14a55cde-adfc-453a-8b4b-64ec8e89d4e7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Trop Parfaite
+DESCRIPTION:Le spectacle d'humour « Trop Parfaite » est programmé au Th
+ éâtre des 3T à Toulouse le 29 décembre 2026. Il s'agit d'un one-man sh
+ ow ou spectacle comique classé dans la catégorie Arts & Théâtre – Co
+ médie. Les billets sont disponibles via Ticketmaster. L'événement s'adr
+ esse à tous les amateurs de comédie souhaitant terminer l'année en rian
+ t.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/trop-parfaite-
+ billet/idmanif/664123/idseance/4363793
+URL:https://www.ticketmaster.fr/fr/manifestation/trop-parfaite-billet/idman
+ if/664123/idseance/4363793?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ef4608f1-8275-45b2-be83-77a9455c9f87@news.lavillerose.com
@@ -37344,6 +37618,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/ilyes-mela-billet/idmanif/
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f04e2877-acbc-45c4-a161-369deec92bbf@news.lavillerose.com
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Patrice
+DESCRIPTION:L'artiste Patrice se produira au Bikini\, à Ramonville-Saint-A
+ gne\, le 28 avril 2027. Ce concert s'inscrit dans un registre rock\, genre
+  associé à l'artiste sur la billetterie Ticketmaster. Le Bikini est l'un
+ e des salles de référence de la scène musicale toulousaine\, reconnue p
+ our sa programmation éclectique. Les amateurs de rock et de live music da
+ ns la région sont directement concernés.\n\nSource\: https://www.ticketm
+ aster.fr/fr/manifestation/patrice-billet/idmanif/679053/idseance/4460876
+LOCATION:salles de référence de la scène musicale toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/patrice-billet/idmanif/679
+ 053/idseance/4460876?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2cbff195-742d-4045-992f-4a37345ede0d@news.lavillerose.com
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
@@ -39007,6 +39298,24 @@ LOCATION:salle de spectac\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/angele-billet/idmanif/6704
  16/idseance/4399941?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:64e8146b-d600-41c6-826c-54559d7a2c47@news.lavillerose.com
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:Forever 90's
+DESCRIPTION:Le spectacle Forever 90's s'invite au Zénith Toulouse Métropo
+ le le 24 octobre 2027 pour une soirée dédiée aux tubes incontournables 
+ de la décennie 1990. Cet événement musical de type rock/pop célèbre l
+ es hits qui ont marqué toute une génération. Les amateurs de nostalgie 
+ des années 90 sont particulièrement visés par ce rendez-vous festif dan
+ s l'une des plus grandes salles de spectacle de la région. Les détails s
+ ur les artistes ou groupes en tête d'affiche ne sont pas précisés dans 
+ la source disp\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/fo
+ rever-90-s-billet/idmanif/676570/idseance/4444526
+URL:https://www.ticketmaster.fr/fr/manifestation/forever-90-s-billet/idmani
+ f/676570/idseance/4444526?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:84afb8a6-827b-4f51-b441-c79d5dc41c91@news.lavillerose.com

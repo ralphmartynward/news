@@ -1,0 +1,220 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cfe0e81f-1040-4a07-9844-85502978f8ab",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Calentamiento au Théâtre de la Cité : spectacle de danse tellurique",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CALENTAMIENTO-2.jpg",
+    "file": "cluster_cfe0e81f-1040-4a07-9844-85502978f8ab_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0743b357-3754-4125-a10e-ea3d7e427665",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "SEUIL, spectacle de cirque sur les vivants et les morts au Théâtre Garonne",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SEUIL.jpg",
+    "file": "cluster_0743b357-3754-4125-a10e-ea3d7e427665_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:7663fa3b-85b0-464c-bfff-30cf5b653814",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cold Cuts à La Cave Poésie : thriller intime sur l'emprise",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/COLD-CUTS.jpg",
+    "file": "cluster_7663fa3b-85b0-464c-bfff-30cf5b653814_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:88a8559e-f37c-4dbb-922f-bdeb0bc90e01",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "\"Tenter de ne pas faner\" au Théâtre Le Fil à Plomb",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TENTER-DE-NE-PAS-FANER.jpg",
+    "file": "cluster_88a8559e-f37c-4dbb-922f-bdeb0bc90e01_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:179686a1-df22-405b-b171-2e2fc4383800",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Perds pas le fil » : spectacle déjanté au Théâtre de la Violette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PERDS-PAS-LE-FIL.jpg",
+    "file": "cluster_179686a1-df22-405b-b171-2e2fc4383800_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c8c616ce-bbd0-4d88-b915-c4266db14e44",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Stand-up et humour chaque semaine au Brique Comedy Club",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BRIQUE-COMEDY-CLUB.jpg",
+    "file": "cluster_c8c616ce-bbd0-4d88-b915-c4266db14e44_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d2044b40-4cbb-4efd-8660-79c0b87403da",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Les Levrettes de Belleville au Bijou : spectacle musical sur le plaisir féminin",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-LEVRETTES-DE-BELLVILLE.jpg",
+    "file": "cluster_d2044b40-4cbb-4efd-8660-79c0b87403da_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:da7a18fc-a3a6-4a8b-bf62-a2557bd19b91",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Lilia Benchabane en seule-en-scène à la Salle Nougaro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LILIA-BENCHABANE.jpg",
+    "file": "cluster_da7a18fc-a3a6-4a8b-bf62-a2557bd19b91_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f47158a9-b6c9-470c-b05e-4911d118b224",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Laïka, premier être vivant en orbite, au Théâtre des Mazades",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LAIKA.jpg",
+    "file": "cluster_f47158a9-b6c9-470c-b05e-4911d118b224_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0f986f20-0684-4300-9ae2-7b4f1b854261",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Kamelot en concert au Metronum le 20 novembre",
+    "image_url": "https://s1.ticketm.net/dam/a/3bb/c5c245cb-288f-4d23-8102-cb76ab4d13bb_SOURCE",
+    "file": "cluster_0f986f20-0684-4300-9ae2-7b4f1b854261_event_story.jpg",
+    "img_width": 2426,
+    "img_height": 1365
+  },
+  {
+    "cluster_id": "cluster:bd547816-842b-44ed-9749-a24d5115138b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Greg Petras en spectacle à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_bd547816-842b-44ed-9749-a24d5115138b_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:ce3b528d-3e70-4008-add5-b6e535963155",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Lisa Pariente en concert au Rex de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/0d2/1201f713-3288-4790-854a-ae42895450d2_105931_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_ce3b528d-3e70-4008-add5-b6e535963155_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:e0c3fd69-c833-43bf-aeef-bb58ac4561da",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Erick Baert en spectacle au Grand Théâtre 3T en novembre",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_e0c3fd69-c833-43bf-aeef-bb58ac4561da_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:604c3f01-7560-4855-9283-551c766791c0",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Poem of a River : création musicale et théâtrale à l'Espace Roguet",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/POEM-OF-A-RIVER.jpg",
+    "file": "cluster_604c3f01-7560-4855-9283-551c766791c0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:bfa2e1b1-bdc9-4a7b-b0d2-719a222fda9b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Mathilde Andrea en spectacle à La Petite Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_bfa2e1b1-bdc9-4a7b-b0d2-719a222fda9b_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:568b6504-27e6-48d4-b42f-0d15b9e0cf86",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Nuit de la Glisse 2026 à l'UGC Montaudran : soirée cinéma ski",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-NUIT-DE-LA-GLISSE-THE-CALL.jpg",
+    "file": "cluster_568b6504-27e6-48d4-b42f-0d15b9e0cf86_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2b1bd45e-dc7d-4de7-8f6c-7721f91de229",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival BD de Colomiers : bande dessinée indépendante sur trois jours",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/2023-Photo-ambiance-hall-Copyright-IAMP-photographie-copie.jpg",
+    "file": "cluster_2b1bd45e-dc7d-4de7-8f6c-7721f91de229_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1cb87f13-f096-4dc4-8935-5fe83cb37ca5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Marché de Noël à la Maison de Quartier de Lalande",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MARCHE-DE-NOEL-LALANDE.jpg",
+    "file": "cluster_1cb87f13-f096-4dc4-8935-5fe83cb37ca5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:07e74ca4-eb40-49f2-b933-4d2f9913c333",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Festival BD de Colomiers : 150 auteurs, 60 éditeurs indépendants",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/copie-de-bd26-couverture_facebook-1_0.jpg?h=2edc9bd2&itok=K86rA2DQ",
+    "file": "cluster_07e74ca4-eb40-49f2-b933-4d2f9913c333_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  }
+]
