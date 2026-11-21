@@ -16716,6 +16716,23 @@ URL:https://www.toulouse-tourisme.com/agenda/nicolas-dhervillers-la-part-de
  s-anges/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:9e9e957c-5f2b-4b35-9179-022836069f29@news.lavillerose.com
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20270308
+SUMMARY:Joan Miró – Protestation
+DESCRIPTION:Les Abattoirs\, Musée – FRAC Occitanie Toulouse\, accueillen
+ t une exposition majeure consacrée à Joan Miró\, réunissant près de 2
+ 00 œuvres : peintures\, dessins\, sculptures\, tapisseries\, costumes\, f
+ ilms et photographies. Le parcours chronologique met en lumière la dimens
+ ion protestataire et politique de l'œuvre de Miró\, notamment dans le co
+ ntexte de la guerre d'Espagne et de la dictature franquiste. L'exposition 
+ explore comment l'artiste a cherché à « assassiner » la peinture en ex
+ périmentant de nou\n\nSource\: https://www.toulouse-tourisme.com/agenda/j
+ oan-miro-protestation-visite-guidee/
+URL:https://www.toulouse-tourisme.com/agenda/joan-miro-protestation-visite-
+ guidee/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1d6f341e-6660-4046-9953-82af3b15debb@news.lavillerose.com
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
@@ -26148,19 +26165,18 @@ BEGIN:VEVENT
 UID:cluster:efd48d44-8f99-4ad7-be1f-5ac363990a48@news.lavillerose.com
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Manifestation du 17 novembre à Toulouse : parcours et perturbation
- s
-DESCRIPTION:Ce mardi 17 novembre 2026\, une grande journée de mobilisation
-  intersyndicale se tient à Toulouse contre la vie chère\, pour les salai
- res\, les emplois et les retraites. Six syndicats — CFDT\, FO\, CGT\, FS
- U\, Solidaires et Unsa — appellent à la grève\, avec un rassemblement 
- prévu à 11h place Jean-Jaurès\, suivi d'un cortège vers Saint-Cyprien 
- via les boulevards. Le parcours a cette fois reçu l'aval de la préfectur
- e\, contrairement au 5 novembre où des incidents avaient éclaté après 
- un bras de fer judicia\n\nSource\: https://actu.fr/occitanie/toulouse_3155
- 5/mobilisation-du-17-novembre-a-toulouse-parcours-revendications-ce-qu-il-
- faut-savoir_65059333.html
-LOCATION:place Jean-Jaurès\, Toulouse
+SUMMARY:Mobilisations à Toulouse les 17 et 20 novembre : parcours et trans
+ ports perturbés
+DESCRIPTION:Toulouse connaît deux journées de mobilisation distinctes en 
+ novembre 2026 : le mardi 17\, l'intersyndicale (CFDT\, CGT\, FO\, FSU\, So
+ lidaires\, Unsa) appelle à manifester contre la vie chère\, pour les sal
+ aires et les retraites\, avec un départ à 11h de Jean-Jaurès en directi
+ on de Saint-Cyprien. Puis le vendredi 20 novembre\, une manifestation de l
+ a jeunesse contre la guerre s'élance à 11h d'Arnaud-Bernard vers le lyc
+ ée Airbus. Dans les deux cas\, plusieurs lignes de bus Tisséo sont dévi
+ ées ou supprimée\n\nSource\: https://actu.fr/occitanie/toulouse_31555/mo
+ bilisation-du-17-novembre-a-toulouse-parcours-revendications-ce-qu-il-faut
+ -savoir_65059333.html
 URL:https://actu.fr/occitanie/toulouse_31555/mobilisation-du-17-novembre-a-
  toulouse-parcours-revendications-ce-qu-il-faut-savoir_65059333.html?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -26873,18 +26889,20 @@ BEGIN:VEVENT
 UID:cluster:07e74ca4-eb40-49f2-b933-4d2f9913c333@news.lavillerose.com
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
-SUMMARY:Festival BD de Colomiers
-DESCRIPTION:Le festival de la bande dessinée de Colomiers se tient du 20 a
- u 22 novembre avec 60 maisons d'édition et plus de 150 auteurs et autrice
- s investissant toute la ville. Au programme : dédicaces\, ateliers\, spec
- tacles\, projections de films d'animation au cinéma Véo Grand Central\, 
- et une masterclass du dessinateur américain Chris Ware. Plusieurs exposit
- ions sont réparties dans différents lieux : rétrospective Olivier Schra
- uwen au Hall Comminges\, Michael DeForge et Camille Potte à l'espace Luci
- en-Blazy\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-11
- -20#55898
-URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-20#55898?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Festival de la BD de Colomiers
+DESCRIPTION:Du 20 au 22 novembre\, Colomiers accueille la 41e édition de s
+ on festival de bande dessinée\, défenseur de la création indépendante.
+  Au programme : rencontres avec des auteurs\, dédicaces\, expositions dan
+ s toute la ville\, ateliers\, projections cinéma et une masterclass de Ch
+ ris Ware. Les deux sources s'accordent sur les grandes lignes mais diverge
+ nt légèrement sur le nombre d'auteurs présents : Toulouscope annonce 10
+ 0 auteurs et 60 maisons d'édition\, tandis que L'Essentiel évoque plus d
+ e 150 auteur\n\nSource\: https://www.toulouscope.fr/2026/11/20/ce-week-end
+ -le-festival-de-la-bd-de-colomiers-annonce-une-programmation-festive-et-ex
+ igeante-13662680.php
+URL:https://www.toulouscope.fr/2026/11/20/ce-week-end-le-festival-de-la-bd-
+ de-colomiers-annonce-une-programmation-festive-et-exigeante-13662680.php?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ec55f093-0446-40bc-98f0-9f60f41fab17@news.lavillerose.com
@@ -26902,6 +26920,47 @@ DESCRIPTION:Pour sa 5e édition\, le festival SYNCHRO retrouve la Cinémath
  ouse/2026-11-20#55899
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-20#55899?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:181ccf4c-7c91-44df-bf36-5cf7fcb0c7e8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Exercice incendie fictif mobilise 118 pompiers gare Matabiau
+DESCRIPTION:Vendredi 20 novembre 2026 au matin\, les voyageurs ont découve
+ rt des camions de pompiers et un périmètre de sécurité devant la gare 
+ Matabiau — mais sans aucun incendie réel. Il s'agissait d'un exercice d
+ e terrain grandeur nature\, avec des images générées par intelligence a
+ rtificielle simulant la gare en feu projetées sur les écrans du poste de
+  commandement. Le scénario fictif impliquait 2 000 voyageurs évacués\, 
+ un feu de combles au 4e étage\, l'interruption du trafic ferroviaire et l
+ a fermeture de\n\nSource\: https://actu.fr/occitanie/toulouse_31555/matabi
+ au-brule-t-elle-les-pompiers-se-sont-deployes-devant-la-gare-de-toulouse-v
+ endredi-voici-pourquoi_65080905.html
+URL:https://actu.fr/occitanie/toulouse_31555/matabiau-brule-t-elle-les-pomp
+ iers-se-sont-deployes-devant-la-gare-de-toulouse-vendredi-voici-pourquoi_6
+ 5080905.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
+ nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1e51da9c-cece-4c28-bed7-155e00665384@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Ma Baguette
+DESCRIPTION:Enzo Herenger\, sacré plus jeune boulanger de France en 2022 
+ à seulement 20 ans\, ouvre ce vendredi 20 novembre 2026 sa boulangerie Ma
+  Baguette au 12 place Arnaud-Bernard\, aux côtés de ses deux associés B
+ aptiste et Yohan. Ce fils de boulanger toulousain avait délibérément to
+ ut abandonné pour partir à Paris et faire ses preuves seul\, loin du gir
+ on familial. La place Arnaud-Bernard\, récemment réaménagée et en plei
+ ne attractivité\, constitue le cadre de ce nouveau départ. Le trio affic
+ he des ambitions\n\nSource\: https://actu.fr/occitanie/toulouse_31555/deve
+ nir-le-numero-un-enzo-22-ans-ancien-plus-jeune-boulanger-de-france-s-insta
+ lle-sur-cette-place-de-toulouse_65079686.html
+LOCATION:place Arnaud-Bernard\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/devenir-le-numero-un-enzo-22-a
+ ns-ancien-plus-jeune-boulanger-de-france-s-installe-sur-cette-place-de-tou
+ louse_65079686.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30@news.lavillerose.com
@@ -27184,6 +27243,25 @@ DESCRIPTION:Du samedi 21 novembre à 00h10 au vendredi 27 novembre à 5h40\
 URL:https://actu.fr/occitanie/toulouse_31555/attention-aucun-ne-circulera-e
  ntre-toulouse-et-paris-pendant-une-semaine-voici-quand-et-pourquoi_6503350
  4.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2cc106e2-5834-4d40-af37-6e6f862f7b0b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Toulouse : l'Essentiel
+DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée con
+ çue pour les primo-visiteurs souhaitant découvrir les incontournables de
+  la ville rose. Le parcours débute place du Capitole avant de plonger dan
+ s l'église des Jacobins\, joyau gothique des XIIIe-XIVe siècles. Les par
+ ticipants entrent également dans deux hôtels particuliers Renaissance 
+ — les hôtels Bernuy et d'Assézat — témoins de la prospérité liée
+  au commerce du pastel après l'incendie de 1463. La visite se conclut en 
+ flânant le long\n\nSource\: https://www.toulouse-tourisme.com/agenda/toul
+ ouse-lessentiel/
+LOCATION:place du Capitole avant de plonger dans l'église des Ja\, Toulous
+ e
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-lessentiel/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db@news.lavillerose.com
@@ -27936,6 +28014,23 @@ DESCRIPTION:Le Musée Saint-Raymond\, musée d'archéologie de Toulouse\, p
  la-religion-en-gaule-romaine/
 URL:https://www.toulouse-tourisme.com/agenda/la-religion-en-gaule-romaine/?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b3de71d7-a031-4d41-8181-df271f3bebad@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+SUMMARY:Je Gère
+DESCRIPTION:La compagnie Haute Envolée présente « Je Gère »\, un spect
+ acle immersif abordant la prostitution des mineurs\, au Théâtre du Grand
+  Rond du 26 au 28 novembre 2026. Deux enquêtrices plongent dans des archi
+ ves et journaux intimes pour reconstituer une réalité crue\, mêlant que
+ stions sur l'intime\, la sexualité et la gestion de soi. La mise en scèn
+ e joue sur les sens — décors\, ambiance sonore et lumières — pour im
+ merger le public dans l'histoire. Déjà remarqué au festival TAPAGES pui
+ s à l'Espace Roguet\,\n\nSource\: https://www.toulouse-tourisme.com/agend
+ a/je-gere-2/
+URL:https://www.toulouse-tourisme.com/agenda/je-gere-2/?utm_source=ical&utm
+ _medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
@@ -28835,23 +28930,6 @@ URL:https://www.toulouse-tourisme.com/agenda/ensemble-stella-doriente/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:9e9e957c-5f2b-4b35-9179-022836069f29@news.lavillerose.com
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Joan Miró – Protestation
-DESCRIPTION:Les Abattoirs proposent une visite guidée de leur exposition c
- onsacrée à Joan Miró\, intitulée « Protestation ». L'exposition rass
- emble près de deux cents œuvres et adopte un angle inédit : mettre en l
- umière la protestation comme moteur central du processus artistique de Mi
- ró. C'est une occasion rare d'explorer l'engagement politique et subversi
- f d'un des grands maîtres du surréalisme à travers une sélection d'œu
- vres particulièrement dense. La visite guidée est prévue le 2 décembre
-  2026 aux Abatt\n\nSource\: https://www.toulouse-tourisme.com/agenda/joan-
- miro-protestation-visite-guidee/
-URL:https://www.toulouse-tourisme.com/agenda/joan-miro-protestation-visite-
- guidee/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:eb48a310-d754-4617-b103-6f8413be5514@news.lavillerose.com
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
@@ -29023,6 +29101,23 @@ DESCRIPTION:Le groupe de rap français Sniper se produira au Bikini\, à Ra
 URL:https://www.ticketmaster.fr/fr/manifestation/sniper-billet/idmanif/6447
  62/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d3b7596f-0348-4dd3-8482-946513d6488e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261220
+SUMMARY:Terrains Vagues
+DESCRIPTION:L'exposition « Terrains Vagues » investit la Chapelle des Cor
+ deliers du 3 au 19 décembre 2026. Elle réunit des œuvres à la croisée
+  du graffiti\, de l'intervention urbaine et de l'art contemporain\, explor
+ ant ce que les artistes appellent le « Post-Vandalism » — une démarch
+ e qui détourne les codes du graffiti pour en faire un langage artistique 
+ à part entière. Le parcours mêle peintures\, photographies\, sculptures
+  et assemblages autour de la mémoire des lieux et de la liberté du geste
+ . Le vernissage\n\nSource\: https://www.toulouse-tourisme.com/agenda/terra
+ ins-vagues/
+URL:https://www.toulouse-tourisme.com/agenda/terrains-vagues/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2a601c70-e366-40a7-860c-e6144c2a4fa1@news.lavillerose.com
@@ -30162,23 +30257,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/le-gai-mariage-billet/idma
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:Marché de Noël – Le Fil à Plomb
-DESCRIPTION:Le Théâtre Le Fil à Plomb organise son marché de Noël le d
- imanche 13 décembre 2026\, fort du succès de l'édition précédente. Le
- s visiteurs pourront flâner parmi des stands de bijoux\, photos\, illustr
- ations\, poteries\, friperie et produits maison\, le tout dans une ambianc
- e de chocolat chaud et de vin chaud épicé. Des animations sont prévues 
- : séance photo en costume\, musique live\, et une installation gonflable 
- de la compagnie Picto Facto. La restauration sera assurée par crêpes\, g
- âteaux\, friandises \n\nSource\: https://www.toulouse-tourisme.com/agenda
- /le-fil-a-plomb-fait-son-marche-de-noel/
-URL:https://www.toulouse-tourisme.com/agenda/le-fil-a-plomb-fait-son-marche
- -de-noel/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:37a245d9-5d1f-4135-ac75-107760557883@news.lavillerose.com
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
@@ -30405,6 +30483,24 @@ DESCRIPTION:Le collectif La Cabale présente MARASME au Théâtre Sorano\,
  collective \n\nSource\: https://www.toulouse-tourisme.com/agenda/marasme/
 URL:https://www.toulouse-tourisme.com/agenda/marasme/?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Marché de Noël
+DESCRIPTION:Un marché de Noël est organisé place Antonin Froidure le 16 
+ décembre 2026. La programmation de l'après-midi débute à 15h avec le s
+ pectacle déambulatoire « Chimères du vent » de la troupe Envers du Mon
+ de\, un show féerique et participatif mêlant bulles de savon et musique.
+  Une mini ferme pédagogique\, une visite du père Noël offerte par la ma
+ irie et une lecture de contes par la médiathèque Danielle Damin complèt
+ ent l'événement. Des tables de coloriage seront également disponibles\,
+  ce qui en fait un\n\nSource\: https://www.toulouse-tourisme.com/agenda/ma
+ rche-de-noel-2/
+LOCATION:place Antonin Froidure le 16 décembre 2026\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-2/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1c6dd90b-26b8-4452-8437-4016832d1a58@news.lavillerose.com
@@ -31448,15 +31544,15 @@ UID:cluster:aeda5e72-b3e1-4ecc-8781-cf7645af7519@news.lavillerose.com
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Gospel\, les Grands Classiques
-DESCRIPTION:Le directeur artistique Max Zita et son Gospel Voices Quartet p
- roposent un concert dédié aux grands classiques du gospel et des spiritu
- als à l'église Saint-Aubin de Toulouse. L'acoustique remarquable de ce l
- ieu de culte constitue un cadre idéal pour ce répertoire de mélodies tr
- aditionnelles. Max Zita est une figure pionnière du gospel en France\, ay
- ant fondé Gospel Voices en 1988 et s'étant produit dans des salles prest
- igieuses comme l'UNESCO et le Palais des congrès\, en plus d'avoir été 
- élu meil\n\nSource\: https://www.toulouse-tourisme.com/agenda/gospel-les-
- grands-classiques/
+DESCRIPTION:Le directeur artistique Max Zita et sa formation Gospel Voices 
+ Quartet se produisent à l'église Saint-Aubin de Toulouse le 3 janvier 20
+ 27. Au programme : une revisitation des grands classiques du gospel\, des 
+ spirituals et des mélodies traditionnelles\, mis en valeur par l'acoustiq
+ ue remarquable du lieu. Max Zita est l'un des pionniers du mouvement gospe
+ l en France\, à la tête de Gospel Voices depuis 1988\, et son groupe a 
+ été élu meilleur groupe d'expression gospel par le Festival de Gospel d
+ e Pari\n\nSource\: https://www.toulouse-tourisme.com/agenda/gospel-les-gra
+ nds-classiques/
 URL:https://www.toulouse-tourisme.com/agenda/gospel-les-grands-classiques/?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -34765,6 +34861,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/elise-giuliani-billet/idma
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:abf00331-5279-4cd8-8f64-60a2eccb20f4@news.lavillerose.com
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Dudley Tournesol
+DESCRIPTION:Le spectacle « Dudley Tournesol » est programmé au 3T D'À C
+ ôté\, salle de théâtre toulousaine. L'événement est référencé dan
+ s la catégorie Arts & Théâtre sur Ticketmaster. La date annoncée est l
+ e 5 mars 2027. Les détails sur le contenu du spectacle\, la distribution 
+ ou la durée ne sont pas disponibles dans les informations fournies.\n\nSo
+ urce\: https://www.ticketmaster.fr/fr/manifestation/dudley-tournesol-bille
+ t/idmanif/679253/idseance/4462392
+LOCATION:salle de théâtre toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/dudley-tournesol-billet/id
+ manif/679253/idseance/4462392?utm_source=ical&utm_medium=calendar&utm_camp
+ aign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:c9e22315-dd77-4a76-bd73-f9e4e7ba4f6e@news.lavillerose.com
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
@@ -37159,25 +37272,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/charlie-haid-billet/idmani
  toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:9edce462-e92e-41c2-b735-6e18cc4c0578@news.lavillerose.com
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
-SUMMARY:JAIN
-DESCRIPTION:La chanteuse française JAIN se produira au Bikini à Ramonvill
- e-Saint-Agne le 21 avril 2027. Ce concert s'inscrit dans la programmation 
- rock/musique du Bikini\, l'une des salles de spectacle incontournables de 
- l'agglomération toulousaine. JAIN\, connue pour ses tubes mêlant pop\, a
- frobeat et électro\, attire un public large et fidèle. Les amateurs de m
- usique live aux alentours de Toulouse sont directement concernés.\n\nSour
- ce\: https://www.ticketmaster.fr/fr/manifestation/jain-billet/idmanif/6718
- 43/idseance/4410829
-LOCATION:salles de spectacle incontournables de l'agglomération t\, Toulou
- se
-URL:https://www.ticketmaster.fr/fr/manifestation/jain-billet/idmanif/671843
- /idseance/4410829?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
- e-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:49ead858-a8e5-440d-bc2c-0ad89b1bdf31@news.lavillerose.com
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
@@ -37244,6 +37338,25 @@ LOCATION:salle dédiée aux arts de la scène\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/guigui-pop-billet/idmanif/
  651184/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9edce462-e92e-41c2-b735-6e18cc4c0578@news.lavillerose.com
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:JAIN
+DESCRIPTION:La chanteuse française JAIN se produira au Bikini à Ramonvill
+ e-Saint-Agne le 22 avril 2027. Le concert s'inscrit dans une tournée musi
+ cale classée dans le registre rock/pop. Le Bikini est l'une des salles de
+  concert incontournables de l'agglomération toulousaine\, réputée pour 
+ accueillir des artistes nationaux et internationaux. Les fans de JAIN dans
+  la région toulousaine auront donc rendez-vous dans cette salle emblémat
+ ique.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/jain-billet
+ /idmanif/671843/idseance/4463290
+LOCATION:salles de concert incontournables de l'agglomération tou\, Toulou
+ se
+URL:https://www.ticketmaster.fr/fr/manifestation/jain-billet/idmanif/671843
+ /idseance/4463290?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:91618728-e200-4a6a-86ba-d69b10d1772a@news.lavillerose.com
@@ -37847,6 +37960,24 @@ URL:https://www.toulouse-tourisme.com/agenda/mozart-jenkins/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:f8e05de0-ca66-413f-aa4a-99f64459a6f8@news.lavillerose.com
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Houria Les Yeux Verts
+DESCRIPTION:Le spectacle comique Houria Les Yeux Verts est programmé au Ca
+ sino Barrière de Toulouse le 8 mai 2027. Il s'agit d'un one-woman show ou
+  spectacle d'humour classé dans la catégorie Arts & Théâtre / Comédie
+ . L'événement se tient dans la salle de spectacle du Casino Barrière\, 
+ une adresse habituée aux productions scéniques dans la métropole toulou
+ saine. Les amateurs de comédie et de spectacle vivant sont le public vis
+ é.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/houria-les-ye
+ ux-verts-billet/idmanif/676934/idseance/4445669
+LOCATION:salle de spectacle du Casino Barrière\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/houria-les-yeux-verts-bill
+ et/idmanif/676934/idseance/4445669?utm_source=ical&utm_medium=calendar&utm
+ _campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1d606bba-f3eb-4186-8d65-d5a56bcc6aa0@news.lavillerose.com
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
@@ -38309,6 +38440,25 @@ DESCRIPTION:La Salida\, un spectacle classé Arts & Théâtre — Danse\, e
 URL:https://www.ticketmaster.fr/fr/manifestation/la-salida-billet/idmanif/6
  60324/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:504a106d-d3bb-4c56-aa9e-8ec5c69dee95@news.lavillerose.com
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Noga Erez
+DESCRIPTION:L'artiste israélienne Noga Erez se produira au Bikini\, à Ram
+ onville-Saint-Agne\, le 24 mai 2027. Reconnue pour son style pop électron
+ ique aux textes engagés et à l'énergie scénique percutante\, elle atti
+ re un public de plus en plus large en Europe. Le Bikini\, salle de référ
+ ence de la scène musicale toulousaine\, accueille ce concert dans sa prog
+ rammation pop-électro. Les amateurs de pop alternative et de musique à f
+ orte identité visuelle seront particulièrement concernés.\n\nSource\: h
+ ttps://www.ticketmaster.fr/fr/manifestation/noga-erez-billet/idmanif/67740
+ 4/idseance/4451355
+LOCATION:salle de référence de la scène musicale to\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/noga-erez-billet/idmanif/6
+ 77404/idseance/4451355?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:581a080f-88eb-4fb6-9671-4ea4eb5d0016@news.lavillerose.com

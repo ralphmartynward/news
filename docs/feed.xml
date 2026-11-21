@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-11-20T07:35:48.361807+00:00</updated>
+  <updated>2026-11-21T07:35:36.890447+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,297 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:445877be-d5c9-44ea-a8ef-fcade5c03e30</id>
-    <title>Infiniment Robin en spectacle au Zénith de Toulouse</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>ticketmaster</name>
-    </author>
-    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
-&lt;p&gt;Le spectacle comique « Infiniment Robin » est programmé au Zénith Toulouse Métropole le 12 février 2028. Il s&amp;#x27;agit d&amp;#x27;un one-man-show ou spectacle d&amp;#x27;humour proposé dans la grande salle de concert et de spectacle de Toulouse. Le Zénith, l&amp;#x27;une des plus grandes salles de la région, accueille régulièrement ce type de représentation grand public. Les amateurs de comédie et de spectacle vivant sont le public visé.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/infiniment-robin-billet/idmanif/678238/idseance/4456689?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.ticketmaster.fr/fr/manifestation/infiniment-robin-billet/idmanif/678238/idseance/4456689?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le spectacle comique « Infiniment Robin » est programmé au Zénith Toulouse Métropole le 12 février 2028. Il s'agit d'un one-man-show ou spectacle d'humour proposé dans la grande salle de concert et de spectacle de Toulouse. Le Zénith, l'une des plus grandes salles de la région, accueille régulièrement ce type de représentation grand public. Les amateurs de comédie et de spectacle vivant sont le public visé.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:36:42.650134+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:ac7dc7c8-d756-4656-b585-52f1f7bb74d2</id>
-    <title>Les dessous médiévaux du Musée Saint-Raymond révélés</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/LES-DESSOUS-DU-COLLEGE-SAINT-RAYMOND.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond propose une visite thématique intitulée « Les dessous du collège Saint-Raymond », qui dévoile l&amp;#x27;histoire des bâtiments médiévaux ayant précédé l&amp;#x27;édifice actuel. Les visiteurs découvriront les vestiges et secrets d&amp;#x27;un hôpital, d&amp;#x27;une chapelle et d&amp;#x27;un collège universitaire datant du Moyen Âge. L&amp;#x27;activité est accessible sans réservation préalable et incluse dans le billet d&amp;#x27;entrée habituel du musée. Elle s&amp;#x27;adresse à tous les curieux d&amp;#x27;histoire locale et d&amp;#x27;archéologie toulousaine.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/les-dessous-du-college-saint-raymond/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/les-dessous-du-college-saint-raymond/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond propose une visite thématique intitulée « Les dessous du collège Saint-Raymond », qui dévoile l'histoire des bâtiments médiévaux ayant précédé l'édifice actuel. Les visiteurs découvriront les vestiges et secrets d'un hôpital, d'une chapelle et d'un collège universitaire datant du Moyen Âge. L'activité est accessible sans réservation préalable et incluse dans le billet d'entrée habituel du musée. Elle s'adresse à tous les curieux d'histoire locale et d'archéologie toulousaine.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:34:49.792410+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:a96135ed-b556-4e1b-815a-ca0cf152b9ae</id>
-    <title>Exposition « Tous Romains » au Musée Saint-Raymond de Toulouse</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/TOUS-ROMAIN-CERTAINS-PLUS-QUE-D-AUTRES.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond, musée d&amp;#x27;archéologie de Toulouse, propose une exposition intitulée « Tous Romains… mais certains plus que d&amp;#x27;autres », qui explore les inégalités sociales dans la Gaule romaine après la conquête. L&amp;#x27;exposition interroge notamment la place des femmes et la condition des esclaves dans ce nouveau système social calqué sur le modèle romain. L&amp;#x27;événement est accessible sans réservation et inclus dans le billet d&amp;#x27;entrée habituel du musée. Une occasion de découvrir ou redécouvrir ce musée archéologique toulousain à travers un angle historique et sociétal.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/tous-romains-mais-certains-plus-que-dautres/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/tous-romains-mais-certains-plus-que-dautres/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond, musée d'archéologie de Toulouse, propose une exposition intitulée « Tous Romains… mais certains plus que d'autres », qui explore les inégalités sociales dans la Gaule romaine après la conquête. L'exposition interroge notamment la place des femmes et la condition des esclaves dans ce nouveau système social calqué sur le modèle romain. L'événement est accessible sans réservation et inclus dans le billet d'entrée habituel du musée. Une occasion de découvrir ou redécouvrir ce musée archéologique toulousain à travers un angle historique et sociétal.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:34:28.857982+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b27c39c4-e55a-414c-9fc4-586d0004bcae</id>
-    <title>« Quoi de neuf, Medicus ? » au Musée Saint-Raymond</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/QUOI-DE-NEUF-MEDICUS.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond, musée d&amp;#x27;archéologie de Toulouse, propose une nouvelle activité de médiation autour de la médecine antique. À partir des objets retrouvés dans la trousse de l&amp;#x27;oculiste romain Gaius Firmius Severus, les visiteurs peuvent découvrir les pratiques médicales de l&amp;#x27;Antiquité. L&amp;#x27;activité est incluse dans le billet d&amp;#x27;entrée habituel et ne nécessite aucune réservation. Elle s&amp;#x27;adresse à tous les publics curieux de l&amp;#x27;archéologie et de l&amp;#x27;histoire de la santé.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/quoi-de-neuf-medicus/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/quoi-de-neuf-medicus/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond, musée d'archéologie de Toulouse, propose une nouvelle activité de médiation autour de la médecine antique. À partir des objets retrouvés dans la trousse de l'oculiste romain Gaius Firmius Severus, les visiteurs peuvent découvrir les pratiques médicales de l'Antiquité. L'activité est incluse dans le billet d'entrée habituel et ne nécessite aucune réservation. Elle s'adresse à tous les publics curieux de l'archéologie et de l'histoire de la santé.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:34:07.900346+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d0bd2894-4e98-4450-95fc-788f38d57a91</id>
-    <title>La religion en Gaule romaine au Musée Saint-Raymond</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/LA-RELIGION-EN-GAULE-ROMAINE.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond, musée d&amp;#x27;archéologie de Toulouse, propose une présentation sur la religion en Gaule romaine, explorant le syncrétisme entre traditions celtiques et rites romains après la conquête. Des temples inspirés de Rome furent érigés dans chaque cité, tandis que des divinités gauloises comme Cernunnos et Épona continuèrent à coexister avec les dieux gréco-romains. Les sanctuaires mis au jour révèlent de nombreuses offrandes votives, souvent liées à des demandes de guérison ou de protection. L&amp;#x27;activité est accessible sans réservation et incluse dans le billet d&amp;#x27;entrée du musée.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/la-religion-en-gaule-romaine/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/la-religion-en-gaule-romaine/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond, musée d'archéologie de Toulouse, propose une présentation sur la religion en Gaule romaine, explorant le syncrétisme entre traditions celtiques et rites romains après la conquête. Des temples inspirés de Rome furent érigés dans chaque cité, tandis que des divinités gauloises comme Cernunnos et Épona continuèrent à coexister avec les dieux gréco-romains. Les sanctuaires mis au jour révèlent de nombreuses offrandes votives, souvent liées à des demandes de guérison ou de protection. L'activité est accessible sans réservation et incluse dans le billet d'entrée du musée.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:33:46.921060+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:12ac5f02-570a-4aaf-bfe6-2e3299e599ff</id>
-    <title>Animation « L'Écriture dans l'Antiquité » au Musée Saint-Raymond</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/L-ECRITURE-DANS-L-ANTIQUITE.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond, musée d&amp;#x27;archéologie de Toulouse, propose une animation intitulée « L&amp;#x27;Écriture dans l&amp;#x27;Antiquité » le 25 novembre 2026. Les visiteurs pourront découvrir et manipuler des reconstitutions d&amp;#x27;outils d&amp;#x27;écriture antiques, loin de tout support moderne. L&amp;#x27;animation est sans réservation préalable et incluse dans le billet d&amp;#x27;entrée au musée. Elle s&amp;#x27;adresse à tous les publics curieux de l&amp;#x27;histoire de l&amp;#x27;écriture et des pratiques de l&amp;#x27;Antiquité.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/lecriture-dans-lantiquite/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/lecriture-dans-lantiquite/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond, musée d'archéologie de Toulouse, propose une animation intitulée « L'Écriture dans l'Antiquité » le 25 novembre 2026. Les visiteurs pourront découvrir et manipuler des reconstitutions d'outils d'écriture antiques, loin de tout support moderne. L'animation est sans réservation préalable et incluse dans le billet d'entrée au musée. Elle s'adresse à tous les publics curieux de l'histoire de l'écriture et des pratiques de l'Antiquité.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:33:25.947291+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:bae63797-3d66-423e-8d45-cd8610eea196</id>
-    <title>Exposition « Être ou Paraître Gaulois » au Musée Saint-Raymond</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/ETRE-OU-PARAITRE-GAULOIS.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond, musée d&amp;#x27;archéologie de Toulouse, accueille l&amp;#x27;exposition « Être ou Paraître Gaulois » à partir du 19 novembre 2026. Elle s&amp;#x27;attaque aux idées reçues sur la Gaule pré-romaine, notamment l&amp;#x27;image d&amp;#x27;un territoire sauvage, forestier et primitif. L&amp;#x27;archéologie y démontre que les Gaulois n&amp;#x27;étaient pas un peuple vivant dans des cabanes en pleine forêt, mais une civilisation bien plus complexe. L&amp;#x27;entrée est incluse dans le billet du musée et aucune réservation n&amp;#x27;est nécessaire.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/etre-ou-paraitre-gaulois/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/etre-ou-paraitre-gaulois/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond, musée d'archéologie de Toulouse, accueille l'exposition « Être ou Paraître Gaulois » à partir du 19 novembre 2026. Elle s'attaque aux idées reçues sur la Gaule pré-romaine, notamment l'image d'un territoire sauvage, forestier et primitif. L'archéologie y démontre que les Gaulois n'étaient pas un peuple vivant dans des cabanes en pleine forêt, mais une civilisation bien plus complexe. L'entrée est incluse dans le billet du musée et aucune réservation n'est nécessaire.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:33:04.971479+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:4c4bb4e2-e4e8-43bf-b4b2-eba52ae40c4d</id>
-    <title>Exposition « Dieux du Stade » au Musée Saint-Raymond</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/DIEUX-DU-STADE.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond, musée d&amp;#x27;archéologie de Toulouse, propose une exposition intitulée « Dieux du Stade » consacrée aux pratiques sportives dans l&amp;#x27;Antiquité. Les visiteurs pourront découvrir statues et objets du quotidien illustrant la culture sportive des anciens Grecs et Romains. L&amp;#x27;entrée est incluse dans le billet normal du musée, sans réservation nécessaire. Un rendez-vous accessible à tous les curieux d&amp;#x27;histoire et d&amp;#x27;archéologie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/dieux-du-stade/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/dieux-du-stade/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond, musée d'archéologie de Toulouse, propose une exposition intitulée « Dieux du Stade » consacrée aux pratiques sportives dans l'Antiquité. Les visiteurs pourront découvrir statues et objets du quotidien illustrant la culture sportive des anciens Grecs et Romains. L'entrée est incluse dans le billet normal du musée, sans réservation nécessaire. Un rendez-vous accessible à tous les curieux d'histoire et d'archéologie.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:32:44.017657+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:cfa7d802-7fb2-4f32-8ee6-0f03e3bfdddc</id>
-    <title>Exposition sur l'artisanat gaulois au Musée Saint-Raymond</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/L-ARTISANAT-PREMIERE-ENTREPRISE-DE-GAULE.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond, musée d&amp;#x27;archéologie de Toulouse, propose une exposition sur l&amp;#x27;artisanat en Gaule romaine. Elle s&amp;#x27;appuie sur des stèles funéraires représentant des artisans à l&amp;#x27;œuvre — potiers, forgerons, bouchers, drapiers et bien d&amp;#x27;autres — ainsi que sur des outils et objets portant les noms de leurs fabricants. L&amp;#x27;exposition met en lumière la place centrale du travail artisanal dans la société gallo-romaine. L&amp;#x27;entrée est incluse dans le billet du musée et aucune réservation n&amp;#x27;est nécessaire.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/lartisanat-premiere-entreprise-de-gaule/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/lartisanat-premiere-entreprise-de-gaule/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond, musée d'archéologie de Toulouse, propose une exposition sur l'artisanat en Gaule romaine. Elle s'appuie sur des stèles funéraires représentant des artisans à l'œuvre — potiers, forgerons, bouchers, drapiers et bien d'autres — ainsi que sur des outils et objets portant les noms de leurs fabricants. L'exposition met en lumière la place centrale du travail artisanal dans la société gallo-romaine. L'entrée est incluse dans le billet du musée et aucune réservation n'est nécessaire.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:32:23.042675+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:92e5a0e8-7f90-47ef-8695-cbcc24d742fc</id>
-    <title>Secret de Conservation : visite des coulisses au Musée Saint-Raymond</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/SECRETS-DE-CONSERVATION.jpg"/&gt;
-&lt;p&gt;Le Musée Saint-Raymond, musée d&amp;#x27;archéologie de Toulouse, propose une visite thématique intitulée « Secret de Conservation » le 15 novembre 2026. Les visiteurs découvriront les coulisses de la conservation : comment exposer des œuvres brisées ou rouillées, pourquoi certains portraits présentent des lacunes, et comment se prennent les décisions de restauration. La visite est sans réservation préalable et incluse dans le billet d&amp;#x27;entrée habituel. Une occasion accessible à tous pour comprendre le travail invisible des conservateurs-restaurateurs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/secret-de-conservation/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/secret-de-conservation/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Musée Saint-Raymond, musée d'archéologie de Toulouse, propose une visite thématique intitulée « Secret de Conservation » le 15 novembre 2026. Les visiteurs découvriront les coulisses de la conservation : comment exposer des œuvres brisées ou rouillées, pourquoi certains portraits présentent des lacunes, et comment se prennent les décisions de restauration. La visite est sans réservation préalable et incluse dans le billet d'entrée habituel. Une occasion accessible à tous pour comprendre le travail invisible des conservateurs-restaurateurs.</summary>
-    <category term="event"/>
-    <published>2026-11-14T07:32:02.077644+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:5f184bbd-88f5-436c-8db8-0665ca02ecf2</id>
-    <title>K-Pop Forever : show hommage BTS et Blackpink au Zénith</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>toulouscope</name>
-    </author>
-    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6acdfa596e196ce0b70e03a3/hd/image.png?v=1"/&gt;
-&lt;p&gt;Le 29 décembre 2026, le Zénith de Toulouse accueillera K-Pop Forever !, un spectacle hommage aux grandes stars de la pop coréenne. Neuf artistes sélectionnés à Londres interpréteront des reprises chorégraphiées inspirées de groupes emblématiques comme BTS, Blackpink et Twice, pendant près de deux heures. Le show mêle costumes élaborés, effets visuels et scénographie spectaculaire pour recréer l&amp;#x27;esthétique des productions coréennes, sans réunir les groupes originaux. Produit par Indigo Productions, il s&amp;#x27;adresse en priorité aux jeunes fans et s&amp;#x27;inscrit dans une tournée européenne dont Toulouse constitue une étape.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/11/14/k-pop-forever-un-show-survitamine-pour-les-fans-de-k-pop-au-zenith-de-toulouse-13598486.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouscope.fr/2026/11/14/k-pop-forever-un-show-survitamine-pour-les-fans-de-k-pop-au-zenith-de-toulouse-13598486.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le 29 décembre 2026, le Zénith de Toulouse accueillera K-Pop Forever !, un spectacle hommage aux grandes stars de la pop coréenne. Neuf artistes sélectionnés à Londres interpréteront des reprises chorégraphiées inspirées de groupes emblématiques comme BTS, Blackpink et Twice, pendant près de deux heures. Le show mêle costumes élaborés, effets visuels et scénographie spectaculaire pour recréer l'esthétique des productions coréennes, sans réunir les groupes originaux. Produit par Indigo Productions, il s'adresse en priorité aux jeunes fans et s'inscrit dans une tournée européenne dont Toulouse constitue une étape.</summary>
-    <category term="event"/>
-    <published>2026-11-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:ac3a8215-6192-4293-ad91-5cb50fbb0f14</id>
-    <title>Ligne T1 perturbée à Toulouse : accident de scooter et blocage lycéen</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/09/pompiers-toulouse-nuit-accident.jpeg"/&gt;
-&lt;p&gt;La ligne de tramway T1 a été perturbée à deux reprises sur le même tronçon, entre les stations Arènes et Palais de Justice. Le premier incident est un accident survenu le samedi 7 novembre 2026 aux alentours de 19h sur l&amp;#x27;avenue de Muret : un scooter a glissé sur la voie du tram, entraînant une coupure totale avant une reprise partielle à 20h. Le second épisode concerne un blocage lycéen un vendredi matin, avec des feux d&amp;#x27;artifice tirés aux abords du lycée Déodat-de-Séverac, forçant Tisséo à interrompre la ligne entre Palais de Justice et Arènes. Dans les deux cas, les mêmes stations sont touchées et des lignes de bus de substitution (34 et 66) ont été mises en place pour les usagers.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les deux articles couvrent des incidents distincts ayant affecté le même segment de la ligne T1, mais à des dates différentes et pour des raisons différentes (accident de scooter vs manifestation lycéenne). Les relier dans un seul cluster peut prêter à confusion quant à la chronologie.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (accident scooter)&lt;/strong&gt;: Détails de l&amp;#x27;accident du 7 novembre et état de la circulation en soirée&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (blocage lycéen)&lt;/strong&gt;: Contexte de la mobilisation lycéenne et solutions de transport alternatives&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/blocages-lyceens-a-toulouse-la-ligne-de-tram-t1-partiellement-a-l-arret-ce-vendredi-matin_65049864.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/blocages-lyceens-a-toulouse-la-ligne-de-tram-t1-partiellement-a-l-arret-ce-vendredi-matin_65049864.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La ligne de tramway T1 a été perturbée à deux reprises sur le même tronçon, entre les stations Arènes et Palais de Justice. Le premier incident est un accident survenu le samedi 7 novembre 2026 aux alentours de 19h sur l'avenue de Muret : un scooter a glissé sur la voie du tram, entraînant une coupure totale avant une reprise partielle à 20h. Le second épisode concerne un blocage lycéen un vendredi matin, avec des feux d'artifice tirés aux abords du lycée Déodat-de-Séverac, forçant Tisséo à interrompre la ligne entre Palais de Justice et Arènes. Dans les deux cas, les mêmes stations sont touchées et des lignes de bus de substitution (34 et 66) ont été mises en place pour les usagers.</summary>
-    <category term="news"/>
-    <published>2026-11-13T08:41:25+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:106fcd8f-50e1-47c7-9bbf-21181648716a</id>
-    <title>Le Grand Barathon de Toulouse fête ses 10 ans en mode ski</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2023/11/grand-barathon-toulouse.jpg"/&gt;
-&lt;p&gt;Le Grand Barathon, classique de la vie nocturne étudiante toulousaine, célèbre ses dix ans en France avec une édition sur le thème hivernal « ski ». Après une première soirée le jeudi 12 novembre, l&amp;#x27;événement investit à nouveau l&amp;#x27;hypercentre les vendredi 13 et samedi 14 novembre 2026. Le concept repose sur 30 bars partenaires répartis de la place Saint-Pierre aux Carmes, en passant par Saint-Georges et les alentours du Capitole, où les participants bénéficient d&amp;#x27;un verre offert pour un verre acheté. Munis d&amp;#x27;un bracelet et d&amp;#x27;un gobelet réutilisable récupérés sur présentation d&amp;#x27;un billet (réservation en ligne, peu de places restantes), quelque 6 000 fêtards sont attendus en combis, bonnets et lunettes de ski.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/combis-bonnets-et-lunettes-de-ski-6-000-fetards-en-mode-hiver-pour-le-grand-barathon-de-toulouse-ou-en-profiter_65049779.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/combis-bonnets-et-lunettes-de-ski-6-000-fetards-en-mode-hiver-pour-le-grand-barathon-de-toulouse-ou-en-profiter_65049779.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le Grand Barathon, classique de la vie nocturne étudiante toulousaine, célèbre ses dix ans en France avec une édition sur le thème hivernal « ski ». Après une première soirée le jeudi 12 novembre, l'événement investit à nouveau l'hypercentre les vendredi 13 et samedi 14 novembre 2026. Le concept repose sur 30 bars partenaires répartis de la place Saint-Pierre aux Carmes, en passant par Saint-Georges et les alentours du Capitole, où les participants bénéficient d'un verre offert pour un verre acheté. Munis d'un bracelet et d'un gobelet réutilisable récupérés sur présentation d'un billet (réservation en ligne, peu de places restantes), quelque 6 000 fêtards sont attendus en combis, bonnets et lunettes de ski.</summary>
-    <category term="event"/>
-    <published>2026-11-13T12:47:05+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d8af0f16-3b12-4816-a16e-a1e1fdef51b5</id>
-    <title>Démolition spectaculaire de l'immeuble Goya à Bellefontaine</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/destruction-immeuble-goya-toulouse-2-1.jpg"/&gt;
-&lt;p&gt;Le quartier Bellefontaine est en pleine transformation : l&amp;#x27;immeuble Goya, une tour de 11 étages construite au début des années 1970, est actuellement en cours de démolition par « grignotage » à béton, en novembre 2026. L&amp;#x27;opération, menée par Toulouse Métropole Habitat, consiste à déconstruire la structure étage par étage à l&amp;#x27;aide d&amp;#x27;engins spécialisés, de façon progressive et sécurisée. Les 96 logements que comptait le bâtiment disparaissent pour laisser place à un nouveau projet urbain. Ce chantier très visible constitue une étape symbolique et concrète dans la requalification du secteur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-un-chantier-tres-spectaculaire-la-demolition-d-un-immeuble-de-11-etages-va-transfigurer-ce-quartier-de-toulouse_65046435.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-un-chantier-tres-spectaculaire-la-demolition-d-un-immeuble-de-11-etages-va-transfigurer-ce-quartier-de-toulouse_65046435.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le quartier Bellefontaine est en pleine transformation : l'immeuble Goya, une tour de 11 étages construite au début des années 1970, est actuellement en cours de démolition par « grignotage » à béton, en novembre 2026. L'opération, menée par Toulouse Métropole Habitat, consiste à déconstruire la structure étage par étage à l'aide d'engins spécialisés, de façon progressive et sécurisée. Les 96 logements que comptait le bâtiment disparaissent pour laisser place à un nouveau projet urbain. Ce chantier très visible constitue une étape symbolique et concrète dans la requalification du secteur.</summary>
-    <category term="news"/>
-    <published>2026-11-13T17:02:02+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a</id>
-    <title>Le marché de Noël place du Capitole revient avec une nouvelle scénographie</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/12/marche-noel-toulouse-patinoire-capitole.jpeg"/&gt;
-&lt;p&gt;Le marché de Noël de Toulouse ouvrira ses portes du 26 novembre au 27 décembre 2026, avec l&amp;#x27;installation des chalets place du Capitole déjà en cours depuis le 13 novembre. Cette année, l&amp;#x27;événement est confié à un nouveau prestataire, le groupe 2A Organisation, qui promet une nouvelle scénographie pour enrichir le parcours de visite. Le marché investira plusieurs lieux de la ville : place du Capitole, cour Henri IV, square Charles-de-Gaulle et allées Jean-Jaurès, avec plus d&amp;#x27;une centaine d&amp;#x27;exposants attendus au Capitole. La patinoire place du Capitole sera également de retour, accessible jusqu&amp;#x27;au 3 janvier 2027.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article annonce les dates et nouveautés de façon prospective ; le second, publié après le début des installations, confirme et enrichit avec des détails sur les exposants et l&amp;#x27;atmosphère festive.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Voici les dates)&lt;/strong&gt;: Infos pratiques : dates, lieux, patinoire&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Vidéo)&lt;/strong&gt;: Ambiance et détails exposants, avec vidéo de l&amp;#x27;installation&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/avis-aux-inconditionnels-le-marche-de-noel-s-installe-place-du-capitole-a-toulouse_65051532.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/avis-aux-inconditionnels-le-marche-de-noel-s-installe-place-du-capitole-a-toulouse_65051532.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le marché de Noël de Toulouse ouvrira ses portes du 26 novembre au 27 décembre 2026, avec l'installation des chalets place du Capitole déjà en cours depuis le 13 novembre. Cette année, l'événement est confié à un nouveau prestataire, le groupe 2A Organisation, qui promet une nouvelle scénographie pour enrichir le parcours de visite. Le marché investira plusieurs lieux de la ville : place du Capitole, cour Henri IV, square Charles-de-Gaulle et allées Jean-Jaurès, avec plus d'une centaine d'exposants attendus au Capitole. La patinoire place du Capitole sera également de retour, accessible jusqu'au 3 janvier 2027.</summary>
-    <category term="event"/>
-    <published>2026-11-13T18:22:34+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:78c5697c-108b-4079-b1d7-4d1b0142474a</id>
-    <title>Moudenc appelle à l'unité de la droite lors de la visite d'Édouard Philippe</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/moudenc-philippe-toulouse-visite.jpg"/&gt;
-&lt;p&gt;Édouard Philippe, candidat à la présidentielle 2027 et président d&amp;#x27;Horizons, était de retour à Toulouse le vendredi 13 novembre 2026 pour rencontrer le maire Jean-Luc Moudenc, place du Capitole. Le maire de Toulouse a profité de cette visite pour lancer un appel à l&amp;#x27;unité de la droite et du centre, exhortant les candidats à « mettre le pays avant leurs ego ». Moudenc n&amp;#x27;a pas encore annoncé à qui il accordera son parrainage, mais insiste sur la nécessité de construire un projet commun avant de trancher sur les candidatures. Il se dit par ailleurs prêt à accueillir tous les prétendants de sa famille politique, adoptant une posture d&amp;#x27;arbitre bienveillant plutôt que de partisan déclaré.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/presidentielle-2027-mettez-le-pays-avant-vos-ego-lance-le-maire-de-toulouse-lors-de-la-visite-d-edouard-philippe_65054181.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/presidentielle-2027-mettez-le-pays-avant-vos-ego-lance-le-maire-de-toulouse-lors-de-la-visite-d-edouard-philippe_65054181.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Édouard Philippe, candidat à la présidentielle 2027 et président d'Horizons, était de retour à Toulouse le vendredi 13 novembre 2026 pour rencontrer le maire Jean-Luc Moudenc, place du Capitole. Le maire de Toulouse a profité de cette visite pour lancer un appel à l'unité de la droite et du centre, exhortant les candidats à « mettre le pays avant leurs ego ». Moudenc n'a pas encore annoncé à qui il accordera son parrainage, mais insiste sur la nécessité de construire un projet commun avant de trancher sur les candidatures. Il se dit par ailleurs prêt à accueillir tous les prétendants de sa famille politique, adoptant une posture d'arbitre bienveillant plutôt que de partisan déclaré.</summary>
-    <category term="news"/>
-    <published>2026-11-13T18:47:36+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b1b16761-5564-4591-ab7e-ae9b655deef9</id>
-    <title>« Disney en concert – Suivez vos rêves » au Zénith de Toulouse</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/disney-live-web-1209-1024-683.jpg"/&gt;
-&lt;p&gt;Le spectacle « Disney en concert – Suivez vos rêves » se tiendra le vendredi 20 novembre 2026 à 20h au Zénith Toulouse Métropole. Un orchestre symphonique (qualifié de « philharmonique » par L&amp;#x27;Essentiel) accompagné de chanteurs et danseurs interprétera les grandes musiques des classiques Disney, projetées sur écran géant avec un show lumière. Le programme voyage de Simba à Elsa, de Vaiana à Pocahontas, en passant par Peter Pan, Aladdin et Cendrillon. Les deux médias organisent chacun un jeu-concours pour gagner des places.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse décrit un « orchestre symphonique », tandis que L&amp;#x27;Essentiel parle d&amp;#x27;un « orchestre philharmonique » — une légère divergence dans la désignation de l&amp;#x27;ensemble musical.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Description détaillée du programme et de l&amp;#x27;ambiance du spectacle&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Informations pratiques concises (heure, lieu) et lien vers le jeu-concours&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-spectacle-disney-en-concert-a-toulouse_65038061.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-spectacle-disney-en-concert-a-toulouse_65038061.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le spectacle « Disney en concert – Suivez vos rêves » se tiendra le vendredi 20 novembre 2026 à 20h au Zénith Toulouse Métropole. Un orchestre symphonique (qualifié de « philharmonique » par L'Essentiel) accompagné de chanteurs et danseurs interprétera les grandes musiques des classiques Disney, projetées sur écran géant avec un show lumière. Le programme voyage de Simba à Elsa, de Vaiana à Pocahontas, en passant par Peter Pan, Aladdin et Cendrillon. Les deux médias organisent chacun un jeu-concours pour gagner des places.</summary>
-    <category term="event"/>
-    <published>2026-11-13T19:06:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:b837fb7a-254b-496a-b835-406a4116c45a</id>
-    <title>Le festival FReDD, cinéma et environnement, s'installe à Toulouse jusqu'au 20 novembre</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/lecologie-des-sentiments-photo2-1560x960-c-center.jpg"/&gt;
-&lt;p&gt;Le FReDD (Festival du Film sur le Développement Durable) tient sa nouvelle édition du 12 au 20 novembre 2026 à Toulouse et dans la région. Ce rendez-vous dédié aux questions environnementales mêle documentaires et fictions dans une programmation exigeante, avec pour marraine cette année la réalisatrice Marie-Monique Robin. L&amp;#x27;édition précédente avait attiré près de 10 000 participants, confirmant l&amp;#x27;ancrage du festival comme outil de réflexion collective. Parmi les films en compétition figurent notamment L&amp;#x27;Écologie des sentiments d&amp;#x27;Alexandre Steiger et le film d&amp;#x27;animation Le Corset de Louis Clichy.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/quand-le-cinema-vient-au-secours-de-la-planete-un-festival-pas-comme-les-autres-s-installe-a-toulouse_65035796.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/quand-le-cinema-vient-au-secours-de-la-planete-un-festival-pas-comme-les-autres-s-installe-a-toulouse_65035796.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le FReDD (Festival du Film sur le Développement Durable) tient sa nouvelle édition du 12 au 20 novembre 2026 à Toulouse et dans la région. Ce rendez-vous dédié aux questions environnementales mêle documentaires et fictions dans une programmation exigeante, avec pour marraine cette année la réalisatrice Marie-Monique Robin. L'édition précédente avait attiré près de 10 000 participants, confirmant l'ancrage du festival comme outil de réflexion collective. Parmi les films en compétition figurent notamment L'Écologie des sentiments d'Alexandre Steiger et le film d'animation Le Corset de Louis Clichy.</summary>
-    <category term="event"/>
-    <published>2026-11-13T19:26:02+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:67bb7c25-6cb6-42de-b4da-63d90be8cd5a</id>
-    <title>La Chicanerie revient à Toulouse : friperie éphémère, 600 pièces à prix mini</title>
-    <updated>2026-11-14T07:36:54.863035+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/friperie.jpg"/&gt;
-&lt;p&gt;La Chicanerie, une friperie éphémère organisée notamment par La Fringuale, fait son retour à Toulouse le dimanche 15 novembre 2026 pour un après-midi de vente de vêtements chinés. Environ 600 pièces de seconde main — sélectionnées avec soin auprès de particuliers et de structures de collecte — seront proposées à prix abordables, à la fois en intérieur et en extérieur, dans une ambiance festive. L&amp;#x27;événement se distingue du fast fashion en misant sur un circuit court et des pièces atypiques et tendance. Sur place, la coiffeuse-styliste Madame Merlin proposera des coupes de cheveux et relookings, tandis que Daquini présentera ses créations de sacs au crochet. Les visiteurs pourront également apporter des vêtements à revendre s&amp;#x27;ils souhaitent faire de la place dans leur garde-robe.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/alerte-bonnes-affaires-cette-friperie-est-de-retour-a-toulouse-et-propose-des-vetements-de-qualite-a-prix-mini_65047506.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/alerte-bonnes-affaires-cette-friperie-est-de-retour-a-toulouse-et-propose-des-vetements-de-qualite-a-prix-mini_65047506.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Chicanerie, une friperie éphémère organisée notamment par La Fringuale, fait son retour à Toulouse le dimanche 15 novembre 2026 pour un après-midi de vente de vêtements chinés. Environ 600 pièces de seconde main — sélectionnées avec soin auprès de particuliers et de structures de collecte — seront proposées à prix abordables, à la fois en intérieur et en extérieur, dans une ambiance festive. L'événement se distingue du fast fashion en misant sur un circuit court et des pièces atypiques et tendance. Sur place, la coiffeuse-styliste Madame Merlin proposera des coupes de cheveux et relookings, tandis que Daquini présentera ses créations de sacs au crochet. Les visiteurs pourront également apporter des vêtements à revendre s'ils souhaitent faire de la place dans leur garde-robe.</summary>
-    <category term="event"/>
-    <published>2026-11-14T05:06:02+01:00</published>
-  </entry>
   <entry>
     <id>cluster:d6dc8b76-31cb-4397-b4d2-248c4b427f89</id>
     <title>« Le Meilleur de l'Homme c'est sa Femme » au 3T d'À Côté</title>
@@ -828,21 +537,6 @@
     <published>2026-11-17T07:32:15.719864+00:00</published>
   </entry>
   <entry>
-    <id>cluster:aeda5e72-b3e1-4ecc-8781-cf7645af7519</id>
-    <title>Gospel, les Grands Classiques à l'église Saint-Aubin</title>
-    <updated>2026-11-17T07:34:59.879178+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/maxZitaGroupe-copie.jpg"/&gt;
-&lt;p&gt;Le directeur artistique Max Zita et son Gospel Voices Quartet proposent un concert dédié aux grands classiques du gospel et des spirituals à l&amp;#x27;église Saint-Aubin de Toulouse. L&amp;#x27;acoustique remarquable de ce lieu de culte constitue un cadre idéal pour ce répertoire de mélodies traditionnelles. Max Zita est une figure pionnière du gospel en France, ayant fondé Gospel Voices en 1988 et s&amp;#x27;étant produit dans des salles prestigieuses comme l&amp;#x27;UNESCO et le Palais des congrès, en plus d&amp;#x27;avoir été élu meilleur groupe d&amp;#x27;expression gospel par le Festival de Gospel de Paris. Le placement est libre et les billets ne sont ni échangeables ni remboursables.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/gospel-les-grands-classiques/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/gospel-les-grands-classiques/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Le directeur artistique Max Zita et son Gospel Voices Quartet proposent un concert dédié aux grands classiques du gospel et des spirituals à l'église Saint-Aubin de Toulouse. L'acoustique remarquable de ce lieu de culte constitue un cadre idéal pour ce répertoire de mélodies traditionnelles. Max Zita est une figure pionnière du gospel en France, ayant fondé Gospel Voices en 1988 et s'étant produit dans des salles prestigieuses comme l'UNESCO et le Palais des congrès, en plus d'avoir été élu meilleur groupe d'expression gospel par le Festival de Gospel de Paris. Le placement est libre et les billets ne sont ni échangeables ni remboursables.</summary>
-    <category term="event"/>
-    <published>2026-11-17T07:31:55.131948+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:176da581-ca61-4d37-9b02-da3bc60f8756</id>
     <title>150 œuvres de Dalí à l'hôtel Albert 1er pour une exposition inédite</title>
     <updated>2026-11-17T07:34:59.879178+00:00</updated>
@@ -948,23 +642,6 @@
     <summary>Une étude publiée par Tisséo collectivités et l'Agence d'urbanisme de l'aire toulousaine (AUAT) révèle que 12 millions de passages de cyclistes ont été enregistrés devant les compteurs permanents de l'agglomération en 2025. Cette hausse s'inscrit dans une tendance longue : la fréquentation du compteur au port Saint-Étienne a ainsi progressé de 113 % entre 2018 et 2025. Certains secteurs se distinguent particulièrement, avec une croissance supérieure à 15 % entre 2024 et 2025, notamment route de Saint-Simon, avenue Étienne Billières, boulevard Bonrepos et au giratoire RM63E à Cornebarrieu. La montée en puissance du vélo est attribuée à plusieurs facteurs : hausse du prix du carburant, développement des infrastructures cyclables et multiplication des stations VélÔtoulouse.</summary>
     <category term="news"/>
     <published>2026-11-17T04:46:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:efd48d44-8f99-4ad7-be1f-5ac363990a48</id>
-    <title>Manifestation du 17 novembre à Toulouse : parcours et perturbations</title>
-    <updated>2026-11-17T07:34:59.879178+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/manifestants-cgt-toulouse-gr.jpg"/&gt;
-&lt;p&gt;Ce mardi 17 novembre 2026, une grande journée de mobilisation intersyndicale se tient à Toulouse contre la vie chère, pour les salaires, les emplois et les retraites. Six syndicats — CFDT, FO, CGT, FSU, Solidaires et Unsa — appellent à la grève, avec un rassemblement prévu à 11h place Jean-Jaurès, suivi d&amp;#x27;un cortège vers Saint-Cyprien via les boulevards. Le parcours a cette fois reçu l&amp;#x27;aval de la préfecture, contrairement au 5 novembre où des incidents avaient éclaté après un bras de fer judiciaire entre syndicats et préfecture. Des perturbations importantes sont attendues sur le réseau Tisséo, avec de nombreuses lignes de bus déviées ou supprimées dès 10h, et le préfet a interdit par arrêté les rassemblements non déclarés en centre-ville de 6h à 23h59.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article est un guide pratique (parcours, revendications, contexte), tandis que le second est un direct live avec mises à jour horaires (perturbations Tisséo, situation lycées, arrêté préfectoral). Les deux divergent implicitement sur l&amp;#x27;ambiance : le guide rappelle les tensions du 5 novembre, le direct note une situation relativement calme dans les lycées en début de journée.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 1&lt;/strong&gt;: Comprendre les revendications, le parcours officiel et le contexte syndical&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – article 2 (direct)&lt;/strong&gt;: Suivre les perturbations en temps réel : bus, lycées, arrêtés préfectoraux&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/mobilisation-du-17-novembre-a-toulouse-parcours-revendications-ce-qu-il-faut-savoir_65059333.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-suivez-la-grande-journee-de-mobilisation-du-mardi-17-novembre-a-toulouse_65063375.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/mobilisation-du-17-novembre-a-toulouse-parcours-revendications-ce-qu-il-faut-savoir_65059333.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Ce mardi 17 novembre 2026, une grande journée de mobilisation intersyndicale se tient à Toulouse contre la vie chère, pour les salaires, les emplois et les retraites. Six syndicats — CFDT, FO, CGT, FSU, Solidaires et Unsa — appellent à la grève, avec un rassemblement prévu à 11h place Jean-Jaurès, suivi d'un cortège vers Saint-Cyprien via les boulevards. Le parcours a cette fois reçu l'aval de la préfecture, contrairement au 5 novembre où des incidents avaient éclaté après un bras de fer judiciaire entre syndicats et préfecture. Des perturbations importantes sont attendues sur le réseau Tisséo, avec de nombreuses lignes de bus déviées ou supprimées dès 10h, et le préfet a interdit par arrêté les rassemblements non déclarés en centre-ville de 6h à 23h59.</summary>
-    <category term="news"/>
-    <published>2026-11-16T12:47:59+01:00</published>
   </entry>
   <entry>
     <id>cluster:f9855e21-d1ac-4f97-8a37-e4547f149ed5</id>
@@ -1783,23 +1460,6 @@
     <published>2026-11-19T06:08:01+01:00</published>
   </entry>
   <entry>
-    <id>cluster:ec8a2d16-2f12-43b8-a373-7c50317f7233</id>
-    <title>Trois fusillades en cinq jours à Toulouse : six narchomicides en 2026</title>
-    <updated>2026-11-19T07:33:52.061375+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/capture-decran-2026-11-14-151548.png"/&gt;
-&lt;p&gt;En l&amp;#x27;espace de cinq jours, Toulouse a été frappée par trois épisodes de violences par armes à feu liés au trafic de stupéfiants. Dans la nuit du 13 au 14 novembre, une rafale de tirs a criblé la façade d&amp;#x27;un immeuble du quartier de La Faourette, laissant une quinzaine d&amp;#x27;impacts sans faire de blessés. La nuit suivante, à Montaudran, un jeune homme de 19 ans, connu pour des affaires de stupéfiants, est décédé après qu&amp;#x27;une voiture dans laquelle il se trouvait a été visée par deux tireurs à pied. Puis, dans la nuit du 17 au 18 novembre, un homme d&amp;#x27;une trentaine d&amp;#x27;années a été tué d&amp;#x27;une balle dans la tête sur un point de deal de la Reynerie, portant à six le nombre de narchomicides à Toulouse depuis le début de l&amp;#x27;année 2026, selon le procureur David Charmatz, qui évoque une guerre de territoire entre groupes rivaux entre la Reynerie et Bellefontaine.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les trois articles couvrent des événements distincts mais liés : le premier se concentre sur la fusillade sans victime de La Faourette, le deuxième sur le meurtre de Montaudran avec la déclaration du procureur, et le troisième contextualise l&amp;#x27;escalade annuelle en citant explicitement le bilan des six narchomicides et la guerre de territoire au Mirail.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (La Faourette)&lt;/strong&gt;: Détails de la fusillade sans blessé du 13-14 novembre et enquête ouverte&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Montaudran)&lt;/strong&gt;: Meurtre du jeune de 19 ans et déclarations du procureur sur l&amp;#x27;enquête pour meurtre en bande organisée&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Reynerie)&lt;/strong&gt;: Sixième narchomicide de l&amp;#x27;année et contexte de la guerre de territoire au Mirail&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/par-chance-personne-n-a-ete-touche-a-toulouse-un-immeuble-vise-par-des-tirs-en-rafale-en-pleine-nuit_65055923.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/nouvelle-fusillade-mortelle-a-toulouse-une-voiture-criblee-de-balles-l-un-des-occupants-decede-a-l-hopital_65056707.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-le-sixieme-narchomicide-de-l-annee-a-toulouse-un-homme-tue-d-une-balle-dans-la-tete_65069246.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/par-chance-personne-n-a-ete-touche-a-toulouse-un-immeuble-vise-par-des-tirs-en-rafale-en-pleine-nuit_65055923.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>En l'espace de cinq jours, Toulouse a été frappée par trois épisodes de violences par armes à feu liés au trafic de stupéfiants. Dans la nuit du 13 au 14 novembre, une rafale de tirs a criblé la façade d'un immeuble du quartier de La Faourette, laissant une quinzaine d'impacts sans faire de blessés. La nuit suivante, à Montaudran, un jeune homme de 19 ans, connu pour des affaires de stupéfiants, est décédé après qu'une voiture dans laquelle il se trouvait a été visée par deux tireurs à pied. Puis, dans la nuit du 17 au 18 novembre, un homme d'une trentaine d'années a été tué d'une balle dans la tête sur un point de deal de la Reynerie, portant à six le nombre de narchomicides à Toulouse depuis le début de l'année 2026, selon le procureur David Charmatz, qui évoque une guerre de territoire entre groupes rivaux entre la Reynerie et Bellefontaine.</summary>
-    <category term="news"/>
-    <published>2026-11-14T15:25:21+01:00</published>
-  </entry>
-  <entry>
     <id>cluster:4f5127d2-7c1e-4a77-92a5-da297d45ac28</id>
     <title>Blocages lycéens à Toulouse : 50 blessés, 107 interpellations, le recteur alarmé</title>
     <updated>2026-11-19T07:33:52.061375+00:00</updated>
@@ -1810,25 +1470,11 @@
 &lt;p&gt;Depuis fin septembre 2026, un mouvement de contestation lycéenne secoue Toulouse et la Haute-Garonne, avec des blocages, tirs de mortier, jets de fumigènes et incendies dans une vingtaine d&amp;#x27;établissements. Les incidents se sont intensifiés mi-novembre : le mardi 10 novembre, 13 lycées ont été concernés et les lycées Rive Gauche et Urbain-Vitry fermés ; le jeudi 12 novembre, 16 établissements étaient touchés, avec 750 élèves mobilisés, 3 blessés et 6 interpellations, et les lycées Henri-Matisse (Cugnaux) et Stéphane-Hessel fermés. Le lycée Bellevue à Toulouse a également été évacué après des tirs de mortier en milieu de journée un lundi, et annoncé fermé le lendemain. Le recteur Karim Benmiloud a tiré la sonnette d&amp;#x27;alarme le vendredi 13 novembre, qualifiant le bilan — plus de 50 blessés et 107 interpellations depuis le début du mouvement — de « particulièrement grave et sans précédent », et appelant à un retour au calme.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Les quatre articles couvrent des journées différentes (mardi 10, lundi non daté, jeudi 12 et vendredi 13 novembre) avec un niveau de détail croissant. Le dernier article synthétise l&amp;#x27;ensemble du mouvement avec la prise de parole officielle du recteur, tandis que les trois premiers restituent les incidents au jour le jour.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Mardi 10 novembre : premiers blocages, fermetures de Rive Gauche et Urbain-Vitry&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Lycée Bellevue évacué et fermé après des tirs de mortier&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Jeudi 12 novembre : bilan détaillé dans 16 lycées, 6 interpellations, 3 blessés&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Vendredi 13 novembre : bilan global, déclarations du recteur Benmiloud&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/blocages-lyceens-plus-de-50-blesses-107-interpellations-le-recteur-tire-la-sonnette-d-alarme-a-toulouse_65052302.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-situation-est-devenue-compliquee-un-lycee-de-toulouse-evacue-en-urgence-apres-des-tirs-de-mortier-et-de-petards_65062261.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/nous-avons-franchi-un-cap-quatre-eleves-blesses-apres-de-nouveaux-tirs-de-mortier-dans-un-lycee-de-toulouse_65070058.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/blocages-lyceens-plus-de-50-blesses-107-interpellations-le-recteur-tire-la-sonnette-d-alarme-a-toulouse_65052302.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/la-situation-est-devenue-compliquee-un-lycee-de-toulouse-evacue-en-urgence-apres-des-tirs-de-mortier-et-de-petards_65062261.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/nous-avons-franchi-un-cap-quatre-eleves-blesses-apres-de-nouveaux-tirs-de-mortier-dans-un-lycee-de-toulouse_65070058.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/la-situation-est-devenue-compliquee-un-lycee-de-toulouse-evacue-en-urgence-apres-des-tirs-de-mortier-et-de-petards_65062261.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>Depuis fin septembre 2026, un mouvement de contestation lycéenne secoue Toulouse et la Haute-Garonne, avec des blocages, tirs de mortier, jets de fumigènes et incendies dans une vingtaine d'établissements. Les incidents se sont intensifiés mi-novembre : le mardi 10 novembre, 13 lycées ont été concernés et les lycées Rive Gauche et Urbain-Vitry fermés ; le jeudi 12 novembre, 16 établissements étaient touchés, avec 750 élèves mobilisés, 3 blessés et 6 interpellations, et les lycées Henri-Matisse (Cugnaux) et Stéphane-Hessel fermés. Le lycée Bellevue à Toulouse a également été évacué après des tirs de mortier en milieu de journée un lundi, et annoncé fermé le lendemain. Le recteur Karim Benmiloud a tiré la sonnette d'alarme le vendredi 13 novembre, qualifiant le bilan — plus de 50 blessés et 107 interpellations depuis le début du mouvement — de « particulièrement grave et sans précédent », et appelant à un retour au calme.</summary>
     <category term="news"/>
-    <published>2026-11-13T19:14:33+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:0720176d-d44b-48df-be4d-c2e491dd8ab1</id>
-    <title>Agenda du week-end à Toulouse : festivals, opéra et Noël</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
-    <author>
-      <name>tourinsoft.com</name>
-    </author>
-    <content type="html">&lt;p&gt;La Toulouse Métropole propose un programme chargé pour le week-end des 20-22 novembre, entre festivals, spectacles et premières touches de Noël. Au programme : le Festival de BD à Colomiers (20-22 nov.), les festivals Impulsez ! (impro) et Marionnettissimo, ainsi que l&amp;#x27;opéra Peter Grimes au Théâtre du Capitole. Une visite guidée du quartier Arnaud-Bernard est prévue le samedi, tandis que le concert de Kalika (trash pop) et le spectacle de Lilia Benchabane complètent l&amp;#x27;offre culturelle. Les familles pourront aussi remonter le temps au musée Saint-Raymond le week-end.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="http://cdt31.tourinsoft.com/view.ashx?email=849e115c-dc66-45c8-b98b-d23d3f51d9c8&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;tourinsoft.com&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="http://cdt31.tourinsoft.com/view.ashx?email=849e115c-dc66-45c8-b98b-d23d3f51d9c8&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>La Toulouse Métropole propose un programme chargé pour le week-end des 20-22 novembre, entre festivals, spectacles et premières touches de Noël. Au programme : le Festival de BD à Colomiers (20-22 nov.), les festivals Impulsez ! (impro) et Marionnettissimo, ainsi que l'opéra Peter Grimes au Théâtre du Capitole. Une visite guidée du quartier Arnaud-Bernard est prévue le samedi, tandis que le concert de Kalika (trash pop) et le spectacle de Lilia Benchabane complètent l'offre culturelle. Les familles pourront aussi remonter le temps au musée Saint-Raymond le week-end.</summary>
-    <category term="news"/>
-    <published>2026-11-19T11:56:23.550000+00:00</published>
+    <published>2026-11-16T18:56:43+01:00</published>
   </entry>
   <entry>
     <id>cluster:331e059b-bef2-4609-a6ae-7b2d00691a7f</id>
@@ -1843,55 +1489,6 @@
     <summary>Du jeudi 19 au dimanche 22 novembre, Toulouse propose une programmation éclectique avec une dizaine d'événements répartis dans plusieurs salles de la ville. On y trouve du hip-hop (47Ter au Bikini), de l'électro pointue (Chloé b2b Ivan Smagghe à La Cabane), de la danse (Rocío Molina au Théâtre de la Cité), de l'opéra (Peter Grimes au Théâtre du Capitole) et un documentaire en séance unique sur 30 ans du festival Pause Guitare (Cinéma Pathé Wilson). Les entrées vont de la participation libre à 130 €, avec des formats aussi variés que le concert dessiné au Bijou ou la fête de clôture du NeufNeuf Festival.</summary>
     <category term="news"/>
     <published>2026-11-19T11:29:35.262000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:4258b2f8-926f-4063-9e73-1307f7aeafa7</id>
-    <title>Bonus</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-11-20-3?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-11-20-3?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-11-20T05:06:27.226000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:bcf13603-54cf-482b-9dcf-3dbd4de3f7d8</id>
-    <title>Zoom sur</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-11-20-2?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-11-20-2?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-11-20T05:06:27.226000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d0ed35e2-91a2-4657-92f2-7deddd63d6fa</id>
-    <title>Sur scène</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-11-20-1?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-11-20-1?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-11-20T05:06:27.226000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:2d3e4dcf-103a-4865-bab6-a454d8ae1f5b</id>
-    <title>Les festivals</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/--disney-concerts.jpg?itok=YkLz2uXh"/&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/idees-sorties/2026-11-20-0?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/idees-sorties/2026-11-20-0?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <category term="event"/>
-    <published>2026-11-20T05:06:27.226000+00:00</published>
   </entry>
   <entry>
     <id>cluster:b0df62e8-03f9-4991-b27c-86d2b34b7a37</id>
@@ -1950,21 +1547,6 @@
 &lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-20?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55899"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
     <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-20?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55899"/>
     <summary>Pour sa 5e édition, le festival SYNCHRO retrouve la Cinémathèque de Toulouse récemment rénovée, après deux éditions hors les murs. Jusqu'au 29 novembre à Toulouse puis jusqu'au 13 décembre en tournée régionale (Albi, Marciac, Foix, Tournefeuille, Roques), plus d'une soixantaine de séances feront revivre le cinéma muet accompagné de musiciens en direct. Le film d'ouverture est L'Aurore de Murnau au piano par Maud Nelissen, et la clôture toulousaine mettra à l'honneur Les Ailes (Wings, 1927), premier Oscar du meilleur film de l'histoire, avec Karol Beffa au piano. Nouveauté de cette édition : cinq ciné-concerts en entrée libre sont proposés en salle 2 (le Studio), du lundi au vendredi à 19h, autour de formats courts et expérimentaux.</summary>
-    <category term="event"/>
-    <published>2026-11-20T05:06:27.226000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:07e74ca4-eb40-49f2-b933-4d2f9913c333</id>
-    <title>Festival BD de Colomiers : 150 auteurs, 60 éditeurs indépendants</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/copie-de-bd26-couverture_facebook-1_0.jpg?h=2edc9bd2&amp;amp;itok=K86rA2DQ"/&gt;
-&lt;p&gt;Le festival de la bande dessinée de Colomiers se tient du 20 au 22 novembre avec 60 maisons d&amp;#x27;édition et plus de 150 auteurs et autrices investissant toute la ville. Au programme : dédicaces, ateliers, spectacles, projections de films d&amp;#x27;animation au cinéma Véo Grand Central, et une masterclass du dessinateur américain Chris Ware. Plusieurs expositions sont réparties dans différents lieux : rétrospective Olivier Schrauwen au Hall Comminges, Michael DeForge et Camille Potte à l&amp;#x27;espace Lucien-Blazy, et « Profondeur de champ » au Pavillon blanc. Le festival s&amp;#x27;étend aussi hors les murs avec des partenariats au Centre d&amp;#x27;initiatives artistiques du Mirail, à Odyssud et au Muséum de Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-20?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55898"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-20?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55898"/>
-    <summary>Le festival de la bande dessinée de Colomiers se tient du 20 au 22 novembre avec 60 maisons d'édition et plus de 150 auteurs et autrices investissant toute la ville. Au programme : dédicaces, ateliers, spectacles, projections de films d'animation au cinéma Véo Grand Central, et une masterclass du dessinateur américain Chris Ware. Plusieurs expositions sont réparties dans différents lieux : rétrospective Olivier Schrauwen au Hall Comminges, Michael DeForge et Camille Potte à l'espace Lucien-Blazy, et « Profondeur de champ » au Pavillon blanc. Le festival s'étend aussi hors les murs avec des partenariats au Centre d'initiatives artistiques du Mirail, à Odyssud et au Muséum de Toulouse.</summary>
     <category term="event"/>
     <published>2026-11-20T05:06:27.226000+00:00</published>
   </entry>
@@ -2164,21 +1746,6 @@
     <published>2026-11-20T07:32:39.080918+00:00</published>
   </entry>
   <entry>
-    <id>cluster:9e9e957c-5f2b-4b35-9179-022836069f29</id>
-    <title>Visite guidée de l'exposition Joan Miró aux Abattoirs</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
-    <author>
-      <name>office_tourisme</name>
-    </author>
-    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/VISITES-GUIDEES-MIRO-2.jpg"/&gt;
-&lt;p&gt;Les Abattoirs proposent une visite guidée de leur exposition consacrée à Joan Miró, intitulée « Protestation ». L&amp;#x27;exposition rassemble près de deux cents œuvres et adopte un angle inédit : mettre en lumière la protestation comme moteur central du processus artistique de Miró. C&amp;#x27;est une occasion rare d&amp;#x27;explorer l&amp;#x27;engagement politique et subversif d&amp;#x27;un des grands maîtres du surréalisme à travers une sélection d&amp;#x27;œuvres particulièrement dense. La visite guidée est prévue le 2 décembre 2026 aux Abattoirs, musée d&amp;#x27;art moderne et contemporain de Toulouse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/joan-miro-protestation-visite-guidee/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.toulouse-tourisme.com/agenda/joan-miro-protestation-visite-guidee/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les Abattoirs proposent une visite guidée de leur exposition consacrée à Joan Miró, intitulée « Protestation ». L'exposition rassemble près de deux cents œuvres et adopte un angle inédit : mettre en lumière la protestation comme moteur central du processus artistique de Miró. C'est une occasion rare d'explorer l'engagement politique et subversif d'un des grands maîtres du surréalisme à travers une sélection d'œuvres particulièrement dense. La visite guidée est prévue le 2 décembre 2026 aux Abattoirs, musée d'art moderne et contemporain de Toulouse.</summary>
-    <category term="event"/>
-    <published>2026-11-20T07:32:18.285953+00:00</published>
-  </entry>
-  <entry>
     <id>cluster:56d2598d-d340-48b0-821f-0d20052f2bbf</id>
     <title>Marché Solidaire de Noël chez Artisans du Monde Toulouse</title>
     <updated>2026-11-20T07:35:48.361807+00:00</updated>
@@ -2254,6 +1821,23 @@
     <published>2026-11-19T12:52:01+01:00</published>
   </entry>
   <entry>
+    <id>cluster:87f2e219-0017-4c67-b650-da5bb4568eae</id>
+    <title>Gilets jaunes actes V et VI : mobilisations à Toulouse en novembre</title>
+    <updated>2026-11-20T07:35:48.361807+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/img-0169.jpg"/&gt;
+&lt;p&gt;Les actes V (14 novembre) et VI (21 novembre) des Gilets jaunes se succèdent à Toulouse, avec des rassemblements en centre-ville autour de Jean-Jaurès. L&amp;#x27;acte V se distingue par la coexistence de deux mobilisations distinctes : un rassemblement non autorisé des Gilets jaunes à 14h et une marche pour le climat, autorisée celle-là, partant à 11h depuis les allées Jean-Jaurès jusqu&amp;#x27;à la place Arnaud-Bernard. L&amp;#x27;acte IV avait réuni 5 000 personnes et donné lieu à des débordements à Marengo et Jolimont, avec 24 interpellations. Pour l&amp;#x27;acte VI, les organisateurs annoncent un « changement de stratégie » avec deux points de départ simultanés — métro Esquirol et Jean-Jaurès — pour maximiser la présence dans le centre-ville.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article s&amp;#x27;interroge sur la légalité et la cohabitation des manifestations du 14 novembre ; le second se concentre sur la tactique de mobilisation annoncée pour le 21 novembre, citant directement les appels publiés sur les réseaux sociaux des Gilets jaunes toulousains.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Acte V)&lt;/strong&gt;: Contexte légal, convergence avec la marche pour le climat et risques de confusion le 14 novembre&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Acte VI)&lt;/strong&gt;: Stratégie des manifestants et double point de rassemblement le 21 novembre&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/attention-changement-de-strategie-a-quoi-s-attendre-pour-l-acte-vi-des-gilets-jaunes-du-21-novembre-a-toulouse_65075478.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/attention-changement-de-strategie-a-quoi-s-attendre-pour-l-acte-vi-des-gilets-jaunes-du-21-novembre-a-toulouse_65075478.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les actes V (14 novembre) et VI (21 novembre) des Gilets jaunes se succèdent à Toulouse, avec des rassemblements en centre-ville autour de Jean-Jaurès. L'acte V se distingue par la coexistence de deux mobilisations distinctes : un rassemblement non autorisé des Gilets jaunes à 14h et une marche pour le climat, autorisée celle-là, partant à 11h depuis les allées Jean-Jaurès jusqu'à la place Arnaud-Bernard. L'acte IV avait réuni 5 000 personnes et donné lieu à des débordements à Marengo et Jolimont, avec 24 interpellations. Pour l'acte VI, les organisateurs annoncent un « changement de stratégie » avec deux points de départ simultanés — métro Esquirol et Jean-Jaurès — pour maximiser la présence dans le centre-ville.</summary>
+    <category term="news"/>
+    <published>2026-11-19T18:00:35+01:00</published>
+  </entry>
+  <entry>
     <id>cluster:ced39c1c-6cef-4851-b79a-7eb06192c748</id>
     <title>Peter Grimes de Britten au Théâtre du Capitole de Toulouse</title>
     <updated>2026-11-20T07:35:48.361807+00:00</updated>
@@ -2314,23 +1898,6 @@
     <published>2026-11-20T06:12:02+01:00</published>
   </entry>
   <entry>
-    <id>cluster:7b73417e-4aec-4485-940b-59bd886e53ff</id>
-    <title>Narcotrafic à Toulouse : six homicides, vidéo virale et campagne choc</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/capture-armes-toulouse-1.jpg"/&gt;
-&lt;p&gt;Toulouse a enregistré son sixième « narchomicide » de l&amp;#x27;année dans la nuit du 17 au 18 novembre 2026, quartier de la Reynerie, trois jours après un premier meurtre à Montaudran — deux victimes en l&amp;#x27;espace d&amp;#x27;un week-end dans des règlements de comptes liés au trafic de stupéfiants. Le procureur David Charmatz et le directeur de la police nationale de Haute-Garonne ont tenu une conférence de presse le 19 novembre, pointant une guerre de territoire entre groupes rivaux autour des points de deal de la Reynerie et de Bellefontaine, avec des profils de plus en plus jeunes et davantage d&amp;#x27;armes. En parallèle, une vidéo d&amp;#x27;environ 13 minutes publiée sur YouTube le 11 novembre par le créateur de contenu britannique Sai So, intitulée « Le quartier le plus dangereux de France », montrant des hommes armés et cagoulés sur un point de deal de la Reynerie, a été largement partagée sur les réseaux sociaux et alimente le débat. Le gouvernement a également lancé une campagne nationale de sensibilisation anti-narcotrafic, visible sur les tramways toulousains et blagnacais, avec des slogans tels que « Certains rails mènent tout droit aux urgences ».&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Actu Toulouse couvre trois angles distincts du même contexte : la conférence de presse institutionnelle (chiffres, profils, stratégie policière), la vidéo virale du YouTubeur britannique (dimension médiatique et terrain), et la campagne d&amp;#x27;affichage gouvernementale sur le tramway (prévention). Les trois éclairent la même montée de violence, mais sans se contredire.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – conférence de presse&lt;/strong&gt;: Déclarations officielles du procureur et de la police : chiffres, profils des trafiquants, stratégie&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – vidéo Sai So&lt;/strong&gt;: Contexte de la vidéo virale et témoignage du créateur de contenu britannique&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – campagne tramway&lt;/strong&gt;: Campagne gouvernementale de sensibilisation et résonance avec l&amp;#x27;actualité locale&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-quartier-le-plus-dangereux-de-france-la-video-sulfureuse-d-un-anglais-sur-un-point-de-deal-a-toulouse-fait-reagir_65073674.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-police-et-justice-reagissent-apres-les-deux-morts-en-trois-jours-liees-au-trafic-de-stupefiants_65076719.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/certains-rails-menent-tout-droit-aux-urgences-c-est-quoi-ces-affiches-choc-sur-le-tramway-a-toulouse_65077925.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/le-quartier-le-plus-dangereux-de-france-la-video-sulfureuse-d-un-anglais-sur-un-point-de-deal-a-toulouse-fait-reagir_65073674.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Toulouse a enregistré son sixième « narchomicide » de l'année dans la nuit du 17 au 18 novembre 2026, quartier de la Reynerie, trois jours après un premier meurtre à Montaudran — deux victimes en l'espace d'un week-end dans des règlements de comptes liés au trafic de stupéfiants. Le procureur David Charmatz et le directeur de la police nationale de Haute-Garonne ont tenu une conférence de presse le 19 novembre, pointant une guerre de territoire entre groupes rivaux autour des points de deal de la Reynerie et de Bellefontaine, avec des profils de plus en plus jeunes et davantage d'armes. En parallèle, une vidéo d'environ 13 minutes publiée sur YouTube le 11 novembre par le créateur de contenu britannique Sai So, intitulée « Le quartier le plus dangereux de France », montrant des hommes armés et cagoulés sur un point de deal de la Reynerie, a été largement partagée sur les réseaux sociaux et alimente le débat. Le gouvernement a également lancé une campagne nationale de sensibilisation anti-narcotrafic, visible sur les tramways toulousains et blagnacais, avec des slogans tels que « Certains rails mènent tout droit aux urgences ».</summary>
-    <category term="news"/>
-    <published>2026-11-18T19:36:43+01:00</published>
-  </entry>
-  <entry>
     <id>cluster:3404b875-4a6b-4055-b909-a188a634fa92</id>
     <title>La bûche du Capitole de Barrelle : 380 exemplaires à 90 euros pour la prématurité</title>
     <updated>2026-11-20T07:35:48.361807+00:00</updated>
@@ -2348,20 +1915,317 @@
     <published>2026-11-17T12:54:33+01:00</published>
   </entry>
   <entry>
-    <id>cluster:87f2e219-0017-4c67-b650-da5bb4568eae</id>
-    <title>Gilets jaunes actes V et VI : mobilisations à Toulouse en novembre</title>
-    <updated>2026-11-20T07:35:48.361807+00:00</updated>
+    <id>cluster:504a106d-d3bb-4c56-aa9e-8ec5c69dee95</id>
+    <title>Noga Erez en concert au Bikini de Ramonville</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/6f3/cd64cdc5-09fa-4c1f-9e46-b8afdbb646f3_SOURCE"/&gt;
+&lt;p&gt;L&amp;#x27;artiste israélienne Noga Erez se produira au Bikini, à Ramonville-Saint-Agne, le 24 mai 2027. Reconnue pour son style pop électronique aux textes engagés et à l&amp;#x27;énergie scénique percutante, elle attire un public de plus en plus large en Europe. Le Bikini, salle de référence de la scène musicale toulousaine, accueille ce concert dans sa programmation pop-électro. Les amateurs de pop alternative et de musique à forte identité visuelle seront particulièrement concernés.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/noga-erez-billet/idmanif/677404/idseance/4451355?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/noga-erez-billet/idmanif/677404/idseance/4451355?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'artiste israélienne Noga Erez se produira au Bikini, à Ramonville-Saint-Agne, le 24 mai 2027. Reconnue pour son style pop électronique aux textes engagés et à l'énergie scénique percutante, elle attire un public de plus en plus large en Europe. Le Bikini, salle de référence de la scène musicale toulousaine, accueille ce concert dans sa programmation pop-électro. Les amateurs de pop alternative et de musique à forte identité visuelle seront particulièrement concernés.</summary>
+    <category term="event"/>
+    <published>2026-11-21T07:35:24.792057+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f8e05de0-ca66-413f-aa4a-99f64459a6f8</id>
+    <title>Houria Les Yeux Verts en spectacle au Casino Barrière</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
+&lt;p&gt;Le spectacle comique Houria Les Yeux Verts est programmé au Casino Barrière de Toulouse le 8 mai 2027. Il s&amp;#x27;agit d&amp;#x27;un one-woman show ou spectacle d&amp;#x27;humour classé dans la catégorie Arts &amp;amp; Théâtre / Comédie. L&amp;#x27;événement se tient dans la salle de spectacle du Casino Barrière, une adresse habituée aux productions scéniques dans la métropole toulousaine. Les amateurs de comédie et de spectacle vivant sont le public visé.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/houria-les-yeux-verts-billet/idmanif/676934/idseance/4445669?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/houria-les-yeux-verts-billet/idmanif/676934/idseance/4445669?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le spectacle comique Houria Les Yeux Verts est programmé au Casino Barrière de Toulouse le 8 mai 2027. Il s'agit d'un one-woman show ou spectacle d'humour classé dans la catégorie Arts &amp; Théâtre / Comédie. L'événement se tient dans la salle de spectacle du Casino Barrière, une adresse habituée aux productions scéniques dans la métropole toulousaine. Les amateurs de comédie et de spectacle vivant sont le public visé.</summary>
+    <category term="event"/>
+    <published>2026-11-21T07:35:24.791938+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9edce462-e92e-41c2-b735-6e18cc4c0578</id>
+    <title>JAIN en concert au Bikini à Ramonville</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/a/b94/9c5383ff-d0ff-4b32-afd2-a618dd758b94_SOURCE"/&gt;
+&lt;p&gt;La chanteuse française JAIN se produira au Bikini à Ramonville-Saint-Agne le 22 avril 2027. Le concert s&amp;#x27;inscrit dans une tournée musicale classée dans le registre rock/pop. Le Bikini est l&amp;#x27;une des salles de concert incontournables de l&amp;#x27;agglomération toulousaine, réputée pour accueillir des artistes nationaux et internationaux. Les fans de JAIN dans la région toulousaine auront donc rendez-vous dans cette salle emblématique.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/jain-billet/idmanif/671843/idseance/4463290?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/jain-billet/idmanif/671843/idseance/4463290?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La chanteuse française JAIN se produira au Bikini à Ramonville-Saint-Agne le 22 avril 2027. Le concert s'inscrit dans une tournée musicale classée dans le registre rock/pop. Le Bikini est l'une des salles de concert incontournables de l'agglomération toulousaine, réputée pour accueillir des artistes nationaux et internationaux. Les fans de JAIN dans la région toulousaine auront donc rendez-vous dans cette salle emblématique.</summary>
+    <category term="event"/>
+    <published>2026-11-21T07:35:24.791742+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:abf00331-5279-4cd8-8f64-60a2eccb20f4</id>
+    <title>Dudley Tournesol en spectacle au 3T D'À Côté</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>ticketmaster</name>
+    </author>
+    <content type="html">&lt;img src="https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"/&gt;
+&lt;p&gt;Le spectacle « Dudley Tournesol » est programmé au 3T D&amp;#x27;À Côté, salle de théâtre toulousaine. L&amp;#x27;événement est référencé dans la catégorie Arts &amp;amp; Théâtre sur Ticketmaster. La date annoncée est le 5 mars 2027. Les détails sur le contenu du spectacle, la distribution ou la durée ne sont pas disponibles dans les informations fournies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.ticketmaster.fr/fr/manifestation/dudley-tournesol-billet/idmanif/679253/idseance/4462392?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;ticketmaster&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.ticketmaster.fr/fr/manifestation/dudley-tournesol-billet/idmanif/679253/idseance/4462392?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le spectacle « Dudley Tournesol » est programmé au 3T D'À Côté, salle de théâtre toulousaine. L'événement est référencé dans la catégorie Arts &amp; Théâtre sur Ticketmaster. La date annoncée est le 5 mars 2027. Les détails sur le contenu du spectacle, la distribution ou la durée ne sont pas disponibles dans les informations fournies.</summary>
+    <category term="event"/>
+    <published>2026-11-21T07:35:23.782487+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:2cc106e2-5834-4d40-af37-6e6f862f7b0b</id>
+    <title>Visite guidée « Toulouse : l'Essentiel » par l'Office de Tourisme</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/Hotel-particulier-Jean-de-Bernuy---Remi-Deligeon--2--copie.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;Office de Tourisme de Toulouse propose une visite guidée conçue pour les primo-visiteurs souhaitant découvrir les incontournables de la ville rose. Le parcours débute place du Capitole avant de plonger dans l&amp;#x27;église des Jacobins, joyau gothique des XIIIe-XIVe siècles. Les participants entrent également dans deux hôtels particuliers Renaissance — les hôtels Bernuy et d&amp;#x27;Assézat — témoins de la prospérité liée au commerce du pastel après l&amp;#x27;incendie de 1463. La visite se conclut en flânant le long de la Garonne et dans les ruelles du quartier marchand autour du Capitole.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/toulouse-lessentiel/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/toulouse-lessentiel/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'Office de Tourisme de Toulouse propose une visite guidée conçue pour les primo-visiteurs souhaitant découvrir les incontournables de la ville rose. Le parcours débute place du Capitole avant de plonger dans l'église des Jacobins, joyau gothique des XIIIe-XIVe siècles. Les participants entrent également dans deux hôtels particuliers Renaissance — les hôtels Bernuy et d'Assézat — témoins de la prospérité liée au commerce du pastel après l'incendie de 1463. La visite se conclut en flânant le long de la Garonne et dans les ruelles du quartier marchand autour du Capitole.</summary>
+    <category term="event"/>
+    <published>2026-11-21T07:33:56.426565+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b3de71d7-a031-4d41-8181-df271f3bebad</id>
+    <title>« Je Gère » : spectacle immersif sur la prostitution des mineurs au Grand Rond</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/JE-GERE-GRAND-ROND.jpg"/&gt;
+&lt;p&gt;La compagnie Haute Envolée présente « Je Gère », un spectacle immersif abordant la prostitution des mineurs, au Théâtre du Grand Rond du 26 au 28 novembre 2026. Deux enquêtrices plongent dans des archives et journaux intimes pour reconstituer une réalité crue, mêlant questions sur l&amp;#x27;intime, la sexualité et la gestion de soi. La mise en scène joue sur les sens — décors, ambiance sonore et lumières — pour immerger le public dans l&amp;#x27;histoire. Déjà remarqué au festival TAPAGES puis à l&amp;#x27;Espace Roguet, le spectacle est chaleureusement recommandé par l&amp;#x27;Office du Tourisme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/je-gere-2/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/je-gere-2/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La compagnie Haute Envolée présente « Je Gère », un spectacle immersif abordant la prostitution des mineurs, au Théâtre du Grand Rond du 26 au 28 novembre 2026. Deux enquêtrices plongent dans des archives et journaux intimes pour reconstituer une réalité crue, mêlant questions sur l'intime, la sexualité et la gestion de soi. La mise en scène joue sur les sens — décors, ambiance sonore et lumières — pour immerger le public dans l'histoire. Déjà remarqué au festival TAPAGES puis à l'Espace Roguet, le spectacle est chaleureusement recommandé par l'Office du Tourisme.</summary>
+    <category term="event"/>
+    <published>2026-11-21T07:32:53.428932+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff</id>
+    <title>Marché de Noël place Antonin Froidure avec spectacles et père Noël</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/MARCHE-DE-NOEL-19.jpg"/&gt;
+&lt;p&gt;Un marché de Noël est organisé place Antonin Froidure le 16 décembre 2026. La programmation de l&amp;#x27;après-midi débute à 15h avec le spectacle déambulatoire « Chimères du vent » de la troupe Envers du Monde, un show féerique et participatif mêlant bulles de savon et musique. Une mini ferme pédagogique, une visite du père Noël offerte par la mairie et une lecture de contes par la médiathèque Danielle Damin complètent l&amp;#x27;événement. Des tables de coloriage seront également disponibles, ce qui en fait une sortie idéale pour les familles avec enfants.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/marche-de-noel-2/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/marche-de-noel-2/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Un marché de Noël est organisé place Antonin Froidure le 16 décembre 2026. La programmation de l'après-midi débute à 15h avec le spectacle déambulatoire « Chimères du vent » de la troupe Envers du Monde, un show féerique et participatif mêlant bulles de savon et musique. Une mini ferme pédagogique, une visite du père Noël offerte par la mairie et une lecture de contes par la médiathèque Danielle Damin complètent l'événement. Des tables de coloriage seront également disponibles, ce qui en fait une sortie idéale pour les familles avec enfants.</summary>
+    <category term="event"/>
+    <published>2026-11-21T07:32:32.399686+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:d3b7596f-0348-4dd3-8482-946513d6488e</id>
+    <title>Exposition Terrains Vagues à la Chapelle des Cordeliers</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/EXPO-TERRAINS-VAGUES-2.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;exposition « Terrains Vagues » investit la Chapelle des Cordeliers du 3 au 19 décembre 2026. Elle réunit des œuvres à la croisée du graffiti, de l&amp;#x27;intervention urbaine et de l&amp;#x27;art contemporain, explorant ce que les artistes appellent le « Post-Vandalism » — une démarche qui détourne les codes du graffiti pour en faire un langage artistique à part entière. Le parcours mêle peintures, photographies, sculptures et assemblages autour de la mémoire des lieux et de la liberté du geste. Le vernissage se tient le 3 décembre de 18h à 21h, en présence des artistes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/terrains-vagues/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/terrains-vagues/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'exposition « Terrains Vagues » investit la Chapelle des Cordeliers du 3 au 19 décembre 2026. Elle réunit des œuvres à la croisée du graffiti, de l'intervention urbaine et de l'art contemporain, explorant ce que les artistes appellent le « Post-Vandalism » — une démarche qui détourne les codes du graffiti pour en faire un langage artistique à part entière. Le parcours mêle peintures, photographies, sculptures et assemblages autour de la mémoire des lieux et de la liberté du geste. Le vernissage se tient le 3 décembre de 18h à 21h, en présence des artistes.</summary>
+    <category term="event"/>
+    <published>2026-11-21T07:32:10.527955+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:75ce0393-2863-43d7-8b6a-85573b8baf61</id>
+    <title>18 itinéraires vélo méconnus pour explorer Toulouse et la Haute-Garonne</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6afca6eeef2a64af9c08551e/hd/image.jpg?v=2"/&gt;
+&lt;p&gt;L&amp;#x27;Office de tourisme de Toulouse et le Comité départemental du tourisme de la Haute-Garonne lancent une brochure gratuite proposant 18 itinéraires cyclistes pour découvrir la région autrement. Les parcours couvrent une grande diversité de paysages : bords de Garonne et canaux, coteaux toulousains, vignoble de Fronton, Lauragais, Volvestre, Comminges et jusqu&amp;#x27;aux Pyrénées. Accessibles à tous les niveaux — du cycliste du dimanche au plus aguerri — les circuits sont praticables avec différents types de vélos. Une attention particulière a été portée à la durabilité : les points de départ et d&amp;#x27;arrivée sont organisés pour permettre de combiner vélo et train, favorisant un tourisme plus vert.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/11/20/18-balades-meconnues-a-velo-pour-decouvrir-toulouse-et-la-haute-garonne-autrement-13657515.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/11/20/18-balades-meconnues-a-velo-pour-decouvrir-toulouse-et-la-haute-garonne-autrement-13657515.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'Office de tourisme de Toulouse et le Comité départemental du tourisme de la Haute-Garonne lancent une brochure gratuite proposant 18 itinéraires cyclistes pour découvrir la région autrement. Les parcours couvrent une grande diversité de paysages : bords de Garonne et canaux, coteaux toulousains, vignoble de Fronton, Lauragais, Volvestre, Comminges et jusqu'aux Pyrénées. Accessibles à tous les niveaux — du cycliste du dimanche au plus aguerri — les circuits sont praticables avec différents types de vélos. Une attention particulière a été portée à la durabilité : les points de départ et d'arrivée sont organisés pour permettre de combiner vélo et train, favorisant un tourisme plus vert.</summary>
+    <category term="news"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:49b31db9-2bc9-4d5b-a68a-e32c9d78d973</id>
+    <title>Tabac de contrebande et feux d'artifice saisis dans trois commerces à Muret</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
     <author>
       <name>actu_toulouse</name>
     </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/img-0169.jpg"/&gt;
-&lt;p&gt;Les actes V (14 novembre) et VI (21 novembre) des Gilets jaunes se succèdent à Toulouse, avec des rassemblements en centre-ville autour de Jean-Jaurès. L&amp;#x27;acte V se distingue par la coexistence de deux mobilisations distinctes : un rassemblement non autorisé des Gilets jaunes à 14h et une marche pour le climat, autorisée celle-là, partant à 11h depuis les allées Jean-Jaurès jusqu&amp;#x27;à la place Arnaud-Bernard. L&amp;#x27;acte IV avait réuni 5 000 personnes et donné lieu à des débordements à Marengo et Jolimont, avec 24 interpellations. Pour l&amp;#x27;acte VI, les organisateurs annoncent un « changement de stratégie » avec deux points de départ simultanés — métro Esquirol et Jean-Jaurès — pour maximiser la présence dans le centre-ville.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article s&amp;#x27;interroge sur la légalité et la cohabitation des manifestations du 14 novembre ; le second se concentre sur la tactique de mobilisation annoncée pour le 21 novembre, citant directement les appels publiés sur les réseaux sociaux des Gilets jaunes toulousains.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Acte V)&lt;/strong&gt;: Contexte légal, convergence avec la marche pour le climat et risques de confusion le 14 novembre&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (Acte VI)&lt;/strong&gt;: Stratégie des manifestants et double point de rassemblement le 21 novembre&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/acte-v-des-gilets-jaunes-et-marche-pour-le-climat-un-appel-a-la-convergence-vers-un-samedi-de-confusion-a-toulouse_65048205.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/attention-changement-de-strategie-a-quoi-s-attendre-pour-l-acte-vi-des-gilets-jaunes-du-21-novembre-a-toulouse_65075478.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/acte-v-des-gilets-jaunes-et-marche-pour-le-climat-un-appel-a-la-convergence-vers-un-samedi-de-confusion-a-toulouse_65048205.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Les actes V (14 novembre) et VI (21 novembre) des Gilets jaunes se succèdent à Toulouse, avec des rassemblements en centre-ville autour de Jean-Jaurès. L'acte V se distingue par la coexistence de deux mobilisations distinctes : un rassemblement non autorisé des Gilets jaunes à 14h et une marche pour le climat, autorisée celle-là, partant à 11h depuis les allées Jean-Jaurès jusqu'à la place Arnaud-Bernard. L'acte IV avait réuni 5 000 personnes et donné lieu à des débordements à Marengo et Jolimont, avec 24 interpellations. Pour l'acte VI, les organisateurs annoncent un « changement de stratégie » avec deux points de départ simultanés — métro Esquirol et Jean-Jaurès — pour maximiser la présence dans le centre-ville.</summary>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/1-5.jpg"/&gt;
+&lt;p&gt;Les douanes de Toulouse ont mené une opération d&amp;#x27;envergure en octobre dernier à Muret, mobilisant 180 agents des douanes, de la police et de la gendarmerie. Trois commerces ont été contrôlés : deux épiceries et un restaurant. Dans le restaurant, du tabac à chicha d&amp;#x27;origine étrangère a été saisi ; l&amp;#x27;établissement avait déjà reçu un avertissement en 2022 et fait désormais l&amp;#x27;objet d&amp;#x27;une demande de fermeture administrative auprès de la sous-préfecture de Muret. Dans les deux épiceries, les agents ont confisqué des chandelles romaines, des feux d&amp;#x27;artifice dont la vente est actuellement interdite dans le département.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/grosse-operation-des-douanes-deux-epiceries-et-un-restaurant-ont-ete-pris-la-main-dans-le-sac-pres-de-toulouse_65079819.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/grosse-operation-des-douanes-deux-epiceries-et-un-restaurant-ont-ete-pris-la-main-dans-le-sac-pres-de-toulouse_65079819.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les douanes de Toulouse ont mené une opération d'envergure en octobre dernier à Muret, mobilisant 180 agents des douanes, de la police et de la gendarmerie. Trois commerces ont été contrôlés : deux épiceries et un restaurant. Dans le restaurant, du tabac à chicha d'origine étrangère a été saisi ; l'établissement avait déjà reçu un avertissement en 2022 et fait désormais l'objet d'une demande de fermeture administrative auprès de la sous-préfecture de Muret. Dans les deux épiceries, les agents ont confisqué des chandelles romaines, des feux d'artifice dont la vente est actuellement interdite dans le département.</summary>
     <category term="news"/>
-    <published>2026-11-13T12:53:05+01:00</published>
+    <published>2026-11-20T11:54:06+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:181ccf4c-7c91-44df-bf36-5cf7fcb0c7e8</id>
+    <title>Exercice incendie fictif mobilise 118 pompiers gare Matabiau</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/matabiau-pompiers-toulouse-exercice.jpeg"/&gt;
+&lt;p&gt;Vendredi 20 novembre 2026 au matin, les voyageurs ont découvert des camions de pompiers et un périmètre de sécurité devant la gare Matabiau — mais sans aucun incendie réel. Il s&amp;#x27;agissait d&amp;#x27;un exercice de terrain grandeur nature, avec des images générées par intelligence artificielle simulant la gare en feu projetées sur les écrans du poste de commandement. Le scénario fictif impliquait 2 000 voyageurs évacués, un feu de combles au 4e étage, l&amp;#x27;interruption du trafic ferroviaire et la fermeture de la station de métro. Au total, 118 sapeurs-pompiers étaient mobilisés pour cet exercice, l&amp;#x27;un des deux du genre organisés chaque année.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/matabiau-brule-t-elle-les-pompiers-se-sont-deployes-devant-la-gare-de-toulouse-vendredi-voici-pourquoi_65080905.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/matabiau-brule-t-elle-les-pompiers-se-sont-deployes-devant-la-gare-de-toulouse-vendredi-voici-pourquoi_65080905.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Vendredi 20 novembre 2026 au matin, les voyageurs ont découvert des camions de pompiers et un périmètre de sécurité devant la gare Matabiau — mais sans aucun incendie réel. Il s'agissait d'un exercice de terrain grandeur nature, avec des images générées par intelligence artificielle simulant la gare en feu projetées sur les écrans du poste de commandement. Le scénario fictif impliquait 2 000 voyageurs évacués, un feu de combles au 4e étage, l'interruption du trafic ferroviaire et la fermeture de la station de métro. Au total, 118 sapeurs-pompiers étaient mobilisés pour cet exercice, l'un des deux du genre organisés chaque année.</summary>
+    <category term="news"/>
+    <published>2026-11-20T15:24:49+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:02c7e424-c731-4fd9-b8e8-694168d5c361</id>
+    <title>La Philharmonie de Toulouse s'implantera à Montaudran, 2200 places</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/20261120-145429.jpg"/&gt;
+&lt;p&gt;Jean-Luc Moudenc a officiellement confirmé lors d&amp;#x27;une conférence de presse le 20 novembre 2026 que la future Philharmonie de Toulouse sera construite à Montaudran, dans le sud-est de la ville. L&amp;#x27;équipement, longtemps envisagé dans l&amp;#x27;ex-prison Saint-Michel avant que ce projet soit abandonné, sera situé à proximité des Ateliers du Capitole et d&amp;#x27;une future station de métro. Avec ses 2200 places, la salle viendra compléter un « quartier culturel » qui regroupe déjà la Halle de la Machine, l&amp;#x27;Envol des Pionniers et les Ateliers du Capitole. Ce projet métropolitain s&amp;#x27;inscrit dans une dynamique de développement urbain et culturel d&amp;#x27;un secteur en pleine transformation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/jean-luc-moudenc-devoile-son-projet-de-philarmonie-de-toulouse-voici-les-details-sur-ce-bijou-de-2200-places_65083562.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/jean-luc-moudenc-devoile-son-projet-de-philarmonie-de-toulouse-voici-les-details-sur-ce-bijou-de-2200-places_65083562.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Jean-Luc Moudenc a officiellement confirmé lors d'une conférence de presse le 20 novembre 2026 que la future Philharmonie de Toulouse sera construite à Montaudran, dans le sud-est de la ville. L'équipement, longtemps envisagé dans l'ex-prison Saint-Michel avant que ce projet soit abandonné, sera situé à proximité des Ateliers du Capitole et d'une future station de métro. Avec ses 2200 places, la salle viendra compléter un « quartier culturel » qui regroupe déjà la Halle de la Machine, l'Envol des Pionniers et les Ateliers du Capitole. Ce projet métropolitain s'inscrit dans une dynamique de développement urbain et culturel d'un secteur en pleine transformation.</summary>
+    <category term="news"/>
+    <published>2026-11-20T19:01:34+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:38be8c44-8d6b-4ab1-8b33-ff2ad4987b01</id>
+    <title>La tour Altiplano de Montaudran bientôt deuxième plus haute de Toulouse</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/la-tour-altiplano-a-toulouse-3.jpg"/&gt;
+&lt;p&gt;La tour Altiplano, en construction à Montaudran près de la Piste des géants, s&amp;#x27;apprête à devenir la deuxième plus haute tour de Toulouse avec près de 65 mètres de hauteur. Elle ne serait dépassée que par la Tour du Parc de Bagatelle, à seulement deux mètres près, et rivalise presque avec le clocher de la basilique Saint-Sernin. Les travaux, lancés en avril 2025, progressent rapidement grâce à une construction hors site pour les façades et les salles de bains, et à une ossature en bois qui accélère le montage. Le bâtiment, qui s&amp;#x27;étendra sur plus de 18 000 m², transforme déjà la silhouette du quartier, visible depuis le périphérique Est et Sud.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cette-tour-sera-bientot-l-une-des-plus-hautes-de-toulouse-elle-pousse-a-vitesse-grand-v-et-change-deja-le-paysage_65080767.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/cette-tour-sera-bientot-l-une-des-plus-hautes-de-toulouse-elle-pousse-a-vitesse-grand-v-et-change-deja-le-paysage_65080767.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La tour Altiplano, en construction à Montaudran près de la Piste des géants, s'apprête à devenir la deuxième plus haute tour de Toulouse avec près de 65 mètres de hauteur. Elle ne serait dépassée que par la Tour du Parc de Bagatelle, à seulement deux mètres près, et rivalise presque avec le clocher de la basilique Saint-Sernin. Les travaux, lancés en avril 2025, progressent rapidement grâce à une construction hors site pour les façades et les salles de bains, et à une ossature en bois qui accélère le montage. Le bâtiment, qui s'étendra sur plus de 18 000 m², transforme déjà la silhouette du quartier, visible depuis le périphérique Est et Sud.</summary>
+    <category term="news"/>
+    <published>2026-11-21T04:22:01+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1e51da9c-cece-4c28-bed7-155e00665384</id>
+    <title>Ma Baguette, nouvelle boulangerie place Arnaud-Bernard par un ancien record</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/20261119-162901.jpg"/&gt;
+&lt;p&gt;Enzo Herenger, sacré plus jeune boulanger de France en 2022 à seulement 20 ans, ouvre ce vendredi 20 novembre 2026 sa boulangerie Ma Baguette au 12 place Arnaud-Bernard, aux côtés de ses deux associés Baptiste et Yohan. Ce fils de boulanger toulousain avait délibérément tout abandonné pour partir à Paris et faire ses preuves seul, loin du giron familial. La place Arnaud-Bernard, récemment réaménagée et en pleine attractivité, constitue le cadre de ce nouveau départ. Le trio affiche des ambitions larges, évoquant une expansion qui pourrait un jour dépasser les frontières.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/devenir-le-numero-un-enzo-22-ans-ancien-plus-jeune-boulanger-de-france-s-installe-sur-cette-place-de-toulouse_65079686.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/devenir-le-numero-un-enzo-22-ans-ancien-plus-jeune-boulanger-de-france-s-installe-sur-cette-place-de-toulouse_65079686.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Enzo Herenger, sacré plus jeune boulanger de France en 2022 à seulement 20 ans, ouvre ce vendredi 20 novembre 2026 sa boulangerie Ma Baguette au 12 place Arnaud-Bernard, aux côtés de ses deux associés Baptiste et Yohan. Ce fils de boulanger toulousain avait délibérément tout abandonné pour partir à Paris et faire ses preuves seul, loin du giron familial. La place Arnaud-Bernard, récemment réaménagée et en pleine attractivité, constitue le cadre de ce nouveau départ. Le trio affiche des ambitions larges, évoquant une expansion qui pourrait un jour dépasser les frontières.</summary>
+    <category term="place"/>
+    <published>2026-11-21T05:40:02+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:07e74ca4-eb40-49f2-b933-4d2f9913c333</id>
+    <title>Le festival de la BD de Colomiers, 41e édition : 3 jours de BD indépendante</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>toulouscope</name>
+    </author>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://images.toulouscope.fr/api/v1/images/view/6b0020e9d3c978d3650e9cc3/hd/image.jpg?v=1"/&gt;
+&lt;p&gt;Du 20 au 22 novembre, Colomiers accueille la 41e édition de son festival de bande dessinée, défenseur de la création indépendante. Au programme : rencontres avec des auteurs, dédicaces, expositions dans toute la ville, ateliers, projections cinéma et une masterclass de Chris Ware. Les deux sources s&amp;#x27;accordent sur les grandes lignes mais divergent légèrement sur le nombre d&amp;#x27;auteurs présents : Toulouscope annonce 100 auteurs et 60 maisons d&amp;#x27;édition, tandis que L&amp;#x27;Essentiel évoque plus de 150 auteurs et les mêmes 60 maisons. Le festival rayonne bien au-delà de son site principal, avec des partenariats au Mirail, à Odyssud et au Muséum de Toulouse, et s&amp;#x27;adresse aussi bien aux passionnés de BD qu&amp;#x27;aux familles.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Toulouscope met l&amp;#x27;accent sur l&amp;#x27;engagement historique et militant du festival pour la BD indépendante et la précarité des auteurs. L&amp;#x27;Essentiel propose un panorama plus pratique et exhaustif de la programmation (expositions, prix COOLomiers, films d&amp;#x27;animation, partenaires hors les murs).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Toulouscope&lt;/strong&gt;: L&amp;#x27;histoire et la philosophie du festival, la voix de sa directrice Amandine Doche&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;Essentiel&lt;/strong&gt;: Le détail complet de la programmation : expositions, lieux, artistes invités, Chris Ware&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouscope.fr/2026/11/20/ce-week-end-le-festival-de-la-bd-de-colomiers-annonce-une-programmation-festive-et-exigeante-13662680.php?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Toulouscope&lt;/a&gt;, &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-20?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55898"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouscope.fr/2026/11/20/ce-week-end-le-festival-de-la-bd-de-colomiers-annonce-une-programmation-festive-et-exigeante-13662680.php?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Du 20 au 22 novembre, Colomiers accueille la 41e édition de son festival de bande dessinée, défenseur de la création indépendante. Au programme : rencontres avec des auteurs, dédicaces, expositions dans toute la ville, ateliers, projections cinéma et une masterclass de Chris Ware. Les deux sources s'accordent sur les grandes lignes mais divergent légèrement sur le nombre d'auteurs présents : Toulouscope annonce 100 auteurs et 60 maisons d'édition, tandis que L'Essentiel évoque plus de 150 auteurs et les mêmes 60 maisons. Le festival rayonne bien au-delà de son site principal, avec des partenariats au Mirail, à Odyssud et au Muséum de Toulouse, et s'adresse aussi bien aux passionnés de BD qu'aux familles.</summary>
+    <category term="event"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:9e9e957c-5f2b-4b35-9179-022836069f29</id>
+    <title>Joan Miró – Protestation : grande exposition aux Abattoirs</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/VISITES-GUIDEES-MIRO-2.jpg"/&gt;
+&lt;p&gt;Les Abattoirs, Musée – FRAC Occitanie Toulouse, accueillent une exposition majeure consacrée à Joan Miró, réunissant près de 200 œuvres : peintures, dessins, sculptures, tapisseries, costumes, films et photographies. Le parcours chronologique met en lumière la dimension protestataire et politique de l&amp;#x27;œuvre de Miró, notamment dans le contexte de la guerre d&amp;#x27;Espagne et de la dictature franquiste. L&amp;#x27;exposition explore comment l&amp;#x27;artiste a cherché à « assassiner » la peinture en expérimentant de nouveaux matériaux, en brûlant ses toiles et en collaborant avec cinéastes et gens de théâtre. Des tapisseries monumentales réalisées avec Josep Royo aux costumes de Mori el Merma, elle révèle un créateur libre et engagé. Elle se tient du 3 octobre 2026 au 7 mars 2027, avec des visites guidées proposées en parallèle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;La première source annonce uniquement une visite guidée datée du 2 décembre 2026 ; la seconde présente l&amp;#x27;exposition dans son ensemble (3 oct. 2026 – 7 mars 2027). Les deux convergent sur le même lieu et le même angle thématique.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (JOAN MIRO : PROTESTATION)&lt;/strong&gt;: Contenu complet de l&amp;#x27;exposition, parcours et dates globales&lt;/li&gt;&lt;li&gt;&lt;strong&gt;office_tourisme (JOAN MIRÓ – PROTESTATION VISITE GUIDÉE)&lt;/strong&gt;: Détail de la visite guidée du 2 décembre 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/joan-miro-protestation-visite-guidee/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/joan-miro-protestation/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/joan-miro-protestation-visite-guidee/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Les Abattoirs, Musée – FRAC Occitanie Toulouse, accueillent une exposition majeure consacrée à Joan Miró, réunissant près de 200 œuvres : peintures, dessins, sculptures, tapisseries, costumes, films et photographies. Le parcours chronologique met en lumière la dimension protestataire et politique de l'œuvre de Miró, notamment dans le contexte de la guerre d'Espagne et de la dictature franquiste. L'exposition explore comment l'artiste a cherché à « assassiner » la peinture en expérimentant de nouveaux matériaux, en brûlant ses toiles et en collaborant avec cinéastes et gens de théâtre. Des tapisseries monumentales réalisées avec Josep Royo aux costumes de Mori el Merma, elle révèle un créateur libre et engagé. Elle se tient du 3 octobre 2026 au 7 mars 2027, avec des visites guidées proposées en parallèle.</summary>
+    <category term="event"/>
+    <published>2026-11-20T07:32:18.285953+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7b73417e-4aec-4485-940b-59bd886e53ff</id>
+    <title>Narcotrafic à Toulouse : six meurtres en 2026, la ville sous tension</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/capture-armes-toulouse-1.jpg"/&gt;
+&lt;p&gt;Toulouse a enregistré son sixième narchomicide de l&amp;#x27;année 2026 dans la nuit du 17 au 18 novembre, quartier de la Reynerie, trois jours après un premier meurtre à Montaudran. Le procureur David Charmatz a tenu une conférence de presse le 19 novembre, dressant un bilan alarmant : 48 meurtres et tentatives de meurtre en bande organisée depuis le début de l&amp;#x27;année, avec des victimes de plus en plus jeunes et un recours croissant aux armes. La guerre de territoire entre groupes rivaux autour des points de deal de la Reynerie et Bellefontaine est pointée comme principale cause de l&amp;#x27;escalade. En parallèle, une vidéo d&amp;#x27;un créateur de contenu britannique filmée sur un point de deal et une campagne gouvernementale anti-narcotrafic placardée sur le tramway ont amplifié la visibilité médiatique du problème.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les quatre articles abordent le même sujet sous des angles complémentaires : la conférence de presse officielle, le profil des victimes, la vidéo virale du youtubeur britannique Sai So, et la campagne de sensibilisation sur le tramway. Aucune contradiction entre les sources, mais des niveaux de détail différents.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – conférence de presse&lt;/strong&gt;: Chiffres officiels, déclarations du procureur et de la police nationale&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – profil des victimes&lt;/strong&gt;: Portrait type des six victimes et analyse sociologique du trafic&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – vidéo Sai So&lt;/strong&gt;: Réactions à la vidéo virale du créateur britannique filmée à la Reynerie&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – tramway&lt;/strong&gt;: Campagne gouvernementale de sensibilisation au narcotrafic dans les transports&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-quartier-le-plus-dangereux-de-france-la-video-sulfureuse-d-un-anglais-sur-un-point-de-deal-a-toulouse-fait-reagir_65073674.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-police-et-justice-reagissent-apres-les-deux-morts-en-trois-jours-liees-au-trafic-de-stupefiants_65076719.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/certains-rails-menent-tout-droit-aux-urgences-c-est-quoi-ces-affiches-choc-sur-le-tramway-a-toulouse_65077925.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/on-meurt-tres-jeune-dans-ce-trafic-voici-le-profil-type-des-six-victimes-de-narchomicides-a-toulouse-en-2026_65079897.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-quartier-le-plus-dangereux-de-france-la-video-sulfureuse-d-un-anglais-sur-un-point-de-deal-a-toulouse-fait-reagir_65073674.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse a enregistré son sixième narchomicide de l'année 2026 dans la nuit du 17 au 18 novembre, quartier de la Reynerie, trois jours après un premier meurtre à Montaudran. Le procureur David Charmatz a tenu une conférence de presse le 19 novembre, dressant un bilan alarmant : 48 meurtres et tentatives de meurtre en bande organisée depuis le début de l'année, avec des victimes de plus en plus jeunes et un recours croissant aux armes. La guerre de territoire entre groupes rivaux autour des points de deal de la Reynerie et Bellefontaine est pointée comme principale cause de l'escalade. En parallèle, une vidéo d'un créateur de contenu britannique filmée sur un point de deal et une campagne gouvernementale anti-narcotrafic placardée sur le tramway ont amplifié la visibilité médiatique du problème.</summary>
+    <category term="news"/>
+    <published>2026-11-18T19:36:43+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:aeda5e72-b3e1-4ecc-8781-cf7645af7519</id>
+    <title>Concert Gospel à l'Église Saint-Aubin avec Max Zita</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>office_tourisme</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/maxZitaGroupe-copie.jpg"/&gt;
+&lt;p&gt;Le directeur artistique Max Zita et sa formation Gospel Voices Quartet se produisent à l&amp;#x27;église Saint-Aubin de Toulouse le 3 janvier 2027. Au programme : une revisitation des grands classiques du gospel, des spirituals et des mélodies traditionnelles, mis en valeur par l&amp;#x27;acoustique remarquable du lieu. Max Zita est l&amp;#x27;un des pionniers du mouvement gospel en France, à la tête de Gospel Voices depuis 1988, et son groupe a été élu meilleur groupe d&amp;#x27;expression gospel par le Festival de Gospel de Paris. Les deux entrées au programme sont à placement libre, et les billets ne sont ni échangeables ni remboursables.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux sources présentent un contenu quasi-identique, mais avec des titres différents — l&amp;#x27;un mettant en avant les &amp;quot;grands classiques du gospel&amp;quot;, l&amp;#x27;autre mentionnant le &amp;quot;Div&amp;#x27;Addy Quartet&amp;quot; et la soul. Il est possible qu&amp;#x27;il s&amp;#x27;agisse de deux concerts distincts le même soir, mais le texte des deux entrées est strictement identique, ce qui crée une ambiguïté non résolue.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.toulouse-tourisme.com/agenda/gospel-les-grands-classiques/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;, &lt;a href="https://www.toulouse-tourisme.com/agenda/le-divaddy-quartet-chants-de-la-musique-soul-et-gospel/?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Office de Tourisme&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.toulouse-tourisme.com/agenda/gospel-les-grands-classiques/?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le directeur artistique Max Zita et sa formation Gospel Voices Quartet se produisent à l'église Saint-Aubin de Toulouse le 3 janvier 2027. Au programme : une revisitation des grands classiques du gospel, des spirituals et des mélodies traditionnelles, mis en valeur par l'acoustique remarquable du lieu. Max Zita est l'un des pionniers du mouvement gospel en France, à la tête de Gospel Voices depuis 1988, et son groupe a été élu meilleur groupe d'expression gospel par le Festival de Gospel de Paris. Les deux entrées au programme sont à placement libre, et les billets ne sont ni échangeables ni remboursables.</summary>
+    <category term="event"/>
+    <published>2026-11-17T07:31:55.131948+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:efd48d44-8f99-4ad7-be1f-5ac363990a48</id>
+    <title>Mobilisations à Toulouse les 17 et 20 novembre : parcours et transports perturbés</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/manifestants-cgt-toulouse-gr.jpg"/&gt;
+&lt;p&gt;Toulouse connaît deux journées de mobilisation distinctes en novembre 2026 : le mardi 17, l&amp;#x27;intersyndicale (CFDT, CGT, FO, FSU, Solidaires, Unsa) appelle à manifester contre la vie chère, pour les salaires et les retraites, avec un départ à 11h de Jean-Jaurès en direction de Saint-Cyprien. Puis le vendredi 20 novembre, une manifestation de la jeunesse contre la guerre s&amp;#x27;élance à 11h d&amp;#x27;Arnaud-Bernard vers le lycée Airbus. Dans les deux cas, plusieurs lignes de bus Tisséo sont déviées ou supprimées à partir de 10h-10h30, tandis que le métro et le tram restent en fonctionnement normal. Le préfet a également pris des arrêtés interdisant tout rassemblement non déclaré dans le centre-ville de Toulouse lors des deux journées. La mobilisation du 17 s&amp;#x27;inscrit dans la continuité du 5 novembre, qui avait vu un écart important entre le chiffre de la préfecture (21 800 personnes) et celui de la CGT (80 000 manifestants).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux premiers articles couvrent la mobilisation syndicale du 17 novembre (l&amp;#x27;un en mode anticipation/guide pratique, l&amp;#x27;autre en direct live). Le troisième article concerne une mobilisation distincte, celle de la jeunesse contre la guerre, le 20 novembre — ces événements sont liés par leur contexte de contestation sociale et leurs effets sur les transports toulousains, mais sont deux actions séparées.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Ce qu&amp;#x27;il faut savoir&amp;#x27;&lt;/strong&gt;: Revendications, parcours et contexte de la mobilisation du 17 novembre&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Direct&amp;#x27;&lt;/strong&gt;: Suivi en temps réel du 17 novembre : lycées, transports, arrêtés préfectoraux&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – &amp;#x27;Mobilisation de la jeunesse&amp;#x27;&lt;/strong&gt;: Manifestation du 20 novembre : parcours, transports déviés, arrêté préfectoral&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/mobilisation-du-17-novembre-a-toulouse-parcours-revendications-ce-qu-il-faut-savoir_65059333.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-suivez-la-grande-journee-de-mobilisation-du-mardi-17-novembre-a-toulouse_65063375.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/mobilisation-de-la-jeunesse-contre-la-guerre-une-manifestation-a-toulouse-les-transports-perturbes-ce-vendredi_65079643.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/mobilisation-du-17-novembre-a-toulouse-parcours-revendications-ce-qu-il-faut-savoir_65059333.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Toulouse connaît deux journées de mobilisation distinctes en novembre 2026 : le mardi 17, l'intersyndicale (CFDT, CGT, FO, FSU, Solidaires, Unsa) appelle à manifester contre la vie chère, pour les salaires et les retraites, avec un départ à 11h de Jean-Jaurès en direction de Saint-Cyprien. Puis le vendredi 20 novembre, une manifestation de la jeunesse contre la guerre s'élance à 11h d'Arnaud-Bernard vers le lycée Airbus. Dans les deux cas, plusieurs lignes de bus Tisséo sont déviées ou supprimées à partir de 10h-10h30, tandis que le métro et le tram restent en fonctionnement normal. Le préfet a également pris des arrêtés interdisant tout rassemblement non déclaré dans le centre-ville de Toulouse lors des deux journées. La mobilisation du 17 s'inscrit dans la continuité du 5 novembre, qui avait vu un écart important entre le chiffre de la préfecture (21 800 personnes) et celui de la CGT (80 000 manifestants).</summary>
+    <category term="news"/>
+    <published>2026-11-16T12:47:59+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ec8a2d16-2f12-43b8-a373-7c50317f7233</id>
+    <title>Vague de violences liées au trafic de drogue à Toulouse en novembre</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/capture-decran-2026-11-14-151548.png"/&gt;
+&lt;p&gt;En l&amp;#x27;espace d&amp;#x27;une semaine, Toulouse a été frappée par plusieurs épisodes de violences armées liés au trafic de stupéfiants. Dans la nuit du 13 au 14 novembre, une rafale de tirs a criblé la façade d&amp;#x27;un immeuble du quartier de La Faourette — une quinzaine d&amp;#x27;impacts relevés, des projectiles retrouvés dans un appartement, mais aucun blessé. Dans la nuit du 14 au 15 novembre, un jeune de 19 ans a été tué par balles dans une voiture garée devant un restaurant de Montaudran, ce que le procureur David Charmatz qualifie de cinquième narchomicide de l&amp;#x27;année. Trois jours plus tard, dans la nuit du 17 au 18 novembre, un homme d&amp;#x27;une trentaine d&amp;#x27;années a été abattu d&amp;#x27;une balle dans la tête sur un point de deal de la Reynerie — le sixième narchomicide de 2026 selon le procureur, dans le contexte d&amp;#x27;une guerre de territoire entre groupes rivaux autour du Mirail et de Bellefontaine. Dans la nuit du 20 novembre, des policiers de la BST ont essuyé des tirs à La Faourette lors de l&amp;#x27;interpellation d&amp;#x27;un groupe qui tirait des feux d&amp;#x27;artifice et des salves en l&amp;#x27;air, un individu de 23 ans placé en garde à vue.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les quatre articles couvrent des incidents distincts sur une semaine, mais s&amp;#x27;inscrivent dans une même dynamique de violence liée au narcotrafic. Le procureur Charmatz est cité directement dans plusieurs articles, ce qui donne une cohérence institutionnelle à l&amp;#x27;ensemble. L&amp;#x27;article sur la fusillade de Montaudran (5e narchomicide) et celui sur la Reynerie (6e narchomicide) se recoupent et se confirment mutuellement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Fusillade de Montaudran : décès du jeune de 19 ans et ouverture d&amp;#x27;une enquête pour meurtre en bande organisée&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Sixième narchomicide à la Reynerie : contexte de guerre de territoire au Mirail&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Tirs sur la BST à La Faourette : policiers visés lors d&amp;#x27;une intervention, une interpellation&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Immeuble criblé de balles allée de Guyenne : aucun blessé, enquête ouverte&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/par-chance-personne-n-a-ete-touche-a-toulouse-un-immeuble-vise-par-des-tirs-en-rafale-en-pleine-nuit_65055923.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/nouvelle-fusillade-mortelle-a-toulouse-une-voiture-criblee-de-balles-l-un-des-occupants-decede-a-l-hopital_65056707.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-le-sixieme-narchomicide-de-l-annee-a-toulouse-un-homme-tue-d-une-balle-dans-la-tete_65069246.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-la-police-disloque-un-groupe-qui-tirait-des-feux-d-artifice-dans-la-rue-la-reponse-n-a-pas-traine_65083397.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/par-chance-personne-n-a-ete-touche-a-toulouse-un-immeuble-vise-par-des-tirs-en-rafale-en-pleine-nuit_65055923.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>En l'espace d'une semaine, Toulouse a été frappée par plusieurs épisodes de violences armées liés au trafic de stupéfiants. Dans la nuit du 13 au 14 novembre, une rafale de tirs a criblé la façade d'un immeuble du quartier de La Faourette — une quinzaine d'impacts relevés, des projectiles retrouvés dans un appartement, mais aucun blessé. Dans la nuit du 14 au 15 novembre, un jeune de 19 ans a été tué par balles dans une voiture garée devant un restaurant de Montaudran, ce que le procureur David Charmatz qualifie de cinquième narchomicide de l'année. Trois jours plus tard, dans la nuit du 17 au 18 novembre, un homme d'une trentaine d'années a été abattu d'une balle dans la tête sur un point de deal de la Reynerie — le sixième narchomicide de 2026 selon le procureur, dans le contexte d'une guerre de territoire entre groupes rivaux autour du Mirail et de Bellefontaine. Dans la nuit du 20 novembre, des policiers de la BST ont essuyé des tirs à La Faourette lors de l'interpellation d'un groupe qui tirait des feux d'artifice et des salves en l'air, un individu de 23 ans placé en garde à vue.</summary>
+    <category term="news"/>
+    <published>2026-11-14T15:25:21+01:00</published>
   </entry>
 </feed>

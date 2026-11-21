@@ -1,0 +1,242 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:7663fa3b-85b0-464c-bfff-30cf5b653814",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cold Cuts à La Cave Poésie : thriller intime sur l'emprise",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/COLD-CUTS.jpg",
+    "file": "cluster_7663fa3b-85b0-464c-bfff-30cf5b653814_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:88a8559e-f37c-4dbb-922f-bdeb0bc90e01",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "\"Tenter de ne pas faner\" au Théâtre Le Fil à Plomb",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TENTER-DE-NE-PAS-FANER.jpg",
+    "file": "cluster_88a8559e-f37c-4dbb-922f-bdeb0bc90e01_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:c8c616ce-bbd0-4d88-b915-c4266db14e44",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Stand-up et humour chaque semaine au Brique Comedy Club",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/BRIQUE-COMEDY-CLUB.jpg",
+    "file": "cluster_c8c616ce-bbd0-4d88-b915-c4266db14e44_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2b1bd45e-dc7d-4de7-8f6c-7721f91de229",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival BD de Colomiers : bande dessinée indépendante sur trois jours",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/2023-Photo-ambiance-hall-Copyright-IAMP-photographie-copie.jpg",
+    "file": "cluster_2b1bd45e-dc7d-4de7-8f6c-7721f91de229_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1cb87f13-f096-4dc4-8935-5fe83cb37ca5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Marché de Noël à la Maison de Quartier de Lalande",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MARCHE-DE-NOEL-LALANDE.jpg",
+    "file": "cluster_1cb87f13-f096-4dc4-8935-5fe83cb37ca5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:07e74ca4-eb40-49f2-b933-4d2f9913c333",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Le festival de la BD de Colomiers, 41e édition : 3 jours de BD indépendante",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6b0020e9d3c978d3650e9cc3/hd/image.jpg?v=1",
+    "file": "cluster_07e74ca4-eb40-49f2-b933-4d2f9913c333_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Kalika en concert au Metronum de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/KALIKA.png",
+    "file": "cluster_1d317152-4cd8-482c-a4d2-cf17b6cf4d30_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:421401bb-14f1-4d03-83a3-ba7a2893922b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Hulul, spectacle jeunesse poétique au Centre Culturel Renan",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/HULUL.jpg",
+    "file": "cluster_421401bb-14f1-4d03-83a3-ba7a2893922b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:6ba9190e-e1c2-4efb-8b03-bf64260c4a9e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "A (Père) Pétuité : comédie sur la paternité au Studio 55",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/A-PERE-PETUITE.jpg",
+    "file": "cluster_6ba9190e-e1c2-4efb-8b03-bf64260c4a9e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5eb07e7b-b8e1-42a6-9adf-e7e9808b87e8",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Dub Inc et Danakil en concert au Zénith de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/a/954/1e432e0d-2cb2-4a1c-a51f-806c17b88954_SOURCE",
+    "file": "cluster_5eb07e7b-b8e1-42a6-9adf-e7e9808b87e8_event_story.jpg",
+    "img_width": 2000,
+    "img_height": 1334
+  },
+  {
+    "cluster_id": "cluster:7426d4d7-4cca-4feb-aa38-23da381c994e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Christophe Alévêque en spectacle au Grand Théâtre 3T",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_7426d4d7-4cca-4feb-aa38-23da381c994e_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:8204c72e-f9f8-4d86-bd3e-c02a80d3aa7b",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Cali en concert à Saint-Orens-de-Gameville en novembre",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_8204c72e-f9f8-4d86-bd3e-c02a80d3aa7b_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:a1cbcb2a-5c3c-4824-944c-3c9ec0ec5015",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "63OG en concert hip-hop au Rex de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_a1cbcb2a-5c3c-4824-944c-3c9ec0ec5015_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:c7312879-82c0-48f0-b8f1-02a4ebb10ee9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Bénédicte Bousquet en spectacle à La Comédie de Toulouse",
+    "image_url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_c7312879-82c0-48f0-b8f1-02a4ebb10ee9_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:fd313851-d72b-4f25-998e-9cd038d34107",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "The Depeche Mode Experience en concert au Casino Barrière",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_fd313851-d72b-4f25-998e-9cd038d34107_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:2b1d7912-1bb3-497f-b4bf-aad60cbff5f3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée du quartier Arnaud-Bernard avec l'Office de Tourisme",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/quartier-arnaud-bernard-toulouse.jpg",
+    "file": "cluster_2b1d7912-1bb3-497f-b4bf-aad60cbff5f3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:00bcb367-5f2e-4884-8e02-781b8e1c36b0",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Atelier Battements du Vivant à la Maison du Métro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TISSEO-3.jpg",
+    "file": "cluster_00bcb367-5f2e-4884-8e02-781b8e1c36b0_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:3a44f7a8-e2f2-4ca0-8eea-140288f2830e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Golem à la Cinémathèque de Toulouse avec piano live",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-GOLEM.jpg",
+    "file": "cluster_3a44f7a8-e2f2-4ca0-8eea-140288f2830e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:76921f37-06db-4cc0-9ffc-7c2455e02713",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Sept courts métrages d'animation sur l'amitié à la Cinémathèque",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/A-DEUX-C-EST-MIEUX-3.jpg",
+    "file": "cluster_76921f37-06db-4cc0-9ffc-7c2455e02713_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:5c9325ed-1b03-4b58-a57c-af99e5076f12",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Week-end famille au Musée Saint-Raymond : activités romaines gratuites",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/magisterChef-1024x1024-copie.jpg",
+    "file": "cluster_5c9325ed-1b03-4b58-a57c-af99e5076f12_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:2cc106e2-5834-4d40-af37-6e6f862f7b0b",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Visite guidée « Toulouse : l'Essentiel » par l'Office de Tourisme",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Hotel-particulier-Jean-de-Bernuy---Remi-Deligeon--2--copie.jpg",
+    "file": "cluster_2cc106e2-5834-4d40-af37-6e6f862f7b0b_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
