@@ -1,0 +1,110 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:2b1bd45e-dc7d-4de7-8f6c-7721f91de229",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Festival BD de Colomiers : bande dessinée indépendante sur trois jours",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/2023-Photo-ambiance-hall-Copyright-IAMP-photographie-copie.jpg",
+    "file": "cluster_2b1bd45e-dc7d-4de7-8f6c-7721f91de229_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1cb87f13-f096-4dc4-8935-5fe83cb37ca5",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Marché de Noël à la Maison de Quartier de Lalande",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/MARCHE-DE-NOEL-LALANDE.jpg",
+    "file": "cluster_1cb87f13-f096-4dc4-8935-5fe83cb37ca5_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:07e74ca4-eb40-49f2-b933-4d2f9913c333",
+    "format": "story",
+    "source": "toulouscope",
+    "category": "event",
+    "title": "Le festival de la BD de Colomiers, 41e édition : 3 jours de BD indépendante",
+    "image_url": "https://images.toulouscope.fr/api/v1/images/view/6b0020e9d3c978d3650e9cc3/hd/image.jpg?v=1",
+    "file": "cluster_07e74ca4-eb40-49f2-b933-4d2f9913c333_event_story.jpg",
+    "img_width": 1200,
+    "img_height": 675
+  },
+  {
+    "cluster_id": "cluster:5c9325ed-1b03-4b58-a57c-af99e5076f12",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Week-end famille au Musée Saint-Raymond : activités romaines gratuites",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/magisterChef-1024x1024-copie.jpg",
+    "file": "cluster_5c9325ed-1b03-4b58-a57c-af99e5076f12_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "SONoKRAFT pour enfants au Bascala de Bruguières",
+    "image_url": "https://s1.ticketm.net/dam/c/2b5/5a0a3487-492b-4072-9d8d-1fcda02bd2b5_781101_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_91f373be-fb35-443f-aee7-6c7c6d42e9db_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  },
+  {
+    "cluster_id": "cluster:5b382d78-a297-4110-9dfa-665dd1cf5dd3",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée du Mirail avec l'historienne Sonia Moussay",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Lac-1-copie.jpg",
+    "file": "cluster_5b382d78-a297-4110-9dfa-665dd1cf5dd3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:73b8a3c8-9228-482f-a7aa-0351bede1630",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Visite guidée sur l'histoire cathare à l'Office de Tourisme",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/Piano-Jacobins---Remi-Deligeon-copie-2.jpg",
+    "file": "cluster_73b8a3c8-9228-482f-a7aa-0351bede1630_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:58ad4931-28a7-4706-9a1b-379b8d0e81fa",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La Fille de l'Eau de Jean Renoir à la Cinémathèque de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-FILLE-DE-L-EAU.jpg",
+    "file": "cluster_58ad4931-28a7-4706-9a1b-379b8d0e81fa_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1ff2ce33-1297-41a4-9090-7fbdce80b45e",
+    "format": "story",
+    "source": "ticketmaster",
+    "category": "event",
+    "title": "Concert de Minitel au Metronum le 22 novembre",
+    "image_url": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+    "file": "cluster_1ff2ce33-1297-41a4-9090-7fbdce80b45e_event_story.jpg",
+    "img_width": 2048,
+    "img_height": 1152
+  }
+]

@@ -16718,7 +16718,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9e9e957c-5f2b-4b35-9179-022836069f29@news.lavillerose.com
 DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20261004
 SUMMARY:Joan Miró – Protestation
 DESCRIPTION:Les Abattoirs\, Musée – FRAC Occitanie Toulouse\, accueillen
  t une exposition majeure consacrée à Joan Miró\, réunissant près de 2
@@ -25733,26 +25733,6 @@ URL:https://www.toulouse-tourisme.com/agenda/la-course-des-lumieres/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Gilets jaunes actes V et VI : mobilisations à Toulouse en novembre
-DESCRIPTION:Les actes V (14 novembre) et VI (21 novembre) des Gilets jaunes
-  se succèdent à Toulouse\, avec des rassemblements en centre-ville autou
- r de Jean-Jaurès. L'acte V se distingue par la coexistence de deux mobili
- sations distinctes : un rassemblement non autorisé des Gilets jaunes à 1
- 4h et une marche pour le climat\, autorisée celle-là\, partant à 11h de
- puis les allées Jean-Jaurès jusqu'à la place Arnaud-Bernard. L'acte IV 
- avait réuni 5 000 personnes et donné lieu à des débordements à Mareng
- o et Jolimon\n\nSource\: https://actu.fr/occitanie/toulouse_31555/acte-v-d
- es-gilets-jaunes-et-marche-pour-le-climat-un-appel-a-la-convergence-vers-u
- n-samedi-de-confusion-a-toulouse_65048205.html
-URL:https://actu.fr/occitanie/toulouse_31555/acte-v-des-gilets-jaunes-et-ma
- rche-pour-le-climat-un-appel-a-la-convergence-vers-un-samedi-de-confusion-
- a-toulouse_65048205.html?utm_source=ical&utm_medium=calendar&utm_campaign=
- toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:713c44cc-e4f0-4ca4-be28-59430e007d52@news.lavillerose.com
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
@@ -25975,28 +25955,6 @@ DESCRIPTION:Le Musée Saint-Raymond\, musée d'archéologie de Toulouse\, p
 URL:https://www.toulouse-tourisme.com/agenda/lartisanat-premiere-entreprise
  -de-gaule/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
  a
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:b3b9c65d-108c-4af6-994f-0c6655b51024@news.lavillerose.com
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261128
-SUMMARY:Fermetures de rues et axes autoroutiers à Toulouse : comment circu
- ler
-DESCRIPTION:Deux séries de perturbations de circulation sont à prévoir 
- à Toulouse en novembre 2026. Du 16 au 27 novembre\, le carrefour entre le
- s rues Matabiau\, Saint-Orens et de l'Orient sera fermé pour travaux de r
- éseau de chaleur et de froid urbain\, avec des déviations via les rues R
- oquelaine\, Claire-Pauilhac et Bayard. Dans la nuit du mardi 17 au mercred
- i 18 novembre\, l'A68 sera entièrement fermée en direction d'Albi entre 
- L'Union et Montastruc de 20h30 à 6h\, et une section du périphérique à
-  Montaudran s\n\nSource\: https://actu.fr/occitanie/toulouse_31555/cette-r
- ue-strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-
- comment-se-deplacer-sans-l-emprunter_65049850.html
-LOCATION:rues Matabiau\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-
- fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-san
- s-l-emprunter_65049850.html?utm_source=ical&utm_medium=calendar&utm_campai
- gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:df8d0330-e809-4b32-873d-052804c74219@news.lavillerose.com
@@ -27191,6 +27149,27 @@ URL:https://www.toulouse-tourisme.com/agenda/a-deux-cest-mieux/?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Acte VI des Gilets jaunes : 3 300 manifestants et tensions à Toulo
+ use
+DESCRIPTION:Le samedi 21 novembre 2026\, l'Acte VI de la mobilisation des G
+ ilets jaunes contre la vie chère a réuni environ 3 300 manifestants à T
+ oulouse\, malgré un arrêté préfectoral interdisant les rassemblements 
+ non déclarés. Les organisateurs avaient opté pour une double stratégie
+  avec deux points de départ — métro Esquirol et allées Jean-Jaurès 
+ — afin de compliquer le dispositif des forces de l'ordre. Le cortège c
+ ôté Jean-Jaurès n'a jamais pu défiler\, repoussé par les gendarmes mo
+ biles jusqu'à Jolimont \n\nSource\: https://actu.fr/occitanie/toulouse_31
+ 555/attention-changement-de-strategie-a-quoi-s-attendre-pour-l-acte-vi-des
+ -gilets-jaunes-du-21-novembre-a-toulouse_65075478.html
+URL:https://actu.fr/occitanie/toulouse_31555/attention-changement-de-strate
+ gie-a-quoi-s-attendre-pour-l-acte-vi-des-gilets-jaunes-du-21-novembre-a-to
+ ulouse_65075478.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
+ ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:6f1a3ecb-51ae-45db-a1d3-7383f34ddf52@news.lavillerose.com
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
@@ -27369,6 +27348,27 @@ URL:https://actu.fr/occitanie/toulouse_31555/diner-en-ville-visite-chez-air
  bus-annonces-prevues-emmanuel-macron-va-venir-a-toulouse-voici-son-program
  me_65074288.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
  -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e98deda5-8047-48e3-be69-2a7719b02670@news.lavillerose.com
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261124
+SUMMARY:Macron à Toulouse : périmètres de sécurité\, rues fermées\, d
+ rones brouillés
+DESCRIPTION:Le président Emmanuel Macron se rend à Toulouse les dimanche 
+ 22 et lundi 23 novembre 2026\, dans un contexte social tendu marqué par d
+ es mobilisations récentes dans la ville. Le préfet de la Haute-Garonne a
+  pris une série de mesures exceptionnelles pour sécuriser le déplacemen
+ t et prévenir tout trouble à l'ordre public. Un périmètre de protectio
+ n est mis en place dans l'hypercentre\, évoluant en trois phases entre le
+  dimanche soir 18h et le lundi matin 10h30 : seuls les riverains munis d'u
+ n justif\n\nSource\: https://actu.fr/occitanie/toulouse_31555/rues-fermees
+ -rassemblements-interdits-brouillage-de-drones-toulouse-sous-cloche-pour-l
+ a-venue-d-emmanuel-macron_65085112.html
+URL:https://actu.fr/occitanie/toulouse_31555/rues-fermees-rassemblements-in
+ terdits-brouillage-de-drones-toulouse-sous-cloche-pour-la-venue-d-emmanuel
+ -macron_65085112.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:587710dc-3c5a-404d-9d69-17cdbca25b57@news.lavillerose.com
@@ -29809,6 +29809,24 @@ DESCRIPTION:Le festival Séquence Court-Métrage revient pour sa 35e éditi
  /agenda/sequence-court-metrage/
 URL:https://www.toulouse-tourisme.com/agenda/sequence-court-metrage/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6595ad0b-6e38-4561-b0fb-f7ace2ad4721@news.lavillerose.com
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:PSY SEX AND FUN
+DESCRIPTION:Le spectacle « PSY SEX AND FUN » se tiendra le 9 décembre 20
+ 26 au 3T D'À CÔTÉ\, salle de comédie toulousaine. Classé dans la cat
+ égorie Arts & Théâtre – Comédie\, il s'agit d'un one-man ou one-woma
+ n show autour des thématiques de la psychologie\, de la sexualité et de 
+ l'humour. La source ne précise pas le nom de l'artiste ni la durée du sp
+ ectacle. Les amateurs de comédie décalée et de vulgarisation humoristiq
+ ue sont le public visé.\n\nSource\: https://www.ticketmaster.fr/fr/manife
+ station/psy-sex-and-fun-billet/idmanif/664175/idtier/18864121
+LOCATION:salle de comédie toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/psy-sex-and-fun-billet/idm
+ anif/664175/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:05ca7e33-1e4e-46a0-aafd-117b38dabeea@news.lavillerose.com
