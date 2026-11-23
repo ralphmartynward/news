@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://news.lavillerose.com/</id>
   <title>Toulouse News</title>
-  <updated>2026-11-22T07:32:06.170387+00:00</updated>
+  <updated>2026-11-23T07:32:16.907865+00:00</updated>
   <author>
     <name>Ralph Ward</name>
   </author>
@@ -10,187 +10,6 @@
   <link href="https://news.lavillerose.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Auto-generated daily Toulouse digest</subtitle>
-  <entry>
-    <id>cluster:26fd2781-553b-440b-a23b-78dcca7b8c83</id>
-    <title>Mel, la voix qui monte de la scène indépendante toulousaine</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/photo-nils--nils---adrien_0.jpg?h=7d4e0b7b&amp;amp;itok=oMV3i5WI"/&gt;
-&lt;p&gt;Originaire d&amp;#x27;Albi et installée à Toulouse, la jeune chanteuse Mel s&amp;#x27;est forgé une réputation solide dans la scène underground locale, passant des jams de bars jusqu&amp;#x27;au Rose Festival. Pianiste dès 8 ans et habituée des scènes dès 12 ans, elle a aussi traversé un groupe rock jazz et un crew de rap, en parallèle d&amp;#x27;études en arts plastiques et danse. Son premier EP, *Pleure dans mes mains*, sorti cet été, propose un mélange éclectique de pop, soul et électro-pop en français et en anglais, avec des influences allant de Billie Eilish à Amy Winehouse. Un second projet est déjà en préparation avec le producteur toulousain Hoodie Boy, confirmant une trajectoire artistique qui ne fait que commencer.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55313"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55313"/>
-    <summary>Originaire d'Albi et installée à Toulouse, la jeune chanteuse Mel s'est forgé une réputation solide dans la scène underground locale, passant des jams de bars jusqu'au Rose Festival. Pianiste dès 8 ans et habituée des scènes dès 12 ans, elle a aussi traversé un groupe rock jazz et un crew de rap, en parallèle d'études en arts plastiques et danse. Son premier EP, *Pleure dans mes mains*, sorti cet été, propose un mélange éclectique de pop, soul et électro-pop en français et en anglais, avec des influences allant de Billie Eilish à Amy Winehouse. Un second projet est déjà en préparation avec le producteur toulousain Hoodie Boy, confirmant une trajectoire artistique qui ne fait que commencer.</summary>
-    <category term="culture"/>
-    <published>2026-11-16T05:06:16.788000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:53ea4d48-4ff0-4b8f-820d-d72318f098e8</id>
-    <title>Le mois de l'ESS : découvrir l'économie solidaire à Toulouse</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/enfants-creche-adobestock_442336399.jpg?h=e5829ddc&amp;amp;itok=LNxMkI5w"/&gt;
-&lt;p&gt;Durant tout le mois de l&amp;#x27;économie sociale et solidaire, une série d&amp;#x27;événements est organisée à Toulouse et en Haute-Garonne pour faire connaître les structures ESS locales. La Haute-Garonne compte entre 4 700 et 4 800 établissements relevant de l&amp;#x27;ESS, soit plus de 10 % des employeurs du département, avec entre 43 000 et 49 000 salariés. La métropole toulousaine concentre à elle seule plus de 3 100 établissements et jusqu&amp;#x27;à 36 000 salariés dans ce secteur. Parmi les temps forts, une table ronde intitulée « Faim d&amp;#x27;avenir » est organisée au Conseil départemental autour du travail invisibilisé dans l&amp;#x27;alimentation, ainsi qu&amp;#x27;un webinaire en après-midi.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55311"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55311"/>
-    <summary>Durant tout le mois de l'économie sociale et solidaire, une série d'événements est organisée à Toulouse et en Haute-Garonne pour faire connaître les structures ESS locales. La Haute-Garonne compte entre 4 700 et 4 800 établissements relevant de l'ESS, soit plus de 10 % des employeurs du département, avec entre 43 000 et 49 000 salariés. La métropole toulousaine concentre à elle seule plus de 3 100 établissements et jusqu'à 36 000 salariés dans ce secteur. Parmi les temps forts, une table ronde intitulée « Faim d'avenir » est organisée au Conseil départemental autour du travail invisibilisé dans l'alimentation, ainsi qu'un webinaire en après-midi.</summary>
-    <category term="event"/>
-    <published>2026-11-16T05:06:16.788000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:df8d0330-e809-4b32-873d-052804c74219</id>
-    <title>Boutique éphémère Impact : mode durable à la Maison Olpé</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/c.JPG?itok=BSh3QifC"/&gt;
-&lt;p&gt;Pour la troisième année consécutive, la boutique éphémère Impact revient à Toulouse du 16 au 29 novembre, à la Maison Olpé (22 rue de la Bourse), ouverte de 10h à 19h. Une vingtaine de marques toulousaines et occitanes y proposeront vêtements et accessoires éthiques, fabriqués à partir de matières naturelles ou recyclées en circuit court — parmi elles, Laines Paysannes, Atelier Marcotte, Placard Sauvage ou encore Blanche et Louise. L&amp;#x27;initiative est portée par l&amp;#x27;association Malha Partage, fondée par les sœurs Noémie (styliste) et Eugénie Morandeau (artiste), dont l&amp;#x27;ambition est de valoriser la créativité artisanale locale et la traçabilité des vêtements. Volontairement positionnée pendant la période du Black Friday, la boutique entend offrir une alternative concrète à la fast fashion à l&amp;#x27;approche des fêtes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55310"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55310"/>
-    <summary>Pour la troisième année consécutive, la boutique éphémère Impact revient à Toulouse du 16 au 29 novembre, à la Maison Olpé (22 rue de la Bourse), ouverte de 10h à 19h. Une vingtaine de marques toulousaines et occitanes y proposeront vêtements et accessoires éthiques, fabriqués à partir de matières naturelles ou recyclées en circuit court — parmi elles, Laines Paysannes, Atelier Marcotte, Placard Sauvage ou encore Blanche et Louise. L'initiative est portée par l'association Malha Partage, fondée par les sœurs Noémie (styliste) et Eugénie Morandeau (artiste), dont l'ambition est de valoriser la créativité artisanale locale et la traçabilité des vêtements. Volontairement positionnée pendant la période du Black Friday, la boutique entend offrir une alternative concrète à la fast fashion à l'approche des fêtes.</summary>
-    <category term="event"/>
-    <published>2026-11-16T05:06:16.788000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:488acca4-8e7b-494a-a087-7aaabc095ef1</id>
-    <title>Destination Transmission Reprise à la CCI Toulouse Haute-Garonne</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_562250877.jpg?h=1ccc68aa&amp;amp;itok=h20CLqhZ"/&gt;
-&lt;p&gt;La CCI de Toulouse Haute-Garonne organise ce jour la 4e édition de Destination Transmission Reprise, un événement dédié aux chefs d&amp;#x27;entreprise souhaitant céder leur activité et aux candidats à la reprise. La demi-journée se déroule de 13h à 18h30 au Palais Consulaire de Toulouse, en accès gratuit sur inscription. Au programme : une pièce de théâtre immersive intitulée « Passage du relais : le défi de la transition », suivie de rencontres entre cédants et repreneurs et de rendez-vous avec des experts (notaires, avocats, experts-comptables, banquiers, Scop Occitanie). L&amp;#x27;événement vise à accélérer les parcours de transmission dans un contexte de renouvellement générationnel des dirigeants, afin de préserver emplois et savoir-faire locaux.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55309"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55309"/>
-    <summary>La CCI de Toulouse Haute-Garonne organise ce jour la 4e édition de Destination Transmission Reprise, un événement dédié aux chefs d'entreprise souhaitant céder leur activité et aux candidats à la reprise. La demi-journée se déroule de 13h à 18h30 au Palais Consulaire de Toulouse, en accès gratuit sur inscription. Au programme : une pièce de théâtre immersive intitulée « Passage du relais : le défi de la transition », suivie de rencontres entre cédants et repreneurs et de rendez-vous avec des experts (notaires, avocats, experts-comptables, banquiers, Scop Occitanie). L'événement vise à accélérer les parcours de transmission dans un contexte de renouvellement générationnel des dirigeants, afin de préserver emplois et savoir-faire locaux.</summary>
-    <category term="event"/>
-    <published>2026-11-16T05:06:16.788000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:8580345d-a06e-40c0-b96e-1f4874ba9c82</id>
-    <title>« Toulouse s'éveille aux sens » : exposition tactile à l'Espace Rigal</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>lessentiel</name>
-    </author>
-    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/img_20261113_143040.jpg?h=86a28d19&amp;amp;itok=hhjuiHQl"/&gt;
-&lt;p&gt;L&amp;#x27;exposition « Toulouse s&amp;#x27;éveille aux sens » ouvre à l&amp;#x27;Espace Rigal avec une approche rarement vue : des personnes déficientes visuelles, guidées par des photographes professionnels, ont pris des clichés que l&amp;#x27;artiste Marie Colombie a ensuite transformés en œuvres sculptées, à découvrir du bout des doigts. Le procédé consiste à éditer les photos en plusieurs exemplaires, à découper toile et papier, puis à accentuer les reliefs à l&amp;#x27;aide de silicone et de résine. Des personnes non voyantes accompagnent les visiteurs et leur donnent les clés de lecture de chaque œuvre. Le soir de l&amp;#x27;inauguration, une projection insolite complète l&amp;#x27;événement : le film « Mon cinéma sans image – Avec les yeux de Marie », une création sonore d&amp;#x27;Anne-Marie David à écouter les yeux bandés.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55312"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-16?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55312"/>
-    <summary>L'exposition « Toulouse s'éveille aux sens » ouvre à l'Espace Rigal avec une approche rarement vue : des personnes déficientes visuelles, guidées par des photographes professionnels, ont pris des clichés que l'artiste Marie Colombie a ensuite transformés en œuvres sculptées, à découvrir du bout des doigts. Le procédé consiste à éditer les photos en plusieurs exemplaires, à découper toile et papier, puis à accentuer les reliefs à l'aide de silicone et de résine. Des personnes non voyantes accompagnent les visiteurs et leur donnent les clés de lecture de chaque œuvre. Le soir de l'inauguration, une projection insolite complète l'événement : le film « Mon cinéma sans image – Avec les yeux de Marie », une création sonore d'Anne-Marie David à écouter les yeux bandés.</summary>
-    <category term="event"/>
-    <published>2026-11-16T05:06:16.788000+00:00</published>
-  </entry>
-  <entry>
-    <id>cluster:c1bc89f3-2710-430c-84ee-4ef2981bff42</id>
-    <title>Airbus décroche une commande de 16 avions A400M pour l'Allemagne</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/70-years-of-the-patrouille-de-france-70-years-of-the-patrouille-de-france.jpg"/&gt;
-&lt;p&gt;L&amp;#x27;Allemagne prévoit d&amp;#x27;acheter 16 avions de transport militaire A400M supplémentaires à Airbus, selon une annonce du ministère fédéral de la Défense le 13 novembre. Cette commande s&amp;#x27;inscrit dans le cadre d&amp;#x27;un budget défense allemand qui devrait dépasser 139 milliards d&amp;#x27;euros en 2027, en réponse à la menace russe. C&amp;#x27;est une bouffée d&amp;#x27;oxygène pour le programme A400M, dont le carnet de commandes s&amp;#x27;amincissait dangereusement : Airbus cherche à maintenir une cadence de production d&amp;#x27;environ huit appareils par an. L&amp;#x27;Allemagne est déjà le premier utilisateur mondial de l&amp;#x27;A400M avec 53 appareils en flotte, même si les avions sont assemblés en Espagne.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/airbus-decroche-une-rare-commande-de-16-avions-a400m-quel-est-ce-pays-europeen-qui-sort-le-chequier_65056961.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/airbus-decroche-une-rare-commande-de-16-avions-a400m-quel-est-ce-pays-europeen-qui-sort-le-chequier_65056961.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>L'Allemagne prévoit d'acheter 16 avions de transport militaire A400M supplémentaires à Airbus, selon une annonce du ministère fédéral de la Défense le 13 novembre. Cette commande s'inscrit dans le cadre d'un budget défense allemand qui devrait dépasser 139 milliards d'euros en 2027, en réponse à la menace russe. C'est une bouffée d'oxygène pour le programme A400M, dont le carnet de commandes s'amincissait dangereusement : Airbus cherche à maintenir une cadence de production d'environ huit appareils par an. L'Allemagne est déjà le premier utilisateur mondial de l'A400M avec 53 appareils en flotte, même si les avions sont assemblés en Espagne.</summary>
-    <category term="news"/>
-    <published>2026-11-15T12:32:02+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:0bdfe526-3525-4a1c-9713-688e406847ca</id>
-    <title>L'histoire du quartier Saint-Michel de Toulouse à travers les siècles</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/vue-du-port-garaud-a-saint-michel-credit-photo-archives-municipales-cote-9fi5172.jpg"/&gt;
-&lt;p&gt;Un article retrace l&amp;#x27;histoire du quartier Saint-Michel, anciennement situé hors des remparts de Toulouse sur la voie narbonnaise, axe stratégique de l&amp;#x27;Antiquité. Le secteur accueillait la porte d&amp;#x27;entrée des souverains vers la place du Salin, aujourd&amp;#x27;hui remplacée par les allées Jules-Guesde après la démolition des fortifications au XIXe siècle. Le quartier est aussi marqué par son passé carcéral, avec la prison Saint-Michel construite entre 1861 et 1868, qui a notamment enfermé des résistants pendant la Seconde Guerre mondiale — dont Marcel Langer — avant sa fermeture définitive en 2008. Son castelet, devenu lieu de mémoire, et son passé portuaire animé sur les berges de la Garonne témoignent de la richesse historique et populaire de ce territoire toulousain.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/patrimoine-sur-les-traces-de-l-ancien-quartier-saint-michel-a-toulouse-a-travers-des-siecles-d-histoire_65035623.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/patrimoine-sur-les-traces-de-l-ancien-quartier-saint-michel-a-toulouse-a-travers-des-siecles-d-histoire_65035623.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Un article retrace l'histoire du quartier Saint-Michel, anciennement situé hors des remparts de Toulouse sur la voie narbonnaise, axe stratégique de l'Antiquité. Le secteur accueillait la porte d'entrée des souverains vers la place du Salin, aujourd'hui remplacée par les allées Jules-Guesde après la démolition des fortifications au XIXe siècle. Le quartier est aussi marqué par son passé carcéral, avec la prison Saint-Michel construite entre 1861 et 1868, qui a notamment enfermé des résistants pendant la Seconde Guerre mondiale — dont Marcel Langer — avant sa fermeture définitive en 2008. Son castelet, devenu lieu de mémoire, et son passé portuaire animé sur les berges de la Garonne témoignent de la richesse historique et populaire de ce territoire toulousain.</summary>
-    <category term="culture"/>
-    <published>2026-11-15T16:02:02+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:2c223c4f-ec6f-4c38-85e6-b80d9d1939ec</id>
-    <title>Un parachutiste saute illégalement depuis la cathédrale Saint-Étienne</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2022/04/cathedrale-saint-etienne-toulouse-gl.jpg"/&gt;
-&lt;p&gt;Tôt le samedi 14 novembre, un homme a effectué un saut en base jump depuis le toit de la cathédrale Saint-Étienne, à environ 50 mètres de hauteur. L&amp;#x27;acte est passé largement inaperçu, se déroulant avant la grande marche pour le climat qui a mobilisé des milliers de personnes dans la matinée. Des policiers postés à proximité ont assisté à la fin du saut, mais le suspect a pris la fuite avant qu&amp;#x27;ils ne puissent l&amp;#x27;interpeller. Le parquet de Toulouse a ouvert une enquête pour dégradations de bien destiné au culte, l&amp;#x27;individu ayant forcé une porte de service et endommagé des tuiles en accédant au toit.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-homme-a-saute-en-parachute-depuis-le-toit-de-la-cathedrale-saint-etienne-a-toulouse_65057318.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/un-homme-a-saute-en-parachute-depuis-le-toit-de-la-cathedrale-saint-etienne-a-toulouse_65057318.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Tôt le samedi 14 novembre, un homme a effectué un saut en base jump depuis le toit de la cathédrale Saint-Étienne, à environ 50 mètres de hauteur. L'acte est passé largement inaperçu, se déroulant avant la grande marche pour le climat qui a mobilisé des milliers de personnes dans la matinée. Des policiers postés à proximité ont assisté à la fin du saut, mais le suspect a pris la fuite avant qu'ils ne puissent l'interpeller. Le parquet de Toulouse a ouvert une enquête pour dégradations de bien destiné au culte, l'individu ayant forcé une porte de service et endommagé des tuiles en accédant au toit.</summary>
-    <category term="news"/>
-    <published>2026-11-15T16:32:02+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:4074cf6e-97b7-45ff-9e51-760ee88cb879</id>
-    <title>Bigflo &amp; Oli battent le record de concerts au Zénith de Toulouse</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/whatsapp-image-2026-11-15-at-153910-1.jpeg"/&gt;
-&lt;p&gt;Bigflo &amp;amp; Oli ont réalisé une année historique au Zénith de Toulouse en y donnant leur sixième concert de l&amp;#x27;année le samedi 14 novembre, avec une septième date le lendemain, établissant un record absolu pour la salle. Devant 10 000 fans, le duo a célébré 70 000 spectateurs rassemblés en quelques mois, un chiffre qu&amp;#x27;aucun artiste n&amp;#x27;avait atteint dans cette salle en une seule année. À cette occasion, les deux frères ont dévoilé en direct un nouveau single, « On s&amp;#x27;en remettra », extrait de leur prochain album Karma 2, annoncé pour le 12 février 2027. Les précommandes de Karma 2 ont ouvert le dimanche midi sur leur site officiel.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/en-plein-record-de-zeniths-bigflo-et-oli-devoilent-le-premier-single-de-leur-nouvel-album-karma-2-deja-en-precommande_65057212.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/en-plein-record-de-zeniths-bigflo-et-oli-devoilent-le-premier-single-de-leur-nouvel-album-karma-2-deja-en-precommande_65057212.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Bigflo &amp; Oli ont réalisé une année historique au Zénith de Toulouse en y donnant leur sixième concert de l'année le samedi 14 novembre, avec une septième date le lendemain, établissant un record absolu pour la salle. Devant 10 000 fans, le duo a célébré 70 000 spectateurs rassemblés en quelques mois, un chiffre qu'aucun artiste n'avait atteint dans cette salle en une seule année. À cette occasion, les deux frères ont dévoilé en direct un nouveau single, « On s'en remettra », extrait de leur prochain album Karma 2, annoncé pour le 12 février 2027. Les précommandes de Karma 2 ont ouvert le dimanche midi sur leur site officiel.</summary>
-    <category term="news"/>
-    <published>2026-11-15T17:02:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:0f891a25-6277-4b38-a972-c03622097ca6</id>
-    <title>Le Fantôme de l'Opéra revisité avec Romain Duris : critique</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/fantome-de-lopera.png"/&gt;
-&lt;p&gt;Alexandre Castagnetti signe la onzième adaptation cinématographique du Fantôme de l&amp;#x27;Opéra de Gaston Leroux, avec Romain Duris dans le rôle du fantôme. L&amp;#x27;histoire est transposée dans le Paris contemporain, au sein du Palais Garnier, où le spectre d&amp;#x27;Ernest Dupré, jeune compositeur mort, hante les coulisses à la recherche d&amp;#x27;une rédemption. L&amp;#x27;héroïne n&amp;#x27;est plus une cantatrice mais une danseuse roumaine, Anastasia, seule capable de voir ce fantôme toujours séduisant malgré sa cicatrice. La critique d&amp;#x27;actu_toulouse interroge si ce parti pris de relecture vaut le déplacement en salle.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Critique détaillée du film : scénario, parti pris artistique, interprétation&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cinema-la-nouvelle-version-du-fantome-de-l-opera-avec-romain-duris-vaut-elle-le-deplacement_65041017.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cinema-la-nouvelle-version-du-fantome-de-l-opera-avec-romain-duris-vaut-elle-le-deplacement_65041017.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Alexandre Castagnetti signe la onzième adaptation cinématographique du Fantôme de l'Opéra de Gaston Leroux, avec Romain Duris dans le rôle du fantôme. L'histoire est transposée dans le Paris contemporain, au sein du Palais Garnier, où le spectre d'Ernest Dupré, jeune compositeur mort, hante les coulisses à la recherche d'une rédemption. L'héroïne n'est plus une cantatrice mais une danseuse roumaine, Anastasia, seule capable de voir ce fantôme toujours séduisant malgré sa cicatrice. La critique d'actu_toulouse interroge si ce parti pris de relecture vaut le déplacement en salle.</summary>
-    <category term="culture"/>
-    <published>2026-11-15T19:02:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:d921ea8d-5ad8-469c-a617-37ecfbbe59ee</id>
-    <title>Concert "Garou – solo" au Casino Barrière de Toulouse le 24 novembre</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/garou-solo2.jpg"/&gt;
-&lt;p&gt;Garou se produira en solo le mardi 24 novembre 2026 à 20h30 au Casino Barrière de Toulouse, dans le cadre de sa tournée « Garou – solo ». Le spectacle, intimiste et cinématique, le voit seul en scène avec son piano et sa guitare, accompagné de technologies scéniques et d&amp;#x27;une scénographie visuelle élaborée. L&amp;#x27;occasion pour l&amp;#x27;artiste de revisiter plus de 30 ans de carrière tout en présentant les titres de son premier album en tant qu&amp;#x27;auteur-compositeur, « Un meilleur lendemain », sorti en avril 2025. Actu Toulouse organise un jeu-concours permettant de remporter des places (deux par gagnant) en remplissant un formulaire avant le 19 novembre 2026 à 14h.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-concert-exceptionnel-de-garou-a-toulouse_65048230.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/jeu-gagnez-vos-places-pour-le-concert-exceptionnel-de-garou-a-toulouse_65048230.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Garou se produira en solo le mardi 24 novembre 2026 à 20h30 au Casino Barrière de Toulouse, dans le cadre de sa tournée « Garou – solo ». Le spectacle, intimiste et cinématique, le voit seul en scène avec son piano et sa guitare, accompagné de technologies scéniques et d'une scénographie visuelle élaborée. L'occasion pour l'artiste de revisiter plus de 30 ans de carrière tout en présentant les titres de son premier album en tant qu'auteur-compositeur, « Un meilleur lendemain », sorti en avril 2025. Actu Toulouse organise un jeu-concours permettant de remporter des places (deux par gagnant) en remplissant un formulaire avant le 19 novembre 2026 à 14h.</summary>
-    <category term="event"/>
-    <published>2026-11-15T20:02:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:daf97faa-312f-4bb4-934e-bbedceddd99c</id>
-    <title>900 places de stationnement supprimées à Toulouse pour sécuriser les piétons</title>
-    <updated>2026-11-16T07:32:37.430479+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/suppression-places-stationnement-toulouse-gl.jpg"/&gt;
-&lt;p&gt;En application de l&amp;#x27;article 52 de la loi d&amp;#x27;orientation des mobilités de 2019, les places de stationnement situées à moins de 5 mètres d&amp;#x27;un passage piéton doivent être supprimées. Sur l&amp;#x27;ensemble de la Métropole toulousaine, plus de 1 800 places sont concernées, dont environ 900 à Toulouse même, aux abords de quelque 1 600 passages piétons. La loi fixait une échéance au 31 décembre 2026 pour réaliser les travaux de mise en conformité, mais l&amp;#x27;avancement des chantiers publics laisse planer des doutes sur le respect de ce calendrier. Les automobilistes toulousains devront donc s&amp;#x27;attendre à une réduction notable de l&amp;#x27;offre de stationnement en voirie dans les prochains mois.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/pourquoi-le-nombre-de-places-de-stationnement-a-toulouse-va-diminuer-dans-les-prochains-mois_65047501.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/pourquoi-le-nombre-de-places-de-stationnement-a-toulouse-va-diminuer-dans-les-prochains-mois_65047501.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>En application de l'article 52 de la loi d'orientation des mobilités de 2019, les places de stationnement situées à moins de 5 mètres d'un passage piéton doivent être supprimées. Sur l'ensemble de la Métropole toulousaine, plus de 1 800 places sont concernées, dont environ 900 à Toulouse même, aux abords de quelque 1 600 passages piétons. La loi fixait une échéance au 31 décembre 2026 pour réaliser les travaux de mise en conformité, mais l'avancement des chantiers publics laisse planer des doutes sur le respect de ce calendrier. Les automobilistes toulousains devront donc s'attendre à une réduction notable de l'offre de stationnement en voirie dans les prochains mois.</summary>
-    <category term="news"/>
-    <published>2026-11-16T07:12:02+01:00</published>
-  </entry>
   <entry>
     <id>cluster:6a74469a-8f51-4104-b957-102c27bb7855</id>
     <title>« Ce qui nous mène à toi » : 24 jours de tournage à Toulouse</title>
@@ -507,23 +326,6 @@
     <summary>Une étude publiée par Tisséo collectivités et l'Agence d'urbanisme de l'aire toulousaine (AUAT) révèle que 12 millions de passages de cyclistes ont été enregistrés devant les compteurs permanents de l'agglomération en 2025. Cette hausse s'inscrit dans une tendance longue : la fréquentation du compteur au port Saint-Étienne a ainsi progressé de 113 % entre 2018 et 2025. Certains secteurs se distinguent particulièrement, avec une croissance supérieure à 15 % entre 2024 et 2025, notamment route de Saint-Simon, avenue Étienne Billières, boulevard Bonrepos et au giratoire RM63E à Cornebarrieu. La montée en puissance du vélo est attribuée à plusieurs facteurs : hausse du prix du carburant, développement des infrastructures cyclables et multiplication des stations VélÔtoulouse.</summary>
     <category term="news"/>
     <published>2026-11-17T04:46:01+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:f9855e21-d1ac-4f97-8a37-e4547f149ed5</id>
-    <title>Une adolescente décède après avoir été fauchée par une voiture à La Faourette</title>
-    <updated>2026-11-17T07:34:59.879178+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/07/a6b86d27b45a66bb86d27b45a4fb86v.jpg"/&gt;
-&lt;p&gt;Dans la nuit du 14 au 15 novembre 2026, deux adolescents ont été percutés de plein fouet par une voiture à l&amp;#x27;angle des rues Henri-Desbals et de Saintonge, dans le quartier de La Faourette à Toulouse. Le conducteur — une femme de 32 ans — a pris la fuite avant d&amp;#x27;être rapidement interpellée avec sa passagère, toutes deux positives à l&amp;#x27;alcoolémie. La jeune fille de 17 ans, dont le pronostic vital était engagé dès le lendemain, est décédée ce lundi 16 novembre ; le garçon de 15 ans s&amp;#x27;en sort avec des blessures légères à une jambe. La conductrice est désormais suspectée d&amp;#x27;homicide routier aggravé, et le parquet de Toulouse a ouvert une information judiciaire.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Le premier article, publié dimanche, rapporte l&amp;#x27;accident et l&amp;#x27;état critique de la jeune fille sans en confirmer le décès. Le second, publié lundi, annonce sa mort et précise la qualification pénale retenue contre la conductrice (homicide routier aggravé).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Déroulement de l&amp;#x27;accident et premières interpellations&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Confirmation du décès et qualification judiciaire&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/une-ado-entre-la-vie-et-la-mort-apres-avoir-ete-percutee-par-une-voiture-a-toulouse-la-conductrice-en-garde-a-vue_65055512.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/fauchee-par-une-automobiliste-qui-a-pris-la-fuite-la-jeune-pietonne-de-17-ans-est-decedee-a-toulouse_65060733.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/une-ado-entre-la-vie-et-la-mort-apres-avoir-ete-percutee-par-une-voiture-a-toulouse-la-conductrice-en-garde-a-vue_65055512.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Dans la nuit du 14 au 15 novembre 2026, deux adolescents ont été percutés de plein fouet par une voiture à l'angle des rues Henri-Desbals et de Saintonge, dans le quartier de La Faourette à Toulouse. Le conducteur — une femme de 32 ans — a pris la fuite avant d'être rapidement interpellée avec sa passagère, toutes deux positives à l'alcoolémie. La jeune fille de 17 ans, dont le pronostic vital était engagé dès le lendemain, est décédée ce lundi 16 novembre ; le garçon de 15 ans s'en sort avec des blessures légères à une jambe. La conductrice est désormais suspectée d'homicide routier aggravé, et le parquet de Toulouse a ouvert une information judiciaire.</summary>
-    <category term="news"/>
-    <published>2026-11-15T10:32:02+01:00</published>
   </entry>
   <entry>
     <id>cluster:1bca5436-ab70-4e10-bbab-571bc065df41</id>
@@ -1263,21 +1065,6 @@
     <published>2026-11-18T18:07:38+01:00</published>
   </entry>
   <entry>
-    <id>cluster:94d5bb87-0489-40bb-b87b-689269fcde36</id>
-    <title>Macron à Toulouse : visite chez Airbus et dîner avec des dirigeants</title>
-    <updated>2026-11-19T07:33:52.061375+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/capture-decran-2026-11-18-212214.png"/&gt;
-&lt;p&gt;Emmanuel Macron se rendra à Toulouse le dimanche 22 novembre 2026 et y restera jusqu&amp;#x27;au lundi 23 novembre. Il dînera dimanche soir avec une soixantaine de dirigeants d&amp;#x27;entreprises européennes — d&amp;#x27;Engie à Vodafone — pour évoquer la compétitivité européenne face à la Chine et aux États-Unis. Le lundi, il visitera le site d&amp;#x27;Airbus, où des annonces sont attendues sur le soutien de l&amp;#x27;État à la filière aéronautique, dans un contexte jugé « difficile » par l&amp;#x27;Élysée. Cette visite s&amp;#x27;inscrit dans le cadre du sommet Choose France, qui réunit plus de 250 entreprises ayant investi en France autour des ministres de l&amp;#x27;Économie et de l&amp;#x27;Industrie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/diner-en-ville-visite-chez-airbus-annonces-prevues-emmanuel-macron-va-venir-a-toulouse-voici-son-programme_65074288.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/diner-en-ville-visite-chez-airbus-annonces-prevues-emmanuel-macron-va-venir-a-toulouse-voici-son-programme_65074288.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>Emmanuel Macron se rendra à Toulouse le dimanche 22 novembre 2026 et y restera jusqu'au lundi 23 novembre. Il dînera dimanche soir avec une soixantaine de dirigeants d'entreprises européennes — d'Engie à Vodafone — pour évoquer la compétitivité européenne face à la Chine et aux États-Unis. Le lundi, il visitera le site d'Airbus, où des annonces sont attendues sur le soutien de l'État à la filière aéronautique, dans un contexte jugé « difficile » par l'Élysée. Cette visite s'inscrit dans le cadre du sommet Choose France, qui réunit plus de 250 entreprises ayant investi en France autour des ministres de l'Économie et de l'Industrie.</summary>
-    <category term="news"/>
-    <published>2026-11-18T21:28:09+01:00</published>
-  </entry>
-  <entry>
     <id>cluster:95e2b204-e885-4d96-93d0-2e9f4ffa8de4</id>
     <title>Ryanair ouvre deux nouvelles lignes depuis Toulouse-Blagnac vers l'Irlande et l'Angleterre</title>
     <updated>2026-11-19T07:33:52.061375+00:00</updated>
@@ -1993,6 +1780,23 @@
     <published>2026-11-20T07:32:18.285953+00:00</published>
   </entry>
   <entry>
+    <id>cluster:ec8a2d16-2f12-43b8-a373-7c50317f7233</id>
+    <title>Vague de violences liées au trafic de drogue à Toulouse en novembre</title>
+    <updated>2026-11-21T07:35:36.890447+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/capture-decran-2026-11-14-151548.png"/&gt;
+&lt;p&gt;En l&amp;#x27;espace d&amp;#x27;une semaine, Toulouse a été frappée par plusieurs épisodes de violences armées liés au trafic de stupéfiants. Dans la nuit du 13 au 14 novembre, une rafale de tirs a criblé la façade d&amp;#x27;un immeuble du quartier de La Faourette — une quinzaine d&amp;#x27;impacts relevés, des projectiles retrouvés dans un appartement, mais aucun blessé. Dans la nuit du 14 au 15 novembre, un jeune de 19 ans a été tué par balles dans une voiture garée devant un restaurant de Montaudran, ce que le procureur David Charmatz qualifie de cinquième narchomicide de l&amp;#x27;année. Trois jours plus tard, dans la nuit du 17 au 18 novembre, un homme d&amp;#x27;une trentaine d&amp;#x27;années a été abattu d&amp;#x27;une balle dans la tête sur un point de deal de la Reynerie — le sixième narchomicide de 2026 selon le procureur, dans le contexte d&amp;#x27;une guerre de territoire entre groupes rivaux autour du Mirail et de Bellefontaine. Dans la nuit du 20 novembre, des policiers de la BST ont essuyé des tirs à La Faourette lors de l&amp;#x27;interpellation d&amp;#x27;un groupe qui tirait des feux d&amp;#x27;artifice et des salves en l&amp;#x27;air, un individu de 23 ans placé en garde à vue.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les quatre articles couvrent des incidents distincts sur une semaine, mais s&amp;#x27;inscrivent dans une même dynamique de violence liée au narcotrafic. Le procureur Charmatz est cité directement dans plusieurs articles, ce qui donne une cohérence institutionnelle à l&amp;#x27;ensemble. L&amp;#x27;article sur la fusillade de Montaudran (5e narchomicide) et celui sur la Reynerie (6e narchomicide) se recoupent et se confirment mutuellement.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Fusillade de Montaudran : décès du jeune de 19 ans et ouverture d&amp;#x27;une enquête pour meurtre en bande organisée&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Sixième narchomicide à la Reynerie : contexte de guerre de territoire au Mirail&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Tirs sur la BST à La Faourette : policiers visés lors d&amp;#x27;une intervention, une interpellation&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Immeuble criblé de balles allée de Guyenne : aucun blessé, enquête ouverte&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-le-sixieme-narchomicide-de-l-annee-a-toulouse-un-homme-tue-d-une-balle-dans-la-tete_65069246.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-la-police-disloque-un-groupe-qui-tirait-des-feux-d-artifice-dans-la-rue-la-reponse-n-a-pas-traine_65083397.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/c-est-le-sixieme-narchomicide-de-l-annee-a-toulouse-un-homme-tue-d-une-balle-dans-la-tete_65069246.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>En l'espace d'une semaine, Toulouse a été frappée par plusieurs épisodes de violences armées liés au trafic de stupéfiants. Dans la nuit du 13 au 14 novembre, une rafale de tirs a criblé la façade d'un immeuble du quartier de La Faourette — une quinzaine d'impacts relevés, des projectiles retrouvés dans un appartement, mais aucun blessé. Dans la nuit du 14 au 15 novembre, un jeune de 19 ans a été tué par balles dans une voiture garée devant un restaurant de Montaudran, ce que le procureur David Charmatz qualifie de cinquième narchomicide de l'année. Trois jours plus tard, dans la nuit du 17 au 18 novembre, un homme d'une trentaine d'années a été abattu d'une balle dans la tête sur un point de deal de la Reynerie — le sixième narchomicide de 2026 selon le procureur, dans le contexte d'une guerre de territoire entre groupes rivaux autour du Mirail et de Bellefontaine. Dans la nuit du 20 novembre, des policiers de la BST ont essuyé des tirs à La Faourette lors de l'interpellation d'un groupe qui tirait des feux d'artifice et des salves en l'air, un individu de 23 ans placé en garde à vue.</summary>
+    <category term="news"/>
+    <published>2026-11-18T10:10:02+01:00</published>
+  </entry>
+  <entry>
     <id>cluster:7b73417e-4aec-4485-940b-59bd886e53ff</id>
     <title>Narcotrafic à Toulouse : six meurtres en 2026, la ville sous tension</title>
     <updated>2026-11-21T07:35:36.890447+00:00</updated>
@@ -2041,23 +1845,6 @@
     <summary>Toulouse connaît deux journées de mobilisation distinctes en novembre 2026 : le mardi 17, l'intersyndicale (CFDT, CGT, FO, FSU, Solidaires, Unsa) appelle à manifester contre la vie chère, pour les salaires et les retraites, avec un départ à 11h de Jean-Jaurès en direction de Saint-Cyprien. Puis le vendredi 20 novembre, une manifestation de la jeunesse contre la guerre s'élance à 11h d'Arnaud-Bernard vers le lycée Airbus. Dans les deux cas, plusieurs lignes de bus Tisséo sont déviées ou supprimées à partir de 10h-10h30, tandis que le métro et le tram restent en fonctionnement normal. Le préfet a également pris des arrêtés interdisant tout rassemblement non déclaré dans le centre-ville de Toulouse lors des deux journées. La mobilisation du 17 s'inscrit dans la continuité du 5 novembre, qui avait vu un écart important entre le chiffre de la préfecture (21 800 personnes) et celui de la CGT (80 000 manifestants).</summary>
     <category term="news"/>
     <published>2026-11-16T12:47:59+01:00</published>
-  </entry>
-  <entry>
-    <id>cluster:ec8a2d16-2f12-43b8-a373-7c50317f7233</id>
-    <title>Vague de violences liées au trafic de drogue à Toulouse en novembre</title>
-    <updated>2026-11-21T07:35:36.890447+00:00</updated>
-    <author>
-      <name>actu_toulouse</name>
-    </author>
-    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/capture-decran-2026-11-14-151548.png"/&gt;
-&lt;p&gt;En l&amp;#x27;espace d&amp;#x27;une semaine, Toulouse a été frappée par plusieurs épisodes de violences armées liés au trafic de stupéfiants. Dans la nuit du 13 au 14 novembre, une rafale de tirs a criblé la façade d&amp;#x27;un immeuble du quartier de La Faourette — une quinzaine d&amp;#x27;impacts relevés, des projectiles retrouvés dans un appartement, mais aucun blessé. Dans la nuit du 14 au 15 novembre, un jeune de 19 ans a été tué par balles dans une voiture garée devant un restaurant de Montaudran, ce que le procureur David Charmatz qualifie de cinquième narchomicide de l&amp;#x27;année. Trois jours plus tard, dans la nuit du 17 au 18 novembre, un homme d&amp;#x27;une trentaine d&amp;#x27;années a été abattu d&amp;#x27;une balle dans la tête sur un point de deal de la Reynerie — le sixième narchomicide de 2026 selon le procureur, dans le contexte d&amp;#x27;une guerre de territoire entre groupes rivaux autour du Mirail et de Bellefontaine. Dans la nuit du 20 novembre, des policiers de la BST ont essuyé des tirs à La Faourette lors de l&amp;#x27;interpellation d&amp;#x27;un groupe qui tirait des feux d&amp;#x27;artifice et des salves en l&amp;#x27;air, un individu de 23 ans placé en garde à vue.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Les quatre articles couvrent des incidents distincts sur une semaine, mais s&amp;#x27;inscrivent dans une même dynamique de violence liée au narcotrafic. Le procureur Charmatz est cité directement dans plusieurs articles, ce qui donne une cohérence institutionnelle à l&amp;#x27;ensemble. L&amp;#x27;article sur la fusillade de Montaudran (5e narchomicide) et celui sur la Reynerie (6e narchomicide) se recoupent et se confirment mutuellement.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Fusillade de Montaudran : décès du jeune de 19 ans et ouverture d&amp;#x27;une enquête pour meurtre en bande organisée&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Sixième narchomicide à la Reynerie : contexte de guerre de territoire au Mirail&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Tirs sur la BST à La Faourette : policiers visés lors d&amp;#x27;une intervention, une interpellation&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Actu Toulouse&lt;/strong&gt;: Immeuble criblé de balles allée de Guyenne : aucun blessé, enquête ouverte&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/nouvelle-fusillade-mortelle-a-toulouse-une-voiture-criblee-de-balles-l-un-des-occupants-decede-a-l-hopital_65056707.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/c-est-le-sixieme-narchomicide-de-l-annee-a-toulouse-un-homme-tue-d-une-balle-dans-la-tete_65069246.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/toulouse-la-police-disloque-un-groupe-qui-tirait-des-feux-d-artifice-dans-la-rue-la-reponse-n-a-pas-traine_65083397.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/nouvelle-fusillade-mortelle-a-toulouse-une-voiture-criblee-de-balles-l-un-des-occupants-decede-a-l-hopital_65056707.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
-    <summary>En l'espace d'une semaine, Toulouse a été frappée par plusieurs épisodes de violences armées liés au trafic de stupéfiants. Dans la nuit du 13 au 14 novembre, une rafale de tirs a criblé la façade d'un immeuble du quartier de La Faourette — une quinzaine d'impacts relevés, des projectiles retrouvés dans un appartement, mais aucun blessé. Dans la nuit du 14 au 15 novembre, un jeune de 19 ans a été tué par balles dans une voiture garée devant un restaurant de Montaudran, ce que le procureur David Charmatz qualifie de cinquième narchomicide de l'année. Trois jours plus tard, dans la nuit du 17 au 18 novembre, un homme d'une trentaine d'années a été abattu d'une balle dans la tête sur un point de deal de la Reynerie — le sixième narchomicide de 2026 selon le procureur, dans le contexte d'une guerre de territoire entre groupes rivaux autour du Mirail et de Bellefontaine. Dans la nuit du 20 novembre, des policiers de la BST ont essuyé des tirs à La Faourette lors de l'interpellation d'un groupe qui tirait des feux d'artifice et des salves en l'air, un individu de 23 ans placé en garde à vue.</summary>
-    <category term="news"/>
-    <published>2026-11-15T10:02:38+01:00</published>
   </entry>
   <entry>
     <id>cluster:6595ad0b-6e38-4561-b0fb-f7ace2ad4721</id>
@@ -2238,10 +2025,224 @@
 &lt;p&gt;Plusieurs fermetures de voies sont à prévoir à Toulouse en novembre 2026. Du 16 au 27 novembre, les intersections des rues Matabiau, Saint-Orens et de l&amp;#x27;Orient seront fermées pour la construction d&amp;#x27;un réseau de chaleur et de froid urbain, avec des déviations via les rues Roquelaine, Claire-Pauilhac et la place Jeanne-d&amp;#x27;Arc. Dans la nuit du 17 au 18 novembre, l&amp;#x27;A68 sera entièrement coupée entre L&amp;#x27;Union et Montastruc en direction d&amp;#x27;Albi, et une section du périphérique à Montaudran sera également fermée entre 21h30 et 6h. Le 24 novembre au soir, c&amp;#x27;est la bretelle du périphérique extérieur vers l&amp;#x27;A64 (direction Tarbes) qui sera inaccessible dès 21h, avec déviation par Rangueil, le périphérique intérieur et la sortie Langlade jusqu&amp;#x27;à Portet-sur-Garonne. Les automobilistes toulousains sont invités à anticiper ces perturbations et à suivre les itinéraires de substitution indiqués.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Les trois articles couvrent des fermetures distinctes mais complémentaires : l&amp;#x27;un se concentre sur les travaux de voirie de quartier (Matabiau), les deux autres sur des fermetures nocturnes d&amp;#x27;axes autoroutiers et du périphérique. Les délais et déviations sont précisément détaillés dans chaque article.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – rue Matabiau&lt;/strong&gt;: Fermeture de quartier et impact sur les commerces locaux (16–27 nov.)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – A68/périphérique&lt;/strong&gt;: Fermetures nocturnes A68 et périphérique, nuit du 17 au 18 nov.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse – bretelle A64&lt;/strong&gt;: Fermeture bretelle périphérique vers A64, nuit du 24 au 25 nov.&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-sans-l-emprunter_65049850.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-peripherique-et-une-portion-d-autoroute-fermes-ce-mardi-soir-a-toulouse-comment-eviter-les-perturbations_65063672.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/cette-bretelle-du-peripherique-de-toulouse-va-etre-fermee-comment-eviter-les-difficultes_65084890.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://actu.fr/occitanie/toulouse_31555/cette-rue-strategique-va-etre-fermee-a-la-circulation-en-plein-coeur-de-toulouse-comment-se-deplacer-sans-l-emprunter_65049850.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/le-peripherique-et-une-portion-d-autoroute-fermes-ce-mardi-soir-a-toulouse-comment-eviter-les-perturbations_65063672.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/cette-bretelle-du-peripherique-de-toulouse-va-etre-fermee-comment-eviter-les-difficultes_65084890.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/le-peripherique-et-une-portion-d-autoroute-fermes-ce-mardi-soir-a-toulouse-comment-eviter-les-perturbations_65063672.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
     <summary>Plusieurs fermetures de voies sont à prévoir à Toulouse en novembre 2026. Du 16 au 27 novembre, les intersections des rues Matabiau, Saint-Orens et de l'Orient seront fermées pour la construction d'un réseau de chaleur et de froid urbain, avec des déviations via les rues Roquelaine, Claire-Pauilhac et la place Jeanne-d'Arc. Dans la nuit du 17 au 18 novembre, l'A68 sera entièrement coupée entre L'Union et Montastruc en direction d'Albi, et une section du périphérique à Montaudran sera également fermée entre 21h30 et 6h. Le 24 novembre au soir, c'est la bretelle du périphérique extérieur vers l'A64 (direction Tarbes) qui sera inaccessible dès 21h, avec déviation par Rangueil, le périphérique intérieur et la sortie Langlade jusqu'à Portet-sur-Garonne. Les automobilistes toulousains sont invités à anticiper ces perturbations et à suivre les itinéraires de substitution indiqués.</summary>
     <category term="news"/>
-    <published>2026-11-16T05:46:02+01:00</published>
+    <published>2026-11-17T16:21:24+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7840a8a7-a0cc-4e37-948e-e5b8a1e5b66d</id>
+    <title>Salomé Géraud développe le Drive tout nu à Toulouse</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/salome_g.jpg?itok=3r80VaRC"/&gt;
+&lt;p&gt;Salomé Géraud, cofondatrice du Drive tout nu, déploie un réseau de points de vente zéro déchet dans la région toulousaine et au-delà. Lancée en 2017 à Beauzelle, l&amp;#x27;enseigne propose drives, un supermarché à Labège et des corners intégrés dans des supermarchés classiques (Carrefour, Intermarché) où les produits sont vendus en vrac dans des bocaux en verre consignés. Une vingtaine de ces corners sont déjà installés à Toulouse, avec un objectif ambitieux de 180 d&amp;#x27;ici fin d&amp;#x27;année et près de 900 en 2027. Diplômée de Sciences Po Aix, Salomé Géraud s&amp;#x27;est reconvertie après avoir rencontré son mari à San Francisco, tous deux convaincus des enjeux environnementaux et sanitaires liés aux déchets plastiques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#56000"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#56000"/>
+    <summary>Salomé Géraud, cofondatrice du Drive tout nu, déploie un réseau de points de vente zéro déchet dans la région toulousaine et au-delà. Lancée en 2017 à Beauzelle, l'enseigne propose drives, un supermarché à Labège et des corners intégrés dans des supermarchés classiques (Carrefour, Intermarché) où les produits sont vendus en vrac dans des bocaux en verre consignés. Une vingtaine de ces corners sont déjà installés à Toulouse, avec un objectif ambitieux de 180 d'ici fin d'année et près de 900 en 2027. Diplômée de Sciences Po Aix, Salomé Géraud s'est reconvertie après avoir rencontré son mari à San Francisco, tous deux convaincus des enjeux environnementaux et sanitaires liés aux déchets plastiques.</summary>
+    <category term="news"/>
+    <published>2026-11-23T05:04:12.486000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b00ec6dc-ff35-4fa7-847d-812028865c21</id>
+    <title>StudHelp lance les repas solidaires pour étudiants isolés</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_541349515.jpg?itok=vFsyMxiy"/&gt;
+&lt;p&gt;L&amp;#x27;association toulousaine StudHelp lance officiellement l&amp;#x27;édition 2026 de son opération « Repas Solidaires », qui met en relation des particuliers et des étudiants isolés pendant les fêtes de fin d&amp;#x27;année. La plateforme d&amp;#x27;inscription ouvrira le 23 novembre, et les repas se tiendront entre le 23 décembre 2026 et le 2 janvier 2027. L&amp;#x27;initiative peut prendre la forme d&amp;#x27;un dîner, d&amp;#x27;un déjeuner, d&amp;#x27;un café ou d&amp;#x27;une activité partagée, chez soi ou à l&amp;#x27;extérieur. L&amp;#x27;an dernier, plus de 1 000 repas ont été partagés dans 122 villes ; cette année, l&amp;#x27;objectif est de 1 500 repas. À Toulouse, StudHelp accompagne déjà 350 étudiants tout au long de l&amp;#x27;année depuis 2021, et la participation locale reste encore modeste (cinq étudiants accueillis en 2024, deux en 2025).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55996"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55996"/>
+    <summary>L'association toulousaine StudHelp lance officiellement l'édition 2026 de son opération « Repas Solidaires », qui met en relation des particuliers et des étudiants isolés pendant les fêtes de fin d'année. La plateforme d'inscription ouvrira le 23 novembre, et les repas se tiendront entre le 23 décembre 2026 et le 2 janvier 2027. L'initiative peut prendre la forme d'un dîner, d'un déjeuner, d'un café ou d'une activité partagée, chez soi ou à l'extérieur. L'an dernier, plus de 1 000 repas ont été partagés dans 122 villes ; cette année, l'objectif est de 1 500 repas. À Toulouse, StudHelp accompagne déjà 350 étudiants tout au long de l'année depuis 2021, et la participation locale reste encore modeste (cinq étudiants accueillis en 2024, deux en 2025).</summary>
+    <category term="news"/>
+    <published>2026-11-23T05:04:12.486000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:2cfffb9e-3cb8-49a2-abb6-a41b9a1b9922</id>
+    <title>Rendez-vous gratuits Agirc-Arrco pour faire le point retraite</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/retraites--adobe-.jpg?itok=bz2i1dMX"/&gt;
+&lt;p&gt;L&amp;#x27;Agirc-Arrco propose ses « Rencontres retraite », des entretiens gratuits de 20 minutes avec un conseiller pour faire le point sur ses droits à la retraite complémentaire. L&amp;#x27;initiative cible notamment les effets de la parentalité sur le calcul de la retraite : congé parental, temps partiel, interruptions d&amp;#x27;activité après une naissance ou une adoption sont autant de périodes pouvant affecter les droits. Trimestres supplémentaires, majorations de pension et prise en compte des enfants restent en effet largement méconnus. À Toulouse et ses environs, les rendez-vous se tiennent au 30 boulevard Lazare-Carnot (Toulouse), au 11 esplanade André-Michaux (Balma) et route d&amp;#x27;Eaunes (Muret), jusqu&amp;#x27;au vendredi 27 novembre, par téléphone ou en présentiel sur inscription.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55998"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55998"/>
+    <summary>L'Agirc-Arrco propose ses « Rencontres retraite », des entretiens gratuits de 20 minutes avec un conseiller pour faire le point sur ses droits à la retraite complémentaire. L'initiative cible notamment les effets de la parentalité sur le calcul de la retraite : congé parental, temps partiel, interruptions d'activité après une naissance ou une adoption sont autant de périodes pouvant affecter les droits. Trimestres supplémentaires, majorations de pension et prise en compte des enfants restent en effet largement méconnus. À Toulouse et ses environs, les rendez-vous se tiennent au 30 boulevard Lazare-Carnot (Toulouse), au 11 esplanade André-Michaux (Balma) et route d'Eaunes (Muret), jusqu'au vendredi 27 novembre, par téléphone ou en présentiel sur inscription.</summary>
+    <category term="event"/>
+    <published>2026-11-23T05:04:12.486000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:1399aa98-72dc-424e-a2e0-3444e037316c</id>
+    <title>Concert de l'OSET à l'amphithéâtre Despax, entrée libre</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/orchestre-etudiant.jpg?h=ce6d6b6a&amp;amp;itok=2W3U4sD9"/&gt;
+&lt;p&gt;L&amp;#x27;Orchestre symphonique étudiant de Toulouse (OSET) donne un concert à l&amp;#x27;amphithéâtre Despax de l&amp;#x27;Université Toulouse Capitole. Au programme, des œuvres du compositeur tchèque du XIXe siècle Antonín Dvořák, sous la direction artistique de Lamar Elias. L&amp;#x27;orchestre regroupe plus de 120 étudiants de cursus et d&amp;#x27;âges variés, réunis en association pour promouvoir la pratique musicale d&amp;#x27;ensemble dans le milieu universitaire. L&amp;#x27;entrée est libre et sans réservation ; le concert est également donné une seconde fois le 24 novembre à 20h30 au même endroit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55997"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55997"/>
+    <summary>L'Orchestre symphonique étudiant de Toulouse (OSET) donne un concert à l'amphithéâtre Despax de l'Université Toulouse Capitole. Au programme, des œuvres du compositeur tchèque du XIXe siècle Antonín Dvořák, sous la direction artistique de Lamar Elias. L'orchestre regroupe plus de 120 étudiants de cursus et d'âges variés, réunis en association pour promouvoir la pratique musicale d'ensemble dans le milieu universitaire. L'entrée est libre et sans réservation ; le concert est également donné une seconde fois le 24 novembre à 20h30 au même endroit.</summary>
+    <category term="event"/>
+    <published>2026-11-23T05:04:12.486000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:20158632-77e9-45c7-80a2-908b2719697b</id>
+    <title>La carte de fidélité de la rue du Taur lancée dans 12 commerces</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/adobestock_123365009.jpg?itok=IFnDXi2p"/&gt;
+&lt;p&gt;La rue du Taur lance officiellement aujourd&amp;#x27;hui sa carte de fidélité collective, utilisable dans une douzaine de commerces partenaires de cette artère toulousaine. Le principe : accumuler 10 tampons dans au moins 5 commerces différents pour obtenir une réduction au magasin de son choix. Chaque commerçant fixe librement sa promotion — par exemple -10 % chez Amone, l&amp;#x27;enseigne de cordons bleus de Jordan Perez, président de l&amp;#x27;association de la rue du Taur. La carte est gratuite et reconnaissable grâce à un logo affiché en vitrine ; elle couvre aussi bien des adresses de bouche que des créateurs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news#55999"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://www.lessentiel.fr/newsletter/toulouse/2026-11-23?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news#55999"/>
+    <summary>La rue du Taur lance officiellement aujourd'hui sa carte de fidélité collective, utilisable dans une douzaine de commerces partenaires de cette artère toulousaine. Le principe : accumuler 10 tampons dans au moins 5 commerces différents pour obtenir une réduction au magasin de son choix. Chaque commerçant fixe librement sa promotion — par exemple -10 % chez Amone, l'enseigne de cordons bleus de Jordan Perez, président de l'association de la rue du Taur. La carte est gratuite et reconnaissable grâce à un logo affiché en vitrine ; elle couvre aussi bien des adresses de bouche que des créateurs.</summary>
+    <category term="news"/>
+    <published>2026-11-23T05:04:12.486000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:89538e51-b6fa-4859-b0fc-8392b5bd8e89</id>
+    <title>Salon Fragments à l'Hôtel-Dieu Saint-Jacques : 77 artisans attendus</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/FB-IMG-1760708353226-copie.jpg"/&gt;
+&lt;p&gt;La 6e édition du salon des créateurs et artisans Fragments se tient à l&amp;#x27;Hôtel-Dieu Saint-Jacques du 26 au 29 novembre. L&amp;#x27;événement rassemble 77 artisans et créateurs, organisé à l&amp;#x27;invitation de la Chambre de métiers et de l&amp;#x27;artisanat d&amp;#x27;Occitanie. Ce rendez-vous annuel, désormais à sa sixième édition, s&amp;#x27;est imposé comme un temps fort de l&amp;#x27;artisanat local et régional à Toulouse. Il s&amp;#x27;adresse aussi bien aux amateurs de savoir-faire artisanaux qu&amp;#x27;aux personnes en quête de cadeaux originaux en amont des fêtes de fin d&amp;#x27;année.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/ltlc/v1/vYcpASgtUYSbUzXLeis4Fmmzp/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st=1795410217&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/ltlc/v1/vYcpASgtUYSbUzXLeis4Fmmzp/5d77f0018b933a3a489e72fa85f25e95/31Zk48Q9Uq_cHaey~AcXhx2cBageuw4r?st=1795410191&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/ltlc/v1/vYcpASgtUYSbUzXLeis4Fmmzp/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st=1795410217&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>La 6e édition du salon des créateurs et artisans Fragments se tient à l'Hôtel-Dieu Saint-Jacques du 26 au 29 novembre. L'événement rassemble 77 artisans et créateurs, organisé à l'invitation de la Chambre de métiers et de l'artisanat d'Occitanie. Ce rendez-vous annuel, désormais à sa sixième édition, s'est imposé comme un temps fort de l'artisanat local et régional à Toulouse. Il s'adresse aussi bien aux amateurs de savoir-faire artisanaux qu'aux personnes en quête de cadeaux originaux en amont des fêtes de fin d'année.</summary>
+    <category term="event"/>
+    <published>2026-11-23T05:03:46.917000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a</id>
+    <title>Le marché de Noël de Toulouse place du Capitole dès le 26 novembre</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2025/12/marche-noel-toulouse-patinoire-capitole.jpeg"/&gt;
+&lt;p&gt;Le marché de Noël de Toulouse se tiendra du 26 novembre au 27 décembre 2026. Une centaine de chalets seront installés sur la place du Capitole, cœur traditionnel de l&amp;#x27;événement. Un village enchanté animera également le square Charles-de-Gaulle, et le célèbre sapin-manège sera de retour rue d&amp;#x27;Alsace-Lorraine. L&amp;#x27;événement s&amp;#x27;étale sur un mois et concerne l&amp;#x27;ensemble des Toulousains et visiteurs de passage en période de fêtes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/ltlc/v1/Rjl7iCG23s_Q_xsk_ZN-CmZaD/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st=1795410217&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/ltlc/v1/Rjl7iCG23s_Q_xsk_ZN-CmZaD/5d77f0018b933a3a489e72fa85f25e95/31Zk48Q9Uq_cHaey~AcXhx2cBageuw4r?st=1795410191&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/ltlc/v1/Rjl7iCG23s_Q_xsk_ZN-CmZaD/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st=1795410217&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le marché de Noël de Toulouse se tiendra du 26 novembre au 27 décembre 2026. Une centaine de chalets seront installés sur la place du Capitole, cœur traditionnel de l'événement. Un village enchanté animera également le square Charles-de-Gaulle, et le célèbre sapin-manège sera de retour rue d'Alsace-Lorraine. L'événement s'étale sur un mois et concerne l'ensemble des Toulousains et visiteurs de passage en période de fêtes.</summary>
+    <category term="event"/>
+    <published>2026-11-23T05:03:46.917000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:cebed2b8-6635-4eb9-862f-53f3e96419ba</id>
+    <title>Le festival Impulsez! célèbre l'impro à la MJC Pont des Demoiselles</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://cdt31.media.tourinsoft.eu/upload/CASSEROLES-2.jpg"/&gt;
+&lt;p&gt;Le festival Impulsez!, organisé à l&amp;#x27;invitation de La Bulle Carrée, se tient jusqu&amp;#x27;au 28 novembre et célèbre l&amp;#x27;art de l&amp;#x27;improvisation sous toutes ses formes. Au programme : spectacles, matchs d&amp;#x27;impro, créations originales et ateliers. La première date toulousaine se déroule à la MJC Pont des Demoiselles, avenue Antoine de Saint-Exupéry, avec Rich and Jane pour ouvrir les festivités. L&amp;#x27;événement s&amp;#x27;adresse à tous les amateurs d&amp;#x27;improvisation théâtrale et de formes artistiques vivantes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/ltlc/v1/nEoUWbOyxc929oMF8rfIt_zwZ/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st=1795410217&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/ltlc/v1/nEoUWbOyxc929oMF8rfIt_zwZ/5d77f0018b933a3a489e72fa85f25e95/31Zk48Q9Uq_cHaey~AcXhx2cBageuw4r?st=1795410191&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/ltlc/v1/nEoUWbOyxc929oMF8rfIt_zwZ/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st=1795410217&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Le festival Impulsez!, organisé à l'invitation de La Bulle Carrée, se tient jusqu'au 28 novembre et célèbre l'art de l'improvisation sous toutes ses formes. Au programme : spectacles, matchs d'impro, créations originales et ateliers. La première date toulousaine se déroule à la MJC Pont des Demoiselles, avenue Antoine de Saint-Exupéry, avec Rich and Jane pour ouvrir les festivités. L'événement s'adresse à tous les amateurs d'improvisation théâtrale et de formes artistiques vivantes.</summary>
+    <category term="event"/>
+    <published>2026-11-23T05:03:46.917000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:91566ad7-c0cf-45e9-954a-121436109ca0</id>
+    <title>Semaine contre les violences faites aux femmes : marche et événements à Toulouse</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>lessentiel</name>
+    </author>
+    <content type="html">&lt;img src="https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/femmes-adobe.jpg?itok=UQtFcqNv"/&gt;
+&lt;p&gt;À l&amp;#x27;occasion de la journée mondiale du 25 novembre pour l&amp;#x27;élimination de la violence à l&amp;#x27;égard des femmes, Toulouse multiplie les actions tout au long du mois de novembre, avec une concentration d&amp;#x27;événements cette semaine. Une marche est prévue mardi à 18h30 au départ des Carmes, en direction de la stèle mémorielle de l&amp;#x27;esplanade Alain Savary. Mercredi, un espace d&amp;#x27;accueil et de renseignements ouvrira au square Charles de Gaulle de 10h à 17h30. Le programme inclut danse, théâtre, expositions, ateliers, débats et tables rondes — et le Capitole sera illuminé en orange, couleur symbolique choisie par l&amp;#x27;ONU pour cette campagne.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://newsletter.lessentiel.fr/ltlc/v1/dH7Bw4AwkIHY8RSlgmVoUCdx7/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st=1795410217&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;, &lt;a href="https://newsletter.lessentiel.fr/ltlc/v1/dH7Bw4AwkIHY8RSlgmVoUCdx7/5d77f0018b933a3a489e72fa85f25e95/31Zk48Q9Uq_cHaey~AcXhx2cBageuw4r?st=1795410191&amp;amp;utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;L&amp;#x27;Essentiel&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://newsletter.lessentiel.fr/ltlc/v1/dH7Bw4AwkIHY8RSlgmVoUCdx7/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st=1795410217&amp;utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>À l'occasion de la journée mondiale du 25 novembre pour l'élimination de la violence à l'égard des femmes, Toulouse multiplie les actions tout au long du mois de novembre, avec une concentration d'événements cette semaine. Une marche est prévue mardi à 18h30 au départ des Carmes, en direction de la stèle mémorielle de l'esplanade Alain Savary. Mercredi, un espace d'accueil et de renseignements ouvrira au square Charles de Gaulle de 10h à 17h30. Le programme inclut danse, théâtre, expositions, ateliers, débats et tables rondes — et le Capitole sera illuminé en orange, couleur symbolique choisie par l'ONU pour cette campagne.</summary>
+    <category term="news"/>
+    <published>2026-11-23T05:03:46.917000+00:00</published>
+  </entry>
+  <entry>
+    <id>cluster:ce01b1ad-324d-4626-b00f-c5d0ae6dfeca</id>
+    <title>Jeu-concours : gagnez des places pour TFC – Rennes au Stadium</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/img-4893.jpg"/&gt;
+&lt;p&gt;Actu Toulouse organise un jeu-concours pour faire gagner des places pour le match de Ligue 1 entre le Toulouse Football Club et le Stade Rennais FC. La rencontre se tient au Stadium de Toulouse le dimanche 29 novembre 2026 à 17h15, dans le cadre de la 12e journée de Ligue 1 McDonald&amp;#x27;s. Pour participer, il faut remplir un formulaire avant le mercredi 25 novembre 2026 à 14h. Les gagnants recevront deux places chacun et seront contactés par téléphone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/jeu-des-places-a-gagner-pour-le-match-tfc-contre-rennes-au-stadium-de-toulouse_65076839.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/jeu-des-places-a-gagner-pour-le-match-tfc-contre-rennes-au-stadium-de-toulouse_65076839.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Actu Toulouse organise un jeu-concours pour faire gagner des places pour le match de Ligue 1 entre le Toulouse Football Club et le Stade Rennais FC. La rencontre se tient au Stadium de Toulouse le dimanche 29 novembre 2026 à 17h15, dans le cadre de la 12e journée de Ligue 1 McDonald's. Pour participer, il faut remplir un formulaire avant le mercredi 25 novembre 2026 à 14h. Les gagnants recevront deux places chacun et seront contactés par téléphone.</summary>
+    <category term="news"/>
+    <published>2026-11-22T17:54:01+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:93245eab-1a43-4fd8-b383-ba2cd7c71b70</id>
+    <title>Opéra National du Capitole : les spectacles incontournables de la saison</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/opera-national-capitole-toulouse-patrice-nin.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;Opéra National du Capitole de Toulouse propose une saison particulièrement riche, ouverte par une reprise très attendue de Rusalka de Dvořák dans la mise en scène de Stefano Poda, dirigée par Giacomo Sagripanti. Peter Grimes de Britten, avec le ténor Nikolai Schukoff, et Le Barbier de Séville figurent également au programme des reprises. Parmi les nouvelles productions, Lohengrin de Wagner par Michel Fau inaugurera l&amp;#x27;année 2027, tandis que Le Roi Arthus de Chausson fera son entrée au répertoire dans une mise en scène d&amp;#x27;Aurélien Bory. La saison accueille aussi le retour très attendu de Roberto Alagna dans Medea de Cherubini, aux côtés de Karine Deshayes, et propose deux opéras en version concert ainsi que plusieurs récitals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/opera-national-du-capitole-ces-spectacles-a-voir-absolument-a-toulouse-cette-saison_64817961.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/opera-national-du-capitole-ces-spectacles-a-voir-absolument-a-toulouse-cette-saison_64817961.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'Opéra National du Capitole de Toulouse propose une saison particulièrement riche, ouverte par une reprise très attendue de Rusalka de Dvořák dans la mise en scène de Stefano Poda, dirigée par Giacomo Sagripanti. Peter Grimes de Britten, avec le ténor Nikolai Schukoff, et Le Barbier de Séville figurent également au programme des reprises. Parmi les nouvelles productions, Lohengrin de Wagner par Michel Fau inaugurera l'année 2027, tandis que Le Roi Arthus de Chausson fera son entrée au répertoire dans une mise en scène d'Aurélien Bory. La saison accueille aussi le retour très attendu de Roberto Alagna dans Medea de Cherubini, aux côtés de Karine Deshayes, et propose deux opéras en version concert ainsi que plusieurs récitals.</summary>
+    <category term="culture"/>
+    <published>2026-11-22T20:48:20+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:7e801e6e-f67f-4984-8988-35dac75b9bdd</id>
+    <title>La caserne Jacques Vion se transforme : logements et parc urbain prévus</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/04/caserne-vion-toulouse-immeuble.jpg"/&gt;
+&lt;p&gt;L&amp;#x27;ancienne caserne de pompiers Jacques Vion, située allées Charles-de-Fitte, va entamer sa réhabilitation dans les prochaines semaines après sa vente par la mairie de Toulouse à Sporting Promotion et Vinci Immobilier en 2024. Ce site de 10 000 m², conçu par l&amp;#x27;architecte Pierre Debeau dans les années 1960, bénéficie du label « architecture contemporaine remarquable » et est inscrit aux Monuments historiques depuis 2023. Le projet prévoit la création de nouveaux logements, un restaurant, une salle de sport et un parc urbain, tout en respectant les caractéristiques architecturales du bâtiment. L&amp;#x27;opération, dont la livraison est attendue pour 2029, suscite déjà l&amp;#x27;intérêt des investisseurs, notamment grâce à un dispositif fiscal spécifique lié au statut patrimonial du site.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/les-travaux-n-ont-pas-debute-mais-les-investisseurs-sont-deja-la-pourquoi-cette-ancienne-caserne-de-toulouse-seduit_65067442.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/les-travaux-n-ont-pas-debute-mais-les-investisseurs-sont-deja-la-pourquoi-cette-ancienne-caserne-de-toulouse-seduit_65067442.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>L'ancienne caserne de pompiers Jacques Vion, située allées Charles-de-Fitte, va entamer sa réhabilitation dans les prochaines semaines après sa vente par la mairie de Toulouse à Sporting Promotion et Vinci Immobilier en 2024. Ce site de 10 000 m², conçu par l'architecte Pierre Debeau dans les années 1960, bénéficie du label « architecture contemporaine remarquable » et est inscrit aux Monuments historiques depuis 2023. Le projet prévoit la création de nouveaux logements, un restaurant, une salle de sport et un parc urbain, tout en respectant les caractéristiques architecturales du bâtiment. L'opération, dont la livraison est attendue pour 2029, suscite déjà l'intérêt des investisseurs, notamment grâce à un dispositif fiscal spécifique lié au statut patrimonial du site.</summary>
+    <category term="news"/>
+    <published>2026-11-23T04:26:02+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:94d5bb87-0489-40bb-b87b-689269fcde36</id>
+    <title>Macron visite Airbus à Blagnac : annonces sur le soutien à la filière</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/11/capture-decran-2026-11-18-212214.png"/&gt;
+&lt;p&gt;Emmanuel Macron s&amp;#x27;est rendu à Toulouse les 22 et 23 novembre 2026 dans le cadre d&amp;#x27;une séquence industrielle et européenne. Dimanche soir, il a dîné au Palais Niel avec une soixantaine de dirigeants de grands groupes européens (ERT) pour évoquer la compétitivité face à la Chine et aux États-Unis. Lundi matin, il a visité le site d&amp;#x27;Airbus à Blagnac — notamment l&amp;#x27;usine Jean-Luc Lagardère et un A350F — avant de prononcer un discours réaffirmant le soutien de l&amp;#x27;État à la filière aéronautique dans le cadre de France 2030. Ces annonces interviennent dans un contexte jugé « difficile » par l&amp;#x27;Élysée, qui souhaite dissiper les doutes sur la continuité du soutien public à un secteur stratégique pour la souveraineté industrielle française.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Le premier article adopte un angle d&amp;#x27;anticipation (programme, contexte diplomatique), tandis que le second est un direct liveblog couvrant la visite en temps réel avec les coulisses et les temps forts.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 1)&lt;/strong&gt;: Contexte politique et économique de la visite, dîner avec les PDG européens, lien avec Choose France&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Déroulé heure par heure de la visite chez Airbus, annonces et temps forts en direct&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/diner-en-ville-visite-chez-airbus-annonces-prevues-emmanuel-macron-va-venir-a-toulouse-voici-son-programme_65074288.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/direct-emmanuel-macron-chez-airbus-coulisses-temps-forts-annonces-suivez-sa-visite-a-toulouse_65086880.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/diner-en-ville-visite-chez-airbus-annonces-prevues-emmanuel-macron-va-venir-a-toulouse-voici-son-programme_65074288.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Emmanuel Macron s'est rendu à Toulouse les 22 et 23 novembre 2026 dans le cadre d'une séquence industrielle et européenne. Dimanche soir, il a dîné au Palais Niel avec une soixantaine de dirigeants de grands groupes européens (ERT) pour évoquer la compétitivité face à la Chine et aux États-Unis. Lundi matin, il a visité le site d'Airbus à Blagnac — notamment l'usine Jean-Luc Lagardère et un A350F — avant de prononcer un discours réaffirmant le soutien de l'État à la filière aéronautique dans le cadre de France 2030. Ces annonces interviennent dans un contexte jugé « difficile » par l'Élysée, qui souhaite dissiper les doutes sur la continuité du soutien public à un secteur stratégique pour la souveraineté industrielle française.</summary>
+    <category term="news"/>
+    <published>2026-11-18T21:28:09+01:00</published>
+  </entry>
+  <entry>
+    <id>cluster:f9855e21-d1ac-4f97-8a37-e4547f149ed5</id>
+    <title>Deux accidents graves en une semaine rue Henri-Desbals à Toulouse</title>
+    <updated>2026-11-23T07:32:16.907865+00:00</updated>
+    <author>
+      <name>actu_toulouse</name>
+    </author>
+    <content type="html">&lt;img src="https://static.actu.fr/uploads/2026/07/a6b86d27b45a66bb86d27b45a4fb86v.jpg"/&gt;
+&lt;p&gt;Dans la nuit du 14 au 15 novembre 2026, deux adolescents ont été fauchés par une voiture dans le quartier de La Faourette, rue Henri-Desbals : la jeune fille de 17 ans a succombé à ses blessures le lundi 16 novembre, tandis que le garçon de 15 ans s&amp;#x27;en est sorti avec des blessures légères. La conductrice, une femme de 32 ans retrouvée alcoolisée avec sa passagère après avoir pris la fuite, est suspectée d&amp;#x27;homicide routier aggravé et a été déférée en vue de l&amp;#x27;ouverture d&amp;#x27;une information judiciaire. Une semaine plus tard, dans la nuit du 22 novembre, un trottinettiste de 30 ans a été grièvement blessé au même carrefour après une collision avec un cycliste — le trottinettiste, vraisemblablement alcoolisé, n&amp;#x27;aurait pas respecté un cédez-le-passage. Cette succession d&amp;#x27;accidents graves en quelques jours au même endroit soulève des inquiétudes sur la dangerosité de ce carrefour du sud de Toulouse.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Les deux premiers articles couvrent le même accident mortel à des stades différents : le premier, publié dimanche, rapportait l&amp;#x27;état critique de l&amp;#x27;adolescente ; le second, publié lundi, annonce son décès et précise les suites judiciaires. Le troisième article couvre un accident distinct survenu une semaine plus tard au même endroit, en soulignant explicitement la répétition des faits.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;À lire pour:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 2)&lt;/strong&gt;: Décès de l&amp;#x27;adolescente et qualification d&amp;#x27;homicide routier aggravé&lt;/li&gt;&lt;li&gt;&lt;strong&gt;actu_toulouse (article 3)&lt;/strong&gt;: Second accident grave une semaine plus tard, même carrefour&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href="https://actu.fr/occitanie/toulouse_31555/fauchee-par-une-automobiliste-qui-a-pris-la-fuite-la-jeune-pietonne-de-17-ans-est-decedee-a-toulouse_65060733.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;, &lt;a href="https://actu.fr/occitanie/toulouse_31555/un-trottinettiste-grievement-blesse-apres-un-choc-avec-un-cycliste-encore-un-grave-accident-dans-cette-rue-de-toulouse_65086524.html?utm_source=lavillerose.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=toulouse-news"&gt;Actu Toulouse&lt;/a&gt;&lt;/p&gt;</content>
+    <link href="https://actu.fr/occitanie/toulouse_31555/fauchee-par-une-automobiliste-qui-a-pris-la-fuite-la-jeune-pietonne-de-17-ans-est-decedee-a-toulouse_65060733.html?utm_source=lavillerose.com&amp;utm_medium=referral&amp;utm_campaign=toulouse-news"/>
+    <summary>Dans la nuit du 14 au 15 novembre 2026, deux adolescents ont été fauchés par une voiture dans le quartier de La Faourette, rue Henri-Desbals : la jeune fille de 17 ans a succombé à ses blessures le lundi 16 novembre, tandis que le garçon de 15 ans s'en est sorti avec des blessures légères. La conductrice, une femme de 32 ans retrouvée alcoolisée avec sa passagère après avoir pris la fuite, est suspectée d'homicide routier aggravé et a été déférée en vue de l'ouverture d'une information judiciaire. Une semaine plus tard, dans la nuit du 22 novembre, un trottinettiste de 30 ans a été grièvement blessé au même carrefour après une collision avec un cycliste — le trottinettiste, vraisemblablement alcoolisé, n'aurait pas respecté un cédez-le-passage. Cette succession d'accidents graves en quelques jours au même endroit soulève des inquiétudes sur la dangerosité de ce carrefour du sud de Toulouse.</summary>
+    <category term="news"/>
+    <published>2026-11-16T16:34:30+01:00</published>
   </entry>
 </feed>

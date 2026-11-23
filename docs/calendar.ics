@@ -26281,24 +26281,6 @@ URL:https://www.clutchmag.fr/evenements#2026-11-19-jeudi-19-novembre-0?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:1399aa98-72dc-424e-a2e0-3444e037316c@news.lavillerose.com
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Concert Étudiants ONCT
-DESCRIPTION:L'Orchestre National du Capitole de Toulouse (ONCT) propose un 
- concert à tarif étudiant le 19 novembre 2026 à la Halle aux Grains\, au
- tour d'un programme franco-américain. Au menu : le Concerto pour la main 
- gauche et le Boléro de Ravel\, ainsi qu'Appalachian Spring de Copland\, d
- eux compositeurs emblématiques du métissage musical du XXe siècle. La s
- oirée est placée sous la direction de Bar Avni\, lauréate du concours L
- a Maestra en 2024\, et met en vedette le pianiste Bertrand Chamayou\, anci
- en étudian\n\nSource\: https://www.toulouse-tourisme.com/agenda/concert-e
- tudiants-avec-lonct/
-LOCATION:Halle aux Grains\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/concert-etudiants-avec-lonct/?
- utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:57a8ea97-98b9-4184-985a-67513e2a3886@news.lavillerose.com
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -26772,23 +26754,6 @@ DESCRIPTION:Le Festival BD de Colomiers investit plusieurs lieux de la vill
  -bd-de-colomiers/
 URL:https://www.toulouse-tourisme.com/agenda/festival-bd-de-colomiers/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:cebed2b8-6635-4eb9-862f-53f3e96419ba@news.lavillerose.com
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261129
-SUMMARY:IMPULSEZ!
-DESCRIPTION:IMPULSEZ! est un festival d'improvisation théâtrale qui se ti
- ent du 20 au 28 novembre 2026 dans divers lieux de Toulouse\, Muret et des
-  environs. La programmation mêle matchs d'impro\, créations collectives\
- , formats hybrides et spectacles multilingues\, accueillis dans des théâ
- tres\, cafés-théâtres\, MJC\, écoles et centres culturels. Le festival
-  met en avant la liberté créative\, la rencontre internationale et la sp
- ontanéité\, avec des formes scéniques inédites en plusieurs langues. I
- l s'adresse à un l\n\nSource\: https://www.toulouse-tourisme.com/agenda/i
- mpulsez/
-URL:https://www.toulouse-tourisme.com/agenda/impulsez/?utm_source=ical&utm_
- medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c814bf3f-cd5a-4967-b356-6d9a703ee5fe@news.lavillerose.com
@@ -27329,27 +27294,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/minitel-billet/idmanif/679
  ouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:94d5bb87-0489-40bb-b87b-689269fcde36@news.lavillerose.com
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261124
-SUMMARY:Macron à Toulouse : visite chez Airbus et dîner avec des dirigean
- ts
-DESCRIPTION:Emmanuel Macron se rendra à Toulouse le dimanche 22 novembre 2
- 026 et y restera jusqu'au lundi 23 novembre. Il dînera dimanche soir avec
-  une soixantaine de dirigeants d'entreprises européennes — d'Engie à V
- odafone — pour évoquer la compétitivité européenne face à la Chine 
- et aux États-Unis. Le lundi\, il visitera le site d'Airbus\, où des anno
- nces sont attendues sur le soutien de l'État à la filière aéronautique
- \, dans un contexte jugé « difficile » par l'Élysée. Cette visite s'i
- nscrit dans le cadre\n\nSource\: https://actu.fr/occitanie/toulouse_31555/
- diner-en-ville-visite-chez-airbus-annonces-prevues-emmanuel-macron-va-veni
- r-a-toulouse-voici-son-programme_65074288.html
-URL:https://actu.fr/occitanie/toulouse_31555/diner-en-ville-visite-chez-air
- bus-annonces-prevues-emmanuel-macron-va-venir-a-toulouse-voici-son-program
- me_65074288.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
- -agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:e98deda5-8047-48e3-be69-2a7719b02670@news.lavillerose.com
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261124
@@ -27371,6 +27315,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/rues-fermees-rassemblements-in
  louse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1399aa98-72dc-424e-a2e0-3444e037316c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261125
+SUMMARY:Concert OSET – Dvořák
+DESCRIPTION:L'Orchestre symphonique étudiant de Toulouse (OSET) donne un c
+ oncert à l'amphithéâtre Despax de l'Université Toulouse Capitole. Au p
+ rogramme\, des œuvres du compositeur tchèque du XIXe siècle Antonín Dv
+ ořák\, sous la direction artistique de Lamar Elias. L'orchestre regroupe
+  plus de 120 étudiants de cursus et d'âges variés\, réunis en associat
+ ion pour promouvoir la pratique musicale d'ensemble dans le milieu univers
+ itaire. L'entrée est libre et sans réservation \; le concert est égalem
+ ent donné une s\n\nSource\: https://www.lessentiel.fr/newsletter/toulouse
+ /2026-11-23#55997
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-23#55997?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:587710dc-3c5a-404d-9d69-17cdbca25b57@news.lavillerose.com
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
@@ -27386,6 +27347,26 @@ DESCRIPTION:Le spectacle « Rich and Jane » s'installe à la MJC Pont des
  /
 URL:https://www.toulouse-tourisme.com/agenda/rich-and-jane/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cebed2b8-6635-4eb9-862f-53f3e96419ba@news.lavillerose.com
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261129
+SUMMARY:Impulsez! – MJC Pont des Demoiselles
+DESCRIPTION:Le festival Impulsez!\, organisé à l'invitation de La Bulle C
+ arrée\, se tient jusqu'au 28 novembre et célèbre l'art de l'improvisati
+ on sous toutes ses formes. Au programme : spectacles\, matchs d'impro\, cr
+ éations originales et ateliers. La première date toulousaine se déroule
+  à la MJC Pont des Demoiselles\, avenue Antoine de Saint-Exupéry\, avec 
+ Rich and Jane pour ouvrir les festivités. L'événement s'adresse à tous
+  les amateurs d'improvisation théâtrale et de formes artistiques vivante
+ s.\n\nSource\: https://newsletter.lessentiel.fr/ltlc/v1/nEoUWbOyxc929oMF8r
+ fIt_zwZ/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwy
+ QhkWaQCXk?st=1795410217
+URL:https://newsletter.lessentiel.fr/ltlc/v1/nEoUWbOyxc929oMF8rfIt_zwZ/71cc
+ 8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st
+ =1795410217?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:60c33ab8-def8-4956-85f4-a0182f05d1f9@news.lavillerose.com
@@ -27424,6 +27405,62 @@ LOCATION:place de Damloup\, Toulouse
 URL:https://actu.fr/occitanie/toulouse_31555/avec-son-oeuf-mayo-revisite-ce
  -resto-de-toulouse-va-representer-l-occitanie-au-concours-mondial_65050199
  .html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:94d5bb87-0489-40bb-b87b-689269fcde36@news.lavillerose.com
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Macron visite Airbus à Blagnac : annonces sur le soutien à la fil
+ ière
+DESCRIPTION:Emmanuel Macron s'est rendu à Toulouse les 22 et 23 novembre 2
+ 026 dans le cadre d'une séquence industrielle et européenne. Dimanche so
+ ir\, il a dîné au Palais Niel avec une soixantaine de dirigeants de gran
+ ds groupes européens (ERT) pour évoquer la compétitivité face à la Ch
+ ine et aux États-Unis. Lundi matin\, il a visité le site d'Airbus à Bla
+ gnac — notamment l'usine Jean-Luc Lagardère et un A350F — avant de pr
+ ononcer un discours réaffirmant le soutien de l'État à la filière aér
+ onautique dans le \n\nSource\: https://actu.fr/occitanie/toulouse_31555/di
+ ner-en-ville-visite-chez-airbus-annonces-prevues-emmanuel-macron-va-venir-
+ a-toulouse-voici-son-programme_65074288.html
+LOCATION:Palais Niel\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/diner-en-ville-visite-chez-air
+ bus-annonces-prevues-emmanuel-macron-va-venir-a-toulouse-voici-son-program
+ me_65074288.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:2cfffb9e-3cb8-49a2-abb6-a41b9a1b9922@news.lavillerose.com
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Rencontres retraite
+DESCRIPTION:L'Agirc-Arrco propose ses « Rencontres retraite »\, des entre
+ tiens gratuits de 20 minutes avec un conseiller pour faire le point sur se
+ s droits à la retraite complémentaire. L'initiative cible notamment les 
+ effets de la parentalité sur le calcul de la retraite : congé parental\,
+  temps partiel\, interruptions d'activité après une naissance ou une ado
+ ption sont autant de périodes pouvant affecter les droits. Trimestres sup
+ plémentaires\, majorations de pension et prise en compte des enfants rest
+ ent en \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/2026-11-
+ 23#55998
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-23#55998?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b00ec6dc-ff35-4fa7-847d-812028865c21@news.lavillerose.com
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Repas Solidaires 2026
+DESCRIPTION:L'association toulousaine StudHelp lance officiellement l'édit
+ ion 2026 de son opération « Repas Solidaires »\, qui met en relation de
+ s particuliers et des étudiants isolés pendant les fêtes de fin d'anné
+ e. La plateforme d'inscription ouvrira le 23 novembre\, et les repas se ti
+ endront entre le 23 décembre 2026 et le 2 janvier 2027. L'initiative peut
+  prendre la forme d'un dîner\, d'un déjeuner\, d'un café ou d'une activ
+ ité partagée\, chez soi ou à l'extérieur. L'an dernier\, plus de 1 000
+  repas ont été \n\nSource\: https://www.lessentiel.fr/newsletter/toulous
+ e/2026-11-23#55996
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-23#55996?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:cf8da38b-8090-4010-8d1a-f0728e1f892d@news.lavillerose.com
@@ -27751,21 +27788,21 @@ BEGIN:VEVENT
 UID:cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261228
-SUMMARY:Marché de Noël – place du Capitole
-DESCRIPTION:Le marché de Noël de Toulouse ouvrira ses portes du 26 novemb
- re au 27 décembre 2026\, avec l'installation des chalets place du Capitol
- e déjà en cours depuis le 13 novembre. Cette année\, l'événement est 
- confié à un nouveau prestataire\, le groupe 2A Organisation\, qui promet
-  une nouvelle scénographie pour enrichir le parcours de visite. Le march
- é investira plusieurs lieux de la ville : place du Capitole\, cour Henri 
- IV\, square Charles-de-Gaulle et allées Jean-Jaurès\, avec plus d'une ce
- ntaine d'exposa\n\nSource\: https://actu.fr/occitanie/toulouse_31555/voici
- -les-dates-du-prochain-marche-de-noel-place-du-capitole-a-toulouse-des-nou
- veautes-annoncees_65026056.html
-LOCATION:place du Capitole déjà en cours depuis le 13 novembre\, Toulouse
-URL:https://actu.fr/occitanie/toulouse_31555/voici-les-dates-du-prochain-ma
- rche-de-noel-place-du-capitole-a-toulouse-des-nouveautes-annoncees_6502605
- 6.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Marché de Noël de Toulouse
+DESCRIPTION:Le marché de Noël de Toulouse se tiendra du 26 novembre au 27
+  décembre 2026. Une centaine de chalets seront installés sur la place du
+  Capitole\, cœur traditionnel de l'événement. Un village enchanté anim
+ era également le square Charles-de-Gaulle\, et le célèbre sapin-manège
+  sera de retour rue d'Alsace-Lorraine. L'événement s'étale sur un mois 
+ et concerne l'ensemble des Toulousains et visiteurs de passage en période
+  de fêtes.\n\nSource\: https://newsletter.lessentiel.fr/ltlc/v1/Rjl7iCG23
+ s_Q_xsk_ZN-CmZaD/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYByc
+ EqVcxAQwyQhkWaQCXk?st=1795410217
+LOCATION:place du Capitole\, Toulouse
+URL:https://newsletter.lessentiel.fr/ltlc/v1/Rjl7iCG23s_Q_xsk_ZN-CmZaD/71cc
+ 8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st
+ =1795410217?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d827e3e-c132-4642-a63d-66823a9bdeea@news.lavillerose.com
@@ -27947,18 +27984,21 @@ BEGIN:VEVENT
 UID:cluster:89538e51-b6fa-4859-b0fc-8392b5bd8e89@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
-SUMMARY:FRAGMENTS #6
-DESCRIPTION:La sixième édition de FRAGMENTS investit l'Hôtel-Dieu-Saint-
- Jacques à Toulouse du 26 au 29 novembre 2026 pour célébrer les Métiers
-  d'Art d'Occitanie. L'événement réunit une sélection rigoureuse d'arti
- sans — bronziers\, souffleurs de verre\, bijoutiers\, céramistes\, luth
- iers\, vitraillistes\, ébénistes\, tisserands et bien d'autres — dans 
- ce lieu patrimonial d'exception. Au programme : exposition-vente de pièce
- s uniques\, démonstrations de savoir-faire en direct et rencontres avec l
- es exposants\, ainsi q\n\nSource\: https://www.toulouse-tourisme.com/agend
- a/fragments-6/
-URL:https://www.toulouse-tourisme.com/agenda/fragments-6/?utm_source=ical&u
- tm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Salon Fragments
+DESCRIPTION:La 6e édition du salon des créateurs et artisans Fragments se
+  tient à l'Hôtel-Dieu Saint-Jacques du 26 au 29 novembre. L'événement 
+ rassemble 77 artisans et créateurs\, organisé à l'invitation de la Cham
+ bre de métiers et de l'artisanat d'Occitanie. Ce rendez-vous annuel\, dé
+ sormais à sa sixième édition\, s'est imposé comme un temps fort de l'a
+ rtisanat local et régional à Toulouse. Il s'adresse aussi bien aux amate
+ urs de savoir-faire artisanaux qu'aux personnes en quête de cadeaux origi
+ naux en amont \n\nSource\: https://newsletter.lessentiel.fr/ltlc/v1/vYcpAS
+ gtUYSbUzXLeis4Fmmzp/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IY
+ BycEqVcxAQwyQhkWaQCXk?st=1795410217
+URL:https://newsletter.lessentiel.fr/ltlc/v1/vYcpASgtUYSbUzXLeis4Fmmzp/71cc
+ 8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st
+ =1795410217?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
+ da
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:21846fb7-ce22-4001-b5f2-505c74535d19@news.lavillerose.com
@@ -28663,6 +28703,25 @@ DESCRIPTION:Une visite guidée originale propose de découvrir Toulouse aut
 URL:https://www.toulouse-tourisme.com/agenda/le-patrimoine-de-toulouse-en-m
  usiques-visite-a-deux-voix/?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ce01b1ad-324d-4626-b00f-c5d0ae6dfeca@news.lavillerose.com
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:TFC – Stade Rennais FC
+DESCRIPTION:Actu Toulouse organise un jeu-concours pour faire gagner des pl
+ aces pour le match de Ligue 1 entre le Toulouse Football Club et le Stade 
+ Rennais FC. La rencontre se tient au Stadium de Toulouse le dimanche 29 no
+ vembre 2026 à 17h15\, dans le cadre de la 12e journée de Ligue 1 McDonal
+ d's. Pour participer\, il faut remplir un formulaire avant le mercredi 25 
+ novembre 2026 à 14h. Les gagnants recevront deux places chacun et seront 
+ contactés par téléphone.\n\nSource\: https://actu.fr/occitanie/toulouse
+ _31555/jeu-des-places-a-gagner-pour-le-match-tfc-contre-rennes-au-stadium-
+ de-toulouse_65076839.html
+LOCATION:places\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/jeu-des-places-a-gagner-pour-l
+ e-match-tfc-contre-rennes-au-stadium-de-toulouse_65076839.html?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:25dee92a-a8c8-4fa3-9947-0284d5ab0050@news.lavillerose.com
@@ -36368,6 +36427,24 @@ LOCATION:Salle Nougaro de Toulouse le 26 mars 2027\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/emy-billet/idmanif/663254/
  idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
  agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:32bbaa24-9787-4bb1-8587-e5bd39d0be70@news.lavillerose.com
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:French 79 / Era
+DESCRIPTION:Deux concerts sont annoncés au Zénith Toulouse Métropole : F
+ rench 79\, figure de la musique électronique française\, se produira le 
+ 26 mars 2027\, tandis qu'Era\, connu pour ses compositions pop mêlant cha
+ nts grégoriens et musique électronique\, est programmé le 29 février 2
+ 028 — une date qui ne peut exister\, car 2028 est bien une année bissex
+ tile et le 29 février y est donc valide. Ces deux événements s'adressen
+ t aux amateurs de musiques électroniques et pop au sens large. Les billet
+ s sont disponibl\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ french-79-billet/idmanif/656574/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/french-79-billet/idmanif/6
+ 56574/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b008b158-c4b5-4a5d-8294-5ec627f54a3f@news.lavillerose.com

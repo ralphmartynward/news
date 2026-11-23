@@ -1,0 +1,44 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:1399aa98-72dc-424e-a2e0-3444e037316c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Concert de l'OSET à l'amphithéâtre Despax, entrée libre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/orchestre-etudiant.jpg?h=ce6d6b6a&itok=2W3U4sD9",
+    "file": "cluster_1399aa98-72dc-424e-a2e0-3444e037316c_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:587710dc-3c5a-404d-9d69-17cdbca25b57",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rich and Jane : duo de flics improvisé à la MJC Pont des Demoiselles",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RICH-AND-JANE.jpg",
+    "file": "cluster_587710dc-3c5a-404d-9d69-17cdbca25b57_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:60c33ab8-def8-4956-85f4-a0182f05d1f9",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Le Peintre du Dragon en ciné-concert à la Cinémathèque de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LE-PEINTRE-DU-DRAGON.jpg",
+    "file": "cluster_60c33ab8-def8-4956-85f4-a0182f05d1f9_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]
