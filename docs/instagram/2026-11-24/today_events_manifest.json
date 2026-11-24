@@ -1,0 +1,99 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:1399aa98-72dc-424e-a2e0-3444e037316c",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Concert de l'OSET à l'amphithéâtre Despax, entrée libre",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/orchestre-etudiant.jpg?h=ce6d6b6a&itok=2W3U4sD9",
+    "file": "cluster_1399aa98-72dc-424e-a2e0-3444e037316c_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:cf8da38b-8090-4010-8d1a-f0728e1f892d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Une Vie d'Acteur au Théâtre de la Cité en novembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/UNE-VIE-D-ACTEUR.jpg",
+    "file": "cluster_cf8da38b-8090-4010-8d1a-f0728e1f892d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0019b781-27ee-49ac-a14d-2d14c295118e",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Pearls on a String au Centre Culturel Henri Desbals",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/PEARL-ON-A-STRING.jpg",
+    "file": "cluster_0019b781-27ee-49ac-a14d-2d14c295118e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:0abee89d-35de-40a0-a94f-d85ef274b717",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Casseroles : spectacle d'improvisation au Centre Culturel Henri Desbals",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CASSEROLES.jpg",
+    "file": "cluster_0abee89d-35de-40a0-a94f-d85ef274b717_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d5abb517-3f2f-43b2-9de6-5fca21ff1b34",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Colloque international sur les canaux à l'IUT de Blagnac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/canal-du-midi-adobestock_403605982.jpg?itok=3gxNzrts",
+    "file": "cluster_d5abb517-3f2f-43b2-9de6-5fca21ff1b34_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:208371e6-c207-45de-a3d1-c5c324cafff2",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Master-class de Jean-François Zygel au Conservatoire Espace Varèse",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/piano---magnific_0.jpg?itok=TwlfLoVI",
+    "file": "cluster_208371e6-c207-45de-a3d1-c5c324cafff2_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:dcd82843-7aad-43b4-a620-3563594f3659",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Soirée Culture Maker et ESS au RoseLab",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/makers.jpg?itok=hv25XXVc",
+    "file": "cluster_dcd82843-7aad-43b4-a620-3563594f3659_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:535e9182-7e18-404e-9b6f-f4280232ff87",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "INVISIBLE : expérience immersive à l'église du Gésù",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/INVISIBLE-EXPERIENCE-IMMERSIVE.jpg",
+    "file": "cluster_535e9182-7e18-404e-9b6f-f4280232ff87_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  }
+]

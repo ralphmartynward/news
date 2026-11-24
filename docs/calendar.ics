@@ -27117,18 +27117,17 @@ BEGIN:VEVENT
 UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Acte VI des Gilets jaunes : 3 300 manifestants et tensions à Toulo
- use
-DESCRIPTION:Le samedi 21 novembre 2026\, l'Acte VI de la mobilisation des G
- ilets jaunes contre la vie chère a réuni environ 3 300 manifestants à T
- oulouse\, malgré un arrêté préfectoral interdisant les rassemblements 
- non déclarés. Les organisateurs avaient opté pour une double stratégie
-  avec deux points de départ — métro Esquirol et allées Jean-Jaurès 
- — afin de compliquer le dispositif des forces de l'ordre. Le cortège c
- ôté Jean-Jaurès n'a jamais pu défiler\, repoussé par les gendarmes mo
- biles jusqu'à Jolimont \n\nSource\: https://actu.fr/occitanie/toulouse_31
- 555/attention-changement-de-strategie-a-quoi-s-attendre-pour-l-acte-vi-des
- -gilets-jaunes-du-21-novembre-a-toulouse_65075478.html
+SUMMARY:Gilets jaunes Actes VI et VII : mobilisations tendues à Toulouse
+DESCRIPTION:Les Gilets jaunes ont organisé leurs Actes VI et VII à Toulou
+ se les 21 et 28 novembre 2026\, adoptant une stratégie de dispersion avec
+  plusieurs points de rassemblement simultanés pour compliquer le disposit
+ if des forces de l'ordre. Pour l'Acte VI du 21 novembre\, deux cortèges 
+ étaient prévus depuis Esquirol et Jean-Jaurès\, mais la journée a tour
+ né à la confusion : le préfet avait interdit les manifestations non dé
+ clarées\, et les 3 300 participants ont été repoussés par les gendarme
+ s mobiles jusqu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/atten
+ tion-changement-de-strategie-a-quoi-s-attendre-pour-l-acte-vi-des-gilets-j
+ aunes-du-21-novembre-a-toulouse_65075478.html
 URL:https://actu.fr/occitanie/toulouse_31555/attention-changement-de-strate
  gie-a-quoi-s-attendre-pour-l-acte-vi-des-gilets-jaunes-du-21-novembre-a-to
  ulouse_65075478.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
@@ -27517,20 +27516,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d5abb517-3f2f-43b2-9de6-5fca21ff1b34@news.lavillerose.com
 DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261126
-SUMMARY:Colloque international sur les canaux à l'Université Jean-Jaurès
-DESCRIPTION:Un colloque international intitulé « Les chemins d'eau artifi
- ciels : gouvernance\, usages et environnement des canaux d'hier à demain 
- » se tiendra les 24 et 25 novembre 2026 à l'Université Toulouse Jean-Ja
- urès\, Maison de la Recherche. Des intervenants venus d'Allemagne\, de Be
- lgique\, du Royaume-Uni\, du Canada et de Chine y aborderont quatre théma
- tiques : histoire\, valorisation\, gestion du patrimoine UNESCO et intégr
- ation environnementale des canaux. Plusieurs sites classés UNESCO serviro
- nt de poin\n\nSource\: https://www.toulouse-tourisme.com/agenda/colloque-i
- nternational-consacre-aux-canaux/
-URL:https://www.toulouse-tourisme.com/agenda/colloque-international-consacr
- e-aux-canaux/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-ag
- enda
+DTEND;VALUE=DATE:20261127
+SUMMARY:Colloque Les chemins d'eau artificiels
+DESCRIPTION:Du 24 au 26 novembre\, Toulouse accueille un colloque scientifi
+ que international intitulé « Les chemins d'eau artificiels : gouvernance
+ \, usages et environnement »\, finalement délocalisé à l'IUT de Blagna
+ c (1 place Georges Brassens) après la fermeture de l'université Jean-Jau
+ rès. L'événement est organisé par le laboratoire GEODE et Voies naviga
+ bles de France (VNF)\, en partenariat avec l'Entente pour le canal du Midi
+ \, et réunit des intervenants venus d'Europe\, du Canada et de Chine. Qua
+ tre grandes \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-11-24#56267
+LOCATION:place Georges Brassens) après la fermeture de l'univ\, Toulouse
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-24#56267?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:22c60fa0-c6b4-4ab8-bb29-a65adf8ec11a@news.lavillerose.com
@@ -29179,6 +29178,24 @@ URL:https://www.toulouse-tourisme.com/agenda/terrains-vagues/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a41cb1fb-e925-40aa-a90b-3db55303ec77@news.lavillerose.com
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Camille Lorente
+DESCRIPTION:Camille Lorente se produit à La Comédie de Toulouse le 3 déc
+ embre 2026 dans le cadre d'un spectacle de comédie. La soirée s'inscrit 
+ dans la programmation Arts & Théâtre de cette salle toulousaine dédiée
+  aux one-man et one-woman shows. Les informations détaillées sur le cont
+ enu du spectacle et la billetterie sont disponibles via Ticketmaster. Les 
+ amateurs de comédie et d'humour à Toulouse sont les premiers concernés.
+ \n\nSource\: https://www.ticketmaster.fr/fr/manifestation/camille-lorente-
+ billet/idmanif/679610/idseance/4463978
+LOCATION:salle toulousaine dédiée aux one-man\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/camille-lorente-billet/idm
+ anif/679610/idseance/4463978?utm_source=ical&utm_medium=calendar&utm_campa
+ ign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2a601c70-e366-40a7-860c-e6144c2a4fa1@news.lavillerose.com
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
@@ -29342,6 +29359,23 @@ DESCRIPTION:Le Grand Cirque de Noël de Toulouse revient à l'Hippodrome de
  de-noel-de-toulouse/
 URL:https://www.toulouse-tourisme.com/agenda/grand-cirque-de-noel-de-toulou
  se/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7e991cff-13f3-4ba2-8eea-fd14b63b5c38@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+SUMMARY:Marché de Noël du RoseLab
+DESCRIPTION:Le RoseLab organise un week-end « Faire Noël » les 4 et 5 d
+ écembre 2026 à La Cité. Le vendredi soir s'ouvre avec un chocolat chaud
+  et un apéro convivial pour lancer les festivités. Le samedi\, un march
+ é de créateurs propose des articles faits main : illustrations\, cérami
+ ques\, objets recyclés\, pâtisseries de Noël\, vêtements enfants et fl
+ ashs tattoos. Des ateliers pour toute la famille sont également au progra
+ mme — découpe laser\, impression 3D\, risographie et couture — dans u
+ ne ambiance chaleureuse\n\nSource\: https://www.toulouse-tourisme.com/agen
+ da/marche-de-noel-du-roselab/
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-du-roselab/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a6b056c4-ced3-45e9-88d9-401dab74086d@news.lavillerose.com
@@ -29691,22 +29725,6 @@ DESCRIPTION:Les habitants de Tournefeuille sont convoqués aux urnes les 6
  se/2026-11-12#55040
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-12#55040?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:7e991cff-13f3-4ba2-8eea-fd14b63b5c38@news.lavillerose.com
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:Petit Marché de Noël du Lab
-DESCRIPTION:Le Lab'Oïkos accueille son Petit Marché de Noël le 6 décemb
- re 2026\, réunissant plusieurs créateurs et producteurs locaux. On y tro
- uvera bijoux\, illustrations\, bougies\, plantes\, miel\, café\, accessoi
- res et gourmandises. L'événement met en avant une offre artisanale et lo
- cale\, idéale pour des cadeaux de Noël alternatifs. Un rendez-vous à no
- ter pour les amateurs de créations indépendantes et de produits du terro
- ir toulousain.\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-pet
- it-marche-de-noel-du-lab/
-URL:https://www.toulouse-tourisme.com/agenda/le-petit-marche-de-noel-du-lab
- /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:93b24b9c-99c0-49a2-b223-77af8ca0df88@news.lavillerose.com
@@ -37647,6 +37665,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/pierre-hillairet-billet/id
  aign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ea475e3a-a0a4-4f7f-99c2-0ed3d3f065fc@news.lavillerose.com
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Deux soirées comiques à La Comédie de Toulouse en 2027
+DESCRIPTION:La Comédie de Toulouse accueille deux spectacles d'humour dist
+ incts en 2027 : Lucie Carbone le 24 avril\, et Karine Dubernet le 4 décem
+ bre. Ces deux représentations s'inscrivent dans la programmation comédie
+  de la salle toulousaine. Les dates sont espacées de plusieurs mois\, il 
+ s'agit donc de deux événements indépendants et non d'un festival contin
+ u. Les amateurs de one-man show et de spectacle comique ont ainsi deux ren
+ dez-vous à noter dans l'agenda.\n\nSource\: https://www.ticketmaster.fr/f
+ r/manifestation/lucie-carbone-billet/idmanif/679395/idseance/4463170
+LOCATION:salle toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/lucie-carbone-billet/idman
+ if/679395/idseance/4463170?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:6e256dcc-1691-4254-87c2-cc55d75732e0@news.lavillerose.com
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
@@ -38091,6 +38127,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/un-soir-avec-pierre-arditi
  r&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:9b53319b-c054-4f85-9c32-ec6d5265d1a6@news.lavillerose.com
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Mado Bientot Tres Connu
+DESCRIPTION:Le spectacle de théâtre « Mado Bientot Tres Connu » est pro
+ grammé au 3T d'À Côté\, salle de spectacle toulousaine. L'événement 
+ est référencé dans la catégorie Arts & Théâtre sur Ticketmaster\, av
+ ec une date fixée au 11 mai 2027. Peu d'informations supplémentaires son
+ t disponibles sur le contenu ou la compagnie à l'origine du spectacle. Le
+ s amateurs de théâtre souhaitant y assister pourront consulter Ticketmas
+ ter pour la billetterie.\n\nSource\: https://www.ticketmaster.fr/fr/manife
+ station/mado-bientot-tres-connu-billet/idmanif/679568/idseance/4463762
+LOCATION:salle de spectacle toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/mado-bientot-tres-connu-bi
+ llet/idmanif/679568/idseance/4463762?utm_source=ical&utm_medium=calendar&u
+ tm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:caea10b8-2688-44a8-be51-c10854612f1b@news.lavillerose.com
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
@@ -38519,6 +38573,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/le-lac-des-cygnes-ballet-e
  um=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:af54887d-e464-4a33-bb68-f79c12c4a578@news.lavillerose.com
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Paul Personne & Jeremy Filsonne
+DESCRIPTION:Le guitariste et chanteur Paul Personne\, figure incontournable
+  du blues-rock français\, se produit au Bikini de Ramonville Saint-Agne l
+ e 22 mai 2027\, accompagné de Jeremy Filsonne. La salle du Bikini est l'u
+ ne des principales salles de concert de l'agglomération toulousaine\, ré
+ putée pour ses programmations rock et blues. L'événement s'adresse aux 
+ amateurs de blues et de guitare électrique souhaitant voir un artiste de 
+ longue carrière sur scène. Les informations disponibles restent limitée
+ s à la d\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/paul-pe
+ rsonne-jeremy-filsonne-billet/idmanif/679586/idseance/4463848
+LOCATION:salle du Bikini est l'une des principales salles de con\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/paul-personne-jeremy-filso
+ nne-billet/idmanif/679586/idseance/4463848?utm_source=ical&utm_medium=cale
+ ndar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:804154e9-731c-44ec-ba56-472815c2dc60@news.lavillerose.com
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
@@ -38683,13 +38756,14 @@ DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Yanis Hariouli Zmigri
 DESCRIPTION:Le spectacle « Yanis Hariouli Zmigri » est programmé au Gran
- d Théâtre 3T de Toulouse. L'événement est classé dans la catégorie A
- rts & Théâtre. La date annoncée est le 27 mai 2027. Les informations di
- sponibles restent succinctes\, sans détail sur le contenu artistique ou l
- es tarifs.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/yanis-
- hariouli-zmigri-billet/idmanif/677905/idseance/4455455
+ d Théâtre 3T de Toulouse. Il s'agit d'une représentation théâtrale do
+ nt les détails de contenu ne sont pas précisés dans la source disponibl
+ e. L'événement est catégorisé Arts & Théâtre par Ticketmaster. Les s
+ pectateurs intéressés sont invités à consulter Ticketmaster pour les i
+ nformations de billetterie.\n\nSource\: https://www.ticketmaster.fr/fr/man
+ ifestation/yanis-hariouli-zmigri-billet/idmanif/679569/idseance/4463763
 URL:https://www.ticketmaster.fr/fr/manifestation/yanis-hariouli-zmigri-bill
- et/idmanif/677905/idseance/4455455?utm_source=ical&utm_medium=calendar&utm
+ et/idmanif/679569/idseance/4463763?utm_source=ical&utm_medium=calendar&utm
  _campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
@@ -39893,6 +39967,24 @@ DESCRIPTION:L'humoriste et imitateur Laurent Gerra se produira au Zénith T
 URL:https://www.ticketmaster.fr/fr/manifestation/laurent-gerra-billet/idman
  if/672966/idseance/4425257?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:50c93456-8e72-4d07-9ecb-2e2133b565aa@news.lavillerose.com
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:Sarah Lele
+DESCRIPTION:La comédienne Sarah Lele se produit à La Comédie de Toulouse
+  le 11 décembre 2027. Le spectacle est classé dans la catégorie Arts & 
+ Théâtre — Comédie\, ce qui laisse attendre un one-woman-show ou un sp
+ ectacle d'humour. La Comédie de Toulouse est une salle dédiée aux spect
+ acles comiques et au stand-up\, bien connue des Toulousains. Les amateurs 
+ de comédie et d'humour sont le public naturellement visé par cette soir
+ ée.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/sarah-lele-b
+ illet/idmanif/679394/idseance/4463169
+LOCATION:salle dédiée aux spectacles comiques\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/sarah-lele-billet/idmanif/
+ 679394/idseance/4463169?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:10e4371b-954d-41c0-b305-eac47723d70b@news.lavillerose.com
