@@ -1,0 +1,90 @@
+{
+  "type": "listicle_carousel",
+  "cluster_id": "cluster:aa6a9234-f0b9-4b6e-8e27-e50d47659ac8",
+  "title": "Journée gratuite dans les musées et monuments de Toulouse",
+  "ig_caption": "9 musées toulousains gratuits le 6 décembre\nCollections permanentes ouvertes à tous\nPatrimoine, art, sciences et histoire au programme",
+  "ig_caption_long": "Une belle occasion de (re)découvrir le patrimoine toulousain : le 6 décembre 2026, neuf musées et monuments de la ville ouvrent leurs collections permanentes gratuitement. Du musée des Augustins aux Abattoirs en passant par le Museum d'histoire naturelle ou la Chapelle de La Grave, il y en a pour tous les goûts. Seules les expositions temporaires restent payantes, et le musée Georges-Labit reste fermé pour travaux. Une journée idéale pour explorer Toulouse autrement, en famille ou entre amis, sans dépenser un euro.",
+  "ig_hashtags": "[\"toulouse\", \"sortiraToulouse\", \"toulouse2026\", \"muséesToulouse\", \"gratuit\", \"patrimoine\", \"cultureGratuite\", \"museedesaugustins\", \"lesabattoirs\", \"quaidessavoirs\", \"museesaintraymondtoulouse\", \"chateaudeautoulouse\", \"cloitredesjacobins\", \"chapeladelagrave\", \"museumtoulouse\", \"museepauldupuy\", \"sortirestoulouse\", \"visitetoulouse\", \"toulousepatrimoine\", \"artToulouse\", \"cultureToulouse\", \"familleToulouse\", \"weekendToulouse\", \"decembre2026\"]",
+  "ig_mention": "toulouse_tourisme",
+  "venue": "Divers lieux, Toulouse",
+  "slides": [
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_cover.jpg",
+      "type": "cover",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_01.jpg",
+      "type": "item",
+      "title": "Cloître des Jacobins",
+      "location": "Cloître des Jacobins, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_02.jpg",
+      "type": "item",
+      "title": "Musée Saint-Raymond",
+      "location": "Musée Saint-Raymond, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_03.jpg",
+      "type": "item",
+      "title": "Museum d'histoire naturelle",
+      "location": "Museum d'histoire naturelle, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_04.jpg",
+      "type": "item",
+      "title": "Musée Paul Dupuy",
+      "location": "Musée Paul Dupuy, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_05.jpg",
+      "type": "item",
+      "title": "Château d'Eau",
+      "location": "Château d'Eau, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_06.jpg",
+      "type": "item",
+      "title": "Les Abattoirs",
+      "location": "Les Abattoirs, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_07.jpg",
+      "type": "item",
+      "title": "Quai des Savoirs",
+      "location": "Quai des Savoirs, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_08.jpg",
+      "type": "item",
+      "title": "Musée des Augustins",
+      "location": "Musée des Augustins, Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "cluster_aa6a9234-f0b9-4b6e-8e27-e50d47659ac8_listicle_09.jpg",
+      "type": "item",
+      "title": "Chapelle de La Grave",
+      "location": "Chapelle de La Grave, Toulouse",
+      "img_width": 860,
+      "img_height": 650
+    }
+  ]
+}

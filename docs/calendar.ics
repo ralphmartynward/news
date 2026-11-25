@@ -66,18 +66,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:8ffb4345-4b65-4e7a-ac64-60ada358d4d6@news.lavillerose.com
 DTSTART;VALUE=DATE:20260206
-DTEND;VALUE=DATE:20260207
-SUMMARY:Exposition Epsilon
-DESCRIPTION:La Cité de l'Espace propose une nouvelle exposition intitulée
-  « Epsilon » dédiée à la mission spatiale de l'astronaute française 
- Sophie Adenot à bord de la Station spatiale internationale (ISS). Adenot 
- devient la deuxième femme française à séjourner dans l'ISS\, 25 ans ap
- rès Claudie Haigneré\, pour une mission de neuf mois. L'exposition est i
- mmersive et pédagogique : elle accueille les visiteurs avec un message au
- dio inédit de l'astronaute et permet de suivre la mission en temps réel 
- grâce à une c\n\nSource\: https://www.toulouse-tourisme.com/agenda/epsil
- on/
-LOCATION:Espace propose une nouvelle exposition intitulée « Ep\, Toulouse
+DTEND;VALUE=DATE:20270203
+SUMMARY:Exposition Epsilon – Cité de l'espace
+DESCRIPTION:La Cité de l'espace propose une nouvelle exposition dédiée 
+ à la mission εpsilon de l'astronaute française Sophie Adenot\, qui séj
+ ournera neuf mois à bord de la Station spatiale internationale (ISS). Deu
+ xième femme française à rejoindre l'ISS après Claudie Haigneré il y a
+  25 ans\, Sophie Adenot y mènera des expériences scientifiques préparé
+ es par le CNES via le Cadmos. L'exposition est immersive et pédagogique :
+  les visiteurs peuvent suivre la position de l'ISS en temps réel\, vision
+ ner des vidéos r\n\nSource\: https://www.toulouse-tourisme.com/agenda/eps
+ ilon/
+LOCATION:espace propose une nouvelle exposition dédiée\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/epsilon/?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -117,43 +117,6 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-24#44488?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:7497517b-a0e3-41a5-9d61-595eae16e8f5@news.lavillerose.com
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Au Cœur du Quartier Saint-Étienne
-DESCRIPTION:L'office de tourisme propose une visite guidée du quartier Sai
- nt-Étienne\, centré sur la place de la cathédrale\, le 13 mars 2026. Ce
-  quartier dit « des antiquaires » s'est développé à partir du XVIIe s
- iècle autour du pouvoir parlementaire instauré en 1444\, attirant magist
- rats et noblesse de robe. Les hôtels particuliers de style classique\, av
- ec leurs cours intérieures\, ferronneries ouvragées et façades en pierr
- e blanche et brique rose\, en font l'un des ensembles architecturaux les p
- lus remarquabl\n\nSource\: https://www.toulouse-tourisme.com/agenda/au-coe
- ur-du-quartier-saint-etienne/
-LOCATION:quartier Saint-Étienne\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/au-coeur-du-quartier-saint-eti
- enne/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:3308be04-d0a0-4863-ad8c-0677632705bc@news.lavillerose.com
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
-SUMMARY:Visite guidée des grands monuments de Toulouse avec l'Office de To
- urisme
-DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée à 
- pied des principaux monuments de la ville rose. Le parcours passe par la p
- lace du Capitole\, la basilique Saint-Sernin (classée au patrimoine mondi
- al sur le chemin de Saint-Jacques-de-Compostelle)\, le couvent des Jacobin
- s et les bords de la Garonne. La version anglophone inclut également une 
- halte dans la cour de l'Hôtel d'Assézat\, l'un des plus beaux hôtels pa
- rticuliers de Toulouse. La visite est à la fois historique et accessible\
- , idé\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-y-sus
- -monumentos/
-LOCATION:place du Capitole\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-y-sus-monumentos/?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:1f6cc36e-1f68-422f-acfa-d71f0e42e42c@news.lavillerose.com
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
@@ -169,23 +132,6 @@ DESCRIPTION:L'Office de Tourisme de Toulouse propose une série de visites
  de-du-patrimoine/
 URL:https://www.toulouse-tourisme.com/agenda/la-balade-du-patrimoine/?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:8328a770-c0c1-4def-b618-87e39b0ad311@news.lavillerose.com
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
-SUMMARY:Lever de Rideau
-DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée exp
- ress à l'intérieur du Théâtre du Capitole\, permettant de découvrir l
- es espaces habituellement réservés aux artistes et au public. Le parcour
- s traverse l'entrée des artistes\, le hall d'accueil\, les foyers\, puis 
- monte jusqu'au paradis avant de redescendre au balcon et au parterre\, off
- rant des vues spectaculaires sur la salle en fer à cheval. Le guide parta
- ge anecdotes et rumeurs sur ce lieu emblématique\, tout en permettant d'o
- bserver à \n\nSource\: https://www.toulouse-tourisme.com/agenda/lever-de-
- rideau-au-theatre-du-capitole/
-URL:https://www.toulouse-tourisme.com/agenda/lever-de-rideau-au-theatre-du-
- capitole/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6ddaf096-73e3-49a1-9336-b75d5a6d28f6@news.lavillerose.com
@@ -243,42 +189,6 @@ URL:https://www.toulouse-tourisme.com/agenda/toulouse-y-sus-monumentos/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:780ec7b4-cee2-42ab-a7d6-ec5749c200ad@news.lavillerose.com
-DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:Fièvre de l'Hygiène XIXe
-DESCRIPTION:Une visite guidée à pied le long des berges de la Garonne exp
- lore comment les avancées scientifiques du XIXe siècle ont transformé l
- 'hygiène publique et la vie quotidienne à Toulouse. Le parcours part de 
- la basilique Notre-Dame de la Daurade et retrace les aménagements urbains
-  nés de cette révolution sanitaire. La visite met aussi en lumière la c
- ondition des femmes face aux enjeux et défis de cette époque. La réserv
- ation en ligne est obligatoire\, les places étant limitées.\n\nSource\: 
- https://www.toulouse-tourisme.com/agenda/toulouse-au-bord-de-la-garonne-la
- -fievre-de-lhygiene-au-xixe-siecle/
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-au-bord-de-la-garonne
- -la-fievre-de-lhygiene-au-xixe-siecle/?utm_source=ical&utm_medium=calendar
- &utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:62ed6036-c710-4f47-ab03-fc89ce02e06d@news.lavillerose.com
-DTSTART;VALUE=DATE:20260322
-DTEND;VALUE=DATE:20260323
-SUMMARY:Epok Tour Toulouse
-DESCRIPTION:L'office du tourisme de Toulouse propose deux visites guidées 
- en costume d'époque\, organisées par Epok Tour : « Toulouse au Siècle 
- des Lumières » dans le quartier Saint-Étienne\, avec la guide incarnant
-  Mme de Cambon\, descendante de Riquet\, et « Le Toulouse Frivole de Mada
- me Rose » dans le quartier Saint-Georges\, plongée dans le Toulouse boui
- llonnant des années 1880. Chaque visite est proposée à deux reprises : 
- une date au printemps (22 et 28 mars 2026) et une seconde à l'occasion de
- s Journées Eu\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulou
- se-au-siecle-des-lumieres/
-LOCATION:quartier Saint-Étienne\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-au-siecle-des-lumiere
- s/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:120112a3-d683-4b9a-aec8-eab6fbddbca2@news.lavillerose.com
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
@@ -316,24 +226,6 @@ URL:https://www.toulouse-tourisme.com/agenda/le-toulouse-de-la-renaissance-
  =toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:da63e79c-678c-46f3-a185-e79e7c057740@news.lavillerose.com
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260327
-SUMMARY:Visite Quartier Saint-Sernin
-DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée du 
- quartier Saint-Sernin\, l'un des plus anciens et des plus riches de la vil
- le. Au-delà de la célèbre basilique romane\, le parcours explore l'hist
- oire médiévale du bourg — pèlerins\, tailleurs de pierre\, remparts 
- — ainsi que les collèges estudiantins liés à l'une des plus anciennes
-  universités de France\, fondée en 1229. La visite s'étend jusqu'au 18e
-  siècle\, avec des arrêts insolites comme l'hôtel particulier du sulfur
- eux Jean Dubarry et \n\nSource\: https://www.toulouse-tourisme.com/agenda/
- le-quartier-saint-sernin/
-LOCATION:quartier Saint-Sernin\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/le-quartier-saint-sernin/?utm_
- source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:11b96805-d156-4354-8b5e-dcd219a3bcd9@news.lavillerose.com
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
@@ -352,37 +244,19 @@ URL:https://www.toulouse-tourisme.com/agenda/toulouse-au-siecle-des-lumiere
  s/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:8704ba85-ed35-47ad-a36b-3017541885a3@news.lavillerose.com
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-SUMMARY:Virtuose Halle aux Grains
-DESCRIPTION:L'office du tourisme propose une visite guidée d'une heure dev
- ant et dans la Halle aux Grains\, monument incontournable de Toulouse inau
- guré en 1861. Construite en briques et galets de Garonne\, cette ancienne
-  halle commerciale reliant la ville au canal du Midi a connu de multiples 
- vies au fil des décennies : laboratoire d'agronomie\, salle de boxe\, esp
- ace de cirque et de ballet. La visite explore également une mini-ville so
- uterraine construite dans les années 1970\, lorsque Michel Plasson convai
- nc \n\nSource\: https://www.toulouse-tourisme.com/agenda/virtuose-halle-au
- x-grains/
-LOCATION:Halle aux Grains\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/virtuose-halle-aux-grains/?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:4894e740-840e-4b99-a3c0-7bb5553d2a19@news.lavillerose.com
 DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20270104
 SUMMARY:Gaulois mais Romains !
-DESCRIPTION:Le Musée Saint-Raymond accueille l'exposition « Gaulois mais 
- Romains ! » du 3 avril 2026 au 3 janvier 2027\, consacrée à la vie quot
- idienne\, aux croyances et aux pratiques religieuses des habitants de la G
- aule après la conquête romaine de Jules César. Le parcours s'articule e
- n trois volets : la romanisation du quotidien (organisation sociale\, arti
- sanat\, armée)\, le syncrétisme religieux celto-romain (sculptures\, off
- randes\, objets votifs)\, et la naissance de l'archéologie gallo-romaine 
- au XIXe sièc\n\nSource\: https://www.toulouse-tourisme.com/agenda/gaulois
- -mais-romains/
+DESCRIPTION:Le Musée Saint-Raymond de Toulouse accueille l'exposition « G
+ aulois mais Romains ! » du 3 avril 2026 au 3 janvier 2027\, consacrée à
+  la vie quotidienne\, aux croyances et aux pratiques religieuses des habit
+ ants de la Gaule après la conquête romaine. À travers stèles\, inscrip
+ tions\, sculptures et objets votifs\, le parcours illustre comment les Gau
+ lois ont adopté le modèle romain tout en préservant leurs traditions ce
+ ltiques. L'exposition revient également sur la naissance de l'archéologi
+ e gallo-roma\n\nSource\: https://www.toulouse-tourisme.com/agenda/gaulois-
+ mais-romains/
 URL:https://www.toulouse-tourisme.com/agenda/gaulois-mais-romains/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -405,24 +279,6 @@ URL:https://www.toulouse-tourisme.com/agenda/a-lecoute-du-vivant-biomimetis
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:aa6a9234-f0b9-4b6e-8e27-e50d47659ac8@news.lavillerose.com
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:Musées et monuments toulousains gratuits pour les étudiants et le
-  grand public
-DESCRIPTION:Les musées et monuments de Toulouse proposent une entrée grat
- uite pour leurs collections permanentes\, accessible à tous sans réserva
- tion. Parmi les lieux concernés : le Cloître des Jacobins\, le musée de
- s Augustins\, le musée des Abattoirs\, le Muséum d'Histoire Naturelle\, 
- le Quai des Savoirs\, le musée Paul Dupuy\, le Château d'eau et la Chape
- lle Saint-Joseph de la Grave. Les étudiants bénéficient en outre d'une 
- gratuité étendue aux expositions temporaires\, un avantage non précisé
-  pour le grand publ\n\nSource\: https://www.toulouse-tourisme.com/agenda/l
- es-musees-et-monuments-sont-gratuits/
-URL:https://www.toulouse-tourisme.com/agenda/les-musees-et-monuments-sont-g
- ratuits/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:027b7a40-df67-4707-ad16-cea7e0ae1f47@news.lavillerose.com
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
@@ -438,25 +294,6 @@ DESCRIPTION:Magyd Cherfi\, figure toulousaine et ex-membre de Zebda\, se pr
 LOCATION:Salle Nougaro le 9 avril 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/magyd-cherfi/?utm_source=ical&
  utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:b42dbbdb-b427-46dc-b7b6-5ed74005d77c@news.lavillerose.com
-DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260410
-SUMMARY:Petites Histoires de Quartier
-DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée int
- itulée « Petites Histoires de Quartier » consacrée au secteur Wilson e
- t à ses contrastes architecturaux\, entre Toulouse médiévale et haussma
- nnienne. Le parcours passe par la place Wilson\, le marché Victor-Hugo\, 
- la rue Alsace-Lorraine et l'église Saint-Jérôme. La visite se conclut a
- u musée des Augustins\, récemment rouvert après travaux\, permettant de
-  (re)découvrir ce lieu emblématique dans de nouvelles conditions. L'év
- énement est organ\n\nSource\: https://www.toulouse-tourisme.com/agenda/en
- tre-ville-et-musee-wilson-et-musee-des-augustins/
-LOCATION:place Wilson\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-wilson-et
- -musee-des-augustins/?utm_source=ical&utm_medium=calendar&utm_campaign=tou
- louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:84eb6457-cce7-4cb1-bf62-9df405514425@news.lavillerose.com
@@ -494,23 +331,6 @@ LOCATION:place de l'ivresse dans l'histoire humaine\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/ivresse-lexpo-a-consommer-sans
  -moderation/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
  nda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:7c6b8ef3-1504-4e11-927a-2872a7de3922@news.lavillerose.com
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:La Boule – CEMES
-DESCRIPTION:Le 21 avril 2026\, le CEMES (Centre d'Élaboration de Matériau
- x et d'Études Structurales) ouvre exceptionnellement ses portes pour une 
- visite guidée de « La Boule »\, un bâtiment emblématique lié à l'un
-  des microscopes électroniques les plus puissants jamais conçus. La visi
- te\, menée à deux voix par un conférencier et un chercheur\, retrace l'
- histoire de ce patrimoine scientifique des années 1950\, construit autour
-  des travaux de Gaston Dupouy et de son canon à électrons capable d'atte
- indre 95 % de la\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-b
- oule/
-URL:https://www.toulouse-tourisme.com/agenda/la-boule/?utm_source=ical&utm_
- medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:6b6654d4-9441-4975-9362-26e652d60706@news.lavillerose.com
@@ -1132,23 +952,6 @@ DESCRIPTION:Le Musée Saint-Raymond accueille ce samedi 23 mai une soirée
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=ef92392f-b864-41d1-b47e-b7d4d38bc9b1&url_id=b507b518-ed28-4751-bae3-8417
  9d40ce7c?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:62a0b788-4113-40a3-8a40-c5b7368bf55b@news.lavillerose.com
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-SUMMARY:Marchés des Créateurs Artilect
-DESCRIPTION:Les 23 et 24 mai\, Artilect accueille son marché des créateur
- s et artisans d'Occitanie avec des pièces uniques faites main : céramiqu
- e\, bijoux\, textile\, illustrations\, objets en bois et décoration. La p
- articularité du lieu : on y trouve aussi des « makers » qui mêlent art
- isanat et technologies (impression 3D\, luminaires\, jeux\, petites série
- s design). L'événement se tient plusieurs samedis et dimanches par mois\
- , avec des exposants renouvelés chaque semaine. En marge du marché\, les
-  visiteurs peuven\n\nSource\: https://www.toulouse-tourisme.com/agenda/mar
- ches-des-createurs-chez-artilect/
-URL:https://www.toulouse-tourisme.com/agenda/marches-des-createurs-chez-art
- ilect/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:588bd1a7-63b6-4c6c-9b9c-76e80c58a773@news.lavillerose.com
@@ -3953,23 +3756,6 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-06-24#44489?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:e5832c62-1e78-489f-bef0-6e892b396ae2@news.lavillerose.com
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-SUMMARY:Sur les Pas de Carlos Gardel
-DESCRIPTION:Le 24 juin 2026\, Solange Bazely\, passionnée de culture argen
- tine depuis 30 ans\, propose une visite guidée originale sur les pas de C
- arlos Gardel dans Toulouse. Le parcours démarre devant l'Hôtel Mercure e
- t conduit les participants à travers les lieux marqués par le chanteur e
- t compositeur né à Toulouse en 1890 : sa maison natale\, la statue et la
-  stèle commémoratives\, le quartier Arnaud Bernard\, la Basilique Saint-
- Sernin et la cinémathèque\, jusqu'à la place du Capitole. La guide entr
- emêle anecdot\n\nSource\: https://www.toulouse-tourisme.com/agenda/sur-le
- s-pas-de-carlos-gardel/
-URL:https://www.toulouse-tourisme.com/agenda/sur-les-pas-de-carlos-gardel/?
- utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:508300e4-c48b-4fe8-b4f2-10162777fbed@news.lavillerose.com
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260629
@@ -4403,23 +4189,6 @@ URL:https://actu.fr/occitanie/toulouse_31555/top-14-un-double-de-mauvaka-un
  e-pluie-de-brennus-le-stade-toulousain-remporte-un-quatrieme-brennus-conse
  cutif_64467050.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:5bf44a82-1d01-4cda-90ed-c62a46743806@news.lavillerose.com
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Lumière sur le Bazacle
-DESCRIPTION:La visite « Lumière sur le Bazacle » propose une plongée da
- ns l'histoire du site EDF Bazacle\, ancien gué sur la Garonne devenu haut
-  lieu de l'hydroélectricité. Les participants traverseront la centrale h
- ydraulique toujours en activité — turbines\, alternateurs\, transformat
- eurs — qui alimente jusqu'à 3 000 foyers toulousains. Le parcours rappe
- lle aussi que Toulouse a vu naître la première société anonyme de l'hi
- stoire\, via les moulins autrefois gérés par les premiers actionnaires c
- onnus. La visite\n\nSource\: https://www.toulouse-tourisme.com/agenda/lumi
- ere-sur-le-bazacle/
-URL:https://www.toulouse-tourisme.com/agenda/lumiere-sur-le-bazacle/?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d43d9bfa-ff9d-4d5c-b322-3ec4fd136349@news.lavillerose.com
@@ -6565,24 +6334,6 @@ URL:https://www.toulouse-tourisme.com/agenda/a-table-au-moyen-age/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:fe9372cd-e706-4dea-a405-9acecab9f3d0@news.lavillerose.com
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:Guided Tour – Couvent des Jacobins
-DESCRIPTION:Le Couvent des Jacobins propose une visite guidée en anglais l
- e 17 juillet 2026\, permettant de découvrir huit siècles d'histoire et u
- n patrimoine architectural exceptionnel. Fondé en 1229\, ce monastère es
- t un témoignage remarquable du gothique méridional\, avec une architectu
- re en brique inspirée des principes des cathédrales du royaume de France
- . La visite détaillera les transformations successives du monument\, du X
- IIIe siècle à la Révolution\, et permettra d'explorer l'église\, le cl
- oître\, la sal\n\nSource\: https://www.toulouse-tourisme.com/agenda/guide
- d-tour-of-the-couvent-des-jacobins/
-URL:https://www.toulouse-tourisme.com/agenda/guided-tour-of-the-couvent-des
- -jacobins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
- a
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:1fd5f0f0-c28d-4db0-9a6d-0d8c70a881d2@news.lavillerose.com
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
@@ -6827,24 +6578,6 @@ URL:https://www.clutchmag.fr/evenements#2026-07-16-dimanche-19-juillet-0?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:7b5c60ec-9e6e-46f4-a4f9-4614e395bab6@news.lavillerose.com
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:Visite Flash Famille
-DESCRIPTION:Une visite guidée familiale est organisée au Monument à la G
- loire de la Résistance à Toulouse\, le 19 juillet 2026. Elle invite pare
- nts et enfants à décrypter l'architecture du mémorial — béton brut\,
-  lignes anguleuses\, cryptes et tunnels — pour comprendre comment la for
- me même du bâtiment raconte la mémoire de la Résistance. L'approche p
- édagogique privilégie le ressenti et le symbolisme plutôt que les déta
- ils les plus durs du conflit. Les parents sont néanmoins avertis que cert
- aines références à \n\nSource\: https://www.toulouse-tourisme.com/agend
- a/visite-flash-famille-au-monument-a-la-gloire-de-la-resistance/
-URL:https://www.toulouse-tourisme.com/agenda/visite-flash-famille-au-monume
- nt-a-la-gloire-de-la-resistance/?utm_source=ical&utm_medium=calendar&utm_c
- ampaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:c86c74cd-9c81-48ac-8da7-c572beaebc58@news.lavillerose.com
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260726
@@ -6917,23 +6650,6 @@ DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée aut
 LOCATION:rue Saint-Rome\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-saint-rom
  e/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:4113d696-7d4c-4716-842c-77eed35407f7@news.lavillerose.com
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:Visite guidée – Couvent des Jacobins
-DESCRIPTION:Le Couvent des Jacobins propose une visite guidée de ce monume
- nt gothique méridional des 13e et 14e siècles\, au cœur de Toulouse. Un
-  guide expérimenté accompagne les visiteurs à travers l'architecture ex
- ceptionnelle du site\, en partageant anecdotes inédites et détails archi
- tecturaux remarquables. C'est une occasion idéale pour découvrir ou red
- écouvrir l'un des joyaux patrimoniaux de la ville sous un angle expert. C
- ette sortie culturelle s'adresse aussi bien aux Toulousains curieux de leu
- r histoi\n\nSource\: https://www.toulouse-tourisme.com/agenda/visite-guide
- e-au-couvent-des-jacobins/
-URL:https://www.toulouse-tourisme.com/agenda/visite-guidee-au-couvent-des-j
- acobins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d2437ab1-7ee1-4c7c-9f8a-d864ed0b86fe@news.lavillerose.com
@@ -7051,25 +6767,6 @@ DESCRIPTION:L'exposition « Disenos Habitados » réunit les œuvres de deu
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=a7525db1-d358-4b63-8c38-68ffbdaa1fed&url_id=1b643efc-7cfb-4a4a-afb6-5a1c
  8c15c04e?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:1d02d4dd-73f6-4a95-b319-1e6ce297e4b7@news.lavillerose.com
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:La Renaissance en perspective
-DESCRIPTION:Une visite guidée de deux heures propose de découvrir le Toul
- ouse de la Renaissance en deux temps : une heure dans le quartier Saint-Ro
- me pour explorer les hôtels particuliers bâtis après l'incendie de 1463
- \, et une heure au sein de la collection Bemberg à l'hôtel d'Assézat. L
- es participants accèdent de façon exclusive à l'Hôtel de Bernuy et à 
- des cours cachées du XVIe siècle\, témoins de la prospérité des march
- ands de pastel et des grands magistrats. La visite se conclut par une init
- iation aux ch\n\nSource\: https://www.toulouse-tourisme.com/agenda/entre-v
- ille-et-musee-la-renaissance-en-perspective/
-LOCATION:quartier Saint-Rome\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-la-renais
- sance-en-perspective/?utm_source=ical&utm_medium=calendar&utm_campaign=tou
- louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:86acfd63-6aff-4c69-a52a-96661e4b692a@news.lavillerose.com
@@ -7315,23 +7012,6 @@ DESCRIPTION:Du 30 juillet au 2 août 2026\, le festival Tempo Latino invest
 URL:https://www.toulouscope.fr/2026/07/02/tempo-latino-la-musique-des-carai
  bes-fait-vibrer-vic-fezensac-pendant-4-jours-13313846.php?utm_source=ical&
  utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:434b5373-05b9-48c6-b418-1ab965977022@news.lavillerose.com
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:La Mystérieuse Évasion
-DESCRIPTION:« La mystérieuse évasion » est un jeu coopératif destiné 
- aux enfants de 6 à 10 ans\, organisé au Castelet\, l'ancien bâtiment de
-  la prison Saint-Michel. Guidés par une médiatrice\, les participants do
- ivent retrouver les éléments d'un plan caché dans le bâtiment pour aid
- er une résistante à s'échapper avant d'être repérée par le gardien. 
- L'activité mêle énigmes\, esprit d'équipe et découverte d'un lieu pat
- rimonial chargé d'histoire\, tout en transmettant des valeurs de solidari
- té\, de mémoire et de libe\n\nSource\: https://www.toulouse-tourisme.com
- /agenda/la-mysterieuse-evasion/
-URL:https://www.toulouse-tourisme.com/agenda/la-mysterieuse-evasion/?utm_so
- urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:559c6ef3-447a-42f7-b07c-ef6c0ad60cac@news.lavillerose.com
@@ -8752,23 +8432,6 @@ URL:https://www.toulouse-tourisme.com/agenda/pianomuses-piano-carre-anglais
  /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:ec620729-e475-46e6-b57a-f6be6202f5a3@news.lavillerose.com
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Aime-moi… si tu peux !
-DESCRIPTION:La pièce « Aime-moi… si tu peux ! » est jouée à La Comé
- die de la Roseraie à Toulouse. Elle met en scène Hervé Pauchard\, ingé
- nieur informatique de 30 ans idéaliste et romantique absolu\, qui attend 
- l'amour parfait — au point d'avoir prévu d'épouser Monica Bellucci. Sa
-  voisine Nina\, séductrice et exubérante\, va tout faire pour le conqué
- rir malgré son indifférence. La comédie joue sur le contraste entre ces
-  deux personnages aux antipodes pour en tirer un ressort comique et romant
- ique.\n\nSource\: https://www.toulouse-tourisme.com/agenda/aime-moi-si-tu-
- peux/
-URL:https://www.toulouse-tourisme.com/agenda/aime-moi-si-tu-peux/?utm_sourc
- e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:fe14539e-2913-4947-bd5c-fb689f559a96@news.lavillerose.com
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
@@ -9242,23 +8905,6 @@ URL:https://www.toulouse-tourisme.com/agenda/salon-auto-moto-classic/?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:c69be383-9ab4-4ac9-870c-cbb9927dffcf@news.lavillerose.com
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-SUMMARY:Brocante des Allées
-DESCRIPTION:La Brocante des Allées revient du 4 au 6 septembre 2026 sur le
- s allées François-Verdier\, avec plus de 100 marchands professionnels. A
- u programme : meubles anciens ou contemporains\, objets insolites\, tablea
- ux\, gravures\, livres et fripes vintage ou chic. L'événement\, qui se t
- ient chaque mois le premier week-end (du vendredi au dimanche)\, est l'une
-  des brocantes régulières les plus fournies de Toulouse. Trois food truc
- ks seront présents pour la restauration tout au long de la journée.\n\nS
- ource\: https://www.toulouse-tourisme.com/agenda/brocante-des-allees/
-LOCATION:Allées revient du 4 au 6 septembre 2026 sur les allée\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/brocante-des-allees/?utm_sourc
- e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:0f819d22-9a08-408a-8ee2-3b8501a23bf6@news.lavillerose.com
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
@@ -9274,39 +8920,6 @@ DESCRIPTION:Les Pétanque Days investissent l'Esplanade Alain Savary du 4 a
 LOCATION:Esplanade Alain Savary du 4 au 6 septembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/petanque-days/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:df5841e9-af33-4d18-bb99-5815b39da758@news.lavillerose.com
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:À Vies Contraires
-DESCRIPTION:La pièce « À Vies Contraires » est programmée au Café Th
- éâtre Les 3T à Toulouse le 4 septembre 2026. Il s'agit d'une comédie r
- ythmée\, présentée comme un spectacle feel good où les répliques s'en
- chaînent à toute vitesse\, à l'image d'un échange de ping-pong à quat
- re joueurs. Le ton est résolument léger et festif\, promettant rires et 
- bonne humeur au public. Le spectacle s'adresse à tous ceux qui cherchent 
- une soirée décontractée et divertissante dans une salle de café-théâ
- tre.\n\nSource\: https://www.toulouse-tourisme.com/agenda/a-vies-contraire
- s/
-URL:https://www.toulouse-tourisme.com/agenda/a-vies-contraires/?utm_source=
- ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:fa754892-6d09-41d9-9c06-a69519fb1b6c@news.lavillerose.com
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Venise sous la Neige
-DESCRIPTION:La pièce « Venise sous la Neige » est programmée au Café T
- héâtre Les 3T à Toulouse le 4 septembre 2026. Le spectacle suit Patrici
- a\, entraînée de force à un dîner où elle ne connaît personne après
-  une dispute avec son ami. Pour se venger\, elle prend le parti de garder 
- le silence\, déclenchant une cascade de quiproquos et de ruptures amoureu
- ses qui font éclater la soirée. Une comédie de situation qui devrait s
- éduire les amateurs de théâtre léger et de situations absurdes.\n\nSou
- rce\: https://www.toulouse-tourisme.com/agenda/venise-sous-la-neige/
-URL:https://www.toulouse-tourisme.com/agenda/venise-sous-la-neige/?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:355e1d88-1456-4760-92c7-71c329a3b55c@news.lavillerose.com
@@ -9462,21 +9075,6 @@ DESCRIPTION:Le festival Cordillera Jazz se tiendra le 5 septembre 2026 au J
 LOCATION:Jardin Raymond VI\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/cordillera-jazz/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:c2c9be47-9182-4ea0-82ef-fd6fb8b4b627@news.lavillerose.com
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Un Putain de Conte de Fée
-DESCRIPTION:La comédie « Un Putain de Conte de Fée » est programmée au
-  Café Théâtre Les 3T à Toulouse le 5 septembre 2026. Le spectacle est 
- décrit comme imprévisible\, drôle et rythmé\, et a reçu des critiques
-  élogieuses. Le public y participe activement\, entre éclats de rire et 
- moments de surprise\, devenant complice de l'histoire. Une sortie à recom
- mander aux amateurs de comédie décalée et participative.\n\nSource\: ht
- tps://www.toulouse-tourisme.com/agenda/un-putain-de-conte-de-fee/
-URL:https://www.toulouse-tourisme.com/agenda/un-putain-de-conte-de-fee/?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:4dccf0e0-b0e4-4534-aa06-94ac7f9589cc@news.lavillerose.com
@@ -9909,23 +9507,6 @@ URL:https://www.toulouse-tourisme.com/agenda/javier-perianes-piano-aux-jaco
  bins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:d3aaf1f1-a93d-4779-98e3-4d883b0602b2@news.lavillerose.com
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260910
-SUMMARY:Les Faux British
-DESCRIPTION:Le Café Théâtre Les 3T accueille « Les Faux British »\, un
- e comédie théâtrale les 8 et 9 septembre 2026. Le spectacle met en scè
- ne des comédiens amateurs qui tentent\, avec un flegme britannique affich
- é\, d'interpréter un thriller théâtral malgré une succession de catas
- trophes et de gags en cascade. Le concept repose sur le chaos organisé : 
- les personnages enchaînent les ratés tout en s'accrochant à leur dignit
- é so british\, pour le plus grand bonheur du public. Un spectacle taillé
-  pour ceux qui aim\n\nSource\: https://www.toulouse-tourisme.com/agenda/le
- s-faux-british/
-URL:https://www.toulouse-tourisme.com/agenda/les-faux-british/?utm_source=i
- cal&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:1b4738ce-4748-4cba-8d3c-4520be75b6d0@news.lavillerose.com
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20261021
@@ -10286,23 +9867,6 @@ DESCRIPTION:Le Wyld Festival\, créé en 2019 et devenu un rendez-vous inco
 URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-cet-evenement-devenu-
  incontournable-a-toulouse-n-aura-pas-lieu-cette-annee_64685936.html?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:0685115f-593c-494b-888d-fca2591b9e49@news.lavillerose.com
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Les Clotildes\, Amour\, Ex et Alibi
-DESCRIPTION:La pièce « Les Clotildes\, Amour\, Ex et Alibi » est program
- mée au Café Théâtre Les 3T à Toulouse le 11 septembre 2026. La coméd
- ie suit trois amies fraîchement célibataires\, décidées à tourner la 
- page et à faire front commun contre les hommes — jusqu'à l'arrivée d'
- Eric\, le charmant nouveau voisin du dessous. Le spectacle se présente co
- mme une ode à la femme moderne\, à l'amitié féminine et à la quête d
- u bonheur\, sur fond d'humour et d'une inondation impromptue. Le public to
- ulousain en quête d'une s\n\nSource\: https://www.toulouse-tourisme.com/a
- genda/les-clotildes-amour-ex-et-alibi/
-URL:https://www.toulouse-tourisme.com/agenda/les-clotildes-amour-ex-et-alib
- i/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:97c2871b-ea0e-4d74-becd-5d594be6eed8@news.lavillerose.com
@@ -11212,16 +10776,17 @@ BEGIN:VEVENT
 UID:cluster:d1b3321b-6de8-4c91-9329-88984eb22815@news.lavillerose.com
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20261212
-SUMMARY:Le Canal du Midi – Galerie 24
-DESCRIPTION:La Galerie 24 accueille du 17 septembre au 11 décembre 2026 un
- e exposition consacrée à l'avenir du canal du Midi\, chef-d'œuvre du XV
- IIe siècle classé au patrimoine mondial. Elle présente les travaux d'é
- tudiants du master « Patrimoine(s) en projet »\, qui proposent des piste
- s de reconversion et de valorisation pour 14 sites emblématiques\, de Tou
- louse à Marseillan. Plans\, maquettes\, photographies et archives donnent
-  à voir des scénarios architecturaux\, urbains et paysagers tenant compt
- e des enjeux \n\nSource\: https://www.toulouse-tourisme.com/agenda/le-cana
+SUMMARY:Canal du Midi\, un Patrimoine à Réinventer
+DESCRIPTION:L'École nationale supérieure d'architecture de Toulouse (ENSA
+ )\, en partenariat avec le CAUE 31\, présente une exposition consacrée a
+ u Canal du Midi à la Galerie du 24 rue Croix-Baragnon\, du 17 septembre a
+ u 11 décembre 2026. À travers les travaux d'étudiants en architecture\,
+  elle explore 14 sites emblématiques entre Toulouse et Marseillan\, quest
+ ionnant le devenir de ce patrimoine mondial fragilisé. Plans\, maquettes\
+ , photographies et archives nourrissent une réflexion mêlant reconversio
+ n\, prospecti\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-cana
  l-du-midi-un-patrimoine-a-reinventer/
+LOCATION:rue Croix-Baragnon\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/le-canal-du-midi-un-patrimoine
  -a-reinventer/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
  genda
@@ -12322,23 +11887,6 @@ DESCRIPTION:Pour les Journées Européennes du Patrimoine 2026\, le Novicia
 LOCATION:quartier de la Daurade\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/le-noviciat-journees-du-patrim
  oine/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:a2bfb256-4262-4577-acf9-f6cb4833ce0f@news.lavillerose.com
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Le Meilleur de l'Homme c'est sa Femme
-DESCRIPTION:Le Café Théâtre Les 3T accueille le spectacle humoristique 
- « Le Meilleur de l'Homme c'est sa Femme » le 19 septembre 2026. Le show 
- explore avec humour les dynamiques de couple\, jouant sur les clichés ent
- re hommes et femmes — elle voudrait qu'il écoute davantage\, lui qu'ell
- e parle un peu moins. Le spectacle se veut universel : il promet aux femme
- s de se sentir des super-héroïnes\, aux hommes de devenir irrésistibles
- \, et aux célibataires d'en apprendre assez pour ne plus l'être. Une soi
- rée comédie \n\nSource\: https://www.toulouse-tourisme.com/agenda/le-mei
- lleur-de-lhomme-cest-sa-femme/
-URL:https://www.toulouse-tourisme.com/agenda/le-meilleur-de-lhomme-cest-sa-
- femme/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ae1755cc-608c-4ae0-835d-ec2020e580ee@news.lavillerose.com
@@ -13671,23 +13219,6 @@ URL:https://www.toulouscope.fr/2026/09/22/nouveautes-expositions-experience
  7.php?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:a7a05f33-c2e1-4e91-9d60-fb16b888b2b3@news.lavillerose.com
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Ô Mon Païs
-DESCRIPTION:La pièce « Ô Mon Païs » est programmée au Café Théâtre
-  Les 3T à Toulouse le 23 septembre 2026. Le spectacle met en scène une t
- roupe de comédiens amateurs locaux qui décident de faire venir un metteu
- r en scène parisien réputé pour les encadrer. Le choc entre le raffinem
- ent du Parisien Baptiste De La Verrière et la spontanéité de ces coméd
- iens du terroir — qui confondent Roxanne et Juliette\, Molière et Feyde
- au — promet une comédie décalée et hilarante. Un spectacle taillé po
- ur les amateurs de comé\n\nSource\: https://www.toulouse-tourisme.com/age
- nda/o-mon-pais/
-URL:https://www.toulouse-tourisme.com/agenda/o-mon-pais/?utm_source=ical&ut
- m_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:d7136037-edf4-4927-ac4d-ad37033e2687@news.lavillerose.com
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260926
@@ -13738,23 +13269,6 @@ DESCRIPTION:Chaque troisième mercredi du mois\, la troupe Les Acides inves
 LOCATION:salle toulousaine\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-acides/?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:f417767e-1fd6-4b3a-90ba-80866686c24e@news.lavillerose.com
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Aéro Malgré Lui
-DESCRIPTION:La pièce « Aéro Malgré Lui » est programmée au Café Thé
- âtre Les 3T de Toulouse le 23 septembre 2026. Elle met en scène Félix\,
-  un employé fainéant d'une grande entreprise aéronautique toulousaine\,
-  dont la vie tranquille est bouleversée par l'arrivée d'une DRH impitoya
- ble venue supprimer les postes inutiles. Pour sauver son emploi tout en te
- ntant de séduire cette dernière\, Félix s'engage dans une série de men
- songes abracadabrants\, avec pour complices involontaires un chien et un s
- tagiaire pas très\n\nSource\: https://www.toulouse-tourisme.com/agenda/ae
- ro-malgre-lui/
-URL:https://www.toulouse-tourisme.com/agenda/aero-malgre-lui/?utm_source=ic
- al&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2924a41b-e60f-4035-82c6-bfd11901385e@news.lavillerose.com
@@ -13902,23 +13416,6 @@ DESCRIPTION:Le Théâtre du Pont Neuf accueille du 23 au 25 septembre 2026
 URL:https://www.toulouse-tourisme.com/agenda/lhistoire-incroyable-et-presqu
  e-vraie-de-lusine-tu/?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:f19cebaa-f91a-4e6e-b280-ee3b578e805f@news.lavillerose.com
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20261116
-SUMMARY:LAYUP
-DESCRIPTION:LAYUP est une exposition d'art urbain qui se tient du 24 septem
- bre au 15 novembre 2026 dans un bâtiment de 5 000 m² à Toulouse. Une ci
- nquantaine d'artistes locaux\, nationaux et internationaux y investissent 
- l'espace avec des fresques monumentales\, des installations et des créati
- ons inédites. Le parcours est libre et évolutif\, enrichi d'ateliers d'i
- nitiation au graffiti\, de visites guidées et d'événements annexes. L'e
- ntrée est gratuite sur participation libre\, avec un bar et un food-truck
-  sur pla\n\nSource\: https://www.toulouse-tourisme.com/agenda/layup/
-LOCATION:espace\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/layup/?utm_source=ical&utm_med
- ium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:12b27ddf-1308-4c93-8aad-027f413e12e3@news.lavillerose.com
@@ -14629,39 +14126,6 @@ DESCRIPTION:La pianiste Karla Martinez\, formée à la fois au classique (
  rla-martinez-piano-aux-jacobins/
 URL:https://www.toulouse-tourisme.com/agenda/karla-martinez-piano-aux-jacob
  ins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:8d26c1d4-398f-4d33-9c71-8d1add7894bb@news.lavillerose.com
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Le Prénom
-DESCRIPTION:La pièce de théâtre comique « Le Prénom » est programmée
-  au Café Théâtre Les 3T à Toulouse le 26 septembre 2026. L'intrigue to
- urne autour de Vincent Larchet\, futur père\, qui révèle lors d'un dîn
- er en famille le prénom choisi pour son enfant à naître — avec des co
- nséquences visiblement explosives. La pièce met en scène l'ami d'enfanc
- e Claude et la sœur et le beau-frère de Vincent\, réunis autour d'un re
- pas qui dérape. Ce spectacle s'adresse aux amateurs de comédie grinçant
- e autour des relations fa\n\nSource\: https://www.toulouse-tourisme.com/ag
- enda/le-prenom/
-URL:https://www.toulouse-tourisme.com/agenda/le-prenom/?utm_source=ical&utm
- _medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:c7563145-0dd8-490d-9a38-9247a7615969@news.lavillerose.com
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Trop Parfaite
-DESCRIPTION:La pièce « Trop Parfaite » est programmée le 26 septembre 2
- 026 au Café Théâtre Les 3T à Toulouse. Le spectacle suit Thomas\, jeun
- e roboticien\, qui tente de créer la femme idéale avec l'aide d'un vieil
-  ami marié depuis 25 ans. Le résultat — une poupée toujours consentan
- te — entraîne une cohabitation qui vire rapidement au chaos. La pièce 
- se présente comme une comédie grand public\, à la fois légère et d'ac
- tualité\, destinée à un large public.\n\nSource\: https://www.toulouse-
- tourisme.com/agenda/trop-parfaite/
-URL:https://www.toulouse-tourisme.com/agenda/trop-parfaite/?utm_source=ical
- &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e4f4bcf6-30f6-46db-8bf6-b2ba7222ff50@news.lavillerose.com
@@ -15975,22 +15439,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:42265605-077e-4896-9bb1-6c7d962fa5f6@news.lavillerose.com
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20270705
 SUMMARY:Minéraux\, bien plus que des cailloux
-DESCRIPTION:Le Muséum de Toulouse inaugure sa nouvelle exposition temporai
- re « Minéraux\, bien plus que des cailloux »\, ouverte du 2 octobre 202
- 6 au 4 juillet 2027. Adaptée de l'exposition « Secrets de la terre » du
-  musée des Confluences de Lyon\, elle a été enrichie des propres collec
- tions de minéralogie toulousaines\, avec 290 échantillons à découvrir 
- — quartz\, émeraude\, fluorite\, malachite — ainsi que la célèbre m
- étéorite d'Orgueil tombée en 1864. Le parcours retrace l'histoire des m
- inéraux de la Préhistoir\n\nSource\: https://actu.fr/occitanie/toulouse_
- 31555/le-museum-de-toulouse-devoile-sa-prochaine-exposition-temporaire-min
- eraux-bien-plus-que-des-cailloux_64594666.html
-URL:https://actu.fr/occitanie/toulouse_31555/le-museum-de-toulouse-devoile-
- sa-prochaine-exposition-temporaire-mineraux-bien-plus-que-des-cailloux_645
- 94666.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
- a
+DESCRIPTION:Le Muséum de Toulouse accueille une exposition immersive consa
+ crée aux minéraux\, de la Préhistoire à nos jours. Quartz\, émeraudes
+ \, malachites et fluorites y révèlent leurs secrets à travers une scén
+ ographie qui mêle sciences\, histoire et culture populaire. L'exposition 
+ explore à la fois les usages scientifiques et industriels des minéraux e
+ t leur place dans la littérature\, le cinéma ou les jeux vidéo. Elle in
+ vite également à réfléchir aux enjeux environnementaux liés à l'expl
+ oitation des ressour\n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ mineraux-bien-plus-que-des-cailloux/
+URL:https://www.toulouse-tourisme.com/agenda/mineraux-bien-plus-que-des-cai
+ lloux/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:456e14ff-92f7-4e98-b064-21d1f482cb5d@news.lavillerose.com
@@ -16348,39 +15809,6 @@ DESCRIPTION:Les Jardins Sonores reviennent pour une 33e édition les 3 et 4
 LOCATION:Jardins Sonores reviennent\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-jardins-sonores/?utm_sourc
  e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:51db56cb-c361-4d5e-af1a-9c82ade32027@news.lavillerose.com
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:J'aime beaucoup ce que vous faites
-DESCRIPTION:La pièce « J'aime beaucoup ce que vous faites » est programm
- ée au Café Théâtre Les 3T à Toulouse le 3 octobre 2026. Le spectacle 
- met en scène Charles et Carole\, deux personnages bouleversés par ce qu'
- ils ont entendu et décidés à se venger. L'histoire joue sur les non-dit
- s\, les quiproquos et une succession de sourires grimaçants dans un regis
- tre comique jubilatoire. Les amateurs de comédie grinçante et de théât
- re de café sont le public visé.\n\nSource\: https://www.toulouse-tourism
- e.com/agenda/jaime-beaucoup-ce-que-vous-faites/
-URL:https://www.toulouse-tourisme.com/agenda/jaime-beaucoup-ce-que-vous-fai
- tes/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:63bbc1a4-5780-4e4d-893f-7928f553b6cf@news.lavillerose.com
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Le Tour du Monde en 80 Jours
-DESCRIPTION:Le Café Théâtre Les 3T accueille une adaptation scénique du
-  roman de Jules Verne\, Le Tour du Monde en 80 Jours\, à partir du 3 octo
- bre 2026. Le spectacle suit Phileas Fogg et son valet Passepartout dans le
- ur pari insensé de circumnavigation\, avec en jeu la fortune et la réput
- ation du héros. Au fil du voyage\, les protagonistes croisent une galerie
-  de personnages hauts en couleur : une princesse indienne\, un fumeur d'op
- ium chinois ou encore Jack\, présenté comme le plus grand loser de l'Oue
- st. Une s\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-tour-du-
- monde-en-80-jours/
-URL:https://www.toulouse-tourisme.com/agenda/le-tour-du-monde-en-80-jours/?
- utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a1a779c1-fc7a-44bc-8ebf-c69e32c046a2@news.lavillerose.com
@@ -17669,22 +17097,6 @@ URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
  dalbade/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:d436259e-de0b-41ce-9d46-8c3ba17549b4@news.lavillerose.com
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Canal du Midi en Gabarre
-DESCRIPTION:Une promenade en gabarre est proposée au départ du port Saint
- -Sauveur\, sur le Canal du Midi\, en direction de Rangueil avec retour au 
- point de départ. L'expérience invite les participants à redécouvrir tr
- ois siècles d'histoire liés à Riquet et à la vie des bateliers\, dans 
- le cadre ombragé des platanes bordant le canal. L'embarquement est à pr
- évoir 30 minutes avant l'heure de départ indiquée. La sortie est organi
- sée en partenariat avec les Bateaux Toulousains et le Noviciat.\n\nSource
- \: https://www.toulouse-tourisme.com/agenda/le-canal-du-midi-en-gabarre/
-URL:https://www.toulouse-tourisme.com/agenda/le-canal-du-midi-en-gabarre/?u
- tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:4c5181a7-2f5c-4b2c-b898-83b41337047d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261214
@@ -17815,6 +17227,23 @@ LOCATION:place Saint-Georges du 9 au 11 octobre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/salon-vins-terroirs-chocolat-g
  ourmandises/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-age
  nda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f19cebaa-f91a-4e6e-b280-ee3b578e805f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261130
+SUMMARY:Mondes Parallèles
+DESCRIPTION:LAYUP investit Terra Nova\, un bâtiment de 5 000 m² à Compan
+ s-Caffarelli\, pour une grande exposition d'art urbain intitulée « Monde
+ s Parallèles ». Pas moins de 73 artistes locaux\, nationaux et internati
+ onaux ont créé fresques\, installations et œuvres inédites réparties 
+ sur six niveaux. La programmation associée comprend des ateliers d'initia
+ tion au graffiti\, des visites guidées et divers événements tout au lon
+ g de la période. L'entrée est libre sur participation libre\, avec un ba
+ r et un food-truc\n\nSource\: https://www.toulouse-tourisme.com/agenda/lay
+ up/
+URL:https://www.toulouse-tourisme.com/agenda/layup/?utm_source=ical&utm_med
+ ium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:7622c685-e7cb-4422-a6d0-840ae3967944@news.lavillerose.com
@@ -18170,23 +17599,6 @@ URL:https://www.clutchmag.fr/evenements#2026-10-08-vendredi-9-octobre-2?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8@news.lavillerose.com
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Un Dîner d'Adieu
-DESCRIPTION:La pièce « Un Dîner d'Adieu » est programmée au Café Thé
- âtre Les 3T à Toulouse le 10 octobre 2026. Le spectacle explore une ques
- tion universelle : pourquoi continue-t-on à fréquenter des gens dont on 
- n'est plus vraiment proche ? Pour répondre à cette question\, les person
- nages Pierre et Clotilde Lecoeur décident d'organiser des « dîners d'ad
- ieu » afin de faire le tri dans leurs relations. Une comédie de mœurs q
- ui promet une réflexion teintée d'humour sur l'amitié\, les habitudes s
- ociales et la lâc\n\nSource\: https://www.toulouse-tourisme.com/agenda/un
- -diner-dadieu/
-URL:https://www.toulouse-tourisme.com/agenda/un-diner-dadieu/?utm_source=ic
- al&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:5d57289c-fed0-40b1-8e34-438520d4dbef@news.lavillerose.com
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
@@ -18291,24 +17703,6 @@ DESCRIPTION:Une balade guidée à pied est organisée depuis les Archives D
 LOCATION:quartier Pont des Demoiselles\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/au-fil-du-canal-du-midi/?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:4ebac025-f014-434d-af79-debbb4eff314@news.lavillerose.com
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Archi Footing Canal du Midi
-DESCRIPTION:Une balade sportive et culturelle est organisée le 10 octobre 
- 2026 au départ de l'entrée du Jardin des Plantes\, le long du Canal du M
- idi. Le parcours\, à petites foulées\, dure 1h15 au total dont 45 minute
- s de footing tranquille\, accessible à tous les niveaux. L'activité perm
- et de (re)découvrir les éléments architecturaux du Grand Parc Canal et 
- l'histoire de son bâtisseur Pierre-Paul Riquet. L'événement est organis
- é par le Noviciat en partenariat avec l'Office de Tourisme de Toulouse\, 
- et l'inscrip\n\nSource\: https://www.toulouse-tourisme.com/agenda/archi-fo
- oting-sur-le-canal-du-midi/
-LOCATION:Jardin des Plantes\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/archi-footing-sur-le-canal-du-
- midi/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:cdd8d70f-4a98-44d7-b20e-262d65a6468b@news.lavillerose.com
@@ -19266,25 +18660,6 @@ URL:https://www.clutchmag.fr/evenements#2026-10-15-jeudi-15-octobre-0?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc@news.lavillerose.com
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Les vies de la photographie
-DESCRIPTION:À l'occasion du bicentenaire de la photographie en 2026\, le C
- hâteau d'Eau de Toulouse inaugure une exposition inédite intitulée « L
- es vies de la photographie »\, du 16 octobre 2026 au 21 février 2027. Po
- ur la première fois\, les collections de la plus ancienne galerie publiqu
- e de France dédiée à la photographie d'auteur sont réunies avec celles
-  du musée Georges-Labit et du musée des Arts Précieux Paul-Dupuy\, soit
-  plus de 100 œuvres couvrant du XIXe siècle à aujourd'hui. Le parcours 
- se déploie en t\n\nSource\: https://www.toulouscope.fr/2026/10/16/200-ans
- -de-la-photographie-ce-lieu-incontournable-de-toulouse-prepare-une-exposit
- ion-inedite-13601903.php
-URL:https://www.toulouscope.fr/2026/10/16/200-ans-de-la-photographie-ce-lie
- u-incontournable-de-toulouse-prepare-une-exposition-inedite-13601903.php?u
- tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:89f655c6-469a-49af-b306-1272ec90c512@news.lavillerose.com
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
@@ -19581,6 +18956,23 @@ URL:http://cdt31.tourinsoft.com/view.ashx?email=f826a3f1-3402-49d2-a377-012
  58190a9d1?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d3eafb86-4598-4728-b43e-5d39a1d9d4bc@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20270222
+SUMMARY:Les Vies de la Photographie
+DESCRIPTION:Trois musées toulousains unissent leurs collections pour l'exp
+ osition « Les Vies de la Photographie » au Château d'Eau\, visible du 1
+ 7 octobre 2026 au 21 février 2027. L'exposition explore trois dimensions 
+ du médium : la photographie comme outil de représentation\, comme forme 
+ d'art à part entière comparable à la peinture ou à la sculpture\, et c
+ omme archive documentaire de l'histoire. Un troisième volet met en lumiè
+ re le rôle spécifique du Château d'Eau en tant que lieu d'exposition et
+  de collecti\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-vies
+ -de-la-photographie/
+URL:https://www.toulouse-tourisme.com/agenda/les-vies-de-la-photographie/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:22c607bb-18ac-4f75-9c54-090dee15f045@news.lavillerose.com
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
@@ -19596,6 +18988,24 @@ DESCRIPTION:Le Théâtre des Mazades accueille « G.R.A.I.N – Histoire de
  nda/g-r-a-i-n-histoire-de-fous/
 URL:https://www.toulouse-tourisme.com/agenda/g-r-a-i-n-histoire-de-fous/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8eaadd77-c425-4148-90d2-f024405be490@news.lavillerose.com
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261221
+SUMMARY:XYZT\, Les Paysages Abstraits
+DESCRIPTION:Du 17 octobre au 20 décembre 2026\, le Quai des Savoirs accuei
+ lle XYZT\, Les Paysages Abstraits\, une exposition interactive mêlant art
+  numérique\, sciences et technologies. Neuf installations immersives invi
+ tent les visiteurs à marcher dans une herbe virtuelle\, toucher une eau n
+ umérique ou traverser des nuages de lumière. La particularité de l'exp
+ érience réside dans son interactivité : chaque geste du visiteur modifi
+ e les paysages en temps réel. Une exploration sensorielle et poétique ac
+ cessible à \n\nSource\: https://www.toulouse-tourisme.com/agenda/experien
+ ce-immersive-xyzt-les-paysages-abstraits/
+URL:https://www.toulouse-tourisme.com/agenda/experience-immersive-xyzt-les-
+ paysages-abstraits/?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ce7b374f-74ba-4e80-8543-52cb8d370f69@news.lavillerose.com
@@ -20225,24 +19635,6 @@ URL:https://www.toulouse-tourisme.com/agenda/bien-manger-a-st-cyp/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:93f7dbba-1fe3-4f60-b8fd-cd1243817c14@news.lavillerose.com
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Atelier Pop-up Castelet
-DESCRIPTION:Le Castelet de Toulouse propose un atelier créatif pour les en
- fants de 6 à 10 ans autour de l'ancienne prison Saint-Michel. Après une 
- visite adaptée au jeune public\, les participants explorent le concept du
-  panoptique — ce dispositif architectural de surveillance propre au XIXe
-  siècle — et réfléchissent aux liens entre espace\, pouvoir et socié
- té. Chaque enfant fabrique ensuite une carte pop-up en papier inspirée d
- e l'architecture du lieu. La réservation est obligatoire pour cet atelier
-  mêlant pa\n\nSource\: https://www.toulouse-tourisme.com/agenda/atelier-p
- op-up-lart-des-maquettes-en-papier/
-URL:https://www.toulouse-tourisme.com/agenda/atelier-pop-up-lart-des-maquet
- tes-en-papier/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
- genda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:9afd5b55-543c-4727-868a-0a4678cdb853@news.lavillerose.com
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
@@ -20435,40 +19827,6 @@ DESCRIPTION:Le show scénique Drag Race France Live revient pour sa saison
 URL:https://www.ticketmaster.fr/fr/manifestation/drag-race-france-live-sais
  on-4-billet/idmanif/644631/idtier/18864121?utm_source=ical&utm_medium=cale
  ndar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:445cbfff-c599-4cdc-9857-120bd00a053d@news.lavillerose.com
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Graff Tour
-DESCRIPTION:Le Graff Tour propose une visite guidée dédiée aux arts urba
- ins à Toulouse\, au départ de la place Arnaud Bernard. Le guide permet d
- e décrypter et d'apprécier les différents styles du graffiti\, art reco
- nnu depuis les années 1990 dans la mouvance hip-hop. L'excursion met en l
- umière le rôle d'artistes locaux comme ceux de la Truskool et de graffeu
- ses telles que Mlle Kat\, qui ont fait de Toulouse la deuxième ville de F
- rance pour son dynamisme dans les arts urbains. Une occasion de mieux comp
- rendre u\n\nSource\: https://www.toulouse-tourisme.com/agenda/graff-tour/
-LOCATION:place Arnaud Bernard\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/graff-tour/?utm_source=ical&ut
- m_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:60129b43-0fca-433e-b688-b1b34894995e@news.lavillerose.com
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:La Peste et les Remèdes
-DESCRIPTION:La Chapelle de la Grave accueille une visite guidée thématiqu
- e intitulée « La Peste et les Remèdes »\, plongeant les participants d
- ans l'histoire sanitaire de Toulouse à l'époque moderne. On y explore le
- s méthodes utilisées pour lutter contre les épidémies de peste : isole
- ment\, fumigations\, potions et célèbres masques à bec des médecins. U
- n focus particulier est consacré aux plantes médicinales et aux remèdes
-  souvent inefficaces de l'époque\, dont le fameux vinaigre des quatre vol
- eurs. Cette visit\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-
- peste-et-les-remedes/
-URL:https://www.toulouse-tourisme.com/agenda/la-peste-et-les-remedes/?utm_s
- ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:e9b010b6-15d1-44b3-aa8b-1d23db4c50dc@news.lavillerose.com
@@ -20858,23 +20216,6 @@ DESCRIPTION:Le spectacle TUTU\, classé dans la catégorie Arts & Théâtre
 URL:https://www.ticketmaster.fr/fr/manifestation/tutu-billet/idmanif/638477
  /idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
  -agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:fa0641cc-a721-4013-a7f8-b4e063cfdf15@news.lavillerose.com
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Le Circuit Énigme
-DESCRIPTION:Le Circuit Énigme est une visite guidée ludique conçue pour 
- les familles\, alliant complicité parents-enfants et esprit de compétiti
- on. Les participants forment une équipe et doivent répondre à un maximu
- m de questions en un temps limité\, en s'appuyant sur les connaissances d
- es adultes et la créativité des enfants. La visite se déroule sur trois
-  sites emblématiques de Toulouse : la place du Capitole\, les quais de la
-  Garonne et l'hôtel d'Assézat. En plus du divertissement\, l'activité d
- éveloppe chez\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-cir
- cuit-enigme/
-URL:https://www.toulouse-tourisme.com/agenda/le-circuit-enigme/?utm_source=
- ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d5780bbe-2fae-4dd5-b746-614127dc93a4@news.lavillerose.com
@@ -22696,24 +22037,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/the-5-rosies-tribute-to-ac
  dar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:6ed0ea91-9a99-46d0-9515-bd2b54c96d13@news.lavillerose.com
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:Cantates sans filet
-DESCRIPTION:L'Ensemble Baroque de Toulouse propose une séance de répétit
- ion ouverte au public à l'Église Saint-Exupère\, suivie d'un concert de
-  cantates de Bach. Le directeur artistique Michel Brun accompagne l'évén
- ement d'explications et d'anecdotes sur l'époque baroque et l'œuvre du c
- ompositeur. Le public est même invité à monter au chant pour interprét
- er le choral final aux côtés des musiciens et choristes. L'entrée est l
- ibre\, sans réservation préalable\, dans la limite des places disponible
- s.\n\nSource\: https://www.toulouse-tourisme.com/agenda/cantates-sans-file
- t-lintegrale-des-cantates-de-bach/
-URL:https://www.toulouse-tourisme.com/agenda/cantates-sans-filet-lintegrale
- -des-cantates-de-bach/?utm_source=ical&utm_medium=calendar&utm_campaign=to
- ulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:195f1ba1-f0bc-4a39-96ca-0597aefea831@news.lavillerose.com
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
@@ -22965,23 +22288,6 @@ DESCRIPTION:Lorraine de Sagazan signe une pièce originale sans un seul mot
  /le-silence/
 URL:https://www.toulouse-tourisme.com/agenda/le-silence/?utm_source=ical&ut
  m_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:de0d138b-419c-47b4-82c0-a7079f712e25@news.lavillerose.com
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261126
-SUMMARY:Guitare vs Mandoline
-DESCRIPTION:Le programme « Guitare vs Mandoline » met en scène un duel m
- usical entre deux instruments à cordes pincées aux histoires croisées :
-  la mandoline aux parfums italiens et la guitare aux accents espagnols. Le
-  concert propose les deux concerti les plus célèbres pour chacun\, soit 
- celui de Calace pour la mandoline et celui de Rodrigo pour la guitare\, in
- terprétés par deux solistes d'exception dont Julien Marti. L'événement
-  se tient à deux dates et deux lieux différents : le 3 novembre 2026 à 
- l'Auditori\n\nSource\: https://www.toulouse-tourisme.com/agenda/guitare-vs
- -mandoline/
-URL:https://www.toulouse-tourisme.com/agenda/guitare-vs-mandoline/?utm_sour
- ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ea3d248c-83a2-4f84-a906-e7115eb7d159@news.lavillerose.com
@@ -23390,23 +22696,6 @@ DESCRIPTION:La pièce comique « Mon Mari est un Sale Gosse » est programm
  n-mari-est-un-sale-gosse/
 URL:https://www.toulouse-tourisme.com/agenda/mon-mari-est-un-sale-gosse/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:8eaadd77-c425-4148-90d2-f024405be490@news.lavillerose.com
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261221
-SUMMARY:XYZT\, les Paysages Abstraits
-DESCRIPTION:Le Quai des Savoirs propose l'exposition immersive XYZT\, les p
- aysages abstraits\, jusqu'au 20 décembre 2026\, à l'occasion de ses 10 a
- ns. Cette expérience se situe à la croisée des arts\, des sciences et d
- es technologies : les visiteurs interagissent avec des paysages numérique
- s abstraits grâce à leurs gestes. L'entrée est à 9 € (5 € en tarif
-  réduit) et gratuite le premier dimanche du mois. L'exposition s'adresse 
- à tous les publics souhaitant explorer une nature revisitée de manière 
- sensorielle et \n\nSource\: https://www.clutchmag.fr/evenements#2026-11-05
- -jeudi-5-novembre-0
-URL:https://www.clutchmag.fr/evenements#2026-11-05-jeudi-5-novembre-0?utm_s
- ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:b12d2c50-650a-4010-bfcd-e09130275867@news.lavillerose.com
@@ -25342,24 +24631,6 @@ URL:https://www.toulouse-tourisme.com/agenda/eclosion/?utm_source=ical&utm_
  medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:4e716584-b9a3-4e60-a253-2990c619426a@news.lavillerose.com
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Les Nocturnes Toulousaines
-DESCRIPTION:Les Nocturnes Toulousaines proposent deux visites guidées noct
- urnes d'églises toulousaines en fin d'année 2026\, organisées en parten
- ariat avec le Noviciat. Le 13 novembre\, c'est la basilique Notre-Dame de 
- la Daurade qui est mise à l'honneur : les visiteurs explorent l'édifice 
- rebâti entre 1764 et 1884 à la lumière d'une lampe torche\, découvrant
-  mosaïques\, vœux manuscrits et détails architecturaux sous un angle in
- édit. Le 27 novembre\, l'église Saint-Nicolas\, sur la rive gauche\, se 
- dévoile à son t\n\nSource\: https://www.toulouse-tourisme.com/agenda/les
- -nocturnes-toulousaines-notre-dame-de-la-daurade/
-URL:https://www.toulouse-tourisme.com/agenda/les-nocturnes-toulousaines-not
- re-dame-de-la-daurade/?utm_source=ical&utm_medium=calendar&utm_campaign=to
- ulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:c88bea45-60e3-4968-91ec-3ccca348c681@news.lavillerose.com
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
@@ -26281,6 +25552,22 @@ URL:https://www.clutchmag.fr/evenements#2026-11-19-jeudi-19-novembre-0?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:df5841e9-af33-4d18-bb99-5815b39da758@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:À Vies Contraires
+DESCRIPTION:La pièce « À Vies Contraires » est programmée au Café Th
+ éâtre Les 3T à Toulouse le 19 novembre 2026. Le spectacle est présent
+ é comme une comédie feel good rythmée\, comparée à une partie de ping
+ -pong à quatre où les répliques s'enchaînent à vive allure. L'accent 
+ est mis sur le rire et la bonne humeur\, avec un ton léger et dynamique. 
+ Le spectacle s'adresse à tous ceux qui cherchent une soirée théâtrale 
+ décontractée et festive.\n\nSource\: https://www.toulouse-tourisme.com/a
+ genda/a-vies-contraires/
+URL:https://www.toulouse-tourisme.com/agenda/a-vies-contraires/?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:57a8ea97-98b9-4184-985a-67513e2a3886@news.lavillerose.com
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -26507,6 +25794,25 @@ URL:https://www.toulouse-tourisme.com/agenda/quinzaine-du-japon-en-occitani
  e/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:2cc106e2-5834-4d40-af37-6e6f862f7b0b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261230
+SUMMARY:Cinq visites guidées insolites de Toulouse par l'Office de Tourism
+ e
+DESCRIPTION:L'Office de Tourisme de Toulouse propose cinq visites guidées 
+ distinctes pour explorer la Ville rose sous différents angles. « L'Essen
+ tiel » couvre les incontournables — place du Capitole\, église des Jac
+ obins\, hôtels particuliers de la Renaissance et les berges de la Garonne
+ . « Toulouse Secrète » mise sur la surprise et les anecdotes inédites\
+ , avec un itinéraire qui change à chaque fois selon l'humeur du guide. L
+ es autres formules — balade du patrimoine\, visite inclusive multisensor
+ ielle et expl\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulous
+ e-lessentiel/
+LOCATION:place du Capitole\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-lessentiel/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4f182d09-9c0b-4388-9a50-729782c0a7e4@news.lavillerose.com
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -26526,6 +25832,23 @@ URL:https://newsletter.lessentiel.fr/lt.php?x=41dyo.rEJFmd7pz-ytLFwSQUxHMhu
  wH2w~YxXnTEKXic6pJ8-wy8ghV03HQgjgH2keo0zKV7JnKg6X75MRF4U1GkUX2jj_X0nucvXnn
  FMnGb95B-ytHNVL?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-
  agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0685115f-593c-494b-888d-fca2591b9e49@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Les Clotildes\, Amour\, Ex et Alibi
+DESCRIPTION:La pièce « Les Clotildes\, Amour\, Ex et Alibi » est program
+ mée au Café Théâtre Les 3T à Toulouse le 20 novembre 2026. La comédi
+ e suit trois amies récemment célibataires\, décidées à tourner la pag
+ e sur les hommes — jusqu'à l'arrivée d'Éric\, le nouveau voisin du de
+ ssous\, qui vient bousculer leurs convictions. Le spectacle se présente c
+ omme une ode à l'amitié féminine\, à l'amour et à la femme moderne\, 
+ décomplexée et épanouie. Les amateurs de comédie légère et de théâ
+ tre de boulevard seront particuli\n\nSource\: https://www.toulouse-tourism
+ e.com/agenda/les-clotildes-amour-ex-et-alibi/
+URL:https://www.toulouse-tourisme.com/agenda/les-clotildes-amour-ex-et-alib
+ i/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:58f1e920-d0bc-4d9d-a06b-48813f8fc12d@news.lavillerose.com
@@ -26563,24 +25886,6 @@ URL:https://www.toulouse-tourisme.com/agenda/les-levrettes-de-belleville/?u
  tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:da7a18fc-a3a6-4a8b-bf62-a2557bd19b91@news.lavillerose.com
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Lilia Benchabane
-DESCRIPTION:Lilia Benchabane présente son seule-en-scène à la Salle Noug
- aro le 20 novembre 2026. Malvoyante et atteinte d'albinisme\, elle transfo
- rme son vécu personnel en matière comique et sensible\, démontant avec 
- audace les clichés sur le handicap et les normes sociales. En 2024\, elle
-  a été reconnue parmi les « 30 femmes qui changent la société » par 
- le magazine ELLE et La Tribune\, soulignant son rayonnement national. Le s
- pectacle est décrit comme à la fois drôle\, touchant et brillamment éc
- rit — une invit\n\nSource\: https://www.toulouse-tourisme.com/agenda/lil
- ia-benchabane/
-LOCATION:Salle Nougaro le 20 novembre 2026\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/lilia-benchabane/?utm_source=i
- cal&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:f47158a9-b6c9-470c-b05e-4911d118b224@news.lavillerose.com
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -26595,6 +25900,24 @@ DESCRIPTION:Le spectacle Laïka est présenté au Théâtre des Mazades à
  tourisme.com/agenda/laika/
 URL:https://www.toulouse-tourisme.com/agenda/laika/?utm_source=ical&utm_med
  ium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fe9372cd-e706-4dea-a405-9acecab9f3d0@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Guided Tour – Couvent des Jacobins
+DESCRIPTION:Une visite guidée en anglais est proposée au Couvent des Jaco
+ bins de Toulouse\, monument emblématique du gothique méridional fondé e
+ n 1229. Le tour permet de découvrir huit siècles d'histoire et les trans
+ formations successives du site\, de sa fondation jusqu'à la période rév
+ olutionnaire. Les participants parcourent les différents espaces du couve
+ nt : l'église\, le cloître\, la salle capitulaire et la chapelle Saint-A
+ ntonin. Cette visite s'adresse notamment aux visiteurs anglophones souhait
+ ant appréh\n\nSource\: https://www.toulouse-tourisme.com/agenda/guided-to
+ ur-of-the-couvent-des-jacobins/
+URL:https://www.toulouse-tourisme.com/agenda/guided-tour-of-the-couvent-des
+ -jacobins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0f986f20-0684-4300-9ae2-7b4f1b854261@news.lavillerose.com
@@ -26702,6 +26025,40 @@ DESCRIPTION:« Poem of a River » est une pièce musicale et théâtrale pr
 LOCATION:Espace Roguet le 20 novembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/poem-of-a-river/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7497517b-a0e3-41a5-9d61-595eae16e8f5@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Au Cœur du Quartier Saint-Étienne
+DESCRIPTION:L'Office de tourisme de Toulouse propose une immersion dans le 
+ quartier Saint-Étienne\, l'un des secteurs les plus prestigieux de la vil
+ le\, centré sur la place de la Cathédrale. Le quartier\, dit « des anti
+ quaires »\, s'est construit à partir du XVIIe siècle autour du pouvoir 
+ parlementaire instauré en 1444\, attirant magistrats et noblesse de robe 
+ qui y édifièrent de splendides hôtels particuliers. Ces demeures classi
+ ques\, jouant sur la bichromie brique et pierre blanche\, se distinguent p
+ ar leurs fe\n\nSource\: https://www.toulouse-tourisme.com/agenda/au-coeur-
+ du-quartier-saint-etienne/
+LOCATION:quartier Saint-Étienne\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/au-coeur-du-quartier-saint-eti
+ enne/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:4113d696-7d4c-4716-842c-77eed35407f7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Visite guidée – Couvent des Jacobins
+DESCRIPTION:Le Couvent des Jacobins propose une visite guidée de ce monume
+ nt emblématique du cœur de Toulouse\, datant des 13e et 14e siècles. Un
+  guide expérimenté accompagne les visiteurs à travers l'architecture m
+ éridionale remarquable du site\, en partageant anecdotes inédites et dé
+ tails architecturaux. La visite est programmée le 20 novembre 2026. Elle 
+ s'adresse à toute personne curieuse de patrimoine médiéval et d'histoir
+ e toulousaine.\n\nSource\: https://www.toulouse-tourisme.com/agenda/visite
+ -guidee-au-couvent-des-jacobins/
+URL:https://www.toulouse-tourisme.com/agenda/visite-guidee-au-couvent-des-j
+ acobins/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:bfa2e1b1-bdc9-4a7b-b0d2-719a222fda9b@news.lavillerose.com
@@ -26831,15 +26188,15 @@ BEGIN:VEVENT
 UID:cluster:ec55f093-0446-40bc-98f0-9f60f41fab17@news.lavillerose.com
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261214
-SUMMARY:Festival SYNCHRO
+SUMMARY:SYNCHRO – Cinémathèque de Toulouse
 DESCRIPTION:Pour sa 5e édition\, le festival SYNCHRO retrouve la Cinémath
  èque de Toulouse récemment rénovée\, après deux éditions hors les mu
- rs. Jusqu'au 29 novembre à Toulouse puis jusqu'au 13 décembre en tourné
- e régionale (Albi\, Marciac\, Foix\, Tournefeuille\, Roques)\, plus d'une
-  soixantaine de séances feront revivre le cinéma muet accompagné de mus
- iciens en direct. Le film d'ouverture est L'Aurore de Murnau au piano par 
- Maud Nelissen\, et la clôture toulousaine mettra à l'honneur Les Ailes (
- Wings\, 1927)\, prem\n\nSource\: https://www.lessentiel.fr/newsletter/toul
+ rs. Du 20 novembre au 13 décembre 2026\, plus d'une soixantaine de séanc
+ es de ciné-concerts feront revivre le cinéma muet\, avec des musiciens e
+ n direct lors des projections — du solo au format symphonique\, de l'org
+ ue à l'électro. Parmi les temps forts : L'Aurore de Murnau en ouverture\
+ , et en clôture toulousaine Les Ailes (Wings\, 1927)\, premier film à av
+ oir remporté l'Osca\n\nSource\: https://www.lessentiel.fr/newsletter/toul
  ouse/2026-11-20#55899
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-20#55899?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -26884,6 +26241,56 @@ URL:https://actu.fr/occitanie/toulouse_31555/devenir-le-numero-un-enzo-22-a
  ns-ancien-plus-jeune-boulanger-de-france-s-installe-sur-cette-place-de-tou
  louse_65079686.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:3308be04-d0a0-4863-ad8c-0677632705bc@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Toulouse y sus Monumentos
+DESCRIPTION:L'Office de Tourisme de Toulouse propose un itinéraire de déc
+ ouverte à pied des grands monuments de la ville rose\, au départ de ses 
+ locaux installés dans une ancienne tour de défense. Le parcours relie la
+  place du Capitole\, la rue du Taur\, la basilique Saint-Sernin — édifi
+ ce roman sur le chemin de Saint-Jacques-de-Compostelle — et le couvent d
+ es Jacobins\, fleuron du gothique méridional. La promenade s'achève sur 
+ les berges de la Garonne\, avec une vue panoramique sur les façades de br
+ iques caract\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse
+ -y-sus-monumentos/
+LOCATION:place du Capitole\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-y-sus-monumentos/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c2c9be47-9182-4ea0-82ef-fd6fb8b4b627@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Un Putain de Conte de Fée
+DESCRIPTION:La comédie « Un Putain de Conte de Fée » est programmée au
+  Café Théâtre Les 3T à Toulouse le 21 novembre 2026. Le spectacle est 
+ décrit comme imprévisible\, drôle et rythmé\, et se distingue par une 
+ interaction forte avec le public\, qui devient complice de l'histoire. Sal
+ uée par la critique\, cette pièce provoque rires et sursauts en salle. E
+ lle s'adresse à tous les amateurs de comédie décalée cherchant une soi
+ rée théâtrale participative et originale.\n\nSource\: https://www.toulo
+ use-tourisme.com/agenda/un-putain-de-conte-de-fee/
+URL:https://www.toulouse-tourisme.com/agenda/un-putain-de-conte-de-fee/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:c7563145-0dd8-490d-9a38-9247a7615969@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Trop Parfaite
+DESCRIPTION:La pièce « Trop Parfaite » est programmée au Café Théâtr
+ e Les 3T à Toulouse le 21 novembre 2026. Le spectacle met en scène Thoma
+ s\, un jeune roboticien qui rêve de créer la femme parfaite avec l'aide 
+ d'un ami de longue date\, pour finalement obtenir une poupée qui dit touj
+ ours oui. La cohabitation avec ce prototype tourne rapidement au chaos\, d
+ ans un registre de comédie décalée et d'actualité. Le spectacle s'adre
+ sse à un large public en quête de bonne humeur et de rires.\n\nSource\: 
+ https://www.toulouse-tourisme.com/agenda/trop-parfaite/
+URL:https://www.toulouse-tourisme.com/agenda/trop-parfaite/?utm_source=ical
+ &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d317152-4cd8-482c-a4d2-cf17b6cf4d30@news.lavillerose.com
@@ -27188,23 +26595,58 @@ URL:https://actu.fr/occitanie/toulouse_31555/attention-aucun-ne-circulera-e
  4.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:2cc106e2-5834-4d40-af37-6e6f862f7b0b@news.lavillerose.com
+UID:cluster:e6ad96d6-2443-45b0-aedb-900007cf737c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Toulouse : l'Essentiel
-DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée con
- çue pour les primo-visiteurs souhaitant découvrir les incontournables de
-  la ville rose. Le parcours débute place du Capitole avant de plonger dan
- s l'église des Jacobins\, joyau gothique des XIIIe-XIVe siècles. Les par
- ticipants entrent également dans deux hôtels particuliers Renaissance 
- — les hôtels Bernuy et d'Assézat — témoins de la prospérité liée
-  au commerce du pastel après l'incendie de 1463. La visite se conclut en 
- flânant le long\n\nSource\: https://www.toulouse-tourisme.com/agenda/toul
- ouse-lessentiel/
-LOCATION:place du Capitole avant de plonger dans l'église des Ja\, Toulous
- e
-URL:https://www.toulouse-tourisme.com/agenda/toulouse-lessentiel/?utm_sourc
- e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+SUMMARY:Le Gai Mariage
+DESCRIPTION:« Le Gai Mariage » est une comédie qui suit Henri de Sacy\, 
+ don Juan impénitent\, contraint d'épouser un homme pour toucher l'hérit
+ age de sa tante. Son ami avocat lui suggère ce stratagème insolite\, et 
+ son copain Dodo\, sans emploi\, accepte le contrat — mais le mariage tou
+ rne vite au cauchemar. La pièce est jouée au Café Théâtre Les 3T à T
+ oulouse. Les deux sources s'accordent sur le titre et le lieu (Les 3T)\, m
+ ais divergent sur la date : l'office du tourisme indique le 21 novembre 20
+ 26\, Ticketmaste\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ le-gai-mariage-billet/idmanif/664391/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/le-gai-mariage-billet/idma
+ nif/664391/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:78785fd6-4dce-4ec3-9d50-806d289dba70@news.lavillerose.com
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Palais de Justice ou la Ville Enfouie
+DESCRIPTION:Une visite guidée exclusive permet de descendre dans une crypt
+ e archéologique de 600 m² découverte sous l'entrée principale du Palai
+ s de Justice de Toulouse. Le site retrace l'histoire du lieu depuis la Tol
+ osa du Ier siècle\, avec son entrée sud proche de la Garonne\, jusqu'au 
+ château médiéval érigé pour défendre le comté\, en passant par les 
+ somptueuses demeures de la Renaissance bâties par le royaume de France. L
+ es fouilles\, menées pendant près de dix ans par des archéologues\, ont
+  mis au jour l'u\n\nSource\: https://www.toulouse-tourisme.com/agenda/pala
+ is-de-justice-ou-la-ville-enfouie/
+LOCATION:Palais de Justice de Toulouse\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/palais-de-justice-ou-la-ville-
+ enfouie/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7b5c60ec-9e6e-46f4-a4f9-4614e395bab6@news.lavillerose.com
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Visite Flash Famille
+DESCRIPTION:Une visite guidée familiale est proposée au Monument à la Gl
+ oire de la Résistance à Toulouse\, pensée pour explorer le mémorial à
+  travers ses formes architecturales et ses symboles. L'accent est mis sur 
+ le langage du bâtiment — béton brut\, lignes anguleuses\, cryptes\, tu
+ nnels et passages — pour faire comprendre aux enfants et aux parents ce 
+ que ces espaces évoquent du courage des résistants. La visite vise à tr
+ ansmettre une émotion et un sens historique sans entrer dans les détails
+  les plus durs d\n\nSource\: https://www.toulouse-tourisme.com/agenda/visi
+ te-flash-famille-au-monument-a-la-gloire-de-la-resistance/
+URL:https://www.toulouse-tourisme.com/agenda/visite-flash-famille-au-monume
+ nt-a-la-gloire-de-la-resistance/?utm_source=ical&utm_medium=calendar&utm_c
+ ampaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:91f373be-fb35-443f-aee7-6c7c6d42e9db@news.lavillerose.com
@@ -27312,6 +26754,24 @@ URL:https://actu.fr/occitanie/toulouse_31555/rues-fermees-rassemblements-in
  terdits-brouillage-de-drones-toulouse-sous-cloche-pour-la-venue-d-emmanuel
  -macron_65085112.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e1b9dbbe-9e42-4bf7-9cf7-0b715b576e7f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Toulouse Frivole de Madame Rose
+DESCRIPTION:Une guide-conférencière incarne Madame Rose\, une proxénète
+  de la Belle Époque\, pour une balade costumée dans le quartier Saint-Ge
+ orges. La visite replonge dans le Toulouse des années 1880 : percement de
+  la rue Alsace-Lorraine\, arrivée de l'électricité\, essor des cafés e
+ t des loisirs populaires. L'événement est prévu le 22 novembre 2026\, a
+ u départ de la place Saint-Georges\, avec des places limitées nécessita
+ nt une réservation en ligne obligatoire. La visite est réservée aux par
+ ticipants âgés de 1\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /le-toulouse-frivole-de-madame-rose/
+LOCATION:quartier Saint-Georges\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/le-toulouse-frivole-de-madame-
+ rose/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1399aa98-72dc-424e-a2e0-3444e037316c@news.lavillerose.com
@@ -27462,6 +26922,23 @@ URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-23#55996?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d3aaf1f1-a93d-4779-98e3-4d883b0602b2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Les Faux British
+DESCRIPTION:Le Café Théâtre Les 3T accueille « Les Faux British »\, un
+ e comédie théâtrale où des comédiens amateurs tentent de jouer un thr
+ iller tout en enchaînant les catastrophes. Le spectacle joue sur le flegm
+ e britannique supposé de ses protagonistes\, pris dans un engrenage de ga
+ gs et de situations incontrôlables. Le ton est résolument burlesque\, av
+ ec une mise en abyme entre la pièce dans la pièce et les déboires des i
+ nterprètes. Une soirée destinée aux amateurs de comédie absurde et de 
+ théâtre loufoque \n\nSource\: https://www.toulouse-tourisme.com/agenda/l
+ es-faux-british/
+URL:https://www.toulouse-tourisme.com/agenda/les-faux-british/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:cf8da38b-8090-4010-8d1a-f0728e1f892d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261128
@@ -27478,6 +26955,23 @@ DESCRIPTION:Le Théâtre de la Cité accueille « Une Vie d'Acteur »\, un
 LOCATION:salles obscures\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/une-vie-dacteur/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:de0d138b-419c-47b4-82c0-a7079f712e25@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261126
+SUMMARY:Guitare vs Mandoline
+DESCRIPTION:Le concert « Guitare vs Mandoline » propose une mise en regar
+ d des deux instruments à cordes pincées à travers leurs concerti les pl
+ us célèbres : celui de Calace pour la mandoline et celui de Rodrigo pour
+  la guitare. L'événement se tient à L'Escale les 24 et 25 novembre 2026
+ \, avec deux solistes d'exception dont Julien Marti. Le programme s'accomp
+ agne d'une réflexion historique sur la trajectoire de chaque instrument :
+  la guitare propulsée au rang de star par la musique pop et l'amplificati
+ on éle\n\nSource\: https://www.toulouse-tourisme.com/agenda/guitare-vs-ma
+ ndoline/
+URL:https://www.toulouse-tourisme.com/agenda/guitare-vs-mandoline/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0019b781-27ee-49ac-a14d-2d14c295118e@news.lavillerose.com
@@ -27591,6 +27085,43 @@ URL:https://actu.fr/occitanie/toulouse_31555/nous-avons-vu-le-potentiel-ce-
  567.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ab527730-9508-41bd-9e73-be221fd01dab@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261130
+SUMMARY:Pyrénicimes 2026
+DESCRIPTION:Le festival Pyrénicimes\, dédié à la nature\, la montagne e
+ t les grands espaces\, se tient du 24 au 29 novembre 2026 entre Pibrac et 
+ Colomiers. Au programme : ciné-débats\, salon de la photo nature\, conte
+ s\, théâtre\, ateliers et conférences. Temps fort de cette édition : l
+ 'avant-première du film « Derborence\, le Temps des Animaux » de Vincen
+ t Chabloz\, présenté au cinéma Véo Grand Central de Colomiers. Le week
+ -end se conclut avec le village Pyrénicimes au gymnase de la Castanette 
+ à Pibrac — marché gou\n\nSource\: https://www.lessentiel.fr/newsletter
+ /toulouse/2026-11-24#56266
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-24#56266?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e0eb015d-858b-44af-aa5d-196482557276@news.lavillerose.com
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Les pompiers toulousains en colère bloquent une voie au Grand Rond
+DESCRIPTION:Depuis 8h30 ce mardi 24 novembre 2026\, des pompiers de la case
+ rne Lougnon se mobilisent aux abords du Grand Rond en centre-ville de Toul
+ ouse. En tenue\, ils ont allumé un feu dans un bidon et distribué des tr
+ acts aux automobilistes pour faire connaître leurs revendications. Le mou
+ vement\, à l'initiative des syndicats SA-SDIS 31\, Sud-Sdis31 et CGT Sdis
+  31\, s'inscrit dans une mobilisation nationale des sapeurs-pompiers profe
+ ssionnels. Leurs revendications portent sur des embauches supplémentaires
+ \, u\n\nSource\: https://actu.fr/occitanie/toulouse_31555/en-colere-les-po
+ mpiers-se-mobilisent-au-centre-ville-de-toulouse-et-bloquent-une-voie-de-c
+ irculation_65092400.html
+URL:https://actu.fr/occitanie/toulouse_31555/en-colere-les-pompiers-se-mobi
+ lisent-au-centre-ville-de-toulouse-et-bloquent-une-voie-de-circulation_650
+ 92400.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:82592433-55c6-482d-be1b-56f6262f4f27@news.lavillerose.com
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
@@ -27623,6 +27154,39 @@ DESCRIPTION:La pièce « Tarpin Me Manquer » est présentée au Théâtre
  a/tarpin-me-manquer/
 URL:https://www.toulouse-tourisme.com/agenda/tarpin-me-manquer/?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:ec620729-e475-46e6-b57a-f6be6202f5a3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20270101
+SUMMARY:Aime-moi… si tu peux !
+DESCRIPTION:La pièce de théâtre comique « Aime-moi… si tu peux ! » e
+ st programmée à la Comédie de la Roseraie\, à Toulouse. Elle met en sc
+ ène Hervé Pauchard\, ingénieur informatique romantique et idéaliste\, 
+ qui attend l'amour parfait — au point d'avoir planifié ses épousailles
+  avec Monica Bellucci. Sa voisine Nina\, séductrice et exubérante\, va b
+ ouleverser ses plans en s'entichant de ce voisin qui l'intrigue. La séanc
+ e de 22h30 est déclinée en soirée festive : deux verres de blanc\, buff
+ et et DJ sont inclus\, po\n\nSource\: https://www.toulouse-tourisme.com/ag
+ enda/aime-moi-si-tu-peux/
+URL:https://www.toulouse-tourisme.com/agenda/aime-moi-si-tu-peux/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fa754892-6d09-41d9-9c06-a69519fb1b6c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Venise sous la neige
+DESCRIPTION:« Venise sous la neige » est une pièce de théâtre présent
+ ée au Café Théâtre Les 3T à Toulouse le 25 novembre 2026. L'histoire 
+ suit Patricia\, entraînée de force à un dîner par un ami avec lequel e
+ lle vient de se disputer\, et qui décide de se venger en gardant le silen
+ ce toute la soirée. Entre quiproquos et déchirures amoureuses\, la soir
+ ée déraille de façon comique et explosive. Le spectacle s'adresse aux a
+ mateurs de comédie de situation et de théâtre intimiste.\n\nSource\: ht
+ tps://www.toulouse-tourisme.com/agenda/venise-sous-la-neige/
+URL:https://www.toulouse-tourisme.com/agenda/venise-sous-la-neige/?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:03697d7b-d799-4d25-b03d-198ef3b7f6aa@news.lavillerose.com
@@ -27751,23 +27315,6 @@ URL:https://www.toulouse-tourisme.com/agenda/decouverte-automnale-de-nos-pl
  -agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:0b490302-6f7a-4bce-b516-b0ce6f8c9fb4@news.lavillerose.com
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261130
-SUMMARY:Festival Culture Bar-Bars
-DESCRIPTION:Le Festival Culture Bar-Bars investit les bars\, cafés-concert
- s et clubs toulousains du 25 au 29 novembre 2026\, pour sa édition annuel
- le. Deuxième événement culturel national après la Fête de la Musique\
- , le festival met à l'honneur le rôle essentiel de ces petits lieux de d
- iffusion dans l'émergence artistique et le vivre ensemble. Au programme :
-  musique\, stand-up\, expositions\, drag shows\, danse et bien d'autres pr
- opositions artistiques. Une quinzaine de lieux participent à Toulouse\, d
- ont le Flash\n\nSource\: https://www.toulouse-tourisme.com/agenda/festival
- -culture-bar-bars/
-URL:https://www.toulouse-tourisme.com/agenda/festival-culture-bar-bars/?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:12ac5f02-570a-4aaf-bfe6-2e3299e599ff@news.lavillerose.com
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
@@ -27787,37 +27334,72 @@ BEGIN:VEVENT
 UID:cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261228
-SUMMARY:Marché de Noël de Toulouse
-DESCRIPTION:Le marché de Noël de Toulouse se tiendra du 26 novembre au 27
-  décembre 2026. Une centaine de chalets seront installés sur la place du
-  Capitole\, cœur traditionnel de l'événement. Un village enchanté anim
- era également le square Charles-de-Gaulle\, et le célèbre sapin-manège
-  sera de retour rue d'Alsace-Lorraine. L'événement s'étale sur un mois 
- et concerne l'ensemble des Toulousains et visiteurs de passage en période
-  de fêtes.\n\nSource\: https://newsletter.lessentiel.fr/ltlc/v1/Rjl7iCG23
- s_Q_xsk_ZN-CmZaD/71cc8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYByc
- EqVcxAQwyQhkWaQCXk?st=1795410217
-LOCATION:place du Capitole\, Toulouse
-URL:https://newsletter.lessentiel.fr/ltlc/v1/Rjl7iCG23s_Q_xsk_ZN-CmZaD/71cc
- 8fa2341883463caebe98806c8455/31Zk5q86ZJPVE9C9_R2IYBycEqVcxAQwyQhkWaQCXk?st
- =1795410217?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
- da
+SUMMARY:Marchés de Noël Toulouse
+DESCRIPTION:Les festivités de Noël à Toulouse débutent officiellement l
+ e vendredi 27 novembre 2026 avec un lancement prévu à 17h45 sur les Ramb
+ las\, allées Jean-Jaurès. La soirée d'ouverture comprend chocolat chaud
+ \, chorale d'enfants\, illuminations sons et lumières à 18h30\, puis une
+  grande parade de Noël jusqu'au Capitole à 18h40. Le maire Jean-Luc Moud
+ enc inaugurera vers 19h30 le marché du Capitole\, qui accueille 150 chale
+ ts d'artisans\, producteurs et exposants d'Occitanie\, ainsi qu'une patino
+ ire. En parall\n\nSource\: https://www.toulouscope.fr/2026/11/24/marches-d
+ e-noel-2026-a-toulouse-notre-selection-pour-trouver-des-cadeaux-originaux-
+ 13665765.php
+LOCATION:allées Jean-Jaurès\, Toulouse
+URL:https://www.toulouscope.fr/2026/11/24/marches-de-noel-2026-a-toulouse-n
+ otre-selection-pour-trouver-des-cadeaux-originaux-13665765.php?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8704ba85-ed35-47ad-a36b-3017541885a3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Virtuose Halle aux Grains
+DESCRIPTION:La visite guidée « Virtuose » propose une plongée d'une heu
+ re dans l'histoire surprenante de la Halle aux Grains\, inaugurée en 1861
+  comme marché reliant la ville au canal du Midi. Le parcours retrace les 
+ reconversions successives du bâtiment — laboratoire d'agronomie\, salle
+  de boxe\, cirque\, école de danse — avant sa transformation en salle d
+ e spectacle dans les années 1970 à l'initiative du chef Michel Plasson. 
+ Les visiteurs peuvent également arpenter les couloirs d'une mini-ville so
+ uterraine co\n\nSource\: https://www.toulouse-tourisme.com/agenda/virtuose
+ -halle-aux-grains/
+LOCATION:Halle aux Grains\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/virtuose-halle-aux-grains/?utm
+ _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a7a05f33-c2e1-4e91-9d60-fb16b888b2b3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Ô Mon Païs
+DESCRIPTION:La pièce « Ô Mon Païs » est programmée au Café Théâtre
+  Les 3T à Toulouse le 26 novembre 2026. Le spectacle met en scène une tr
+ oupe de comédiens amateurs locaux qui décident de faire venir un metteur
+  en scène parisien pour les encadrer. Le clash culturel est au cœur du p
+ ropos : comment ce Parisien nommé Baptiste De La Verrière peut-il dirige
+ r des « paysans » qui confondent Roxanne et Juliette\, Molière et Feyde
+ au ? Une comédie décalée et jubilatoire qui s'annonce accessible à tou
+ s les amateurs de \n\nSource\: https://www.toulouse-tourisme.com/agenda/o-
+ mon-pais/
+URL:https://www.toulouse-tourisme.com/agenda/o-mon-pais/?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1d827e3e-c132-4642-a63d-66823a9bdeea@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Jean-François Zygel Canal du Midi
-DESCRIPTION:Le pianiste et compositeur Jean-François Zygel propose un conc
- ert original à la Halle aux Grains le 26 novembre 2026. Sous forme d'une 
- croisière musicale imaginaire à travers l'Occitanie\, le programme mêle
-  des œuvres de Mendelssohn\, Debussy et Smetana à des improvisations en 
- temps réel\, spécialité de l'artiste. Zygel\, connu du grand public not
- amment pour ses émissions pédagogiques sur la musique classique\, endoss
- e ici le rôle d'« amiral » de ce voyage sonore. Le concert s'adresse au
- ssi bien aux \n\nSource\: https://www.toulouse-tourisme.com/agenda/jean-fr
- ancois-zygel-met-en-musique-le-canal-du-midi/
-LOCATION:Halle aux Grains le 26 novembre 2026\, Toulouse
+SUMMARY:Jean-François Zygel – Canal du Midi
+DESCRIPTION:À l'occasion des 30 ans de l'inscription du canal du Midi au p
+ atrimoine mondial de l'Unesco\, la Halle aux Grains accueille une soirée 
+ exceptionnelle conjuguant histoire\, nature et musique. Le pianiste et imp
+ rovisateur Jean-François Zygel embarque le public dans une croisière mus
+ icale imaginaire à travers l'Occitanie\, aux côtés des musiciens de l'O
+ rchestre national du Capitole. Au programme : des œuvres de Debussy\, Del
+ ius\, Smetana\, Paul Lacombe et Lully\, entrecoupées d'improvisations sig
+ nées Zyge\n\nSource\: https://www.toulouse-tourisme.com/agenda/jean-franc
+ ois-zygel-met-en-musique-le-canal-du-midi/
+LOCATION:Halle aux Grains accueille une soirée exceptionnelle\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/jean-francois-zygel-met-en-mus
  ique-le-canal-du-midi/?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
@@ -27872,6 +27454,23 @@ DESCRIPTION:Florent Marchet se produit à la Salle Nougaro de Toulouse le 2
  a/florent-marchet/
 LOCATION:Salle Nougaro de Toulouse le 26 novembre 2026\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/florent-marchet/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:f417767e-1fd6-4b3a-90ba-80866686c24e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Aéro Malgré Lui
+DESCRIPTION:« Aéro Malgré Lui » est une pièce de théâtre comique pr
+ ésentée au Café Théâtre Les 3T à Toulouse. L'histoire met en scène 
+ Félix\, un employé fainéant chargé des badges dans une grande entrepri
+ se aéronautique toulousaine\, dont la vie tranquille est chamboulée par 
+ l'arrivée d'une DRH redoutable — et ancienne flamme. Pour sauver son po
+ ste\, il enchaîne les mensonges\, avec pour seuls alliés un chien et un 
+ stagiaire peu dégourdi. La pièce joue sur l'humour du monde du travail d
+ ans un contexte aéronauti\n\nSource\: https://www.toulouse-tourisme.com/a
+ genda/aero-malgre-lui/
+URL:https://www.toulouse-tourisme.com/agenda/aero-malgre-lui/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
@@ -27934,13 +27533,13 @@ DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
 SUMMARY:Toulouse Django Festival
 DESCRIPTION:Le Toulouse Django Festival revient pour sa 3e édition du 26 a
- u 29 novembre 2026\, célébrant le jazz manouche\, style héritage de Dja
- ngo Reinhardt et Stéphane Grappelli. Au programme : RT Jouaville feat Sim
- ba Baumgartner\, Marcel Loeffler et l'Adrien Moignard Quartet\, pour quatr
- e jours de concerts en divers lieux de la ville. Ce courant musical\, né 
- dans les années 30\, est reconnu internationalement comme partie du patri
- moine musical français. Le festival s'adresse à tous les amateurs de jaz
- z et de \n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-dja
+ u 29 novembre 2026\, célébrant le jazz manouche\, style musical fondé p
+ ar Django Reinhardt et Stéphane Grappelli dans les années 1930. Ce coura
+ nt\, reconnu internationalement comme patrimoine musical français\, sera 
+ à l'honneur à travers plusieurs lieux de la ville. Au programme : RT Jou
+ aville feat Simba Baumgartner\, Marcel Loeffler\, et l'Adrien Moignard Qua
+ rtet. Les amateurs de jazz manouche et de guitare tzigane trouveront dans 
+ ce festi\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-dja
  ngo-festival/
 URL:https://www.toulouse-tourisme.com/agenda/toulouse-django-festival/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -27978,6 +27577,23 @@ DESCRIPTION:La cinquième édition de « Madame va Danser » se tient le 26
  -5/
 URL:https://www.toulouse-tourisme.com/agenda/madame-va-danser-5/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7ee9f14c-c2ae-42f0-b6ba-950386fec128@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261228
+SUMMARY:Marché de Noël des Ramblas
+DESCRIPTION:Un marché de Noël s'installe sur les Ramblas de Toulouse du 2
+ 6 novembre au 27 décembre 2026. Une vingtaine de chalets y accueilleront 
+ artisans\, créateurs et producteurs locaux dans une ambiance festive aux 
+ décors soignés. Les visiteurs pourront déambuler dans l'allée des luti
+ ns et découvrir chaque semaine de nouveaux produits faits main. Le progra
+ mme complet des festivités de Noël est disponible sur le site de la Mair
+ ie de Toulouse.\n\nSource\: https://www.toulouse-tourisme.com/agenda/march
+ e-de-noel-sur-les-ramblas/
+LOCATION:allée des lutins\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-sur-les-ramblas
+ /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:89538e51-b6fa-4859-b0fc-8392b5bd8e89@news.lavillerose.com
@@ -28328,6 +27944,110 @@ URL:https://www.toulouse-tourisme.com/agenda/quoi-de-neuf-medicus/?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:64b39b49-9017-4845-addf-142fc3282384@news.lavillerose.com
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261207
+SUMMARY:Rencontres du Cinéma Italien
+DESCRIPTION:Les Rencontres du Cinéma Italien reviennent à Toulouse du 27 
+ novembre au 6 décembre 2026\, avec une sélection de 22 films répartis e
+ n compétition\, avant-premières et panorama. Le festival met à l'honneu
+ r le meilleur du cinéma contemporain italien\, avec la présence d'acteur
+ s et de réalisateurs majeurs. Cette édition propose un hommage particuli
+ er à Vittorio Gassman\, à travers les projections du « Pigeon » et de 
+ « Riz Amer ». Les séances se déroulent principalement au cinéma ABC\,
+  mais s'étendent ég\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /rencontres-du-cinema-italien-a-toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/rencontres-du-cinema-italien-a
+ -toulouse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:62a0b788-4113-40a3-8a40-c5b7368bf55b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Marchés des Créateurs – Artilect
+DESCRIPTION:Plusieurs samedis et dimanches par mois\, Artilect Toulouse acc
+ ueille un marché de créateurs et artisans d'Occitanie proposant céramiq
+ ue\, bijoux\, textile\, illustrations\, objets en bois et décoration. Tou
+ tes les pièces sont faites main et les visiteurs peuvent échanger direct
+ ement avec leurs fabricants. Une particularité du lieu : des créateurs 
+ « makers » y exposent aussi des objets mêlant artisanat et technologies
+ \, comme des impressions 3D\, luminaires ou jeux en petites séries. L'év
+ énement se tie\n\nSource\: https://www.toulouse-tourisme.com/agenda/march
+ es-des-createurs-chez-artilect/
+URL:https://www.toulouse-tourisme.com/agenda/marches-des-createurs-chez-art
+ ilect/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Un Dîner d'Adieu
+DESCRIPTION:La pièce « Un Dîner d'Adieu » est programmée au Café Thé
+ âtre Les 3T de Toulouse le 28 novembre 2026. Le spectacle explore une que
+ stion universelle et piquante : pourquoi continue-t-on d'accepter des invi
+ tations à des dîners que l'on redoute\, par habitude\, gentillesse ou l
+ âcheté ? Pierre et Clotilde Lecoeur décident de mettre fin à ces oblig
+ ations sociales en organisant des « dîners d'adieu » pour faire le tri 
+ dans leurs relations. Une comédie de mœurs qui promet une réflexion sav
+ oureuse sur les \n\nSource\: https://www.toulouse-tourisme.com/agenda/un-d
+ iner-dadieu/
+URL:https://www.toulouse-tourisme.com/agenda/un-diner-dadieu/?utm_source=ic
+ al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:5bf44a82-1d01-4cda-90ed-c62a46743806@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Lumière sur le Bazacle
+DESCRIPTION:La visite « Lumière sur le Bazacle » invite le public à dé
+ couvrir les Espaces EDF Bazacle\, site historique au bord de la Garonne o
+ ù la première société anonyme de l'histoire est née\, à Toulouse. Le
+ s visiteurs traverseront la centrale hydraulique toujours en activité\, a
+ u plus près des turbines\, alternateurs et transformateurs qui alimentent
+  jusqu'à 3 000 foyers. Le parcours retrace l'évolution du lieu : ancien 
+ gué\, puis moulins médiévaux gérés par les premiers actionnaires\, pu
+ is centrale électriq\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /lumiere-sur-le-bazacle/
+URL:https://www.toulouse-tourisme.com/agenda/lumiere-sur-le-bazacle/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8d26c1d4-398f-4d33-9c71-8d1add7894bb@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Le Prénom
+DESCRIPTION:La pièce de théâtre « Le Prénom » est programmée au Caf
+ é Théâtre Les 3T à Toulouse le 28 novembre 2026. L'histoire tourne aut
+ our de Vincent Larchet\, futur père\, qui révèle lors d'un dîner en fa
+ mille le prénom choisi pour son enfant à naître — avec des conséquen
+ ces désastreuses. Cette comédie\, adaptée de la pièce à succès de Ma
+ tthieu Delaporte et Alexandre de la Patellière\, promet des rebondissemen
+ ts et des tensions comiques entre amis et famille. Le spectacle s'adresse 
+ à tous les amateurs de thé\n\nSource\: https://www.toulouse-tourisme.com
+ /agenda/le-prenom/
+URL:https://www.toulouse-tourisme.com/agenda/le-prenom/?utm_source=ical&utm
+ _medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261224
+SUMMARY:Les Allées Enchantées
+DESCRIPTION:Toulouse accueille deux marchés de Noël distincts en cette fi
+ n d'année 2026. Le marché ESS « Les Allées Enchantées »\, organisé 
+ par Unis Solidaires pour sa 19e édition\, investit les allées Jules Gues
+ de du 28 novembre au 23 décembre avec des stands d'artisanat éthique\, d
+ e produits du terroir\, une guinguette d'hiver et des nocturnes les vendre
+ dis et samedis jusqu'à 22h. Place Antonin Froidure\, une journée festive
+  est programmée le 16 décembre avec un spectacle de bulles de savon « C
+ himères du vent \n\nSource\: https://www.toulouse-tourisme.com/agenda/mar
+ che-de-noel-2/
+LOCATION:Allées Enchantées »\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-2/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e00c73cd-495e-47fa-b107-36d2ac9ec001@news.lavillerose.com
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
@@ -28433,6 +28153,22 @@ URL:https://actu.fr/occitanie/toulouse_31555/ce-sont-les-jumeaux-les-plus-c
  elebres-du-cinema-deux-acteurs-de-la-saga-harry-potter-invites-au-tgs-a-to
  ulouse_64779832.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
  ouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d436259e-de0b-41ce-9d46-8c3ba17549b4@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Canal du Midi en Gabarre
+DESCRIPTION:Depuis le port Saint-Sauveur\, une promenade en gabarre permet 
+ de glisser sur le Canal du Midi au fil de trois siècles d'histoire. L'emb
+ arcation longe les platanes emblématiques du canal tout en évoquant l'é
+ popée de Pierre-Paul Riquet et la vie des bateliers. C'est une façon ori
+ ginale et paisible de (re)découvrir ce patrimoine UNESCO au cœur de Toul
+ ouse. L'activité s'adresse aussi bien aux habitants qu'aux visiteurs dés
+ ireux de voir la ville depuis l'eau.\n\nSource\: https://www.toulouse-tour
+ isme.com/agenda/le-canal-du-midi-en-gabarre/
+URL:https://www.toulouse-tourisme.com/agenda/le-canal-du-midi-en-gabarre/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:2757d89f-9906-415f-8677-27b2d9ef7bf9@news.lavillerose.com
@@ -28614,6 +28350,24 @@ DESCRIPTION:Les Bateaux Toulousains proposent une croisière de Noël famil
  siere-de-noel/
 URL:https://www.toulouse-tourisme.com/agenda/croisiere-de-noel/?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:8328a770-c0c1-4def-b618-87e39b0ad311@news.lavillerose.com
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Lever de Rideau
+DESCRIPTION:Le Théâtre du Capitole propose une visite guidée express int
+ itulée « Lever de Rideau »\, permettant de découvrir les coulisses —
+  ou presque — de l'une des salles d'opéra les plus emblématiques de To
+ ulouse. Le guide entraîne les visiteurs depuis l'entrée des artistes jus
+ qu'au paradis\, en passant par les foyers\, le balcon et le parterre\, ré
+ vélant l'architecture en fer à cheval de la grande salle sous différent
+ s angles. Sans pénétrer les véritables coulisses pour des raisons de s
+ écurité\, la visite o\n\nSource\: https://www.toulouse-tourisme.com/agen
+ da/lever-de-rideau-au-theatre-du-capitole/
+LOCATION:salles d'opéra les plus emblématiques de Toulouse\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/lever-de-rideau-au-theatre-du-
+ capitole/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:9dac9cd2-4c69-4b59-ad10-ffc1ec5c7fb3@news.lavillerose.com
@@ -28814,6 +28568,41 @@ URL:https://actu.fr/occitanie/toulouse_31555/apres-toulouse-l-exposition-du
  l?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:434b5373-05b9-48c6-b418-1ab965977022@news.lavillerose.com
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:La Mystérieuse Évasion
+DESCRIPTION:« La Mystérieuse Évasion » est un jeu coopératif destiné 
+ aux enfants de 6 à 10 ans\, organisé au Castelet\, l'ancien bâtiment de
+  la prison Saint-Michel à Toulouse. Guidés par une médiatrice\, les par
+ ticipants doivent retrouver les éléments d'un plan caché pour aider une
+  résistante à s'échapper avant d'être repérée par le gardien. L'acti
+ vité mêle énigmes\, travail d'équipe et découverte d'un lieu patrimon
+ ial chargé d'histoire\, autour des valeurs de solidarité\, de mémoire e
+ t de liberté. La réservation\n\nSource\: https://www.toulouse-tourisme.c
+ om/agenda/la-mysterieuse-evasion/
+URL:https://www.toulouse-tourisme.com/agenda/la-mysterieuse-evasion/?utm_so
+ urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:da63e79c-678c-46f3-a185-e79e7c057740@news.lavillerose.com
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Visite quartier Saint-Sernin
+DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée du 
+ quartier Saint-Sernin\, l'un des plus anciens et riches en histoire de la 
+ ville. Né au 11ème siècle autour du chantier de la basilique dédiée 
+ à Saint Saturnin\, ce bourg roman accueillait pèlerins et tailleurs de p
+ ierre avant d'être rattaché à la cité vers 1140. Dès le 13ème siècl
+ e\, le quartier devient un véritable quartier latin avec l'une des plus a
+ nciennes universités de France (fondée en 1229)\, et ses anciens collèg
+ es comme Périgord\n\nSource\: https://www.toulouse-tourisme.com/agenda/le
+ -quartier-saint-sernin/
+LOCATION:quartier Saint-Sernin\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/le-quartier-saint-sernin/?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:4ff5ffe9-b9aa-40cc-b402-f9ae935662e9@news.lavillerose.com
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
@@ -28918,24 +28707,6 @@ URL:https://www.ticketmaster.fr/fr/manifestation/origines-geoffrey-secco-bi
  m_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:7ee9f14c-c2ae-42f0-b6ba-950386fec128@news.lavillerose.com
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261207
-SUMMARY:Marché de Noël de Blagnac
-DESCRIPTION:Le marché de Noël de Blagnac se tient du 2 au 6 décembre 202
- 6 au Parc des Ramiers. Les visiteurs pourront y retrouver les classiques d
- e la saison : vin chaud\, aligot-saucisse\, gaufres de Liège\, ainsi que 
- des étals d'artisans-créateurs proposant bijoux\, vêtements et objets d
- e décoration. Chaque journée est animée par un programme distinct : fan
- fares\, déambulations féeriques\, sculpture sur glace\, balades à dos d
- 'âne\, spectacles de magie\, parades lumineuses et présence du Père No
- ël. Le week-end\, no\n\nSource\: https://www.toulouse-tourisme.com/agenda
- /marche-de-noel-de-blagnac/
-LOCATION:Parc des Ramiers\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-de-blagnac/?utm
- _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:20e1d28c-0783-4d3a-89e3-ba38f1f2e276@news.lavillerose.com
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
@@ -29003,6 +28774,25 @@ DESCRIPTION:Le Vincent Sauve Trio — batterie/composition\, piano/synthét
  ent-sauve-trio-magic-malik/
 URL:https://www.toulouse-tourisme.com/agenda/vincent-sauve-trio-magic-malik
  /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:b42dbbdb-b427-46dc-b7b6-5ed74005d77c@news.lavillerose.com
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Entre Ville et Musée
+DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée com
+ binant la place Wilson et le musée des Augustins. Le parcours explore la 
+ place Wilson comme « mille-feuille temporel »\, née de la destruction d
+ u rempart médiéval au XIXe siècle\, avec des arrêts sur des curiosité
+ s méconnues : l'architecture brutaliste du marché Victor Hugo\, le myst
+ érieux « T » de la rue Saint-Antoine du T\, ou encore la discrète chap
+ elle des pénitents bleus. La visite se prolonge ensuite au musée des Bea
+ ux-Arts des Augu\n\nSource\: https://www.toulouse-tourisme.com/agenda/entr
+ e-ville-et-musee-wilson-et-musee-des-augustins/
+LOCATION:place Wilson\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-wilson-et
+ -musee-des-augustins/?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:061f4cea-7dbb-4eb0-8802-e499725b44b5@news.lavillerose.com
@@ -29196,6 +28986,25 @@ URL:https://www.ticketmaster.fr/fr/manifestation/camille-lorente-billet/idm
  ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:c69be383-9ab4-4ac9-870c-cbb9927dffcf@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Brocante des Allées
+DESCRIPTION:La Brocante des Allées revient sur les allées François-Verdi
+ er du 4 au 6 décembre 2026\, avec plus de 100 marchands professionnels r
+ éunis pendant trois jours. Au programme : meubles anciens et contemporain
+ s\, objets de décoration insolites\, tableaux\, gravures\, livres et frip
+ es vintage ou chic. L'événement se tient chaque mois\, débutant le prem
+ ier vendredi et se prolongeant jusqu'au dimanche en fin d'après-midi. Tro
+ is food trucks seront également présents pour proposer snacking\, plats 
+ du jour et bo\n\nSource\: https://www.toulouse-tourisme.com/agenda/brocant
+ e-des-allees/
+LOCATION:Allées revient sur les allées François-Verdier du 4 a\, Toulous
+ e
+URL:https://www.toulouse-tourisme.com/agenda/brocante-des-allees/?utm_sourc
+ e=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2a601c70-e366-40a7-860c-e6144c2a4fa1@news.lavillerose.com
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
@@ -29353,10 +29162,10 @@ DESCRIPTION:Le Grand Cirque de Noël de Toulouse revient à l'Hippodrome de
  . La production réunit une brochette d'artistes internationaux : acrobate
  s japonais\, clown allemand Berty Balder\, duo aérien en tissus\, jongleu
  r bulgare Ivan Radev et la spectaculaire Roue de la Mort des Acosta Brothe
- rs. On retrouve également la Face Team hongroise qui transforme le basket
- ball en acrobatie\, le Duo Niuman pour des lancers de couteaux\, et le Duo
-  Extrav\n\nSource\: https://www.toulouse-tourisme.com/agenda/grand-cirque-
- de-noel-de-toulouse/
+ rs. On retrouve également la Face Team hongroise qui mêle basketball et 
+ acrobaties\, le Duo Niuman pour des lancers de couteaux\, et le Duo Extrav
+ aganza a\n\nSource\: https://www.toulouse-tourisme.com/agenda/grand-cirque
+ -de-noel-de-toulouse/
 URL:https://www.toulouse-tourisme.com/agenda/grand-cirque-de-noel-de-toulou
  se/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -29445,6 +29254,22 @@ DESCRIPTION:Les Broken Jazz Lab Sessions s'installent au Taquin le 4 décem
  -jazz-lab-sessions/
 URL:https://www.toulouse-tourisme.com/agenda/broken-jazz-lab-sessions/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:a2bfb256-4262-4577-acf9-f6cb4833ce0f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Le Meilleur de l'Homme c'est sa Femme
+DESCRIPTION:Le Café Théâtre Les 3T accueille « Le Meilleur de l'Homme c
+ 'est sa Femme »\, un spectacle humoristique centré sur les dynamiques du
+  couple et les différences entre hommes et femmes. Le show promet aux fem
+ mes de se sentir en « super-héroïnes » et aux hommes de devenir « irr
+ ésistibles »\, tandis que les célibataires y trouveront aussi leur comp
+ te. La programmation est fixée au 5 décembre 2026. Le spectacle s'adress
+ e à un public adulte large\, en couple ou non.\n\nSource\: https://www.to
+ ulouse-tourisme.com/agenda/le-meilleur-de-lhomme-cest-sa-femme/
+URL:https://www.toulouse-tourisme.com/agenda/le-meilleur-de-lhomme-cest-sa-
+ femme/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:01976ac9-f03a-443c-b1ba-477c81c0e288@news.lavillerose.com
@@ -29550,6 +29375,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/sergi-lopez-billet/idmanif
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4ebac025-f014-434d-af79-debbb4eff314@news.lavillerose.com
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Archi Footing Canal du Midi
+DESCRIPTION:Un parcours de footing guidé d'1h15 est organisé le long du C
+ anal du Midi\, au départ du Jardin des Plantes\, pour (re)découvrir l'ar
+ chitecture et l'histoire de Pierre-Paul Riquet tout en faisant de l'exerci
+ ce. L'événement est co-organisé par le Noviciat et l'Office de Tourisme
+  de Toulouse. Le footing en lui-même dure 45 minutes à allure tranquille
+ \, et l'activité est accessible à tous niveaux. Une tenue de sport est r
+ equise et l'inscription est obligatoire.\n\nSource\: https://www.toulouse-
+ tourisme.com/agenda/archi-footing-sur-le-canal-du-midi/
+LOCATION:Jardin des Plantes\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/archi-footing-sur-le-canal-du-
+ midi/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:1e67e5f3-3076-475e-9c52-82ea94a775c3@news.lavillerose.com
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -29565,6 +29407,24 @@ DESCRIPTION:L'animation « La magie de Noël » s'installe au Couvent des J
  -une-fois-noel/
 URL:https://www.toulouse-tourisme.com/agenda/il-etait-une-fois-noel/?utm_so
  urce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:851728c2-0327-4434-ad20-737b44b04a4f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Visita Guiada – Couvent des Jacobins
+DESCRIPTION:Le Couvent des Jacobins propose une visite guidée en espagnol 
+ de ce joyau du gothique méridional\, fondé en 1229 par les Dominicains. 
+ L'architecture en brique du couvent s'inspire des principes des cathédral
+ es du royaume de France. La visite couvre l'église\, la sacristie\, le cl
+ oître\, la salle capitulaire et la chapelle Saint-Antonin. Une occasion r
+ are pour les hispanophones de découvrir ce monument exceptionnel dans leu
+ r langue.\n\nSource\: https://www.toulouse-tourisme.com/agenda/visita-guia
+ da-del-convento-de-los-jacobinos/
+LOCATION:salle capitul\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/visita-guiada-del-convento-de-
+ los-jacobinos/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:fc77eb62-ef97-4fb5-b3d6-f404bbb9395b@news.lavillerose.com
@@ -29618,6 +29478,41 @@ DESCRIPTION:Le groupe Slim Paul & Mojo se produit au Taquin le 5 décembre
  im-paul-mojo-the-spirit-of-dr-john/
 URL:https://www.toulouse-tourisme.com/agenda/slim-paul-mojo-the-spirit-of-d
  r-john/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:aa6a9234-f0b9-4b6e-8e27-e50d47659ac8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Journée gratuite dans les musées et monuments de Toulouse
+DESCRIPTION:Le 6 décembre 2026\, les collections permanentes de neuf musé
+ es et monuments toulousains seront accessibles gratuitement au public. Son
+ t concernés le Cloître des Jacobins\, le musée Saint-Raymond\, le Museu
+ m d'histoire naturelle\, le musée Paul Dupuy\, le Château d'Eau\, les Ab
+ attoirs\, le Quai des Savoirs\, le musée des Augustins et la Chapelle de 
+ La Grave. Les expositions temporaires restent quant à elles payantes. À 
+ noter que le musée Georges-Labit demeure fermé pour travaux et ne fait d
+ onc pas parti\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-mus
+ ees-et-monuments-sont-gratuits/
+URL:https://www.toulouse-tourisme.com/agenda/les-musees-et-monuments-sont-g
+ ratuits/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:62ed6036-c710-4f47-ab03-fc89ce02e06d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Toulouse au Siècle des Lumières
+DESCRIPTION:Une guide-conférencière en costume incarnera Mme de Cambon\, 
+ descendante fictive de Pierre-Paul Riquet\, pour faire revivre la Toulouse
+  de la fin du XVIIIe siècle. La visite déambulatoire explore le quartier
+  Saint-Étienne — places secrètes\, hôtels particuliers\, vie mondaine
+  — à la veille de la Révolution française. L'événement est accessib
+ le dès 8 ans et se tient place de la Cathédrale le 6 décembre 2026. La 
+ réservation en ligne est obligatoire\, les places étant limitées.\n\nSo
+ urce\: https://www.toulouse-tourisme.com/agenda/toulouse-au-siecle-des-lum
+ ieres/
+LOCATION:quartier Saint-Étienne — places secrètes\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-au-siecle-des-lumiere
+ s/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ac44d84a-eee5-4ef3-8861-ecfa38a1490d@news.lavillerose.com
@@ -29676,19 +29571,19 @@ BEGIN:VEVENT
 UID:cluster:bfffd4d8-7557-4012-a2bb-b5d6efcb5b81@news.lavillerose.com
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:JEANNE
+SUMMARY:Jeanne
 DESCRIPTION:L'artiste Jeanne se produira au Rex de Toulouse le 6 décembre 
- 2026 dans le cadre d'un concert rock. Le Rex est une salle incontournable 
- de la scène musicale toulousaine\, connue pour accueillir des artistes é
- mergents et confirmés. Les informations disponibles restent limitées à 
- la date\, le lieu et le genre musical\, sans précision sur les horaires o
- u le prix des billets. Les amateurs de rock et les fans de Jeanne sont les
-  principaux concernés par cet événement.\n\nSource\: https://www.ticket
- master.fr/fr/manifestation/jeanne-billet/idmanif/665093/idtier/18864121
-LOCATION:salle incontournable de la scène musicale toulousain\, Toulouse
+ 2026 dans le cadre d'un concert rock. Le Rex est l'une des salles de spect
+ acle incontournables de la ville\, connue pour accueillir des artistes de 
+ la scène musicale française. L'information provient d'une fiche Ticketma
+ ster\, ce qui laisse peu de détails sur le programme ou le contenu du spe
+ ctacle. Les amateurs de rock et de musique live toulousaine sont directeme
+ nt concernés par cet événement.\n\nSource\: https://www.ticketmaster.fr
+ /fr/manifestation/jeanne-billet/idmanif/665093/idseance/4367394
+LOCATION:salles de spectacle incontournables de la ville\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/jeanne-billet/idmanif/6650
- 93/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
- se-agenda
+ 93/idseance/4367394?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
+ use-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:d3c7fb83-6d89-4cb0-ae5d-8ef0b5837dd8@news.lavillerose.com
@@ -29707,6 +29602,24 @@ DESCRIPTION:L'Office de Tourisme de Toulouse propose une balade guidée le
 LOCATION:rue Ozenne\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/petites-histoires-de-quartier-
  ozenne/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6ed0ea91-9a99-46d0-9515-bd2b54c96d13@news.lavillerose.com
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Cantates sans filet
+DESCRIPTION:L'Ensemble Baroque de Toulouse propose une soirée autour des c
+ antates de Johann Sebastian Bach à l'église Saint-Exupère\, le 6 décem
+ bre 2026. La formule est originale : une répétition ouverte au public se
+  tient une heure et demie avant le concert\, permettant aux spectateurs d'
+ assister au travail en cours\, partitions en main. Le directeur artistique
+  Michel Brun anime la soirée avec des explications et anecdotes sur l'ép
+ oque baroque et l'œuvre de Bach. Le public est même invité à rejoindre
+  l'ensemb\n\nSource\: https://www.toulouse-tourisme.com/agenda/cantates-sa
+ ns-filet-lintegrale-des-cantates-de-bach/
+URL:https://www.toulouse-tourisme.com/agenda/cantates-sans-filet-lintegrale
+ -des-cantates-de-bach/?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1c0106ff-98e1-4263-a629-399e354dd8fa@news.lavillerose.com
@@ -29814,25 +29727,6 @@ LOCATION:salles de musique a\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/axel-bauer-billet/idmanif/
  647331/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=to
  ulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:851728c2-0327-4434-ad20-737b44b04a4f@news.lavillerose.com
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:Visita guidata – Couvent des Jacobins
-DESCRIPTION:Le Couvent des Jacobins propose une visite guidée entièrement
-  conduite en italien\, le 8 décembre 2026. Les participants découvriront
-  huit siècles d'histoire à travers l'église\, la salle capitolare\, le 
- cloître\, son jardin et la chapelle Saint-Antonin. Ce monument gothique t
- oulousain\, considéré comme un chef-d'œuvre architectural\, a connu de 
- multiples vies du XIIIe siècle jusqu'à la Révolution française. La vis
- ite s'adresse aussi bien aux individuels qu'aux familles ou groupes d'amis
-  italophones.\n\nSource\: https://www.toulouse-tourisme.com/agenda/visita-
- guidata-di-convento-dei-giacobini/
-LOCATION:salle capitolare\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/visita-guidata-di-convento-dei
- -giacobini/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agen
- da
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a2c0fd08-4fcb-4281-9098-37fdef76f2a5@news.lavillerose.com
@@ -30063,21 +29957,75 @@ URL:https://www.toulouse-tourisme.com/agenda/old-school-funky-family/?utm_s
  ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:d19ded77-27f8-431f-9a25-d84165e131b3@news.lavillerose.com
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Le Monoprix de la rue d'Alsace rouvre le 10 décembre à Toulouse
+DESCRIPTION:Le Monoprix de la rue Alsace-Lorraine\, fermé depuis le 14 ao
+ ût pour travaux de rénovation\, rouvrira ses portes le jeudi 10 décembr
+ e 2026. Plesio (ex-Casino)\, propriétaire de l'enseigne depuis 2013\, ann
+ once un magasin « plus beau\, plus pop\, plus joyeux »\, avec notamment 
+ l'installation d'un nouveau concept de restauration à emporter baptisé L
+ a Cantine. L'identité graphique évolue\, mais aucun changement de struct
+ ure ni de personnel n'est prévu. Cette réouverture est attendue par de n
+ ombreux Toulous\n\nSource\: https://actu.fr/occitanie/toulouse_31555/plus-
+ beau-plus-pop-plus-joyeux-ferme-depuis-des-mois-le-monoprix-de-la-rue-d-al
+ sace-va-enfin-rouvrir-a-toulouse_65094831.html
+LOCATION:rue Alsace-Lorraine\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/plus-beau-plus-pop-plus-joyeux
+ -ferme-depuis-des-mois-le-monoprix-de-la-rue-d-alsace-va-enfin-rouvrir-a-t
+ oulouse_65094831.html?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:51db56cb-c361-4d5e-af1a-9c82ade32027@news.lavillerose.com
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:J'aime beaucoup ce que vous faites
+DESCRIPTION:La pièce « J'aime beaucoup ce que vous faites » est programm
+ ée au Café Théâtre Les 3T à Toulouse. L'histoire met en scène Charle
+ s et Carole\, deux amis bouleversés par ce qu'ils ont entendu et décidé
+ s à se venger. Le spectacle joue sur les non-dits\, les quiproquos et une
+  comédie grinçante\, promettant une soirée jubilatoire. Ce type de com
+ édie acide entre amis s'adresse à tous les amateurs de théâtre comique
+  et de situations décalées.\n\nSource\: https://www.toulouse-tourisme.co
+ m/agenda/jaime-beaucoup-ce-que-vous-faites/
+URL:https://www.toulouse-tourisme.com/agenda/jaime-beaucoup-ce-que-vous-fai
+ tes/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:9be41d10-01a7-49bd-a2d9-802f852146db@news.lavillerose.com
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
 SUMMARY:Marché Gourmand d'Occitanie
 DESCRIPTION:Le Marché Gourmand d'Occitanie se tient au MEETT du 11 au 13 d
- écembre 2026\, réunissant plus de 230 exposants tous certifiés par un s
- igne officiel de qualité et d'origine régionale. Les visiteurs pourront 
- découvrir et acheter des produits du terroir occitan dans une ambiance co
- nviviale et festive. Un programme d'animations complet est prévu : atelie
- rs culinaires animés par des chefs\, conférences sur les filières agric
- oles et la qualité alimentaire\, ainsi qu'une œnothèque dédiée aux ac
- cords mets e\n\nSource\: https://www.toulouse-tourisme.com/agenda/marche-g
- ourmand-doccitanie/
+ écembre 2026\, réunissant plus de 200 exposants tous certifiés par un s
+ igne officiel de qualité et d'origine régionale. L'événement propose u
+ n programme d'animations varié : ateliers culinaires animés par des chef
+ s\, conférences sur les filières agricoles et la qualité alimentaire\, 
+ ainsi qu'une œnothèque dédiée aux accords mets et vins occitans. Des s
+ oirées festives avec bandas viennent compléter l'expérience dans une am
+ biance convivial\n\nSource\: https://www.toulouse-tourisme.com/agenda/marc
+ he-gourmand-doccitanie/
 URL:https://www.toulouse-tourisme.com/agenda/marche-gourmand-doccitanie/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e5832c62-1e78-489f-bef0-6e892b396ae2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sur les pas de Carlos Gardel
+DESCRIPTION:Le 11 décembre 2026\, Solange Bazely propose une visite guidé
+ e originale sur les traces de Carlos Gardel (1890–1935) à Toulouse\, vi
+ lle natale du célèbre chanteur de tango argentin. Passionnée de culture
+  argentine depuis trente ans\, elle emmène les participants depuis la sta
+ tue de Gardel jusqu'à la place du Capitole\, en passant par sa maison nat
+ ale\, la basilique Saint-Sernin et la cinémathèque. Au fil du parcours\,
+  elle lit des poèmes et documents d'époque\, et fait écouter la voix et
+  les compositio\n\nSource\: https://www.toulouse-tourisme.com/agenda/sur-l
+ es-pas-de-carlos-gardel/
+URL:https://www.toulouse-tourisme.com/agenda/sur-les-pas-de-carlos-gardel/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0c2fa33c-4bb0-477d-8a74-dd2cc8ed7bb8@news.lavillerose.com
@@ -30133,6 +30081,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/les-fatals-picards-billet/
  paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4e716584-b9a3-4e60-a253-2990c619426a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Les Nocturnes Toulousaines
+DESCRIPTION:Les Nocturnes Toulousaines proposent une visite nocturne insoli
+ te de la basilique Notre-Dame-de-la-Daurade\, l'un des lieux de culte les 
+ plus emblématiques de Toulouse. Armés d'une lampe torche\, les participa
+ nts explorent l'édifice sous un éclairage inédit\, révélant des déta
+ ils habituellement invisibles : processions de personnages sculptés\, vœ
+ ux manuscrits griffonnés à la Vierge\, jeux d'ombres et de lumières sur
+  l'architecture. L'église\, reconstruite entre 1764 et 1884\, tire son no
+ m occitan « la\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-n
+ octurnes-toulousaines-notre-dame-de-la-daurade/
+URL:https://www.toulouse-tourisme.com/agenda/les-nocturnes-toulousaines-not
+ re-dame-de-la-daurade/?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:419f02f6-2fe4-4162-9a8c-fe6f238e0c54@news.lavillerose.com
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261213
@@ -30165,6 +30131,24 @@ DESCRIPTION:Le quintet Esthesis\, figure montante du rock atmosphérique et
  hesis/
 URL:https://www.toulouse-tourisme.com/agenda/esthesis/?utm_source=ical&utm_
  medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:416f2eb8-10e3-4e3c-be98-83c9edb3f9bc@news.lavillerose.com
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Le Grand Hôtel
+DESCRIPTION:Le spectacle « Le Grand Hôtel » sera présenté au 3T d'à C
+ ôté\, salle de théâtre toulousaine\, le 11 décembre 2026. Il s'agit d
+ 'un spectacle relevant du registre Arts & Théâtre – Comédie. L'inform
+ ation provient d'une fiche Ticketmaster et reste succincte : ni le synopsi
+ s ni la distribution ne sont précisés dans l'extrait disponible. Les ama
+ teurs de comédie théâtrale à Toulouse pourront réserver leurs places 
+ via la billetterie en ligne.\n\nSource\: https://www.ticketmaster.fr/fr/ma
+ nifestation/le-grand-hotel-billet/idmanif/664372/idtier/18864121
+LOCATION:salle de théâtre toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/le-grand-hotel-billet/idma
+ nif/664372/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
+ n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:190fcf95-8941-4f0f-af88-abf1d7c22bf9@news.lavillerose.com
@@ -30287,17 +30271,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:c3f17ef8-9347-49f3-b572-47384ff81fff@news.lavillerose.com
 DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261214
-SUMMARY:Concert de Noël – Sinfonia Garonna
-DESCRIPTION:Sinfonia Garonna propose deux soirées de concert de Noël les 
- 12 et 13 décembre 2026 à la Cathédrale Saint-Étienne de Toulouse. Au p
- rogramme : des œuvres de Bach\, Haendel et Saint-Saëns\, interprétées 
- par chœurs\, orchestre et orgue dans une cathédrale illuminée aux chand
- elles. Les grands chants traditionnels de Noël seront également au rende
- z-vous\, avec une invitation faite au public à chanter en chœur. Portée
-  par de jeunes chefs\, l'association se donne pour mission de proposer des
-  événements musi\n\nSource\: https://www.toulouse-tourisme.com/agenda/co
- ncert-de-noel-par-sinfonia-garonna/
+DTEND;VALUE=DATE:20261213
+SUMMARY:Concert de Noël – Cathédrale Saint-Étienne
+DESCRIPTION:Le 12 décembre 2026\, la cathédrale Saint-Étienne de Toulous
+ e accueillera deux concerts de Noël organisés par Sinfonia Garonna\, dan
+ s une atmosphère illuminée aux chandelles. Le grand chœur mixte de l'en
+ semble rejoindra un chœur de chambre\, un orchestre et l'orgue sous la di
+ rection de Martin Lacheteau. Au programme : des œuvres de Bach\, Haendel 
+ et Saint-Saëns\, ainsi que des chants traditionnels de Noël que le publi
+ c pourra parfois entonner en chœur. L'événement est présenté comme un
+ e expérience so\n\nSource\: https://www.toulouse-tourisme.com/agenda/conc
+ ert-de-noel-par-sinfonia-garonna/
 URL:https://www.toulouse-tourisme.com/agenda/concert-de-noel-par-sinfonia-g
  aronna/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -30335,21 +30319,22 @@ URL:https://www.toulouse-tourisme.com/agenda/a-croche-voix/?utm_source=ical
  &utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:e6ad96d6-2443-45b0-aedb-900007cf737c@news.lavillerose.com
+UID:cluster:58d04b72-be16-4e87-b638-1766fd8273ee@news.lavillerose.com
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:Le Gai Mariage
-DESCRIPTION:La comédie Le Gai Mariage est programmée au Grand Théâtre 3
- T de Toulouse le 12 décembre 2026. Il s'agit d'un spectacle de théâtre 
- comique\, genre réputé pour son accessibilité à un large public. La re
- présentation se tient dans cette salle toulousaine dédiée aux arts viva
- nts. Les amateurs de comédie théâtrale sont directement concernés par 
- cet événement.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
- le-gai-mariage-billet/idmanif/664391/idtier/18864121
-LOCATION:salle toulousaine dédiée aux arts vivants\, Toulouse
-URL:https://www.ticketmaster.fr/fr/manifestation/le-gai-mariage-billet/idma
- nif/664391/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
- n=toulouse-agenda
+SUMMARY:Les Créas Taur
+DESCRIPTION:Les Créas Taur investissent la place de la Trinité\, au cœur
+  de Toulouse\, pour un marché artisanal et artistique réunissant 12 à 1
+ 5 exposants. Chaque créateur y vend ses propres réalisations sans interm
+ édiaire : vêtements\, bijoux\, céramiques\, cosmétiques bio\, luminair
+ es\, photographie\, illustrations ou encore jouets. L'événement se veut 
+ une vitrine directe du talent local\, dans une ambiance conviviale propice
+  à la découverte. Une occasion idéale pour dénicher un cadeau original
+  ou une pièce unique\n\nSource\: https://www.toulouse-tourisme.com/agenda
+ /les-creas-taur-place-de-la-trinite/
+LOCATION:place de la Trinité\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/les-creas-taur-place-de-la-tri
+ nite/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:37a245d9-5d1f-4135-ac75-107760557883@news.lavillerose.com
@@ -30392,16 +30377,16 @@ BEGIN:VEVENT
 UID:cluster:06212142-b40d-4754-9f8f-b9956c7bf3b6@news.lavillerose.com
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-SUMMARY:Un Dimanche Un Quartier
-DESCRIPTION:L'Office de Tourisme de Toulouse propose une visite guidée du 
- quartier des Minimes\, organisée en partenariat avec le Noviciat. Le parc
- ours retrace l'histoire du lieu\, des vignobles longeant le canal du Midi 
- aux jardins maraîchers des années 1850\, en passant par l'implantation d
- u couvent des Minimes dès 1503 et son église classée ornée d'œuvres d
- e la Renaissance toulousaine (Fayet\, Tournier). La visite aborde aussi l'
- histoire contemporaine du quartier\, notamment les vagues d'exil espagnol 
- des ann\n\nSource\: https://www.toulouse-tourisme.com/agenda/un-dimanche-u
- n-quartier-minimes/
+SUMMARY:Un Dimanche Un Quartier – Minimes
+DESCRIPTION:La série « Un dimanche\, un quartier » de l'Office de Touris
+ me de Toulouse propose le 13 décembre 2026 une visite guidée du quartier
+  des Minimes\, au départ du Conseil Départemental. Le parcours remonte l
+ 'histoire du secteur\, depuis ses vignobles longeant le canal du Midi jusq
+ u'aux jardins maraîchers des années 1850\, en passant par l'église des 
+ Minimes\, dont l'intérieur classé abrite des œuvres de la Renaissance t
+ oulousaine (François Fayet\, Nicolas Tournier). La visite aborde aussi le
+ s vagues d'ex\n\nSource\: https://www.toulouse-tourisme.com/agenda/un-dima
+ nche-un-quartier-minimes/
 LOCATION:quartier des Minimes\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/un-dimanche-un-quartier-minime
  s/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -30564,6 +30549,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/secret-s-medical-billet/id
  ign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:7c6b8ef3-1504-4e11-927a-2872a7de3922@news.lavillerose.com
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:La Boule – CEMES
+DESCRIPTION:Le CEMES (Centre d'Élaboration de Matériaux et d'Etudes Struc
+ turales) à Rangueil ouvre exceptionnellement ses portes pour une visite g
+ uidée de « La Boule »\, un bâtiment emblématique lié à l'histoire d
+ e la microscopie électronique à Toulouse. La visite\, menée à deux voi
+ x par un conférencier et un chercheur du laboratoire\, retrace comment le
+  physicien Gaston Dupouy y conçut un microscope capable de grossir un mil
+ lion de fois grâce à un canon à électrons atteignant 95 % de la vitess
+ e de la lumière.\n\nSource\: https://www.toulouse-tourisme.com/agenda/la-
+ boule/
+URL:https://www.toulouse-tourisme.com/agenda/la-boule/?utm_source=ical&utm_
+ medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:35664701-a931-4f9d-9f2b-9a2dd375e517@news.lavillerose.com
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261219
@@ -30578,24 +30580,6 @@ DESCRIPTION:Le collectif La Cabale présente MARASME au Théâtre Sorano\,
  collective \n\nSource\: https://www.toulouse-tourisme.com/agenda/marasme/
 URL:https://www.toulouse-tourisme.com/agenda/marasme/?utm_source=ical&utm_m
  edium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Marché de Noël
-DESCRIPTION:Un marché de Noël est organisé place Antonin Froidure le 16 
- décembre 2026. La programmation de l'après-midi débute à 15h avec le s
- pectacle déambulatoire « Chimères du vent » de la troupe Envers du Mon
- de\, un show féerique et participatif mêlant bulles de savon et musique.
-  Une mini ferme pédagogique\, une visite du père Noël offerte par la ma
- irie et une lecture de contes par la médiathèque Danielle Damin complèt
- ent l'événement. Des tables de coloriage seront également disponibles\,
-  ce qui en fait un\n\nSource\: https://www.toulouse-tourisme.com/agenda/ma
- rche-de-noel-2/
-LOCATION:place Antonin Froidure le 16 décembre 2026\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-2/?utm_source=i
- cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1c6dd90b-26b8-4452-8437-4016832d1a58@news.lavillerose.com
@@ -30630,6 +30614,23 @@ DESCRIPTION:L'humoriste Hugues Lavigne se produit au Grand Théâtre 3T de
 URL:https://www.ticketmaster.fr/fr/manifestation/hugues-lavigne-billet/idma
  nif/651455/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:60129b43-0fca-433e-b688-b1b34894995e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:La Peste et les Remèdes
+DESCRIPTION:La Chapelle de la Grave accueille une visite guidée thématiqu
+ e intitulée « La Peste et les Remèdes »\, plongeant les participants d
+ ans Toulouse à l'époque moderne\, lorsque la ville était ravagée par d
+ es épidémies de peste. Les visiteurs découvrent les moyens de protectio
+ n d'alors : isolement\, fumigations\, potions et les fameux masques à bec
+  des médecins-peste. Un focus est fait sur les plantes médicinales et le
+ s remèdes souvent inefficaces de l'époque\, dont le célèbre vinaigre d
+ es quatre voleurs.\n\nSource\: https://www.toulouse-tourisme.com/agenda/la
+ -peste-et-les-remedes/
+URL:https://www.toulouse-tourisme.com/agenda/la-peste-et-les-remedes/?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:756bc308-b075-4604-af23-289e309717bb@news.lavillerose.com
@@ -30822,6 +30823,23 @@ DESCRIPTION:Le groupe toulousain Hancock en Stock se produit au Taquin les
  -stock/
 URL:https://www.toulouse-tourisme.com/agenda/hancock-en-stock/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:63bbc1a4-5780-4e4d-893f-7928f553b6cf@news.lavillerose.com
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Le Tour du Monde en 80 Jours
+DESCRIPTION:Le Café Théâtre Les 3T accueille une adaptation scénique du
+  célèbre roman de Jules Verne\, « Le Tour du Monde en 80 Jours ». Le s
+ pectacle met en scène le flegmatique Phileas Fogg et son valet français 
+ Passepartout dans leur pari fou de circumnavigation en 80 jours\, sous pei
+ ne de ruine totale. Les aventures croisent une princesse indienne en détr
+ esse\, un fumeur d'opium chinois et Jack\, grand looser de l'Ouest améric
+ ain\, promettant un voyage haut en couleurs. La représentation est progra
+ mmée le 19 \n\nSource\: https://www.toulouse-tourisme.com/agenda/le-tour-
+ du-monde-en-80-jours/
+URL:https://www.toulouse-tourisme.com/agenda/le-tour-du-monde-en-80-jours/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:1cf1677a-9867-431f-be58-b7412e31ce6a@news.lavillerose.com
@@ -31103,6 +31121,25 @@ URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:1d02d4dd-73f6-4a95-b319-1e6ce297e4b7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Entre Ville et Musée
+DESCRIPTION:Cette visite combinée de deux heures propose une immersion dan
+ s le Toulouse de la Renaissance : une première heure dans le quartier Sai
+ nt-Rome\, où marchands de pastel et magistrats royaux ont bâti de somptu
+ eux hôtels particuliers après l'incendie de 1463\, et une seconde heure 
+ au sein de la collection Bemberg\, abritée dans l'hôtel d'Assézat. Les 
+ participants bénéficient d'un accès exclusif à l'Hôtel de Bernuy et d
+ écouvrent des cours cachées du XVIe siècle. À l'hôtel d'Assézat\, le
+  guide présente u\n\nSource\: https://www.toulouse-tourisme.com/agenda/en
+ tre-ville-et-musee-la-renaissance-en-perspective/
+LOCATION:quartier Saint-Rome\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/entre-ville-et-musee-la-renais
+ sance-en-perspective/?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:e5d798fe-ff87-4b4c-b730-b1df50547654@news.lavillerose.com
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
@@ -31132,6 +31169,23 @@ DESCRIPTION:Mélissa\, Pat et Fred investissent le Studio 55 les 22 et 23 d
  oulousains-refont-les-fetes/
 URL:https://www.toulouse-tourisme.com/agenda/les-toulousains-refont-les-fet
  es/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fa0641cc-a721-4013-a7f8-b4e063cfdf15@news.lavillerose.com
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Le Circuit Énigme
+DESCRIPTION:Le Circuit Énigme est une visite guidée interactive conçue p
+ our les familles\, mêlant jeu\, compétition et découverte de Toulouse. 
+ Les participants forment une équipe parents-enfants et doivent répondre 
+ à un maximum de questions en temps limité\, guidés par un animateur pé
+ dagogue. Le parcours traverse trois sites emblématiques : la place du Cap
+ itole\, les quais de la Garonne et l'hôtel d'Assézat. Accessible à tous
+ \, l'activité développe chez les enfants le sens de l'orientation\, l'ob
+ servation et l'es\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-
+ circuit-enigme/
+URL:https://www.toulouse-tourisme.com/agenda/le-circuit-enigme/?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a5bdc581-32de-46a1-a2c6-386e769365d1@news.lavillerose.com
@@ -31223,6 +31277,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/harry-potter-et-le-prince-
  ium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:445cbfff-c599-4cdc-9857-120bd00a053d@news.lavillerose.com
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Graff Tour
+DESCRIPTION:Le Graff Tour propose une visite guidée des arts urbains à To
+ ulouse\, au départ de la place Arnaud Bernard. Le guide décode les style
+ s et l'histoire du graffiti\, de ses origines hip-hop américaines à sa r
+ econnaissance dans les galeries et musées. Toulouse est présentée comme
+  la deuxième ville de France pour son dynamisme en arts urbains\, grâce 
+ notamment aux artistes de la Truskool et à des graffeuses comme Mlle Kat.
+  La visite permet d'apprécier ce patrimoine culturel de rue et d'en compr
+ endre les\n\nSource\: https://www.toulouse-tourisme.com/agenda/graff-tour/
+LOCATION:place Arnaud Bernard\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/graff-tour/?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:5f184bbd-88f5-436c-8db8-0665ca02ecf2@news.lavillerose.com
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
@@ -31256,6 +31327,42 @@ DESCRIPTION:Le spectacle d'humour « Trop Parfaite » est programmé au Th
 URL:https://www.ticketmaster.fr/fr/manifestation/trop-parfaite-billet/idman
  if/664123/idseance/4363793?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:780ec7b4-cee2-42ab-a7d6-ec5749c200ad@news.lavillerose.com
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:La Fièvre de l'Hygiène
+DESCRIPTION:Une visite guidée historique se déroule le long des berges de
+  la Garonne\, au départ de la basilique Notre-Dame de la Daurade. Elle re
+ trace comment les avancées scientifiques du XIXe siècle ont transformé 
+ la vie quotidienne des Toulousains à travers une nouvelle quête d'hygiè
+ ne publique et d'aménagements urbains. Entre anecdotes historiques et ré
+ cits passionnés\, les participants découvrent aussi les enjeux et défis
+  spécifiquement vécus par les femmes à cette époque. La réservation e
+ n ligne est ob\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulou
+ se-au-bord-de-la-garonne-la-fievre-de-lhygiene-au-xixe-siecle/
+URL:https://www.toulouse-tourisme.com/agenda/toulouse-au-bord-de-la-garonne
+ -la-fievre-de-lhygiene-au-xixe-siecle/?utm_source=ical&utm_medium=calendar
+ &utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:93f7dbba-1fe3-4f60-b8fd-cd1243817c14@news.lavillerose.com
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Atelier Pop-up Castelet
+DESCRIPTION:Le Castelet Toulouse propose un atelier créatif pour les enfan
+ ts de 6 à 10 ans autour de l'architecture de la prison Saint-Michel. Apr
+ ès une visite adaptée au jeune public\, les participants découvrent le 
+ principe du panoptique — ce dispositif de surveillance caractéristique 
+ du XIXe siècle — et s'interrogent sur les liens entre espace\, pouvoir 
+ et société. Puis vient la pratique : chaque enfant fabrique sa propre ca
+ rte pop-up du Castelet en papier\, ciseaux et colle. L'activité\, à vivr
+ e en famille \n\nSource\: https://www.toulouse-tourisme.com/agenda/atelier
+ -pop-up-lart-des-maquettes-en-papier/
+URL:https://www.toulouse-tourisme.com/agenda/atelier-pop-up-lart-des-maquet
+ tes-en-papier/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ef4608f1-8275-45b2-be83-77a9455c9f87@news.lavillerose.com
@@ -31565,6 +31672,22 @@ DESCRIPTION:Le Bikini accueille une soirée de réveillon le 31 décembre 2
  da/reveillon-du-nouvel-an-au-bikini/
 URL:https://www.toulouse-tourisme.com/agenda/reveillon-du-nouvel-an-au-biki
  ni/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:cf5eaac6-87db-492c-9e55-44bfa64faeba@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270102
+SUMMARY:Nouvel An au Casino Barrière
+DESCRIPTION:Le Casino Barrière de Toulouse propose plusieurs formules pour
+  fêter le Nouvel An : dîner\, soirée clubbing\, dîner-spectacle ou spe
+ ctacle seul dans la nuit du 31 décembre au 1er janvier. Les fêtards ont 
+ ainsi l'embarras du choix selon leurs envies et leur budget. Un déjeuner 
+ du 1er janvier est également au programme pour prolonger les festivités.
+  L'événement s'adresse aussi bien aux amateurs de gastronomie qu'aux noc
+ tambules.\n\nSource\: https://www.toulouse-tourisme.com/agenda/nouvel-an-a
+ u-casino-barriere/
+URL:https://www.toulouse-tourisme.com/agenda/nouvel-an-au-casino-barriere/?
+ utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:49093275-11e9-4319-be89-122ff6c00f57@news.lavillerose.com
@@ -32497,16 +32620,15 @@ UID:cluster:e0c83eef-53af-4f11-99dc-099e3e116830@news.lavillerose.com
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:REST/E
-DESCRIPTION:REST/E est un spectacle présenté au Théâtre des Mazades à 
- Toulouse\, le 22 janvier 2027. La pièce explore le recours d'une mère à
-  une start-up technologique pour retrouver\, d'une façon ou d'une autre\,
-  sa fille disparue de manière violente et inexpliquée. L'intrigue soulè
- ve des questions sur le deuil\, l'intelligence artificielle et les tension
- s familiales qui surgissent face à cette démarche. Le spectacle s'adress
- e à tous les publics intéressés par le théâtre contemporain traitant 
- de thèmes émotio\n\nSource\: https://www.toulouse-tourisme.com/agenda/re
+DESCRIPTION:REST/E est une pièce de théâtre présentée au Théâtre des
+  Mazades à Toulouse le 22 janvier 2027. L'histoire suit une mère qui\, a
+ près la disparition violente et inexpliquée de sa fille\, fait appel aux
+  services d'une start-up pour tenter de la retrouver ou de la « revoir »
+ . Ce choix se heurte à l'incompréhension et à la résistance des autres
+  membres de la famille\, chacun traversant le deuil à sa façon. Le spect
+ acle aborde des thèmes contemporains forts : le deuil\, la technologie et
+  les limites éthi\n\nSource\: https://www.toulouse-tourisme.com/agenda/re
  st-e/
-LOCATION:rue de manière violente\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/rest-e/?utm_source=ical&utm_me
  dium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -32564,23 +32686,6 @@ LOCATION:Salle Nougaro de Toulouse le 22 janvier 2027\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/le-souper-billet/idmanif/6
  57628/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
  louse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:211417e7-cb0e-4c20-b4b6-555d5ae245f1@news.lavillerose.com
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:Les Musiciens du Louvre
-DESCRIPTION:Les Musiciens du Louvre\, dirigés par Marc Minkowski et accomp
- agnés du Chœur Étésias\, se produisent à la Halle aux Grains de Toulo
- use le 23 janvier 2027. Au programme : le célèbre Requiem de Mozart et l
- a Messe en ut mineur\, deux œuvres majeures du répertoire classique. L'e
- nsemble est réputé pour son interprétation de Mozart\, alliant intensit
- é dramatique et richesse stylistique baroque. Un rendez-vous incontournab
- le pour les amateurs de musique classique et de chant choral.\n\nSource\: 
- https://www.toulouse-tourisme.com/agenda/renaud-capucon-martha-argerich/
-LOCATION:Halle aux Grains de Toulouse le 23 janvier 2027\, Toulouse
-URL:https://www.toulouse-tourisme.com/agenda/renaud-capucon-martha-argerich
- /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:33308694-3e56-46cf-9b9a-41e5cae7c620@news.lavillerose.com
@@ -32922,6 +33027,24 @@ DESCRIPTION:Le spectacle « Éclats d'Enfance » est présenté au Théâtr
  a/eclats-denfance/
 URL:https://www.toulouse-tourisme.com/agenda/eclats-denfance/?utm_source=ic
  al&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:211417e7-cb0e-4c20-b4b6-555d5ae245f1@news.lavillerose.com
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Capuçon – Argerich
+DESCRIPTION:Le violoniste Renaud Capuçon et la pianiste Martha Argerich se
+  retrouvent sur la scène de la Halle aux Grains à Toulouse le 28 janvier
+  2027. Deux des plus grandes figures de la musique classique contemporaine
+  proposent un programme de sonates pour violon et piano\, avec des œuvres
+  de Prokofiev\, Schumann et Beethoven. La Sonate « À Kreutzer » de Beet
+ hoven\, pièce phare du répertoire\, figurera notamment au programme. Ce 
+ concert s'adresse aux amateurs de musique classique et de chambre qui souh
+ aitent\n\nSource\: https://www.toulouse-tourisme.com/agenda/renaud-capucon
+ -martha-argerich/
+LOCATION:Halle aux Grains\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/renaud-capucon-martha-argerich
+ /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:91857a82-8c67-4c2b-be20-9d2c6cecdc6f@news.lavillerose.com
@@ -33593,6 +33716,23 @@ DESCRIPTION:L'artiste belge Pierre de Maere se produira au Bikini à Ramonv
 LOCATION:salle emblématique de la scène musicale toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/pierre-de-maere-billet/idm
  anif/656826/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0ed1bdfe-9ab9-4f42-af5b-590e3279e2b8@news.lavillerose.com
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Sébastien Wust
+DESCRIPTION:Le comédien Sébastien Wust se produit à La Comédie de Toulo
+ use le 5 février 2027 dans le cadre d'un spectacle d'humour. La salle\, s
+ pécialisée dans les arts de la scène comique\, accueille régulièremen
+ t des one-man-shows et spectacles stand-up. Les détails du programme (dur
+ ée\, contenu\, tarifs) ne sont pas précisés dans la source disponible. 
+ L'événement s'adresse aux amateurs de comédie et d'humour sur scène à
+  Toulouse.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/sebast
+ ien-wust-billet/idmanif/679634/idseance/4464252
+URL:https://www.ticketmaster.fr/fr/manifestation/sebastien-wust-billet/idma
+ nif/679634/idseance/4464252?utm_source=ical&utm_medium=calendar&utm_campai
  gn=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
@@ -35131,6 +35271,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/royal-blood-billet/idmanif
  toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:efce50b9-66d9-423e-898d-43dbb9c96fa5@news.lavillerose.com
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270322
+SUMMARY:Bons Plans Étudiants Toulouse
+DESCRIPTION:Du 8 au 21 mars 2027\, tous les étudiants peuvent accéder gra
+ tuitement aux musées et monuments de Toulouse\, sans réservation préala
+ ble. L'offre couvre aussi bien les expositions permanentes que temporaires
+ \, dans huit musées : le Museum\, le musée des Augustins\, le musée Sai
+ nt-Raymond\, le Quai des Savoirs\, le musée des arts précieux Paul Dupuy
+ \, le Château d'eau\, le Couvent des Jacobins et les Abattoirs. Deux monu
+ ments sont également inclus : le Castelet et la chapelle de La Grave. Les
+  visites se fo\n\nSource\: https://www.toulouse-tourisme.com/agenda/les-bo
+ ns-plans-etudiants-de-toulouse/
+URL:https://www.toulouse-tourisme.com/agenda/les-bons-plans-etudiants-de-to
+ ulouse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:277924ee-2897-433d-b121-08b677981708@news.lavillerose.com
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270311
@@ -35524,6 +35681,42 @@ URL:https://www.ticketmaster.fr/fr/manifestation/richard-sabak-billet/idman
  n=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:26e695a1-b3d7-4d86-bf41-6eae71d5ae09@news.lavillerose.com
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Le Couple : Mode d'Emploi
+DESCRIPTION:Le spectacle comique « Le Couple : Mode d'Emploi » est progra
+ mmé au TMP – Théâtre Musical de Pibrac le 13 mars 2027. Il s'agit d'u
+ ne comédie de théâtre qui explore la vie de couple sur un ton humoristi
+ que. Le TMP\, situé à Pibrac dans la banlieue toulousaine\, est une sall
+ e dédiée aux arts de la scène et aux comédies musicales. Les amateurs 
+ de théâtre léger et de comédie en couple ou entre amis sont particuli
+ èrement visés par ce type de programmation.\n\nSource\: https://www.tick
+ etmaster.fr/fr/manifestation/le-couple-mode-d-emploi-billet/idmanif/679872
+ /idseance/4464668
+LOCATION:salle dédiée aux arts de la scène\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/le-couple-mode-d-emploi-bi
+ llet/idmanif/679872/idseance/4464668?utm_source=ical&utm_medium=calendar&u
+ tm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:926ced61-dd69-4792-954d-f44ff08b0275@news.lavillerose.com
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Collectif La Liane
+DESCRIPTION:Le Collectif La Liane se produira au TMP – Théâtre Musical 
+ de Pibrac le 13 mars 2027 dans un concert de chanson française. L'événe
+ ment se tient à Pibrac\, commune de la couronne toulousaine facilement ac
+ cessible depuis Toulouse. L'information provient uniquement de Ticketmaste
+ r\, ce qui laisse peu de détails sur le programme ou la formation exacte 
+ du collectif. Les amateurs de chanson française de la région sont le pub
+ lic naturellement visé.\n\nSource\: https://www.ticketmaster.fr/fr/manife
+ station/collectif-la-liane-billet/idmanif/679868/idseance/4464665
+URL:https://www.ticketmaster.fr/fr/manifestation/collectif-la-liane-billet/
+ idmanif/679868/idseance/4464665?utm_source=ical&utm_medium=calendar&utm_ca
+ mpaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:0bb3ea81-93a3-41e0-904b-fb9f5d945a9d@news.lavillerose.com
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
@@ -35847,6 +36040,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/yassine-benkhadda-billet/i
  paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:94c8f09f-f56b-4dae-9fe7-3d7c8a1f041c@news.lavillerose.com
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Match d'Impro France vs Québec
+DESCRIPTION:Un match d'improvisation théâtrale opposant une équipe fran
+ çaise à une équipe québécoise se tiendra à la Comédie de Toulouse l
+ e 18 mars 2027. Ce format de joute scénique\, popularisé au Québec\, me
+ t en compétition deux équipes de comédiens qui improvisent sur des thè
+ mes tirés au sort. L'événement s'inscrit dans la tradition des échange
+ s culturels franco-québécois autour du théâtre d'improvisation. Les am
+ ateurs de comédie et de spectacle vivant toulousains sont le public cible
+  de cette soirée.\n\nSource\: https://www.ticketmaster.fr/fr/manifestatio
+ n/match-d-impro-france-vs-quebec-billet/idmanif/679633/idseance/4464251
+URL:https://www.ticketmaster.fr/fr/manifestation/match-d-impro-france-vs-qu
+ ebec-billet/idmanif/679633/idseance/4464251?utm_source=ical&utm_medium=cal
+ endar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:090ed0cf-55a1-4dca-8d94-420bd65081e7@news.lavillerose.com
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
@@ -35863,6 +36074,22 @@ DESCRIPTION:L'ensemble Pygmalion\, dirigé par Raphaël Pichon\, se produit
 LOCATION:Halle aux Grains le 19 mars 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/pygmalion-raphael-pichon/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:da7a18fc-a3a6-4a8b-bf62-a2557bd19b91@news.lavillerose.com
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Lilia Benchabane
+DESCRIPTION:Lilia Benchabane présente son spectacle solo au Théâtre Musi
+ cal de Pibrac le 19 mars 2027. Le show retrace le parcours d'une femme non
+ -voyante à travers un récit autobiographique mêlant humour et autodéri
+ sion. Elle y porte un regard sans concession sur la société et les inég
+ alités vécues par les personnes en situation de handicap\, notamment la 
+ question de la tarification en matière d'accessibilité culturelle. Un se
+ ul-en-scène à la fois personnel et engagé\, destiné à un large public
+ .\n\nSource\: https://www.toulouse-tourisme.com/agenda/lilia-benchabane/
+URL:https://www.toulouse-tourisme.com/agenda/lilia-benchabane/?utm_source=i
+ cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:269f7c23-096a-4ee3-a5a5-d626074264de@news.lavillerose.com
@@ -36586,6 +36813,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/julie-conti-billet/idmanif
  toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:046aec5b-b0c5-4912-af11-bba67f6bd884@news.lavillerose.com
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Jeanne Added
+DESCRIPTION:La chanteuse et compositrice française Jeanne Added se produir
+ a au Bikini\, à Ramonville-Saint-Agne\, le 27 mars 2027. Artiste reconnue
+  pour son univers à la croisée du rock\, de l'électro et de la pop exp
+ érimentale\, elle est l'une des voix les plus singulières de la scène f
+ rançaise actuelle. Le concert est classé dans la catégorie rock. Les am
+ ateurs de musique alternative et les habitués de la salle toulousaine son
+ t particulièrement concernés.\n\nSource\: https://www.ticketmaster.fr/fr
+ /manifestation/jeanne-added-billet/idmanif/679790/idseance/4464511
+URL:https://www.ticketmaster.fr/fr/manifestation/jeanne-added-billet/idmani
+ f/679790/idseance/4464511?utm_source=ical&utm_medium=calendar&utm_campaign
+ =toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:7f1d7a16-762c-48c3-a4e5-bc5c8158be3e@news.lavillerose.com
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
@@ -36705,6 +36949,23 @@ DESCRIPTION:« Sous les Paupières » est un spectacle solo présenté au T
  sous-les-paupieres/
 URL:https://www.toulouse-tourisme.com/agenda/sous-les-paupieres/?utm_source
  =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1f9b33df-8c1d-4bfb-a2c0-720c8419669b@news.lavillerose.com
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270401
+SUMMARY:Beethoven : Le Bicentenaire
+DESCRIPTION:L'Escale accueille un concert consacré au 200e anniversaire de
+  la mort de Beethoven\, les 30 et 31 mars 2027. Au programme\, deux œuvre
+ s majeures : la 7e Symphonie et le Concerto pour piano « L'Empereur »\, 
+ présentées comme parmi les plus représentatives du compositeur. Le conc
+ ert est présenté dans une perspective musicologique\, soulignant la sing
+ ularité de Beethoven — premier grand compositeur à s'affranchir de tou
+ t mécénat pour créer en toute liberté. Chaque œuvre est décrite comm
+ e unique\, à l'op\n\nSource\: https://www.toulouse-tourisme.com/agenda/be
+ ethoven-le-bicentenaire-2/
+URL:https://www.toulouse-tourisme.com/agenda/beethoven-le-bicentenaire-2/?u
+ tm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:911d0585-06d4-45b2-bad2-e9bd83c813f1@news.lavillerose.com
@@ -39473,6 +39734,23 @@ URL:https://www.ticketmaster.fr/fr/manifestation/vincent-seroussi-en-appare
  ndar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:0c888255-161f-4d08-9199-cc08db0fe5cb@news.lavillerose.com
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Camille Lellouche Nuit Tour
+DESCRIPTION:Camille Lellouche\, chanteuse et humoriste française\, s'arrê
+ te à Saint-Orens-de-Gameville dans le cadre de son « Nuit Tour ». Le co
+ ncert se tiendra à l'Altigone\, salle de spectacle de la banlieue toulous
+ aine. Les billets sont disponibles via Ticketmaster. Les amateurs de chans
+ on française de l'agglomération toulousaine sont directement concernés 
+ par cette date.\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/c
+ amille-lellouche-billet/idmanif/679559/idseance/4463732
+LOCATION:salle de spectacle de la banlieue toulousaine\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/camille-lellouche-billet/i
+ dmanif/679559/idseance/4463732?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b833a10c-1e8a-4152-b1db-326a3c242e48@news.lavillerose.com
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271008
@@ -39488,6 +39766,25 @@ LOCATION:salle de spectacle toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/geryy-billet/idmanif/67526
  4/idseance/4438042?utm_source=ical&utm_medium=calendar&utm_campaign=toulou
  se-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:e1f1822c-3d31-41c8-9d03-af351d5e2cfe@news.lavillerose.com
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:La Rencontre
+DESCRIPTION:L'acteur et humoriste Thierry Lhermitte sera sur scène à l'Al
+ tigone de Saint-Orens-de-Gameville le 8 octobre 2027 avec son spectacle in
+ titulé « La Rencontre ». Ce one-man-show marque une nouvelle incursion 
+ de la star du cinéma français sur les planches\, dans une salle de proxi
+ mité de l'agglomération toulousaine. L'Altigone\, salle culturelle de r
+ éférence à Saint-Orens\, accueille régulièrement des spectacles de gr
+ ande notoriété. Les amateurs de théâtre et les fans de Lhermitte de la
+  région toulous\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/
+ thierry-lhermitte-billet/idmanif/679560/idseance/4463733
+LOCATION:salle de proximité de l'agglomération\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/thierry-lhermitte-billet/i
+ dmanif/679560/idseance/4463733?utm_source=ical&utm_medium=calendar&utm_cam
+ paign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0021f7a4-4c97-4e0c-a441-71e0183bb03f@news.lavillerose.com
@@ -40246,6 +40543,24 @@ DESCRIPTION:La chanteuse Chimène Badi se produira au Casino Barrière de T
 URL:https://www.ticketmaster.fr/fr/manifestation/chimene-badi-billet/idmani
  f/662191/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=
  toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:d48deb07-517b-481a-987d-ba7b65119eb2@news.lavillerose.com
+DTSTART;VALUE=DATE:20280211
+DTEND;VALUE=DATE:20280212
+SUMMARY:Michael Gregorio Symphonique
+DESCRIPTION:Michael Gregorio présente son spectacle « Symphonique » au Z
+ énith Toulouse Métropole le 11 février 2028. L'artiste\, connu pour ses
+  imitations vocales et ses performances scéniques spectaculaires\, s'asso
+ cie à un orchestre symphonique pour cette production. Le show promet une 
+ expérience mêlant humour\, musique live et arrangements orchestraux gran
+ dioses. L'événement s'adresse aux fans de l'artiste ainsi qu'aux amateur
+ s de spectacles musicaux ambitieux.\n\nSource\: https://www.ticketmaster.f
+ r/fr/manifestation/michael-gregorio-symphonique-billet/idmanif/679492/idse
+ ance/4463391
+URL:https://www.ticketmaster.fr/fr/manifestation/michael-gregorio-symphoniq
+ ue-billet/idmanif/679492/idseance/4463391?utm_source=ical&utm_medium=calen
+ dar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:445877be-d5c9-44ea-a8ef-fcade5c03e30@news.lavillerose.com
