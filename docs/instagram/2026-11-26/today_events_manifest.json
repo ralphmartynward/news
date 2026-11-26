@@ -1,0 +1,253 @@
+[
+  {
+    "cluster_id": null,
+    "format": "story",
+    "source": "brand",
+    "category": "intro",
+    "title": "Aujourd'hui à Toulouse",
+    "image_url": null,
+    "file": "intro_story.jpg"
+  },
+  {
+    "cluster_id": "cluster:cf8da38b-8090-4010-8d1a-f0728e1f892d",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Une Vie d'Acteur au Théâtre de la Cité en novembre",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/UNE-VIE-D-ACTEUR.jpg",
+    "file": "cluster_cf8da38b-8090-4010-8d1a-f0728e1f892d_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d5abb517-3f2f-43b2-9de6-5fca21ff1b34",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Colloque international sur les canaux à l'IUT de Blagnac",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/canal-du-midi-adobestock_403605982.jpg?itok=3gxNzrts",
+    "file": "cluster_d5abb517-3f2f-43b2-9de6-5fca21ff1b34_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:a4faf62b-cf67-4fc9-b451-857c5d0764e7",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Tarpin Me Manquer » au Théâtre du Pavé : zombies et comédie girly",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/TARPIN-ME-AMNQUER.jpg",
+    "file": "cluster_a4faf62b-cf67-4fc9-b451-857c5d0764e7_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:03697d7b-d799-4d25-b03d-198ef3b7f6aa",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Du jour où j'ai pété les plombs » à la Cave Poésie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DU-JOUR-OU-J-AI-PETE-LE-PLOMBS.jpg",
+    "file": "cluster_03697d7b-d799-4d25-b03d-198ef3b7f6aa_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:cc7fb556-b265-4c2b-ad63-94fa98df6227",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Olalaland, conte poétique et absurde au Théâtre Garonne",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/OLALALAND-THEATRE-GARONNE.jpg",
+    "file": "cluster_cc7fb556-b265-4c2b-ad63-94fa98df6227_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:a7a05f33-c2e1-4e91-9d60-fb16b888b2b3",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Ô Mon Païs : comédie hilarante au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/O-MON-PAIS.jpg",
+    "file": "cluster_a7a05f33-c2e1-4e91-9d60-fb16b888b2b3_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:1d827e3e-c132-4642-a63d-66823a9bdeea",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Jean-François Zygel met en musique le Canal du Midi à la Halle aux Grains",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JEAN-FRANCOIS-ZYGEL-2.jpg",
+    "file": "cluster_1d827e3e-c132-4642-a63d-66823a9bdeea_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:287acd72-bb6c-4c05-9d14-2575aa0949ca",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Rangée 12, Après les Souvenirs au Théâtre Le Fil à Plomb",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/RANGEE-12-APRES-LES-SOUVENIRS.jpg",
+    "file": "cluster_287acd72-bb6c-4c05-9d14-2575aa0949ca_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:898462b6-0046-4a3e-9aae-9a6578d8c70f",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "« Les Langages de l'Amour » en comédie à La Comédie de la Roseraie",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-LANGAGES-DE-L-AMOUR.jpg",
+    "file": "cluster_898462b6-0046-4a3e-9aae-9a6578d8c70f_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9bc79ca4-8a7b-4779-893b-d8a4b57575d4",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Florent Marchet en concert à la Salle Nougaro",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/FLORENT-MARCHET.jpg",
+    "file": "cluster_9bc79ca4-8a7b-4779-893b-d8a4b57575d4_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f417767e-1fd6-4b3a-90ba-80866686c24e",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Aéro Malgré Lui » : comédie au Café Théâtre Les 3T",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/AERO-MALGRE-LUI-3T-TOULOUSE.jpg",
+    "file": "cluster_f417767e-1fd6-4b3a-90ba-80866686c24e_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:f807fed1-b146-4f51-b049-ae4f7c04f6bc",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Julia Pertuy + Jon Onj en concert au Bijou",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CONCERT-AU-BIJOU.jpg",
+    "file": "cluster_f807fed1-b146-4f51-b049-ae4f7c04f6bc_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:99ccbb74-1020-43a9-905a-5609f06dd989",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Mélissa & Fred : Parents au Studio 55 de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LES-PARENTS.jpg",
+    "file": "cluster_99ccbb74-1020-43a9-905a-5609f06dd989_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d434b93c-1584-4c95-bda0-bbcf3d71d0cc",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Balètis mensuels au COMDT : musiciens et danseurs réunis",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/SERADA.jpg",
+    "file": "cluster_d434b93c-1584-4c95-bda0-bbcf3d71d0cc_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:9c3d4cdd-3e68-442d-ba79-c2897387e174",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Toulouse Django Festival : jazz manouche en divers lieux de Toulouse",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/DJANGO-FESTIVAL-TOULOUSE.jpg",
+    "file": "cluster_9c3d4cdd-3e68-442d-ba79-c2897387e174_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:735e7c62-7ea2-4fcb-bb8b-60153a14f84a",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "Madame va Danser #5 sur la Péniche Le Cri de la Mouette",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/499543813-122126302256842076-1639839181447161801-n-copie.jpg",
+    "file": "cluster_735e7c62-7ea2-4fcb-bb8b-60153a14f84a_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:89538e51-b6fa-4859-b0fc-8392b5bd8e89",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Le salon Fragments revient à l'Hôtel-Dieu Saint-Jacques",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/crop_thumbnail/public/2026-11/selection-fragments-2-52---copie.jpg?h=c19bfc50&itok=cIYn-8FM",
+    "file": "cluster_89538e51-b6fa-4859-b0fc-8392b5bd8e89_event_story.jpg",
+    "img_width": 900,
+    "img_height": 506
+  },
+  {
+    "cluster_id": "cluster:21846fb7-ce22-4001-b5f2-505c74535d19",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "Clutch'O x Layup : soirée \"Mondes Parallèles\" art urbain et musique",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/CLUTCH-O-2.jpg",
+    "file": "cluster_21846fb7-ce22-4001-b5f2-505c74535d19_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:d0bd2894-4e98-4450-95fc-788f38d57a91",
+    "format": "story",
+    "source": null,
+    "category": "event",
+    "title": "La religion en Gaule romaine au Musée Saint-Raymond",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/LA-RELIGION-EN-GAULE-ROMAINE.jpg",
+    "file": "cluster_d0bd2894-4e98-4450-95fc-788f38d57a91_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:b3de71d7-a031-4d41-8181-df271f3bebad",
+    "format": "story",
+    "source": "office_tourisme",
+    "category": "event",
+    "title": "« Je Gère » : spectacle immersif sur la prostitution des mineurs au Grand Rond",
+    "image_url": "https://cdt31.media.tourinsoft.eu/upload/JE-GERE-GRAND-ROND.jpg",
+    "file": "cluster_b3de71d7-a031-4d41-8181-df271f3bebad_event_story.jpg",
+    "img_width": 810,
+    "img_height": 650
+  },
+  {
+    "cluster_id": "cluster:39633736-9f50-46f7-b716-d7efa3d45652",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Une « Conversation » sur l'art gothique au musée des Augustins",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/06-vierge-a-l-enfant-_-nostre-dame-de-grasse.jpg?itok=PBnIYmmZ",
+    "file": "cluster_39633736-9f50-46f7-b716-d7efa3d45652_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  },
+  {
+    "cluster_id": "cluster:5910b377-4044-4140-8579-2541a8de71c3",
+    "format": "story",
+    "source": "lessentiel",
+    "category": "event",
+    "title": "Ciné-concert Buster Keaton à la salle Sénéchal ce jeudi midi",
+    "image_url": "https://www.lessentiel.fr/sites/lessentiel/files/styles/sorties/public/2026-11/musique-adobestock_288849562.jpg?itok=l2xYlpLe",
+    "file": "cluster_5910b377-4044-4140-8579-2541a8de71c3_event_story.jpg",
+    "img_width": 800,
+    "img_height": 1200
+  }
+]
