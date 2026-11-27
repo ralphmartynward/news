@@ -28,6 +28,23 @@ URL:https://actu.fr/occitanie/toulouse_31555/pourquoi-les-athletes-du-super
  tml?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:62b6754f-953a-4b71-b3c8-bbb7948af810@news.lavillerose.com
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20260927
+SUMMARY:Faire alliance
+DESCRIPTION:L'artiste Gabriel Fontana présente l'exposition « Faire allia
+ nce » au musée des Abattoirs\, du 27 novembre au 26 septembre. L'exposit
+ ion réunit quatre jeux aux règles évolutives qui invitent les visiteurs
+  à repenser la pratique sportive et à s'affranchir des codes habituels. 
+ L'installation phare\, Race/Care\, occupe la salle Picasso : deux équipes
+  doivent reconstituer les mots « race » et « care » en partageant une 
+ lettre commune\, forçant la coopération plutôt que la compétition. L'e
+ space joue sur \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/
+ 2026-11-27#56626
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-27#56626?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:2730fec0-39df-475d-a436-90541709ceb4@news.lavillerose.com
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
@@ -825,24 +842,6 @@ DESCRIPTION:Le Couvent des Jacobins propose une journée d'immersion médi
 URL:https://cdt31.tourinsoft.com/MailingElectroniqueUrlTracker.ashx?email_i
  d=ef92392f-b864-41d1-b47e-b7d4d38bc9b1&url_id=281dea02-80bc-4639-9f7f-fc53
  acf96b89?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster:ab9111ca-4935-44a4-bdeb-f1966bf30fd2@news.lavillerose.com
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:Plans Clutch
-DESCRIPTION:Ce samedi 23 mai\, Toulouse propose plusieurs rendez-vous cultu
- rels et festifs. La Salle Barcelone accueille de 9h à 20h l'exposition-an
- niversaire des 25 ans de La Garonne Expose\, réunissant une trentaine d'a
- rtistes locaux — peintres\, photographes et sculpteurs — en entrée li
- bre. Le soir\, le rooftop de l'Interférence (Gama) accueille M.iel POP\, 
- une soirée pop et queer avec DJ sets\, performances drag et hosting\, de 
- 17h à 23h\, pour 8\,99 à 10\,99 € avec 100 % des bénéfices reversés
-  à Act Up Sud-Ouest\n\nSource\: https://www.clutchmag.fr/evenements#2026-
- 05-21-samedi-23-mai
-LOCATION:Salle Barcelone accueille de 9h\, Toulouse
-URL:https://www.clutchmag.fr/evenements#2026-05-21-samedi-23-mai?utm_source
- =ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:ad0e7ade-4f99-4ce4-b86e-e2fe7b74f82c@news.lavillerose.com
@@ -12492,7 +12491,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:461c92a1-46b7-4efb-8be0-de9b47899f3a@news.lavillerose.com
 DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20260920
 SUMMARY:La Parole des Bâtons – Bibliothèque d'Étude et du Patrimoine
 DESCRIPTION:La Bibliothèque d'étude et du patrimoine de Toulouse accueill
  e « La parole des bâtons »\, une exposition permanente du poète et pla
@@ -23300,7 +23299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cluster:75b1ae3b-86bb-4aa8-ae63-e4d5771656a8@news.lavillerose.com
 DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20261108
 SUMMARY:Bal au Grand Hôtel – Couvent des Jacobins
 DESCRIPTION:Le Couvent des Jacobins accueille l'exposition « Bal au Grand 
  Hôtel : se divertir à Toulouse à la Belle Époque »\, une immersion gr
@@ -27134,21 +27133,39 @@ URL:https://www.toulouse-tourisme.com/agenda/visite-guidee-du-castelet/?utm
  _source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ab9111ca-4935-44a4-bdeb-f1966bf30fd2@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:Agenda concerts et sorties à Toulouse : 26–29 novembre
+DESCRIPTION:Du jeudi 26 au dimanche 29 novembre\, Toulouse propose une prog
+ rammation musicale dense et variée dans plusieurs salles de la ville. Le 
+ Rex accueille Colours in the Street (pop/rock\, 26 €)\, Dinaa (pop/psytr
+ ance\, 25 €) et Bisou/Full Dub (dub/electro\, 12 €)\, tandis que le Bi
+ kini programme une soirée punk-metal avec Svinkels Family & Friends\, Poe
+ sie Zero\, Burning Heads et Krav Boca (vendredi)\, puis le groupe de heavy
+  metal Accept accompagné de Dynazty et Enforcer (dimanche\, jusqu'à 45 
+ €). Les amateu\n\nSource\: https://www.clutchmag.fr/evenements#2026-11-2
+ 6-jeudi-26-novembre-1
+LOCATION:salles de la ville\, Toulouse
+URL:https://www.clutchmag.fr/evenements#2026-11-26-jeudi-26-novembre-1?utm_
+ source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261228
 SUMMARY:Marchés de Noël Toulouse
-DESCRIPTION:Les marchés de Noël de Toulouse ouvrent le 26 novembre 2026 a
- vec 150 chalets répartis sur plusieurs sites : place du Capitole\, square
-  Charles-de-Gaulle\, cour Henri IV\, allées Jean-Jaurès (Ramblas) et all
- ées Jules-Guesde. Le lancement officiel est fixé au vendredi 27 novembre
-  avec un spectacle de son et lumières vers 18h30\, suivi d'une grande par
- ade des Ramblas jusqu'au Capitole\, puis l'inauguration par le maire Jean-
- Luc Moudenc vers 19h30. Nouveautés notables cette saison : un jardin fée
+DESCRIPTION:Les marchés de Noël de Toulouse ouvrent le 26 novembre 2026\,
+  avec le village du Capitole (150 chalets)\, le square Charles-de-Gaulle\,
+  la cour Henri IV et les Ramblas (allées Jean-Jaurès)\, puis les allées
+  Jules-Guesde le lendemain. La soirée inaugurale du vendredi 27 novembre 
+ comprend un spectacle son et lumières vers 18h30\, suivi d'une grande par
+ ade des Ramblas au Capitole\, et l'inauguration officielle par le maire Je
+ an-Luc Moudenc vers 19h30. Parmi les nouveautés notables : un jardin fée
  rique et\n\nSource\: https://www.toulouscope.fr/2026/11/24/marches-de-noel
  -2026-a-toulouse-notre-selection-pour-trouver-des-cadeaux-originaux-136657
  65.php
-LOCATION:place du Capitole\, Toulouse
+LOCATION:allées Jean-Jaurès)\, Toulouse
 URL:https://www.toulouscope.fr/2026/11/24/marches-de-noel-2026-a-toulouse-n
  otre-selection-pour-trouver-des-cadeaux-originaux-13665765.php?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -27352,14 +27369,14 @@ DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
 SUMMARY:Toulouse Django Festival
 DESCRIPTION:Le Toulouse Django Festival revient pour sa 3e édition du 26 a
- u 29 novembre 2026\, célébrant le jazz manouche\, style musical fondé p
- ar Django Reinhardt et Stéphane Grappelli dans les années 1930. Ce coura
- nt\, reconnu internationalement comme patrimoine musical français\, sera 
- à l'honneur à travers plusieurs lieux de la ville. Au programme : RT Jou
- aville feat Simba Baumgartner\, Marcel Loeffler\, et l'Adrien Moignard Qua
- rtet. Les amateurs de jazz manouche et de guitare tzigane trouveront dans 
- ce festi\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulouse-dja
- ngo-festival/
+ u 29 novembre 2026\, célébrant le jazz manouche\, style né dans les ann
+ ées 30 sous l'impulsion de Django Reinhardt et Stéphane Grappelli. Au pr
+ ogramme : RT Jouaville feat Simba Baumgartner\, Marcel Loeffler et Adrien 
+ Moignard Quartet\, répartis sur plusieurs lieux de la ville. L'une des so
+ irées phares se tient le vendredi 27 novembre à la Salle du Sénéchal 
+ à 20h30\, avec Marcel Loeffler\, pour un tarif de 24 €. Le festival s'i
+ nscrit dans la\n\nSource\: https://www.toulouse-tourisme.com/agenda/toulou
+ se-django-festival/
 URL:https://www.toulouse-tourisme.com/agenda/toulouse-django-festival/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -27418,16 +27435,16 @@ BEGIN:VEVENT
 UID:cluster:89538e51-b6fa-4859-b0fc-8392b5bd8e89@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
-SUMMARY:Salon Fragments
+SUMMARY:Fragments #6
 DESCRIPTION:La 6e édition du salon Fragments se tient à l'Hôtel-Dieu Sai
- nt-Jacques de Toulouse du 26 au 29 novembre. Organisé par la Chambre de m
- étiers et de l'artisanat d'Occitanie (CMA)\, l'événement rassemble 77 a
- rtisans d'art de la région autour de disciplines variées : céramique\, 
- verre\, bois\, métal\, textile\, cuir\, bijouterie et arts décoratifs. A
- u-delà de l'exposition-vente\, le salon propose des démonstrations de sa
- voir-faire et invite le public à échanger directement avec les artisans.
-  L'objectif affic\n\nSource\: https://www.lessentiel.fr/newsletter/toulous
- e/2026-11-26#56488
+ nt-Jacques de Toulouse du 26 au 29 novembre 2026\, organisée par la Chamb
+ re de métiers et de l'artisanat d'Occitanie. Soixante-dix-sept artisans d
+ 'art de la région y présentent leurs créations dans des domaines aussi 
+ variés que la céramique\, le verre\, le bois\, le métal\, le textile\, 
+ le cuir et la bijouterie. L'événement\, qui se veut à la croisée de la
+  tradition et de l'innovation\, propose à la fois une exposition-vente et
+  des démonstratio\n\nSource\: https://www.lessentiel.fr/newsletter/toulou
+ se/2026-11-26#56488
 URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-26#56488?utm_sour
  ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -27502,6 +27519,27 @@ DESCRIPTION:La compagnie Haute Envolée présente « Je Gère »\, un spect
  a/je-gere-2/
 URL:https://www.toulouse-tourisme.com/agenda/je-gere-2/?utm_source=ical&utm
  _medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:7cc332ac-588a-40dc-9c98-b874fb193591@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261221
+SUMMARY:Expo Lay up
+DESCRIPTION:L'exposition de street-art XXL du collectif Lay up\, installée
+  dans un ancien bâtiment Enedis de 5 000 m² à Compans-Caffarelli\, joue
+  les prolongations jusqu'au dimanche 20 décembre 2026\, alors qu'elle dev
+ ait initialement fermer cette semaine. Depuis son ouverture début octobre
+ \, plus de 75 000 visiteurs ont découvert les œuvres de près de 75 arti
+ stes venus du monde entier\, réparties sur six niveaux. En décembre\, l'
+ exposition s'enrichit d'animations variées : marché de Noël\, loto\, co
+ ncerts et DJ se\n\nSource\: https://actu.fr/occitanie/toulouse_31555/plus-
+ de-75-000-personnes-ont-deja-vu-cette-expo-de-street-art-xxl-a-toulouse-el
+ le-joue-les-prolongations_65104003.html
+LOCATION:allée dans un ancien bâtiment Enedis de 5 000 m²\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/plus-de-75-000-personnes-ont-d
+ eja-vu-cette-expo-de-street-art-xxl-a-toulouse-elle-joue-les-prolongations
+ _65104003.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
+ genda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
@@ -27665,17 +27703,17 @@ UID:cluster:098273d2-b498-4784-a3f7-aa7ba04d179d@news.lavillerose.com
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
 SUMMARY:Girls Don't Cry Festival
-DESCRIPTION:Le Girls Don't Cry Festival revient à Toulouse du 27 au 29 nov
- embre 2026\, porté par l'association La Petite et son média éponyme\, q
- ui militent pour l'égalité des genres dans les arts. Pendant trois jours
- \, le festival propose concerts\, performances\, expositions et rencontres
-  autour de la création artistique des personnes minorisées de genre. La 
- programmation réunit notamment THX4CRYING\, GATAFIERA\, SUKKUBE\, VANDA F
- ORTE\, OONAGH HAINES\, BRIZITOS\, Louise Pétrouchka et LE KAIJU. Les vend
- redi et samedi\n\nSource\: https://www.toulouse-tourisme.com/agenda/girls-
- dont-cry-festival/
-URL:https://www.toulouse-tourisme.com/agenda/girls-dont-cry-festival/?utm_s
- ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+DESCRIPTION:Pour sa 6e édition\, le Girls Don't Cry Festival se tient du 2
+ 7 au 29 novembre entre La Cabane et le centre culturel Bonnefoy. Porté pa
+ r l'association toulousaine La Petite\, il promeut la création artistique
+  des personnes minorisées de genre à travers musiques électroniques\, c
+ abaret\, performances et ateliers. Le programme alterne soirées dansantes
+  (techno\, hyperpop\, jungle\, sonorités latines) et journée dominicale 
+ plus intimiste avec workshop\, émission radio et cinéma en direct. Le di
+ spositif de \n\nSource\: https://www.lessentiel.fr/newsletter/toulouse/202
+ 6-11-27#56627
+URL:https://www.lessentiel.fr/newsletter/toulouse/2026-11-27#56627?utm_sour
+ ce=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:79f51afb-d0fa-48c8-81d2-f145c8fa6070@news.lavillerose.com
@@ -27782,18 +27820,56 @@ UID:cluster:64b39b49-9017-4845-addf-142fc3282384@news.lavillerose.com
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261207
 SUMMARY:Rencontres du Cinéma Italien
-DESCRIPTION:Les Rencontres du Cinéma Italien reviennent à Toulouse du 27 
- novembre au 6 décembre 2026\, avec une sélection de 22 films répartis e
- n compétition\, avant-premières et panorama. Le festival met à l'honneu
- r le meilleur du cinéma contemporain italien\, avec la présence d'acteur
- s et de réalisateurs majeurs. Cette édition propose un hommage particuli
- er à Vittorio Gassman\, à travers les projections du « Pigeon » et de 
- « Riz Amer ». Les séances se déroulent principalement au cinéma ABC\,
-  mais s'étendent ég\n\nSource\: https://www.toulouse-tourisme.com/agenda
- /rencontres-du-cinema-italien-a-toulouse/
+DESCRIPTION:Les Rencontres du cinéma italien à Toulouse débutent le 27 n
+ ovembre pour leur 22e édition\, organisée par l'association Cinéma Para
+ diso\, et se poursuivent jusqu'au 6 décembre. Le festival propose une sé
+ lection d'une vingtaine de films italiens contemporains — 22 selon l'off
+ ice du tourisme\, 21 selon L'Essentiel — répartis entre compétition\, 
+ avant-premières et panorama\, avec des projections au cinéma ABC ainsi q
+ ue dans plusieurs communes de l'agglomération (Aucamville\, Auterive\, Bl
+ agnac\, Castanet\, \n\nSource\: https://www.toulouse-tourisme.com/agenda/r
+ encontres-du-cinema-italien-a-toulouse/
 URL:https://www.toulouse-tourisme.com/agenda/rencontres-du-cinema-italien-a
  -toulouse/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agend
  a
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:88bfb550-71e5-45b5-adf7-333160fe731a@news.lavillerose.com
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Agenda du week-end à Toulouse : Noël\, pop culture et musiques
+DESCRIPTION:La Toulouse Métropole propose un programme chargé pour le wee
+ k-end avec marchés de Noël\, festivals et concerts. Le Toulouse Game Sho
+ w investit la ville les 28 et 29 novembre pour explorer tous les univers d
+ e la pop culture\, tandis que les festivals Culture Bar-Bars et Toulouse D
+ jango Festival animent les bars et salles de la ville jusqu'au 29 novembre
+ . Le festival queer et féministe Girls don't cry\, le Pyrénicimes et un 
+ concert de gospel complètent une offre très éclectique. Les amateurs d'
+ artis\n\nSource\: http://cdt31.tourinsoft.com/view.ashx?email=6393eba9-4db
+ a-4fc3-b315-7903a3440256
+URL:http://cdt31.tourinsoft.com/view.ashx?email=6393eba9-4dba-4fc3-b315-790
+ 3a3440256?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:9b187e61-2ca2-4dcc-8d26-b88ed62effdd@news.lavillerose.com
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sélection de sorties musicales et comiques à Toulouse ce week-end
+DESCRIPTION:Ce week-end du 27 novembre 2026\, Toulouse propose une sélecti
+ on variée de sorties culturelles malgré la baisse des températures. La 
+ Halle aux grains accueille Jean-François Zygel et l'Orchestre national du
+  Capitole pour un concert événement célébrant le 30e anniversaire de l
+ 'inscription du canal du Midi à l'Unesco\, avec des improvisations et des
+  œuvres de Mendelssohn\, Debussy et Smetana. La Cabane\, aux Halles de la
+  Cartoucherie\, s'ouvre au Girls Don't Cry Festival\, dédié à la musiqu
+ e électroniqu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/le-ple
+ in-de-musique-de-l-improvisation-et-de-belles-surprises-que-faire-en-cette
+ -fin-de-semaine-a-toulouse_65090277.html
+LOCATION:Halle aux grains accueille Jean-François Zygel\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/le-plein-de-musique-de-l-impro
+ visation-et-de-belles-surprises-que-faire-en-cette-fin-de-semaine-a-toulou
+ se_65090277.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse
+ -agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:62a0b788-4113-40a3-8a40-c5b7368bf55b@news.lavillerose.com
@@ -27867,17 +27943,18 @@ BEGIN:VEVENT
 UID:cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff@news.lavillerose.com
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261224
-SUMMARY:Les Allées Enchantées
-DESCRIPTION:Toulouse accueille deux marchés de Noël distincts en cette fi
- n d'année 2026. Le marché ESS « Les Allées Enchantées »\, organisé 
- par Unis Solidaires pour sa 19e édition\, investit les allées Jules Gues
- de du 28 novembre au 23 décembre avec des stands d'artisanat éthique\, d
- e produits du terroir\, une guinguette d'hiver et des nocturnes les vendre
- dis et samedis jusqu'à 22h. Place Antonin Froidure\, une journée festive
-  est programmée le 16 décembre avec un spectacle de bulles de savon « C
- himères du vent \n\nSource\: https://www.toulouse-tourisme.com/agenda/mar
- che-de-noel-2/
-LOCATION:Allées Enchantées »\, Toulouse
+SUMMARY:Marchés et animations de Noël à Toulouse : trois rendez-vous
+DESCRIPTION:Toulouse accueille cet hiver plusieurs marchés de Noël aux fo
+ rmats et lieux distincts. Le marché ESS « Les Allées Enchantées » inv
+ estit les allées Jules Guesde pour sa 19e édition\, du 28 novembre au 23
+  décembre\, avec artisans\, produits du terroir\, nocturnes les vendredis
+  et samedis soirs et une guinguette d'hiver. Place Antonin Froidure\, une 
+ animation de quartier est prévue le 16 décembre avec un spectacle de bul
+ les de savon\, une mini ferme pédagogique\, la visite du père Noël et d
+ es lectures de \n\nSource\: https://www.toulouse-tourisme.com/agenda/march
+ e-de-noel-2/
+LOCATION:Allées Enchantées » investit les allées Jules Guesde\, Toulous
+ e
 URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-2/?utm_source=i
  cal&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
@@ -28680,6 +28757,22 @@ URL:https://www.toulouse-tourisme.com/agenda/vincent-sauve-trio-magic-malik
  /?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:a7c3ce90-0342-4790-b28b-3afa1be825f8@news.lavillerose.com
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:L'Arbre Mystérieux
+DESCRIPTION:Le Théâtre de la Violette accueille « L'Arbre Mystérieux »
+ \, un spectacle de Noël pour enfants proposé par la Cie Sarah Boy. L'his
+ toire suit Maé\, une petite fille qui veut décorer un arbre mystérieux\
+ , et sa tante Marie-Jo l'écolo\, parties à la recherche d'objets pour en
+  faire une merveille. Le spectacle mêle couleurs\, musique\, chansons\, p
+ oésie et mouvement\, et se termine par un moment de danse avec les enfant
+ s. La représentation est programmée le 2 décembre 2026.\n\nSource\: htt
+ ps://www.toulouse-tourisme.com/agenda/larbre-mysterieux/
+URL:https://www.toulouse-tourisme.com/agenda/larbre-mysterieux/?utm_source=
+ ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:b42dbbdb-b427-46dc-b7b6-5ed74005d77c@news.lavillerose.com
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
@@ -29190,6 +29283,24 @@ DESCRIPTION:Les Broken Jazz Lab Sessions s'installent au Taquin le 4 décem
  -jazz-lab-sessions/
 URL:https://www.toulouse-tourisme.com/agenda/broken-jazz-lab-sessions/?utm_
  source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:1744074a-7abd-4d8f-bb66-e0b50cbdbc13@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Rando Roller Spéciale Noël
+DESCRIPTION:La Rando Roller Spéciale Noël 2026 se tient le 4 décembre au
+  départ de la place du Capitole\, invitant les patineurs de niveau interm
+ édiaire à parcourir les rues illuminées de Toulouse déguisés en perso
+ nnages de Noël. L'événement\, organisé par Roulez Rose\, mêle sport\,
+  convivialité et ambiance festive dans un cadre hivernal unique. Comme ch
+ aque année\, la randonnée s'associe à une collecte de jouets neufs dest
+ inés aux enfants hospitalisés au CHU de Toulouse\, remis directement aux
+  équipes soignantes\n\nSource\: https://www.toulouse-tourisme.com/agenda/
+ rando-roller-speciale-noel/
+LOCATION:place du Capitole\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/rando-roller-speciale-noel/?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:a2bfb256-4262-4577-acf9-f6cb4833ce0f@news.lavillerose.com
@@ -30117,6 +30228,43 @@ LOCATION:salle de théâtre toulousaine\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/le-grand-hotel-billet/idma
  nif/664372/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaig
  n=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:0d343454-5af1-45d4-a575-c3ab5c599f6e@news.lavillerose.com
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+SUMMARY:Marché de Noël d'Aucamville
+DESCRIPTION:Le Marché de Noël d'Aucamville se tient du 11 au 13 décembre
+  2026 au Parc Municipal Les Jardins de l'Europe. L'événement rassemble d
+ e nombreux artisans locaux qui présentent leurs créations et leur savoir
+ -faire tout au long du week-end. Des animations sont prévues pour tous le
+ s âges\, avec notamment une chorale à l'ouverture du marché avant la d
+ écouverte des chalets. L'événement s'adresse aussi bien aux familles qu
+ 'aux amateurs d'artisanat local souhaitant plonger dans l'ambiance d'un vi
+ llage de \n\nSource\: https://www.toulouse-tourisme.com/agenda/marche-de-n
+ oel-daucamville/
+LOCATION:Parc Municipal Les Jardins de l'Europe\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/marche-de-noel-daucamville/?ut
+ m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:fd62af9c-0e1c-4193-a3b6-f0e1c7864692@news.lavillerose.com
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+SUMMARY:Marché Gourmand d'Occitanie – MEETT
+DESCRIPTION:Fondée en 1925 à Mirabel (Tarn-et-Garonne)\, la Maison Cabos 
+ perpétue depuis quatre générations un savoir-faire artisanal autour de 
+ la prune d'Ente\, transformée en pruneau de la récolte jusqu'au séchage
+ . Véronique Cabos\, aujourd'hui à la tête de l'entreprise familiale\, a
+  grandi au milieu des fruits avant de reprendre le flambeau de ses parents
+ . La transmission se poursuit avec son fils\, qui apporte ses propres verg
+ ers à la production. Les curieux pourront découvrir l'histoire et les sp
+ écialités d\n\nSource\: https://www.toulouscope.fr/2026/11/26/dans-le-ta
+ rn-et-garonne-la-maison-cabos-perpetue-depuis-quatre-generations-lartisana
+ t-du-pruneau-13662870.php
+URL:https://www.toulouscope.fr/2026/11/26/dans-le-tarn-et-garonne-la-maison
+ -cabos-perpetue-depuis-quatre-generations-lartisanat-du-pruneau-13662870.p
+ hp?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:190fcf95-8941-4f0f-af88-abf1d7c22bf9@news.lavillerose.com
@@ -32314,6 +32462,24 @@ URL:https://www.ticketmaster.fr/fr/manifestation/juste-shani-billet/idmanif
  oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:4ac86eef-436c-443e-9a7e-8cd8527cf62d@news.lavillerose.com
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Patrice Ortega
+DESCRIPTION:Le comédien Patrice Ortega se produit à La Petite Comédie de
+  Toulouse le 14 janvier 2027. Il s'agit d'un spectacle de comédie présen
+ té dans cette salle dédiée aux arts de la scène et à l'humour. La Pet
+ ite Comédie est une adresse toulousaine connue pour accueillir des one-ma
+ n-shows et spectacles comiques. L'événement s'adresse aux amateurs de co
+ médie souhaitant une soirée humour dans une salle à taille humaine.\n\n
+ Source\: https://www.ticketmaster.fr/fr/manifestation/patrice-ortega-bille
+ t/idmanif/680175/idseance/4466023
+LOCATION:salle dédiée aux arts de la scène\, Toulouse
+URL:https://www.ticketmaster.fr/fr/manifestation/patrice-ortega-billet/idma
+ nif/680175/idseance/4466023?utm_source=ical&utm_medium=calendar&utm_campai
+ gn=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:12a0eb89-9146-404c-b516-7c2fe6f58ab0@news.lavillerose.com
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
@@ -33081,15 +33247,15 @@ DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Zaho
 DESCRIPTION:La chanteuse Zaho se produira au Casino Barrière de Toulouse l
- e 27 janvier 2027 dans le cadre d'un concert de chanson française. L'év
- énement est répertorié sur Ticketmaster\, ce qui laisse supposer que le
- s billets sont disponibles à la vente en ligne. Le Casino Barrière est u
- ne salle de spectacle établie à Toulouse\, accueillant régulièrement d
- es artistes de variété et de chanson française. Cet événement s'adres
- se aux amateurs de chanson française et aux fans de Zaho.\n\nSource\: htt
- ps://www.ticketmaster.fr/fr/manifestation/zaho-billet/idmanif/675026/idsea
- nce/4436849
-LOCATION:salle de spectacle éta\, Toulouse
+ e 27 janvier 2027 dans le cadre d'un concert de chanson française. L'arti
+ ste\, connue pour son style mêlant R&B et influences francophones\, inves
+ tira cette salle emblématique du centre-ville toulousain. L'événement s
+ 'inscrit dans la programmation musicale du Casino Barrière\, qui accueill
+ e régulièrement des artistes de la scène française. Les amateurs de ch
+ anson française et de musique urbaine sont particulièrement concernés p
+ ar cette d\n\nSource\: https://www.ticketmaster.fr/fr/manifestation/zaho-b
+ illet/idmanif/675026/idseance/4436849
+LOCATION:salle emblématique du centre-ville toulousain\, Toulouse
 URL:https://www.ticketmaster.fr/fr/manifestation/zaho-billet/idmanif/675026
  /idseance/4436849?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
  e-agenda

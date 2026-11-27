@@ -1,0 +1,83 @@
+{
+  "type": "weekend_carousel",
+  "saturday": "2026-11-28",
+  "sunday": "2026-11-29",
+  "slides": [
+    {
+      "file": "weekend_cover.jpg",
+      "type": "cover"
+    },
+    {
+      "file": "weekend_event_01.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8328a770-c0c1-4def-b618-87e39b0ad311",
+      "title": "Visite guidée « Lever de Rideau » au Théâtre du Capitole",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_02.jpg",
+      "type": "event",
+      "cluster_id": "cluster:db9375fd-117c-476d-b748-27b3fab4b483",
+      "title": "Parcours mémoriel Seconde Guerre mondiale devant le Monument à la Résistance",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_03.jpg",
+      "type": "event",
+      "cluster_id": "cluster:713c44cc-e4f0-4ca4-be28-59430e007d52",
+      "title": "Exposition Napoléon III au Musée Saint-Raymond de Toulouse",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_04.jpg",
+      "type": "event",
+      "cluster_id": "cluster:62a0b788-4113-40a3-8a40-c5b7368bf55b",
+      "title": "Marchés des Créateurs chez Artilect, fablab pionnier toulousain",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_05.jpg",
+      "type": "event",
+      "cluster_id": "cluster:06593d2c-84e5-4020-94d2-160c6ac1cdd8",
+      "title": "« Un Dîner d'Adieu » au Café Théâtre Les 3T",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_06.jpg",
+      "type": "event",
+      "cluster_id": "cluster:5bf44a82-1d01-4cda-90ed-c62a46743806",
+      "title": "Visite guidée « Lumière sur le Bazacle » aux Espaces EDF",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_07.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8d26c1d4-398f-4d33-9c71-8d1add7894bb",
+      "title": "Le Prénom, comédie hilarante au Café Théâtre Les 3T",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_08.jpg",
+      "type": "event",
+      "cluster_id": "cluster:8814a3c4-138b-4039-be8e-92b1ab4fe5ff",
+      "title": "Marchés et animations de Noël à Toulouse : trois rendez-vous",
+      "img_width": 810,
+      "img_height": 650
+    },
+    {
+      "file": "weekend_event_09.jpg",
+      "type": "event",
+      "cluster_id": "cluster:d436259e-de0b-41ce-9d46-8c3ba17549b4",
+      "title": "Promenade en gabarre sur le Canal du Midi depuis Saint-Sauveur",
+      "img_width": 810,
+      "img_height": 650
+    }
+  ]
+}
