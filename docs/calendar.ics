@@ -26250,26 +26250,6 @@ URL:https://www.toulouse-tourisme.com/agenda/a-deux-cest-mieux/?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
-UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Gilets jaunes Actes VI et VII : mobilisations tendues à Toulouse
-DESCRIPTION:Les Gilets jaunes ont organisé leurs Actes VI et VII à Toulou
- se les 21 et 28 novembre 2026\, adoptant une stratégie de dispersion avec
-  plusieurs points de rassemblement simultanés pour compliquer le disposit
- if des forces de l'ordre. Pour l'Acte VI du 21 novembre\, deux cortèges 
- étaient prévus depuis Esquirol et Jean-Jaurès\, mais la journée a tour
- né à la confusion : le préfet avait interdit les manifestations non dé
- clarées\, et les 3 300 participants ont été repoussés par les gendarme
- s mobiles jusqu\n\nSource\: https://actu.fr/occitanie/toulouse_31555/atten
- tion-changement-de-strategie-a-quoi-s-attendre-pour-l-acte-vi-des-gilets-j
- aunes-du-21-novembre-a-toulouse_65075478.html
-URL:https://actu.fr/occitanie/toulouse_31555/attention-changement-de-strate
- gie-a-quoi-s-attendre-pour-l-acte-vi-des-gilets-jaunes-du-21-novembre-a-to
- ulouse_65075478.html?utm_source=ical&utm_medium=calendar&utm_campaign=toul
- ouse-agenda
-END:VEVENT
-BEGIN:VEVENT
 UID:cluster:6f1a3ecb-51ae-45db-a1d3-7383f34ddf52@news.lavillerose.com
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
@@ -27154,18 +27134,17 @@ BEGIN:VEVENT
 UID:cluster:b5d37ad6-0cf6-4316-b2b7-e06b57d41a2a@news.lavillerose.com
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261228
-SUMMARY:Marchés de Noël Toulouse
-DESCRIPTION:Les marchés de Noël de Toulouse ouvrent le 26 novembre 2026\,
-  avec le village du Capitole (150 chalets)\, le square Charles-de-Gaulle\,
-  la cour Henri IV et les Ramblas (allées Jean-Jaurès)\, puis les allées
-  Jules-Guesde le lendemain. La soirée inaugurale du vendredi 27 novembre 
- comprend un spectacle son et lumières vers 18h30\, suivi d'une grande par
- ade des Ramblas au Capitole\, et l'inauguration officielle par le maire Je
- an-Luc Moudenc vers 19h30. Parmi les nouveautés notables : un jardin fée
- rique et\n\nSource\: https://www.toulouscope.fr/2026/11/24/marches-de-noel
- -2026-a-toulouse-notre-selection-pour-trouver-des-cadeaux-originaux-136657
- 65.php
-LOCATION:allées Jean-Jaurès)\, Toulouse
+SUMMARY:Marchés de Noël de Toulouse
+DESCRIPTION:Les marchés de Noël de Toulouse ont ouvert le 26 novembre 202
+ 6\, avec le lancement officiel des festivités le vendredi 27 novembre à 
+ 17h45 sur les Ramblas. Au programme : illuminations\, spectacle son et lum
+ ière\, et la grande parade « Gueules d'ours » de la compagnie Remue Mé
+ nage\, qui a parcouru les allées Jean-Jaurès jusqu'à la place du Capito
+ le. Cette année\, 150 chalets sont répartis entre la place du Capitole\,
+  le square Charles-de-Gaulle\, la cour Henri IV et les Ramblas\, avec une 
+ nouveauté : c'\n\nSource\: https://www.toulouscope.fr/2026/11/24/marches-
+ de-noel-2026-a-toulouse-notre-selection-pour-trouver-des-cadeaux-originaux
+ -13665765.php
 URL:https://www.toulouscope.fr/2026/11/24/marches-de-noel-2026-a-toulouse-n
  otre-selection-pour-trouver-des-cadeaux-originaux-13665765.php?utm_source=
  ical&utm_medium=calendar&utm_campaign=toulouse-agenda
@@ -27540,6 +27519,27 @@ URL:https://actu.fr/occitanie/toulouse_31555/plus-de-75-000-personnes-ont-d
  eja-vu-cette-expo-de-street-art-xxl-a-toulouse-elle-joue-les-prolongations
  _65104003.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-a
  genda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:6cdf6e88-805e-4668-9c87-2a6f5d5229ce@news.lavillerose.com
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+SUMMARY:Festival Django Reinhardt Toulouse
+DESCRIPTION:Toulouse accueille pendant trois jours un festival de jazz mano
+ uche unique en Occitanie\, rendant hommage à Django Reinhardt\, guitarist
+ e virtuose et figure fondatrice du genre. Les festivités ont débuté le 
+ jeudi 26 novembre avec des concerts à la Salle du Sénéchal\, notamment 
+ avec l'accordéoniste Marcel Loeffler accompagné de son quartet. Le samed
+ i 28 novembre\, le guitariste Adrien Moignard\, considéré comme l'un des
+  grands noms de la scène actuelle\, est également à l'affiche. La progr
+ ammation mêle\n\nSource\: https://actu.fr/occitanie/toulouse_31555/ce-fes
+ tival-de-musique-unique-en-occitanie-rend-hommage-a-un-maitre-de-la-guitar
+ e-decouvrez-la-programmation-2026_65090600.html
+LOCATION:Salle du Sénéchal\, Toulouse
+URL:https://actu.fr/occitanie/toulouse_31555/ce-festival-de-musique-unique-
+ en-occitanie-rend-hommage-a-un-maitre-de-la-guitare-decouvrez-la-programma
+ tion-2026_65090600.html?utm_source=ical&utm_medium=calendar&utm_campaign=t
+ oulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:54e6f22e-84ad-4493-9acb-fd84115b230a@news.lavillerose.com
@@ -28113,6 +28113,27 @@ DESCRIPTION:Le concert Gospel Harmony se tiendra à l'Église Saint-Exupèr
  e\: https://www.toulouse-tourisme.com/agenda/gospel-harmony/
 URL:https://www.toulouse-tourisme.com/agenda/gospel-harmony/?utm_source=ica
  l&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:87f2e219-0017-4c67-b650-da5bb4568eae@news.lavillerose.com
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Acte VII des Gilets jaunes à Toulouse : centre-ville sous haute su
+ rveillance
+DESCRIPTION:Le samedi 28 novembre 2026\, Toulouse s'apprête à vivre un no
+ uvel épisode de mobilisation avec l'« Acte VII » des Gilets jaunes\, da
+ ns la continuité de l'Acte VI du 21 novembre qui avait réuni 3 300 manif
+ estants dans la confusion\, avec des cortèges sauvages et des tirs de gre
+ nades lacrymogènes notamment sous l'arche Marengo. Pour ce nouveau samedi
+ \, trois points de rassemblement sont annoncés à 14h (place du Salin\, m
+ étro Esquirol\, allées Jean-Jaurès)\, en convergence avec une mobilisat
+ ion contre les\n\nSource\: https://actu.fr/occitanie/toulouse_31555/videos
+ -3-300-manifestants-corteges-sauvages-et-lacrymos-tous-azimuts-un-samedi-d
+ ans-la-confusion-a-toulouse_65084978.html
+URL:https://actu.fr/occitanie/toulouse_31555/videos-3-300-manifestants-cort
+ eges-sauvages-et-lacrymos-tous-azimuts-un-samedi-dans-la-confusion-a-toulo
+ use_65084978.html?utm_source=ical&utm_medium=calendar&utm_campaign=toulous
+ e-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:09071bb7-8b4a-4977-ae60-2455023959d8@news.lavillerose.com
@@ -29303,6 +29324,22 @@ URL:https://www.toulouse-tourisme.com/agenda/rando-roller-speciale-noel/?ut
  m_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cluster:ce7d41d4-15e5-4b0a-941e-b61e8529b5d7@news.lavillerose.com
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Agriparade
+DESCRIPTION:L'Agriparade investit les boulevards du centre-ville de Toulous
+ e le 4 décembre 2026\, avec un défilé partant des Allées Jean-Jaurès 
+ jusqu'au boulevard Carnot avant de revenir au point de départ. L'événem
+ ent met à l'honneur le monde agricole au cœur de la ville. La soirée se
+  prolonge jusqu'à 22h avec une animation musicale place d'Arménie. Un re
+ ndez-vous festif et populaire pour les Toulousains et les familles.\n\nSou
+ rce\: https://www.toulouse-tourisme.com/agenda/agriparade/
+LOCATION:Allées Jean-Jaurès jusqu'au boulevard Carnot avant de\, Toulouse
+URL:https://www.toulouse-tourisme.com/agenda/agriparade/?utm_source=ical&ut
+ m_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
 UID:cluster:a2bfb256-4262-4577-acf9-f6cb4833ce0f@news.lavillerose.com
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
@@ -30466,6 +30503,23 @@ DESCRIPTION:Les Créas Taur investissent la place de la Trinité\, au cœur
 LOCATION:place de la Trinité\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-creas-taur-place-de-la-tri
  nite/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:96a2dd1f-7125-4770-9268-8c294d86789f@news.lavillerose.com
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Le Prénom
+DESCRIPTION:La pièce de théâtre « Le Prénom » sera jouée au Grand Th
+ éâtre 3T de Toulouse le 12 décembre 2026. Cette comédie signée Matthi
+ eu Delaporte et Alexandre de la Patellière est l'une des plus jouées en 
+ France\, connue pour son humour mordant autour d'un dîner entre amis qui 
+ dérape. L'événement s'inscrit dans la programmation Arts & Théâtre 
+ — Comédie du Grand Théâtre 3T. Les amateurs de théâtre comique à T
+ oulouse sont directement concernés.\n\nSource\: https://www.ticketmaster.
+ fr/fr/manifestation/le-prenom-billet/idmanif/664393/idtier/18864121
+URL:https://www.ticketmaster.fr/fr/manifestation/le-prenom-billet/idmanif/6
+ 64393/idtier/18864121?utm_source=ical&utm_medium=calendar&utm_campaign=tou
+ louse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:37a245d9-5d1f-4135-ac75-107760557883@news.lavillerose.com
@@ -31902,6 +31956,42 @@ DESCRIPTION:Le Casino Barrière de Toulouse propose plusieurs formules pour
  u-casino-barriere/
 URL:https://www.toulouse-tourisme.com/agenda/nouvel-an-au-casino-barriere/?
  utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:02838cbf-1851-4757-9aa3-b3c26cd0022b@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Flashback Party
+DESCRIPTION:Le Mama Shelter de Toulouse organise une soirée de réveillon 
+ sur le thème de la Flashback Party\, avec des hits musicaux des années 6
+ 0 à aujourd'hui. Plusieurs menus festifs sont proposés\, dont une option
+  végétarienne\, et une coupe de champagne est offerte à minuit pour tri
+ nquer à la nouvelle année. Des cocktails sans alcool sont prévus pour l
+ es enfants\, rendant l'événement accessible à toute la famille. La rés
+ ervation est obligatoire pour le dîner\, mais pas pour profiter du bar. U
+ n brunch gargan\n\nSource\: https://www.toulouse-tourisme.com/agenda/revei
+ llon-du-nouvel-an-au-mama-shelter/
+URL:https://www.toulouse-tourisme.com/agenda/reveillon-du-nouvel-an-au-mama
+ -shelter/?utm_source=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:501b2b70-ded7-4e0b-89e5-4455adfd2223@news.lavillerose.com
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Nouvel An des Halles
+DESCRIPTION:Les Halles de la Cartoucherie accueillent un réveillon festif 
+ le 31 décembre 2026. Au programme : de grandes tablées conviviales\, des
+  animations pour les enfants et un dancefloor ouvert jusqu'à 3h du matin.
+  Les stands de restauration habituels des Halles seront au rendez-vous\, c
+ haque plat étant réglé directement sur place — pas de formule à prix
+  fixe imposée. L'événement s'adresse aussi bien aux familles qu'aux fê
+ tards souhaitant passer le passage à la nouvelle année dans un cadre de 
+ marché couv\n\nSource\: https://www.toulouse-tourisme.com/agenda/le-nouve
+ l-an-des-halles/
+LOCATION:Halles de la Cartoucherie accueillent un réveillon festi\, Toulou
+ se
+URL:https://www.toulouse-tourisme.com/agenda/le-nouvel-an-des-halles/?utm_s
+ ource=ical&utm_medium=calendar&utm_campaign=toulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:49093275-11e9-4319-be89-122ff6c00f57@news.lavillerose.com
@@ -39853,6 +39943,27 @@ LOCATION:Halle aux Grains le 27 juin 2027\, Toulouse
 URL:https://www.toulouse-tourisme.com/agenda/les-aventures-doctave-et-melo-
  le-chant-du-volcan/?utm_source=ical&utm_medium=calendar&utm_campaign=toulo
  use-agenda
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster:52d2de37-3366-4541-ad81-74a897e35b7a@news.lavillerose.com
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270704
+SUMMARY:Arts'Scénics 2027
+DESCRIPTION:Le festival Arts'Scénics\, qui se tient à la bastide de Lisle
+ -sur-Tarn à une trentaine de minutes de Toulouse\, annonce les premières
+  têtes d'affiche de sa 24ᵉ édition prévue les 2 et 3 juillet 2027. Au
+  programme : le groupe de rock Dionysos\, le rappeur Médine\, La Rue Két
+ anou et Ky-Mani Marley\, confirmant le mélange de genres (rock\, reggae\,
+  rap) caractéristique de l'événement. La billetterie est déjà ouverte
+ \, avec des tarifs avantageux pour les early birds — les pass à l'aveug
+ le s'étaient écoulés \n\nSource\: https://www.toulouscope.fr/2026/11/28
+ /ce-festival-a-30min-de-toulouse-annonce-les-premiers-noms-de-sa-programma
+ tion-dionysos-la-rue-ketanou-ky-mani-marley-13674027.php
+LOCATION:bastide de Lisle-sur-Tarn\, Toulouse
+URL:https://www.toulouscope.fr/2026/11/28/ce-festival-a-30min-de-toulouse-a
+ nnonce-les-premiers-noms-de-sa-programmation-dionysos-la-rue-ketanou-ky-ma
+ ni-marley-13674027.php?utm_source=ical&utm_medium=calendar&utm_campaign=to
+ ulouse-agenda
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster:0c2b10f8-2c02-41ce-8490-086542181770@news.lavillerose.com
